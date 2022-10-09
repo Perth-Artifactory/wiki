@@ -1,0 +1,118 @@
+---
+title: "agm_minutes_2017.09.30"
+---
+-   Open: 11:33
+-   1\. Present (and verified as financial members by Stuart):
+
+```{=html}
+<!-- -->
+```
+        * Steve Hodges 
+        * Tim Gilchrist
+        * Nick Bannon, 
+        * Stuart McDonald, 
+        * Blake Samuels, 
+        * Mel McCarthy, 
+        * Hugh Frazer, 
+        * Lawrence (Lemming) Dixon, 
+        * James Sim
+        * Tanner Perham
+        * Jean-Michel Maujean (via skype) 
+        * Physical attendance exceeds quorum requirements
+
+-   2\. Attendance and Apologies, Proxies received
+
+```{=html}
+<!-- -->
+```
+         * Jason Kongchouy
+         * Glenn Martin
+         * Russell Clark
+
+-   3\. Presentation and Approval of the Annual report of the Management Committee
+
+![](/committee/annual_report_20162017.pdf)
+
+         * Emailed out by Stuart
+         * Accepted
+
+-   4\. Presentation and Approval of Financial reports
+
+![](/committee/annual_report_20162017.pdf)
+
+         * Accepted
+
+-   5\. Presentation and Approval of the membership fees and schedules
+
+```{=html}
+<!-- -->
+```
+         * Stu moved that rates remain the same for now
+         * Steve Hodges seconded
+         * unanimous
+
+     * 6. Election of a new management committee.
+       * Nominations (Excluding those withdrawn). There were 13 nominations so it was taken to a vote 
+       * Russell Clark 
+          * Nominated by Stuart McDonald, 
+          * Seconded by Nick Nick Bannon     
+      * James Sim  
+          * Nominated by Tim Gilchrist, 
+          * Seconded by Lawrence (Lemming) Dixon,  
+          * Elected by vote   
+      * Tim Gilchrist 
+          * Nominated by Lawrence (Lemming) Dixon
+          * Seconded by Stuart McDonald
+          * Elected by vote   
+      * Stuart McDonald 
+          * Nominated by Lawrence (Lemming) Dixon
+          * Seconded by Tim Gilchrist,
+          * Elected by Vote    
+      * Tanner Perham 
+          * Nominated by Hugh Frazer
+          * Seconded by Lawrence (Lemming) Dixon
+          * Elected by Vote
+      * Hugh Frazer
+          * Nominated by Lawrence (Lemming) Dixon
+          * Seconded by Tanner Perham   
+          * Elected by Vote
+      * Nick Bannon 
+          * Nominated by Jean Michel
+          * Seconded by Glen Martin  
+      * Blake Samuels
+          * Nominated by Stuart McDonald
+          * Seconded by Lawrence (Lemming) Dixon
+          * Elected by Vote 
+      * Mel McCarthy, 
+          * Nominated by Steve Hodges
+          * Seconded by Tim Gilchrist,       
+          * Elected by Vote
+      * Steve Hodges 
+          * Nominated by Stuart McDonald
+          * Seconded by Lawrence (Lemming) Dixon   
+          * Elected by Vote  
+      * Lawrence (Lemming) Dixon 
+          * Nominated bt Steve Hodges
+          * Seconded by Mel McCarthy     
+          * Elected by Vote
+      * Jason Kongchouy 
+          * Nominated by Lawrence (Lemming) Dixon
+          * James Sim   
+      * Jean-Michel Maujean  
+          * Nominated by Stuart McDonald
+          * Seconded by Lawrence (Lemming) Dixon      
+          * Elected by Vote  
+
+-   7\. Other business
+
+```{=html}
+<!-- -->
+```
+       * None
+
+-   8\. Close
+
+```{=html}
+<!-- -->
+```
+       * 12:35

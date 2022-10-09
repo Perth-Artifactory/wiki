@@ -1,0 +1,148 @@
+---
+title: "Committee Members"
+---
+#### Committee Members
+
+-   Chairperson: Daniel Harmsworth (DH)
+-   Vice Chair: SKoT McDonald (SM)
+-   Temporary Secretary: Brendan Ragan (BR)
+-   Treasurer: Jason Muirhead (JM)
+-   Infrastructure Czar: Anton Lord (AL)
+-   Nick Bannon (NB)
+
+##### Members
+
+-   Neil Francis (NF)
+-   Shay Telfer (ST)
+-   James Stuart (JS)
+-   Chris Bashall (CB)
+-   Caspian McLean (CML)
+-   Chris Hall (CH)
+-   Jenna Downing (JD)
+-   Brett Downing (BD)
+
+##### Proxies
+
+-   Peter Dreisiger (PD)
+
+#### Meeting Times
+
+-   Opened: 12:27
+-   Closed: 13:11
+
+#### Minutes
+
+1.  No minutes from the last AGM as they went missing :/
+    1.  Lack of minutes accepted informally
+2.  Annual Report
+    1.  Committee Report
+        1.  We are building
+        2.  Thanks to audiovault for much awesomeness
+    2.  On the Cusp of getting Public Building status
+        1.  Thanks to anton for getting this sorted
+    3.  Events
+        1.  Busy year
+        2.  Put on a Noizemaschin every month - mostly revenue positive
+            1.  Big thing is that we have a lot of experimental music artists in the space
+            2.  Published CDs and stuff
+            3.  This makes it easier to get art grants
+            4.  Sam Gillies is going to look at getting a department of the arts
+        3.  Put on 5-ish Raptures
+            1.  Mostly broke even
+            2.  Last one was enormous - \$2K
+            3.  Can't run at the moment due to public building etc.
+        4.  AudioVault helped build the stage
+        5.  Donation of lights (but are really power hungry)
+            1.  Will probably put LEDs in them
+        6.  Steampunks prop making sessions
+        7.  Cyperpunk prop making session
+        8.  AudioVault does friday sundowners with Backyard Project DJs
+            1.  Reaching out to perth music industry more
+        9.  Geek Haven - Women's focused hacking event
+        10. Arduino Nights need to be restarted properly
+            1.  Good in the first half of the year, but SM got busy
+            2.  have found Doug who wants to do stuff
+        11. Live Industrial Night
+        12. Simon Kirkby and SM are looking at setting up a proper lighting rig
+        13. People planning events should clear them with SM to ensure that things don't bump into each other
+            1.  SM can see the AV band calendar
+    4.  Infrastructure
+        1.  Epic amounts of infrastructure over the last 12 months
+            1.  AV has done a great job on their office and their band room
+            2.  Tools now in tool room
+            3.  Much more floor space
+            4.  New Stage
+            5.  3D / Design room
+        2.  Building now has a Electrical Compliance Certificate
+            1.  Final stage before getting the public building certificate
+3.  Finance Report
+    1.  Covers until 12th September 2012
+    2.  Income over 11 Months
+        1.  \~\$55k
+    3.  Expense over 11 months
+        1.  \~\$62k
+    4.  Various members have been funding the differences
+    5.  Total liabilities to our members is quite high.
+    6.  We need a seperate bond account established.
+    7.  Two members who are significantly into the future (PD and SM)
+    8.  Everyone else is either 3 months ahead or 3 months behind (which should be considered normal)
+    9.  The "Never Never" loans are currently \$8,570
+    10. Month of August
+        1.  Incoming: \$4281
+            1.  \$2700 in terms of individual subscriptions
+            2.  \$800 from AVE (\$400 more will become available April 2013)
+        2.  Outgoings: \$4659
+    11. Projections going forward
+    12. 20 Full members, 10 associate, 3 concession, 2 associate consession
+    13. Total of 38 financial members
+    14. Need to be bringing is \$5000 a month.
+    15. Costs are not anticipated to rise until August 2013 (new lease)
+    16. Once Monthly events return we should be liquid.
+4.  Presentation to Jason for Service above and beyond the call of Duty
+5.  Reports were accepted without Dissent
+6.  New Fee Structure
+    1.  Some discussion around discontinuing Associate Membership
+        1.  Not done due to the fact that Peter D Was going to take on membership officer
+    2.  Front office - including 3 memberships - \$800 / Month
+    3.  Middle office - \$400 / Moth
+    4.  Band Membership - \$12.50 a Session
+    5.  Friday Night Cultural Event for AV - \$100 a Night
+    6.  "Associated Entities" Event (subject to Artifactory approval) - \$150 a night
+7.  Passed Without Dissent
+8.  Motion to be moved: "That no auditor be appointed for the next financial year unless lotterywest or other grant giving an organization requests it". SM seconds.
+    1.  Passes without dissent
+9.  9 Nominations presented - No election required
+    1.  No objections.
+
+##### Additional Business
+
+1.  Welding classes for people that don't want to do an entire TAFE course
+    1.  "I know just enough to be dangerous" mooted as a name
+    2.  a TAFE trainer is interested and he's a very good welder.
+2.  More Storage
+    1.  Turning the "locker wall" into storage
+    2.  Get rectangular tubing to create vertical locker storage
+3.  Backyard area
+    1.  Chris wants to make the backyard look better
+    2.  Needs a paved area for the BBQ
+    3.  Anton looked at costs of stuff
+        1.  Boral operates a concrete plant - they often have some leftovers
+        2.  We pre-border the area and then fill up various sections
+    4.  Flame Scuplture
+    5.  Backyard projections
+    6.  Aquaponics
+    7.  Sketchup diagrams need to be updated.
+4.  Ellenbrook masters / Bunnings
+    1.  Sausage Sizzle
+
+##### New committee
+
+-   Chris Bashall
+-   Scott McDonald
+-   Jason Muirhead
+-   Anton Lord
+-   Brett Downing
+-   Jenna Downing
+-   Brendan Ragan
+-   Nick Bannon
+-   Daniel James Harmsworth

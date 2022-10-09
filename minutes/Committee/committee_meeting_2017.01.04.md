@@ -1,0 +1,301 @@
+---
+title: "Committee Meeting 2017.01.04"
+---
+# Committee Meeting 2017.01.04
+
+## Agenda
+
+1.  Usual business
+    1.  Acceptance of last meeting's minutes
+    2.  Correspondence
+    3.  Chairman's report
+    4.  Treasurer's report
+    5.  Other officer's reports
+    6.  Subcommittee reports
+    7.  Building Report
+    8.  Area Host reports
+    9.  Cornwall House
+2.  Update on the search for other premises
+3.  Other business
+4.  Review of Action Items
+
+## Minutes
+
+### Members Present
+
+-   Present: LEM, SH, StM, RC, JK, Nick
+-   Observing: DavidA
+-   Apologies: TG
+-   Absent: TP, HF, JMM
+
+### Meeting Times
+
+-   Opened: 2015
+-   Closed: 2210
+-   Next meeting: (1 Feb 2017 at 20:00)
+
+### Acceptance of minutes
+
+See: [committee_meeting_2016.12.07](/committee/committee_meeting_2016.12.07)
+
+| Status      | IS Accepted |
+|-------------|-------------|
+| Moved By    | JK          |
+| Seconded By | StM         |
+
+Passed without dissent
+
+### Correspondence
+
+email about a 1 day basic soldering/electronics course. LEM trying to organise something.
+
+Pat Zor wants to come in and use laser cutter
+
+City of fremantle grant \$300 (Stuart) for Pedroland - They(Pedroland) want us to act as a auspicing body. Basically Pedroland needs a Incorporated body community group to receive funds from City of Freo and ensure funds are spent within City of Freo's rules. STUART and RUSSEL to assist Pedroland
+
+Contacted by STEAMsub at the Maritime Museum for collaboration, emailed organiser for potential education programs
+
+### Chairman's report
+
+It's been quiet, but we have 4 or 5 new members.
+
+Discussion about possibly excessive use of the space by a single band.
+
+### Treasurer's Report
+
+|                         | 31/12/2016    | 30/11/2016    |
+|:-----------------------:|---------------|---------------|
+|       NAB Balance       | \$5990.77     | \$4410.73     |
+| Pending TidyHQ / eftpos | \$0           | \$171.72      |
+|         Balance         | **\$5990.77** | **\$4582.45** |
+
+\^
+
+| Quarantined Funds              |
+|--------------------------------|
+| Estimated Bond Value           |
+| For Insurance 17/18            |
+| Amount Owed on Sound Equipment |
+| DESIRED BALANCE                |
+
+\^
+
+|                                 | 31/12/2016 | 30/11/2016 |                   |
+|:-------------------------------:|------------|------------|-------------------|
+| Sound Equipment Funds Collected | \$2705     | \$2510     | Collected in Full |
+
+REFUND SKOT???
+
+| REVENUE                                                         | Last Month | 12 Month Average |
+|-----------------------------------------------------------------|------------|------------------|
+| Membership                                                      | \$4720     | \$4369           |
+| Space Cash (Events/Venue hire/drinks/tool fees/day users/other) | \$2078     | \$1192           |
+| Grants/Prizes/Donations/Fundraising                             | \$60       | \$121            |
+| TOTAL REVENUE                                                   | **\$6858** | **\$5682**       |
+
+\^
+
+| EXPENSES                                         |             |             |
+|--------------------------------------------------|-------------|:-----------:|
+| Lease+Estimated Variable Outgoings               | -\$4224     |   -\$4224   |
+| Electricity                                      | -\$409      |   -\$439    |
+| Insurance (12 month average)                     | -\$0        |   -\$158    |
+| Waste/Internet/Welding Supplies                  | -\$294      |   -\$310    |
+| Merchant Fees                                    | -\$0        |    -\$40    |
+| TidyHQ/Bank Charges                              | -\$63       |   -\$102    |
+| TOTAL EXPENSES (Excluding Equip/Fundraising Exp) | **-\$4989** | **-\$5273** |
+
+\^
+
+| Fundraising Expenses# | -\$310 | \$0    |
+|-----------------------|--------|--------|
+| Equipment Purchases\$ | -\$257 | -\$571 |
+
+\# \$310 Stall and Supanova,
+
+\$ Dust Hose \$234, aluminium tubing 4 trestle led light bars \$23
+
+Major Events/Other (Past Month)
+
+    *ADUG - ~$????????????????????????????????????
+    *Noizemaschin ~$430, 
+    *Mod Synth ~$247
+
+Money Due (04/01/16)
+
+    *Membership - ~$3975 -$1.8K on last months 
+    *Car park hire (1 weeks)- $400 
+    *Kitchenette Expenses - $80.50  
+    *ADUG Sept + Oct + Nov + Dec - $290+DEC,
+    *LEDs - $50
+
+#### Membership Report
+
+-   30 (+2) Full Members;
+-   14 (0) Concession Memberships;
+-   0 (0) Studio Memberships
+-   0 (0) Annual Sponsored Memberships
+-   1 (0) Studio Office Memberships (For 2 Members)
+-   5 (+1) Band Memberships
+-   1 (0) Band + Concession Memberships
+
+```{=html}
+<!-- -->
+```
+-   **Approve / Disapprove** Memberships for Cancellation for Non-Payment (+90 days due)
+    -   Ben Hollis
+
+MOVED: LEM SECONDED: SH Passed without dissent
+
+-   **Approve / Disapprove** of New Members since last meeting
+    -   CONCESSION -
+    -   FULL - Roland Adeney (& Dianna), Gary Usher, Neil Lindebringhs, Abhijeet Satani, Cristian Oyarzun, David Skilton
+    -   Band - Sunshine Punch
+
+MOVED: LEM SECONDED: JK Passed without dissent
+
+### Other officer's reports
+
+#### Promotions Officer - JK
+
+business cards \$42 (from wholesaler) flyers (1000 of each total \$190ish)
+
+MOVED JK that we purchase these SECONDED LEM passed without dissent
+
+see info on google drive
+
+Supernova Perth booked June
+
+Lots of ideas of things to take
+
+O day people are on holiday right now
+
+o-day ECU? 20 Feb
+
+mt lawley 23 Feb
+
+Curtin 20 Feb (ish)
+
+we are registered on creativespaces.com.au
+
+would like to use promotions@artifactory.com.au
+
+Has a poster and is putting it up around the place -- good response so far
+
+Look at meetup (\~\$20/month)
+
+grant requires 2 referals. we have one. Asking Raymond Shay???, and several others. JMM looking for something a WAPAA. LEM contacted CSIRO but they can't
+
+Annual report being prettied up.
+
+#### Fundraising JMM/StM
+
+nothing
+
+#### Event Coordinators Report
+
+      * NoizeM - SM, TG, JMM, Skot, Meg
+        * excellent
+      * Arduino U - TG, Hugh
+        * Nanos to sell???????????
+      * DIY Synth - Lem
+        * pretty good 
+      * open day - Steve
+        * next week
+      * ADUG - Nick & Richard Harrington
+        * not this month????????????
+      * Other Events
+
+### Subcommittee reports
+
+1.  Laser subcommittee
+    1.  dead big red
+        1.  not doors
+        2.  not chillers
+        3.  maybe psu. we have test resistor but psu is pretty new
+    2.  \$250 est for lens and mirrors + \$150ish for beam combiner (\$US + shipping)
+    3.  find out what is wrong with big red before shelling out for extras.
+    4.  see subcommittee minutes
+
+```{=html}
+<!-- -->
+```
+1.  IT SubComm
+    1.  some issues with the door (solar panel related?)???????????????
+    2.  doorbot pcb designed. asking for quotes.
+2.  Infrastructure
+    1.  laser power upgrade
+    2.  Martin redid outdoor power points
+    3.  more GPO's around laser cutters.
+3.  Events
+
+### Building Report
+
+### Area hosts Reports
+
+1.  Area hosts
+    1.  CAD Room - Russell
+    2.  Electronics Bench - Steve
+        1.  some more equipment
+    3.  Tool Room - Lemming
+        1.  more work done on organization
+        2.  Dan getting special blade for bandsaw (and it's his anyway)
+    4.  Welding - Lemming
+        1.  going fine. a bit finiky to set up
+    5.  new tables in stage area
+        1.  can be flipped onto large desk.
+    6.  Band Room - Tanner
+    7.  Stage - JMM
+
+### Update on the search for other premises
+
+    CDM will not be with us into the new year.
+    Can't sustain burgay ct without Dan.
+    Lem will try to arrange a deal involving us finding another tenant
+
+### Other Business
+
+Reimbursements
+
+1.  both LEM and Nick have new angle grinders!
+2.  we don't have money to set up a recurring budget
+3.  laser cutter air fittings
+
+```{=html}
+<!-- -->
+```
+    - 
+
+Membership
+
+1.  We need about 15 members to cover the loss of Dan
+
+MOVED LEM: LEM be reimbursed for angle grinder SECONDED: Stuart PASSED
+
+### ACTION items
+
+ACTION: Nick to decide what is needed for laser cutters and to get prices for next meeting.
+
+ACTION: LEM to publish grant wish list on list to solicit donations by next wine & design
+
+ACTION: RC to find out about potential lathe
+
+ACTION: JK to order business cards and flyers
+
+#### Resolved
+
+#### New (arising from this meeting)
+
+#### Ongoing
+
+ACTION (SH) To bring in old cordless drill
+
+ACTION (TP) to do audit of band room equipment
+
+ACTION (HF) to investigate arduino parts and stuff for courses & syllabus
+
+ACTION (Subcommittees) to ask for people interested in subcommittees
+
+ACTION (TG) - Manipulation of the history of core mailing list. (not yet done) Can someone else do it?
+
+ACTION (JMM) - First aid kit status (catalog and advise)

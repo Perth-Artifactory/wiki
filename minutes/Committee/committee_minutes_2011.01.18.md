@@ -1,0 +1,45 @@
+---
+title: "Committee Meeting 2011.01.18"
+---
+# Committee Meeting 2011.01.18
+
+**Members Present (Inquorate)**
+
+-   Peter Dreisiger
+-   Daniel Harmsworth
+
+**Meeting Times**
+
+-   Opened: 20:10
+-   Closed: 20:20
+-   Next meeting: 1st February.
+
+**Action Items**
+
+-   PD to email core to think about nights / etc for the new space
+-   BR to harass people about wireless internets etc.
+-   <s>PD to Get meta workshop info up and running</s> Done
+-   <s>SM to get details of all other committee details to andrew etc.</s> Done
+
+**Minutes**
+
+1.  Finalise agenda for this meeting
+2.  Minutes of previous meeting
+    1.  Not accepted due to lack of quorum
+3.  Correspondence
+    1.  None
+4.  Property report
+    1.  Minutes of second co-tentants meeting available [here](/committee/co-tenants_meeting_2011.01.18)
+    2.  Lease has finally been signed; copy to be provided by Andrew Wheatly soon
+5.  Office-holder Reports
+    1.  Treasurer's Report
+        1.  \~\$9400 in bank, including \$4000 in bond recently returned from Burt St
+        2.  Currently owed \$2575 by 13 members, three of which owe more than the \$300 key deposit, eight of which owe two or more months
+        3.  No new members, one member's key deposit returned
+        4.  PD to send out account summaries to membership
+        5.  Billing details for rent, etc. yet to be received from realo
+    2.  New committee positions
+        1.  Shay Telfer has volunteer to be memberships' manager; PD to send email to -core to ask for confirmation
+6.  General business
+    1.  DH raised OH&S points: we should get a business-grade first-aid kit (at \$220 from St Johns) and put together a register of people qualified to administer first aid
+    2.  PD sent out email about meta-workshop; current have 7 attending, 13 maybes

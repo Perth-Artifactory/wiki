@@ -1,0 +1,199 @@
+---
+title: "Committee Meeting 2016.06.11"
+---
+## Committee Meeting 2016.06.11
+
+## Agenda
+
+### Previous Action Items
+
+#### Previous action items carried over
+
+-   ACTION: SKoT to get prospectus to StuartM for ACNC/Cultural org. registration \*\* Ongoing \*\*
+-   ACTION: SKOT to post out post out process for reporting dangerous things \*\* Not Done \*\*
+-   ACTION: SKotM to form subcommittee to work up a draft for next meeting for dangerous or stupid activities/removing people from the space. \*\* Not Done ** \* ACTION: SKotM to post to list about resin, paints etc on workbenches, and the importance of using drop sheets.** Not Done \*\*
+-   ACTION: MitckK to investigate officeworks printing of (RFID?) membership cards. SKoTM to take on. \*\* Not Done \*\*
+-   ACTION: StuartM - Form Subcommittee with Dave to Come with a plan to remove lockers and replaced with tubs Not done StuartM to take on solo. **Ongoing**
+-   ACTION: SKoT to contact RGL \* We can apply for a Permanent Liquor License as “Restricted Club” \~ \$400. RGL may be have veto over our constitution, SKoT to contact RGL and determine exact requirements SkotM: We should secure lease/talk to Landlord **Ongoing**
+-   ACTION: SKotTM\* Door 1.5 has a solar panel, but it may not be secured. We should investigate the state of the roof prior to wind and rain. \*\* Done \*\*
+
+#### Action items resulting from Last meeting
+
+-   ACTION: Check bearing on little red's extraction fan. \*\* Ongoing \*\*
+-   ACTION: Interlocks etc continues. \*\* Ongoing \*\*
+-   DaveO reports non approved plastics Action: Do-not-cut Sign above laser cutters
+-   DaveO refer to IT subcommitte for technical solution to pinging members before their membership expires \*\* Not Done \*\*
+-   ACTION: SKoT to call for Security subcommttee meeting \*\* Not Done \*\*
+-   ACTION: NickB to update wiki with List of subcommittes and mailing lists. \*\* Not Done \*\*
+-   ACTION: NickB to add Lemming to -ctte groups \*\* Done \*\*
+-   ACTION: SteveH to add his LSO status to the wiki page \*\* Not Done \*\*
+
+### Additional Agenda Items
+
+-   Approve Skot's purchase of a new Vacuum Cleaner \~\$90 \*\* Moved JMM, Seconded NickB Approved \*\*
+-   Sustainability program/subcommittee - RClarke says "I think getting one off the ground is good idea. I am part of the sustainability program at my workplace, I've done training and have knowledge to bring. Sustainability programs has data gathering, analysis and implementation we can will build things and make change. Final outcome costs for energy, waste, water will be reduced. " \*\* Deferred until Russell is available \*\*
+
+## Minutes
+
+### Members Present
+
+-   Present: J-M, Tim, Steve, Stuart, Nick
+-   Apologies: MegT SKoTM, Lemming
+-   Absent: David, Rich, Andrew
+-   Observing: Mitch, Justin
+
+### Meeting Times
+
+-   Opened: 11:45AM
+-   Closed: 1:00PM
+-   Next meeting: 9th July, 11:00AM
+
+### Minutes of previous meeting
+
+| Status      | Accepted |
+|-------------|----------|
+| Moved By    | StuartM  |
+| Seconded By | NickB    |
+
+### Correspondence
+
+-   Cindi Drennan from Inlluminart visited the space. Very keen for us to work on Joondalup Kalidescope festival. 1 Week proposal, 2 week prototype. \~\$10000 funding may be available. Cindi possibly coming down again to Arduino U. Info Meeting on Wednesday. Lots of interest amongst those present.\*\* Action: Lemmming/Nick/JMM to attend info meeting. \*\*
+-   Taiko-on have lost their rehearsal location. StuartM would like to offer them use of the space for \$100 flat rate for 20 people, review proicing after trial. **Action: Stu to offer them this and next evening, with a post out to -core. Monitor any conflict with other users of the space.**
+
+### Property Report
+
+-   Don (Landlord) has given us a window in tool room (which he's given us) to facilitate extraction. Other options discussed - take ducting upwards. \*\* Action: MitchK to take to Infrastructure committee \*\*
+-   MitchK has left a generator in the space for running the pump in carpark. \*\* Action: MitchK to create and deploy a sign/instructions for use \*\*
+-   MitchK has donated \~\$100 of aluminium material for signage.
+-   Lighting upgrades: SteveH would like to help out/donate for lighting upgrades, specifically to benefit Modular Synth. MitchK has fluro battens to donate. \*\* Action: SteveH/MitchK/NickB to implement a solution \*\*
+
+### Officer Reports
+
+#### Chairperson's Report
+
+#### Treasurer's Report
+
+|                         | 31/05/2016    | 30/04/2016    |
+|:-----------------------:|---------------|---------------|
+|       NAB Balance       | \$6840.74     | \$6553.61     |
+| Pending TidyHQ / eftpos | \$719.17      | \$85.86       |
+|         Balance         | **\$7559.91** | **\$6639.47** |
+
+\^
+
+| Quarantined Funds    |
+|----------------------|
+| Estimated Bond Value |
+| For Insurance 17/18  |
+| Laser Tubes          |
+| Sound Equipment      |
+| DESIRED BALANCE      |
+
+| REVENUE                                                         | Last Month | 6 Month Average |
+|-----------------------------------------------------------------|------------|-----------------|
+| Membership                                                      | \$4715     | \$4722          |
+| Space Cash (Events/Venue hire/drinks/tool fees/day users/other) | \$1163     | \$801           |
+| Grants/Prizes                                                   | \$0        | \$200           |
+| TOTAL REVENUE                                                   | **\$5878** | **\$5724**      |
+
+\^
+
+| EXPENSES                               |             |             |
+|----------------------------------------|-------------|:-----------:|
+| Lease (Paid due date for coming month) | -\$3993     |   -\$3993   |
+| Electricity                            | -\$321      |   -\$480    |
+| Waste/Internet/Welding Supplies        | -\$175      |   -\$293    |
+| Insurance (12 month average)           | -\$0        |   -\$158    |
+| TidyHQ/Bank Charges                    | -\$113      |   -\$106    |
+| Merchant Fees                          | -\$40       |    -\$40    |
+| TOTAL EXPENSES (Excluding Equipment)   | **-\$4641** | **-\$5069** |
+
+\^
+
+| Equipment Purchases\* | \- \$666 | \- \$459 |
+|-----------------------|----------|----------|
+
+\*Bandsaw \$529.50, Vices \$96.84, Arduino Bar Bits \$40
+
+Major Events/Other (Past Month)
+
+    *Noizemaschin ~$350, 
+    *Curtin HPV - $500
+    *DIY Synth ~$315
+
+Money Due (06/06)
+
+    *Membership - ~$3500 (steady on last month)
+    *ADUG - $141 (April) $118 (May)
+    *Bond - $225
+
+    *Swancon 2017/18 - $1200 - Paid 01/06
+
+Treasurer Cancelled Membership - Alex Hill - 3 months due. No response.
+
+#### Membership Officer Report
+
+-   MEMBERSHIP (06/06)
+    -   Approval of New Members - Conc = Pierre Roy, Full = Ryan Cooper, Jasbir Khosa \*\* Moved JMM Seconded SteveH. All approved without dissent.\*\*
+
+```{=html}
+<!-- -->
+```
+-   1 (0) Full Members with Tool Usage,
+-   37 (+2) Full Members;
+-   16 (0) Concession Memberships;
+-   0 (-1) Studio Memberships
+-   1 Annual Sponsored Memberships
+-   1 Studio Office Memberships (For 2 Members)
+-   5 (-1) Band Memberships
+
+#### Events Officer Report
+
+-   Previous
+    -   Open Day - fairly quiet, \~10 new faces.
+    -   Noizemaschin \~30 punters, \$350 net.
+-   Upcoming
+    -   NM
+    -   FlatPack
+    -   Regular events - Wine & Design, Arduino U, General hacking day, Modular Synth
+
+\*\* Action: TimG to create FB events. \*\*
+
+### Sub-Committee Reports
+
+**Laser Subcommittee** \*\* Action: MitchK to insert report here \*\*
+
+\*\* IT Subcommittee \*\* \* Proposal to spend \$110 for new Ubiquiti edge router/X \* Proposal to spend \$109 on new hard drive for security camera \* NickB Moves to spend up to \$220. SteveH Second. **Approved without dissent.** **Action: NickB to insert report**
+
+**Infrastructure Subcommittee**
+
+-   Budget request for Trestle tables and more chairs \$250. Moved StuartM Second TimG. **Approved without dissent**
+
+\*\* Action: StuartM to insert report\*\*
+
+**Security Subcommittee**
+
+Yet to meet.
+
+### Agenda Items
+
+### General Business
+
+-   Friction between ADUG and noisy use. Discussion continued into informing members.
+
+\*\*Action: TimG to post reminder to list that regular bookings are on calendar. \*\* **Action: SteveH to make sign reminding users about regular events directing them to calendar.**
+
+### ACTION Items Resulting
+
+-   Action: Lemmming/NickB/JMM/MitchK to attend Joondalup Kalidescope festival information session
+-   Action: Stu to offer them this and next evening, with a post out to -core. Monitor any conflict with other users of the space
+-   Action: MitchK to take window installation plans/options to Infrastructure committee
+-   Action: SteveH/MitchK/NickB to implement a lighting solution \*\*
+-   Action: MitchK to create and deploy a sign/instructions for use of loaned generator with carpark pump
+-   Action: TimG to create FB events for next month.
+-   Action: NickB/MitchK to arrange IT Purchases
+-   Action: MitchK to insert laser subcommittee report
+-   Action NickB to insert IT subcommittee report
+-   Action: StuartM to insert Infrastructure subcommttee report
+-   Action: TimG to post reminder to list that regular event bookings are on calendar.
+-   Action: SteveH to make sign reminding users about regular events directing them to calendar.

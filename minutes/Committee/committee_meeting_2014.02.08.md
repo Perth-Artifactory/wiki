@@ -1,0 +1,154 @@
+---
+title: "committee_meeting_2014.02.08"
+---
+-   Meeting open: 13:12
+
+```{=html}
+<!-- -->
+```
+-   Present: Daniel H (acting chair), Nick B (secretary), Tim G, Chris H, Mitch K, SKoT M, Jason M (treasurer), Brendan R, David O'M, Warren C
+-   Apologies: Anton L, Jenna D (chair, jumping off mountains)
+-   Absent:
+
+```{=html}
+<!-- -->
+```
+-   Reports
+-   Acceptance, Previous minutes: Nick propose, Tim seconds: Passed
+
+```{=html}
+<!-- -->
+```
+-   Correspondance:
+    -   SM: Stirling determination -\> Planning Committee meeting Tueday, every level thereof, then to be forwarded to full Council
+    -   JM: poking unpaid members
+    -   NB: Lexi Hemsley asked me for some Artifactory flyers for Genghiscon 2014 swag bag, NB made some, then went in
+
+```{=html}
+<!-- -->
+```
+-   Treasurer:
+    -   Some members have not/will not be renewing
+    -   35 full, 3 concession currently
+    -   May reach as low as 30 after renewals chasing
+    -   \$4084 expenses
+    -   \$4010 income, including \$1200 Audiovault
+    -   Net profit -\$90
+    -   Concerning.
+    -   DO'M: Capacity of space? A: Plenty. Nobody's left because it's too crowded, more the merrier
+    -   Insurance is due: \~\$1500
+    -   Balance: \$359.64, paid February's rent
+    -   Some have not made a payment since October
+
+```{=html}
+<!-- -->
+```
+-   Infrastructure report by email
+
+```{=html}
+<!-- -->
+```
+    Subject: Potential Apologies
+    Date: Thu, 06 Feb 2014 10:04:36 +0800
+    To: artifactory-committee at googlegroups.com
+
+      * Lathe belts ordered, somewhere in the mail
+      * Timer floodlight: 100w LED flood, the construction of a small box with an automatic timer and manual / bypass switch for about $220 total - need is approval from the do-ocracy
+        * Can't give appproval for expenses right now
+      * Extinguishers
+        * use water spray for laser small fires
+        * about $80/h + parts by Global Electrotech - guesstimate at ~$200 to bring our extinguishers to code. Recommend buying some small units for specific machines (lasers) from Bunnings at ~$40/ea as the big ones are $300-400 to buy new - ouch! Again, if someone agrees, will book Global, buy some extinguishers and erect signage
+      * No free cardboard recycling bins handily available yet
+      * ACTION: DH email Anton about toolroom
+      * JM recommends: Service big extinguishers
+        * ACTION: MK: 6 services for $85 at office from Westside Fire Services, will email invoice
+
+-   Events
+    -   SM: NM happpened, next one coming Feb 25th
+        -   No other big events currently planned
+
+```{=html}
+<!-- -->
+```
+-   Previous ACTION items
+    -   SM: no free cardboard bins
+-   ACTION: Jason: NAB form, new signatories?
+-   ACTION: Anton: order Lathe Belt
+-   ACTION: Brett: order control board for the mill
+-   ACTION: Anton: LED Floodlight for carpark
+-   ACTION: SKoT: Chase our Stirling City guy
+-   ACTION: SKoT: Recycling Bins from Stirling City?
+-   ACTION: Jenna: New T-shirt order (Garry's contact?), Jenna putting up some designs on Red Bubble.
+-   ACTION: Anton/Nick: New fridge, ?Scope-Like? \$1000 @ Bills Machinery
+    -   ACTION: MK might have spare bar fridge
+    -   ACTION: NB basic foam seals
+-   ACTION: Anton: organize extinguishers vetting
+-   ACTION: Tim: Parking ticket manufacturing
+-   ACTION: SKoT: AREA WARDEN posters
+-   ACTION: SKoT: Funding Efforts, get graphics to Elena, to do
+
+```{=html}
+<!-- -->
+```
+-   General business
+
+```{=html}
+<!-- -->
+```
+     * SM: away next week
+     * ACTION: NB: from MK, DO'M: link up WAFreenet
+
+     * Fundraising:
+       * DO'M: Promotion/Marketing at Markets, sell lasercut kits, encourage DIY
+         * Birdcage, marble machine
+         * Need materials - 3mm MDF, Angus?
+         * Yes! Will get help
+       * Event: DM
+         * DH spoke to Adam: Run advance welding class
+           * Pan brake requried
+           * Adam & DH can bring welders
+       * Approach media
+         * TV spot?
+         * Would need followup Open Days
+         * Warren: will update prospectus and see if we can get a story done
+         * BR: Nick Evans: Need 3 things:
+           * e.g. Steam Ostritch, Zepplin, and....? flying shark?
+           * fly winches
+           * human interest vs specific story
+             * props for festivals? specific story
+             * free sign for a group that needs it, Rotary? Remida?
+       * Contributors to Wordpress, Wiki -> SM, JohnP, TimG want instructions on wiki
+       * DO'M been updating wiki
+
+-   Signs coming along
+
+```{=html}
+<!-- -->
+```
+-   BrendanR: Can we lasertrain on demand? Mondays?
+    -   Need roster. Yes!
+        -   One complete successful cut without intervention on new day, Trainee to Operator
+        -   Operator to Trainer: consensus of current trainers
+        -   Wed/Sat better for DH currently
+        -   2 Mondays/month, two trainers
+        -   More drainpipe/hose, put fans outside or through toolroom wall
+        -   ACTION: NB, MK Relocate fans
+    -   Print a kit: \$10 membership, \$10 materials
+    -   ODay: Engineering, design students
+        -   Take product samples
+        -   ODay run
+            -   ACTION: NB: Is UCC interested? Special night just for you
+            -   Boardgamers! Print your own board, pieces, Dice tower, board stencils
+
+```{=html}
+<!-- -->
+```
+-   New toolroom: specific grant wanted, should be quicker
+    -   Need report on current grant
+    -   ACTION: DO'M send them a care package
+
+```{=html}
+<!-- -->
+```
+-   Next meeting: Sat 8th March 2014, 4 weeks
+-   Meeting closed: 14:10

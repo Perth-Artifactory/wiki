@@ -1,0 +1,540 @@
+---
+title: "Committee Meeting 2018.11.24"
+---
+# Committee Meeting 2018.11.24
+
+## Agenda
+
+1.  Review Previous Meeting's Minutes
+2.  Review Previous Meeting's Action Items
+3.  Correspondence
+4.  Property Report
+5.  Chairman's Report
+6.  Treasurer's Report
+7.  Expenses For Approval
+8.  Membership Report
+9.  Rehearsal Room Report
+10. Officer Reports
+11. Event/Workshop Coordinator Reports
+12. Subcommittee Reports
+13. Other Business (add one-off agenda items here)
+    1.  Member rack rules
+    2.  Policy review
+    3.  Door timer
+    4.  Tidyspace policy replacement
+    5.  Front door key distribution
+    6.  Coles/Woolworths account
+    7.  Policy compliance
+    8.  Shirt purchase
+    9.  G Suite transition
+    10. New Years event
+    11. New By-Law - How Money Donations are dealt with
+    12. Classification of Membership Changes
+    13. Lockers / Tubs
+    14. Swarf-o-mat usage fees
+    15. Usage/purchase of little blue
+    16. *Can add items up to 48 hours before committee meeting*
+
+## Minutes
+
+### Members Present
+
+-   Present: Lemming, Steve, Hugh, Iain, Mel, Fletcher, Stuart, Blake
+-   Apologies: None
+-   Absent: Felicity, Scott
+-   Minute taker: Blake
+-   Chair: Iain
+
+### Meeting Times
+
+-   Opened: 15:09
+-   Closed: 16:39
+-   Next meeting: 3pm 22 Dec 2018, 4 weeks
+
+### Review Previous Meeting's Minutes
+
+-   Ok
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Lemming  |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+-   Fletcher - Improve signage for safety equipment and power points
+    -   In progress
+-   Fletcher/Blake - Laser training checklist - agree on checklist and add as agenda item to next meeting for approval
+    -   In progress
+-   Fletcher - Artifactory induction checklist - to be emailed through to committee list for review
+    -   In progress
+-   Fletcher/Stuart - policy review - vote in at next committee meeting
+    -   On agenda for this meeting
+-   Fletcher - quartermaster - codify rules on members purchasing
+    -   Pricing under consideration. Had been closed out for this objective.
+-   Felicity - Refresh first aid kit, contact St John for sponsorship/assistance (first aid kit stock discount and first aid certification discount), check insurance details with Stuart as related to first aid kits
+    -   To follow up with Felicity
+-   Felicity - Please add your address in tidy HQ
+    -   In progress
+-   Lemming - Update Materials and artefacts policy
+    -   Discussed over email - to be approved this meeting
+
+### Correspondence
+
+-   Lemming
+    -   Questions on how to do projects - including wind surfer guy
+    -   Facebook questions
+    -   Tooling changes questions
+    -   Downsizing upholstery foam - for donation - waiting for photos
+    -   Scroll saw donation question - don't need another
+    -   Bunnings flood lights - not very useful
+    -   Hydraulic press
+
+### Property Report
+
+-   Door replaced by Maksim, Trim and lock replacement todo
+    -   New keys distributed
+    -   Patching up by Max to be done
+    -   Satisfactory condition
+
+### Chairperson's Report
+
+-   STEAM carnival show is soon! 8 Dec
+    -   Stall holder meeting - to align store holders
+    -   Claude interested - discussed
+
+### Treasurer's Report
+
+-   Money in bank account has increased
+-   Made money in October
+-   Annual fee to tidy HQ was due \~\$400
+
+|                                     | 31/10/2018     | 30/09/2018     |
+|-------------------------------------|----------------|----------------|
+| NAB Balance                         | \$6100.2       | \$6010.93      |
+| NAB Donation Account                | \$69.09        | \$69.09        |
+| Pending Transfer from TidyHQ/EFTPOS | \$214.65       | \$287.84       |
+| Guthire St Bond                     | \$6000         | \$6000         |
+| **Balance**                         | **\$12383.94** | **\$12367.86** |
+|                                     |                |                |
+| **Quarantined Funds**               | 31/10/2018     | 30/09/2018     |
+| Estimated RFID Key Bond Value       | \$9620         | \$9635         |
+| For Insurance 19/20                 | \$1582         | \$1356         |
+| **DESIRED BALANCE**                 | **\$11202**    | **\$10991**    |
+
+| REVENUE (Excludes Bond)                            | Last month  | 12 month average |
+|----------------------------------------------------|-------------|------------------|
+| Membership Income                                  | \$3,925     | \$3,437          |
+| SpaceCash (drinks/events/venue hirer/casual)       | \$2,986     | \$1,769          |
+| Fund Raising                                       | \$0         | \$124            |
+| Donations                                          | \$0         | \$44             |
+| **TOTAL INCOME**                                   | **\$6,911** | **\$5,375**      |
+|                                                    |             |                  |
+| EXPENSES                                           | October     | 12 month average |
+| Lease Paid for next month                          | \$4,224     | \$4,275          |
+| Electricity (bi monthly)                           | \$668       | \$313            |
+| Insurance (12mnth avg \$2716/12)                   | \$0         | \$226            |
+| Waste/Internet/BOC Gases                           | \$110       | \$206            |
+| Merchant Fees                                      | \$0         | \$38             |
+| Stripe/TidyHQ Fees/Adminsitration Fees             | \$603       | \$131            |
+| Event Expenses                                     |             | \$9              |
+| Fundraising Expenses (Inc Fudraising Fridge)       | \$449       | \$384            |
+| **Total (Prior to Equipment/Infrastructure Exp.)** | **\$6,054** | **\$5,326**      |
+| +/- Prior to Equipment/Infrastucture Expenses      | \$856       | \$49             |
+|                                                    |             |                  |
+|                                                    | Last Month  | 12 month average |
+| Equipment/Infrastructure Expenses (Below)          | \$50        | \$169            |
+| +/- After Equipment/Infrastructure Expenses        | \$806       | -\$121           |
+
+### Expenses for Approval
+
+-   Little Blue
+    -   Iain paid \$100
+    -   Motion to buy for \$100: Lemming, Second: Fletcher, voted approved
+-   Mel - Cannington stall extras
+    -   laser cut wood
+    -   \$90 went into wood for robot
+    -   Motion \$100 extra Stuart, Blake Second, voted approved
+-   Shirts - buy shirts at their cost prices \~25
+    -   Motion to buy existing Fletcher, second Lemming, vote approve
+
+### Membership Report
+
+#### Current Status
+
+Membership as at 2018-11-23:
+
+-   40 (+4) Full Members (Monthly+Annual)
+-   26 (-3) Concession Memberships (Monthly+Annual)
+-   2 (0) Band Memberships
+-   2 (0) Associate Memberships
+
+Membership as at 2018-10-24
+
+-   36 (+2) Full Members (Monthly+Annual)
+-   29 (+4) Concession Memberships (Monthly+Annual)
+-   2 (0) Band Memberships
+-   2 (0) Associate Memberships
+
+#### Cancelled Non-Payment
+
+#### New memberships for approval
+
+-   CONCESSION - none
+-   FULL - Lauren Amos, Gavin Bushnell, Ryan Coleman, Justin Finuliar, Alexey Korolev, Julian Princehorn
+-   BAND - none
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Lemming  |
+| Status      | Accepted |
+
+-   Members can sign up for a month but don't publicise. Let Stuart know.
+
+### Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+-   IT Officer (Lemming on Scott behalf)
+    -   New server commissioning work
+        -   Virtual machines
+        -   Redundancy
+        -   More cameras - improve coverage
+        -   Media dump in the space
+        -   Member storage - filer remotely
+        -   We have a server
+            -   Not fit for purpose
+        -   Donation of R710's incoming - use one, try and sell others
+-   Event Officers (none)
+
+```{=html}
+<!-- -->
+```
+      * 
+    * Rehearsal Room Coordinators (Lemming on Tanner's behalf)
+      * Issue with trolley
+    * Quartermasters (Fletcher)
+      * Bar going ok
+    * Safety Auditors
+      * None
+    * Membership Officers (Fletcher)
+      * Ticking over
+
+### Event/Workshop Coordinator Reports
+
+-   ADUG - (Coordinators - Richard Harrington, Scott Hollows**\#**)
+    -   STU-6 persons for November plus donation of \$40. Back in 2019 Jan-Nov.
+    -   Noise complaints - their group is being somewhat unrealistic with how quiet space should be
+-   Arduino U - (Coordinators - Hugh, Doug)
+    -   Going well
+    -   Remove boxing day's one
+-   ARTIfrag (Coordinator - Lemming)
+    -   Feb for next one
+-   Board Games Night (Coordinator - Iain)
+    -   None
+    -   Ran VR night instead
+    -   Next boardgames 1 Dec
+-   VR Evening
+    -   15-20 people. great event
+    -   Next 15 Dec
+-   Cosplay - (Coordinator - James, Lemming)
+    -   None
+-   DIY Synth - (Coordinator Nathan Thompson, Andrew nonlinearcircuits**\#**)
+    -   STU-46 persons - 42non-members
+    -   Very popular!
+    -   Getting bigger
+    -   Andrew's modules are very sought after
+-   General Hacking Day - (Coordinator - none, it runs itself)
+    -   The one today has been quite
+-   Leathercraft Workshops - (Coordinator - Andrew L aka Western Leathercraft)
+    -   STU - 1 workshop - 3 people.
+    -   Andrew has booked lots of dates up until middle of next year.
+-   MicroPython Hardware Hackers - Perth Django and Python Developers (Coordinators -Phil Wilkinson#)
+    -   STU-Turned up again at last Arduino U after several fortnights of not.
+    -   Coming adhoc
+-   Mostly Modular Synth - (Coordinators - Hugh, Jon)
+    -   None
+-   Noizemaschin!! - (Coordinators Stuart, Tim, Jean-Michel, Skot, Justin B)
+    -   STU-went well I understand but I wasn't present. "Noizemaschin crew advised to put Audio equipment neatly against band wall when not in use."
+    -   This Tuesday
+-   Open Day - (Coordinator - )
+    -   A few people last open day but was quiet
+-   Open Source Hackers (Coordinators - Stephen Price**\#**)
+    -   Going well
+-   PikPI Cosplay Workshops (Coordinators - Hayleye**\#**)
+    -   None
+-   Wine & Design - (Coordinator - none, it runs itself)
+    -   Added an extra event for 26th
+-   Workshop Wednesday (Coordinator - Fletcher)
+    -   Many people have been turning up. Ticking along
+    -   Fletcher claimed one of the draws
+-   Events General
+    -   Must put stuff in general
+
+**\#** Denotes run by non-members
+
+### Sub-Committee Reports
+
+-   Laser Subcommittee
+    -   Fletcher
+        -   Big red
+            -   Going well
+        -   Little red
+            -   Tube running out of life
+            -   Lemming to talk to Doug about getting end extension
+            -   To check if Little Red power supply can
+        -   Kellogg
+            -   Chiller question
+            -   Got software talking to Kellogg
+            -   Blake - get DXF files cutting with Kellogg software
+        -   "Electric Blue" (Baby Blue, Little Blue)
+            -   How does it fit in to our laser cutters
+            -   Events only. Maybe open days too.
+            -   Store in office
+-   IT Subcommittee
+    -   Discussed ealier
+
+### Other Business
+
+Note: "Other Business" must be listed in agenda (top of this page) 48 hours prior to meeting. Any details of an agenda item can be added here at any time.
+
+#### Member Rack Rules
+
+\* 0) Only current members are permitted to place material on the trolleys. \* 1) All material on the member storage trolleys must be CLEARLY marked with the owner's full name and the date the item was placed on the trolley. \* 2) The date may be updated if the owner partially uses the material and places it back on the trolley. \* 3) Material on the trolley must have a contiguous unused area at least an A3 in size and have skeletons removed. Anything smaller should be stored in locker. \* 4) The committee may audit the contents of the trolley at any time. \* 5) Anything on the trolleys that falls outside these specifications or has a date more than 6 moths old at the time of an audit becomes the property of the Artifactory.
+
+Lemming to post rules to list via TidyHQ on rules and google list.
+
+Proposed Motion: Adopt the Member Rack restrictions as written. \* Steve move \* Fletcher second \* Vote passed
+
+#### Policy Review
+
+The plan is to replace the Tidyspace policy with the following. "Area hosts" and the tag system have been removed.
+
+Areas:
+
+This is always subject to change, as the space evolves and mutates the list of areas will change.
+
+-   CNC Room: The back part of the toolroom, this is the area where the Artifactory keeps all of the robotic mechanical cutting tools, currently home to the Swarf-O-Mat CNC Router and MïllDřéd.
+-   Heavy Tool Room: The front part of the toolroom, this is where we keep the manual machine tools and handheld power tools.
+-   Laser Area: Where the Laser Cutters and tool wall lives
+-   Stage: The stage is at the front of the space and houses the Artifactory collection of A/V gear and interesting lighting. Also houses the space sound system.
+-   Electronics Bench: The electronics area has a bunch of work bays for hacking on most anything that facilitates the flow of electrons including Soldering Stations, Oscilloscopes and lab power supplies.
+-   CAD Room: The CAD room houses design workstations as well as our 3D printer and vinyl cutter.
+-   Member Storage Racks: The area in front of the band room for material sheet storage
+-   Social Area: The area with the couches. Try to be more social.
+-   Bar/Kitchen: The bar and the kitchen. Includes a full coffee machine, dishwasher, fridges, and washing machine.
+-   Car Park: The front bit outside, where the large bin is and where cars should go.
+-   Rear Courtyard: The rear bit outside, larger projects and spraying is permitted
+-   Welding Area: Next to the front roller door, but also includes the area directly inside the roller door.
+-   General Space: The big open bit in the middle of the space not covered by any of the previous areas.
+
+Leaving projects in the space:
+
+-   The Artifactory does not guarantee the safety of any personal projects.
+-   Projects may be left in the space for a few days so long as:
+    -   The project is on a single trestle table
+    -   The trestle table can be moved by two members without disturbing your project
+    -   A sign is left on the table that includes your name, contact details, and date of pickup
+    -   Your project will not be left in the space during events that require either the entire project area/general area or all of the trestle tables. It is your responsibility to check the calendar and confirm.
+-   While we will attempt to contact you if any of these conditions are not met there is risk that your project may be disposed of or end up on the hack-me bench.
+-   Anything that would violate the requirements set out above must be done in coordination with the Management Committee.
+
+Skip/Rubbish collection:
+
+-   When the skip bin is full, any member can call Instant Waste Management: 08 9379 2111
+-   Their office is open 0700-1700 Mon-Fri, 0700-1200 Sat
+-   Say you're from the 'Perth Artifactory'. They'll probably ask if it is a "skip is front loading with a lid" - Say "YES" and they may confirm address. 8 / 16 Guthrie St, Osborne Park.
+-   Place the sign "LEAVE GATE OPEN FOR SKIP EMPTY" on gate, which lives in the Artifactory foyer.
+-   Leave carpark gate wide open for the truck
+-   We are charged approximately \$60 an empty in 2018
+-   Bulk metal is heavy and valuable - expensive in the skip, potentially profitable (or at least picked up for free) outside it.
+
+\<del\> \* Post to the mailing list to make sure the gate stays that way and put up the skip sign (left next to the front door)\</del\>
+
+Proposed Motion: Replace the Tidyspace policy with the new space policy as written. \* Proposed: Fletcher \* Second: Iain \* Vote: approved
+
+#### Door Timer
+
+Discussion around usage of door timer. The clock-like thing near front door to indicate when space is open.
+
+Work in progress!
+
+#### Front door key distribution
+
+Fletcher: While the long term plan is to issue door keys to all committee members we should accelerate that for Mel and Scott since they're the closest to the space. Maybe me as well since if something goes wrong with doorbot I'll probably be the closest to fix it.
+
+<s>Proposed motion: Mel/Scott/Fletcher to be issued with physical front door keys. Organiser to be reimbursed \$X</s> Irrelevant due to new door installed
+
+STU: (if done by Saturday's meeting) Front door handle hardware has been replaced. Replacement Keys issued to Committee members who want it and recorded in TidyHQ as per by-laws.
+
+#### Coles/Woolworths account
+
+Fletcher: Both Coles and Woolies offer business accounts with delivery for bar/kitchen stocking. If we go with Coles we'd need to set up a debit card with a low limit for billing whereas woolies offer credit to accounts with our spending habits. (We're below the requirements for Coles credit). Either of these accounts would provide the following benefits: \* Multiple people can add things to an order as required \* Generates proper receipts that aren't printed on thermal paper \* Would allow us to more accurately track what's being purchased for the bar and identify popular products etc \* Less work for quartermasters
+
+STUART: Yes if it doesn't requires us to have a credit account and we can use our personal credit card
+
+Proposed motions: Authorise Fletcher/Stuart to create a Coles business account that does not require credit facilities and personal credit cards can be used for purchases that will be reimbursed as currently authorised by the rules.
+
+| Moved By    | Lemming           |
+|-------------|-------------------|
+| Seconded By | Iain              |
+| Status      | Accepted/Rejected |
+
+#### Policy compliance
+
+Followup discussion regarding several instances where policies and by-laws weren't or nearly weren't followed
+
+Raised by Mel:
+
+-   Lots of by-laws added
+-   A reminder to follow the rules we have spent time to put in place. Lead by example.
+-   Request to check your committee email once per day
+-   Blake - Check what constitution says on email votes
+
+#### Shirt purchase
+
+Fletcher: The giant robot shirts in the office currently belong to Stuart. They should be purchased by the Artifactory for sale. (STU "Thank you for adding to the agenda - I keep forgetting to put it on for like 4/5 months now")
+
+STU: Shirts cost \$20.24 x 3. Sell via TidyHQ for \$25
+
+| Moved By    | MOVER             |
+|-------------|-------------------|
+| Seconded By | SECONDER          |
+| Status      | Accepted/Rejected |
+
+Covered above
+
+#### G Suite transition
+
+Committee members will have received setup instructions for their Artifactory Google account.
+
+-   Stuart - Email routing questions - to Fletcher to fix
+-   Transition has happened. We have accounts.
+-   Still email routing issues to be sorted
+
+#### New By-Law
+
+\*\* Money Donations \*\*
+
+1.  Any money received by the Artifactory as a donation must go into the "Perth Artifactory - Donations" account.
+2.  Types of money donations maybe "General Donations", "Sponsoring a Member Donation", "Event/Workshop Support Donation", "Specified Equipment/Venue enhancements"
+3.  If the donor wishes to be remain anonymous, it shall be recorded in TidyHQ and the Secretary informed.
+
+General Donations (not specified)
+
+-   Shall only be used for the Equipment/Venue Enhancements or held until direction for use is given by the Committee. (This allows the Treasurer to draw funds from general donations for equipment and venue enhancements as approved as by the Committee.)
+
+Donations for Specified Equipment/Venue Enhancement
+
+-   Shall be used for the purpose of the Specified Equipment/Venue enhancements.
+-   If the Committee is satisfied that cause of the donation has completed the purpose, leftover monies can be treated as a general donation.
+
+Member Sponsorship Donations
+
+-   Funds can only be used to Sponsor Associate Memberships if the Membership Classification allows it.
+-   The process as to who receives the sponsored membership is through a committee selected member panel who will choose sponsored members from a publicly advertised process on the Artifactory website.
+-   If any panel member has a close connection to an individual applying, they must excuse themselves from the selection panel.
+-   The Artifactory Committee as part of the constitution still has to accept the nominated Associate Membership like any membership.
+
+Donations to support a particular event or workshop.
+
+-   Shall be used for the purpose of supporting the event/workshop
+-   Cannot be treated as a donation if an individual or group that runs the event/workshop benefits financially from the event/workshop.
+-   If the Committee is satisfied that cause of the donation has completed the purpose, leftover monies can be treated as a general donation
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Lemming  |
+| Status      | Accepted |
+
+#### Classification of Membership Changes
+
+STUART - Axe **"Sponsored Membership"** If businesses or persons want to pay for another's membership, then they can do so under the Full/Concession/Band. We have no members on this and this \$1200PA membership gives unlimited tool use. Let's remove the offering
+
+| Moved By    | Lemming  |
+|-------------|----------|
+| Seconded By | Blake    |
+| Status      | Accepted |
+
+STUART - Add "Associate Membership - Sponsored Student Membership"
+
+-   This membership is paid for via Member Sponsorship Donations at the same rate as a Concession membership.
+-   The Committees chosen panel of at least 3 (comprising of at least one Committee member) will select who.
+-   The length of this membership is a maximum of 3 months.
+-   The Perth Artifactory Committee has the right to cancel an individuals membership at any time.
+-   This membership is not open to current and past members of the Perth Artifactory Inc members including recipients of this sponsored membership.
+-   The member must be a tertiary student and at least 18 years of age.
+-   Gives access to the Artifactory and equipment.
+-   Access to the communal workshop space indoor and outdoor work areas (excluding the Rehearsal Room).
+-   Access to and usage of heavy duty tools, machines and facilities.
+-   Tool usage fees are payable on some tool use (at member rate).
+-   Discounts on Artifactory run events and workshops.
+-   24/7 access to the Artifactory can be granted with this membership but it requires a key bond of equivalent to a concession membership to be paid.
+
+| Moved By    | Lemming  |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+-   Panel: Stuart, Jason, Jean-Michele
+-   Appointed
+
+Just for information:
+
+##### Proposal for Website - Application Process
+
+Thanks to generous donors the Perth Artifactory Inc is able to offer the opportunity to (propose 6) tertiary students a free 3 month Sponsored Student Membership at the Artifactory. Members of the Artifactory will support the chosen applicants in areas of their interests.
+
+This application is open to tertiary students who are interested in design, artistic creativity, cosplay engineering, music, electronics and who just want to make stuff.
+
+Interested applicants are to submit a 1 page proposal, addressing the following points:
+
+-   What opportunities does the Perth Artifactory offer you?
+-   What equipment can you see yourself using as part of your membership and for what?
+-   What sort of assistance do you think you will need from the existing Artifactory Members for your projects?
+-   Are there any workshops/events either being held at the Artifactory that you would like to attend or help facilitate?
+-   Could you see yourself running any sort of workshop in the future at the Artifactory?
+-   Do you belong to any other on Hacker/Maker spaces? If so, which?
+-   What campus will you attend in 2019
+
+NOTE:
+
+-   This opportunity is not open to current or past members of the Perth Artifactory Inc
+-   You must be a tertiary student for 2019 and at least 18 years of age.
+-   24/7 access to the Artifactory can be granted with this membership but it requires a key bond of \$135 to be paid. The bond is refundable on the cancellation of your membership.
+-   A maximum of one to two persons per campus will be selected.
+-   The Perth Artifactory Committee reserves the right to cancel your membership at any time.
+-   This membership is an Associate Membership under the Perth Artifactory Inc constitution and has no voting rights.
+-   Tool usage fees are payable on some Artifactory tools.
+
+#### Lockers / Tubs
+
+STU - "If no lockers are available that Members be allowed to use 52L tub to store items."
+
+52L tub (Artifactory supplied), max 20kg, in a location approved by a committee member
+
+| Moved By    | Lemming  |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+#### New Year's Party
+
+Members and plus ones for new year's eve. There are already rules around it and this falls within that.
+
+-   Iain move
+-   Lemming second
+-   Approved
+
+#### Large Project Outdoor Storage Request
+
+-   Ryan C: "I have started a project on a table out the back. It is a slipcast mold that I am making with plaster. It takes some time and I may be working on it for the rest of the year." "just outdoor is fine, about a metre square on a table while I'm not working on it... Not much more than that when I am."
+-   On a table with wheels
+-   Will be there for 1 month
+-   His trestle table
+-   He must clean up the plaster remnants
+-   Committee approves
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

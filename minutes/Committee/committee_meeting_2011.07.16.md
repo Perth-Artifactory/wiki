@@ -1,0 +1,127 @@
+---
+title: "Committee Meeting 2011.07.16"
+---
+# Committee Meeting 2011.07.16
+
+## Agenda
+
+### Previous Action Items
+
+1.  DH will set up openERP for Artifactory.
+2.  BR needs a large ladder to check for wireless access.
+3.  BR needs to send out nomination stuff for AGM.
+4.  SM will do the "Artifactory CV"
+
+## Minutes
+
+### Members Present
+
+-   Peter Dreisiger
+-   Jenna Downing
+-   Skot McDonald
+-   Brendan Ragan
+-   Daniel Harmsworth
+-   Simon Kirkby
+-   Jason Muirhead
+
+### Meeting Times
+
+-   Opened: 11:11
+-   Closed: 11:51
+
+### Minutes of previous meeting
+
+| Status      | Accepted          |
+|-------------|-------------------|
+| Moved By    | Skot McDonald     |
+| Seconded By | Daniel Harmsworth |
+
+### Correspondence
+
+-   NAB wants addresses and roles of everyone on committee for accounts
+-   Instant Waste Management are generating more email
+-   No correspondence from the tenants
+-   Scitech want us to present 2 talks as part of Analog & Digital as part of science week
+-   Tos Mahoney (Tura) wants a Paper about the Arcophone and running a gig at Artifactory
+
+### Property Report
+
+-   Leak in the tool room, Reported to andrew with photos - nothing moved
+
+### Officer Reports
+
+#### Chairpersons Report
+
+-   Nothing to report
+
+#### Treasurers Report
+
+-   Okay for August, but september might be interesting.
+-   Banked \$370 ish from drinks and fridge tin.
+
+#### Membership Officers Report
+
+-   Shay is not here
+
+#### Promotions Officers Report
+
+-   No Change
+-   No more flyers in jaycar - do we have a new one?
+    -   Stack of various flyers, take some!
+
+#### Arts Liaison Officers Report
+
+-   Spatula is coming to the Open Day!
+
+### Previous Action Items Status
+
+-   Many items completed
+
+### Sub-Committee Reports
+
+### Arts Report
+
+-   Spatula want a residency so they can build a bike. They have little money but are willing to trade running workshops for less money up front.
+    -   Student membership for one, and then running workshops.
+    -   Quick turnaround youth grant - \$3000 for lots of people under 26
+    -   Offline it for email discussion.
+
+### Agenda Items
+
+-   Possible Tenants - Silent Disco Mob
+    -   We are doing the hard sell
+    -   Meeting with them at 1PM
+-   We need to start prep for AGM - nominations
+    -   BR needs to send out nomination stuff!
+-   Noisemaschin 1
+    -   50 people possibly.
+    -   JM to do a drinks run to make sure fridge is stocked.
+    -   Need to make the Artifactory ready for the event.
+    -   Bose 802's will be fine.
+-   Symbiotica Bio-Hacking workshop
+    -   \$1500 to run it (equipment etc. costs)
+    -   if we get 24 people it's \$70, if we get 32 it's \$45 per head. need to see if we have those numbers
+    -   Two day workshop
+    -   We need some more time - probably early November is a good idea.
+
+### General Business
+
+-   City of Stirling Grants
+    -   Big event grant not applicable (need to be running for 5 years)
+    -   Mini-Maker Faire possible, \$3000 grant available from CoS.
+-   Need to make a CV style page on the Wiki.
+-   Nutty Professor thing
+    -   We have a free booth.
+    -   Need people to bring stuff down.
+-   Harvey Lions
+    -   Lions clubs would be interested in the Travelling Hackbus.
+    -   They have all-encompassing insurance.
+-   BBC Entertainment & Spirit Productions
+    -   Good event management companies
+-   Cosplay workshop / turning the space into a cosplay friendly zone
+    -   People are getting overlockers.
+
+### Action Items Resulting
+
+-   BR needs to send out nomination stuff for AGM.
+-   SM will do the "Artifactory CV"

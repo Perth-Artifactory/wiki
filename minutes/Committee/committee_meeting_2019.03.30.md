@@ -1,0 +1,534 @@
+---
+title: "Committee Meeting 2019.03.30"
+---
+# Committee Meeting 2019.03.30
+
+# Agenda
+
+1.  Review Previous Meeting's Minutes
+2.  Review Previous Meeting's Action Items
+3.  Correspondence
+4.  Property Report
+5.  Chairman's Report
+6.  Treasurer's Report
+7.  Expenses For Approval
+8.  Membership Report
+9.  Officer Reports
+10. Event/Workshop Coordinator Reports
+11. Subcommittee Reports
+12. Other Business (add one-off agenda items here)
+    1.  Insurance
+    2.  Notice Board to Sell/Exchange stuff
+    3.  International Beer Shop
+    4.  By-law modification: Casual Makers
+    5.  Cheaper Event Fees
+    6.  HSBNE - Brisbane Experience - Need for Incident Form
+    7.  Wiki
+    8.  Flood Light Needs Replacing Front Carpark
+    9.  Review Public Building / Planning Approval from 2015/2014
+    10. Emergency/Safety Procedure need Reviewing
+    11. Photos
+    12. Member Storage Survey Results (and actions)
+    13. Sections of Carpet need re-taping
+    14. *Can add items up to 48 hours before committee meeting*
+
+# Minutes
+
+### Members Present
+
+-   Present: Steve, Fletcher, Hugh, Mel, Lauren, Scott, Lemming, Blake, Stuart
+-   Apologies: Iain
+-   Absent: None
+-   Observing: James
+-   Minute taker: Blake
+-   Chair: Lemming
+
+### Meeting Times
+
+-   Opened: 3:05pm 30/03/2019
+-   Closed: 4:47pm 30/03/2019
+-   Next meeting: 27 April 3pm, 4 weeks
+
+### Review Previous Meeting's Minutes
+
+-   Accepted
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Blake    |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+-   Fletcher(has found another member - WHO?) - Improve signage for safety equipment and power points -
+    -   Come up with some designs, some signs done
+-   Fletcher/Blake - Laser training checklist - **agree on checklist and add as agenda item to next meeting for approval**
+    -   No progress
+-   Stuart - Artifactory induction checklist - **to be emailed through to committee list for review Draft sending through**
+    -   No progress
+-   Stuart - Update Wiki/Website for Bylaws changes (Subcommittee/Tool Usage
+    -   Done
+-   Fees/Resident Artist - Band Room Bond) 23/21 **DONE**
+-   Signage to be updated for tool cost changes Welding Change + Kellogg pricing + Swarf(from 30/01)
+    -   Welding done
+    -   Swarf to be done
+    -   Kellogg not done
+    -   Wiki updated
+-   Lemming - to prototype RFID doors locks for bandroom and office - Estimated cost for board \$40, then rpi, rfid, door strikes. To investigate further
+    -   PCB ready to go
+    -   \~\$200 to do 5 protoboards (excluding rpi, door strike, power supply)
+    -   Estimated total cost for 3 doors operational \~\$500
+    -   Lemming - propose \$200 budget for initial cut
+        -   Hugh - second
+        -   Approved
+    -   Blake - Bring Rpi for Fletcher + door Arduino U
+-   Fletcher - To find out when future LotteryWest grant information sessions will be
+    -   Due 29 May
+-   Tub Storage - two minimum for members if no locker **Wiki Updated - Stuart**
+-   Stuart - Create survey monkey on Member Storage. Committee to review. Survey sent and results collected before next meeting.
+    -   Done
+-   Scott/Stuart - Photograph stuff at the 'Factory and get people to identify who owns or made the stuff, via Slack or Google Group etc. **DONE**
+-   Pallet Racking to be divided up into labelled areas - Stuart to lead - subcommittees to get back to Stuart
+    -   In progress
+-   Scott - CAD Room-More Computers Working Please
+    -   In progress
+-   Infrastructure - Advise on Hackme Bench rename
+    -   In progress - part of redoing signs
+
+## Correspondence
+
+-   Question on 3D scanning
+-   International beer discount
+-   Ben Cappel? Email
+    -   Instructor, science
+    -   Need to meet and talk about what he wants
+-   SEO spam email - ignore
+-   Face to face meet with David Michael and Alan Templeton at Artifactory
+    -   Minister Arts + Culture
+    -   General discussion about what the Artifactory is
+    -   Discussed new premises
+    -   Impressed with Artifactory
+
+## Property Report
+
+-   Fixed leaks - awaiting rain to test
+-   Band air con improved
+-   Dale - aircon
+    -   Run pipe out of space
+    -   He suggests moving towards back of CAD room - there is a vent already
+-   Confirmed with Don
+    -   Minuted in infrastructure meeting - all rooms are "chattels" and need to go with last group to lease the place
+
+## Chairperson's Report
+
+-   No report
+
+## Treasurer's Report
+
+-   Back to where were in Jan.
+-   Outstanding invoices are from \$4k to \$2k which is good
+-   Insurance paid
+-   Pentanet savings will be coming through
+-   Savings from slightly cheaper power
+
+|                                                        | 29/03/2019    | 28/02/2019    | 31/01/2019    |                                                         |
+|--------------------------------------------------------|---------------|---------------|---------------|---------------------------------------------------------|
+| Bank Accounts                                          | \$7643.18     | \$6924.4      | \$8473.15     |                                                         |
+| Pending from TidyHQ/EFTPOS + Float                     | \$200         | \$536.72      | \$357.82      |                                                         |
+| **BALANCE**                                            | **\$7843.18** | **\$7461.12** | **\$8830.97** | +Guthrie St Bond \$6000                                 |
+|                                                        |               |               |               |                                                         |
+| **Quarantined Funds**                                  | 29/03/2019    | 28/02/2019    | 31/01/2019    |                                                         |
+| Estimated RFID Key Bond Value                          | \$10160       | \$9430        | \$9475        |                                                         |
+| For Insurance 19/20                                    | \$0           | \$2486        | \$2260        | +226 for each month due annually 31/3. (\$2716 in 2018) |
+| For TidyHQ 19/20                                       | \$212.5       | \$170         | \$127.5       | +42.5 for each month due annually Oct. (\$510 in 2018)  |
+| For Variable Outgoings 19/20                           | \$700         | \$600         | \$500         | +100 for each month due annually Aug. (\$620 in 2018)   |
+| Tickets for Trautonium                                 | \$355         |               |               |                                                         |
+| **DESIRED BALANCE**                                    | **\$11,428**  | **\$12686**   | **\$12362.5** |                                                         |
+| **Funds Available (+Yes -NO) BALANCE-DESIRED BALANCE** | **-\$3585**   | **\$-5225**   | **\$-3532**   |                                                         |
+
+| REVENUE (Excludes Bond)                     | 29 Mar-19  | Feb-19      | monthly average |
+|---------------------------------------------|------------|-------------|-----------------|
+| Membership Income                           | \$4555     | \$3,095     | \$3,456         |
+| Space Cash (drinks/events/tool fees/casual) | \$2723     | \$1,868     | \$1,917         |
+| Fundraising                                 |            |             | \$636           |
+| Donations                                   |            | \$225       | \$71            |
+| Donations - For Membership                  | \$90       | \$90        | \$19            |
+| **TOTAL INCOME**                            | **\$7368** | **\$5,278** | **\$6,081**     |
+|                                             |            |             |                 |
+| EXPENSES                                    | 29 Mar-19  | Feb-19      | monthly average |
+| Lease/Utilities/BOC/Bank Fees/Insurance     | \$7407     | \$5,439     | \$5,215         |
+| Kitchenette/FundraisingFridge/Toiletries    | \$436      | \$321       | \$346           |
+| Total Regular Expenses                      | \$7919     | \$5,760     | \$5,559         |
+| Fundraising Expenses                        | \$0        | \$0         | \$233           |
+| Equipment/Infrastructure Expenses           | \$11       | \$509.76    |                 |
+| **Total Expense**                           | **\$7930** | **\$6,269** |                 |
+
+## Expenses for Approval
+
+-   Electrical Work CAD room lights etc +\$15 for GST component from the last meeting.
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Lemming  |
+| Status      | Accepted |
+
+## Membership Report
+
+### Current Status
+
+Membership as at 2019-03-29:
+
+-   35 (+1) Full Members (Monthly+Annual);
+-   25 (+2) Concession Memberships (Monthly+Annual);
+-   1 (+1) Band Memberships
+-   7 (0) Associate Memberships
+
+at previous meeting
+
+-   34 (-3) Full Members (Monthly+Annual);
+-   23 (0) Concession Memberships (Monthly+Annual);
+-   2 (0) Band Memberships
+-   7 (+5) Associate Memberships
+
+#### Cancelled Non-Payment
+
+Memberships to be cancelled for Non-Payment (+90 days due), cancel outstanding invoices?:
+
+-   Rodrigo Kendrick
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Lemming  |
+| Status      | Accepted |
+
+### New memberships for approval
+
+-   CONCESSION - James Keillor, Lachlan Hutchison, Reyen Adine, Regan Marchant
+-   FULL - Courtenay Davison, Travis Bullock, Constance Titterton
+-   BAND - Aaron Carmischael's Band
+-   RESIDENT ARTIST - Claire Pannell
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Scott    |
+| Status      | Accepted |
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+-   IT Officer
+    -   Fully on pentanet, TPG cancelled
+    -   Can now clean out server rack
+    -   IT subcommittee
+        -   Steve motion to create IT committee with terms of reference to come up with a terms of reference for next meeting
+        -   Blake seconded
+        -   Approved
+        -   Scott move to add Nick, Lemming, Vincent, Scott to IT subcommittee
+            -   Second = Blake
+            -   Approved
+-   Event Officers
+    -   Fletcher - motion to elect Stuart, JM as event officers
+        -   Mel second
+-   Rehearsal Room Coordinators
+    -   No news
+-   Quartermasters
+    -   More people available for shopping trips would be helpful
+-   Safety Auditors
+    -   Discuss James as safety auditor
+    -   James will look over role and consider for next
+-   Membership Officers
+    -   REPORT
+
+## Sub-Committee Reports
+
+### Laser Subcommittee
+
+-   Ladder dropped on new chiller
+-   Big red crashed many times - potential problem with z-probe
+-   y axis dropping steps
+-   Big red tube was checked and has failed
+
+### IT Subcommittee
+
+-   No news
+
+### Promotions Subcommittee
+
+-   Had first meeting
+-   Kickstart 13 April - stall, market, in city
+    -   Craft selling stuff focused
+-   Supernova in June
+-   Science week in August
+
+### Sponsored Memberships Panel
+
+-   4 applications received - Yet to be reviewed
+    -   To start in April
+
+### Infrastructure Subcommittee
+
+-   Power points in z-lab now
+-   CAD room is insulated
+-   Space for AC to shift to back
+-   Don - lights and forklift
+    -   Can change the blown lights
+
+## Event/Workshop Coordinator Reports
+
+-   ADUG - (Coordinators - Richard Harrington, Scott Hollows**\#**)
+    -   Business as usual
+-   Arduino U - (Coordinators - Hugh, Doug)
+    -   Guy with solar panels
+    -   Ticking along
+-   ARTIfrag (Coordinator - Lemming)
+    -   Had about 15 people, done by 3am
+-   Board Games Night (Coordinator - Iain)
+    -   No news
+-   Cosplay - (Coordinator - James, Lemming)
+    -   No news
+-   DIY Synth - (Coordinator Nathan Thompson, Andrew nonlinearcircuits**\#**)
+    -   Light on with people
+-   General Hacking Day - (Coordinator - none, it runs itself)
+    -   500th coming up, consider doing something
+-   Leathercraft Workshops - (Coordinator - Andrew L aka Western Leathercraft)
+    -   Cancel membership but will continue with workshops
+-   MicroPython Hardware Hackers - Perth Django and Python Developers (Coordinators -Phil Wilkinson**\#**)
+    -   They haven't come to Arduino U
+-   Mostly Modular Synth - (Coordinators - Hugh, Jon)
+    -   Went well
+-   Noizemaschin!! - (Coordinators Stuart, Tim, Jean-Michel, Skot, Justin B**\#**)
+    -   Business as usual OR ANYTHING TO REPORT
+-   Open Day - (Coordinator - Steve)
+    -   Appoint Steve as coordinator
+    -   Too few members at last one
+-   Open Source Hackers (Coordinators - Stephen Price**\#**)
+    -   Business as usual
+-   PikPI Cosplay Workshops (Coordinators - Hayleye**\#**)
+    -   One coming up
+-   Wine & Design - (Coordinator - none, it runs itself)
+    -   Business as usual
+-   Workshop Wednesday (Coordinator - Fletcher)
+    -   Business as usual
+-   VR Meetup (Coordinator - Iain)
+    -   No meetup
+-   OTHER Events
+    -   Algo.rithm
+        -   Couple of people getting stuff together for noisemachine
+        -   Generative music
+        -   Fortnightly monday nights in future
+
+**\#** Denotes run by non-members
+
+## Other Business
+
+Note: "Other Business" must be listed in agenda (top of this page) 48 hours prior to meeting. Any details of an agenda item can be added here at any time.
+
+### Insurance
+
+(Stuart) Paid prior to 4pm 31st deadline. Cost up about \$60 on last year.
+
+They have no issues with events run by external people.
+
+### Notice Board to Sell/Exchange stuff
+
+(Member Teresa) Proposal *- notice board in which members can share items they have for sale to sell to each other The rules would be as follows:*
+
+1.  *Notices older than 1 month old get cleared off at end of open day*
+2.  *Must have a name, phone number, email and date posted*
+3.  *Must be a current member of The Artifactory to be able to post on it*
+
+*Perhaps near or on the wall where all the pictures are.*
+
+| Moved By    | Lemming  |
+|-------------|----------|
+| Seconded By | Blake    |
+| Status      | Accepted |
+
+Discussed but went with above instead: (Stuart thought bubbles) - Or do we have a community notice board. Or Post it wall. IE MDF all of the outside of the Office and Stick posters on it.
+
+### International Beer Shop
+
+*(Member Regan) Just had a chat to the boss man and he is happy to offer all the Artifactory members a 10% discount on all products in store excluding the Liquor Baron weekly promotions as they are already discounted.*
+
+*As for the Artifactory supplies we will set up a pay on the day account that will give you the staff discount pricing on all the products you buy (except Back Pallet deals). The account can be set up to allow yourself*(Stuart)// and Fletcher to use when buying beers for the Artifactory.//
+
+*Not much is required on your end, except for informing your members of the discount at the International Beer Shop in Leederville.*
+
+*We will create an Artifactory member discount where they come into the shop, say they are an Artifactory Member, that the password is to be advised and they will receive a 10% discount.*
+
+Accept the International Beer Shops Offer - Add to the Wiki Shops page + post to google group.\*\* Who will do this \*\*
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Blake    |
+| Status      | Accepted |
+
+### By-law modification: Casual Makers
+
+(IAIN) Clarification/Modification to existing casual rate by laws; Three Modifications to the current \$10 requirement to use the space.
+
+1.  For visitors: Outside of paid events it's free to simply visit and hang out in the social area. This includes the use of the power board in the middle of the casual area if visitors would like to be on a laptop or charge their phone.
+
+| Moved By    | Mel      |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+Discussed but decided against these:
+
+1.  For events only using the project space (ie: no stage gear): Lower the minimum price of events to \$5. Events like VR/Boardgames/Artifrag are a hard sell at \$10 entry. Decreasing the cost lets smaller events appeal to a wider audience, and the price can always be increased later.
+2.  Maintain the casual day rate at \$10: Using the space or tools as a casual user incurs a \$10 day rate as it always has.
+
+### Cheaper Event Fees
+
+-   Board games - \$5
+-   VR - \$5
+
+| Moved By    | Lemming  |
+|-------------|----------|
+| Seconded By | Blake    |
+| Status      | Accepted |
+
+### HSBNE - Brisbane Experience - Need for Incident Form
+
+(Lemming/Stuart) Form could take on the following points.
+
+-   Name, person, contact details completing this form:
+-   Date:
+-   Incident
+
+```{=html}
+<!-- -->
+```
+        * Date and time of incident/near incident:
+        * Name/s of person/s involved:
+        * Where
+    * Description of incident:
+        * what happened, or in the case of a near miss, what could have happened
+        * Witnesses (include contact details):
+        * Injury (if applicable)
+        * Description of injuries (including parts/sides of the body affected):
+        * Damage to equipment/buildings/vehicles etc.
+        * Contributing factors
+        * Was any corrective actions taken
+            * Immediate actions
+            * What controls can be put in place to prevent this from happening again?
+    * Reporting of the incident
+        * Incident Reported to:
+        * Date:
+        * How (this form, in person, email, phone):
+    * Follow Up Action
+      * Description of actions to be taken:
+      * Where/What to do with this form
+
+ACTION: Create an incident form + add to the wiki + notify members of its existence (\*\* James to take a look - Stuart will set it up anyway \*\*)
+
+### Wiki
+
+(Stuart) It is said it is too hard/too much work to migrate the old wiki to a new one. Thus let us start from afresh with a link to the old.
+
+Discussed - Scott to facilitate meeting
+
+### Flood Light Needs Replacing Front Car park
+
+(Stuart) Estimate \$40 inc P/H
+
+Get some from banggood - maybe motion detect or daylight sensor - Action Lemming
+
+| Moved By    | Lemming  |
+|-------------|----------|
+| Seconded By | Blake    |
+| Status      | Accepted |
+
+### Review Public Building / Planning Approval from 2015/2014
+
+(Stuart) - Important to review
+
+From Nov 2014 - To be a Public Building
+
+1.  **Committee to note** The single designated exit door and the toilet facilities limit the maximum occupancy allowed to 50 persons. As discussed, the number of people expected at performances or events at the Artifactory are expected to exceed 50 persons. In such instances it would be necessary to provide an additional toilet/s and to ensure that the roller door is kept open during the course of the event or performance. These two conditions will be specified on the certificate.
+2.  **Need to do again** Please make arrangements to have the fire equipment serviced and ensure that the equipment displays service history tags. Fire equipment should be checked every six months in accordance with Australian Standard AS 1851.
+3.  **They are still there** NO ESCAPE signs are required above the door and roller door at the rear of the premises.
+4.  **Need to check** Ensure that the exit sign and no escape signs are illuminated. Please note that emergency lighting/exit signs must be operationally checked every six months and the related works are to be recorded in a log book.
+5.  The electrical contractor engaged to carry out the electrical work is required to complete the attached form 5. Please return the completed form to the City viastirling@stirling.wa.gov.au
+6.  **Need to check**Ensure that exit pathways are kept unobstructed.
+7.  **Need to check** Take necessary precautions to ensure that the carpets laid on the floor do not create a trip hazard.
+8.  A sample of the stage curtain was flame tested. The material burned readily and therefore does not comply with regulatory requirements. Please ensure that the curtains are removed permanently, treated with a flame retardant or replaced with flame retardant curtains.
+9.  **Need to check do** Ensure that the spray paint bottles/containers currently stored on shelves are placed in a suitable cupboard or cabinet.
+
+-   **From the Plan Approval 180214 - From CoS minutes - Copy Stored on the GDrive with Certificates**
+-   The proposed development to provide and maintain on site at all times, one (1) bicycle bay. **we need a labelled bike bay**
+
+```{=html}
+<!-- -->
+```
+    *No goods or materials being stored, either temporarily or permanently, in the car parking or landscaped areas or within access driveways. All goods and materials are to be stored within the buildings or storage yards, where provided;  **do we need to get rid of stuff out front**
+    *The Artifactory is intended to operate during evenings and weekends, outside general business hours (nine o’clock to five o’clock Monday to Saturday) when staff and customers are generally absent from the surrounding area. Therefore the Perth Artifactory is expected to improve passive surveillance and contribute towards community safety within the locality.  **Workshop Wednesday needs to be kept small**
+    * The Public Buildings Certificate required  **obtained 05/11/2015**
+
+Discussion:
+
+-   Fire ext check
+    -   Scott may have a lead
+    -   Lemming may have a lead
+    -   1 week to chase free leads
+-   Discuss getting another toilet
+    -   Mel's ideas with Dale
+-   Stuart also mentions there is a thing with not using tools in machine room during events exceeding 50 people
+-   Need to illuminate "No Exit" signs - Lemming Action
+-   Carpets near rear door to be stuck down again
+-   Curtains gone
+-   Check rules on flammable gas bottles and put as part of this - Lemming Action
+-   Bicycle bay - near front door - Stuart Action
+
+### Emergency/Safety Procedure needs Reviewing
+
+(Stuart) - the floor plan / escape maps etc
+
+Fletcher and Stuart working on it.
+
+### Photos
+
+We took lots of photos - We identified stuff - what to do the stuff
+
+Have been posted to slack. Discussed but no action. FIRST THING ON AGENDA NEXT TIME.
+
+### Member Storage Survey Results (and actions)
+
+Summary will be in slack
+
+## Action Summary
+
+-   Fletcher(has found another member - WHO?) - Improve signage for safety equipment and power points -
+    -   Come up with some designs, some signs done
+-   Fletcher/Blake - Laser training checklist - **agree on checklist and add as agenda item to next meeting for approval**
+    -   No progress
+-   Stuart - Artifactory induction checklist - **to be emailed through to committee list for review Draft sending through**
+    -   No progress
+-   Signage to be updated for tool cost changes Welding Change + Kellogg pricing + Swarf(from 30/01)
+    -   Welding done
+    -   Swarf to be done
+    -   Kellogg not done
+    -   Wiki updated
+-   Lemming - to prototype RFID doors locks for bandroom and office - Estimated cost for board \$40, then rpi, rfid, door strikes. To investigate further
+    -   PCB ready to go
+    -   \~\$200 to do 5 protoboards (excluding rpi, door strike, power supply)
+    -   Estimated total cost for 3 doors operational \~\$500
+    -   Lemming - propose \$200 budget for initial cut
+        -   Hugh - second
+        -   Approved
+    -   Blake - Bring Rpi for Fletcher + door Arduino U
+-   Fletcher - To find out when future LotteryWest grant information sessions will be
+    -   Due 29 May
+-   Pallet Racking to be divided up into labelled areas - Stuart to lead - subcommittees to get back to Stuart
+    -   In progress
+-   Scott - CAD Room-More Computers Working Please
+    -   In progress
+-   Infrastructure - Advise on Hackme Bench rename
+    -   In progress - part of redoing signs
+-   Lemming - illuminated "No Exit" signs
+-   Lemming - rules around flammable gas bottles
+-   Stuart - Bicycle bay by front door
+-   Stuart/James - Setup incident report form
+-   Lemming - New floodlights for carpark - maybe motion detect or daylight sensor

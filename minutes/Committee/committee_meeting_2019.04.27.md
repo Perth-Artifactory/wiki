@@ -1,0 +1,351 @@
+---
+title: "Committee Meeting 2019.04.27"
+---
+# Committee Meeting 2019.04.27
+
+# Agenda
+
+1.  Review Previous Meeting's Minutes
+2.  Review Previous Meeting's Action Items
+3.  Correspondence
+4.  Property Report
+5.  Chairman's Report
+6.  Treasurer's Report
+7.  Expenses For Approval
+8.  Membership Report
+9.  Officer Reports
+10. Event/Workshop Coordinator Reports
+11. Subcommittee Reports
+12. Other Business (add one-off agenda items here)
+    1.  Member Storage Survey Results (and actions)
+    2.  ITEMS
+    3.  *Can add items up to 48 hours before committee meeting*
+
+# Minutes
+
+### Members Present
+
+-   Present: Stuart, Blake, Hugh, Iain, Lauren, Scott, Steve
+-   Apologies: Fletcher, Lemming, Mel
+-   Absent: None
+-   Observing: None
+-   Minute taker: Blake
+-   Chair: Iain
+
+### Meeting Times
+
+-   Opened: 3.11pm
+-   Closed: 5.03pm
+-   Next meeting: NEXTMEETING, n weeks
+
+### Review Previous Meeting's Minutes
+
+-   Discussed actions as below
+
+| Moved By    | Blake    |
+|-------------|----------|
+| Seconded By | Scott    |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+-   Fletcher(has found another member - WHO?) - Improve signage for safety equipment and power points -
+    -   Come up with some designs, some signs done
+-   Fletcher/Blake - Laser training checklist - **agree on checklist and add as agenda item to next meeting for approval**
+    -   No progress
+-   Stuart - Artifactory induction checklist - **to be emailed through to committee list for review Draft sending through**
+    -   No progress
+-   Signage to be updated for tool cost changes Welding Change + Kellogg pricing + Swarf(from 30/01)
+    -   Welding done
+    -   Swarf to be done
+    -   Kellogg not done - cover as part of Kellogg commissioning
+    -   Wiki updated
+    -   Done!
+-   Lemming - to prototype RFID doors locks for bandroom and office - Estimated cost for board \$40, then rpi, rfid, door strikes. To investigate further
+    -   PCB ready to go
+    -   \~\$200 to do 5 protoboards (excluding rpi, door strike, power supply)
+    -   Estimated total cost for 3 doors operational \~\$500
+    -   Lemming - propose \$200 budget for initial cut
+        -   Hugh - second
+        -   Approved
+    -   Blake - Bring Rpi for Fletcher + door Arduino U
+-   Fletcher - To find out when future LotteryWest grant information sessions will be
+    -   Due 29 May
+-   Pallet Racking to be divided up into labelled areas - Stuart to lead - subcommittees to get back to Stuart
+    -   In progress
+-   Scott - CAD Room-More Computers Working Please
+    -   2 functional, 3rd on its way
+    -   Potential to replace Little Red PC
+    -   Done!
+-   Infrastructure - Advise on Hackme Bench rename
+    -   In progress - part of redoing signs
+-   Lemming - illuminated "No Exit" signs
+-   Lemming - rules around flammable gas bottles
+-   Stuart - Bicycle bay by front door
+-   Stuart/James - Setup incident report form
+    -   Stuart to take lead
+-   Lemming - New floodlights for carpark - maybe motion detect or daylight sensor
+-   International Beer Shop - Stuart to update
+-   Stuart to contact Teresa on noticeboard
+-   Fire extinguisher checks - throw open to members - Iain
+
+## Correspondence
+
+-   Person looking for activities with her kids, we advised that the space is more about DIY and working on your own projects.
+-   Another person was looking for a bunch of detailed information to use at a startup weekend they were at, advised that due to the short notice we couldn't really help but gave them some basics that could help them.
+-   Someone looking for some assistance with a project they were working on, advised them to come in and talk to the members. Asked for specific members to talk to so I referred them to the mailing list.
+-   Someone was looking for a private studio space within Artifactory, advised this not possible at the moment.
+-   Administering (ausciper) an arts grants - "Drug aware presents reinvention room"
+    -   JM to check on progress
+    -   Kinetic sculpture
+
+## Property Report
+
+-   Roof still leaks despite efforts to patch up.
+    -   One fixed near front door
+    -   z-lab one is ongoing
+        -   Wait for next rain
+
+## Chairperson's Report
+
+-   Not much to report this month, we've had one person referred to us by David Michael as he's starting a "Tradie" co-working space in Osborne park which could lead to some good options for collaboration and cross pollination.
+    -   Want to follow up with local member or another figure
+
+## Treasurer's Report
+
+-   Discussion power usage
+    -   Check meter readings
+    -   Consider recording power usage
+
+|                                                        | 31/03/2019     | 28/02/2019     |                                                            |
+|--------------------------------------------------------|----------------|----------------|------------------------------------------------------------|
+| Bank Accounts                                          | \$7643.18      | \$6924.4       |                                                            |
+| Pending from TidyHQ/EFTPOS + Float                     | \$453.97       | \$536.72       |                                                            |
+| **BALANCE**                                            | **\$8097.15**  | **\$7461.12**  |                                                            |
+| Guthrie St Bond                                        | \$6000         | \$6000         |                                                            |
+|                                                        |                |                |                                                            |
+| **Quarantined Funds**                                  | 31/03/2019     | 28/02/2019     |                                                            |
+| Estimated RFID Key Bond Value                          | \$10160        | \$9430         |                                                            |
+| For Insurance 19/20                                    | \$0            | \$2486         | +232 for each month due annually 31/3. (\$2781.25 in 2019) |
+| For TidyHQ 19/20                                       | \$212.5        | \$170          | +42.5 for each month due annually Oct. (\$510 in 2018)     |
+| For Variable Outgoings 19/20                           | \$700          | \$600          | +100 for each month due annually Aug. (\$620 in 2018)      |
+| **DESIRED BALANCE**                                    | **\$11072.5**  | **\$12686**    |                                                            |
+| **Funds Available (+Yes -NO) BALANCE-DESIRED BALANCE** | **\$-2975.35** | **\$-5224.88** |                                                            |
+
+Probably by the end of April the Funds Available will be around -\$4000, so an improvement from February after the large electricity bill this month and the spend to date on the Z-Lab. Around \~\$300
+
+| REVENUE (Excludes Bond)                     | Mar-19      | monthly average |
+|---------------------------------------------|-------------|-----------------|
+| Membership Income                           | \$4,820     | \$3,584         |
+| Space Cash (drinks/events/tool fees/casual) | \$2,723     | \$1,998         |
+| Fundraising                                 |             | \$636           |
+| Donations                                   |             | \$71            |
+| Donations - For Membership                  | \$90        | \$26            |
+| **TOTAL INCOME**                            | **\$7,633** | **\$6,289**     |
+|                                             |             |                 |
+| EXPENSES                                    | Mar-19      | monthly average |
+| Lease/Utilities/BOC/Bank Fees/Insurance     | \$7,494     | \$5,229         |
+| Kitchenette/FundraisingFridge/Toiletries    | \$436       | \$311           |
+| Total Regular Expenses                      | \$7,930     | \$5,560         |
+| Fundraising Expenses                        | \$0         | \$233           |
+| Equipment/Infrastructure Expenses           | \$10.97     |                 |
+| **Total Expense**                           | **\$7,941** |                 |
+
+## Expenses for Approval
+
+-   New 3D printer head \$15 - for next meeting
+-   Sander belt - Iain - next meeting
+
+## Membership Report
+
+### Current Status
+
+Membership as at 2019-04-25:
+
+-   33 (-2) Full Members (Monthly+Annual);
+-   27 (+2) Concession Memberships (Monthly+Annual);
+-   3 (0) Band Memberships
+-   10 (+3) Associate Memberships
+
+Last Month - Membership as at 2019-03-29:
+
+-   35 (+1) Full Members (Monthly+Annual);
+-   25 (+2) Concession Memberships (Monthly+Annual);
+-   3 (+1) Band Memberships
+-   7 (0) Associate Memberships
+
+#### Cancelled Non-Payment
+
+Memberships to be cancelled for Non-Payment (+90 days due):
+
+-   N/A
+
+### New memberships for approval
+
+-   CONCESSION - Errin Matsumoto, Kymberli Lim
+-   FULL - Daniel Hart
+-   BAND - None
+
+| Moved By    | Blake    |
+|-------------|----------|
+| Seconded By | Scott    |
+| Status      | Accepted |
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+-   IT Officer - Scott
+    -   Servers to be sold - Vincent to help
+    -   Meeting to be organised
+-   Event Officers - Stuart and JM
+    -   Youth festival - kick start
+        -   Went well - Fletcher and Jason
+-   Rehearsal Room Coordinators - Tanner
+    -   No feedback
+-   Quartermasters - Fletcher and Stuart
+    -   No news
+-   Safety Auditors
+    -   No news
+-   Membership Officers - Fletcher
+    -   No news
+
+## Sub-Committee Reports
+
+### Laser Subcommittee
+
+      * Laser cutters going well
+      * Kellog work in progress - chiller and tie in
+
+### IT Subcommittee
+
+      * Wiki - to assign someone and design of structure
+        * Scott to set up meeting
+
+### Promotions Subcommittee
+
+-   Artifactory YouTube channel - question
+    -   JC posts some stuff up to YouTube
+    -   Lauren discuss about having a strategy around social meeting
+    -   Scott to setup up meeting - supernova and social media promotions
+
+### Sponsored Memberships Panel
+
+-   New sponsored members - Jaco, Jabob, Clay
+-   Application process on website. Promoted on social media.
+
+### Infrastructure Subcommittee
+
+-   Shade cloth anchor purchased. To be installed
+-   Request for more lighting outside
+
+## Event/Workshop Coordinator Reports
+
+-   ADUG - (Coordinators - Richard Harrington, Scott Hollows**\#**)
+    -   Business as usual
+-   algo.rhythm(generative, music, hack) (Coordinator Lauren Amos)
+    -   Interest is a bit low. Might need more promotion.
+-   Arduino U - (Coordinators - Hugh, Doug)
+    -   Discussion around how there are several people that can help out and it works well
+-   ARTIfrag (Coordinator - Lemming)
+    -   Next one - near end of May or start June
+        -   Set price \$10, free for members
+        -   Need better promotion and pick date without other events
+-   Board Games Night (Coordinator - Iain)
+    -   No event
+    -   Stuart - Chess night
+-   Cosplay - (Coordinator - James, Lemming)
+    -   Flag for review - if no event will be removed
+-   DIY Synth - (Coordinator Nathan Thompson, Andrew nonlinearcircuits**\#**)
+    -   Numbers a little down
+    -   New people through
+-   General Hacking Day - (Coordinator - none, it runs itself)
+    -   Business as usual
+-   Leathercraft Workshops - (Coordinator - Andrew L aka Western Leathercraft)
+    -   Andrew put in dates through to end of year
+-   MicroPython Hardware Hackers - Perth Django and Python Developers (Coordinators -Phil Wilkinson**\#**)
+    -   Didn't come to last one
+-   Mostly Modular Synth - (Coordinators - Hugh, Jon)
+    -   Stuart and JM were here
+    -   One tomorrow
+-   Noizemaschin!! - (Coordinators Stuart, Tim, Jean-Michel, Skot, Justin B**\#**)
+    -   Hasn't been one since last meeting
+-   Open Day - (Coordinator - Steve)
+    -   Decent number of people through
+    -   Official laser training time worked well
+    -   Discussed charging for non-member training - decided against it - want to encourage new members
+    -   Discussed showing off vinyl cutter
+-   Open Source Hackers (Coordinators - Stephen Price**\#**)
+    -   Business as usual
+-   PikPI Cosplay Workshops (Coordinators - Hayleye**\#**)
+    -   Business as usual - 10 people
+-   Wine & Design - (Coordinator - none, it runs itself)
+    -   Business as usual
+-   Workshop Wednesday (Coordinator - Fletcher)
+    -   Business as usual
+-   VR Meetup (Coordinator - Iain)
+    -   Remove - event not continuing
+-   OTHER Events
+
+**\#** Denotes run by non-members
+
+## Other Business
+
+Note: "Other Business" must be listed in agenda (top of this page) 48 hours prior to meeting. Any details of an agenda item can be added here at any time.
+
+### Member Storage Survey Results (and actions)
+
+Proposed By-Law *Proposed Start Date 01/06/2019* **MEMBER STORAGE** Members are entitled (subject to availability) to a committee authorised storage space (up to 150L). Items need to be left in a tidy and safe state.
+
+-   Proposed - Blake
+-   Second - Steve
+-   Vote - Approved
+
+Member storage coordinator
+
+-   Action to create role - Steve
+
+Proposed By-Law - *Proposed Start Date 01/05/2019* **MATERIAL RACKS** Only members are entitled to store materials on these material racks. Materials are required to be dated with the time of arrival and name. The materials are welcome to stay on the rack for a maximum of three months (the date can be updated). Materials that over stay that time become free for members to use. Limit per member of 10cm thick of material. Material up to 1200mm in width.
+
+-   Proposed - Blake
+-   Second - Steve
+-   Vote - Approved
+
+*Do we need add something about maximum amount of materials? and definition of what Materials?*
+
+-   Discussed
+
+Proposed By-Law - **Ceasing Membership + The Members Projects** Once a person ceases to be a member, any projects left at the Artifactory will be free for anyone to use or for the Artifactory to dispose of once the owner(s) of the project has had a month notice.
+
+-   Proposed - Scott
+-   Second - Steve
+-   Vote - Approved
+
+Proposed By-Law - *Proposed Start Date 01/06/2019* **Additional Member Storage** - Members are entitled to request for additional storage on the pallet racking. Additional storage will be charged at a rate of \$60 per half a pallet rack per month and will be restricted to the upper racks that are not with in reach. Any four Committee members may determine what part of the pallet racking will be available for such storage and will advise the Treasurer to invoice as such from the start of the Members next membership period. The Artifactory Committee reserves the right to revoke that additional storage with a months notice if it is deemed needed for the Artifactory.
+
+-   Proposed - Steve
+-   Second - Scott
+-   Vote - Approved
+
+*Future Considerations - Members Short Term Project Storage Areas - define the area in the yard and inside space(Where?)*
+
+## Action Summary
+
+-   Fletcher - Signage improvement: Found a member to improve safety equipment and power point signs. Some done, some to go.
+-   Fletcher/Blake - Laser training checklist: Agree on a checklist.
+-   Stuart - Artifactory induction checklist: To be emailed through to committee list for review.
+-   Lemming - RFID door locks: Build prototype.
+-   Blake - Supply a spare raspberry pi.
+-   Fletcher - LotteryWest Grant: Find out when info session is (grant due 29 May).
+-   Stuart - Pallet racking storage: Divide up into labelled areas based on subcommittee feedback.
+-   \<OWNER\> - Hackme bench rename: Infrastructure subcommittee.
+-   Lemming - Illuminated "No Exit" signs: Organise new ones.
+-   Lemming - Flammable gas bottle rules: Clarify rules (welding area).
+-   Stuart - Bicycle bay: Organise a bicycle bay for near front door.
+-   Stuart - Incident report form: Create.
+-   Lemming - Car park flood lights: Source new ones, possibly motion activated.
+-   Stuart - International Beer Shop discount: Update and share information
+-   Stuart - Foyer noticeboard: Contact Teresa on setting up noticeboard.
+-   Iain - Fire extinguisher checks: Throw open to members for someone to perform official checks.
+-   Scott - Promotions meeting: Set promotions meeting for supernova and social media.
+-   Steve - Member storage: Draft some more detailed rules around

@@ -1,0 +1,247 @@
+---
+title: "Committee Meeting [2022.05.07](2022.05.07)"
+---
+# Committee Meeting [2022.05.07](2022.05.07)
+
+Previous meeting:[Committee Meeting 2022.04.09](Committee Meeting 2022.04.09)
+
+Next meeting: [Committee Meeting 2022.07.02](Committee Meeting 2022.07.02)
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: REMOVE NOT PRESENT - Beau, Ben, Fletcher, Iain, Johannes, Joshua, Vincent
+-   Apologies: Jason, Phoebe-Jean
+-   Absent: Nil
+-   Observing: Nil
+-   Minute taker: Fletcher
+-   Chair: Beau
+
+### Meeting Times
+
+-   Opened: 1634
+-   Closed: 1729
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+Previous meeting's minutes: [Committee Meeting 2022.04.09](Committee Meeting 2022.04.09)
+
+-   DISCUSSION
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+### Review Online Motions
+
+| Date raised | Date completed | Motion text                                        | Outcome |
+|-------------|----------------|----------------------------------------------------|---------|
+| 2022.04.19  | 2022.04.20     | Accept Lewis Yip's application for full membership | Passed  |
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Nova Resources (see other business)
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   One of the welds on the old compressor failed while it was being moved/dragged by Daniel Mews and the wheels snapped off. Daniel reported no injuries and suggested that a forklift could have prevented the incident.
+    -   Action: Reminder to not perform potentially dangerous lifts by yourself. Forklift not financially viable.
+-   A second report concerning minor equipment damage that did not have the possibility to cause injuries has been excluded.
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   Nil
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   See \#announcements on Slack: <https://perthartifactory.slack.com/archives/C01J9C6LHE1/p1651623332633419>
+-   Form set up: <https://perart.io/ideas>
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+-   EXPENSES
+
+| Moved By    | MOVER             |
+|-------------|-------------------|
+| Seconded By | SECONDER          |
+| Status      | Accepted/Rejected |
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+**Current Status**
+
+Membership as at 2020-xx-xx:
+
+-   X (+X / -X) Full Members (Monthly+Annual);
+-   X (+X / -X) Concession Memberships (Monthly+Annual);
+-   X (+X / -X) Band Memberships
+-   X (+X / -X) Associate Memberships
+
+**New Memberships for approval**
+
+Membership applications deferred to online vote
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * N/A
+
+**Event Officer**
+
+      * Event officer not at meeting.
+      * NM Back, Fletcher in org chat
+      * Modsynth back (?) FB event but we haven't heard anything from then
+
+**Rehearsal Room Coordinators**
+
+      * Minor cleaning
+      * Martin has suggested that the laser cut sign isn't official enough, acrylic suggested as an alternative.
+
+**Quartermasters**
+
+      * Request for more non caffeinated sugar-free-free drinks received. Fanta and Lemon Squash stocked. (Fletcher)
+      * Offer NM to stock for event
+
+**Membership Officers**
+
+      * None
+
+**Membership Storage Officer**
+
+      * Free spots available, no one on waitlist (Fletcher)
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * Train the trainer event was productive. Prospective trainers are now waiting for the opportunity to train new people.
+      * Contaminates in the air line have negatively impacted the operation of Big Red
+
+**IT Subcommittee**
+
+      * Filer recreated on consolidated server with better snapshots (zfs). This will also make backups easier.
+      * Secondary Shlink (url shortening) instance created to facilitate local v remote urls. https://i.perart.io
+      * Website sponsors updated
+      * Nextcloud instance set up. This allows for external access to files in the space and a potential solution for our online motions. Fletcher will go over invite details. https://cloud.artifactory.org.au
+        * Incident report mirrored
+        * Proposed event report created
+      * Consolidated server migration is (probably) complete, scream test in progress.
+
+**Promotions Subcommittee**
+
+      * Received design files from previous promotions from DavidO
+      * NM and ModSynth are back this month. Will need volunteers to help prep/cleanup the space.
+
+**Sponsored Memberships Panel**
+
+      * Jason and BenC working on promotions
+
+**Infrastructure Subcommittee**
+
+      * Compressor installed and working out kinks with moisture in the line. Fletcher and DanielM are exploring new features to increase usability of the system.
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   Arduino U - (Coordinators: Blake, Stewart) -
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) - NickB has requested a reduction in rate to \$5 (approved) for the event. Also a key for an event host that isn't a member (approved but recipient hasn't been nominated). POSH/PLUG have also enquired about sharing the cost of the meetup subscription, told them that if they wanted to split ours that would be fine but splitting theirs would require more discussion.
+
+**Games**
+
+-   ARTIfrag (Coordinator: Iain) - Did not run
+-   Boardgame Night (Coordinator: Phoebe) - Did not run
+
+**Cosplay and Craft**
+
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - Business as usual
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Returns this month
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) - Did not run
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Skot) - Returns this month
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) - Running as usual
+-   Open Day (Coordinator: Fletcher) - Running as usual, more volunteers needed
+-   Wine & Design (Coordinator: Committee) - Quiet
+-   Metal Monday (Coordinator: Ben) - Running well, seems to still have plenty of momentum. Getting new members coming and progress is being made on the group project (lathe)
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Novo Resources proposal
+
+See PDF on Slack/AF Cloud
+
+**Motion**
+
+Authorise Ben and Fletcher to proceed with the proposal.
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Ben      |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   Next meeting: 2022.07.02 16:30, 8 weeks
+
+Minutes: [Committee Meeting 2022.07.02](Committee Meeting 2022.07.02)
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

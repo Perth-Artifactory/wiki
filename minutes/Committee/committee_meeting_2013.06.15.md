@@ -1,0 +1,131 @@
+---
+title: "Committee meeting for Perth Artifactory 15 June 2013"
+---
+### Committee meeting for Perth Artifactory 15 June 2013
+
+-   Location: Perth Artifactory
+-   Meeting Opened: 13.25
+-   Next Meeting: Saturday 2013-07-20-1300
+
+#### Members present
+
+-   Present: Nick, Skot, Daniel, Brett, Jenna, Brendan
+-   Apologies: Anton, Peter
+
+#### Previous minutes
+
+-   Jenna moves to accept, Daniel seconds, accepted.
+
+### AGENDA
+
+-   Correspondence
+-   Reports
+-   Events
+-   Lease
+-   Lotterywest
+-   City of Stirling
+-   General
+
+#### Correspondence
+
+-   Current rent/Tenant Tax invoice sent&dated 20130612
+
+```{=html}
+<!-- -->
+```
+      Rent $2603.33 + Outgoings $575 + Mgt fee $156.20 + GST = $3667.98
+      For the period 20130701-20130731 , due 20130701
+      Plus 2012-13 variable outgoings shortfall $131.90, due now
+
+-   Rent was \$2603 excluding GST (=\$2863 inc.), going up 80 up to: total \$3698 per month including GST. Treasury believes that this can be handled without issue.
+-   Skot proposes agendum for later: lease renewal.
+-   Skot has heard from Geoff Wyber and Anthony at Lotterywest - both forwarded to committee, both useless. So much for the fast-tracking.
+-   Lotterywest has gone through to the next stage.
+
+#### Treasurer Report
+
+-   Current Bank Account Balance: \$ 2144.86
+-   June rent paid
+-   Synergy bill paid
+-   \$113.30 for the last skip bill
+-   invoices went out today.
+-   no anticipated problems with next month's rent.
+
+#### Infrastructure Subcommittee
+
+    * 
+
+#### Membership
+
+-   Flattened membership form. Announcement sent to list. Kicks in 1/7/2013
+-   if there's anyone we need to chase for past bills, we need to reconcile that as we change the rates.
+-   we would lose a little bit from people dropping to day rates. Should we go forward?
+-   it makes sense and would encourage more activity..
+-   security issue: grace period/sponsorship, tags on equipment.
+-   requires notice in writing so that new members understand.
+-   missing membership report
+-   Meg Travers new member, now has Daniel's old key fob.
+-   Brett raises idea for nominal fee for non-member friend-of-artifactory class... \$100 social event membership..
+-   can discuss that at AGM with as many members as possible.
+-   We should do a financial report at the end of this month. If the membership officers peter/ daniel/skot need help, just ask? \*ACTION.
+
+#### Events
+
+-   NM & Industrial Night
+-   gaming programming thing was great. They can do that whenever because we got snacks.
+-   we've been approached to host the poetry festival again. Was well-recieved.
+-   Artifactory has inherited 7 bins.. also cartons. Next noise maschin will have very little outgoings.
+-   geek haven postponed for one week.
+
+#### Lease
+
+-   skot moves to accept the new lease conditions, Don walks in. All accept.
+
+#### Lotterywest
+
+-   we've been put up and recommended, now begins the slow process of being ticked off by the Premier.
+
+#### City of Stirling
+
+-   Planning Approval Application Lodged 2nd May 2013. Stirling City now processing, Have had comms with Geoff Wyber who is leaving CoS.
+
+#### Revitalising CNC machines
+
+-   mills - we have a dead Mill, and an inoperative CNC Mill.
+-   need to work out what bits we need. Cnc one needs mechanical bits, The regular mill needs a new driver, which Greg(reprap) has taken on.
+
+#### Ongoing 3D printer issues
+
+-   Lint-free cloth was not replaced when filament was changed, led to instant clogging.
+-   heater block died. Brendan will get onto that after meeting. Get two. ACTION
+-   Apparently the stepper motor has issues. The motor will fail after 45minutes.
+-   email the guy we bought it from and ask for recommendations.
+
+### GENERAL
+
+-   Do we have a certificate of incorporation? Yes. (Probably with SKoT, not Daniel) ACTION SKoT, scan it
+-   Has anyone seen the QR code asset stickers? No?
+-   get special DVI adapter for Anton's projector. ACTION BRENDAN
+-   brendan suggests btsync as alternative to sparkleshare that keeps everything on the computers and distributes it rather than storing on the cloud. Let's check it out.
+
+### PREVIOUS ACTION ITEMS
+
+-   ACTION: Brendan: Start a Management Software System wiki page
+-   not yet. Will make wiki after meeting
+-   ACTION 70/40 flattened membership form. Nick sending announcement to list. Kicks in 1/7/2013
+-   done.
+
+### ACTION SUMMARY
+
+-   Nick: get webinabox credentials from trent, also welcome back trent to artifactory membership
+-   SKoT: Scan Certificate of Incorporation
+-   Brendan: recover twitter account saying that our email has been hacked. So secure.
+-   Brendan: Start a Management Software System wiki page.
+-   Brendan: order parts for 3D printer, special DVI adapter for Anton's projector.
+-   Daniel/Peter: Membership/financial report at the end of the month.
+-   Agenda item for later: lease renewal.
+-   check out BTsync as sparkleshare alternative.
+
+#### Meeting Closed
+
+2pm

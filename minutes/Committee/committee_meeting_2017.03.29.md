@@ -1,0 +1,78 @@
+---
+title: "Committee Meeting 2017.03.29"
+---
+# Committee Meeting 2017.03.29
+
+## Agenda
+
+### Previous Action Items
+
+-   ACTIONITEMS
+
+### Agenda Items
+
+## Minutes
+
+### Members Present
+
+-   Present:
+-   Apologies:
+-   Absent:
+
+### Meeting Times
+
+-   Opened: OPEN
+-   Closed: CLOSE
+-   Next meeting: NEXTMEETING, n weeks
+
+### Minutes of previous meeting
+
+| Status      | Accepted/Rejected |
+|-------------|-------------------|
+| Moved By    | PM-MOVER          |
+| Seconded By | PM-SECONDER       |
+
+### Correspondence
+
+-   CORRESPONDENCE
+
+### Property Report
+
+-   PROPERTY
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   CHAIRPERSON
+
+#### Treasurer's Report
+
+-   TREASURER
+    -   Last known bank balance
+
+#### Membership Officer Report
+
+-   MEMBERSHIP
+    -   Approval of New Members
+    -   Current Numbers: X full, X concession, X visitor members
+
+#### Events Officer Report
+
+-   Previous
+-   Upcoming
+
+### Previous ACTION Items Status
+
+### Sub-Committee Reports
+
+#### Infrastructure Report
+
+-   INFRASTRUCTURE TSAR
+-   [Tidy Space](/tidyspace/) [AREA HOSTS](/areahosts/)
+
+### Agenda Items
+
+### General Business
+
+### ACTION Items Resulting

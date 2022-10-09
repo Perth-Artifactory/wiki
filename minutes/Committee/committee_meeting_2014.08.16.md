@@ -1,0 +1,204 @@
+---
+title: "Agenda"
+---
+## Agenda
+
+-   [Upcoming 2014 AGM, 2014.09.13 1100](agm_minutes_2014.09.13)
+    -   2013-2014 finance & activity reports
+    -   Election of new Committee
+    -   City of Swan, Cornwell House Community Workshops, Midland
+
+```{=html}
+<!-- -->
+```
+          * We need to prepare a schedule of days/times when we would like to use the CHCW meeting room.
+          * Interested Committee members invited to attend the CHCW AGM. Tuesday 19th August @ 14:00 hours at the Midland Town Hall Library
+      * ACTION: SKoT: Post AGM: NAB form, new signatories?
+      * Review of membership fees
+        * 3.3% CPI increase of rent
+        * Raise from $70/$40
+        * Premium membership, $100/month, no tool usage fees?
+        * AudioVault
+      * ...all to be followed by a lunchtime sausage sizzle
+        * JamesS: Let's grab some some decent Mondo's sausages round the corner on the day
+          * Golden Bakery rolls/baguettes
+      * ACTION: JD to post to artifactory-core re: Membership Invoices, Liquidation!
+    * AudioVault
+      * Rent rise?
+      * Long term plans for the space
+        * JD: Dan who made the Stargate and Deathray props, wants to lease some arts studio space, like 25% of the warehouse, 10x10m! Workshops, etc; then expand to Midland?
+      * AV wants to have band nights, EP releases
+        * Need the space clear so clearing and packing up doesn't take forever!
+        * Fri, Sat nights
+        * Need to pay a couple of staff behind bar
+        * 50 people council limit
+          * ACTION: JD: Get a quote for a fire door
+      * Shelving
+        * Want to put a row of shelvving at the front of the office
+          * Area warden says Yes!
+        * TG: We could use some too, members-only materials rack
+
+### Previous Action Items
+
+-   ACTION: Anton: Has contact, Claude, with cheap storage crates, Middle Swan. We'd like some, please send details through
+-   ACTION: NB: tell landlord about the roof leak above offices in remote corner, drips into AudioVault
+-   ACTION: BD: Organise a Chimney, we have permission from the owners for whirlybird, etc. installation
+    -   DH was going to? With piping from Galvins?
+-   ACTION: Southen, Davo, Nick: Armtwist users, especially committee to set a LDAP password on auth.internal.artifactory.org.au
+-   ACTION: WC, write letter to Cornwell House: "Yes we would like to be aprt of this, we have N members, we will be a foundational member club, subject to ratification at our next GM"
+-   ACTION: WC: Remove skulls from gate!
+    -   but some people like them!
+-   ACTION: JM will forward AST updates to committee
+-   ACTION: MitchK: Fire extinguishers@work for us, Monday?
+-   ACTION: JM/TG/JD: Adam Fiannaca - Needs to be converted to a 12 months gratis membership), payment as "other"
+-   ACTION: TG: Daniel Macnish has requested his membership be placed on hold as he's traveling until October.
+-   ACTION: MK: Make a microphone setup - stage mike + PA?
+-   ACTION: WC: Volunteers to run a 3D printer training workshop
+-   ACTION: SM: was willing to run a CNC training day when he's back?
+-   ACTION: WC: add series key padlock to gate, MK has a spare padlock?
+
+### Additional Agenda Items
+
+## Minutes
+
+### Members Present
+
+-   Present: JD NB ChrisBashall ChrisHall RichHatwell DavidO'Meara JamesStewart
+    -   Quorum Fail!
+    -   AudioVault had more people here and voted us out
+    -   Then Timbo arrived!
+-   Apologies: DH JM BD SM
+-   Absent: BR WC AL SR
+
+### Meeting Times
+
+-   Opened: 10:24am
+-   Closed: 11:55am
+-   Next meeting: post-AGM, 20140913-1100, 4 weeks
+
+### Minutes of previous meeting
+
+-   True and correct records for June, July?
+
+| Status      | Accepted/Rejected |
+|-------------|-------------------|
+| Moved By    | PM-MOVER          |
+| Seconded By | PM-SECONDER       |
+
+### Correspondence
+
+### Property Report
+
+-   PROPERTY
+
+## Officer Reports
+
+### Chairperson's Report
+
+-   CHAIRPERSON
+    -   Let's go to Scitech
+    -   Visitors are coming through, we need more!
+
+### Treasurer's Report
+
+-   TREASURER
+    -   Last known bank balance
+        -   Artifactory has \$?
+        -   GSPA has \$?
+        -   Total: \$?
+        -   Major bills paid this month?
+            -   August rent was, not September yet, due September 1st
+            -   Power?
+-   SM: Sorted out the rent for Aug
+-   Grants
+    -   TG: Would Lotterywest support use with a grant for getting the space up to code?
+        -   already considering them for the toolroom
+    -   DO'M: Fogerty Association, Philanthropist's might too
+
+### Membership Officer Report
+
+-   MEMBERSHIP
+
+```{=html}
+<!-- -->
+```
+-   New members since last month:
+-   Approval of New Members
+
+| Status      | Accepted    |
+|-------------|-------------|
+| Moved By    | PM-MOVER    |
+| Seconded By | PM-SECONDER |
+
+-   Current Membership Numbers
+    -   ? active full, ? inactive full
+    -   ? active concession, ? inactive concession
+    -   ? active visitors, ? inactive visitors
+    -   Some extra visitors are coming through, cash is appearing in the tin
+-   What's the expected membership income for this or last month?
+    -   (activeF\*70 + activeC\*40) = \$X?
+        -   or... how many people have paid a month's membership or more in the last 30 days?
+    -   \+ \$1200 AudioVault?
+
+### Events Officer Report
+
+-   Previous
+    -   Sunday 20140727-1000--1800 Lifecasting course, Rich Hatwell
+        -   <https://www.facebook.com/events/332116016943133>
+    -   Saturday 20140802-1000 - Cosplay Build Day <https://www.facebook.com/events/805469366138987> \$10/\$20
+    -   DIY Mod Synth night - about \$160 added to the kitty
+    -   NM#37 about the same - \$160
+    -   Geek Haven - a small handful of outsiders
+-   Upcoming
+    -   Today! Scitech festival for National Science Week <http://www.scienceweek.net.au/>
+    -   Tuesday 20140826-1930 NoizeMaschin!! \#38 <https://www.facebook.com/events/1478683882371357>
+    -   Tuesday 20140819 ADUG <http://www.adug.org.au/meetings/perth/next_meeting.html>
+    -   DIY Mod Synth night: Catchup and review
+    -   Saturday 20140906-1900 GSPA, Steampunk and Dinosaurs at the Museum <https://www.facebook.com/events/296301457200275>
+        -   GSPA Ball - this is a benefit gig for Artifactory. Promote! We need the funds (Artifactory)
+    -   SAGA Reunion Friday 20140919--21 ?
+    -   September: NM#39
+    -   Saturday 20140927, Sunday 28: Robotics Weekend with Curtin
+    -   October: NM \#40
+    -   October: Plans are afoot for a Halloween Artifactory fund raising party in Freo, partly funded by Freo council
+    -   20141115 - DO'M BeaufortSt Festival Stall! Hands up for helpers?
+-   Suggested
+    -   TG: Laser training: Schedule some RSVP'ed TidyClub non-Mondays?
+        -   Some people have being coming along, needing help, but not taking to time to train themselves up
+        -   Big jobs should have a quasi-commercial premium, it's been happening on goodwill so far. More like \$1/minute, not \$0.10! Other prototyping places charge more
+        -   Big jobs will have to be interrupted if there's a queue
+        -   Be generous if you're doing commercial work
+
+### Sub-Committee Reports
+
+#### Safety Report
+
+-   Safety Officer - DH, deputy?
+    -   Any Incidents?
+        -   Incident-free: 1 month!
+            -   OK, OK, a bandaid was required
+
+#### Quartermasters
+
+-   Timbo, Helenzilla, MK?
+-   Going OK? Need a hand?
+
+#### Media and Propaganda/Promotions
+
+-   SKoT, deputy Steven Reszegi, David O'Meara
+
+#### IT Infrastructure Report
+
+-   David, Nick, Timbo, Southen, Daniel, Brendan?
+
+#### Infrastructure Report
+
+-   INFRASTRUCTURE TSAR - Anton
+-   [Tidy Space](/tidyspace/) [AREA HOSTS](/areahosts/)
+    -   TG: Carpark and Kitchen - enthusiasm welcome, should follow the [Tidy Space policy](/tidyspace/)
+
+### Agenda Items
+
+### General Business
+
+### ACTION Items Resulting

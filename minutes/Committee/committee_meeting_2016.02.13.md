@@ -1,0 +1,169 @@
+---
+title: "Committee Meeting 2016.02.13"
+---
+# Committee Meeting 2016.02.13
+
+## Agenda
+
+### Previous Action Items
+
+##### Carried over
+
+-   ACTION: Stuart to investigate EFTPOS pin pad. **COMPLETED**
+-   ACTION: SKoT to get prospectus to StuartM for ACNC/Cultural org. registration **Not done**
+-   ACTION: SkotM to review prospectus and contact Kool Room to arrange follow-up **Not Done**
+-   ACTION: SKoTM to sort our NM and Space t-shirts **Not done**
+-   ACTION: MK to wrangle a new sign **Not Done**
+-   ACTION: Stuart to add wiki section on How to cancel/suspend membership. **COMPLETED**
+-   ACTION: Registering ACNC - **Ongoing**
+-   ACTION: SKoT - Solar Panels **Not done**
+
+##### Current
+
+-   ACTION: NickB to order laser spares. **DONE**
+-   ACTION: MegT to order band room air conditioner. **DONE**
+-   ACTION: MitchK to get quote for security cables. **DONE**\*
+-   ACTION: SkotM to replace office door lock **COMPLETED**
+-   ACTION: StuartM to wrangle potential sponsors for website. **NOT DONE**
+
+### Additional Agenda Items
+
+## Minutes
+
+### Members Present
+
+-   Present: SkotM StuartM NickB MegT TimG DaveO, Jean-michel
+-   Apologies:AndrewE SteveH
+-   Absent: DnanB
+-   Observing MitchK
+
+### Meeting Times
+
+-   Opened: 11:10
+-   Closed: 12:45
+-   Next meeting: NEXTMEETING, 4 weeks 12th March 11:00AM
+
+### Minutes of previous meeting
+
+| Status      | Accepted |
+|-------------|----------|
+| Moved By    | StuartM  |
+| Seconded By | NickB    |
+
+### Correspondence
+
+-   Stiring Grant - Striling would like justification on people hours
+-   WA Museum - Hackathon involving high school kids + makers .
+-   CSIRO would like to hold an event. DaveO wrangling
+-   Cornwall House - They have a business plan showing it can be sustainable. They are going to present it to council Wednesday 24th Feb at 9:00AM **ACTION: NickB to attend**
+-   Swancon have offered us a table
+
+### Property Report
+
+-   (SkotM) Dan wants to fix kitchen area plumbing, adding extra taps
+-   JM - we had rain, and the back drain seemed to be blocked.
+-   Cracks getting bigger? - **Action** NickB to quantify after meeting.
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   Stirling grant thing - Have been away, will follow up soon.
+
+```{=html}
+<!-- -->
+```
+    * 
+
+#### Treasurer's Report
+
+    *Last known bank balance $8541.66 - 11/02/2016
+    *:( Members are NOT paying promptly :(
+    *Bond Value - $5615 up from $4965.00 - 11/02/16
+    *TidyClub/Stripe payments yet to hit NAB account at 11/02/16: $312.03
+    *March 2016 Lease $3993 to be Paid 29/02/16  
+    *All other usually outgoings paid (Instant Waste, Vivid Wireless, BOC gases, Synergy
+    *Timg - Suspensiions should be committee **approved**. SkotM "Reapplication" fee. Technical solution: Poll tidyclib Ping member the week their membership has expired. **Action: Refer to it Subcommittee**
+
+EFTPOS
+
+-   Decided on NAB
+-   Costs \$40 per month, No cost on the first \$1500 put through, 1.5% on ALL transactions after that.(EFTPOS not treated differently.
+-   No Cash out
+-   Accepts (Visa/MasterCard/UnionPay/EFTPOS)
+-   No minimum transaction amount
+-   Currently Awaiting Terminal - 16/2 Delivery to my home - Application sent 20/01/2016, NAB gave verbal approval 01/02, Approval doc.s received 10/02. Delivery date advised 16/02. We must use the terminal prior to 29/02 to accept NAB's offer of the terminal.
+
+Equipment Expenses - Committee Approved
+
+      * From $1700 recommended available for spending on 01/01/16
+      * SPENT - New Door Lock $226, Band Room AC $589, Laser Parts $268
+      * TO BE SPENT - Cabling/Tools for electronic work bench ~$227, Drop Saw ~$400
+      * No further funds for equipment are available at this point. Hopefully come next meeting.
+
+#### Membership Officer Report
+
+-   Open days a huge success
+-   MEMBERSHIP
+    -   Approval of New Members
+
+Michael Grau-CONCESSION, Jessica Mooney-CONCESSION, Daniel Sonnabend-CONCESSION, Luke Brooks-FULL, Hugh Frazer-FULL, Stefan Elliott-FULL, Alex Crook-CONCESSION, Stephen Hicks-FULL, William Blakers-FULL, Ryan Coleman-FULL, Crow Jones-BAND, The Jump Doubles-BAND, Modular Man-BAND
+
+      * Members Ceasing
+      - Iwona Boreback, Jennifer Wyatt, Nathan Thompson - Moving to day rates
+      - Mike Handley - Membership Terminated 3 month rule
+      - Warren Creamers(APRIL), Bradley Parkin - Moving Away
+    * 2 Full Members with Tool Usage,
+    * 35-30 Full Members;
+    * 15-10 Concession Members;
+    * 1 Studio Member
+    * 1 Sponsored Member
+    * 1 Active Band/Concession Membership
+    * 1 Active Tenant; which includes two individual "full" memberships
+    * 6 Bands (7th coming....Modular Man) 1 which is Band/Concession Membership
+
+#### Events Officer Report
+
+-   Previous:
+    -   Noizemaschin pertheand Mandurah.
+    -   WAMOD (15 non-members broguht in \$150).
+    -   Open day
+    -   Arduino U
+    -   Heathcote market stall - Promo success. Sold 50% of stock. broke even. remainder stock for next time
+    -   Drum and bass night (30 punters). **Post Mortem after meeting**
+-   Upcoming
+    -   Biohack next weeken 20th.. Topic; making arduino gadgets etc. Group have connections into the Uni's, for collecting interesting gear.
+    -   3D printing night and spanish music night **Ation: SKoT to follow up with Rod to make sure it's on**
+    -   CSIRO ICT gathering 18th. **Action: DaveO to wrangle**
+
+### Previous ACTION Items Status
+
+STUART'S
+
+-   EFTPOS - See Treasurer's Report
+-   Website Advertising - Website repairs first - Clarification of what ADs - Google ADs
+-   How to cancel/suspend membership on WIKI - Done
+
+### Sub-Committee Reports
+
+#### Infrastructure Report
+
+-   MK: Fridge broken. StuartM - not broken, cans pushed against back, restricting airflow. **Action: NickB to implement clever solution.**
+-   Dan will supply a new bandsaw, with an induction before use.
+-   [Tidy Space](/tidyspace/) [AREA HOSTS](/areahosts/)
+
+#### Tool maintenance subcommittee
+
+Group to coordinate maintenance of heavy tools **Action: NickB to set up mailing list artifactory-tools**
+
+### Agenda Items
+
+\* Website in need of major fixing - Who can fix. (Calendar has disappeared, BitCoin and PayPal need removing) **Action: TimG to run with JekyllRB in conjunction with IT subcommittee** \* Western Wall Shelving - Move to left of stage during Wine & Design on wed. \* MitckK suggests we enforce drop sheets when using resins etc. **Action: Skot to post out to list** \* Large Objects taking up space - Buggy and bike have gone!!! \* Identity for security. How can we help members identify members/non-members who enter the space. Names on the Wiki, Photo board.
+
+**Action: MitchK to investigate Officeworks printing ID cards. RFID?** \*\*Action: SkoT to review membership lists
+
+### General Business
+
+Laser access **Action: Laser subcommittee to Install manual keys in a race with RFID guys**
+
+### ACTION Items Resulting

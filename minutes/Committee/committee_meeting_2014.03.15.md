@@ -1,0 +1,147 @@
+---
+title: "committee_meeting_2014.03.15"
+---
+-   Meeting open: 13:37
+-   Happy <http://wiki.hfday.org/2014> !
+-   Happy Lasercutter Servicing Day \#1 ! Fire up the BBQ!
+
+```{=html}
+<!-- -->
+```
+-   Present: JD, BD, NB, Timbo, DH, SKoT, MK, Chris Hall,
+-   Apologies: JM, AL, WC
+-   Absent: BR
+
+```{=html}
+<!-- -->
+```
+-   Acceptance, Previous minutes: A propose, B seconds: Result
+
+```{=html}
+<!-- -->
+```
+-   Reports
+
+```{=html}
+<!-- -->
+```
+-   Correspondance
+    -   SM: Stirling City Council: Health Deparment is now talking to us, inspection THIS FRIDAY
+        -   They will bring us the Public Building permits
+        -   Hopefully we can have dispensation to do large events while the permit application is in progress
+
+```{=html}
+<!-- -->
+```
+-   Treasurer's report by email:
+    -   Date: Fri, 14 Mar 2014 18:51:04 +0800
+    -   Insurance bill missing
+    -   \$620/month bill
+        -   Turn aircon off?
+        -   Remida: \$228 not paid yet, not until other bills are done, allow to moulder, pause membership
+    -   ACTION: JD Publicise cashflow problems now
+    -   Repay bond: form says now
+        -   Membership buffer
+    -   NM audio repair bill \$210, as membership credit: MOTION: DH propose, SM second. Passed without dissent
+    -   Nothing from insurance
+    -   ACTION: Timbo prepare report of new members
+        -   40 subscription members currently
+
+```{=html}
+<!-- -->
+```
+-   Infrastructure, BD
+    -   Laser ducting was leaking, fixed thanks CH, DO'M, MK!
+    -   MK: council required bike rack installed - thanks! Roof ccoming soon
+    -   Door v2 Hardware still on the way
+    -   Preparation for Toolroom Mark II
+        -   Initial quote (Midalia Steel): \$3664 for all required steel, mostly the main structural members
+        -   \$1000 for cladding
+
+```{=html}
+<!-- -->
+```
+      * IT update
+        * network
+        * vmm-0: shell, internal died
+        * vmm-1: core, auth, filer, web/wiki up
+        * tidyclub.com user import/syncing
+        * ACTION: NB: from MK, DO'M -> MK, DH: link up WAFreenet.org
+          * New IPs, we're on it
+
+      * Past Events report
+        * $300 in from NM32
+      * Upcoming Events
+        * NM33 March 25
+          * Laser projectors in house
+        * NM34 will be at Blazing Swan, not at the space
+          * Artifactory Camp hosting a camp there
+          * Also, techno-futurist camp
+        * Australian Experimental Film Festival in May (FIXME: When? Details?) - not charging, but we are taking bar?
+          * Gold coin donation?
+          * Evenings of a weekend, Fri, Sat, Sun
+        * http://www.adug.org.au/ would like to book some more evening meetings here
+          * Third Tuesday of the month by preference
+            * No calendar clash for 2014-04-15
+            * 2014-05-20 would clash with NM35 - is that date fixed yet? Yes. Can have 27th
+            * 2014-06-17 available?
+          * Some Delphi+Arduino interfacing is being talked about by them this month
+        * DIY Module Synth workshop 2014-04
+
+-   Previous ACTION items
+    -   ACTION: DH email Anton about toolroom
+    -   ACTION: MK: 6 services for \$85 at office from Westside Fire Services, will email invoice, Anton
+        -   MK spoke to Westside, they've heard of us!
+            -   SM will float extinguisher servicing
+            -   ACTION: MK will organise immediate servicing, done by Friday
+    -   ACTION: SKoT: AREA WARDEN posters
+        -   Has a stack of paper ready to print
+        -   Wardens documented at <http://wiki.artifactory.org.au/doku.php?id=areahosts>
+        -   Cleaned items are moved to limbo
+        -   Timbo will have the ticket files in btsync
+    -   ACTION: Jason: NAB form, new signatories?
+    -   ACTION: NB fridge: basic foam seals
+        -   power usage 38.25kWh over 16 days
+        -   WC - can we rent one?
+        -   Defer another month
+    -   ACTION: Funding Efforts
+        -   Subcommittee: To the lists!
+    -   ACTION: Tim: Parking ticket manufacturing
+        -   3 days with a red parking ticket, then to limbo
+        -   Alternating limbo piles, one emptied per week for bin or free for taking
+    -   ACTION: NB, MK Relocate extraction fans
+    -   ACTION: NB: O-Day/Special UCC night
+        -   Roster on wiki
+    -   ACTION: DO'M send Lotterywest a care package re: previous laser grant
+        -   Promotions! D'OM has a stack of ites ready to show
+
+```{=html}
+<!-- -->
+```
+-   Agenda:
+    -   Please place further items on the wiki agenda
+    -   Annual insurance bill due - \$1500?
+    -   Instant Waste bill due, issued 2014-02-28, invoice# 02702541, \$110
+    -   More fund raising ideas needed, we are broke
+    -   [TidySpace](/tidyspace/) parking tickets are printed, Timbo dropped them in at some point.
+        -   Yellow requests were left on the bar
+        -   red and green are in the office
+        -   [Areas and hosts](/areahosts/) report
+        -   Permits must have an end date
+        -   Webcam on limbo table
+    -   [Promotion and marketing](/projects/selfpromotion)
+        -   Swancon Easter Thursday 2014-04-17--21 - provide some bag schwag, a stall, a presentation?
+        -   Supernova weekend of 2014-06-21--22 - share a stall, cost: \$110 for Kitty Byrne, \$110 for us
+    -   More hacking! Training days?
+        -   JD: There's demand, to the lists!
+
+```{=html}
+<!-- -->
+```
+-   General business
+
+```{=html}
+<!-- -->
+```
+-   Next meeting: Saturday morning 20140412-1000, 4 weeks
+-   Meeting closed: 1425

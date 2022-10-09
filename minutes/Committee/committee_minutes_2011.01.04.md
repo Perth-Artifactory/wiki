@@ -1,0 +1,53 @@
+---
+title: "Committee Meeting 2011.01.04"
+---
+# Committee Meeting 2011.01.04
+
+**Members Present**
+
+-   Skot McDonald
+-   Brendan Ragan
+-   Daniel Harmsworth
+
+Apologies from Peter Dreisiger (PD), Simon Kirkby (SK)
+
+**Meeting Times**
+
+-   Opened: 21:07
+-   Closed: 21:36
+-   Next meeting: 18th January.
+
+**Action Items**
+
+-   PD to Get meta workshop info up and running
+-   PD to email core to think about nights / etc for the new space
+-   BR to harass people about wireless internets etc.
+-   SM to get details of all other committee details to andrew etc.
+
+**Minutes**
+
+1.  Finalise agenda for this meeting
+2.  Minutes of previous meeting
+3.  Correspondence
+    1.  SM had conversations with Sydney Hackspace
+        1.  Little Bird wanted to run Sydney Hackspace as a fan club
+        2.  WA is the premier Hackspace in Australia by a large margin, due to equipment and monies
+        3.  Skot will be visiting the Sydney one this weekend (9th)
+4.  Office-holder Reports
+    1.  Treasurer's Report
+        1.  PD acting treasurer in Skot's absence - email to core reported this info.
+        2.  Monthly shortfall is currently about \$600
+        3.  6 Keys were cut
+    2.  Chairman's Report
+        1.  Sent some email out to get infrastructure running, will continue pushing to get things happening.
+5.  General Business
+    1.  Wirly bird installation - DH will ask his family about them
+    2.  Moving Air Con exhaust outside
+    3.  Endorsement of a safer-space statement and poster --- draft available [here](/committee/policies/safer_space)
+        1.  There needs to be a policy, needs to be by-laws that reflect these concepts
+    4.  New committee and sub-committee positions
+        1.  PD sent an email to -core; so far has received one volunteer for IT infrastructure and one for physical. No takers yet on the promotions or membership manager positions.
+    5.  Workshops
+        1.  PD has spoken (in person) to a couple of members about running an electronics and a more artist oriented workshop.
+        2.  PD has also has spoken to Michelle Outram about running some additional workshops/seminars. Potential themes, subject to interest, include (a) how to run a workshop; (b) how to apply for arts grants (and the DCF in particular); (c) how to establish an artist/hacker-in-residence program; and (d) what is art/the overlap between technology and art. Email to follow.
+        3.  RAID workshop

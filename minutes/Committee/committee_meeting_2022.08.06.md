@@ -1,0 +1,264 @@
+---
+title: "Committee Meeting [2022.08.06](2022.08.06)"
+---
+# Committee Meeting [2022.08.06](2022.08.06)
+
+Previous meeting:[Committee Meeting 2022.07.02](Committee Meeting 2022.07.02)
+
+Next meeting: [Committee Meeting NNNN.NN.NN](Committee Meeting NNNN.NN.NN)
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: REMOVE NOT PRESENT - Beau, Ben, Fletcher, Jason, Johannes, Joshua
+-   Apologies: NAMES
+-   Absent: Iain, Phoebe, Vincent
+-   Observing: NAMES
+-   Minute taker: Fletcher
+-   Chair: Beau
+
+### Meeting Times
+
+-   Opened: 1631
+-   Closed: 1729
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+Previous meeting's minutes: [Committee Meeting 2022.07.02](Committee Meeting 2022.07.02)
+
+-   DISCUSSION
+
+| Moved By    | Beau     |
+|-------------|----------|
+| Seconded By | Jason    |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+**ACTIONS**
+
+    *
+
+### Review Online Motions
+
+| Date raised | Date completed | Motion text                                                                                                                                       | Outcome |
+|-------------|----------------|---------------------------------------------------------------------------------------------------------------------------------------------------|---------|
+| 2022.07.02  | 2022.07.02     | MOTION: Disable a members door key for a minimum period of 7 days to allow the committee to discuss the issue. (see previous minutes for details) | Passed  |
+| 2022.07.15  | 2022.07.16     | MOTION: Auth \$139 purchase of Unifi G3 Flex to cover camera blind spot                                                                           | Passed  |
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Nothing of note
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   Nothing reported via incident report form
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   No property changes
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   We need to set an AGM date. 17/9 is within the time limits under our constitution and doesn't clash with the grand final.
+
+Set AGM 17/9/2022 1pm
+
+| Moved By    | Beau     |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
+
+Operations: \~\$9k Donations: \~\$3k
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * No report
+
+**Event Officer**
+
+      * No report
+
+**Rehearsal Room Coordinators**
+
+      * See other business
+
+**Quartermasters**
+
+      * Business as usual
+
+**Membership Officers**
+
+      * We need a better way of tracking pending people
+
+**Membership Storage Officer**
+
+      * See audit below
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * Maintenance attendance is high.
+      * Slight issue with the HV line on Big Red, repaired and replacement components ordered. No significant expenditure expected as a result.
+
+**IT Subcommittee**
+
+      * NVR archival/compression trial in place
+
+**Promotions Subcommittee**
+
+      * Supanova happened, good interest in the space and largely sold out of items. ~$1400
+      * We have a storefront now. https://shop.artifactory.org.au
+
+**Sponsored Memberships Panel**
+
+      * Interest at open day today
+
+**Infrastructure Subcommittee**
+
+      * Camera changes incoming
+      * Compressor changes incoming
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   Arduino U - (Coordinators: Hugh, Doug) - Business as usual
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) - Business as usual, we'll be splitting meetup costs with PLUG/POSH soon.
+
+**Games**
+
+-   ARTIfrag (Coordinator: Fletcher) - Event ran, was fun. Next lan in september?
+-   Boardgame Night (Coordinator: Phoebe) - Did not run
+
+**Cosplay and Craft**
+
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - Events ran, no concerns raised.
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Events ran, positive feedback from desk lights
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) - Did not run
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Skot) - Seems to be business as usual
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) - Business as usual
+-   Open Day (Coordinator: Fletcher) - Busy, 30+ per event. Having someone floating near the door worked well.
+-   Wine & Design (Coordinator: Committee) - Attendance is somewhat low but works well when rolled in with once off events.
+-   Metal Monday (Coordinator: Ben) - Business as usual, group projects are continuing and we now have regular attendees.
+
+**Other** (new and once off events)
+
+-   Metal training (Coordinator: Ben) - Going well, multiple members going through both lathe and mill training.
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Sheet storage audit
+
+We need to set a date for sheet storage auditing and let people know.
+
+Proposal is audit begins September.
+
+**Motion** (if required)
+
+Trigger membership storage audit to begin in september, notice to members to go out asap.
+
+//To take effect from xx/xx/2020 // (if new bylaw allow time for example for the website/wiki/tidyHQ to be updated.)
+
+| Moved By    | Joshua   |
+|-------------|----------|
+| Seconded By | Johannes |
+| Status      | Accepted |
+
+Action Items (if required)
+
+| Action Items        | Who                            |
+|---------------------|--------------------------------|
+| Announce to members | Beau                           |
+| Audit               | Beau/Fletcher/Joshua/JC/Others |
+
+------------------------------------------------------------------------
+
+### Rehearsal room equipment status and audit
+
+There is a lot of equipment in the rehearsal room that aren't realistically usable for all bands. Right now there's equipment that's "loaned" to the space but the owner has then removed the item temporarily for for personal use. This has significantly negatively impacted other bands to the point where at least one band has started rehearsing elsewhere.
+
+Our current system of hybrid/loaned backline is worse than either an empty room or a full backline.
+
+Our pricing may also bee too low.
+
+**Motion** (if required)
+
+Move towards Artifactory owned backline
+
+//To take effect from xx/xx/2020 // (if new bylaw allow time for example for the website/wiki/tidyHQ to be updated.)
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+Action Items (if required)
+
+| Action Items                                         | Who         |
+|------------------------------------------------------|-------------|
+| Investigate items that need to be acquired for bands | Joshua/JC   |
+| Investigate items needed for podcasting              | JC/Fletcher |
+| Investigate items needed for recording               | Fletcher/JC |
+| Talk to bands                                        | JC          |
+
+------------------------------------------------------------------------
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   Next meeting: 2022.09.17 13:00 pm, 6 weeks
+
+Minutes: [Committee Meeting NNNN.NN.NN](Committee Meeting NNNN.NN.NN)
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

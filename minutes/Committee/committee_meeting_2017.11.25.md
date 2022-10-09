@@ -1,0 +1,207 @@
+---
+title: "Committee Meeting 2017.11.25"
+---
+# Committee Meeting 2017.11.25
+
+## Agenda
+
+1.  Usual business
+    1.  Acceptance of last meeting's minutes
+    2.  Correspondence
+    3.  Property
+    4.  Chairman's report
+    5.  Treasurer's report
+    6.  Other officer's/Event Coordinators reports
+    7.  Subcommittee reports
+    8.  Area Host reports
+    9.  Cornwall House
+2.  Other business
+    1.  Any expenses/For reimbursement
+3.  Review of Action Items
+
+## Minutes
+
+### Members Present
+
+-   Present: Hugh, Lemming, Jean-Michel, James, Tim, Blake, Stuart, Steve
+-   Apologies: Tanner, Mel
+-   Absent: None
+
+### Meeting Times
+
+-   Opened: 11:15
+-   Closed: 12:09
+-   Next meeting: 30 Dec 2018, 11am
+
+### Minutes of previous meeting
+
+| Status      | Accepted    |
+|-------------|-------------|
+| Moved By    | Hugh        |
+| Seconded By | Jean-Michel |
+
+### Correspondence
+
+-   Aus Charities paperwork submitted. Should here back 12 Dec.
+-   Bed shop: bed frames available
+-   Leather workshops - Dec
+-   Disabilities center coming in to look for space for activity
+-   Warehouse space question - not really suitable for artifactory
+-   Mill to be picked up in Forestfield
+-   Ring roller available for loan to Artifactory
+-   Kelly Price - Margot - handover for council meeting
+
+### Property Report
+
+-   Hole in ceiling
+-   Band room AC
+    -   proposal to redirect to front room
+    -   Other idea - hole through wall
+    -   Other idea - redirect
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   Good signups
+-   Events went well
+    -   Croquet workshop - front room
+    -   Foam workshop - main area
+    -   BBQ
+    -   At least one artifactory member per event
+
+#### Treasurer's Report
+
+-   Committee insurance
+    -   To be investigated
+-   Changes required for government rules
+    -   Stu and Blake to investigate
+-   Jean Michel
+    -   Suggest we introduce Code of Conduct so people feel safe in the space as part of next major changes
+-   Lemming
+    -   Consider changing to longer committee terms (2yrs)
+
+|                                     | 31/10/2017     | 30/9/2017      |
+|-------------------------------------|----------------|----------------|
+| NAB Balance                         | \$6236.57      | \$5860.09      |
+| Pending Transfer from TidyHQ/EFTPOS | \$113.45       | \$423.69       |
+| Guthire St Bond                     | \$6000         | \$6000         |
+| **Balance**                         | **\$12350.02** | **\$12283.78** |
+|                                     |                |                |
+| **Quarantined Funds**               | 31/10/2017     | 30/9/2017      |
+| Estimated RFID Key Bond Value       | \$7785         | \$8055         |
+| For Insurance 18/19                 | \$912          | \$798          |
+| Sound Equip Payment Due             | \$2705         | \$2705         |
+| **DESIRED BALANCE**                 | **\$11402**    | **\$11558**    |
+
+| REVENUE (Excludes Bond)                      | Last month  | 12 month average |
+|----------------------------------------------|-------------|------------------|
+| Membership Income                            | \$3,585     | \$3,916          |
+| SpaceCash (drinks/events/venue hirer/casual) | \$2,007     | \$1,682          |
+| Fund Raising/Prizes/Donations                | \$150       | \$123            |
+| **TOTAL INCOME**                             | **\$5,742** | **\$5,721**      |
+|                                              |             |                  |
+| EXPENSES                                     | Last Month  | 12 month average |
+| Lease Paid for next month                    | \$4,224     | \$4,610          |
+| Electricity                                  | \$504       | \$364            |
+| Insurance (12mnth avg \$1372/12)             | \$0         | \$114            |
+| Waste/Internet/BOC Gases                     | \$126       | \$232            |
+| Merchant Fees                                | \$55        | \$52             |
+| Stripe/TidyHQ Fees                           | \$409       | \$143            |
+| Event Expenses                               | \$617       | \$103            |
+| Fundraising Expenses                         | \$0         | \$31             |
+| **Total (Prior to Equipment Purchases)**     | **\$5,936** | **\$5,618**      |
+| +/- Prior to Equipment Expenses              | -\$194      | \$103            |
+|                                              |             |                  |
+|                                              | Last Month  | 12 month average |
+| Equipment Expenses (Below)                   |             | \$73.87          |
+
+#### Membership Report
+
+23/11/17
+
+-   28 (-1) Full Members;
+-   22 (+5) Concession Memberships;
+-   3 (-2) Band Memberships
+-   2 (+1) The Residency
+
+```{=html}
+<!-- -->
+```
+-   **Approve** Memberships for Cancellation for Non-Payment (+90 days due)
+
+MOVED: Lemming
+
+SECONDED: James
+
+-   **Approve** of New Members since last meeting -
+    -   CONCESSION - Caleb Hicks, Loren Hughes, Jamieson Quin
+    -   FULL - James Palmer, Roland Adeney, Simon Gray
+    -   BAND - None
+
+MOVED: Lemming
+
+SECONDED: James
+
+#### Bandroom Report
+
+-   Smoke detector, requires new battery
+
+### Other officer's reports
+
+-   Jean-Michel Events
+    -   Event form to be filled out during events - sent out for review
+    -   Noise Machine
+        -   Went well
+        -   Push for more diversity
+        -   Maybe get radio to broadcast one - maybe Feb
+    -   Resident artist
+    -   Jean-Michel Recital
+    -   Arduino U going well
+    -   Open day - successful
+-   Lemming
+    -   BBQ bunnings - mel organising - March 2018
+    -   Radio interview went well
+
+#### Promotions Officer
+
+#### Event Coordinators Report
+
+-   NoizeM - (Coordinators SM, TG, JMM, Skot, Meg)
+-   Arduino U - (Coordinators Hugh, Doug)
+    -   Kits available
+    -   Going well
+-   DIY Synth - (Coordinator Lem)
+    -   Went well. Very busy.
+    -   Maybe need more tables
+    -   Maybe use front studio
+    -   Off for Jan/Feb
+-   Open Day - (Coordinator Steve)
+    -   Quite a few visitors
+    -   Few members laser training
+    -   Idea - have people doing project work - is done to some extent
+-   ADUG - (Coordinator Nick & Richard Harrington)
+    -   All good
+-   Cosplay - (Coordinator Lem)
+    -   Going well
+-   Other Events
+    -   Croquet went well
+
+### Sub-Committee Reports
+
+-   IT Lemming
+    -   Parts for server
+        -   Donated RAM available for pickup
+    -   Wiki/Website
+        -   Considering moving to different platform
+        -   Consider getting VPS so we can manage it
+-   Plumbing
+    -   Dale fixed toilet
+-   3D Printer
+    -   New extruder - off brand replacement - petty cash. Moved: Jean-Michel, Second: Lemming
+    -   Make sign for fees - Jean-Michel
+
+### General Business
+
+-   Magnus
+    -   Sharing social media and promoting

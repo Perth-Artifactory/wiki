@@ -1,0 +1,443 @@
+---
+title: "Committee Meeting 2020.02.08"
+---
+# Committee Meeting 2020.02.08
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: Stuart, Lauren, Steve, Fletcher, Vincent, Mel, Iain, Jean-Michel, Scott
+-   Apologies: Hugh
+-   Absent: NAMES
+-   Observing: Kim, Doug, Johannes
+-   Minute taker: Jean-Michel
+-   Chair: Iain
+
+### Meeting Times
+
+-   Opened: 3:09pm
+-   Closed: 4:27pm
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+    *
+
+| Moved By    | MOVER             |
+|-------------|-------------------|
+| Seconded By | SECONDER          |
+| Status      | Accepted/Rejected |
+
+### Review Previous Meeting's Action Items
+
+**ACTIONS**
+
+    *Purchase a replacement Hard disk drive for server - IT - (Scott)
+      *talked about, buying sata drives- (IT will sort)
+    *Purchase a Vectric Makerspace subscription - (Vincent has emailed) waiting on response - no reply (sorted)
+    *DoorBot status report follow up with Lemming - (Steve)- work ongoing
+      *on hiatus, no update, postponed
+    *Selling/disposal of printers - (Vincent)
+      *ongoing 
+    *Vending machine: Progress report at committee meeting in 2 months (Steve)
+    *Update by-laws (Vincent)-DONE
+     
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Travis and Constance - who built the kinetic sculpture last year for Geraldton's Wind and Water Fest. are possibly wanting to come back again for another build this year. Also asked for a written reference to make working with a makerspace over east easier. Fletcher's details provided as contact.
+-   We came runner up in the Leederville Grill'd grant for January. - \$100 - We cannot apply again for 12months. (thank you Kim)
+-   Steven Hughes wants to work on a project, details:
+
+```{=html}
+<!-- -->
+```
+    We are looking for a temporary space for the refurbishment and decoration of a truck to be made into a Blazing Swan Art Car. The vehicle is for the blazing swan camp Church of Belligerence.
+    We are looking for a safe space to sand, paint and construct aesthetic modifications to this truck. The truck itself has been mechanically serviced. This work will simply be an artistic modification, not mechanical. 
+    Attached is an image of the truck when fully expanded. 
+    We anticipate we’ll need 5 parking bays space for this work. The work will be completed in the space of one weekend. We have budget to cover these costs. The truck will remain operational during the work.
+    We wish to complete this in a weekend (TBD based on availability) sometime in February or March (Blazing Swan is in April).
+    I’m waiting to get exact measurements and will send through when they are confirmed.
+
+Permission granted
+
+    *action -Followup with Steve - Fletcher
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   No incidents reported
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   PROPERTY
+
+-working on using 3 phase outlet -
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   CHAIRPERSON
+
+```{=html}
+<!-- -->
+```
+      *nothing to report
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
+
+|                                                        | 31/01/2020      | 31/12/2019      |                                                                    |
+|--------------------------------------------------------|-----------------|-----------------|--------------------------------------------------------------------|
+| Bank Accounts                                          | \$16,256.31     | \$12,997.52     |                                                                    |
+| Pending from TidyHQ/EFTPOS/Cash + Float                | \$272.22        | \$877.86        |                                                                    |
+| **BALANCE**                                            | **\$16,528.53** | **\$13,875.38** | Ideally should be larger than bond value                           |
+| Guthrie St Bond                                        | \$6000          | \$6000          |                                                                    |
+|                                                        |                 |                 |                                                                    |
+| **Quarantined Funds**                                  | 31/01/2020      | 31/12/2019      |                                                                    |
+| Estimated Key Bond                                     | **\$11,395.00** | **\$11,225.00** |                                                                    |
+| For Insurance 20/21                                    | \$2,320.00      | \$2,088.00      | +232 for each month due annually 31/3. (\$2781.25 in 2019)         |
+| For TidyHQ 20/21                                       | \$147.00        | \$98.00         | +49 for each month due annually Oct. (\$588.75 in 2019)            |
+| For Extra Outgoings 20/21                              | \$600.00        | \$500.00        | +100 for each month due annually Aug. (\$442.66 in 2019)           |
+| **DESIRED BALANCE**                                    | **\$14,462.00** | **\$13,911.00** |                                                                    |
+| **Funds Available (+Yes -NO) BALANCE-DESIRED BALANCE** | **\$2,066.53**  | **-\$35.62**    | Less funding commitments from today and previous meetings unspent. |
+
+| REVENUE (Excludes Bond + Money Collected on behalf of others) | Jan-20      | monthly average |
+|---------------------------------------------------------------|-------------|-----------------|
+| Membership Income                                             | \$5,805     | \$3,975         |
+| Space Cash (drinks/events/tool fees/casual)                   | \$1,965     | \$2,420         |
+| Fundraising                                                   |             | \$222           |
+| Donations                                                     | \$1,129     | \$153           |
+| Donations - For Membership                                    | \$90        | \$90            |
+| **TOTAL INCOME**                                              | **\$8,989** | **\$6,859**     |
+|                                                               |             |                 |
+| EXPENSES                                                      | \$43,850    | monthly average |
+| Lease/Utilities/BOC/Bank Fees/Insurance                       | \$4,502     | \$5,213         |
+| Kitchenette/FundraisingFridge/Toiletries/Sale Program         | \$461       | \$615           |
+| Total Regular Expenses                                        | **\$4,963** | **\$5,828**     |
+| Fundraising Expenses                                          |             | \$65            |
+| Equipment/Infrastructure Expenses                             | \$1,543     | \$506           |
+| **Total Expense**                                             | **\$6,506** |                 |
+
+Do we want to put money towards any of the [currently proposed](https://finance.artifactory.org.au/) funding goals?
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+### Laser Subcommittee
+
+-   Laser Lenses - May 2019 - \$123.12
+    -   China PVD Znse Focus Lens for CO2 Laser - 20 / 63.5
+    -   China PVD Znse Focus Lens for CO2 Laser - 20 / 50.8
+    -   CVD ZnSe Meniscus Focus Lens for CO2 Laser - 20mm / 63.5mm
+    -   CVD ZnSe Meniscus Focus Lens for CO2 Laser - 20mm / 50.8mm
+    -   O-Ring Silicone Washer Dia. 18 19.05 20 25mm for CO2 Laser Focus Lens & Mirrors - 20mm / Pack of 5 PCS
+
+```{=html}
+<!-- -->
+```
+-   Laser Lenses - Oct 2019 - \$129.79
+    -   O-Ring Silicone Washer Dia. 18 19.05 20 25mm for CO2 Laser Focus Lens & Mirrors - 20mm / Pack of 5 PCS
+    -   O-Ring Silicone Washer Dia. 18 19.05 20 25mm for CO2 Laser Focus Lens & Mirrors - 18mm / Pack of 5 PCS
+    -   Cloudray China PVD Znse Focus Lens for CO2 Laser - 20 / 63.5
+    -   Cloudray China PVD Znse Focus Lens for CO2 Laser - 18 / 50.8
+    -   Cloudray China PVD Znse Focus Lens for CO2 Laser - 18 / 63.5
+
+### Promotions Subcommittee
+
+-   Projector bulb at Artifactory Fringe Event - \$99.49
+    -   To be funded in from the \$200 Donation/Sponsorship received from CodeMaster specifically for Fringe expenses
+
+### Infrastructure Subcommittee
+
+-   Sandblaster - Artifactory requested to authorise \$21.20 towards the sandblaster on top of the pledges. It cost more than the budgeted \$250.
+-   Spindle sander. It cost more than the budgeted \$265. Asking for \$20 more.
+
+### Brewing SIG
+
+-   Donated ingredients not covered by an existing by-law \$X
+
+```{=html}
+<!-- -->
+```
+      *money reimbursed, conversation ongoing on slack
+      *discussion as to future group interest
+
+### Other
+
+-   Transport costs for former RTR desks - \$46.73
+
+```{=html}
+<!-- -->
+```
+      *Approved, but future expense purchases come through Treasurer and relevant stakeholder.
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Vincent  |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+**Current Status**
+
+Membership as at 2020-02-08:
+
+-   44 (-2) Full Members (Monthly+Annual);
+-   23 (0) Concession Memberships (Monthly+Annual);
+-   4 (-1) Band Memberships
+-   3 (-1) Associate Memberships
+
+Membership as at 2020-01-09:
+
+-   46 (+4) Full Members (Monthly+Annual);
+-   25 (0) Concession Memberships (Monthly+Annual);
+-   5 (-1) Band Memberships
+-   4 (-4) Associate Memberships
+
+**Cancelled Non-Payment**
+
+Memberships to be cancelled for Non-Payment (+90 days due):
+
+Below are response to followups in mid Jan not using TidyHQ.
+
+-   [B.C.](https://artifactory.tidyhq.com/contacts/2324760/finances)-States was discontinuing membership after first month. No records to confirm. 4 invoices to cancel
+-   [M.O.](https://artifactory.tidyhq.com/contacts/2307161/finances) - states we were advised in Oct suspending membership for 5 months due to Antarctica trip. No records. 4 invoices to cancel
+
+```{=html}
+<!-- -->
+```
+-   [J.S.](https://artifactory.tidyhq.com/contacts/2306287) has 3 due. Has unsubscribed from messages from TidyHQ. At a guess that is his way of cancelling membership. Has not responded to another email from a different address.
+
+Approval requested to void the above invoices.
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Mel      |
+| Status      | Accepted |
+
+**New Memberships for approval**
+
+-   CONCESSION - Isaac Monteath
+-   FULL - NAMES
+-   BAND - NAMES
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Stuart   |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * REPORT
+
+**Event Officer**
+
+      * REPORT
+
+**Rehearsal Room Coordinators**
+
+      * Fletcher to create an overuse policy (action item)
+      * Tanner no longer coordinator
+        * Ask James if he may step in (JM)
+
+**Quartermasters**
+
+      * REPORT
+
+**Membership Officers**
+
+      * REPORT
+
+**Membership Storage Officer**
+
+      * REPORT
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * exploring moving lasers around
+
+**IT Subcommittee**
+
+      * REPORT
+
+**Promotions Subcommittee**
+
+      * Fringe is running
+      * Maintenance mode
+      * Open every evening at girls school
+      * response has been positive
+      * Unfortunately foot traffic has been low due to venue (compared to last year)
+        *promotional activities to ramp up interest
+        *average 100 per day
+      *celebrate contributers
+      * Weekly design award
+      * Bumpout Monday- Tuesday next week
+    *Round of applause for Lauren!!
+
+    *Supanova approaching
+
+**Sponsored Memberships Panel**
+
+      * One new sponsored membership - Michael Simons, due to start around 16th Feb.
+
+**Infrastructure Subcommittee**
+
+      * Scope of work with Lasers has increased (potential area reshuffle)
+      * New air lines are proving useful
+      * We're exploring the addition of an AED (diffibrilator) funded primarily by St John WA. Main roadblock is we need a publicly accessible wall. Can we consider abandoning the gate lock?
+      * For [[subcommittee:infrastructurev2|Infrastructure Subcommittee]] projects please check with the listed Project Lead or Infrastructure Chair before acquiring material that has an attached aquisition cost or significant disposal cost (would take up more than a 3rd of the skip).
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) -
+-   Arduino U - (Coordinators: Hugh, Doug) - business as usual
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) -
+
+**Games**
+
+-   ARTIfrag (Coordinator: Iain) -
+-   Chess Knight (Coordinator: Stuart) - All went well.
+
+**Cosplay and Craft**
+
+-   Crafternoon (Coordinator: Lauren) - Not happening atm
+-   Cosplay (Coordinator: Scott) -
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - one workshop of 3 persons.
+-   PikPI Cosplay Workshops (Coordinators: Hayleye**\#**) - none
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - 14Jan-A Big crowd compared to recent others.
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) -
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Jean-Michel, Skot) - Attendance: 35
+
+```{=html}
+<!-- -->
+```
+      ***Positive**
+        *PA has been moved, reducing setup time
+        *No (unintended) PA noise
+        *Premiere of Chimephone
+        *Photos of the event further improved
+          *https://drive.google.com/open?id=1o-PdRwms611uE4ZwSAQp2PuLEv1pL2_C
+        *Good turnout considering Fringe
+      ***Needs Work**
+        *Sloppy transitions between acts
+        *Some feedback issues  
+      ***Suggestions**
+        *Would like a lighting operator
+          *WAAPA??
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) -
+-   Open Day (Coordinator: Steve Hodges) -
+
+```{=html}
+<!-- -->
+```
+      *Busy considering lack of advertising
+    * Wine & Design (Coordinator: Committee) -
+    * Workshop Wednesday (Coordinator: Fletcher) - Cooler days obviously attract a significantly increased turnout. Thanks to Lisa for standing in this week.
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### OTHER BUSINESS EXAMPLE - DO NOT DELETE UNTIL DAY OF MEETING
+
+What/Inform/Issue
+
+**Motion** (if required)
+
+*Motion Text*
+
+//To take effect from xx/xx/2020 // (if new bylaw allow time for example for the website/wiki/tidyHQ to be updated.)
+
+| Moved By    | MOVER             |
+|-------------|-------------------|
+| Seconded By | SECONDER          |
+| Status      | Accepted/Rejected |
+
+Action Items (if required)
+
+| Action Items                                   | Who |
+|------------------------------------------------|-----|
+| do/buy/make/implement the thing. By xx/xx/2020 |     |
+| update website/wiki/TidyHQ/bylaws/etc          |     |
+| Inform                                         |     |
+
+------------------------------------------------------------------------
+
+### By-law Modification: Artifactory Expenses
+
+Currently first aid supplies are being included under kitchen expenses, they should be explicitly included.
+
+**Motion**
+
+Modify the Artifactory Expenses by-law to include first aid supplies as reimbursable items.
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | SECONDER |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## End of Meeting
+
+Remember to set **NEXT_MEETING** before closing meeting!
+
+-   Next meeting: 14th March 2020, 3pm, 5 weeks
+
+## Action Summary
+
+-   Investigate bandroom usage limit policy (Fletcher)
+-   Ask James if he wants to be bandroom coordinator (JM)
+-   Vending machine: Progress report (Steve)
+-   Followup with Steven Hughes (Blazing Swan stage build) (Fletcher)
+-   Modify expenses by-law (JM)

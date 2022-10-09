@@ -1,0 +1,186 @@
+---
+title: "committee_meeting_2014.04.12"
+---
+-   Meeting open: 10:44
+
+```{=html}
+<!-- -->
+```
+-   Present: Brett D., Jenna D., Tim G., David O'M, Mitch K, SKoT, Chris H., Richard H., Jason M., Daniel H., Nick B.
+-   Apologies:
+-   Absent:
+
+```{=html}
+<!-- -->
+```
+-   Acceptance, Previous minutes: A propose, B seconds:
+    -   Result - No one has read them.
+    -   Minutes to be posted out a few days after meeting. One week before meeting, reminder, call for agenda items.
+
+```{=html}
+<!-- -->
+```
+-   Reports
+-   Treasurer's Report
+    -   Balance: \$2116.52, \~\$400 cash on hand
+        -   April rent \~\$3,741.84, March's power \~\$600 not yet paid
+        -   Loss of \$192.35 for the month
+
+| TidyClub.com Income & Expenses Report | 01 March 2014 to 30 April 2014 |
+|---------------------------------------|--------------------------------|
+| Income - Total                        | \$4,437.59                     |
+| Income - Membership                   | \$2,905.94                     |
+| Income - Cash Deposit                 | \$1,531.65                     |
+| Expenses - Total                      | \$4,629.94                     |
+| Expenses - Rent                       | \$3,741.84                     |
+| Expenses - Waste                      | \$189.20                       |
+| Expenses - Internet                   | \$79.00                        |
+| Expenses - Electricity                | \$619.90                       |
+| Net Profit                            | -\$192.35                      |
+
+      * Annual insurance bill $1417.29, paid by direct deposit on 20140407
+        * Covers us until 20150331
+
+    Subject: Artifactory's Letter of Appointment
+    From: Jason Muirhead <email@jasonmuirhead.com>
+    Message-Id: <A478F56B-94DE-497D-A4A1-C5FC8A994EB5@jasonmuirhead.com>
+    Date: Wed, 9 Apr 2014 10:15:03 +0800
+    Cc: treasurer@artifactory.org.au, artifactory-committee@googlegroups.com
+    To: Katherine Burgess <Katherine@centralins.com.au>, "bpcannington@reliancepartners.com.au" <bpcannington@reliancepartners.com.au>
+
+    [img-409100318-0001.pdf]
+    Effective from 31 March 2014, Perth Artifactory Incorporated appoint RP-Cannington Pty Ltd,
+    Corporate Authorised Representative (CAR#: 441264) of Reliance Franchise Partners Pty Ltd, AFS
+    Licence Number 427520, to manage all our/my insurance requirements in respect of the following
+    services:
+
+-   Correspondence
+    -   Insurance - broker name has changed, reminder letter didn't come out in time, but we are insured.
+    -   Stirling Council - Building Compliance gave us 14 days, 20 days ago. SKoT tried to contact building compliance consultant, no word yet
+    -   Letter from Jacquie Thompson, Lotterywest 20140403, ref: 11030507 / 421001745 / Draw Down 1st Reminder
+        -   Our grant still has \$525 available for our laser cutter and associated accessories, claimable with original (or certified copied) receipts
+        -   we can spend on extractor fans and piping maybe...
+    -   JennaD: Zetta would like to hire to space for a hackathon
+
+```{=html}
+<!-- -->
+```
+-   Membership Report
+    -   Approval of New Members
+        -   Alastair Waddell
+        -   Tully Jagoe
+    -   Current Numbers: 30 full, 2 concession + AudioVault, 6 visitor members
+    -   Last month 6 visitor members
+    -   One new full member
+    -   ACTION: Southern, Davo, Nick: New LDAP on auth.internal.artifactory.org.au
+
+```{=html}
+<!-- -->
+```
+-   Events, past
+    -   NM, about \$400 sales
+    -   Modular Synth Night Tuesday 2014-04-01
+        -   Very good!
+        -   Thanks Nathan, Andrew Nonlinear Circuits!
+        -   \~\$400 sales
+        -   \~29 RSVP'ed, \~22 people arrived?
+        -   Next one, Tuesday 2014-05-06
+    -   Market stall, Davo Sunday 20140406 <http://www.marketsunderthepines.com.au/>
+        -   Feedback: Too cheap!
+        -   But! good interest generated, some interest, an attendee or two
+            -   Freo radio interview was this morning at the space
+            -   XPress interested in an interview
+        -   JD: REmida holding a Recycling Market Day Sat 20140510
+        -   Craft fair at Claremont
+
+```{=html}
+<!-- -->
+```
+-   Events, upcoming
+    -   [ADUG](http://adug.org.au/meetings/perth/next_meeting.html)
+        -   Tuesday 20140415-1745--2000
+        -   Tuesday 20140527-1745--2000 (4th Tuesday - they might like to move back to the 20th? Will offer to them)
+        -   Tuesday 20140617-1745--2000
+    -   NoizeMaschin!! \#34b Tuesday 20140429 (following \#34a on Saturday at Blazing Swan, Kulin)
+        -   NoizeMaschin!! campervan at Blazing Swan
+        -   Artifactory camp opposite the Tiki Bar!
+            -   Soldering, mini-Arduino-U
+            -   2-3 vehicles + flying drones!
+        -   Futureist's camp nearby
+        -   Not shipping out the Barco's, we want to sell them in good condition
+            -   Pickup only
+            -   ACTION: MitchK, auction Ebay
+    -   Swancon 2014 - provide some bag schwag
+        -   [Promotion and marketing](/projects/selfpromotion)
+        -   Swancon Easter Thursday 2014-04-17--21 - provide some bag schwag, a stall, a presentation?
+            -   All stalls are gone
+            -   250 flatpacks delivered with Artifactory branding
+            -   Panel next year: cosplay, fabrication, design your own games, models, scenery
+                -   Hour long ad
+        -   Supernova weekend of 2014-06-21--22 - share a stall, cost: \$210 for Kitty Byrne, \$210 for us, assuming we need power
+            -   Yes!
+    -   Welding/Metalwork Day 2014-05-04 "Star Wars Day"?
+        -   Or later? Mid-May
+        -   New welder first: prepayment for class
+            -   TidyClub event system
+    -   NoizeMaschin!! \#35, Installation City!!, Tuesday 20140513
+    -   AudioVault would like to hold an musician's website launch evening
+        -   Weekend of Blazing Swan, 5pm Saturday 20140426 afternoon
+        -   We would normally run the bar, \$500 if we don't?
+
+```{=html}
+<!-- -->
+```
+-   Infrastructure Report
+    -   New, Improved lighting in carpark!
+    -   Lighting spiderweb
+        -   Temporary only
+    -   Exhaust piping in toolroom: need 150mm poly pipe
+        -   Need signs: Open louvres when lasers in use
+        -   ACTION: BD: Organise a Chimney, we have permission from the owners for whirlybird, etc. installation
+
+```{=html}
+<!-- -->
+```
+-   Agenda:
+    -   Preparation for Toolroom Mark II
+        -   DH: Steel quote, finalised at \$2400, delivered
+        -   DH: Cladding \$1200 retail
+    -   New welder fund, \~\$900 + \$200 first year's gas cylinder rental?
+        -   \$200 from AudioVault - thanks!
+        -   At \$500 so far
+
+```{=html}
+<!-- -->
+```
+-   Previous ACTION items
+    -   ACTION: JD Publicise cashflow problems now
+    -   ACTION: DH email Anton about toolroom
+        -   Had a chat regarding cladding buy
+    -   ACTION: MK: 6 services for \$85 at office from Westside Fire Services, will email invoice, Anton
+        -   They will be here to certify on 20140513, \$45 per extinguisher
+    -   ACTION: Jason: NAB form, new signatories?
+        -   SKoT will take over
+    -   ACTION: DO'M send Lotterywest a care package re: previous laser grant
+
+```{=html}
+<!-- -->
+```
+-   General business
+    -   Proposed by-law:
+        -   Members cannot set up camp in the space
+            -   Only Noisebridge has not done it
+            -   <http://www.c-base.org/> penalty rule: 1 week
+            -   ...or Shackspace: subject to experimentation
+            -   Violation of our zoning
+            -   Late-night projects are fine!
+    -   Davo: The Association, Mens Shed coming for a visit this week
+    -   Davo: Fremantle Makers came in for a chat yesterday
+        -   Tech-shop style
+
+```{=html}
+<!-- -->
+```
+-   Next meeting: Saturday 2014-05-10 12:00 noon, 4 weeks
+    -   Unless it clashes with the Metalworking day
+-   Meeting closed: 11:38am

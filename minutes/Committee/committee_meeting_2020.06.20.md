@@ -1,0 +1,313 @@
+---
+title: "Committee Meeting 2020.06.20"
+---
+# Committee Meeting 2020.06.20
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: Iain, Steve, Stuart, Scott, Fletcher, Vincent, Melanie
+-   Apologies: none
+-   Absent: Hugh, Lauren, Jean-michel
+-   Observing: Lisa, Beau
+-   Minute taker: Vincent
+-   Chair: Steve
+
+### Meeting Times
+
+-   Opened: 3.34 (Planned: 3.00pm)
+-   Closed: 3.54
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+-   No edits since meeting.
+
+| Moved By    | Iain     |
+|-------------|----------|
+| Seconded By | Steve    |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+**ACTIONS**
+
+    *
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   WaterCorp removed our mailbox and sign.
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   INCIDENTS - note any that are reported and discuss if needed
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   PROPERTY
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   CHAIRPERSON
+-   In late May S.M. put out a post on Facebook seeking expression in interests in the Modified Piano closing 7th June. The best home for this usual instrument The Committee considered it to be Dirtymerkins Studio in Morley as others who expressed interest wanted just for personal use. Dirtymerkins Studio stated in their expression of interest that they are a *"recording studio that caters to original bands keeping prices at cost so bands can get there recordings out and this would be a great addition to the studio. This would be a perfect home and would get used by local musicians for their art."*
+-   S.M. reports *6 monthly fire extinguisher tagging and exit sign testing was performed May. One extinguisher was missing from the shed. A whole bunch had expired and have now been replaced.*
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
+
+|                                                        | 31/5/2020       | 30/04/2020      | ........................................................ |
+|--------------------------------------------------------|-----------------|-----------------|----------------------------------------------------------|
+| Bank Accounts                                          | \$11,826.92     | \$12,419.47     |                                                          |
+| Cash+Pending Transfer from TidyHQ/EFTPOS               | \$1,018.73      | \$190.00        | Maybe more? Cash levels not checked                      |
+| **BALANCE**                                            | **\$12,845.65** | **\$12,609.47** | Ideally should be larger than bond value                 |
+| Guthrie St Bond                                        | \$6000          | \$6000          |                                                          |
+|                                                        |                 |                 |                                                          |
+| **Quarantined Funds**                                  | 31/5/2020       | 30/04/2020      |                                                          |
+| Estimated Key Bond                                     | **\$11,650.00** | **\$11,455.00** |                                                          |
+| Provisions For Annual Expenses                         | \$1,823.00      | \$1,434.00      | (Roughly \~\$4000 in last 12 months)                     |
+| **DESIRED BALANCE**                                    | **\$13,473.00** | **\$12,889.00** |                                                          |
+| **Funds Available (+Yes -NO) BALANCE-DESIRED BALANCE** | **-\$627.35**   | **-\$279.53**   |                                                          |
+
+| REVENUE (Excludes Bond + Money Collected on behalf of others) | May-20      | monthly average |
+|---------------------------------------------------------------|-------------|-----------------|
+| Membership Income                                             | \$3,670     | \$3,918         |
+| Space Cash (drinks/events/tool fees/casual)                   | \$868       | \$2,042         |
+| Fundraising                                                   |             | \$222           |
+| Donations                                                     | \$20        | \$169           |
+| Donations - For Membership                                    | \$45        | \$79            |
+| **TOTAL INCOME**                                              | **\$4,603** | **\$6,430**     |
+|                                                               |             |                 |
+| EXPENSES                                                      | May-20      | monthly average |
+| Lease/Utilities/BOC/Bank Fees/Insurance                       | \$4,529     | \$5,126         |
+| Kitchenette/FundraisingFridge/Toiletries/Sale Program         | \$0         | \$496           |
+| Total Regular Expenses                                        | **\$4,529** | **\$5,622**     |
+| Fundraising Expenses                                          |             | \$82            |
+| Equipment/Infrastructure Expenses                             | \$42        | \$478           |
+| **Total Expense**                                             | **\$4,571** | \$6,181         |
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+-   None
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+**Current Status** Note: Below is based on the constitutions definition of still being a member if under 90 days overdue on an membership invoice.
+
+Membership as at 2020-06-18 midday:
+
+-   42 (+1) Full Members (Monthly+Annual);
+-   23 (+1) Concession Memberships (Monthly+Annual);
+-   2 Band Memberships
+-   2 Associate Memberships
+
+*T.G. would like it noted "in honour of towel-day just past, he has bumped the Full member count to FORTY-TWO!*
+
+**Cancelled Non-Payment**
+
+Memberships to be cancelled for Non-Payment (+90 days due):
+
+    * 
+
+**New Memberships for approval**
+
+-   CONCESSION - Annie Lumby, Anastasia Beazley
+-   FULL - Chris Percival, Brendan Scott
+-   BAND - None
+
+Move to approve the 4 new members above.
+
+| Moved By    | Iain     |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * REPORT
+
+**Event Officer**
+
+      * External groups are coming back.
+
+**Rehearsal Room Coordinators**
+
+      * We don't currently have one. Appointing a new one below.  
+
+**Quartermasters**
+
+      * Frozen Airline food bought cheap in addition to the usual snacks for sale.
+          * Note that price is accurate
+
+**Membership Officers**
+
+      * see the numbers.  Surge in interest post Covid "Stay at home".
+
+**Membership Storage Officer**
+
+      * REPORT
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * Been experimenting to make the Z-probing safer for the machine. Has resulted in some strange issues. Should be resolved now.
+
+**IT Subcommittee**
+
+      * REPORT
+
+**Promotions Subcommittee**
+
+      * Supanpova has been officially cancelled.
+
+**Sponsored Memberships Panel**
+
+      * One new!
+
+**Infrastructure Subcommittee**
+
+      * Letterbox fixed.
+      * Ceiling above Z-lab is a problem
+          * Safe as long as no one stands on it.
+          * Warning signs going up today
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) - Are back on 23rd.
+-   Arduino U - (Coordinators: Hugh, Doug) -
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) - Were back on the 14th.
+
+**Games**
+
+-   ARTIfrag (Coordinator: Iain) -
+-   Chess Knight (Coordinator: Stuart) - None planned
+
+**Cosplay and Craft**
+
+-   Cosplay (Coordinator: Scott) -
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - Are back.
+-   PikPI Cosplay Workshops (Coordinators: Hayleye**\#**) -
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Potentially 14/07
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) -
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Skot) - Last month online only. \~200 views on youtube. Stage-Trying out some curtains for the next one or may look at carpet.
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) -
+
+```{=html}
+<!-- -->
+```
+        * Been going well
+    * Open Day (Coordinator: Steve Hodges) -
+    * Wine & Design (Coordinator: Committee) -
+    * Workshop Wednesday (Coordinator: Fletcher) -
+        * Been going well. Lisa is doing more for this event.
+    * 
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### When Hackerspace Directors Burn Out
+
+Committee should note -\> <https://hackaday.com/2018/04/18/when-hackerspace-directors-burn-out/>
+
+We're way past the dangerous time. Still interesting to look at.
+
+### Borrowing Tools
+
+Allowed way back in the past. There was a old register for it. Since changing the constitution - we have nothings in the rules about it.
+
+Committee concludes that everything seems to working as intended. No action to be taken.
+
+| Moved By    | Melanie  |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+### Covid.19
+
+### Rehearsal Room Coordinator appointment
+
+Martin G is a friendly band member and is interested taking on the role as J.B. has had to unfortunately leave the Artifactory.
+
+**Motion**
+
+Appoint Martin G as a rehearsal room coordinator
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+Action Items (if required)
+
+| Action Items                             | Who |
+|------------------------------------------|-----|
+| Provide admin access to as required      |     |
+| Set up band membership notifications     |     |
+| Set up rehearsal room email redirections |     |
+
+------------------------------------------------------------------------
+
+### EFOY
+
+\- Submit any outstanding invoices before EFOY.
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   Next meeting: 25 July, 4 weeks, 3.00pm
+
+## Action Summary
+
+-   Not formally listed

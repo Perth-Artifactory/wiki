@@ -1,0 +1,251 @@
+---
+title: "Committee Meeting 2017.09.03"
+---
+# Committee Meeting 2017.09.03
+
+## Agenda
+
+1.  Usual business
+    1.  Acceptance of last meeting's minutes
+    2.  Correspondence
+    3.  Property
+    4.  Chairman's report
+    5.  Treasurer's report
+    6.  Other officer's/Event Coordinators reports
+    7.  Subcommittee reports
+    8.  Area Host reports
+    9.  Cornwall House
+2.  Other business
+    1.  Any expenses/For reimbursement
+
+```{=html}
+<!-- -->
+```
+      -
+      - 
+      - 
+      - 
+      - 
+    - Review of Action Items
+
+### Agenda Items
+
+## Minutes
+
+### Members Present
+
+-   Present:Nick, Lemming, Tanner, Jean Michelle, Stu
+-   Apologies: Russel
+-   Absent:
+
+### Meeting Times
+
+-   Opened: OPEN 20:45
+-   Closed: CLOSE 22:23
+-   Next meeting: NEXTMEETING, AGM 30/9/17 11am (Announce 9/9/17 and call out for new events)
+
+### Minutes of previous meeting
+
+| Status      | Accepted/Rejected | Accepted |
+|-------------|-------------------|----------|
+| Moved By    | PM-MOVER          | Nick     |
+| Seconded By | PM-SECONDER       | Tanner   |
+
+### Correspondence
+
+-   CORRESPONDENCE
+-   Dale - Donated \$50 - Also wants to do recordings - wants exclusive use of the space one evening \$200-250 floated, drinks etc,
+-   Someone was looking for employees, (Spikelights), concensus was not
+-   General questions about laser cutters
+-   Lemming looking at getting box o bangs ready for robofaire
+-   Grow room Lemming might get in tough to drop flyers - there for at least 2 months
+
+### Property Report
+
+-   PROPERTY
+-   Jason using Metal drop saw, breaker would not reset for some time, extension cord, try to get Martin to have a look at it.
+-   Front Door has a problem seems to have dropped
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   CHAIRPERSON
+
+#### Treasurer's Report
+
+### Treasurer's Report
+
+|                         | 31/07/2017   | 30/06/2017   |
+|-------------------------|--------------|--------------|
+| NAB Balance             | \$6460.67    | \$7402.36    |
+| Pending TidyHQ / eftpos | \$157.82     | \$301.74     |
+| Guthrie St Bond         | \$6000       | \$6000       |
+| Balance                 | **12618.49** | **13704.10** |
+
+\^
+
+| Quarantined Funds                     |
+|---------------------------------------|
+| Estimated RFID Key Members Bond Value |
+| For Insurance 18/19                   |
+| Amount Owed on Sound Equipment        |
+| DESIRED BALANCE                       |
+
+\^
+
+|                                 | 31/08/2-17 | 31/7/2017 |                                    |
+|:-------------------------------:|------------|-----------|------------------------------------|
+| Sound Equipment Funds Collected | \$2705     | \$2705    | Collected in Full - REFUND SKOT??? |
+
+| REVENUE                                                         | Last Month | 12 Month Average |
+|-----------------------------------------------------------------|------------|------------------|
+| Membership                                                      | \$2930     | \$3850           |
+| Space Cash (Events/Venue hire/Snacks/tool fees/day users/other) | \$1528     | \$1377           |
+| Grants/Prizes/Donations/Fundraising                             | \$0        | \$122            |
+| TOTAL REVENUE                                                   | **\$4458** | **\$5309**       |
+
+\^
+
+| EXPENSES                                         |             |             |
+|--------------------------------------------------|-------------|:-----------:|
+| Lease+Estimated Variable Outgoings               | -\$4635     |   -\$4224   |
+| Electricity (bimonthly)                          | -\$528      |   -\$338    |
+| Insurance (12 month average)                     | -\$0        |   -\$114    |
+| Waste/Internet/Welding Supplies                  | -\$127      |   -\$255    |
+| Merchant Fees (bimonthly sometimes)              | -\$82       |    -\$39    |
+| TidyHQ/Bank Charges                              | -\$55       |    -\$82    |
+| TOTAL EXPENSES (Excluding Equip/Fundraising Exp) | **-\$5428** | **-\$5053** |
+
+\^
+
+| Fundraising Expenses# | -\$0 | \$85  |
+|-----------------------|------|-------|
+| Equipment Purchases\$ | -\$0 | -\$83 |
+
+Expenses
+
+-   none
+
+Major Events/Other Revenue (Past Month)
+
+    *ADUG $110
+    *Sparkco $300
+    *WA Poets $200
+    *Noizemaschin ~$250
+    *Mod Synth ~$420
+
+Money Due (as of 20170802)
+
+    *Membership - $??????  
+    *ADUG - $110 July, $100 Aug 
+
+#### Membership Report
+
+20170904
+
+-   26 (-1) Full Members;
+-   19 (0) Concession Memberships;
+-   0 (0) Studio Office Memberships (For 2 Members)
+-   5 (0) Band Memberships
+-   1 (0) The Residency
+
+```{=html}
+<!-- -->
+```
+-   Memberships for Cancellation for Non-Payment (+90 days due) -
+
+```{=html}
+<!-- -->
+```
+-   **Approve / Disapprove** of New Members since last meeting - NONE
+    -   CONCESSION - Dennis Collins
+    -   FULL - Blake Samuals
+    -   BAND -
+    -   The Residency - Sami Bluebird
+
+MOVED: Lemming SECONDED: JM Carried unanimously
+
+#### Bandroom Report
+
+5 bands - need to boulster numbers 6 or more ideal Bands find the doors are left open when other people out in the space leave
+
+### Other officer's reports
+
+#### Promotions Officer
+
+      * Waiting to hear back from Estelle about the strategic Plan
+      * Last month for the Annual Report - is with Tim but not back - Lemming offered to proof read
+      * Stu suggests getting Mission Statements, Core Values etc from Strategic plan and putting in the Annual Report
+
+#### Fundraising JMM/StM
+
+    -$80 random Donations at NM74 
+
+#### Event Coordinators Report
+
+      * NoizeM - (Coordinators SM, TG, JMM, Skot, Meg) 
+         * Need Residency publicised
+         * Mention bandrooms
+         *   
+      * Arduino U - (Coordinators Hugh, Doug)
+         Kits 40x at Approx $400
+         
+      * DIY Synth - (Coordinator Lem)
+         * 36 Non members
+         * Nathan now has a key - Just for ModSynth - 
+         * Suggestion that if persons are running a regular event then allow them to get a key.  (Same for Richard Harrington / Hayley).  Voted on a case by case basis. Reserve the right to revoke. 
+         * Lemming Moves 
+         * JM seconded
+         * Nick abstained,
+         
+      * Open Day - (Coordinator Steve)
+
+      * ADUG - (Coordinator Nick & Richard Harrington)
+      
+      * Cosplay - (Coordinator Lem)
+
+      * Other Events
+      * Sparc Co paid - here a couple of hours
+      * WA Poet - were happy but not much on the bar.  Annual event.  
+
+### Sub-Committee Reports
+
+\* Laser subcommittee
+
+-   Need incentives to get people doing maintainence
+-   A few people there regularly
+-   Glen has been involved with some students - can we provide discount on Laser Time
+-   Laser Maintenence needs to be done when others are here to ensure the due time is spent
+
+\* IT Subcommitee
+
+-   root password have been changed and put on Scratchpad
+-   Router hasn't been changed
+-   If Users need access can contact Lemming
+-   Snoopy is on to log commands to a hidden Log and backed up
+-   Cant login as root - need to login as user
+-   Server from Mitch has 4 Drives bays and 2.5 inch disks are \$250 each and no RAM
+-   Small group people on IT commitee have not been present
+
+### Agenda Items
+
+\* Exclusive Access
+
+-   Put in the Calendar and members that turn up can be refered to it
+-   Noize Maschin has asked laser users not to at times
+-   Dale - Floated the idea of \$200 +\$10 per non member
+    -   People may walk in and interrupt, even if members are informed
+-   Schneider exclusive access Lemming floated the idea of : 50x people @\$10 with \$100 for exclusive access
+    -   Parking Issue - Follow up with Don and Other tenents
+-   Case by case
+
+### General Business
+
+\* JM: Front Room not being used \* JM Will contact record lable for potential sub-leasing
+
+\* AGM Announce due out 9/9 (Secretary to email out) \* JM will put it into ibooks, need pdf, final copy locked
+
+### Review of Action Items
+
+None

@@ -1,0 +1,308 @@
+---
+title: "Committee Meeting 2021.08.28"
+---
+# Committee Meeting 2021.08.28
+
+Previous meeting:[Committee Meeting 2021.08.07](Committee Meeting 2021.08.07)
+
+Next meeting: [Committee Meeting NNNN.NN.NN](Committee Meeting NNNN.NN.NN)
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: Fletcher, Vincent, Beau, Blake
+-   Apologies: Judith
+-   Absent: Ian, Jason, Scott
+-   Observing:Phoebe Jean-Harris
+-   Minute taker: Vincent
+-   Chair: Beau
+
+### Meeting Times
+
+-   Opened: 6:18pm (Planned: 6:00 pm)
+-   Closed: 7:04pm
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+Previous meeting's minutes: [Committee Meeting 2021.08.07](Committee Meeting 2021.08.07)
+
+-   Fixed a formatting error (secretary).
+
+| Moved By    | Vincent  |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+**ACTIONS**
+
+    *
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Contacted by Youth Futures School
+    -   Fletcher talking to the contact, seeing what sort of lesson plan can be done.
+    -   May see about selling them a large amount of laser-suitable acrylic we have available.
+
+```{=html}
+<!-- -->
+```
+-   Contacted by a group who want to use the space for meetups.
+    -   Contact is Adrian Kougianos
+    -   Project relates to a high-altitude space balloon.
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   INCIDENTS - note any that are reported and discuss if needed
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   Working on a potential door solution.
+-   CAD room ceiling seems to be cracking again
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   CHAIRPERSON
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+-   Credit card got skimmed
+    -   Money returned by NAB, new card being issued.
+    -   This is the reason TidyHQ hasn't been paid yet.
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+-   No expenses for approval
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+**Current Status**
+
+Membership as at 2020-xx-xx:
+
+-   X (+X / -X) Full Members (Monthly+Annual);
+-   X (+X / -X) Concession Memberships (Monthly+Annual);
+-   X (+X / -X) Band Memberships
+-   X (+X / -X) Associate Memberships
+
+**Cancelled Non-Payment**
+
+Memberships to be cancelled for Non-Payment (+90 days due):
+
+-   MEMBER_NAME
+
+**New Memberships for approval**
+
+-   CONCESSION - NAMES
+-   FULL - Victor Grantham, Adrian Kougianos
+-   BAND - NAMES
+
+**Defer to next meeting**
+
+-   FULL - Wally Mulik, Prasanna Suraweera (signed up today)
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Blake    |
+| Status      | Accepted |
+
+| Action Items             | Who  |
+|--------------------------|------|
+| Reach out to Wally Mulik | Beau |
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**Event Officer**
+
+      * Games workshop no longer answering messages. Event is dead in the water, most likely.
+
+**Quartermaster**
+
+      * Last bar restock was a donation
+      * We now have a Costco membership
+      * Steve's vending machine project is close to a working state
+        * Has an extremely large capacity, which may remove the need for storing boxes.
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * All lasers operating normally.
+      * Some improvements in the pipeline.
+        * Looking to upgrade little red's PC.
+        * Bruce Chambers is working on automatic air control for Big Red.
+
+**IT Subcommittee**
+
+      * A bot attack on the wiki occurred. No damage
+        * Was already so new users must be approved before editing permitted.
+        * Built-in captcha was active; did not stop attack.
+
+**Promotions Subcommittee**
+
+      * Events are still dead.
+      * Beau and Fletcher are exploring going to the Collector zone fair (Craigie Leisure centre).
+
+**Sponsored Memberships Panel**
+
+      * Need more Students.
+
+**Infrastructure Subcommittee**
+
+      * Built a very nice bench along the wall of the tool room.
+      * Removed a dividing wall in the process.
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) - Normal
+-   Arduino U - (Coordinators: Hugh, Doug) - Normal (still low turnout).
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) - Normal
+
+**Cosplay and Craft**
+
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - Should try to clear tables prior to the event, as Andrew cannot.
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Normal
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) - Did not run
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Jean-Michel, Skot) - Not yet
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) - Normal
+-   Open Day (Coordinator: Steve Hodges) - Not yet
+-   Wine & Design (Coordinator: Committee) - Did not run last wednesday (Normal coordinators not present).
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Schedule annual general meeting
+
+The annual general meeting must take place by the 30th of September. 14 days notice must be given (21 if a special resolution is proposed).
+
+**Motion** (if required) Hold the Annual General meeting at **1:00pm** on **18 September 2021** at the Perth Artifactory.
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+Action Items (if required)
+
+| Action Items                                               | Who      |
+|------------------------------------------------------------|----------|
+| Send out email notice by the 4th                           | Vincent  |
+| Send out Slack notice                                      | Vincent  |
+| Explore reduction of members of management committee seats | Fletcher |
+
+------------------------------------------------------------------------
+
+### Code of Conduct
+
+Review Blake's proposed code of conduct and vote on its adoption.
+
+https://docs.google.com/document/d/1Ic--0fEmPJUM25wtBJbKe4HDYntxijnzsR09Go7rHE0/edit#
+
+**Motion** (if required)
+
+Adopt the proposed code of conduct for the Perth Artifactory.
+
+//To take effect from 28/08/2021 // (if new bylaw allow time for example for the website/wiki/tidyHQ to be updated.)
+
+| Moved By    | Blake    |
+|-------------|----------|
+| Seconded By | Flecther |
+| Status      | Accepted |
+
+Action Items (if required)
+
+| Action Items                 | Who     |
+|------------------------------|---------|
+| Print and hang poster        | Blake   |
+| Add wiki version as a page   | Blake   |
+| Post on Slack @announcements | Blake   |
+| Send out email               | Vincent |
+
+------------------------------------------------------------------------
+
+### NeverNever conversion
+
+Several members have requested a transfer and conversion of NeverNever to sponsored memberships
+
+Transfer Peter Dreisiger's \$1000 NeverNever balance to Ben Connor, Steve Hodges, and Doug Bateman as a 2/1/1 split respectively.
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+Transfer Ben Connor, Steve Hodges, and Doug Bateman's NeverNever balance to a Sponsored Membership fund to be utilised for memberships at the direction of the Management Committee or relevant group.
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+Action Items (if required)
+
+| Action Items                    | Who      |
+|---------------------------------|----------|
+| Update NeverNever balances      | Fletcher |
+| Notify affected balance holders | Fletcher |
+
+------------------------------------------------------------------------
+
+## End of Meeting
+
+The management committee does not intend to hold another meeting before the AGM.
+
+By convention, the management committee will probably hold a short meeting just after the AGM.
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

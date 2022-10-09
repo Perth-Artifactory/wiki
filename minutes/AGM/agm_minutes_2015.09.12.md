@@ -1,99 +1,99 @@
 ---
 title: "agm_minutes_2015.09.12"
 ---
--   Open: 11:15am
--   Present: JennaD DavidO'Meara NickBannon Jean-MichelMaujean AndrewElwell SteveHodges TimGilchrist StuartMcDonald MitchK SKoTMcDonald RichHatwell WarrenC
-
-```{=html}
-<!-- -->
-```
--   1\. Attendance and Apologies, Proxies received
-    -   No proxies received
-    -   Apologies: MegTravers, proxies to TimG
-
-```{=html}
-<!-- -->
-```
--   2\. Presentation and Approval of the Annual report of the Management Committee
-    -   Chair's report:
-        -   A very interesting year
-        -   AudioVault moved out, a temporary tenant has moved in
-        -   Membership has been stable, doors have stayed open due to events and
-        -   ...and a lot of prize money
-        -   Hope to push the membership up from winter lows to summer highs as festivals get underway
-        -   Backyard cleanup: what an amazing effort! Thanks JW, MK, NB, AlexYnema and cast of thousands
-        -   JD heading off to Europe for a spell, will miss us all! Space better be open when we get back
-
-```{=html}
-<!-- -->
-```
--   3\. Presentation and Approval of Financial reports
-    -   Started with \$12449 in the bank account - mostly GSPA ticket funds
-    -   Ended with \$2349 - with rent, waste disposal still to pay
-    -   August rent now paid
-    -   Very light-on year after losing AudioVault, next committee
-    -   Approximately 37 full members, 6 concesssion, 3 band members
-    -   Full report to follow
-    -   Motion to be moved: That the meeting accept the 2015 Financial summary, pending a detailed breakdown to follow
-    -   Moved: SKoT, second: AndrewE
-        -   All for? Against: 0; Unanimous!
-
-Treasurer's report, added to wiki 20151011
-
-| Income and expenses 01 September 2014 to 31 August 2015 |            |
-|---------------------------------------------------------|------------|
-| Income - SubTotal                                       | \$58296.80 |
-| Income - Membership                                     | \$35212.98 |
-| Income - Cash Deposit                                   | \$7043.45  |
-| Income - Prizes                                         | \$5000     |
-| Income - Equipment                                      | \$903.97   |
-| Income - Misc                                           | \$396.10   |
-| Income - Office Rent                                    | \$9740.30  |
-| Expenses - SubTotal                                     | \$57288.39 |
-| Expenses - Equipment                                    | -\$2119.10 |
-| Expenses - Rent                                         | \$48263.45 |
-| Expenses - Internet                                     | \$665.56   |
-| Expenses - Waste                                        | \$1690.48  |
-| Expenses - Electricity                                  | \$3039.50  |
-| Expenses - Insurance                                    | \$1410.27  |
-| Expenses - Never Never                                  | \$100      |
-| Expenses - Misc                                         | \$250      |
-| Expenses - Bond                                         | \$140      |
-| Net Profit                                              | \$1008.41  |
-
--   4\. Presentation and Approval of the membership fees and schedules
-    -   Motion to be moved: That the meeting accept the current membership fees and schedules and asks the incoming committee to review them
-    -   Moved: JennaD, second: MitchK
-        -   All for? Against: 0; Unanimous!
-
-```{=html}
-<!-- -->
-```
--   5\. Election of a new management committee.
-    -   Nominations
-
-```{=html}
-<!-- -->
-```
-          * MegT Nominate via proxy: MegT: seconds JD, SM
-          * SkotM Nominate: SkotM: seconds DOM, JD
-            * Interested in Chair, boost promo team
-          * DavidO'Meara
-          * TimGilchrist
-          * Jean-MichelMaujean
-          * AndrewElwell
-          * StuartMcDonald
-          * RichHatwell
-          * SteveHodges
-          * NickBannon
-        * < maximum of 10 members; no need for formal voting
-        * Any objections? None!
-        * Done!
-
--   6\. Other business
-
-```{=html}
-<!-- -->
-```
--   7\. Close
-    -   11:51am
+-   Open: 11:15am
+-   Present: JennaD DavidO'Meara NickBannon Jean-MichelMaujean AndrewElwell SteveHodges TimGilchrist StuartMcDonald MitchK SKoTMcDonald RichHatwell WarrenC
+
+```{=html}
+<!-- -->
+```
+-   1\. Attendance and Apologies, Proxies received
+    -   No proxies received
+    -   Apologies: MegTravers, proxies to TimG
+
+```{=html}
+<!-- -->
+```
+-   2\. Presentation and Approval of the Annual report of the Management Committee
+    -   Chair's report:
+        -   A very interesting year
+        -   AudioVault moved out, a temporary tenant has moved in
+        -   Membership has been stable, doors have stayed open due to events and
+        -   ...and a lot of prize money
+        -   Hope to push the membership up from winter lows to summer highs as festivals get underway
+        -   Backyard cleanup: what an amazing effort! Thanks JW, MK, NB, AlexYnema and cast of thousands
+        -   JD heading off to Europe for a spell, will miss us all! Space better be open when we get back
+
+```{=html}
+<!-- -->
+```
+-   3\. Presentation and Approval of Financial reports
+    -   Started with \$12449 in the bank account - mostly GSPA ticket funds
+    -   Ended with \$2349 - with rent, waste disposal still to pay
+    -   August rent now paid
+    -   Very light-on year after losing AudioVault, next committee
+    -   Approximately 37 full members, 6 concesssion, 3 band members
+    -   Full report to follow
+    -   Motion to be moved: That the meeting accept the 2015 Financial summary, pending a detailed breakdown to follow
+    -   Moved: SKoT, second: AndrewE
+        -   All for? Against: 0; Unanimous!
+
+Treasurer's report, added to wiki 20151011
+
+| Income and expenses 01 September 2014 to 31 August 2015 |            |
+|---------------------------------------------------------|------------|
+| Income - SubTotal                                       | \$58296.80 |
+| Income - Membership                                     | \$35212.98 |
+| Income - Cash Deposit                                   | \$7043.45  |
+| Income - Prizes                                         | \$5000     |
+| Income - Equipment                                      | \$903.97   |
+| Income - Misc                                           | \$396.10   |
+| Income - Office Rent                                    | \$9740.30  |
+| Expenses - SubTotal                                     | \$57288.39 |
+| Expenses - Equipment                                    | -\$2119.10 |
+| Expenses - Rent                                         | \$48263.45 |
+| Expenses - Internet                                     | \$665.56   |
+| Expenses - Waste                                        | \$1690.48  |
+| Expenses - Electricity                                  | \$3039.50  |
+| Expenses - Insurance                                    | \$1410.27  |
+| Expenses - Never Never                                  | \$100      |
+| Expenses - Misc                                         | \$250      |
+| Expenses - Bond                                         | \$140      |
+| Net Profit                                              | \$1008.41  |
+
+-   4\. Presentation and Approval of the membership fees and schedules
+    -   Motion to be moved: That the meeting accept the current membership fees and schedules and asks the incoming committee to review them
+    -   Moved: JennaD, second: MitchK
+        -   All for? Against: 0; Unanimous!
+
+```{=html}
+<!-- -->
+```
+-   5\. Election of a new management committee.
+    -   Nominations
+
+```{=html}
+<!-- -->
+```
+          * MegT Nominate via proxy: MegT: seconds JD, SM
+          * SkotM Nominate: SkotM: seconds DOM, JD
+            * Interested in Chair, boost promo team
+          * DavidO'Meara
+          * TimGilchrist
+          * Jean-MichelMaujean
+          * AndrewElwell
+          * StuartMcDonald
+          * RichHatwell
+          * SteveHodges
+          * NickBannon
+        * < maximum of 10 members; no need for formal voting
+        * Any objections? None!
+        * Done!
+
+-   6\. Other business
+
+```{=html}
+<!-- -->
+```
+-   7\. Close
+    -   11:51am

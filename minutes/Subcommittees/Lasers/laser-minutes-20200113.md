@@ -1,0 +1,29 @@
+---
+title: "Laser Subcommittee Meeting 2020-01-13"
+---
+# Laser Subcommittee Meeting 2020-01-13
+
+-   Attendees: NickB, BlakeS
+-   We'd still like [red dot beam combiners](/subcommittee/laser-minutes-20191216), which would render getting a tube that has a built in aiming beam moot
+    -   Would we like one?
+        -   Nick, Blake: yes; Fletcher: no
+            -   Fletcher: Recommends crowdfunding it at <https://finance.artifactory.org.au/>
+                -   TODO
+-   KH7050 Kellogg/Middle
+-   LG500 Little Red (out-of-order)
+    -   Replacement tube: arrived, test fired: success
+    -   Requires air extraction
+-   LC1290 Big Red
+    -   Empty compressor tanks (little content: recently done), water trap
+    -   Hour meter
+        -   The hour meter started from 1.6 hours, at 20171210 , 512 beam-active cutting hours per annum
+
+| Date     | Hour count                    |
+|----------|-------------------------------|
+| 20171210 | 1.6                           |
+| 20171217 | 11.5                          |
+| 20180604 | 181.65                        |
+| 20181217 | 488.9 100W installed 20181222 |
+| 20190311 | 590.1                         |
+| 20191216 | 1026.3                        |
+| 20200113 | 1055.7                        |

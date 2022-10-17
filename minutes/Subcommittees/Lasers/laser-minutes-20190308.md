@@ -1,0 +1,42 @@
+---
+title: "Laser Subcommittee Meeting - informal 2019-03-08--2019-03-11"
+---
+# Laser Subcommittee Meeting - informal 2019-03-08--2019-03-11
+
+-   Attendees: NickB, BlakeS, FletcherB, KamilS, DougB, Lemming
+
+```{=html}
+<!-- -->
+```
+-   Kellogg update 2019-03-08 <https://groups.google.com/forum/#!topic/artifactory-laser/g7ZHLYt8es4>
+    -   <https://groups.google.com/forum/#!topic/artifactory-laser/fyKI0fPVN0w>
+    -   Confirmed that the 80W tube stored in the office is still functional and it has been installed in Kellogg
+-   LC1290 Big Red update and air
+    -   <https://groups.google.com/forum/#!topic/artifactory-laser/67llb-QLxNY>
+    -   <https://groups.google.com/forum/#!topic/artifactory-laser/fyKI0fPVN0w>
+    -   130W Reci tube dead
+    -   The 100W "for Kellogg" tube was swapped back in and required no realignment
+        -   Has been running in Big Red for the past few months, has been reinstalled and the laser is cutting normally again, 3mm MDF @ 50mm/second
+    -   During reattaching air fittings, etc we couldn't get the air regulator's water trap to stop leaking air. Various twiddling and cleaning was tried
+        -   Instead Doug and Lemming helped us swap the regulator over to another one that was in the office. Its a smaller unit but still does regulation and has a water trap. Doug installed it and reattached the existing valve. Some of the fittings were changed to be more "fit for purpose" which should further reduce air leaks. Pressure was set around 30psi. Flow out of laser head nozzle seemed about right.
+    -   Empty compressor tanks
+    -   Hour meter
+        -   The hour meter started from 1.6 hours, at 20171210 , 475 beam-active cutting hours recorded over 12 months
+
+| Date     | Hour count                              |
+|----------|-----------------------------------------|
+| 20171210 | 1.6                                     |
+| 20171217 | 11.5                                    |
+| 20171230 | 31.2                                    |
+| 20180210 | 72.05                                   |
+| 20180305 | 95.8                                    |
+| 20180604 | 181.65                                  |
+| 20180702 | 234.8                                   |
+| 20180827 | 295.5                                   |
+| 20180924 | 326                                     |
+| 20181022 | 375.5                                   |
+| 20181129 | 426.9                                   |
+| 20181209 | 475                                     |
+| 20181217 | 488.9 TOCHECK: 100W installed 20181222? |
+| 20190211 | 558.45                                  |
+| 20190311 | 590.1                                   |

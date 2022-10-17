@@ -1,0 +1,85 @@
+---
+title: "Laser subcommittee meeting 2017-03-12"
+---
+##### Laser subcommittee meeting 2017-03-12
+
+-   Jim, Nick, Glenn Martin
+
+```{=html}
+<!-- -->
+```
+-   New 1 GaAs lens (thanks Steve!)
+-   7 new mirrors have arrived:
+    -   3 \* Si, matte one side, with gold-coloured reflective surface coating
+        -   Less dense, higher specific heat but lower total thermal mass, appropriate for small to medium power (fine for us at 130W!), possibly less durable?
+        -   <http://www.sawmillcreek.org/showthread.php?206087-Mirror-types-for-CO2-lasers>
+        -   <http://www.lasercomponents.com/de-en/product/mirrors-for-co2-lasers/>
+    -   4 \* Mo metal, probably uncoated on reflective surface
+    -   Install final head mirror in LC1290 today
+
+```{=html}
+<!-- -->
+```
+-   Issues since previously, or continuing
+    -   LC1290
+        -   Cutting 3mm MDF@30mm/sec
+        -   
+
+```{=html}
+<!-- -->
+```
+    From: "Lemming ." <inertial@gmail.com>
+    Date: Fri, 3 Mar 2017 21:56:18 +0800
+    Subject: [artifactory-laser] BIg Red Y Axis Driver dead
+    To: Artifactory Laser Subcommittee <artifactory-laser@googlegroups.com>
+
+    From: "Lemming ." <inertial@gmail.com>
+    Date: Sat, 4 Mar 2017 18:02:21 +0800
+    Subject: [artifactory-laser] Big Red HV Cable issues.
+
+       * HV cable, silicone tubing
+       * Lid still a bit wonky - replace 3* hinges
+
+-   Glenn keen to be trainer, got some students in mind
+    -   AS60825.1 (2014) Laser class categories, CO2 10600nm safety
+    -   TODO: Schedule a training session for some lucky trainees!
+
+```{=html}
+<!-- -->
+```
+-   LC1290 alignment
+    -   Aspect ratio check: good
+        -   Configured AxisOnePulseMoveLength is same for X and Y
+        -   Y is good, well within 1%
+        -   X is adequate, compressed by a small factor, approaching 1%
+    -   Bed level check: Poor, out of focus on LHS
+        -   Cuts 50mm/sec on right, 30mm/sec or worse on left
+        -   Replace original metal final mirror - clean, with small centre blemish
+            -   Fresh coated Si mirror, now cutting at 55mm/sec on right
+        -   Clean chaff and level bed
+            -   Now consistent: cutting 3mm MDF at 55mm/second
+
+```{=html}
+<!-- -->
+```
+-   LG500
+    -   Out of order, stepper driver for Y axis borrowed for LC1290, replacement due to arrive soon
+    -   Jim's ordered a new driver board (\$97), should be here next week
+    -   Will reimburse himself with free laser usage
+    -   <https://www.aliexpress.com/item/3ND583-Leadshine-Driver-3ND583-3phase-stepper-Drive-driver-For-Cnc-Router-Laser-engraving-Machine-Three-phase/32612741866.html>
+
+```{=html}
+<!-- -->
+```
+-   Next subcommittee meeting: Wednesday 20170322-1830
+
+```{=html}
+<!-- -->
+```
+-   Carried forward:
+    -   Can we find/replace the missing access keys? Only 2 of 6? remain
+    -   Monitor/backup PC config
+    -   1 fresh spare lens: want 2 \* 50.8mm + 2 \* 63.5mm
+        -   Regarded as a consumable
+        -   Want list of spares on the wiki
+        -   Resolved: buy some!

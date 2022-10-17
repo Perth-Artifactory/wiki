@@ -1,0 +1,37 @@
+---
+title: "Laser subcommittee meeting 2017-07-24"
+---
+##### Laser subcommittee meeting 2017-07-24
+
+-   Present: Glenn, Nick
+    -   Apologies: none
+-   Next Meeting 21th August (postponed a week to 28th August)
+
+```{=html}
+<!-- -->
+```
+-   LC1290 lens clean: short focal lens may risk dirtying faster
+-   LC1290 clean&level bed
+
+```{=html}
+<!-- -->
+```
+-   Spares: Red silicone Tubing: extra HV insulation for LG500 now here
+    -   HV silicone tubing
+        -   Current tubing is not original: recent grey silicone installed from HV PSU to laser head on LC1290
+        -   Hobby store fuel tubing is too thin? Thick red tubing from Autobarn: \$30?
+
+```{=html}
+<!-- -->
+```
+-   Both LG500 and LC1290 have a MPC6515 / MPC6515C-CPUV1.0 controller board
+    -   24V nominal
+    -   Test output Y2: LASER output connector: 4 pins
+
+|                       |                                                                |
+|-----------------------|----------------------------------------------------------------|
+| MPC 6515 Connector Y2 | LASER output connector: 4 pins                                 |
+| Pin 1                 | GND                                                            |
+| Pin 2                 | "Analogue out" DA; 0V idle; 1.4V while laser firing            |
+| Pin 3                 | "Laser power" not connected; 2.6V on board header              |
+| Pin 4                 | Laser ON/OFF signal; 4.1V idle; pulls to 0v while laser firing |

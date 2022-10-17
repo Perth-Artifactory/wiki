@@ -1,0 +1,11 @@
+---
+title: "Laser subcommittee meeting 2016-08-30"
+---
+##### Laser subcommittee meeting 2016-08-30
+
+Present: Nick, Mitch, Steve
+
+Very short (1 minute) catchup before NoizeMaschin!
+
+-   150W laser tube probably in Australia. Mitch to bring to the space and advise other members of the committee when it is here.
+-   Raspberry Pi still failed. Big Red is currently unswipeable with no ETA to fix.

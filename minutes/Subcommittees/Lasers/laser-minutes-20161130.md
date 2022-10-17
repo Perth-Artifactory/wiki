@@ -1,0 +1,54 @@
+---
+title: "Laser subcommittee meeting 2016-11-30"
+---
+##### Laser subcommittee meeting 2016-11-30
+
+Present: Nick, Jim
+
+-   Area Host: Jim will do this
+-   Lasercutter PCs are no speed demons, slow when rendering large designs
+    -   Big Red: DESKTOP-077HO2R; DELL Optiplex 780; Win10; Core2Duo 2.93GHz; 4GiB RAM; 120GB HDD; static DHCP 10.60.210.129; MAC 84:2B:2B:BC:3C:28
+    -   LG500/Little Red: lasercutter-1; DELL Optiplex GX520; WinXP; Pentium-4 2.8GHz; 1.5GiB RAM; 40GB HDD; static DHCP 10.60.210.130; MAC 00:12:3F:C8:16:18
+-   Big Red Jilin Yongli A2 80W tube cutting at 32mA
+
+```{=html}
+<!-- -->
+```
+     * Too high! Who set this?
+       * Was LaserMaxPower=85 -> 32mA
+       * Now LaserMaxPower=65 -> 25mA (26mA is recommended for a full 10000 hour lifespan)
+    * Dust extraction
+      * LG500 host burst, now upgraded - thanks Lemming!
+      * LC1290 to do
+    * Spare parts wanted:
+      * Lens: 50mm, 63.5mm focus
+      * Beam combiner?
+    * Announce install/test of new Reci W6 130W tube
+      * Distilled water
+      * Isopropyl alcohol, cleaning wipes
+      * Align&test, planning for periodic maintenance sessions
+      * Fix current mA meter mounting
+    * Review goals:
+
+#### Short term goals
+
+-   150W tube for LC1290 (Big Red)
+    -   Arrived, needs testing: next meeting
+-   Formally schedule periodic preventative laser maintenance
+    -   Aim for monthly, starting after next fortnight
+-   Update signs:
+    -   /mnt/storage/shared/Committee/AreaHosts/AreaHost_LaserCutter.odt
+    -   /mnt/storage/shared/Committee/AreaHosts/AreaHost_LaserCutter/laser-checklist-infographic.20151201.svg
+
+#### Medium term goals
+
+-   Get test version of laserbot RFID working again (with internal access logging)
+    -   Want to have prototype and development/spare units available for trial, help wanted
+    -   Have access to both machines logged by laser bot, controlled later
+-   All laser trainers trained for and they participate in scheduled preventative laser maintenance.
+-   Implement laser "currency" and periodic training (especially when procedures change)
+-   Improve known-good stock levels
+
+#### Long term goals
+
+-   Charging for both laser cutters controlled by laserbot RFID system

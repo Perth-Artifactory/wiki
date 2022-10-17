@@ -1,0 +1,101 @@
+---
+title: "Laser Subcommittee Meeting 2018-12-17"
+---
+# Laser Subcommittee Meeting 2018-12-17
+
+Attendees:
+
+-   BlakeS, NickB, KamilS, FletcherB, Lemming
+
+```{=html}
+<!-- -->
+```
+-   G.Weike LC1290/Big Red
+    -   Head crash into bed? at 20181128 <https://groups.google.com/d/msg/artifactory-core/Nvj96_MpFSk/2j03fuWcAwAJ>
+    -   RussellC testing 20181209:
+        -   3mm ply cutting well
+        -   some vibration when engraving at 200mm/sec, bottom of X belt vibrates - tension?
+    -   Hour meter
+        -   The hour meter started from 1.6 hours, at 20171210 , 475 beam-active cutting hours recorded over 12 months
+
+| Date     | Hour count |
+|----------|------------|
+| 20171210 | 1.6        |
+| 20171217 | 11.5       |
+| 20171230 | 31.2       |
+| 20180210 | 72.05      |
+| 20180305 | 95.8       |
+| 20180604 | 181.65     |
+| 20180702 | 234.8      |
+| 20180827 | 295.5      |
+| 20180924 | 326        |
+| 20181022 | 375.5      |
+| 20181129 | 426.9      |
+| 20181209 | 475        |
+| 20181217 | 488.9      |
+
+-   G.Weike LG500/Little Red
+    -   No Class 2 red aiming laser
+    -   Keys dying on control pad - down arrow?
+    -   Test cut nice and fast, 3mm MDF at over 15 mm/sec
+        -   22mA, configured Max-Power still at 67
+        -   Whiteboard says 9mm/sec? possibly less reliable cuts over the whole honeycomb workspace
+        -   2018-12-17 Fletcher tests at 16mm/sec
+-   KH-7050/Kellogg
+    -   Has PC next to it - installed?
+        -   Software seems to work?
+        -   Kamil: Laser tube ready to install in the next week?
+-   IainG's 25W Shiny Rabbit <https://fslaser.com/> table top laser cutter visiting for Canning STEAM, Science show @20181208/Little blue
+    -   Currently borrowing Kellogg's compressor
+
+```{=html}
+<!-- -->
+```
+-   LC1290/Big Red fault finding
+    -   Laser is cutting very poorly, but displayed current is still OK
+        -   If the tube is failing; it's our third (second arrived broken) Reci W6, installed 2016-12-28: so it has had about 1000 hours burn time?
+        -   If the HV PSU is failing; it's our second MYJG-150 (150W), USD\$410+shipping, installed 2015-01? A suitable spare will probably be cheaper and we're inclined to get one regardless.
+    -   Blake: Diagnostics yesterday 2018-12-16
+        -   Cleaned mirrors, lens
+        -   Checked alignment - OK
+        -   No improvement \~20mm/s for 3mm MDF
+        -   Tried to clean tube end
+        -   Stopped cutting at all - just marking wood
+        -   Still drawing 26mA
+    -   Fault finding today
+        -   We think could hear electrical arcing while laser running - 26mA
+        -   Tried taking end cover off and recording video
+            -   Cannot find actual arcing, possibly OK?
+            -   STILL TO CHECK: Laser is operational, but is the plasma stable at both ends?
+        -   Look for arcing of power supply - find nothing
+        -   Take out power supply: model MYJG-150 (150W)
+        -   Look through insulation for signs of arcing
+            -   Maybe arcing at crimp
+        -   Test outside with dummy load. milli-Ammeter in series and 1000:1 HV probe with multi meter
+            -   102 kiloohm resistor (100W)
+            -   When firing power supply ("Text" = "Test") button: 44mA, 4400V (193.6W)
+            -   When connecting two dummy loads in series: 206 kiloohm: 42mA, 8700V (365.4W)
+            -   The dummy loads do not drive the HV PSU at full power - 29000V (\~750W)
+                -   130W to 145W output for \~20% power efficiency
+
+```{=html}
+<!-- -->
+```
+-   HV PSU models:
+    -   Kellogg: BH-80W
+    -   LG500/Little Red: MYJG-60 (60W)
+    -   LC1290/Big Red: MYJG-150 (150W)
+
+```{=html}
+<!-- -->
+```
+-   LC1290/Big Red spare parts
+    -   2018-12-13 Blake: ordered laser head: AUD \$70 (inc. GST)
+        -   <https://www.aliexpress.com/store/product/E-Series-CO2-Laser-Head-Focusing-Lens-D20mm-FL50-8-63-5-101-6-Mirror-25mm/1513187_32948855114.html>
+        -   ETA 2019-01-02
+    -   2018-12-14 Blake: ordered operations panel: USD \$45.60 + shipping
+        -   <https://www.ebay.com/itm/Laser-Engraving-Cut-Leetro-Operation-Panel-PAD03-E-CO2-Laser-Controller-System/291953450952>
+        -   ETA 2019-01-22
+    -   Spare HV PSU? USD\$200--\$450?
+    -   Beam combiner+lens? USD\$30?
+    -   Laser safety goggles

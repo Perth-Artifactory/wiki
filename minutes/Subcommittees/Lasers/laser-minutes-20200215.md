@@ -1,0 +1,40 @@
+---
+title: "Laser Subcommittee Meeting 2020-02-15"
+---
+# Laser Subcommittee Meeting 2020-02-15
+
+-   Attendees: BlakeS, NickB, FletcherB, Beau
+-   BlakeS: Trialing Saturday mornings
+-   Possible rearrangement of machines for combined ducting and chiller stacking
+-   We'd still like [red dot beam combiners](/subcommittee/laser-minutes-20191216), which would render getting a tube that has a built in aiming beam moot
+    -   Would we like one?
+        -   Nick, Blake: yes; Fletcher: no
+            -   Fletcher: Recommends crowdfunding it at <https://finance.artifactory.org.au/>
+                -   TODO
+-   KH7050 Kellogg/Middle
+    -   Fixed: Beau reported: Z pulley grub screw? was loose, came off, bed was not moving vertically
+-   LG500 Little Red (out-of-order)
+    -   Replacement tube: arrived, test fired: success
+    -   Requires air extraction
+-   LC1290 Big Red
+    -   Vacuum internals
+    -   Level bed (was out by 5mm, now within 1mm)
+    -   Test fire setting was "stuck on"
+        -   when triggered from button panel and from PC/LaserCut v5.3
+        -   Set to \~99980ms
+            -   Reset to 300ms MENU -\> LASER SET -\> LASER TIME
+            -   Panel setting not saved/restored by PC "download configuration"?
+    -   Empty compressor tanks (little content: recently done), water trap
+    -   Hour meter
+        -   The hour meter started from 1.6 hours, at 20171210 , 512 beam-active cutting hours per annum
+
+| Date     | Hour count                    |
+|----------|-------------------------------|
+| 20171210 | 1.6                           |
+| 20171217 | 11.5                          |
+| 20180604 | 181.65                        |
+| 20181217 | 488.9 100W installed 20181222 |
+| 20190311 | 590.1                         |
+| 20191216 | 1026.3                        |
+| 20200113 | 1055.7                        |
+| 20200215 | 1083.6                        |

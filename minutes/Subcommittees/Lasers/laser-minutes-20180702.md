@@ -1,0 +1,35 @@
+---
+title: "Laser Subcommittee Meeting 2018-07-02"
+---
+# Laser Subcommittee Meeting 2018-07-02
+
+Attendees:
+
+-   Blake, Nick, Dennis
+
+Notes:
+
+-   Little red
+    -   Cutting fine at around 13mm/s for 3mm MDF, overcurrent at 24mA
+    -   Tube change being pursued
+        -   Require end extension
+        -   Require tube mounts
+-   Big red
+    -   Was cutting badly \~40mm/s for 3mm MDF
+        -   Inspected lens and found it dirty
+        -   Cleaned lens, mirrors
+        -   Emptied water traps (rear of LC1290 and at main compressor)
+        -   Offset set to 18mm, nozzle to target \~19.5mm
+    -   Cut speeds up to 55mm/s on 3mm MDF
+    -   Hour meter
+        -   The hour meter started from 1.6 hours, at 20171210
+        -   11.5 hours, at 20171217
+        -   31.2 hours, at 20171230
+        -   72.05 hours, at 20180210
+        -   95.8 hours, 20180305
+        -   181.65 hours, 20180604
+        -   234.8 hours, 20180702
+-   Power up Kellogg the KH7050B
+    -   Kamil has installed a new hall effect (3 wire, purple anodised) Z-probe
+    -   X drive, Y drive, XY datum/reset works
+    -   Z drive jammed? driver stepping requires configuration?

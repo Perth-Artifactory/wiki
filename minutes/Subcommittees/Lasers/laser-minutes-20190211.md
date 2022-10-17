@@ -1,0 +1,86 @@
+---
+title: "Laser Subcommittee Meeting 2019-02-11"
+---
+# Laser Subcommittee Meeting 2019-02-11
+
+-   Attendees: NickB, BlakeS, FletcherB
+
+```{=html}
+<!-- -->
+```
+-   To buy
+    -   More lenses? \~\$15ea
+        -   ZnSe Focal Lens for CO2 Laser Cutting Diam 20mm Focus 2"/2.5"(50.8mm/63.5mm)
+        -   <https://www.ebay.com.au/itm/182262615972> or similar
+-   G.Weike LC1290/Big Red
+    -   Cutting 3mm MDF at 45+mm/sec, centre of bed
+    -   Cutting 3mm MDF sample at 50+mm/sec, centre of bed, extra dry?!
+    -   Using 100W tube (arrived with Kellogg)
+        -   TODO: is 130W Reci good?
+    -   Empty compressor tanks
+    -   Hour meter
+        -   The hour meter started from 1.6 hours, at 20171210 , 475 beam-active cutting hours recorded over 12 months
+
+| Date     | Hour count |
+|----------|------------|
+| 20171210 | 1.6        |
+| 20171217 | 11.5       |
+| 20171230 | 31.2       |
+| 20180210 | 72.05      |
+| 20180305 | 95.8       |
+| 20180604 | 181.65     |
+| 20180702 | 234.8      |
+| 20180827 | 295.5      |
+| 20180924 | 326        |
+| 20181022 | 375.5      |
+| 20181129 | 426.9      |
+| 20181209 | 475        |
+| 20181217 | 488.9      |
+| 20190211 | 558.45     |
+
+-   G.Weike LG500/Little Red
+    -   Cutting 3mm MDF at 10mm/sec, centre of bed
+    -   Cutting 3mm plywood and MDF sample at 17mm/sec, centre of bed - extra dry?!
+
+Jira issues: <https://track.artifactory.org.au/secure/Dashboard.jspa?selectPageId=10101>
+
+| Issue key | Summary                                   | Status | Updated            |
+|-----------|-------------------------------------------|--------|--------------------|
+| LASERS-1  | Kellogg commissioning                     | To Do  | 03/Jan/19 2:49 PM  |
+| LASERS-2  | Fix z axis limits                         | To Do  | 04/Jan/19 6:46 PM  |
+| LASERS-3  | Test importing DXFs to new laser software | To Do  | 03/Jan/19 3:03 PM  |
+| LASERS-5  | New checklist for laser operation         | To Do  | 03/Jan/19 3:57 PM  |
+| LASERS-6  | New checklist for laser training          | To Do  | 03/Jan/19 3:55 PM  |
+| LASERS-7  | General Big Red maintenance               | To Do  | 04/Jan/19 12:04 PM |
+| LASERS-8  | Connect smaller lasers to compressor      | To Do  | 04/Jan/19 5:28 PM  |
+| LASERS-9  | Automate compressed air valves            | To Do  | 04/Jan/19 5:29 PM  |
+| LASERS-10 | Price air extraction/water loop tubing    | To Do  | 08/Feb/19 4:10 PM  |
+| LASERS-11 | Measure tubing lengths for install        | To Do  | 05/Jan/19 4:43 PM  |
+| LASERS-12 | Extractor mount/placement                 | To Do  | 05/Jan/19 4:44 PM  |
+| LASERS-14 | Big Red head swap                         | To Do  | 08/Jan/19 8:09 PM  |
+| LASERS-15 | Big Red PSU swap                          | To Do  | 08/Jan/19 8:18 PM  |
+| LASERS-16 | Configure power                           | To Do  | 08/Jan/19 8:13 PM  |
+| LASERS-17 | Mount LCD                                 | To Do  | 10/Jan/19 12:00 PM |
+| LASERS-18 | Attach CW3000 chiller to Little Red       | To Do  | 11/Feb/19 6:35 PM  |
+| LASERS-19 | Attach CW8000 chiller to Kellogg          | To Do  | 11/Feb/19 6:35 PM  |
+| LASERS-20 | Swap Big Red tube back to 130W            | To Do  | 11/Feb/19 6:36 PM  |
+| LASERS-21 | Replace Big Red head                      | To Do  | 11/Feb/19 6:37 PM  |
+
+------------------------------------------------------------------------
+
+#### PREVIOUS MEETING TEMPLATE ONLY TODO: UPDATE
+
+Recent orders: <https://docs.google.com/spreadsheets/d/1UmvdZ4WiyDsYFZZ8PbORn7u7WdFPSPqI1n89DkXqwm8/edit#gid=0>
+
+| What          | Price     | With lemming | Over cheapest | Link    | Notes                                                                                                                                                                                                                                                                                                                                                                          | Status    | Paid        | Address               | ETA                   |
+|---------------|-----------|--------------|---------------|---------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|-------------|-----------------------|-----------------------|
+| Option 1      | MYJG-150W | 312.774      | 312.774       | 0       | <https://www.aliexpress.com/store/product/150W-CO2-Laser-Power-Supply-for-CO2-Laser-Engraving-Cutting-Machine-MYJG-150-LED/1513187_32722362131.html%7CSame> model number as existing (but may not be the exact same unit)                                                                                                                                                      |           |             |                       |                       |
+| Option 2      | HY-W150   | 366.223      | 366.223       | 53.449  | <https://www.aliexpress.com/store/product/Co2-Laser-Power-Supply-180W-HY-W150/1513187_32582736376.html%7CSupports> 250V directly                                                                                                                                                                                                                                               |           |             |                       |                       |
+| Option 3      | HY-Z150   | 459.23       | 399.23        | 146.456 | <https://www.aliexpress.com/store/product/EFR-Laser-Power-Box-150W-Laser-Power-Supply-use-for-co2-laser-tube-for-engraving-cutting/1513187_32606538041.html?spm=2114.12010612.8148356.1.248b44e98Yjru6%7CSupports> direct current reading, 250V                                                                                                                                | Purchased | AU\$ 459.23 | Fletcher's house      | 10 Jan to 16 Jan      |
+|               |           |              |               | Total   |                                                                                                                                                                                                                                                                                                                                                                                |           |             |                       |                       |
+| Glasses       |           | 33.97        |               | 67.94   | <https://www.aliexpress.com/store/product/Cloudray-10600nm-Laser-Safety-Goggles-Style-A-Shield-Protection-OD4-CE-For-CO2-Laser-Cutting-Engraving/1513187_32825275730.html%7CThe> cool style, two sets                                                                                                                                                                          | Purchased | AUD 78.22   | Blake's parcel locker | 11 Jan to 18 Jan      |
+| Kellog 1      | CW5000    | 1088         |               |         | <https://www.ebay.com.au/itm/CW-5000AG-Industrial-Water-Chiller-for-Single-80W-100W-CO2-Laser-Tube-Cooling/273406553061?epid=1473803928&hash=item3fa84cebe5:g:srYAAOSwkCZbcoku:rk:2:pf:0%7CFri>. 28 Dec. and Wed. 30 Jan                                                                                                                                                       |           |             |                       |                       |
+| Kellog 2      | CW3000    | 399          |               |         | <https://www.ebay.com.au/itm/CW-3000-Industrial-Water-Chiller-for-CO2-Glass-Laser-tube-Laser-Cutter-Engraver/132743844531?hash=item1ee82652b3:g:i0wAAOSwi8tbcoqN:rk:14:pf:0%7CMon>. 14 Jan. and Tue. 19 Feb                                                                                                                                                                    |           |             |                       |                       |
+| Kellog 3      | CW3000    | 203.1        |               |         | <https://www.aliexpress.com/item/Laser-engraving-machine-chiller-CW3000-chiller-engraving-machine-spindle-cooling-water-tank-pump-laser-cutting-machine/32948376792.html?tt=sns_none&aff_platform=default&cpt=1545226479760&sk=chVQpdCV&aff_trace_key=8eed5afb334b4b6fadaaa10141b5e630-1545226479760-00806-chVQpdCV&terminal_id=b87a5724df15477cb48517f2ec8efd8a%7C23-45> days | Purchased | AU \$227.91 | Blake's parcel locker | 23 Jan to 14 Feb      |
+| Head          |           |              |               |         | <https://www.aliexpress.com/item/E-Series-CO2-Laser-Head-Focusing-Lens-D20mm-FL50-8-63-5-101-6-Mirror-25mm/32948855114.html?spm=a2g0s.9042311.0.0.58584c4drfRqJJ>                                                                                                                                                                                                              |           | Shipped     | AU\$ 70.44            | Blake's parcel locker |
+| Big Red Panel | PAD03-E   |              |               |         | <https://www.ebay.com/itm/291953450952%7CThe> buttons and screen. Donation                                                                                                                                                                                                                                                                                                     | Shipped   | USD \$67.10 | Blake's parcel locker | 1 Jan to 29 Jan       |

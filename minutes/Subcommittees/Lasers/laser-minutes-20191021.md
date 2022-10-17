@@ -1,0 +1,23 @@
+---
+title: "Laser Subcommittee Meeting 2019-10-21"
+---
+# Laser Subcommittee Meeting 2019-10-21
+
+-   Attendees: NickB, FletcherB, GlennM, Jean-Michel, BlakeS
+
+```{=html}
+<!-- -->
+```
+-   LC1290 Big Red
+    -   misalignment, adjustment to gantry, cracked lens, slight head drag, touching mirror caused grounding glitch affecting control buttons
+    -   TODO: Check mirror alignment, test focus
+    -   TODO: Cut large square to check for alignment and skew, limit switches
+    -   TODO: Install spare 63.5mm lens (fits long Z-probe)
+    -   update 2019-10-23: drain water trap, main compressor, secondary tank
+-   KH7050 Kellogg/Middle
+    -   Damaged lens
+        -   TODO: Order 18mm diameter lenses
+-   LG500 Little Red
+    -   TODO: Order new tube
+        -   New, improved (co-linear red targetting diode?) replacement about \$500 delivered?
+    -   Chengdu Weegiant 60W CO2 laser tube, expected 2000h lifespan, lasted 5+ years - better than any of the 100W+ tubes!

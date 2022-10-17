@@ -1,0 +1,53 @@
+---
+title: "Laser subcommittee meeting 2018-03-05"
+---
+##### Laser subcommittee meeting 2018-03-05
+
+-   Present: BlakeS, SylvainE, GlennM, NickB
+    -   Apologies: -
+-   Next Meeting: BlakeS: create a doodle pool, move this to after Easter and the April Open Day; (was Saturday 2018-03-31) tentative Train-the-trainer?
+    -   Agenda:
+        -   <https://en.wikipedia.org/wiki/Laser_safety>
+        -   Trainer roster; emeritus trainers
+        -   Clean/swap lenses/mirrors
+        -   Review Kellogg
+-   Tentative train-the-trainer session? Monday 23rd October?
+
+```{=html}
+<!-- -->
+```
+-   LC1290 test
+    -   3mm MDY at 45-50mm/sec in bottom corners
+    -   Nice and level: Z-probe 17mm/20mm to nozzle at centre;
+        -   19mm bottom right SE, 19mm top-right NE, 19mm top-left NW, 20mm bottom-left SW
+    -   GlennM: cleaned mirror 2 and 3 (final)
+    -   Empty air compressor of water condensation
+    -   Vacuum&air blow bottom motor cavity
+    -   Hour meter
+        -   The hour meter started from 1.6 hours, at 20171210
+        -   11.5 hours, at 20171217
+        -   31.2 hours, at 20171230
+        -   72.05 hours, at 20180210
+        -   95.8 hours, 20180305
+-   LG500 test
+    -   3mm MDF cuts at 10mm/sec
+    -   Nice and level: Z-probe 17mm/20mm to nozzle at centre;
+        -   Z-probe 6mm (unpressed) 8mm pressed , nozzle 17mm
+    -   GlennM: cleaned mirror 2 and 3 (final)
+    -   Spare tube available
+    -   Vacuum&air blow bottom motor cavity
+    -   Vacuum&blow honeycomb
+
+```{=html}
+<!-- -->
+```
+-   Checked \\\filer\shared\Committee\AreaHosts\AreaHost_LaserCutter\laser-checklist-Ver.04-2017.svg
+    -   recent! Nov 2017
+    -   typo: espeacially? sync engraving collision wording step 9/10? TEMPERATRE - OK on laminated copy?
+-   BlakeS: claim and update \\\filer\shared\Committee\AreaHosts\AreaHost_LaserCutter.odt
+
+```{=html}
+<!-- -->
+```
+-   We need more people involved in helping to maintain the laser cutters.
+-   It's possible many people think it's too complex to deal with and lack the confidence so need to explain things to people when they get their initial training so they are more comfortable with it.

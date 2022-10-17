@@ -1,0 +1,30 @@
+---
+title: "Laser Subcommittee Meeting 2018-10-22"
+---
+# Laser Subcommittee Meeting 2018-10-22
+
+Attendees:
+
+-   BlakeS, NickB, FletcherB, KamilS
+
+Notes:
+
+-   Update trainer list, note emeritus ex-member trainers
+-   New maintenance log sheet
+-   LC1290 (Big red)
+    -   Hour meter
+        -   The hour meter started from 1.6 hours, at 20171210
+        -   11.5 hours, at 20171217
+        -   31.2 hours, at 20171230
+        -   72.05 hours, at 20180210
+        -   95.8 hours, 20180305
+        -   181.65 hours, 20180604
+        -   234.8 hours, 20180702
+        -   295.5 hrs, 20180827
+        -   326 hours, 20180924
+        -   375.5 hours, 20181022
+    -   Install NPN inductive proximity sensor (with LED indicator!) - 24V 3 pin replaces 2 pin SPST-NO-momentary switch
+    -   Need some extra M4 socket head cap bolts & nuts/wingnuts to hold tensioners, 3/4 bolts currently have hex nuts
+        -   ACTION: Fletcher: will pick some up
+-   LG500 (Little red)
+    -   Still staying level

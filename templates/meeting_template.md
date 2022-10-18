@@ -1,7 +1,7 @@
 ---
-title: "Committee Meeting [XXXX.XX.XX](XXXX.XX.XX)"
+title: "Committee Meeting - yyyy-mm-dd"
 ---
-# Committee Meeting [XXXX.XX.XX](XXXX.XX.XX)
+# Committee Meeting - yyyy-mm-dd
 
 Previous meeting:[Committee Meeting PPPP.PP.PP](Committee Meeting PPPP.PP.PP)
 

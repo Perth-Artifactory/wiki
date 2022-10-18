@@ -1,5 +1,5 @@
 ---
-title: "Committee Meeting 2019.xx.xx"
+title: "Committee Meeting - 2019-xx-xx"
 ---
 # Committee Meeting 2019.xx.xx
 

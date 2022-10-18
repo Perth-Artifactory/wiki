@@ -1,7 +1,7 @@
 ---
-title: "AGM Minutes 20XX-XX-XX"
+title: "Annual General Meeting - yyyy-mm-dd"
 ---
-# AGM Minutes 20XX-XX-XX
+# AGM Minutes yyyy-mm-dd
 
 AGM must be held in accordance with [PART 6 — GENERAL MEETINGS OF ASSOCIATION](https://wiki.artifactory.org.au/doku.php?id=constitution#annual_general_meeting)
 

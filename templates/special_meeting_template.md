@@ -1,7 +1,7 @@
 ---
-title: "Special Committee Meeting 2019.xx.xx"
+title: "Special Committee Meeting - yyyy-mm-dd"
 ---
-# Special Committee Meeting 2019.xx.xx
+# Special Committee Meeting - yyyy-mm-dd
 
 Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
 

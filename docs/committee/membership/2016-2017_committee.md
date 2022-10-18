@@ -1,7 +1,7 @@
 ---
-title: "Committee"
+title: "2016 - 2017 Committee"
 ---
-# Committee
+# 2016 - 2017 Committee
 
 The committee is formed by merit of, and governed by the [constitution](constitution)
 
@@ -9,7 +9,7 @@ Secret World Domination plans are in the [restricted](/committee/restricted/star
 
 ## Committee Members
 
-Elected 3rdth September 2016
+Elected 3rd September 2016
 
 -   Chair: [timbo](/user/timbo) (TG)
 -   Deputy Chair: Lawrence Dixon - "Lemming" (LEM)

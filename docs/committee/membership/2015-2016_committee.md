@@ -1,6 +1,8 @@
 ---
-title: "Committee Members"
+title: "2015 - 2016 Committee"
 ---
+#2015 - 2016 Committee
+
 ## Committee Members
 
 Elected 12th September 2015

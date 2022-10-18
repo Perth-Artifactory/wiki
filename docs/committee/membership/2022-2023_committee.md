@@ -1,23 +1,18 @@
 ---
-title: "2022 - 2023 Committee"
+title: "2022-2023_committee"
 ---
-# 2022 - 2023 Committee
+Elected 17th of September 2022 Office Bearers
 
-Elected 17th of September 2022
-
-Office Bearers
-
--   [Chair](Chairperson): Beau Scott
--   Deputy Chair: Vincent Dalstra
--   [Secretary](Secretary): Phoebe Harris
--   [Treasurer](Treasurer): Ben Conner
+-   [Chair](Chairperson):
+-   Deputy Chair:
+-   [Secretary](Secretary):
+-   [Treasurer](Treasurer):
 
 Ordinary Committee Members
 
--   Deputy Secretary: Lewis Yip
--   Deputy Treasurer: Fletcher Boyd
--   Ordinary Committee Member: Johannes Chuah
--   Ordinary Committee Member: Vincent Dalstra
--   Ordinary Committee Member: Joshua Rospondek
--   Ordinary Committee Member: Vacant
--   Ordinary Committee Member: Vacant
+-   Deputy Secretary:
+-   Deputy Treasurer:
+-   Ordinary Committee Member:
+-   Ordinary Committee Member:
+-   Ordinary Committee Member:
+-   Ordinary Committee Member:

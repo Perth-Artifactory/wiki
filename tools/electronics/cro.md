@@ -1,13 +1,6 @@
 ---
-title: Protek 20MHz Dual-channel Quad-trace Analogue CRO
-description: 
-published: true
-date: 2022-10-19T10:43:34.072Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T17:26:00.144Z
+title: "Protek 20MHz Dual-channel Quad-trace Analogue CRO"
 ---
-
 # Protek 20MHz Dual-channel Quad-trace Analogue CRO
 
 \*\* Specifications \*\*

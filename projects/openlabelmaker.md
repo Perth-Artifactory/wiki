@@ -1,13 +1,6 @@
 ---
-title: Open Label Printer
-description: 
-published: true
-date: 2022-10-19T10:02:52.884Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:53:56.732Z
+title: "Open Label Printer"
 ---
-
 # Open Label Printer
 
 (currently out of date: Vincent Dalstra has an up to date specification)

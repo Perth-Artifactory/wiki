@@ -1,13 +1,6 @@
 ---
-title: Electric Plane
-description: 
-published: true
-date: 2022-10-19T10:46:51.360Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T17:01:09.893Z
+title: "Electric Plane"
 ---
-
 # Electric Plane
 
 ## Approved Users

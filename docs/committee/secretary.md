@@ -1,13 +1,6 @@
 ---
-title: Secretary
-description: 
-published: true
-date: 2022-10-19T10:13:06.579Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T08:05:17.332Z
+title: "Secretary"
 ---
-
 # Secretary
 
 The role and responsibility of the Secretary are governed by the Constitution and [By-Laws](committeerulings) of the Association.

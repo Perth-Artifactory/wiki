@@ -1,13 +1,6 @@
 ---
-title: Big Red
-description: 
-published: true
-date: 2022-10-19T10:44:38.370Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:56:59.372Z
+title: "Big Red"
 ---
-
 # Big Red
 
 [Tool Register](/tools/start) - List of all tools

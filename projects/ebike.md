@@ -1,13 +1,6 @@
 ---
-title: ebike
-description: 
-published: true
-date: 2022-10-19T09:59:46.349Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:49:31.815Z
+title: "ebike"
 ---
-
 One old Suzuki GN250, add 20 90ah lithium ferrous phosphate batteries and a Perm 132 motor.
 
 Top speed: tested on the freeway and has gone 110km/h Range: ? unknown ? I have driven it 20km without significant battery drain but full range has yet to be tested.

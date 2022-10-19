@@ -1,13 +1,6 @@
 ---
-title: steampunk_router
-description: 
-published: true
-date: 2022-10-19T10:04:21.823Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:56:02.179Z
+title: "steampunk_router"
 ---
-
 Steampunk router design based on the [Routerstaion Pro](http://www.ubnt.com/rspro) board.
 
 This is now supported in the latest openWRT release (Backfire) and that's the software i'll be testing it with.

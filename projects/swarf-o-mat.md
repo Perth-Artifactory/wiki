@@ -1,13 +1,6 @@
 ---
-title: Swarf-O-Mat original project page (out of date)
-description: 
-published: true
-date: 2022-10-19T10:04:33.379Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:56:20.657Z
+title: "Swarf-O-Mat original project page (out of date)"
 ---
-
 # Swarf-O-Mat original project page (out of date)
 
 # News

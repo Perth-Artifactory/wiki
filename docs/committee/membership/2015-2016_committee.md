@@ -1,13 +1,6 @@
 ---
-title: 2015 - 2016 Committee
-description: 
-published: true
-date: 2022-10-19T10:48:40.408Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:25:03.729Z
+title: "2015 - 2016 Committee"
 ---
-
 #2015 - 2016 Committee
 
 ## Committee Members

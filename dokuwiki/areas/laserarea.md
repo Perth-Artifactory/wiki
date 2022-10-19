@@ -1,13 +1,6 @@
 ---
-title: Electronics Benches
-description: 
-published: true
-date: 2022-10-19T10:16:23.594Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T17:10:14.548Z
+title: "Electronics Benches"
 ---
-
 ## Electronics Benches
 
 <img src="/tools/electronics_bench.jpg" class="align-left" width="600" />

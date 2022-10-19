@@ -1,13 +1,6 @@
 ---
-title: Swarf-O-Mat CNC Router
-description: 
-published: true
-date: 2022-10-19T10:56:56.792Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:54:57.788Z
+title: "Swarf-O-Mat CNC Router"
 ---
-
 # Swarf-O-Mat CNC Router
 
 ## Summary

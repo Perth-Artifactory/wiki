@@ -1,13 +1,6 @@
 ---
-title: arduino_eeprom
-description: 
-published: true
-date: 2022-10-19T10:49:32.555Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T08:51:56.204Z
+title: "arduino_eeprom"
 ---
-
 ![](/events/arduinouni.jpg) [workshops](/workshops)
 
 ### Arduino EEPROMs

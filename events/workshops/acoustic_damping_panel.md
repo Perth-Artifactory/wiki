@@ -1,13 +1,6 @@
 ---
-title: acoustic_damping_panel
-description: 
-published: true
-date: 2022-10-19T10:16:57.186Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T08:09:24.548Z
+title: "acoustic_damping_panel"
 ---
-
 Sound Absorption Panels are great for killing acoustic reflections, killing ambient sound from the outside world (if stuck over windows), and "deadening" your mixing environment. You could even make a ghetto vocal booth on the cheap.
 
 ### Materials

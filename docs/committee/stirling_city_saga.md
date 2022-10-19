@@ -1,13 +1,6 @@
 ---
-title: Stirling City Saga
-description: 
-published: true
-date: 2022-10-19T10:13:21.926Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:48:20.277Z
+title: "Stirling City Saga"
 ---
-
 ### Stirling City Saga
 
 **Certificate of Approval received 5/11/2015. Hard copy displayed in the Artifactory**

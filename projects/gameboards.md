@@ -1,13 +1,6 @@
 ---
-title: Gaming Boards
-description: 
-published: true
-date: 2022-10-19T10:00:17.506Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:50:17.710Z
+title: "Gaming Boards"
 ---
-
 # Gaming Boards
 
 ## Inspiration

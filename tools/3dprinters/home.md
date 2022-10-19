@@ -1,13 +1,6 @@
 ---
-title: 3D Printers
-description: 
-published: true
-date: 2022-10-19T10:42:44.333Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:53:24.985Z
+title: "3D Printers"
 ---
-
 ## 3D Printers
 
 While 3D printers are largely safe machines we ask that those not familiar with their operation ask for help before their first print.

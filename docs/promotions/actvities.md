@@ -1,13 +1,6 @@
 ---
-title: actvities
-description: 
-published: true
-date: 2022-10-19T10:15:35.714Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:51:41.678Z
+title: "actvities"
 ---
-
 | Activity          | Lead        | Info                |
 |:------------------|:------------|:--------------------|
 | Supanova 2019     | Scott       | www.supanova.com.au |

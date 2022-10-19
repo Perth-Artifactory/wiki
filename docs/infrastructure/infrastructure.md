@@ -1,13 +1,6 @@
 ---
-title: Infrastructure subcommittee page
-description: 
-published: true
-date: 2022-10-19T10:13:53.308Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:48:51.624Z
+title: "Infrastructure subcommittee page"
 ---
-
 ## Infrastructure subcommittee page
 
 \*\* Note \*\* I'm not sure this subcommittee has a good name. Is it a brainstorming subcommittee, does it look after infrastructure not looked after by other subcommittees (or area hosts), or is it both, or perhaps is it something else? DO we need to create more than one subcmmittee here?

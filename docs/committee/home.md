@@ -1,13 +1,6 @@
 ---
-title: Committee
-description: 
-published: true
-date: 2022-10-19T10:11:58.076Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:46:41.519Z
+title: "Committee"
 ---
-
 # Committee
 
 ## The Constitution

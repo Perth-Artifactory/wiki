@@ -1,13 +1,6 @@
 ---
-title: garden
-description: 
-published: true
-date: 2022-10-19T10:00:29.162Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:50:36.732Z
+title: "garden"
 ---
-
 01/12
 
 After much sawing, screwing at lining the garden beds are done.

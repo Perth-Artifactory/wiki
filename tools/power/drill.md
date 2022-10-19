@@ -1,13 +1,6 @@
 ---
-title: Drills
-description: 
-published: true
-date: 2022-10-19T10:46:37.598Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T17:00:50.816Z
+title: "Drills"
 ---
-
 # Drills
 
 ## Approved Users

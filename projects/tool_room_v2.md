@@ -1,13 +1,6 @@
 ---
-title: Tool Room V2
-description: 
-published: true
-date: 2022-10-19T10:05:21.204Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:57:29.573Z
+title: "Tool Room V2"
 ---
-
 # Tool Room V2
 
 ## Summary

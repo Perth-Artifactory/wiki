@@ -1,13 +1,6 @@
 ---
-title: Member Storage Racks
-description: 
-published: true
-date: 2022-10-19T10:13:28.358Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:48:30.964Z
+title: "Member Storage Racks"
 ---
-
 ### Member Storage Racks
 
 -   Only members are entitled to store materials on these material racks.

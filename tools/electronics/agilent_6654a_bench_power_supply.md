@@ -1,13 +1,6 @@
 ---
-title: Agilent 6654A Bench Power Supply
-description: 
-published: true
-date: 2022-10-19T10:43:28.200Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:55:17.214Z
+title: "Agilent 6654A Bench Power Supply"
 ---
-
 # Agilent 6654A Bench Power Supply
 
 \*\* Specifications \*\*

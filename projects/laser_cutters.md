@@ -1,13 +1,6 @@
 ---
-title: Lasercutters
-description: 
-published: true
-date: 2022-10-19T10:01:26.953Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:51:53.560Z
+title: "Lasercutters"
 ---
-
 # Lasercutters
 
 ## Summary

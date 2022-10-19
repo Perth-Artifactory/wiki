@@ -1,13 +1,6 @@
 ---
-title: Treasurer
-description: 
-published: true
-date: 2022-10-19T10:13:45.004Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T08:05:56.875Z
+title: "Treasurer"
 ---
-
 # Treasurer
 
 The role and responsibility of the Treasurer are governed by the Constitution and By-Laws of the Association.

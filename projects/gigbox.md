@@ -1,13 +1,6 @@
 ---
-title: Artifactory Gig Box
-description: 
-published: true
-date: 2022-10-19T10:00:54.843Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:51:14.243Z
+title: "Artifactory Gig Box"
 ---
-
 # Artifactory Gig Box
 
 Should contain the following (incomplete list)

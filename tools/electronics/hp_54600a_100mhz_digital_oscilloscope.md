@@ -1,13 +1,6 @@
 ---
-title: HP 54600A 100MHz digital oscilloscope
-description: 
-published: true
-date: 2022-10-19T10:44:06.046Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:56:03.294Z
+title: "HP 54600A 100MHz digital oscilloscope"
 ---
-
 # HP 54600A 100MHz digital oscilloscope
 
 \*\* Specifications \*\*

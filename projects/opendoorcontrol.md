@@ -1,13 +1,6 @@
 ---
-title: Open Door Control
-description: 
-published: true
-date: 2022-10-19T10:02:46.567Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:53:47.556Z
+title: "Open Door Control"
 ---
-
 # Open Door Control
 
 An access control system with RFID reader, an electronic lock, battery backup, log files, two line LCD panel, and blinken-lights.

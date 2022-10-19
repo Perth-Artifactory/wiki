@@ -1,13 +1,6 @@
 ---
-title: Wine & Design
-description: 
-published: true
-date: 2022-10-19T09:57:29.468Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:46:14.049Z
+title: "Wine & Design"
 ---
-
 #### Wine & Design
 
 ![wine_n\_design.jpg](/events/wine_n_design.jpg)

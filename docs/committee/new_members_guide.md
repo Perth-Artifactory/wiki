@@ -1,13 +1,6 @@
 ---
-title: New Members Guide
-description: 
-published: true
-date: 2022-10-19T10:12:36.980Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:47:32.920Z
+title: "New Members Guide"
 ---
-
 # New Members Guide
 
 Welcome to the Artifactory!

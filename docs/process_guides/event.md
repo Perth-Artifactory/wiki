@@ -1,13 +1,6 @@
 ---
-title: Informing Event Officer and Committee
-description: 
-published: true
-date: 2022-10-19T10:15:24.028Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:51:10.382Z
+title: "Informing Event Officer and Committee"
 ---
-
 #### Informing Event Officer and Committee
 
 -   Make sure the Committee and Event Officer know you are running an event/workshop. They can help you work out what you need to think about, who can help, practicalities, and any legalities for running the Bar. They are your organisational Friend!

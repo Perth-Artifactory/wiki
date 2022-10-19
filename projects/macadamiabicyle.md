@@ -1,13 +1,6 @@
 ---
-title: Who
-description: 
-published: true
-date: 2022-10-19T10:01:53.375Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:52:30.347Z
+title: "Who"
 ---
-
 ## Who
 
     SPATULA: Hayley Bahr, Renae Coles, Donovan de Souza, Jenna Downing

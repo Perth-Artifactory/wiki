@@ -1,13 +1,6 @@
 ---
-title: Public Building Regulations
-description: 
-published: true
-date: 2022-10-19T10:57:37.711Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:50:33.507Z
+title: "Public Building Regulations"
 ---
-
 # Public Building Regulations
 
 This pages covers some background on the legislation and the requirements of the regulations, provided by the council.

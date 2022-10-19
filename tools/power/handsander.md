@@ -1,13 +1,6 @@
 ---
-title: Hand Sander
-description: 
-published: true
-date: 2022-10-19T10:46:58.163Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T17:01:19.638Z
+title: "Hand Sander"
 ---
-
 # Hand Sander
 
 ## Approved Users

@@ -1,13 +1,6 @@
 ---
-title: Laser Cutters
-description: 
-published: true
-date: 2022-10-19T10:44:55.647Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:57:18.915Z
+title: "Laser Cutters"
 ---
-
 # Laser Cutters
 
 <img src="/tools/lasercutters/laser_cutter_area_photo.jpg" width="400" />

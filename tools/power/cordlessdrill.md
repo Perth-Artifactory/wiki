@@ -1,13 +1,6 @@
 ---
-title: Cordless Drills
-description: 
-published: true
-date: 2022-10-19T10:46:31.629Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T17:00:40.967Z
+title: "Cordless Drills"
 ---
-
 # Cordless Drills
 
 ## Approved Users

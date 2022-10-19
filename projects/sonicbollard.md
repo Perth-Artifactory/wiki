@@ -1,13 +1,6 @@
 ---
-title: BollART: The Sonic Bollard
-description: 
-published: true
-date: 2022-10-19T10:03:50.644Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:55:21.494Z
+title: "BollART: The Sonic Bollard"
 ---
-
 # BollART: The Sonic Bollard
 
 #### What:

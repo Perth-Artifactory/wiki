@@ -1,13 +1,6 @@
 ---
-title: 2021 - 2022 Committee
-description: 
-published: true
-date: 2022-10-19T10:49:06.546Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:25:43.512Z
+title: "2021 - 2022 Committee"
 ---
-
 # 2021 - 2022 Committee
 
 Elected 18th of September 2021 Office Bearers

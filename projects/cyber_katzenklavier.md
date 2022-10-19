@@ -1,13 +1,6 @@
 ---
-title: cyber_katzenklavier
-description: 
-published: true
-date: 2022-10-19T09:59:33.205Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:49:13.579Z
+title: "cyber_katzenklavier"
 ---
-
 Inspired by the truly strange theories of an ibscure german late 18th century thinker who thought that building a distressed-cat-based klavier was a good way to cure mental illness (<http://en.wikipedia.org/wiki/Katzenklavier>) and the Muppet Show act in a similar vein of a guy that beat up a bunch of tuned fluffy creatures with a large hammer, I propose we build our own KatzenKlavier with soft toys, piezos, and Ardunios to do the trigger processing into MIDI or similar.
 
 -   What: Fluffy electronic triggered musical device

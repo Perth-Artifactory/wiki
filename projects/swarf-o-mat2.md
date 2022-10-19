@@ -1,13 +1,6 @@
 ---
-title: Son Of Swarf-o-Mat
-description: 
-published: true
-date: 2022-10-19T10:04:39.398Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:56:29.857Z
+title: "Son Of Swarf-o-Mat"
 ---
-
 # Son Of Swarf-o-Mat
 
 -   What: a smaller scale CNC router / engraver than [Swarf-o-mat](/Projects/Swarf-o-mat), this is to be for jobs like cutting small labels and signs, milling smaller parts etc so that Swarf-o-mat isn't locked up doing tiny stuff.

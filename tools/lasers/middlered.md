@@ -1,13 +1,6 @@
 ---
-title: Middle Red
-description: 
-published: true
-date: 2022-10-19T10:45:24.325Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:58:00.139Z
+title: "Middle Red"
 ---
-
 # Middle Red
 
 [Tool Register](/tools/start) - List of all tools

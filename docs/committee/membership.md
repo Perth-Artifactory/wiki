@@ -1,13 +1,6 @@
 ---
-title: How to join The Perth Artifactory
-description: 
-published: true
-date: 2022-10-19T10:12:21.421Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:47:11.598Z
+title: "How to join The Perth Artifactory"
 ---
-
 # How to join The Perth Artifactory
 
 The Artifactory uses TidyHQ to manage its membership. The following is the suggested path to joining us at the Artifactory

@@ -1,13 +1,6 @@
 ---
-title: Code Of Conduct
-description: 
-published: true
-date: 2022-10-19T10:11:21.688Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T08:03:29.574Z
+title: "Code Of Conduct"
 ---
-
 # Code Of Conduct
 
 We must all work to foster a collaborative, inclusive, safe and creative environment for all attendees: members and visitors alike. This code of conduct gives guidance on what is expected at the Artifactory premises, at Artifactory events, on Slack and other Artifactory online communication platforms.

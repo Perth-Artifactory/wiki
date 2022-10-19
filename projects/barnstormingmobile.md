@@ -1,13 +1,6 @@
 ---
-title: Die Fliegende Tanzenfunke
-description: 
-published: true
-date: 2022-10-19T09:58:35.168Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:47:49.411Z
+title: "Die Fliegende Tanzenfunke"
 ---
-
 ## Die Fliegende Tanzenfunke
 
 <img src="/projects/174906_10150253411311394_626921393_8121178_6218069_o.jpg" class="align-right" width="400" alt="174906_10150253411311394_626921393_8121178_6218069_o.jpg" /> German, literally "The Flying Dancing Sparks", a play on the "Aviators" desire to chase electrical-storms in which to play wing-top tennis.

@@ -1,13 +1,6 @@
 ---
-title: Shopping
-description: 
-published: true
-date: 2022-10-19T10:13:13.471Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:48:11.265Z
+title: "Shopping"
 ---
-
 # Shopping
 
 Post links to parts suppliers here. As a newbie, half the time it can be a challenge to find bits for your CNC machine, Arduino, etc... or even know they exist!

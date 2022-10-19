@@ -1,13 +1,6 @@
 ---
-title: street_sign
-description: 
-published: true
-date: 2022-10-19T10:04:27.450Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:56:11.312Z
+title: "street_sign"
 ---
-
 The current street sign is, how shall we put this? Pants! I can say this as I made it - thanks, Ches!
 
 Not to mention that the support poles have subsided. The metal upright poles are set 1235mm apart. Each pole is 46mm in diameter, set into some square galvanised tube 50mm outer diameter in the ground. Can we dig out the road side pole, jack it up and fill it in so the poles are level?

@@ -1,13 +1,6 @@
 ---
-title: 2022 - 2023 Committee
-description: 
-published: true
-date: 2022-10-19T10:49:13.558Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:25:52.641Z
+title: "2022 - 2023 Committee"
 ---
-
 # 2022 - 2023 Committee
 
 Elected 17th of September 2022

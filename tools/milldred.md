@@ -1,13 +1,6 @@
 ---
-title: MïllDřéd
-description: 
-published: true
-date: 2022-10-19T10:07:15.228Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:58:48.570Z
+title: "MïllDřéd"
 ---
-
 # MïllDřéd
 
 <img src="/tools/milldred_01.jpg" class="align-left" width="300" alt="milldred_01.jpg" /> MïllDřéd is the Artifactory's CNC heavy milling machine capable of machining pretty much anything conceivable given the right tooling.  

@@ -1,13 +1,6 @@
 ---
-title: Security Cameras
-description: 
-published: true
-date: 2022-10-19T10:09:30.644Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:42:36.637Z
+title: "Security Cameras"
 ---
-
 ## Security Cameras
 
 *This process applies to Ubiquiti cameras that connect to our NVR*

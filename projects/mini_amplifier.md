@@ -1,13 +1,6 @@
 ---
-title: Mini Amplifier
-description: 
-published: true
-date: 2022-10-19T10:02:18.819Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:53:09.542Z
+title: "Mini Amplifier"
 ---
-
 # Mini Amplifier
 
 Everyone need a mini amplifier, don't they?

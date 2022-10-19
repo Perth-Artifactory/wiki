@@ -1,13 +1,6 @@
 ---
-title: 8/16 Guthrie Street people of interest
-description: 
-published: true
-date: 2022-10-19T10:57:31.316Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:44:50.241Z
+title: "8/16 Guthrie Street people of interest"
 ---
-
 # 8/16 Guthrie Street people of interest
 
 <table>

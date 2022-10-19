@@ -1,13 +1,6 @@
 ---
-title: Milling Machine
-description: 
-published: true
-date: 2022-10-19T10:07:22.978Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:58:58.322Z
+title: "Milling Machine"
 ---
-
 # Milling Machine
 
 ## Summary

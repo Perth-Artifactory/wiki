@@ -1,13 +1,6 @@
 ---
-title: Thicknesser
-description: 
-published: true
-date: 2022-10-19T10:08:10.585Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T17:02:23.240Z
+title: "Thicknesser"
 ---
-
 # Thicknesser
 
 ## Approved Users

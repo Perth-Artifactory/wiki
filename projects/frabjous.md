@@ -1,13 +1,6 @@
 ---
-title: Frabjous Sculpture
-description: 
-published: true
-date: 2022-10-19T10:00:10.266Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:50:08.732Z
+title: "Frabjous Sculpture"
 ---
-
 # Frabjous Sculpture
 
 by [davo](/user/davo)

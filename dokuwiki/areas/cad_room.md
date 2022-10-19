@@ -1,13 +1,6 @@
 ---
-title: CAD Room
-description: 
-published: true
-date: 2022-10-19T10:16:03.967Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T17:09:46.769Z
+title: "CAD Room"
 ---
-
 # CAD Room
 
 <img src="/tools/img_0099.jpg" class="align-left" width="300" /> The CAD (Computer Aided Design) room houses the computers which hold the numerous programs one may use to draw up files to use on the CNC machine and Laser cutters or browse the internet for more ideas and projects. // //

@@ -1,13 +1,6 @@
 ---
-title: 2010 - 2011 Committee
-description: 
-published: true
-date: 2022-10-19T10:48:05.893Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T08:50:23.790Z
+title: "2010 - 2011 Committee"
 ---
-
 # 2010 - 2011 Committee
 
 ## Committee Members

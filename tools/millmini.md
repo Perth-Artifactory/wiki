@@ -1,13 +1,6 @@
 ---
-title: Carbatec Mini Mill
-description: 
-published: true
-date: 2022-10-19T10:07:38.358Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:59:20.411Z
+title: "Carbatec Mini Mill"
 ---
-
 # Carbatec Mini Mill
 
 <img src="/tools/mini-mill.jpg" class="align-left" width="300" alt="mini-mill.jpg" /> The mini-mill is suitable for milling just about anything, given the right spindle speed and tool.  

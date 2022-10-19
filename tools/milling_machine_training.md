@@ -1,13 +1,6 @@
 ---
-title: Milling Machine Training
-description: 
-published: true
-date: 2022-10-19T10:07:31.912Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:59:08.991Z
+title: "Milling Machine Training"
 ---
-
 # Milling Machine Training
 
 This page sets out the general content for training of new milling machine users. It is intended for an audience of trainers and users who have completed training (but might need reminding on some points). **Reading this page is not a substitute for being trained.** Training includes a meaningful amount of hands-on time with the machine and can't be done on the internet.

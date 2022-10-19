@@ -1,13 +1,6 @@
 ---
-title: THE MOLE
-description: 
-published: true
-date: 2022-10-19T10:04:55.155Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:56:49.888Z
+title: "THE MOLE"
 ---
-
 ### THE MOLE
 
 <img src="/projects/themole_construction.jpg" class="align-right" width="500" />

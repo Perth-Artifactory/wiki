@@ -1,13 +1,6 @@
 ---
-title: HAFCO Woodmaster BP-255
-description: 
-published: true
-date: 2022-10-19T10:45:59.692Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:59:57.044Z
+title: "HAFCO Woodmaster BP-255"
 ---
-
 # HAFCO Woodmaster BP-255
 
 HAFCO Woodmaster BP-255 - Wood Band Saw, bought by the Artifactory early 2016

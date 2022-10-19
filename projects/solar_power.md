@@ -1,13 +1,6 @@
 ---
-title: Solar Power for the Artifactory
-description: 
-published: true
-date: 2022-10-19T10:03:43.943Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:55:12.430Z
+title: "Solar Power for the Artifactory"
 ---
-
 ## Solar Power for the Artifactory
 
 (04 November 2015, SKoT)

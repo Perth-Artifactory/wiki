@@ -1,13 +1,6 @@
 ---
-title: 2018 - 2019 Committee
-description: 
-published: true
-date: 2022-10-19T10:49:00.732Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:25:34.305Z
+title: "2018 - 2019 Committee"
 ---
-
 #2018 - 2019 Committee
 
 Elected 15th of September 2018 Office Bearers

@@ -1,13 +1,6 @@
 ---
-title: Committee Rulings
-description: 
-published: true
-date: 2022-10-19T10:11:31.875Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:46:06.038Z
+title: "Committee Rulings"
 ---
-
 # Committee Rulings
 
 Including Classes of Membership, Officers & By-Laws.

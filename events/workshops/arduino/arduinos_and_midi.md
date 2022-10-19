@@ -1,13 +1,6 @@
 ---
-title: arduinos_and_midi
-description: 
-published: true
-date: 2022-10-19T10:49:41.498Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T08:52:05.477Z
+title: "arduinos_and_midi"
 ---
-
 ![](/events/arduinouni.jpg)
 
 [workshops](/workshops)

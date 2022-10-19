@@ -1,13 +1,6 @@
 ---
-title: Web Server
-description: 
-published: true
-date: 2022-10-19T10:10:10.347Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:43:31.500Z
+title: "Web Server"
 ---
-
 # Web Server
 
 ## System Details

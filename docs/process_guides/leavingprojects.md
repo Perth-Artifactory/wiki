@@ -1,13 +1,6 @@
 ---
-title: Leaving a Project
-description: 
-published: true
-date: 2022-10-19T10:15:29.808Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:51:21.988Z
+title: "Leaving a Project"
 ---
-
 ## Leaving a Project
 
 -   The Artifactory does not guarantee the safety of any personal projects.

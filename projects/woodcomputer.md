@@ -1,13 +1,6 @@
 ---
-title: Wood Computer
-description: 
-published: true
-date: 2022-10-19T10:05:33.845Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:57:47.393Z
+title: "Wood Computer"
 ---
-
 # Wood Computer
 
 *Something that computes*

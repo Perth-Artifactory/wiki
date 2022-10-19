@@ -1,13 +1,6 @@
 ---
-title: annual_report_2010
-description: 
-published: true
-date: 2022-10-19T10:10:28.968Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:45:11.414Z
+title: "annual_report_2010"
 ---
-
 Outline of Annual Report to be given at the AGM on the 11th of September 2010
 
 1.  Committee Members

@@ -1,13 +1,6 @@
 ---
-title: Air Compressor
-description: 
-published: true
-date: 2022-10-19T10:06:48.085Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:54:26.513Z
+title: "Air Compressor"
 ---
-
 # Air Compressor
 
 Manual is here. <http://media.supercheapauto.com.au/sca/files/fact-sheet/978784c0-ff33-4708-93cb-d1905bf02578.pdf>

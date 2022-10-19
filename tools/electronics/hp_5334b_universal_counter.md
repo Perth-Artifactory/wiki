@@ -1,13 +1,6 @@
 ---
-title: HP 5334B Universal Counter
-description: 
-published: true
-date: 2022-10-19T10:43:59.125Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:55:53.675Z
+title: "HP 5334B Universal Counter"
 ---
-
 # HP 5334B Universal Counter
 
 \*\* Specifications \*\*

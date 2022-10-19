@@ -1,13 +1,6 @@
 ---
-title: ip_ranges
-description: 
-published: true
-date: 2022-10-19T10:47:33.968Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-17T16:43:59.036Z
+title: "ip_ranges"
 ---
-
 When adding devices to the Artifactory network use the following IP ranges for devices.
 
 All static addressing should be assigned via a [DHCP static map](/subcommittee/it_infrastructure/setup_standards/static_map)

@@ -1,0 +1,80 @@
+---
+title: Committee Meeting 2010.12.21
+description: 
+published: true
+date: 2022-10-17T16:22:22.191Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:22:15.796Z
+---
+
+# Committee Meeting 2010.12.21
+
+**Members Present**
+
+-   Skot McDonald (SM)
+-   Daniel Harmsworth (DH)
+-   Brendan Ragan (BR)
+-   Peter Dreisiger (PD)
+-   Simon Kirkby (SK)
+
+**Meeting Times**
+
+-   Opened: 19:31
+-   Closed: 20:06
+-   Next meeting: 4th January
+
+**Action Items**
+
+-   SK to Message to core about Ghengis Con
+-   PD to Get meta workshop info up and running
+-   PD to email core to think about nights / etc for the new space
+-   **New:** SM will email out to Core about the new Factor/Incubator Spaces and ask for objections/expressions of interest.
+-   **New:** PD will email out to Core about Promotions Manager
+-   **New:** PD will email out to Core about Membership Manager
+
+**Minutes**
+
+1.  Finalise agenda for this meeting
+2.  Minutes of previous meeting
+    1.  All voted aye
+3.  Correspondence
+    1.  Various conversations with Noel about Artifactory 1.0 shutdown
+        1.  Handrail replacement
+        2.  May have 1 day's rent taken out due to late vacation.
+    2.  Informed insurance that we've moved
+4.  Office-holder Reports
+    1.  Chairman would like to thank all those who assisted with moving the Artifactory
+        1.  Special thanks to SM for arranging stuffs
+    2.  Treasurer's Report
+        1.  \$4500 in bank (approx.) \$1700 in fees due in for members.
+        2.  SM is owed \$7500 for the move, and has first dibs on bond money coming back in.
+        3.  2 Members (\$100ea) likely to join in the New Year
+        4.  Dept. Treasurer needs to get on the bank account, and be shown about internet banking
+        5.  Committee moves that \$3000 from the prior bond to SM to repay moneys owed. Seconded by SK, passed unanimously.
+    3.  Property Report
+        1.  We are now in the artfiactory mark 2
+        2.  First Co-Tenants meeting today. Action items taken by PD are available [here](/committee/co-tenants_meeting_2010.12.21)
+        3.  Internet is being dealt with
+        4.  Electricity will be covered at recurring co-tenants meetings
+        5.  Supplies for kitchen and bathroom
+        6.  Bin will be discussed at co-tenants meeting.
+        7.  Much Setup to do!
+5.  General Business
+    1.  Members Renting office space
+        1.  We have keen people.
+        2.  Effectively, we'd need to charge \$200 per month (including Artifactory membership) per person in the Incubator zone.
+        3.  Mailout needs to go to Core about these incubator spaces. (SM will do this)
+    2.  New positions on Committee and Subcommittees
+        1.  Promotions Manager! - PD will email core asking for this person
+        2.  Promotions Committee
+            1.  Should have people on it from the various University
+            2.  Sponsorship and Badgering
+        3.  Membership Officer - PD will email core asking for this person.
+            1.  Keeping track of membership. Maintaining the Authoritative Database.
+        4.  Subcommittees
+            1.  General Infrastructure (Ventilation etc.)
+            2.  OH&S
+            3.  Promotions
+            4.  Power?
+            5.  Networking?

@@ -1,6 +1,13 @@
 ---
-title: "Template Tool Page"
+title: Template Tool Page
+description: 
+published: true
+date: 2022-10-19T10:15:08.921Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:09:10.151Z
 ---
+
 # Template Tool Page
 
 ## Summary

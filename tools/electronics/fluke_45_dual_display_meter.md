@@ -1,6 +1,13 @@
 ---
-title: "Fluke 45 Dual Display Multimeter"
+title: Fluke 45 Dual Display Multimeter
+description: 
+published: true
+date: 2022-10-19T10:43:46.881Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:55:35.109Z
 ---
+
 # Fluke 45 Dual Display Multimeter
 
 \*\* Specifications \*\*

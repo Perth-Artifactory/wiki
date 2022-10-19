@@ -1,6 +1,13 @@
 ---
-title: "Core Server"
+title: Core Server
+description: 
+published: true
+date: 2022-10-19T10:09:50.623Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:43:04.685Z
 ---
+
 # Core Server
 
 ## System Details

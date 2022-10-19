@@ -1,6 +1,13 @@
 ---
-title: "Circular Saw"
+title: Circular Saw
+description: 
+published: true
+date: 2022-10-19T10:46:25.167Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:00:32.584Z
 ---
+
 # Circular Saw
 
 ## Approved Users

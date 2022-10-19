@@ -1,6 +1,13 @@
 ---
-title: "Birdcage"
+title: Birdcage
+description: 
+published: true
+date: 2022-10-19T09:58:41.637Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:47:59.324Z
 ---
+
 # Birdcage
 
 The birdcage is a modified version of the Boule (ball) model from Thingiverse.

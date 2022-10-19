@@ -1,6 +1,13 @@
 ---
-title: "IT Infrastructure Subcommittee Page"
+title: IT Infrastructure Subcommittee Page
+description: 
+published: true
+date: 2022-10-19T10:09:04.874Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:42:00.766Z
 ---
+
 ## IT Infrastructure Subcommittee Page
 
 #### Members

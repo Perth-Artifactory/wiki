@@ -1,0 +1,35 @@
+---
+title: Laser subcommittee meeting 2017-08-28
+description: 
+published: true
+date: 2022-10-17T16:25:57.109Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:25:51.419Z
+---
+
+##### Laser subcommittee meeting 2017-08-28
+
+-   Present: Glenn, Nick
+    -   Apologies: Jim
+-   Next Meeting: Wednesday 20th September
+-   Tentative train-the-trainer session? Monday 23rd October?
+
+```{=html}
+<!-- -->
+```
+-   LC1290 test
+    -   Empty air compressor of water condensation
+    -   Nice and level: Z-datum 17mm to nozzle (34mm nozzle) at centre, 17-18mm at corners
+    -   3mm MDF cuts at 55mm/sec in all corners, less crisp at rear-left
+-   LG500 test
+    -   Nice and level: Z-datum 20mm to nozzle (23mm nozzle) at centre, corners
+    -   3mm MDF cuts at 11mm/sec
+
+We need more people involved in helping to maintain the laser cutters. First thing to do would be to email all members to see if anyone is interested in learning more about the lasers and being a trainer.
+
+It's possible many people think it's too complex to deal with and lack the confidence so need to explain things to people when they get their initial training so they are more comfortable with it.
+
+If we lack the interest from people: Would it be possible to offer incentives to Engineering Students to be involved in maintenance? Students have much more time than other people, and this is directly related to Engineering students field of study so they would be more interested.
+
+Once interested people are found, train them to be trainers, and schedule people to take care of regular maintenance.

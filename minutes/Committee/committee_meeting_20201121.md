@@ -1,0 +1,310 @@
+---
+title: Committee Meeting 2020.11.21
+description: 
+published: true
+date: 2022-10-17T16:16:31.691Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:16:23.544Z
+---
+
+# Committee Meeting 2020.11.21
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: Iain, Beau, Vincent, Blake, Lisa, Scott
+-   Apologies: Fletcher
+-   Absent: Steve, Judith, Jason
+-   Observing: NAMES
+-   Minute taker: NAME
+-   Chair: NAME
+
+### Meeting Times
+
+-   Opened: !:26 pm
+-   Closed: 2:20 pm
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+-   Inconsistency in previous minutes motion:
+    -   Title: "Sponsored memberships"
+    -   Body: "Appoint Johannes Chuah as the new rehearsal room coordinator."
+
+I think the latter is correct.
+
+**Motion:** Change the title to read: "Rehearsal Room coordinator".
+
+AND
+
+Accept the previous meeting's minutes, and the meeting before that.
+
+| Moved By    | Beau     |
+|-------------|----------|
+| Seconded By | Blake    |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+\-
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Still trying to find the key for our new letterbox.
+-   A gentlemen is offering to help sell things for us. Steve is talking to him.
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+\-
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   Stormwater pump keeps turning on occasionally when dry.
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   CHAIRPERSON
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
+
+|                                                        | 20/11/2020      |                                                       |
+|--------------------------------------------------------|-----------------|-------------------------------------------------------|
+| Bank Accounts (excluding Auspicing)                    | \$20,727.60     |                                                       |
+| Pending from TidyHQ/EFTPOS/Cash + Float                | \$200.00        |                                                       |
+| **BALANCE**                                            | \$20,927.60     |                                                       |
+| Sponsored Membership Fund                              | \$1,600.16      | Locked to specific purpose and not included in totals |
+|                                                        |                 |                                                       |
+| **Quarantined Funds**                                  | 20/11/2020      |                                                       |
+| Estimated Key Bond                                     | \$13,110.00     |                                                       |
+| For Insurance 20/21                                    | \$2,000.00      | due annually 31/3. (\$2781.25 in 2019)                |
+| For Extra Outgoings 19/20                              | \$500.00        | (\$442.66 in 2019)                                    |
+| **DESIRED BALANCE**                                    | **\$15,610.00** |                                                       |
+| **Funds Available (+Yes -NO) BALANCE-DESIRED BALANCE** | +\$5,317.60     | \$1,093.60 after rent for this month                  |
+
+Reminder, we're not currently paying for electricity.
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+\- none
+
+| Moved By    | MOVER             |
+|-------------|-------------------|
+| Seconded By | SECONDER          |
+| Status      | Accepted/Rejected |
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+\- Not properly compiled - 85 members (+2)
+
+**New Memberships for approval**
+
+-   CONCESSION - Oliver Pettingill
+-   FULL - Craig Wale, Jack Buckley
+
+| Moved By    | MOVER             |
+|-------------|-------------------|
+| Seconded By | SECONDER          |
+| Status      | Accepted/Rejected |
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * See IT subcommittee.
+
+**Event Officer**
+
+      * None
+
+**Rehearsal Room Coordinators**
+
+      * None
+
+**Quartermasters**
+
+      * Bar profits seem to be greater than pre-covid.
+
+**Membership Officers**
+
+      * Absent
+
+**Membership Storage Officer**
+
+      * Absent
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * If we have surplus money, we could bring little red online. Will take time.
+
+**IT Subcommittee**
+
+      *  Website is down, due to getting 'hacked' apparently. Wordpress is not helping.
+        * Iain's friend offered to create a static website we can host how we like.
+        * It was due for a rebuild anyway (no mobile, among other things).
+        * Consider hosting a placeholder (wayback machine?) for now.
+
+**Promotions Subcommittee**
+
+      * Not much happening atm.
+
+**Sponsored Memberships Panel**
+
+      * None
+
+**Infrastructure Subcommittee**
+
+      * New tool: Bandsaw.Can cut metal.
+        * Funded by the pledge system: should see about making it easier to use.
+      * CAD room refurbishment is going slowly.
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+Should put up more events on facebook page.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) -
+-   Arduino U - (Coordinators: Hugh, Doug) - Fairly quiet, but still running.
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) -
+
+**Games**
+
+\-
+
+**Cosplay and Craft**
+
+\-
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) -
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) -
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Jean-Michel, Skot) -
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) -
+-   Open Day (Coordinator: Steve Hodges) - Going well. plenty of people. Coming along.
+-   Wine & Design (Coordinator: Committee) -
+-   Workshop Wednesday (Coordinator: Fletcher) -
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Reaffirm Quartermasters
+
+I suspect the List of Quartermasters is out of date. I would like to formally update the list ( - vincent). Note that other members can restock (with the committee's permission); but Quartermasters are expressly authorised to coordinate restocking.
+
+Motion:
+
+Remove the current Quartermasters, and Appoint the following members as Quartermasters:
+
+-   Beau Daleys
+-   Vincent Dalstra
+
+| Moved By    | Vincent  |
+|-------------|----------|
+| Seconded By | Lisa     |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+### Open bond bank account
+
+We should move the money we hold for keybonds to a more protected account.
+
+**Motion**
+
+Authorise Fletcher Boyd to open a NAB Business Cash Maximiser Account with Vincent and Fletcher as signatories. The account should require both people to authorise transfers.
+
+| Moved By    | Vincent  |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+Action Items (if required)
+
+| Action Items | Who      |
+|--------------|----------|
+| Open account | Fletcher |
+
+------------------------------------------------------------------------
+
+### OTHER BUSINESS EXAMPLE - DO NOT DELETE UNTIL DAY OF MEETING
+
+What/Inform/Issue
+
+**Motion** (if required)
+
+*Motion Text*
+
+//To take effect from xx/xx/2020 // (if new bylaw allow time for example for the website/wiki/tidyHQ to be updated.)
+
+| Moved By    | MOVER             |
+|-------------|-------------------|
+| Seconded By | SECONDER          |
+| Status      | Accepted/Rejected |
+
+Action Items (if required)
+
+| Action Items                                   | Who |
+|------------------------------------------------|-----|
+| do/buy/make/implement the thing. By xx/xx/2020 |     |
+| update website/wiki/TidyHQ/bylaws/etc          |     |
+| Inform                                         |     |
+
+------------------------------------------------------------------------
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   For reasons, the next meeting is much faster than usual.
+-   Next meeting: Sat 21 Nov, 1:00pm (1 week)
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

@@ -1,0 +1,43 @@
+---
+title: Laser Subcommittee Meeting 2018-08-27
+description: 
+published: true
+date: 2022-10-17T16:26:51.823Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:26:45.967Z
+---
+
+# Laser Subcommittee Meeting 2018-08-27
+
+Attendees:
+
+-   Blake, NickB, Fletcher
+
+Notes:
+
+-   Little red
+    -   Bed out of level.
+    -   Reports of z-axis belt slip over last month. Unsure if z-probe occasionally missing and head crashing or just tensioners slipping.
+    -   Removed and thoroughly cleaned the tensioners and surface they are attached to. Cleaned fasteners.
+    -   Relevelled bed
+    -   Firmly tightened bolts for tensioners to prevent slipping
+    -   Checked heights and adjusted offset from 9mm to 10mm and which gave best cut (head height 18mm)
+    -   Cutting at 13mm/s for 3mm MDF
+    -   Still overcurrent at 24mA
+    -   Still tube change being pursued
+        -   Require end extension
+        -   Require tube mounts
+-   Big red
+    -   Hour meter 295.5 hrs
+    -   Relevelled the bed
+    -   Adjusted offset 16mm. Nozzle to target height 21mm.
+    -   Cleaned lens (was a bit misty)
+-   Kellogg the KH7050B
+    -   Door sensors
+        -   Further investigation over last month showed the door sensors do not work now as they were thought to. They are no longer emitting a 10kHz square wave. Various tests were performed several weeks ago with Steve, Blake and Kamil.
+        -   Steve tried to find more information on sensors but was unable to
+        -   Probably replace with magnet door sensors
+    -   Discussion on z-axis drive
+        -   Kamil's large stepper arrived but was decided its too likely to strip belt until pole gears are replace with larger ones
+    -   Need to get a spare set of belts for Kellogg too

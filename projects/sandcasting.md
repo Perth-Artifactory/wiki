@@ -1,6 +1,13 @@
 ---
-title: "sandcasting"
+title: sandcasting
+description: 
+published: true
+date: 2022-10-19T10:03:26.151Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:54:42.136Z
 ---
+
 SAND CASTING / OIL BURNER / FORGE
 
 20/04/12

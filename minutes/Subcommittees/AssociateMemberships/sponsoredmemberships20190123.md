@@ -1,0 +1,26 @@
+---
+title: Sponsored Memberships Panel 2019-01-23
+description: 
+published: true
+date: 2022-10-17T16:23:08.007Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:23:01.911Z
+---
+
+## Sponsored Memberships Panel 2019-01-23
+
+Attendees: Stuart, Jason, Jean-Michel
+
+Applications were considered. 6 successful applicants. Offers to be sent out.
+
+-   Emily Murphy
+-   Matt Giovanazzo
+-   Alexie Wallace 'Lexie'
+-   Anastasia Beasley
+-   Brett Cowan
+-   Matteo Vinci
+
+Agreement to get all applicants that accepted the offer in on Sunday 3rd 11am if they can make it.
+
+The successful applicants will be notified before the end of January and gain membership to the Artifactory from the 2nd February until the 1st April 2019.

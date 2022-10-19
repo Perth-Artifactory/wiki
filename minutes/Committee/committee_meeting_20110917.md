@@ -1,0 +1,73 @@
+---
+title: Committee Meeting 2011.09.17
+description: 
+published: true
+date: 2022-10-19T09:40:45.172Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:54:50.600Z
+---
+
+# Committee Meeting 2011.09.17
+
+## Agenda
+
+-   Fill committee positions
+-   General business
+
+### Previous Action Items
+
+-   Deferred to next meeting
+
+## Minutes
+
+### Members Present
+
+-   Daniel Harmsworth (DH)
+-   SKoT McDonald (SM)
+-   Peter Dreisiger (PD)
+-   Simon Kirkby (SK)
+-   Jason Muirhead (JM)
+-   Peter Dreisiger (PD)
+-   Antony Lord (AL)
+-   Nick Bannon (NB)
+-   Brendan Ragan (BR)
+
+### Meeting Times
+
+-   Opened: 16:00
+-   Closed: 16:25
+-   Next meeting: TBA
+
+### Agenda Items
+
+1.  Fill committee positions
+    1.  as of the start of the meeting, all committee positions were vacant
+    2.  the following nominations for the committee's Executive positions were received and unanimously accepted:
+        -   Chair: Daniel Harmsworth (nominated by X, seconded by X)
+        -   Deputy Chair: SKoT McDonald (nominated by X, seconded by X)
+        -   Secretary: Peter Dreisiger (nominated by X, seconded by X)
+        -   Deputy Secretary: Simon Kirkby (nominated by X, seconded by X)
+        -   Treasurer: Jason Muirhead (nominated by X, seconded by X)
+        -   Deputy Treasurer: Peter Dreisiger (nominated by X, seconded by X)
+    3.  the Ordinary Committee Members are:
+        -   OCM: Antony Lord (AL)
+        -   OCM: Nick Bannon (NB)
+        -   OCM: Brendan Ragan (BR)
+    4.  the following non-executive positions were also created and filled by unanimous agreement:
+        -   Events Tsar: SKoT McDonald (moved by JM, seconded by BR) --- primarily responsible for fostering links with other compatible groups and coordinating in-space events (title and details to be finalised)
+        -   Physical Infrastructure Tsar: Anton Lord (moved by SM, seconded by JM) --- our resident expert/advisor and approver of major physical infrastructure and installation projects (title and details to be finalised)
+2.  Sub-committees and working groups, including the following, may be formed as needed and draw upon the general membership:
+    -   IT Infrastructure (current volunteers include PD, DH, SK and NB)
+    -   Security
+    -   Safety
+
+### General Business
+
+1.  SM discussed starting up a regular (popular) music event in the space to run in conjunction with NoizeMaschin. Advantages mentioned included further awareness raising and an added incentive to clean the space and build more gadgets and infrastructure
+2.  SM also raised the idea of running some 'Introduction to Arduino' workshops during 'Wine and Design'. This would allow members of the arts community to gain some exposure to/experience with the Arduino, and it would complement the Monday Circuit Hacking nights
+3.  It was pointed out that we are yet to hear back from Andrew Wheatly (AW) regarding our letter of intent. DH confirmed AW's receipt of our letter.
+
+### Action Items Resulting
+
+1.  DH and PD to chase up AW regarding our letter of intent to take over the space's head lease

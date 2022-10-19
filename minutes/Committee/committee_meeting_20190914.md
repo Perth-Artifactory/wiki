@@ -1,0 +1,119 @@
+---
+title: Committee Meeting 2019.09.14 - Post AGM
+description: 
+published: true
+date: 2022-10-17T16:13:42.989Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:13:36.652Z
+---
+
+# Committee Meeting 2019.09.14 - Post AGM
+
+# Agenda
+
+1.  Elect office bearers
+2.  Reaffirm Subcommittees
+3.  Review Previous Meeting's Minutes
+4.  Review Previous Meeting's Action Items
+5.  Other Business
+
+# Minutes
+
+### Members Present
+
+-   Present: JM, Mel, Stuart, Steve, Fletcher, Lauren, Iain, Vincent, Blake
+-   Apologies: Hugh
+-   Absent: None
+-   Observing: Nigel, Nick, Blake
+-   Minute taker: Blake
+-   Chair: Iain
+
+### Meeting Times
+
+-   Opened: 13:40
+-   Closed: CLOSE
+-   Next meeting: NEXTMEETING, n weeks
+
+# Elect office bearers
+
+[How to do it](https://wiki.artifactory.org.au/doku.php?id=constitution#election_of_office_bearers)
+
+-   Chair
+    -   Nominations
+        -   Iain
+    -   Iain appointed
+-   Dep Chair
+    -   Nominations
+        -   Stuart
+    -   Stuart appointed
+-   Treasurer
+    -   Nominations
+        -   Fletcher
+    -   Fletcher appointed
+-   Secretary
+    -   Nominate
+        -   JM
+    -   JM appointed
+
+# Reaffirm Subcommittees
+
+Subcommittee Bylaw rule [6F](/committee/committeerulings#subcommittee_rules) - At the first Committee Meeting after the AGM or SGM all subcommittees will be dissolved unless reaffirmed by the management committee **subject to membership including a committee member**
+
+List of which committee Member(s) is on which Subcommittee
+
+-   Lasers - Fletcher
+-   Sponsored Memberships Panel - Stuart, JM
+-   Infrastructure - Fletcher
+-   Promotions - Scott, Mel
+-   IT Infrastructure - Vincent, Scott
+
+| Reaffirm Subcommittees above Moved By | Stuart   |
+|---------------------------------------|----------|
+| Seconded By                           | Fletcher |
+| Status                                | Accepted |
+
+### Review Previous Meeting's Minutes
+
+-   Defer to next meeting
+
+| Moved By    | MOVER             |
+|-------------|-------------------|
+| Seconded By | SECONDER          |
+| Status      | Accepted/Rejected |
+
+### Review Previous Meeting's Action Items
+
+Defer review on action items until next meeting???????????
+
+-   Defer to next meeting
+
+## Other Business
+
+#### This needs to be done - It may take months!
+
+Change Passwords/codes/access to committee stuff and things etc etc etc. **Who**
+
+-   Google Group/Facebook/Slack/Google Suite/Safe/The many IT thingys/TidyHQ
+-   Fletcher will email instructions
+-   Stuart will email financial details and pass over keys through
+
+## Next Meeting
+
+Date: 05/10/2019, Time: 10am
+
+-   Stuart discusses new meeting format
+    -   Full meeting every 2 months
+    -   Smaller meeting before each open day
+
+General business
+
+-   Nick Bannon - SCW (swan community workshop)
+    -   Discuss swan workshop (central Midland)
+    -   Send details through
+    -   AGM coming up from it
+
+```{=html}
+<!-- -->
+```
+-   JM - booked out next committee meeting from band calendar

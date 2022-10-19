@@ -1,0 +1,143 @@
+---
+title: Committee Meeting 2018.07.04
+description: 
+published: true
+date: 2022-10-19T09:52:45.572Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:10:00.150Z
+---
+
+# Committee Meeting 2018.07.04
+
+## Agenda
+
+1.  Usual business
+    1.  Acceptance of last meeting's minutes
+    2.  Correspondence
+    3.  Property
+    4.  Chairman's report
+    5.  Treasurer's report
+    6.  Other officer's/Event Coordinators reports
+    7.  Subcommittee reports
+    8.  Area Host reports
+    9.  Cornwall House
+2.  Other business
+    1.  Any expenses/For reimbursement
+3.  Review of Action Items
+
+## Minutes
+
+### Members Present
+
+-   Present:
+-   Apologies:
+-   Absent:
+-   Minute taker:
+-   Chair:
+
+### Meeting Times
+
+-   Opened: OPEN
+-   Closed: CLOSE
+-   Next meeting: NEXTMEETING, n weeks
+
+### Minutes of Previous Meeting
+
+| Status      | Accepted/Rejected |
+|-------------|-------------------|
+| Moved By    | MOVER             |
+| Seconded By | SECONDER          |
+
+### Correspondence
+
+-   CORRESPONDENCE
+
+### Property Report
+
+-   PROPERTY
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   CHAIRPERSON
+
+#### Treasurer's Report
+
+-   TREASURER
+    -   Last known bank balance
+
+#### Membership Report
+
+##### Current Status
+
+Membership as at 2017-xx-xx:
+
+-   X (+1) Full Members (Monthly+Annual);
+-   X (-1) Concession Memberships (Monthly+Annual);
+-   X (-0) Family Membership
+-   X (+0) Studio Office Memberships (For 2 Members)
+-   X (-0) Band Memberships
+-   X The Residency
+
+##### Cancelled Non-Payment
+
+Memberships to be cancelled for Non-Payment (+90 days due):
+
+-   MEMBER_NAME
+
+| Status      | Accepted/Rejected |
+|-------------|-------------------|
+| Moved By    | MOVER             |
+| Seconded By | SECONDER          |
+
+##### New memberships for approval
+
+-   CONCESSION - MEMBER_NAMES/NONE
+-   FULL - MEMBER_NAMES/NONE
+-   BAND - MEMBER_NAMES/NONE
+
+| Status      | Accepted/Rejected |
+|-------------|-------------------|
+| Moved By    | MOVER             |
+| Seconded By | SECONDER          |
+
+#### Bandroom Report
+
+-   BANDROOM REPORT
+
+### Other Officer's Reports
+
+#### Promotions Officer Report
+
+-   PROMOTIONS REPORT
+
+#### Fundraising
+
+-   FUNDRAISING REPORT
+
+#### Event Coordinators Report
+
+-   NoizeM - (Coordinators Stuart, Tim, Jean-Michel)
+-   Arduino U - (Coordinators Hugh, Doug)
+-   DIY Synth - (Coordinator Lemming)
+-   Open Day - (Coordinator Steve, Lemming)
+-   ADUG - (Coordinator Richard Harrington, Stuart)
+-   Cosplay - (Coordinator James, Lemming)
+-   Other Events
+
+### Sub-Committee Reports
+
+-   Laser Subcommittee
+    -   REPORT
+-   IT Subcommittee
+    -   REPORT
+
+### Other Business
+
+-   OTHER BUSINESS
+
+### Review of Action Items
+
+-   ACTIONS

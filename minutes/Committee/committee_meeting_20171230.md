@@ -1,0 +1,329 @@
+---
+title: Committee Meeting 2017.12.30
+description: 
+published: true
+date: 2022-10-19T09:51:41.910Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:08:37.795Z
+---
+
+# Committee Meeting 2017.12.30
+
+## Agenda
+
+1.  Usual business
+    1.  Acceptance of last meeting's minutes
+    2.  Correspondence
+    3.  Property
+    4.  Chairman's report
+    5.  Treasurer's report
+    6.  Other officer's/Event Coordinators reports
+    7.  Subcommittee reports
+    8.  Area Host reports
+    9.  Cornwall House
+2.  Other business
+    1.  Any expenses/For reimbursement
+3.  Review of Action Items
+
+## Minutes
+
+### Members Present
+
+-   Present: Lemming, Hugh, Mel, James, Stuart, JM, Blake
+-   Apologies: Tim
+-   Absent: Steve, Tanner
+
+### Meeting Times
+
+-   Opened: 11:10am
+-   Closed: 12:50
+-   Next meeting: Sat 27 Jan 2018 11am, 4 weeks
+
+### Minutes of Previous Meeting
+
+| Status      | Accepted |
+|-------------|----------|
+| Moved By    | Hugh     |
+| Seconded By | JM       |
+
+### Correspondence
+
+-   Open source group - email to Lemming
+    -   Standard event, Stephen
+-   Blazing swan
+    -   Wanted to rent 25sqm. Didn't want studio.
+-   Land cruiser engine overhaul - not a good fit to space
+-   Noisemachine
+    -   Lemming to forward
+-   Gift membership
+    -   Canada space bought membership here for guy moving here
+-   Kick start festival, some ideas:
+    -   LED throwies
+    -   Arduboy
+-   Ring roller + mill
+    -   Picked up mill
+-   Kamil brought in new sander
+    -   Belts and pads to be purchased - email committee list
+-   NDIS paid 3 years membership
+-   Aus Charities and Nonprofits application to be charity
+    -   Rejected at the moment for being registered charity
+    -   Provide more evidence by 9 Jan 2018
+-   Band room one off usage amount
+    -   One off hire \$40
+    -   Liaise through Tanner
+    -   JM doesn't think it will work with restrictions on paying members required to be here
+-   Discussion around casual and members without keys being left in
+    -   General agreement that only key holders may be left
+    -   Last key holding member to leave asks all casual and non key holding members to leave
+-   Braidy Street Music
+    -   Asking about front room
+    -   Through Aaron and emails to Stu
+-   Scott wants to bring in TV
+    -   Large flat screen TV - maybe mount to trolley
+    -   JM - Backup option of other projector
+
+```{=html}
+<!-- -->
+```
+      * 
+
+### Property Report
+
+-   Hole in studio roof still to be fixed
+-   Car park not flooding with rain - fixed
+-   Artifactory street sign
+    -   In poor repair
+    -   Needs replacement
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   CHAIRPERSON
+
+#### Treasurer's Report
+
+-   Stuart
+    -   Finances good
+    -   Resident artist: Justin Barwick
+    -   Events coming up
+    -   People getting expired membership emails before renewal 3 days later. Stuart fixed it.
+
+|                                     | 30/11/2017    | 31/10/2017     |
+|:-----------------------------------:|---------------|----------------|
+|             NAB Balance             | \$7483.15     | \$6236.57      |
+| Pending Transfer from TidyHQ/EFTPOS | \$676.65      | \$113.45       |
+|           Guthire St Bond           | \$6000        | \$6000         |
+|             **Balance**             | **\$14159.8** | **\$12350.02** |
+|                                     |               |                |
+|        **Quarantined Funds**        | 30/11/2017    | 31/10/2017     |
+|    Estimated RFID Key Bond Value    | \$8415        | \$7785         |
+|         For Insurance 18/19         | \$1026        | \$912          |
+|       Sound Equip Payment Due       | \$2705        | \$2705         |
+|         **DESIRED BALANCE**         | **\$12146**   | **\$11402**    |
+
+| REVENUE (Excludes Bond)                      | Last month  | 12 month average |
+|----------------------------------------------|-------------|------------------|
+| Membership Income                            | \$3,613     | \$3,992          |
+| SpaceCash (drinks/events/venue hirer/casual) | \$2,083     | \$1,723          |
+| Fund Raising/Prizes/Donations                | \$0         | \$93             |
+| **TOTAL INCOME**                             | **\$5,696** | **\$5,807**      |
+|                                              |             |                  |
+| EXPENSES                                     | Last Month  | 12 month average |
+| Lease Paid for next month                    | \$4,224     | \$4,258          |
+| Electricity                                  | \$0         | \$303            |
+| Insurance (12mnth avg \$1372/12)             | \$0         | \$114            |
+| Waste/Internet/BOC Gases                     | \$206       | \$239            |
+| Merchant Fees                                | \$0         | \$41             |
+| Stripe/TidyHQ Fees                           | \$86        | \$115            |
+| Event Expenses                               | \$0         | \$51             |
+| Fundraising Expenses                         | \$0         | \$26             |
+| **Total (Prior to Equipment Purchases)**     | **\$4,516** | **\$5,474**      |
+| +/- Prior to Equipment Expenses              | \$1,180     | \$334            |
+|                                              |             |                  |
+|                                              | Last Month  | 12 month average |
+| Equipment Expenses (Below)                   |             | \$73.87          |
+
+#### Membership Report
+
+##### Current Status
+
+Membership as at 2017-12-29:
+
+-   28 (0) Full Members (Monthly+Annual);
+-   1 (+1) Family Membership
+    -   Membership 1: Felicity and Scott
+-   24 (+2) Concession Memberships (Monthly+Annual);
+-   3 (0) Band Memberships
+-   2 (0) Resident Artists
+
+##### Cancelled Non-Payment
+
+Memberships to be cancelled for Non-Payment (+90 days due):
+
+-   Ben Dixon
+
+##### New memberships for approval
+
+| Felicity Millman - Family                     |
+|-----------------------------------------------|
+| Scott Littlefair - Family                     |
+| Vincent Dalstra - Concession                  |
+| Liam Arbuckle - Sponsored Concession (Annual) |
+| Richard Lee - Concession                      |
+| Richard Wilson - Concession                   |
+| Stephen Garran - Full(Annual)                 |
+| Justin Barwick - Summer Resident Noize Artist |
+
+| Status      | Accepted |
+|-------------|----------|
+| Moved By    | James    |
+| Seconded By | Mel      |
+
+#### Bandroom Report
+
+-   Tanner not here
+
+### Other Officer's Reports
+
+#### Promotions Officer Report
+
+-   Mel
+    -   Posting regularly on Facebook is having good positive impact
+-   James
+    -   Handed out Artifactory cards at Malaysian con
+    -   Cosplay sky - might be able to promote through them
+-   Lemming
+    -   Nostalgia box - 3 tickets for prizes for LAN
+
+#### Fundraising
+
+-   Lemming
+    -   January meeting - grand application to lottery west
+-   Mel
+    -   Bunnings BBQ - received our application - awaiting date (estimate April/May)
+
+```{=html}
+<!-- -->
+```
+      * 
+
+#### Event Coordinators Report
+
+-   JM
+    -   Event reporting form
+        -   5 events - good data for events
+        -   Possibly count petty cash before and after event
+-   NoizeM - (Coordinators Stuart, Tim, Jean-Michel)
+    -   Jean Michel
+        -   Audited equipment
+        -   Repaired some equipment
+        -   Request a DI - \$40-50: Maybe through Aaron
+        -   NoizeM going well
+            -   More strictly to 10 min per session
+-   Arduino U - (Coordinators Hugh, Doug)
+    -   Hugh
+        -   Standard numbers
+        -   Some visitors
+-   DIY Synth - (Coordinator Lemming)
+    -   Lemming
+        -   Andrew nathan away until mid fed - next one March
+        -   Might do an interim one where people can come in and work on their stuff
+-   Open Day - (Coordinator Steve, Lemming)
+    -   Lemming
+        -   Leather workshop first one
+        -   Very busy open day - 57 people
+        -   Issue: More members early to run tours - 10am because people come before 11am start time
+        -   Laser training
+            -   Question on time training takes. Steve training is thorough and members are well trained
+
+```{=html}
+<!-- -->
+```
+        * 
+    * ADUG - (Coordinator Richard Harrington, Stuart)
+    * Cosplay - (Coordinator James, Lemming)
+      * Haily - very busy, run another next month
+      * Croque workshop
+      * Leather workshop, feedback:
+        * Request: More solid bench
+        * Lemming - might be able to source stone bench
+        * Classes
+          * 1 first
+          * 6 second
+          * 5 third
+      * James thinking hosting workshop
+    * Other Events
+      * DIY Bio
+        * Glass blowering
+        * Capillary action
+        * Leon Harris ran event
+        * 4 people attended
+
+### Sub-Committee Reports
+
+-   Laser Subcommittee
+    -   Hour metre
+        -   Working
+        -   20 days, 30 hours
+    -   Request that people RSVP for laser maintenance sessions
+    -   Update wiki for trainers
+    -   Little red power
+        -   Replace tube due to diminishing laser power
+        -   Keep existing tube as emergency spare
+    -   Kellog
+        -   Kamil - Organising some parts
+
+```{=html}
+<!-- -->
+```
+        * 
+    * IT Subcommittee
+      * Lemming
+        * Built up new PC
+        * New server to be put in rack and running for LAN
+        * 
+
+### Other Business
+
+-   Mel
+    -   Housekeeping
+        -   Wood donation pile was a bit out of control
+        -   Put up a sign to break down skeletons and all pieces min 100x100mm
+-   Nick
+    -   Forklift - where did it go?
+        -   Discussion about who talked to who and maybe a guy called Gary
+        -   Contact details for Gary via Stuart
+        -   Talk about escalating the issue
+-   Aaron
+    -   Music community: Hey Muso
+    -   Mobile recording studio
+    -   Requesting use of space for workshops/events: 30 - 50 people
+    -   Bandroom and space for events
+    -   Maybe Friday night
+    -   Alcohol Licensing - might need to review further?
+    -   Use BBQ
+-   Occupancy limit - Mel
+    -   Limit of 50 is driven by number of toilets
+    -   Dale could find binned toilets
+    -   Could build some structures out back for extra toilets
+-   Box of bangs - Lemming
+    -   2017 LED sign
+    -   Question on event and whether public/private?
+    -   Decided to post to mailing list for invite
+-   3D Printer - JM
+    -   Require another part to get it working
+-   Kent Street rocket project - Mel
+    -   Potential donation in exchange for files
+-   Mel - unit next door for lease
+    -   Unlikely to get good deal for renting both - probably cant afford
+
+```{=html}
+<!-- -->
+```
+      * 
+
+### Review of Action Items
+
+-   ACTIONS

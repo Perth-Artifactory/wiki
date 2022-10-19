@@ -1,6 +1,13 @@
 ---
-title: "Infrastructure Subcommittee"
+title: Infrastructure Subcommittee
+description: 
+published: true
+date: 2022-10-19T10:14:01.179Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:49:03.316Z
 ---
+
 # Infrastructure Subcommittee
 
 ## Active Projects

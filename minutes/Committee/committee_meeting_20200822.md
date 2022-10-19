@@ -1,0 +1,307 @@
+---
+title: Committee Meeting 2020.08.22
+description: 
+published: true
+date: 2022-10-17T16:16:10.907Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:16:02.662Z
+---
+
+# Committee Meeting 2020.08.22
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: Iain, Fletcher, Vincent, Hugh, Lauren, Stuart, Melanie, Steve, Lisa, Scott
+-   Apologies: Scott
+-   Absent: None
+-   Observing: Beau Daley
+-   Minute taker: Vincent
+-   Chair: Iain
+
+### Meeting Times
+
+-   Opened: 3.15pm (PLANNED: 3.00pm)
+-   Closed: 3.55pm
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+-   Some of the members "accepted" last meeting do not exist.
+
+Motion: Remove the following names from the previous "members accepted" section.
+
+-   Marius Basanovic
+-   Sandra
+
+| Moved By    | Hugh     |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+| Action Items                                       | Who             | Status       |
+|----------------------------------------------------|-----------------|--------------|
+| Update wiki (list of committee members)            | Vincent Dalstra | ✓            |
+| Add appointee to user groups (tidyHQ, Slack, wiki) | Vincent Dalstra | all but wiki |
+| Assign key                                         | Vincent Dalstra | ✓            |
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Makerspace people from Bunbury came in. Vincent showed them around.
+    -   No correspondence since then.
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   INCIDENTS - note any that are reported and discuss if needed
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   CAD room:
+    -   Progress.
+    -   2/3 coats ceiling. Will be followed by walls, then dealing with floor.
+-   Letterboxes and sign are still down.
+    -   No ETA has been given by WaterCorp
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   Nothing to report.
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+-   Situation is postive.
+-   TidyHQ fees will increase next year (+20%, \~120\$ a year)
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+-   None
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+Membership as at 2020-08-19:
+
+-   45 Full Members (Monthly+Annual);
+-   34 Concession Memberships (Monthly+Annual);
+-   2 Band Memberships
+-   2 Associate Memberships
+
+Maybe 8-12 less Full+Concession under the 90 day overdue unpaid invoice rule. Some of those are definitely likely to pay they just need a good prod.
+
+**New Memberships for approval**
+
+-   CONCESSION - Naomi Latky, Andrew Larder, Lee Connor, Judith Huang
+-   FULL - Alex Trushin, Guy Longthorn, Nicholas Johnson
+-   BAND - none
+
+Approve the membership of 4 new members, and defer 3 members to the next meeting.
+
+-   Defer: Alex Trushin, Andrew Larder, Lee Connor.
+-   Accept: Naomi Latky, Judith Huang, Guy Longthorn, Nicholas Johnson
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Lisa     |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * REPORT
+
+**Event Officer**
+
+      * REMINDER - Don't forget to add events to the Goggle Calendar.
+
+**Rehearsal Room Coordinators**
+
+      * REPORT
+
+**Quartermasters**
+
+      * More restocking is being done
+      * Bar sales is up
+
+**Membership Officers**
+
+      * report on numbers see above
+
+**Membership Storage Officer**
+
+      * REPORT
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * Gas strut failed on big red.
+        * Fixing underway. Cost is below $75 threshold.
+
+**IT Subcommittee**
+
+      * REPORT
+
+**Promotions Subcommittee**
+
+      * REPORT
+
+**Sponsored Memberships Panel**
+
+      * REPORT
+
+**Infrastructure Subcommittee**
+
+      * REPORT
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) -
+-   Arduino U - (Coordinators: Hugh, Doug) -
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) -
+
+**Games**
+
+-   Chess Knight (Coordinator: Stuart) - removing from event list. Others are welcome to take over this going forward.
+
+**Cosplay and Craft**
+
+-   Cosplay (Coordinator: Scott) - none scheduled
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - running around 2 a month
+-   PikPI Cosplay Workshops (Coordinators: Hayleye**\#**) - none scheduled
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) -
+    -   Doing well. \~20 non-members last event.
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) - none scheduled
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Skot) - 9th Birthday was spectacular. People should check it out on Youtube.
+    -   Online has increased participation.
+    -   Coming Noizemaschin is postponed.
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) -
+-   Open Day (Coordinator: Steve Hodges) -
+-   Wine & Design (Coordinator: Committee) -
+    -   Good.
+-   Workshop Wednesday (Coordinator: Fletcher) -
+
+**Other** (new and once off events)
+
+-   Sewing Workshop \#1 and \#2 - Committee approved to waive standard rules for Artifactory fees per person to assist getting this workshop up and running. Longer term what would we like to charge non-members for attending this workshop?
+    -   Kymberli Lim will indefinitely loan to the space a Brother SL-100 Sewing Machine and a Kinect v1 3D Scanner.
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Emergency Business - Add Lisa McCarthy to the Promotions committee
+
+Accepted by all members.
+
+Add Lisa McCarthy to the Promotions Committee.
+
+| Moved By    | Iain     |
+|-------------|----------|
+| Seconded By | Vincent  |
+| Status      | Accepted |
+
+### Schedule Annual General Meeting
+
+We need to schedule an Annual General Meeting before the end of September. Date, Time and Place. This must be at least 14 days from now, to allow for notice (21 if a special resolution is proposed).
+
+Discussion:
+
+-   This is part of a long weekend.
+    -   People can vote by proxy.
+
+Hold the Annual General Meeting at 1.00pm, 26 September, at the Perth Artifactory.
+
+| Moved By    | Steve    |
+|-------------|----------|
+| Seconded By | Vincent  |
+| Status      | Accepted |
+
+Action Items (if required)
+
+| Action Items                                    | Who       |
+|-------------------------------------------------|-----------|
+| Send notice of AGM to all Members By xx/xx/2020 | Secretary |
+
+------------------------------------------------------------------------
+
+### COvid.19
+
+-   We should get big bottles of hand Sanitizer and put them out in the space.
+    -   Since our financial situation is fairly good, we can do this.
+
+------------------------------------------------------------------------
+
+### New Bylaw - Control of Funds
+
+The Constitution Rule 63.5 States *63.5 All funds of the Association must be deposited into the Association’s account within 10 working days after their receipt unless otherwise approved by the by-laws* <https://wiki.artifactory.org.au/doku.php?id=constitution#control_of_funds>
+
+Due to majority paying by EFTPOS or Bank Transfer or Through TidyHQ. The Artifactory collects little cash compared to the past partially a result of Covid.19. Thus it is proposed that the frequency of Banking be left with the Treasurer to decide and level of float needed to be kept for various events.
+
+**Motion** Proposed motion *The Committee waives the requirement for funds to be deposited within 10 working days as allowed under the Constitution Rule 63.5 and noting some funds need to be held as float for some events and workshops.*
+
+**Motion** Amended Motion *The Committee waives the requirement for funds to be deposited within 10 working days as allowed under the Constitution Rule 63.5 and noting some funds need to be held as float for some events and workshops. This by-law ceases to be of effect on 31 March 2020*
+
+//To take effect from 23/08/2020 //
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Lisa     |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   Next meeting: 3.00pm 26 September (after the AGM).
+    -   Online attendance may have to be considered.
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

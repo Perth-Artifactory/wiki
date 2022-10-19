@@ -1,0 +1,93 @@
+---
+title: Committee Meeting 2011.05.28
+description: 
+published: true
+date: 2022-10-19T09:40:10.078Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:54:05.952Z
+---
+
+# Committee Meeting 2011.05.28
+
+\*\*Members Present \*\*
+
+-   Daniel Harmsworth
+-   Brendan Ragan
+-   Skot McDonald
+-   Jason Muirhead
+-   Simon Kirkby
+
+**Meeting Times**
+
+-   Opened: 15:10
+-   Closed: 16:00
+-   Next meeting: 4th June
+
+**Action Items**
+
+-   DH will set up openERP for Artifactory.
+-   BR needs a large ladder to check for wireless access.
+-   BR needs to get a quote for AV items.
+-   JD & SM preparing for 6x6 presentation.
+-   DH will sort out aluminium stock for milling.
+-   BR send message to property manager about flooding.
+-   BR will talk to the t-shirt guy about shirts.
+
+**Minutes**
+
+1.  Minutes of previous meeting
+    1.  Accepted - DH moves, SM seconds
+2.  Correspondence
+    1.  Received 3 Electricity Bills that we didn't get
+    2.  Symbiotica wants us to give a talk (Below)
+    3.  Calls from People Jaycar have been sending us
+3.  Property Report
+    1.  Flooding was a problem, apparently it's been fixed.
+    2.  Made of dirt and bricks, may need to be fixed.
+    3.  We need to send an official message about the flooding
+4.  Action Items
+    1.  Working VM for openERP
+5.  Chairman's Report
+    1.  Training day was awesome
+        1.  No lathe training due to member damage
+    2.  Conversion of visitors to members?
+        1.  Not Many yet...
+6.  Treasurer's Report
+    1.  paid the electricity bills \$600-ish.
+        1.  investigate turning machines off automatically?
+    2.  \$1400 in the bank. FXpansion has agreed to more membership (\$1200). Peter D loaned \$1000 (eaten by Electricity Bill)
+        1.  June is paid for
+    3.  \$540 banked from the fridge.
+7.  Art Liason's Report
+    1.  Artsource are sticking us in their directory
+    2.  Symbiotica Talk
+8.  Promotions Report
+    1.  GDC hasn't been posted, but everything else has.
+    2.  Forward warning about 6x6 talk and Symbiotica talk.
+    3.  Great Steampunke Affaire Nights (making costumes & weapons)
+9.  T-Shirt Comp
+    1.  BR will talk to shirt guy
+    2.  BR will talk to jenna about black/white shirts
+10. Fundraising
+    1.  Lottery west pricing
+        1.  need more community outreach stuff
+        2.  Lets make games - \$5 per head (includes a can of coke)
+11. Open Day
+    1.  Training + Open Day
+    2.  Making something with all the tools.
+        1.  Communal project (Storage?)
+    3.  11th of June (Propaganda Begin)
+12. GDC visit
+    1.  Fantastic
+    2.  Tour of the entire facility (lots of space!)
+    3.  Showed us exhibits and pointed out a few things that can be improved on.
+    4.  Wants to put us in contact with their Machinist.
+    5.  Interesting dome space.
+13. Symbiotica Talk
+    1.  Giving a talk at the beginning of july
+14. Security
+    1.  Roller door fixed by Anton
+    2.  Meeting on Saturday the 4th June
+15. General Business
+    1.  Space is Messy

@@ -1,0 +1,31 @@
+---
+title: Laser subcommittee meeting 2017-05-29
+description: 
+published: true
+date: 2022-10-17T16:25:30.320Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:25:24.534Z
+---
+
+##### Laser subcommittee meeting 2017-05-29
+
+Next Meeting 26th June
+
+-   Ordered clear silicone Tubing - not arrived yet.
+    -   Nick will pick up some HV silicone tubing - red.
+-   Glenn to look at sourcing some keys
+-   Nick has found some cheap lenses - will order 2 of each focal length.
+
+It has been mentioned that an email regarding lasercutter safety - namely there are issues impacting on safety. Mitch has documented a list of issues and proposed fixes. Sub-committee will take this to main committee for further guidance and clarification.
+
+We would like clarification specifically on legislation and documentation. Will report back after main committee meeting next week.
+
+There may have been an issue with the Stop button on big red - Jim will investigate.
+
+#### Machine inspection and tests
+
+-   Both the the LC1290 and the LG500 are running overpowered: 32mA and 25mA
+    -   Fixed: reverted to the documented LC1290 130W/26mA and LG500 60W/20mA.
+-   LG500 is running slow, 11-12mm/second on 3mm MDF, despite recently cleaned mirrors and swapped lens
+-   LC1290 main hinge could use repair

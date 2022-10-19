@@ -1,6 +1,13 @@
 ---
-title: "RotoBot CNC"
+title: RotoBot CNC
+description: 
+published: true
+date: 2022-10-19T10:03:18.087Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:54:32.861Z
 ---
+
 # RotoBot CNC
 
 ## Project Brief

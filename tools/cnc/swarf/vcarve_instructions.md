@@ -1,6 +1,13 @@
 ---
-title: "vcarve_instructions"
+title: vcarve_instructions
+description: 
+published: true
+date: 2022-10-19T10:57:04.098Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:55:07.972Z
 ---
+
 {{ :process_guide:cnc-westozy-08.jpg?direct&100\|===== VCarve Instructions =====
 
 <img src="/process_guide/vcarve_letter_t_animated.gif" class="align-right" />

@@ -1,0 +1,92 @@
+---
+title: Committee Meeting 2011.04.30
+description: 
+published: true
+date: 2022-10-19T09:40:02.865Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:53:56.818Z
+---
+
+# Committee Meeting 2011.04.30
+
+\*\*Members Present \*\*
+
+-   Daniel Harmsworth
+-   Brendan Ragan
+-   Skot McDonald
+-   Jason Muirhead
+-   Jenna Downing
+
+**Meeting Times**
+
+-   Opened: 13:25
+-   Closed: 14:14
+-   Next meeting: 30th April, 1300
+
+**Action Items**
+
+-   DH will set up openERP for Artifactory.
+-   BR needs a large ladder to check for wireless access.
+-   BR needs to get a quote for AV items.
+-   JD & SM preparing for 6x6 presentation.
+-   DH will sort out aluminium stock for milling.
+
+**Minutes**
+
+1.  Minutes of previous meeting
+    1.  Accepted - DH moves, BR seconds
+2.  Correspondence
+    1.  Phone call from Andrew asking for the rent before the end of the month.
+    2.  Last electricity bill hasn't been received so it hasn't been paid.
+    3.  iiNet told us we can't have proper DSL - we are on a sub-exchange
+    4.  Inventors have asked if we want a free stall at the innovation fair
+    5.  Antony asked for a meeting last wednesday at 6PM but no Antony
+    6.  6x6 in early june - 6 artists for 20 minutes each - we're one of those 6.
+3.  Property Report
+    1.  We have built more shelves
+    2.  Daniel has built the Mobile Tool Wall
+    3.  FSCK'ing roller door has not been left closed
+4.  Action Items
+    1.  SK has not done the openERP?
+        1.  DH will do it.
+5.  Chairman's Report
+    1.  Nothing to report.
+6.  Treasurer's Report
+    1.  We have one month's rent in reserve (until end of june)
+    2.  We need 6 more FME's
+7.  Art Liason's Report
+    1.  Haven't heard back from Pinstripe Circus.
+8.  Promotions Report
+    1.  Not a lot has gone out
+    2.  Training Day on the 14th.
+    3.  6x6 talk in early June
+    4.  Need another Open Day (first weekend in June)
+9.  T-Shirt Comp
+    1.  DH's design moved, everyone voted for it.
+10. Fundraising
+    1.  T-Shirt!
+    2.  Stickers?
+        1.  JD will be stickermaster™
+    3.  Lotterywest money
+        1.  Need clubs to use the venue
+        2.  Pricing on:
+            1.  4K Projector & Screen.
+            2.  Wireless Microphone.
+            3.  Computer.
+            4.  Upgrade to the PA system / PA system.
+            5.  Recording stuff.
+        3.  Photos / Videos of events to prove we have them.
+11. Training Session
+    1.  Mason has offered to do Swarf-o-Mat training.
+    2.  DH will teach people to use the mill
+    3.  SM will teach people to use vCarve
+    4.  BD will teach people to use the Lathe
+    5.  Need to get stock
+    6.  Need to email list to bring money
+12. General Business
+    1.  Security subcommittee
+        1.  Russ is interested
+        2.  DH, BD and Russ
+        3.  Fix the door - Anton is doing that.
+        4.  Invite Anton to Security subcommittee

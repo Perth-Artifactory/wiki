@@ -1,0 +1,269 @@
+---
+title: Committee Meeting 2021.10.23
+description: 
+published: true
+date: 2022-10-17T16:18:35.442Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:18:27.304Z
+---
+
+# Committee Meeting 2021.10.23
+
+Previous meeting:[Committee Meeting 2021.09.18](Committee Meeting 2021.09.18)
+
+Next meeting: [Committee Meeting 2021.12.11](Committee Meeting 2021.12.11)
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: REMOVE NOT PRESENT - Beau, Fletcher, Vincent, Ben, Jez, Phoebe
+-   Apologies: JC, Spondy, Ben
+-   Absent: NAMES Iain, Jason
+-   Observing: NAMES
+-   Minute taker: Phoebe
+-   Chair: Beau
+
+### Meeting Times
+
+-   Opened: 18.08
+-   Closed: 19.02
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+Previous meeting's minutes: [Committee Meeting 2021.09.18](Committee Meeting 2021.09.18)
+
+-   DISCUSSION
+-   Corrected reaffirmed subcommittee - IT
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Vincent  |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+**ACTIONS**
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   CORRESPONDENCE
+
+Offer to run an event in a library space, but unable to because of the inability to be mobile Fletcher will reach out for further information
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   INCIDENTS - note any that are reported and discuss if needed
+
+Business as usual
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   PROPERTY
+
+Camera update carpark lights
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   CHAIRPERSON
+
+Business as usual
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report. Treasurer change over still in progress
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+**Current Status**
+
+Membership as at 2020-xx-xx:
+
+-   X (+X / -X) Full Members (Monthly+Annual);
+-   X (+X / -X) Concession Memberships (Monthly+Annual);
+-   X (+X / -X) Band Memberships
+-   X (+X / -X) Associate Memberships
+
+**Cancelled Non-Payment**
+
+Memberships to be cancelled for Non-Payment (+90 days due):
+
+-   MEMBER_NAME
+
+**New Memberships for approval**
+
+-   CONCESSION - Benjamin Cragie, Prasanna Suraweera, Adam Razak
+-   FULL - Tarant Borlase, Richard Blackman
+-   BAND - NAMES
+
+Accepted the following members - Benjamin Cragie, Prasanna Suraweera Deferred the following members - Adam Razak, Tarant Borlase, Richard Blackman
+
+| Moved By    | Beau     |
+|-------------|----------|
+| Seconded By | Vincent  |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * 
+
+**Event Officer**
+
+      * Halloween Party coming up on the 30/10/2021
+      * Organising group project - Giant Robot 
+      * Organising LAN - 20/11/2021
+
+**Rehearsal Room Coordinators**
+
+      * Nothing to report 
+
+**Quartermasters**
+
+      * Nothing to report 
+
+**Membership Officers**
+
+      * Nothing to report 
+
+**Membership Storage Officer**
+
+      * Nothing to report 
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * automatic air on its way
+      * Good turnout at Laser maintenance  
+
+**IT Subcommittee**
+
+      * Leagues NVR is being deprecated 
+
+**Promotions Subcommittee**
+
+      * 
+
+**Sponsored Memberships Panel**
+
+      * REPORT
+
+**Infrastructure Subcommittee**
+
+      * Beau loaned Vestil HKC 55 Circler, 2 X Nikita Tracks, 
+      * Ben dwyer Drum sander Carbatech, 15 thicknesser
+      * Fletcher loaned Ryobi Impact driver
+      * Adam donated Anycubic wash and cured 
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) - Nothing to report
+-   Arduino U - (Coordinators: Hugh, Doug) - Nothing to report
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) - Nothing to report
+-   Space Club (Coordinators: ) - Nothing to report
+
+**Games**
+
+-   ARTIfrag (Coordinator: Iain) - Didn't run
+-   Chess Knight (Coordinator: Stuart) - Didn't run
+
+**Cosplay and Craft**
+
+-   Cosplay (Coordinator: Scott) -Didn't run
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - Needs blue tables clear to run event, was resolved, but be mindful
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Miscommunication regarding lockup procedures
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) - Moved to the same night as Wine and Design, was successful
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Jean-Michel, Skot) - Nothing to report
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) - Nothing to report
+-   Open Day (Coordinator: Steve Hodges) - Nothing to report
+-   Wine & Design (Coordinator: Committee) -Nothing to report
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+------------------------------------------------------------------------
+
+### Swap internet from Pentanet to Aussie BroadBand
+
+Pentanet don't sponsor us any more and have left us on a rather expensive plan (\$129/month) with a low download allowance (500GB). Swapping to Aussie BroadBand, lets us a cheaper bill (\$84/month) and unlimited data.
+
+To take effect from 23/10/2021
+
+| Moved By    | Beau              |
+|-------------|-------------------|
+| Seconded By | Fletcher          |
+| Status      | Accepted/Rejected |
+
+Action Items: Find a VDSL2+ modem, call ABB to start the process.
+
+------------------------------------------------------------------------
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   Next meeting: 2021.12.11 16:30 am/pm, N weeks
+
+Minutes: [Committee Meeting 2021.12.11](Committee Meeting 2021.12.11)
+
+## Action Summary
+
+    ^ Action Items^ Who | 
+
+|                                                                          |          |
+|--------------------------------------------------------------------------|----------|
+| Draft acceptance/deferred letter make/implement the thing. By xx/xx/2020 | Fletcher |
+| Add "referred by" member field                                           | Fletcher |
+| Find a VDSL2+ modem, call ABB to start the process.                      | Iain     |
+| Add Phoebe to events calendar                                            | Fletcher |

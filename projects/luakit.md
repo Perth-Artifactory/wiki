@@ -1,6 +1,13 @@
 ---
-title: "Luakit"
+title: Luakit
+description: 
+published: true
+date: 2022-10-19T10:01:45.215Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:52:21.466Z
 ---
+
 # Luakit
 
 Luakit is a [WebKit-GTK](http://webkitgtk.org/) based micro-browser framework configured by [Lua](http://lua.org).

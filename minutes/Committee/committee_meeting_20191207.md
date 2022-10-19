@@ -1,0 +1,324 @@
+---
+title: Committee Meeting 2019.12.07
+description: 
+published: true
+date: 2022-10-17T16:14:22.042Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:14:12.678Z
+---
+
+# Committee Meeting 2019.12.07
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: Hugh, Vincent, Fletcher, Lauren, Jean, Stuart, Iain
+-   Apologies: Melanie
+-   Absent: Steve
+-   Observing: NAMES
+-   Minute taker: Jean-Michel
+-   Chair: Iain
+
+### Meeting Times
+
+-   Opened: 3:08pm
+-   Closed: 3:43pm
+-   Next meeting: See end of minutes
+
+### Review Previous Meeting's Minutes
+
+-   DISCUSSION
+
+| Moved By    | Vincent  |
+|-------------|----------|
+| Seconded By | Iain     |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+-   ACTIONS
+
+```{=html}
+<!-- -->
+```
+      *Purchase a replacement Hard disk drive for server - IT - (Scott)
+      *Selling/disposal of printers - (Scott)
+      *Purchase a new tube for Little Red - Lasers - (Blake and Fletcher investigating)
+      *Email SCW/CHCW re: Artifactory involvement and external parties representing space. (Fletcher)
+      *Update Meeting template - Event Reporting - Sunday Crafternoon  (Fletcher) DONE
+      *Purchase a Vectric Makerspace subscription - (Vincent has emailed) waiting on response - no reply
+      *DoorBot status report follow up with Lemming - (Vincent)-discussion ongoing. 
+      *Zlab left in messy state. Remind members to cleanup after themselves. (Steve)
+      *Official warning to be given privately regarding conduct during event.(Steve to followup) DONE
+      *Update workspace usage policy to bylaws - (JM) DONE
+      *Update Intellectual property to bylaws - (JM) DONE
+      *Update Artifactory expenses proposal policy - (JM) DONE
+      *Update 3D printer prices - (JM) DONE
+      *Update subcommittee roles - (JM) DONE
+
+## Correspondence
+
+#### Gill'd Community Grant
+
+-   Member Kym applied for a small community grant 31/10 from Grill’d Leederville.
+-   6/11 Advised we are eligible for a Grant are \$100-300 and works on the basis jar voting. We will be advised which month a jar will appear for us.
+
+## Incident Reports
+
+-   Angle grinder potential incident, added an item to other business
+
+## Property Report
+
+-   Door got hit yesterday, seems to have survived. Beau looking into it.
+
+## Chairperson's Report
+
+-   CHAIRPERSON
+
+```{=html}
+<!-- -->
+```
+       *Business as usual
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report. We're also trialing an automated version of this report [here](https://finance.artifactory.org.au).
+
+|                                                        | 30/11/2019      | 31/10/2019      |                                                            |
+|--------------------------------------------------------|-----------------|-----------------|------------------------------------------------------------|
+| Bank Accounts (excluding Auspicing)                    | \$12,618.87     | \$12,943.70     |                                                            |
+| Pending from TidyHQ/EFTPOS/Cash + Float                | \$944.32        | \$558.17        |                                                            |
+| **BALANCE**                                            | **\$13,563.19** | **\$13,501.87** | Ideally should be larger than bond value                   |
+| Guthrie St Bond                                        | \$6000          | \$6000          |                                                            |
+|                                                        |                 |                 |                                                            |
+| **Quarantined Funds**                                  | 30/11/2019      | 31/10/2019      |                                                            |
+| Estimated Key Bond                                     | **\$11,060.00** | **\$10,775.00** |                                                            |
+| For Insurance 19/20                                    | \$1,856.00      | \$1,624.00      | +232 for each month due annually 31/3. (\$2781.25 in 2019) |
+| For TidyHQ 19/20                                       | \$49.00         | \$0.00          | +49 for each month due annually Oct. (\$588.75 in 2019)    |
+| For Extra Outgoings 19/20                              | \$400.00        | \$300.00        | +100 for each month due annually Aug. (\$442.66 in 2019)   |
+| **DESIRED BALANCE**                                    | **\$13,365.00** | **\$12,699.00** |                                                            |
+| **Funds Available (+Yes -NO) BALANCE-DESIRED BALANCE** | **\$198.19**    | **\$802.87**    |                                                            |
+
+| REVENUE (Excludes Bond + Money Collected on behalf of others) | Nov-19      | monthly average |
+|---------------------------------------------------------------|-------------|-----------------|
+| Membership Income                                             | \$3,740     | \$3,709         |
+| Space Cash (drinks/events/tool fees/casual)                   | \$946       | \$2,368         |
+| Fundraising/Grants                                            | \$1,000     | \$718           |
+| Donations                                                     |             | \$27            |
+| Donations - For Membership                                    | \$90        | \$83            |
+| **TOTAL INCOME**                                              | **\$5,776** | **\$6,905**     |
+|                                                               |             |                 |
+| EXPENSES                                                      | \$43,788    | monthly average |
+| Lease/Utilities/BOC/Bank Fees/Insurance                       | \$5,150     | \$5,222         |
+| Kitchenette/FundraisingFridge/Toiletries/Sale Program         | \$618       | \$588           |
+| Total Regular Expenses                                        | **\$5,768** | **\$5,810**     |
+| Fundraising Expenses                                          | \$117       | \$250           |
+| Equipment/Infrastructure Expenses                             | \$365       | \$502           |
+| **Total Expense**                                             | **\$6,249** |                 |
+
+## Expenses for Approval
+
+-   \$160 - New (to us) drill press. <https://www.carbatec.com.au/pedestal-drill-press-12-speed-old-code-dp-4119f>
+-   \$155 - Lisa's Madman payout, cut agreed by Fletcher, Scott, Iain.
+-   \$300 - CAD room revamp supplies (steel tubing and paint). We'll attempt to get lower but this is an approximation. Supported by the Alby Made grant.
+
+| Moved By    | Fletcher    |
+|-------------|-------------|
+| Seconded By | Jean-Michel |
+| Status      | Accepted    |
+
+## Membership Report
+
+### Current Status
+
+Membership as at 2019-xx-xx:
+
+-increase in members
+
+### New memberships for approval
+
+-   CONCESSION - Patrick Kent.
+-   FULL - Ryan Coleman, Roland Adeney, Barry Marshall, Oscar White, Adam Mellor
+-   Associate - Daniel Ohm, Jonah Meggs
+
+### New membership not approved
+
+-   CONSESSION - Addam Eid
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Vincent  |
+| Status      | Accepted |
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+-   IT Officer
+    -   REPORT
+-   Event Officers
+    -   REPORT
+-   Rehearsal Room Coordinators
+    -   Aircon remote not working
+-   Quartermasters
+    -   REPORT
+-   Membership Officers
+    -   REPORT
+-   Membership Storage Officer
+    -   REPORT
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+-   Laser Subcommittee
+    -   discussion around laser tube purchase
+-   IT Subcommittee
+    -   Progress on wiki stuff
+-   Promotions Subcommittee
+    -   Fringe coming up. Collab with Perth Machine learning group.
+
+```{=html}
+<!-- -->
+```
+         *Potential promotional to tie in
+    * Sponsored Memberships Panel
+      * +2 memberships
+    * Infrastructure Subcommittee
+      * We had a meeting. Did a bunch of stuff. coming up with a wish list.
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+Tech
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) - Haven't paid for a while. Haven't replied to email.
+-   Arduino U - (Coordinators: Hugh, Doug) - Fine
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) - 2 people, event runner was late.
+
+Games
+
+-   ARTIfrag (Coordinator: Iain) - On now
+-   Chess Knight (Coordinator: Stuart) - Chess was played
+
+Cosplay and Craft
+
+-   Crafternoon (Coordinator: Lauren) - Lots of people, chilled vibe.
+-   Cosplay (Coordinator: Scott) - BAU
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - BAU
+-   PikPI Cosplay Workshops (Coordinators: Hayleye**\#**) - NA
+
+Music
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - NA
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) - Didn't add to calendar. Band on the same time, conflicted.
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Jean-Michel, Skot) -Attendance: 30ish
+
+```{=html}
+<!-- -->
+```
+        *Lots of self-made instruments
+        *New resident artist Danny.
+        *Ongoing sound problems (50hz hum and lots of noise)
+     *Future plans:  Finish building lighting rig.
+        *Storage racks for PA equipment.
+        *Audio setup and troubleshooting session
+        *Make recording simpler (4 channels)
+
+General
+
+-   General Hacking Day (Coordinator: Committee) -
+-   Open Day (Coordinator: Steve Hodges) - Busy and had people
+-   Wine & Design (Coordinator: Committee) -
+-   Workshop Wednesday (Coordinator: Fletcher) - visitors
+
+Idea to integrate calendars, Other (new and once off events)
+
+-   OTHER Events
+
+```{=html}
+<!-- -->
+```
+       *Fringe make event. Collab with Machine learning group approved.
+
+## Other Business
+
+### Administering of Arts Grants “The Reinvention Room” is finished
+
+This is a report to the Committee and no action is required.
+
+-   Background Artifactory acted as Auspicor.(Administrator of the Grant on behalf of Propel Youth Arts) Members Stuart and Jean-Michel managed it.
+-   Final report received on the project 01/11/2019.
+-   All documents associated with Auspicing are in the Committee GDrive - Treasurer - Auspicing - Reinvention Room.
+
+Pros and Cons of Auspicing a Grant for future reference.
+
+-   It is does require some effort for those Artifactory members that agree to monitor it on behalf of the Artifactory.
+-   We did receive a fee 3% of the Grant. In the future maybe at least go double.
+-   We ended up with a new permanent member as well as received tool usage fees for lasers, welding and membership fees that allowed for those running the project to be umbrella under our insurance.
+-   The Artifactory received promotional exposure
+
+Recommendations for the future
+
+-   Those taking on Auspicing of the Future should be aware that it will be time intensive at times.
+-   It would be easier to keep their Insurance coverage separate from ours
+-   Don't get involved in grants where the Artifactory would have to pay wages. (Not that that was a thing with this)
+-   A separate bank account was opened to administer that Grant. Definitely do that again in the future.
+
+### Tool specific inductions
+
+As the space evolves we've got more and more tools that have a serious risk of injury if used improperly. The Infrastructure subcommittee will usually have a high % of tool skilled members and can adequately identify the more dangerous tools.
+
+By-law addition: Tool inductions
+
+The Infrastructure Subcommittee may gate dangerous tools behind a tool specific induction at their discretion and appoint trainers.
+
+A list of gated tools and appointed trainers must be made available on the wiki and on or near the tools themselves.
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Vincent  |
+| Status      | Accepted |
+
+### Laser
+
+The laser subcommittee still hasn't bought a tube, should we adjust or rescind our spending motions and/or provide more direction for the subcommittee?
+
+Committee discussion regarding laser tube decisions. Decision made at previous meeting still stands.
+
+------------------------------------------------------------------------
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### OTHER BUSINESS HEADER
+
+OTHER BUSINESS BODY
+
+## End of Meeting
+
+Remember to set **NEXT_MEETING** before closing meeting!
+
+-   Next meeting: 3pm 11th January 2020, 5 weeks
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES
+
+```{=html}
+<!-- -->
+```
+       *Purchase a replacement Hard disk drive for server - IT - (Scott)
+       *Purchase a Vectric Makerspace subscription - (Vincent has emailed) waiting on response - no reply
+       *DoorBot status report follow up with Lemming - (Vincent)-discussion ongoing.
+       *Selling/disposal of printers - (Scott)
+       *Email SCW/CHCW re: Artifactory involvement and external parties representing space. (Fletcher)
+       *Purchase a replacement Hard disk drive for server - IT - (Scott)
+       *Zlab left in messy state. Remind members to cleanup after themselves. (Steve)
+       *By-law addition: Tool inductions (JM) 

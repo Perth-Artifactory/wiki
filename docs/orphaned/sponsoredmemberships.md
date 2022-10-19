@@ -1,6 +1,13 @@
 ---
-title: "Sponsored Memberships Committee"
+title: Sponsored Memberships Committee
+description: 
+published: true
+date: 2022-10-19T10:15:02.701Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:50:43.686Z
 ---
+
 # Sponsored Memberships Committee
 
 #### Members

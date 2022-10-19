@@ -1,6 +1,13 @@
 ---
-title: "printrbot_simple_3d_printer"
+title: printrbot_simple_3d_printer
+description: 
+published: true
+date: 2022-10-19T10:42:57.094Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:53:43.369Z
 ---
+
 **PAGE IN PROGRESS**
 
 # Printrbot Simple 3D Printer

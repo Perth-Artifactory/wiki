@@ -1,0 +1,207 @@
+---
+title: Agenda
+description: 
+published: true
+date: 2022-10-19T09:44:53.687Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:59:57.146Z
+---
+
+## Agenda
+
+-   New fridge, thanks to MitchK!
+    -   Samsung SR216NME
+    -   at a rated 340kW·h/year and \$0.2932/kW·h it could be \$100/year to run instead of \$250/year!
+        -   but our power bill is still a terrifying \$600/month
+    -   the old fridge is outside, still good for occasional event use?
+-   TradeIn program from 3D Printing Systems, pick a triage workspace location
+
+### Previous Action Items
+
+-   ACTION: Southern, Davo, Nick: New LDAP on auth.internal.artifactory.org.au
+-   ACTION: MitchK, auction Barco projectors on Ebay
+    -   WC would like to test a trailer projection, include an Artifactory advert
+        -   First bid \$100 for one
+    -   Rent for a month
+    -   ACTION: TG will Ebay one
+-   ACTION: BD: Organise a Chimney, we have permission from the owners for whirlybird, etc. installation
+-   ACTION: JD: Publicise cashflow problems now
+    -   JM: Will draft for JD to distribute
+-   ACTION: MitchK on Tue 20140513: \$45/extinguisher care of Westside Fire Services, will email invoice, Anton
+-   ACTION: SKoT: NAB form, new signatories?
+-   ACTION: DO'M send Lotterywest a care package re: previous laser grant
+    -   No, we have not claimed our final \$525 as of 2014-04-24, we can plead for a late reimbursement?
+
+### Additional Agenda Items
+
+## Minutes
+
+### Members Present
+
+-   Present: JD NB DH ChrisHall JM BD
+    -   WC, TG
+-   Apologies: SKoT Anton
+-   Absent:
+
+### Meeting Times
+
+-   Opened: 12:14
+-   Closed: 13:36
+-   Next meeting: Sat 20140607-1200, 4 weeks
+
+### Minutes of previous meeting
+
+| Status      | Accepted without dissent |
+|-------------|--------------------------|
+| Moved By    | JD                       |
+| Seconded By | DH                       |
+
+### Correspondence
+
+-   Instant Waste Bill (also arrives electronically)
+
+### Property Report
+
+-   No news
+
+### Safety Report
+
+-   Safety incident last month
+    -   Deeply cut finger: One, requiring stitching
+    -   No procedural issues at fault
+    -   First aid kit stock needs to be maintained
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   Journalism Students: they want in on 3D printing, will be back, possibly with friends to use our tools
+
+#### Treasurer's Report
+
+-   TREASURER
+    -   Last known bank balance: \$2133.46 in bank
+        -   but \$966 is sold welding tickets, allocated for the new welder
+    -   \$795 cash to be banked
+    -   May's rent is not paid, need \$3800 by end-of-month
+    -   \$600 membership + \$400 bond
+    -   Email coming
+    -   Last month net loss of \$990
+    -   \$1417 in insurance
+
+```{=html}
+<!-- -->
+```
+-   Fundraising
+    -   DH claim for Customs agent fees for laser
+        -   Davo will send care package to Lotterywest
+    -   The Pozible plan, but we could easily overcommitt on rewards and time outlay
+    -   Memberships
+        -   4 half-day memberships per month \~= concession membership
+            -   plus tool use
+            -   WC: Add a bridge to full membership
+            -   JM: We have had lot of 1-2 month members
+                -   Initial day membership usage to be encouraged
+
+#### Membership Officer Report
+
+-   MEMBERSHIP
+    -   Approval of New Members
+        -   Jenny Wyatt (bond paid, key issued)
+        -   Viet Nguyen
+        -   Daniel Macnish (key issued, bond pending - promised by Tuesday, will chase up)
+
+| Status      | Accepted without dissent |
+|-------------|--------------------------|
+| Moved By    | JD                       |
+| Seconded By | DH                       |
+
+      * Current Numbers: 33 full (3 new, 13 paid), 2 concession, 8 visitor members
+        * Stable members ~30 members, so expect fu
+        * Expected base membership income of X*$70 + Y*$40
+        * ~$2350 have $2133, will have $4480
+
+#### Events Officer Report
+
+-   Previous
+    -   Blazing Swan <https://www.facebook.com/events/545800162181961>
+        -   Good!
+    -   NoizeMaschin!! \#34b (Perth) <https://www.facebook.com/events/632163150196159/>
+        -   approx 40 people, \$400 with bar takings
+    -   Modular Synth DIY Workshop \#2 <https://www.facebook.com/events/243934515790630>
+        -   \#1 DIY Synth Night - approx 22 people, \$170 from non-members
+    -   Music networking night thingy AudioVault organized - \$150 space hire
+-   Upcoming
+    -   Tuesday 20140513 NoizeMaschin!! \#35 - Installation City!! <https://www.facebook.com/events/315328858621199>
+        -   Early this month, WAAPA student multi installation night
+    -   Sunday 20150518 Welding Workshop \#1, tickets at <https://artifactory.tidyclub.com/public/events/725-welding-workshop-1> , <https://www.facebook.com/events/1430517217200249>
+        -   Fully booked
+        -   Welder purchased, \$1310
+            -   \$200 donation from AudioVault
+            -   Ticket sales reimbursed to DH
+            -   Welding levy, usage fee, for users to pay for use, consumables including gas
+                -   WC: There's a lot of usage tolls, can we have a premium membership with consuambles included?
+                -   TG: ...or a tab
+            -   Has large good value Argon+CO2 bottle
+        -   Followup already planned, basic first, TiG
+        -   Adam's time is donated for the inaugural one
+            -   Proposed, offer Adam Fiannaca a gratis 12-month membership
+
+| Status      | Accepted without dissent |
+|-------------|--------------------------|
+| Moved By    | DH                       |
+| Seconded By | WC                       |
+
+      * Tuesday 20140520 ADUG [[http://www.adug.org.au/meetings/perth/next_meeting.html]]
+      * Laser Mondays
+        * trainer/operator roster
+      * Wednesday ArduinoU, Wine&Design, flight study group
+        * 6 participants at the AUTONAVx first night, despite rain!
+        * Facilities are potentially grantable, projectors etc
+        * Helps member retention
+      * Second Thursday Geek Haven
+        * ACTION: JD: update Google calendar, there's a FB event
+      * Thursday often have bands practicing too
+      * UCC
+        * Pi Case making?
+        * Lot of RC clubs, steam trains, maker related. Encourage all ages
+
+### Previous ACTION Items Status
+
+### Sub-Committee Reports
+
+#### Infrastructure Report
+
+-   I have FlameFab fire retardant that will enable curtains to pass muster
+-   Last I read exit signs need to have running men not words to cater for non-English readers, iconographic
+-   Can someone set up a log-in for me for the Artifactory wiki so I can read / edit Committee stuff there
+-   Floodlights are controlled by RaspberryPi in entry area, needs tidying up, runs off solar
+-   BD: More door keys have been generated
+-   BD, DH: Office keys duplicate
+    -   ACTION: WC: Laser keys cutting, sell to operators
+    -   DH: Laser key pin-key \$50 safe
+-   [Tidy Space](/tidyspace/) [AREA HOSTS](/areahosts/)
+    -   Policy working well, but need a limbo table
+        -   By the front rollerdoor
+        -   WC: Turn trollery into acrylic rack
+            -   WC: Volunteers as area warden for carpark
+            -   This is the process to support the council requirements
+            -   No general storage
+
+### Agenda Items
+
+### General Business
+
+-   3D Printing systems tradein offer
+    -   Incoming carcasses dropped straight into limbo with HACKME sign
+
+```{=html}
+<!-- -->
+```
+-   SKoT requests that BBQ using people clean the BBQ and put the cover on it after use, especially as we head into the rainy season - it won't last long otherwise.
+-   Uncovered meats in fridge are a health hazard, don't do it. Leftovers are not used in a timely fashion
+-   WC: Policy: Cook all your food.
+    -   Do not "save it for later", cooked or uncooked, in the fridge.
+
+### ACTION Items Resulting

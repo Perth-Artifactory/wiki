@@ -1,0 +1,304 @@
+---
+title: Committee Meeting 2017.04.12
+description: 
+published: true
+date: 2022-10-19T09:50:18.188Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:06:51.634Z
+---
+
+# Committee Meeting 2017.04.12
+
+## Agenda
+
+1.  Usual business
+    1.  Acceptance of last meeting's minutes
+    2.  Correspondence
+    3.  Chairman's report
+    4.  Treasurer's report
+    5.  Other officer's reports
+    6.  Subcommittee reports
+    7.  Building Report
+    8.  Area Host reports
+    9.  Cornwall House
+2.  Other business
+    1.  Appointment/Resignation of the Secretary
+    2.  Insurance 31/3/17 - 30/4/18
+    3.  Theft
+    4.  Members RFID Tag suspension
+    5.  Vending Machine (MK)
+    6.  Any expenses/For reimbursement
+3.  Review of Action Items
+
+## Minutes
+
+### Members Present
+
+-   Present: LEM, JK, JM, HF, SM, NB
+-   Observing: MK, GM, G
+-   Apologies: SH, TG
+-   Absent: TP,
+
+### Meeting Times
+
+-   Opened: 20:00 12/4/17
+-   Closed:
+-   Next meeting:
+
+### Acceptance of minutes
+
+See: [committee_meeting_2017.03.01](/committee/committee_meeting_2017.03.01)
+
+| Status      | IS Accepted?? |
+|-------------|---------------|
+| Moved By    | JM            |
+| Seconded By | SM            |
+
+PASSED without dissent
+
+### Correspondence
+
+1.  (LEM) HTC Vive visited hoping us to be VR hub. They will get back to us.
+2.  (LEM) SpaceToco contacted us, they a are airbnb for making space available for meeting to rent. No interest given current building
+3.  (LEM) 18/08 STEM conference @ Penhros College
+4.  (LEM) Hacker Day - World Create Day 22/4 - No real interest but they are welcome to come to hacker space.
+5.  (LEM) Curtin Pedal Prix are back \$500 for four months for their vehicle build again.
+6.  (NB) 3D Makers(West Coast Makers) having an enthusiast 23rd April
+7.  (MK) LJBC - PCs maybe available. PCs are small.
+
+### Chairman's report
+
+1.  From RIO T. C/O Neil L. 5 Servers, 3 network switches, address label printers, power boards, ID card printer(need ribbon). 2 tablet PCs. Rack mounts for electronic workbench.
+2.  PCs yet to hear back from David S.
+
+### Treasurer's Report
+
+|                         | 31/03/2017     | 28/02/2017     |
+|:-----------------------:|----------------|----------------|
+|       NAB Balance       | \$4109.32      | \$3407.86      |
+| Pending TidyHQ / eftpos | \$264.26       | \$719.60       |
+|     Guthire St Bond     | \$6000.00      | \$6000         |
+|    Burgay Court Bond    | \$0            | \$1500.00      |
+|         Balance         | **\$10373.58** | **\$11627.46** |
+
+\^
+
+| Quarantined Funds                     |
+|---------------------------------------|
+| Estimated RFID Key Members Bond Value |
+| For Insurance 18/19                   |
+| Amount Owed on Sound Equipment        |
+| DESIRED BALANCE                       |
+
+\^
+
+|                                 | 31/3/2017 | 28/02/2017 |                   |
+|:-------------------------------:|-----------|------------|-------------------|
+| Sound Equipment Funds Collected | \$2705    | \$2705     | Collected in Full |
+
+REFUND SKOT???
+
+| REVENUE                                                         | Last Month | 12 Month Average |
+|-----------------------------------------------------------------|------------|------------------|
+| Membership                                                      | \$3340     | \$4155           |
+| Space Cash (Events/Venue hire/Snacks/tool fees/day users/other) | \$1747     | \$1237           |
+| Grants/Prizes/Donations/Fundraising                             | \$0        | \$68             |
+| TOTAL REVENUE                                                   | **\$5087** | **\$5459**       |
+
+\^
+
+| EXPENSES                                         |             |             |
+|--------------------------------------------------|-------------|:-----------:|
+| Lease+Estimated Variable Outgoings               | -\$4224     |   -\$4224   |
+| Electricity (bimonthly)                          | -\$0        |   -\$413    |
+| Insurance (12 month average)                     | -\$1372     |   -\$114    |
+| Waste/Internet/Welding Supplies                  | -\$205      |   -\$299    |
+| Merchant Fees (bimonthly sometimes)              | -\$80       |    -\$40    |
+| TidyHQ/Bank Charges                              | -\$72       |   -\$106    |
+| TOTAL EXPENSES (Excluding Equip/Fundraising Exp) | **-\$5953** | **-\$5147** |
+
+\^
+
+| Fundraising Expenses# | -\$0   | \$85   |
+|-----------------------|--------|--------|
+| Equipment Purchases\$ | -\$315 | -\$480 |
+
+\- 2\*cameras=\$100, Fan and Enclosed PolyCarb Flanage \$31.90, PCBs \$111.92, RFID reader bits \$71.32
+
+Major Events/Other (Past Month)
+
+    *ADUG - ~$90
+    *Noizemaschin ~$275 Including surplus stock. 
+    *Mod Synth $400
+    *Cosplay $150 from the 2 workshops.
+
+Money Due (12/04)
+
+    *Membership - ~$4650 steady on last months 
+    *PCs - $20
+    *Swancon $135
+    *Curtin Pedal Prix $500
+    *KickstART $400
+    *Tool Usage $96
+
+#### Membership Report
+
+11/04/17
+
+-   29 (-1) Full Members;
+-   13 (0) Concession Memberships;
+-   1 (0) Studio Office Memberships (For 2 Members)
+-   5 (0) Band Memberships
+
+```{=html}
+<!-- -->
+```
+-   **Approve** Memberships for Cancellation for Non-Payment (+90 days due) - **NONE**
+
+MOVED: SECONDED:
+
+-   **Approve / Disapprove** of New Members since last meeting -
+    -   CONCESSION - Andrey Alexandrov
+    -   FULL - Duncan Maade
+    -   BAND - None
+
+MOVED: LEM SECONDED: JK PASSED without dissent
+
+### Other officer's reports
+
+#### Promotions Officer - JK
+
+1.  Kickstart booth/stall 8/4/17. @Perth Cultural Centre Lots of interest from Schools and Scitech person. Gadgets by MK and HF appreciated. LEM and JK manned
+2.  ECU ArduinoU 26/4.
+
+Waive Drop in fee. MOVED: NB SECONDED: HF
+
+#### Fundraising JMM/StM
+
+1.  \$400 for the Kickstart mob for equip hire.
+
+```{=html}
+<!-- -->
+```
+1.  Working on the grant. Need annual report to be finished and then up to 3 months before we hear anything.
+
+#### Event Coordinators Report
+
+      * NoizeM - SM, TG, JMM, Skot, Meg - 
+        * Was good - Stew Sheppard ran curated
+      * Arduino U - TG, Hugh"
+        * Quiet at the last one
+      * DIY Synth - Lem
+         * Big crowd 33 non-members
+      * open day - Steve
+        * 
+      * ADUG - Nick & Richard Harrington
+        * 
+      * Other Events
+
+### Subcommittee reports
+
+-   Laser subcommittee
+    -   add Glenn Martin to subcommittee
+
+MOVED: LEM SECONDED: NB Approved.
+
+      *LEM - requesting that status Laser emailed to the list when maintenance is performed.  LEM to ask JimM to do
+      *LEM - Motion that members who wish to be added to a subcommittee list for receiving mail from that list can.
+
+MOVED: HF SECONDED: SM PASSED without dissent
+
+-   IT SubComm
+    -   (LEM) plan to change the server to a better one once we've got the hard drives and RAM. Long term project....
+
+```{=html}
+<!-- -->
+```
+-   Infrastructure
+    -   (LEM) RFID parts are recieved to build RFID boards...
+    -   2 additional cameras added
+    -   front door seems to play up a bit
+    -   make a hard copy of problems and send to George
+    -   Drains cleaned
+
+```{=html}
+<!-- -->
+```
+-   Events
+    -   last week of April 25th-27th 3 big events
+
+### Building Report
+
+### Area hosts Reports
+
+      * CAD Room - Russell
+      * Electronics Bench - Steve - A mess (LEM)
+      * Tool Room - Lemming
+      * Welding - Lemming
+        * need to bolt down grinder...........STILL TO DO
+      * Band Room - Tanner
+      * Stage - JMM
+
+### 2 Burgay Court - Update and questions to be answered
+
+CANCELLED - Owners withdrew offer.
+
+### Other Business
+
+      - Members RFID Tag suspension by committee.
+        - Discussion about suspension over the following points
+        - Making changes to the fixtures of the premises without seeking permission or notifying the committee.
+        - Using an open flame to cook food inside the space.
+        - Claiming multiple lockers in the space
+        - Leaving large amounts of food etc in the fridge and other areas
+        - Taking up large amounts of floor and/or desk space without prior approval.
+        - Member "no one will help me re-swarf-o-mat
+        - Committee asked member to use our communication methods that Artifactory uses 
+
+Proposal "restore members RFID access" MOVED: LEM SECONDED: NB Approved.
+
+      - Appointment/Resignation of the Secretary
+        - SteveH had to step.
+
+Hugh F nominated MOVED: LEM SECONDED: NB Unaminous.
+
+      - Insurance 31/3/17 - 30/4/18
+        - Note that Duty of Care rules
+
+      - Theft
+        - 3TB external disappeared for security
+        - float $300 stolen Between Noize and ModSynth March
+        - we got no idea how or when SO
+        - Do we go external drive for backup....$8US a month... Possibly funded by doing VM
+        - MK donated a 1TB drive. THANK YOU!!!
+        - RFID access to go on office. Goal before next meeting (LEM)
+      - Vending Machine (MK)
+        - (MK) Working and full of snacks / RFID to future enable for snack dispensing and loading cash / Can change prices online. Fully documented on Wiki.  Committee has access to backup key.  Coin system to hopefully be up and running.
+      - Any expenses/For reimbursement
+        - (MK)Reimburse for snacks stock for vending machine - same as fridge system
+        - (MK)mouse traps $16- 
+
+MOVED: LEM SECONDED: NB Expense approved by all
+
+        - Buy 4 sheets 10*2440*1220 clear stuff for selling for laser cutters.  $220.  Plan to sell in quarters for $50 BUCKS EACH
+
+Expense approved by all. (MK) to be acquire.
+
+### ACTION items
+
+#### Resolved
+
+#### New (arising from this meeting)
+
+#### Ongoing
+
+ACTION (HF) to investigate arduino parts and stuff for courses & syllabus **Work in progress**
+
+ACTION (Subcommittees) to ask for people interested in subcommittees **Ongoing**
+
+ACTION (TG) - Manipulation of the history of core mailing list. (not yet done) Can someone else do it?
+
+ACTION: Nick to decide what is needed for laser cutters and to get prices for next meeting. **To do**
+
+ACTION: JK - Finish Grant

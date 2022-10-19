@@ -1,0 +1,267 @@
+---
+title: Committee Meeting 2018.01.27
+description: 
+published: true
+date: 2022-10-19T09:51:52.160Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:08:49.317Z
+---
+
+# Committee Meeting 2018.01.27
+
+## Agenda
+
+1.  Usual business
+    1.  Acceptance of last meeting's minutes
+    2.  Correspondence
+    3.  Property
+    4.  Chairman's report
+    5.  Treasurer's report
+    6.  Other officer's/Event Coordinators reports
+    7.  Subcommittee reports
+    8.  Area Host reports
+    9.  Cornwall House
+2.  Other business
+    1.  Any expenses/For reimbursement
+3.  Review of Action Items
+
+## Minutes
+
+### Members Present
+
+-   Present: Lemming, Hugh, James, Tim, Stuart, Mel, Steve, Blake, Tanner
+-   Apologies: JM
+-   Absent: None
+
+### Meeting Times
+
+-   Opened: 11:30am
+-   Closed: 12:50
+-   Next meeting: Saturday 24th Feb, 4 weeks
+
+### Minutes of Previous Meeting
+
+| Status      | Accepted |
+|-------------|----------|
+| Moved By    | Hugh     |
+| Seconded By | Mel      |
+
+### Correspondence
+
+-   Lemming
+    -   Robotics team ECU
+        -   Queries on working with children - does teacher count as guardian
+        -   6 week membership, access to CNC machine
+    -   LAN - web in a box we should have access to admin portal of word press
+    -   Swan conn guys
+        -   They need to be trained to run equipment
+        -   Artifactory might need to train them - for extra hire fee?
+    -   ABC radio interview - on maker spaces
+        -   Need to be mindful that open day after story airs could be more busy
+    -   New member Adrian from Germany
+    -   RTR lemming radio appearance - should be before next open day
+    -   Perth hackers - last weekend
+    -   Youtube livestreams from the space - fortnightly (a group is offering this to us)
+
+```{=html}
+<!-- -->
+```
+      * 
+
+### Property Report
+
+-   Front door
+    -   Might need some work
+    -   Magnetic plate could be an idea?
+-   Flooding
+    -   Water got half meter from door
+
+```{=html}
+<!-- -->
+```
+    * 
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   Interesting month
+-   LAN went well
+    -   Look at another event
+
+```{=html}
+<!-- -->
+```
+    * 
+
+#### Treasurer's Report
+
+-   Income for December positive, financials ok
+
+```{=html}
+<!-- -->
+```
+    * 
+
+|                                     | 31/12/2017     | 30/11/2017    |
+|-------------------------------------|----------------|---------------|
+| NAB Balance                         | \$7865.65      | \$7483.15     |
+| Pending Transfer from TidyHQ/EFTPOS | \$98           | \$676.65      |
+| Guthire St Bond                     | \$6000         | \$6000        |
+| **Balance**                         | **\$13963.65** | **\$14159.8** |
+
+|                                              |             |                  |
+|----------------------------------------------|:-----------:|:----------------:|
+| REVENUE (Excludes Bond)                      | Last month  | 12 month average |
+| Membership Income                            |   \$3,755   |     \$3,924      |
+| SpaceCash (drinks/events/venue hirer/casual) |   \$1,948   |     \$1,700      |
+| Fund Raising/Prizes/Donations                |             |       \$88       |
+| **TOTAL INCOME**                             | **\$5,703** |   **\$5,712**    |
+|                                              |             |                  |
+| EXPENSES                                     |     Dec     | 12 month average |
+| Lease Paid for next month                    |   \$4,224   |     \$4,258      |
+| Electricity                                  |    \$551    |      \$361       |
+| Insurance (12mnth avg \$1372/12)             |     \$0     |      \$114       |
+| Waste/Internet/BOC Gases                     |    \$206    |      \$231       |
+| Merchant Fees                                |    \$88     |       \$55       |
+| Stripe/TidyHQ Fees                           |    \$120    |      \$123       |
+| Event Expenses                               |             |       \$51       |
+| Fundraising Expenses                         |     \$0     |       \$0        |
+| **Total (Prior to Equipment Purchases)**     | **\$5,189** |   **\$5,546**    |
+| +/- Prior to Equipment Expenses              |    \$514    |      \$165       |
+|                                              |             |                  |
+|                                              | Last Month  | 12 month average |
+| Equipment Expenses (Below)                   |             |     \$50.51      |
+
+#### Membership Report
+
+##### Current Status
+
+Membership as at 2017-xx-xx:
+
+-   28 (0) Full Members(Monthly+Annual);
+-   24 (0) Concession Memberships(Monthly+Annual);
+-   1 (0) Family Membership
+-   3 (0) Band Memberships
+-   2 (0) Resident Artists
+
+##### Cancelled Non-Payment
+
+Memberships to be cancelled for Non-Payment (+90 days due):
+
+-   None
+
+##### New memberships for approval
+
+-   CONCESSION - N/A
+-   FULL - Iain Graham
+-   BAND - N/A
+
+| Status      | Accepted |
+|-------------|----------|
+| Moved By    | James    |
+| Seconded By | Blake    |
+
+#### Bandroom Report
+
+-   Tanner
+    -   Hey Muso
+        -   Members didn't want to pay this month - request to shift start date back 1 month
+        -   Unsure about first event
+
+```{=html}
+<!-- -->
+```
+      * 
+
+### Other Officer's Reports
+
+#### Promotions Officer Report
+
+-   Mel
+    -   Facebook ticking along
+    -   Aiming for 1 post a week for Artifactory
+    -   Bunnings sausage sizzle: awaiting to hear back
+
+#### Fundraising
+
+-   Studio room benches
+    -   Looking for bench top
+
+#### Event Coordinators Report
+
+-   NoizeM - (Coordinators Stuart, Tim, Jean-Michel)
+    -   Good turn out, raised around \$200
+-   Arduino U - (Coordinators Hugh, Doug)
+    -   Reasonable numbers
+    -   Sold 1 kit
+    -   New people coming through
+-   DIY Synth - (Coordinator Lemming)
+    -   No event this month
+-   Open Day - (Coordinator Steve, Lemming)
+    -   Quiet open day this month
+    -   Was day Perth Stadium opened
+-   ADUG - (Coordinator Richard Harrington, Stuart)
+    -   Had another meeting? No correspondance.
+-   Cosplay - (Coordinator James, Lemming)
+    -   James gauging interest for a workshop - Pepakura - paper modelling software
+-   Other Events
+    -   Artifrag LAN
+        -   Feedback: Breakfast was good
+        -   \$25 including entry and breakfast
+        -   Next LAN: March? 17th 18th (3rd, 4th, 5th longweekend has Madman anime event)
+        -   From last time: 1 dozen eggs goes with 1kg bacon
+
+### Sub-Committee Reports
+
+-   Laser Subcommittee
+    -   No news
+-   IT Subcommittee - Lemming
+    -   Server in progress
+    -   Might consider upgrading wireless
+    -   Guy from the LAN had some spare computers without cases
+
+### Other Business
+
+-   OTHER BUSINESS
+-   YouTube channel wants to do fortnightly stream from space.
+    -   Cost? Commercial/non-profit conflict?
+    -   FPV life - live streams about FPV market etc
+    -   Conflict is that they have a store
+    -   Sunday 9am to hit US audience
+    -   Will provide sound damping for studio (front room)
+    -   Do it as band membership for \$100 per month
+    -   They should promote artifactory as part of their show
+    -   Proposed: Lemming, Second: Tanner: Accepted
+-   ECU Robotics Team wants Membership for \~6 weeks. Under 18 students to be bought in.
+    -   Do similar to curtain pedal pree (\$500 for the 3 months - group membership)
+    -   High school age
+    -   Up to 8 people here at one time
+    -   Only coming to artifactory as a group
+    -   Discussed more like \$50 per week so \$300 total (comparing to other types of membership)
+    -   Starting around March
+    -   Should highlight fact this is a discounted rate and that they should promote artifactory
+-   SwanCon cost to hire if we're providing an operator for the equipment.
+-   John
+    -   Repair cafe
+        -   People contacted John
+        -   2 hour sessions
+        -   Looking for volunteers from artifactory to do some repair sessions
+        -   Suggest John posts to mailing list
+        -   Good cross promotional opportunity
+    -   Vintage organ
+        -   Free for hacking
+        -   Works
+    -   Analogue synth muck around night
+        -   Week before noisemachine? 19 Feb
+-   Proposed resident artist - Tess
+    -   Been band member for awhile
+    -   Keen to work on projects
+    -   Proposed: Lemming, Second: Tanner, Approved
+-   Magnus
+    -   Busy with Fringe world at the moment
+    -   Renew for 3 month and review next meeting
+    -   Proposed: Lemming, Second: Blake, Approved
+
+### Review of Action Items

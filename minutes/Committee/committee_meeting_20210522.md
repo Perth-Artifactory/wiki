@@ -1,0 +1,300 @@
+---
+title: Committee Meeting 2021.05.22
+description: 
+published: true
+date: 2022-10-17T16:17:29.854Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:17:21.657Z
+---
+
+# Committee Meeting 2021.05.22
+
+Previous meeting:[Committee Meeting 2021.04.10](Committee Meeting 2021.04.10)
+
+Next meeting: [Committee Meeting 2021.05.26](Committee Meeting 2021.05.26)
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: REMOVE NOT PRESENT - Iain, Fletcher, Vincent, Blake, Jason, Steve
+-   Apologies: Judith, Beau, Scott
+-   Absent: -
+-   Observing: Phoebe
+-   Minute taker: Vincent
+-   Chair: Iain
+
+### Meeting Times
+
+-   Opened: 10:07 (PLANNED: 10:00 am)
+-   Closed: 10:47
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+Previous meeting's minutes: [Committee Meeting 2020.04.10](Committee Meeting 2020.04.10)
+
+-   DISCUSSION
+
+| Moved By    | MOVER             |
+|-------------|-------------------|
+| Seconded By | SECONDER          |
+| Status      | Accepted/Rejected |
+
+### Review Previous Meeting's Action Items
+
+**ACTIONS**
+
+    *
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Member complaint
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   INCIDENTS -
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   PROPERTY
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   CHAIRPERSON
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
+
+\* Insurance paid, \$3,265.90 up from \$2,876.55 \* Synergy COVID credit has run out (as expected)
+
+Balances as of 21/5/21:
+
+| Account      | Amount      |
+|--------------|-------------|
+| Operations   | \$15,422.04 |
+| Sale Program | \$112.05    |
+| Donations    | \$2,455.16  |
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+\* Deferred to next meeting
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * REPORT
+
+**Event Officer**
+
+      * Warhammer night - planning
+
+**Rehearsal Room Coordinators**
+
+      * Ticking along
+
+**Quartermasters**
+
+      * REPORT
+
+**Membership Officers**
+
+      * Nothing to report
+
+**Membership Storage Officer**
+
+      * Ocasional batch checks, courtesy of Beau and Fletcher
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+Partially sourced from our Trello [maintenance](https://trello.com/b/p5zZRzlq/maintenance?menu=filter&filter=label:Laser%20Subcommittee) and [upgrade](https://trello.com/b/Vurmsndm/upgrades-improvements?menu=filter&filter=label:Laser%20Subcommittee) boards. (filtered URLs)
+
+      * The Big Red checklist needs to be reprinted, do we have the original file handy?
+      * Middle Red needs a bed level
+
+      * Automatic air control for Big Red is still in progress
+      * Automatic compressor drain is still in progress, some of the required hardware is in the space now
+
+-   Blake: Attendance low at laser maintenance. Will promote next one better. Thoughts on idea: have it as more of a monthly laser meetup. Learn about laser cutting, training in both cutting and maintenance. Help with CAD design? Presentation on a cool project of the month to give ppl inspiration? Just ideas.
+
+**IT Subcommittee**
+
+Partially sourced from our Trello [maintenance](https://trello.com/b/p5zZRzlq/maintenance?menu=filter&filter=label:IT%20Subcommittee) and [upgrade](https://trello.com/b/Vurmsndm/upgrades-improvements?menu=filter&filter=label:IT%20Subcommittee) boards. (filtered URLs)
+
+      * The RIPE Atlas probe is offline, needs investigation (can now be actioned as a switch upgrade has taken place)
+      * The Swarf controller is currently without ethernet, needs investigation
+      * We've re-terminated some of the ethernet cables in the space that had lost their clips
+      * Some of the older cameras had the wrong time stamp, issue fixed
+
+      * Planning has begun for the camera monitor screens in the foyer and band room
+      * A periodic backup of PCs used to control tools has been suggested
+      * We're in a position to mass upgrade our VMs to 20.04
+      * We've started mapping out a network overhaul
+      * Security cameras are currently being upgraded ([[https://trello.com/c/YijaVaH2/5-camera-placements|relevant card]] not listed on the board linked above)
+      * The core switch in the office was replaced (24 ports to 48 ports)
+      * A switch has been added near the stage to make some events easier
+      * We have a new version of Unifi Video running
+
+**Promotions Subcommittee**
+
+      * Supanova is back on
+
+**Sponsored Memberships Panel**
+
+      * REPORT
+
+**Infrastructure Subcommittee**
+
+Partially sourced from our Trello [maintenance](https://trello.com/b/p5zZRzlq/maintenance?menu=filter&filter=label:Infrastructure%20Subcommittee) and [upgrade](https://trello.com/b/Vurmsndm/upgrades-improvements?menu=filter&filter=label:Infrastructure%20Subcommittee) boards. (filtered URLs) - not an exhaustive list, see Trello boards for details and pictures.
+
+      * One of the lights in the machine room (the fluro over the drill bits etc) is broken, investigating
+      * The emergency lights mounted near the stage aren't functional, investigating
+      * The women's toilet has a failing seal, replacement purchased
+      * The light above the back roller door isn't working and will require an electrician (been that way for years, just added to the new reporting system)
+      * The machine room door hinge has been repaired
+      * One of the lights in the Design Lab has been replaced
+
+      * Working with IT on a number of upgrades (cameras, network etc)
+      * Ethernet being run to the other side of the carpark, materials purchased
+      * An upgrade to the bandroom lighting is in progress, currently working out issues with the control boards
+      * The laser switch has been replaced with a larger switch above the machine room
+      * Automatic lighting has been added above the front and rear doors
+      * Some of the bathroom fittings have been replaced
+      * The mountings for a screen near the mill have been drilled
+      * The lighting in the machine room has been upgraded
+      * One of the courtyard benches has been resurfaced
+      * "Discard zones" have been marked (as discussed in slack a couple of months ago) - Stuff left on certain workbenches will be discarded before wednesday/saturday.
+      * Creality DLP printer on loan from Fletcher
+      * Anycubic Photon S on loan from Fletcher
+      * Anycubic Photon S internals on loan from Fletcher (placed into Artifactory shell)
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) - No update provided
+-   Arduino U - (Coordinators: Hugh, Doug) -
+    -   Blake: Number of attendees is low. Can I have access to Facebook and Meetup and will try to promote more. Thinking about organising workshops as part of it - got a soldering one and ideas for led strip one. Limited free time however.
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) - No update provided
+
+**Games**
+
+-   ARTIfrag (Coordinator: Iain) - Event ran, went well
+-   Chess Knight (Coordinator: Stuart) - Didn't run
+
+**Cosplay and Craft**
+
+-   Cosplay (Coordinator: Scott) -
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - Ticking along
+-   PikPI Cosplay Workshops (Coordinators: Hayleye**\#**) - Did not run
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Went well
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) -
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Skot) - Event ran online due to COVID restrictions
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) - Ticking along
+-   Open Day (Coordinator: Steve Hodges) - Went well, ran the day lockdown ended. Lots of happy people.
+-   Wine & Design (Coordinator: Committee) - Uptick in attendance
+-   Workshop Wednesday (Coordinator: Fletcher) - Ticking along, working more with Inclusion WA. More carers seem to be taking an interest.
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Org Structure
+
+Corresponding Trello card: <https://trello.com/c/19wjnRyo/3-org-structure>
+
+A new proposed org structure following from the one accepted at the last meeting
+
+![](https://trello-attachments.s3.amazonaws.com/607d3a966bc0f8454c4422d4/607f09b3b5a8f863703b84b6/04190a709105683b8ebadfcf3d972a52/orgchat_v0.2.PNG)
+
+No motion required.
+
+### By-Law Addition: Email accounts
+
+Corresponding Trello card: <https://trello.com/c/C96mCviA/12-by-law-addition-email-accounts>
+
+    The following people have the right to an artifactory.org.au email address unless otherwise motioned by the Management Committee:
+      - Management committee members.
+      - Members appointed to a named role by the management committee (Officers and sub-committee chairs).
+      - Members who are required to speak on behalf of the association (as determined by the Secretary).
+
+To take effect immediately
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Steve    |
+| Status      | Accepted |
+
+### Rebrand / Logo change
+
+Corresponding Trello card: <https://trello.com/c/2EQ7CedW/13-rebrand>
+
+![](https://space.artifactory.org.au/media/Artifactory_rebrand.png) <https://space.artifactory.org.au/media/Artifactory_rebrand.pdf>
+
+Motion: Accept this as the new logo for the association.
+
+| Moved By    | Blake    |
+|-------------|----------|
+| Seconded By | Steve    |
+| Status      | Accepted |
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   Next meeting: 2021.05.26 7:00 pm, 0.5 weeks
+
+Minutes: [Committee Meeting 2021.05.26](Committee Meeting 2021.05.26)
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

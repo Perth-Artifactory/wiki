@@ -1,0 +1,87 @@
+---
+title: Committee Meeting 2011.12.21
+description: 
+published: true
+date: 2022-10-19T09:41:07.209Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:55:16.451Z
+---
+
+# Committee Meeting 2011.12.21
+
+## Agenda
+
+-   Special meeting regarding property
+
+## Minutes
+
+### Members Present
+
+-   Daniel Harmsworth (DH)
+-   Peter Dreisiger (PD)
+-   SKoT McDonald (SM)
+-   Jason Muirhead (JM)
+-   Nick Bannon (NB)
+-   Brendan Ragan (BR)
+
+### Meeting Times
+
+-   Opened: 19:10
+-   Closed: 20:33
+-   Next meeting: TBA
+
+### Agenda Items
+
+1.  Previous minutes accepted: Motioned by Jason, seconded by Brendan
+2.  Correspondence
+    1.  Informed sub-property managers about the changes in lease arrangements
+    2.  Property holder keen to commence new lease asap
+    3.  Scitech/City of Perth correspondence
+        1.  Northbridge Piazza
+        2.  offer to build/design projects
+        3.  offer of month-long exhibition space
+    4.  from Lotteries West (informal visit)
+3.  Property Report
+    1.  new storage racks on wheels
+    2.  front office
+        1.  shared secure server room/storage for Laser Cutter (due to dust issues)
+    3.  A/C leak into rooms temporarily fixed by Daniel and Audio Vault people
+    4.  Daniel and Brett have basically completed a server-linked RFID entry control system; likely not to be installed until after the lease is finalised and they are back in town re: teething problems
+    5.  Re: Anthony's enclosed area: no news
+4.  Officer Reports
+    1.  Chairpersons
+        1.  very successful events; future events bookings, more activity = good, need more cleaning (esp. electronics area)
+        2.  space usability issues: greater need to keep projects mobile/movable, particularly in the central area
+    2.  Treasurer
+        1.  Current state:
+            1.  cash-on-hand: \$8400 in bank + \$650 cash
+            2.  income: membership last month \$3000, month-to-date \$2000; events \$100 last month, month-to-date \$1000
+            3.  expenses: \$3250 rent, iiNet \$85, Instant waste \$80, insurance \$200
+            4.  liabilities: bonds paid \$6500, never never \$6700, paid in advance \~\$7500 (unsure due to lack of CitrusDB reporting)
+        2.  Bank Guarantee: essentially a monitored savings account where leasor is notified if the balance drops
+        3.  rent from the 10th of December currently unpaid
+        4.  going forward: \$3000/mo membership, \$1000/mo events --- viable = good
+        5.  Jason wanting to rationalise insurance, reduce from \$200 to \$100 (e.g. by removing machinery repair insurance, etc.) -- broad business insurance package
+            1.  PD raised issue of committee liability insurance: BR said our public liability insurance will cover damages, etc., but *not* associated legal costs which would currently be borne by committee
+            2.  also issue of theft: general broad insurance, insurance for specific items, self-insurance
+        6.  paying back never-nevers: 50/50% split old-to-new, oldest first, being repaid as advance members dues; also, monthly surplus could then be allocated/approved to new acquisitions
+    3.  Events
+        1.  Rapture, NoizeMaschin both had 60+ people
+        2.  Rapture: minor security issues, but people were asked to leave; also graffiti. minor injury to fire twirler, suggestion to have a crowd monitor
+        3.  Skot has RSA, also Rapture, NM both had extraordinary liquor licence
+        4.  Inaugural Pawpaw awards
+        5.  Next NM on 17th, Rapture on the 27th
+        6.  Arduino University to resume (likely w/o Brett and Daniel)
+5.  Lease
+    1.  Still trying to organise meeting with George
+    2.  JM still waiting to hear back from Andrew
+    3.  SquirtzShirtz still not listed as a subtennant; wants a written agreement, propose treating him like AudioVault (membership plus space and utilities levies)
+    4.  JM's negotiations with George -\> he's happy with a \$6000 bond down from 3 months
+    5.  Superlease: Skot has original lease
+    6.  For first month we need \~\$3600 + \$6000 bond
+    7.  JM will organise signing meeting for Friday morning
+6.  General Business
+    1.  Josef has talked to some high school teachers re: Arduino classes in and out of schools
+    2.  Abandoned 4WD: if it remains after lease signing, we'll initiate abandoned vehicle stuff
+    3.  to be offlined: policies around events, alcohol, drugs, etc. to be developed by interested people and reported back to committee

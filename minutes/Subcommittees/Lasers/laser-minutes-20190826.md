@@ -1,0 +1,26 @@
+---
+title: Laser Subcommittee Meeting 2019-08-26
+description: 
+published: true
+date: 2022-10-17T16:28:42.070Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:28:36.194Z
+---
+
+# Laser Subcommittee Meeting 2019-08-26
+
+-   Attendees: BlakeS, FletcherB, NickB, KamilS
+
+```{=html}
+<!-- -->
+```
+-   KH7050 Kellogg
+    -   Chiller
+    -   Attach z-probe
+    -   Attach PC "kellogg": Core-i5-3470@3.20GHz, 8GiB RAM 1TB HDD, Win10, B8-CA-3A-9B-91-0C/10.60.20.126/23
+    -   Test fires - fix alignment?
+-   LG500 Little Red
+    -   TODO: New tube quotes
+        -   New, improved (co-linear red targetting diode?) replacement about \$500 delivered?
+    -   Chengdu Weegiant 60W CO2 laser tube, expected 2000h lifespan, lasted 5+ years - better than any of the 100W+ tubes!

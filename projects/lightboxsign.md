@@ -1,6 +1,13 @@
 ---
-title: "Lightbox Sign"
+title: Lightbox Sign
+description: 
+published: true
+date: 2022-10-19T10:01:38.736Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:52:12.476Z
 ---
+
 # Lightbox Sign
 
 \*\* -- THE BEACON IS CURRENTLY UNDER REPAIRS -- \*\*

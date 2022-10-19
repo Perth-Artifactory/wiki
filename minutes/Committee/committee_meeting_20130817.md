@@ -1,0 +1,152 @@
+---
+title: Committee meeting for Perth Artifactory 17 August 2013
+description: 
+published: true
+date: 2022-10-19T09:43:40.868Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:58:26.565Z
+---
+
+### Committee meeting for Perth Artifactory 17 August 2013
+
+-   Location: Perth Artifactory
+-   Meeting Opened: 14.01
+-   Next Meeting: AGM Saturday 2013-09-21-1200 , followed by BBQ
+
+#### Members present
+
+-   Present: Nick, Jason, Daniel, Skot, Brendan, Jenna
+-   Apologies: Anton
+-   Observing: Anton, Richard
+
+#### Previous minutes
+
+-   Daniel moves to accept, Skot seconds, accepted.
+
+### AGENDA
+
+-   Correspondence
+-   Reports
+-   Events
+
+```{=html}
+<!-- -->
+```
+     - ArtLab presentation Sept 14
+     - Fringe Festival
+     - Masters Sausage Sizzle
+    * Lease
+    * Lottery West 
+    * City of Stirling
+    * General
+     - Tidy Club
+     - Clutter
+     - AGM
+
+#### Correspondence
+
+-   Invoice for the laser cutters!
+-   Art lab
+-   Treasury put out request for loans. All loans in and we can now afford laser cutter!!
+
+#### Treasurer Report
+
+-   Current account balance just over 13 406 including lasercutter pledges 11000
+-   invoices just went out
+-   Skot about to bank 800
+-   August rent paid end of july
+-   Instant waste bill
+-   Higher than normal western power bill 404 last month
+
+#### Infrastructure Subcommittee
+
+-   We have two subs that work - lets hope they don't get melted!  
+
+  \* Vivid has gone down at least once needing rebooting     \* Smoke detector in front office needs a new backup battery (9v)  ACTION   \* We should work on getting the carpark re-lit - probably with something better than the crappy motion sensor Par 38's. Suggest either LED (100W) or Metal Halide (250W) and just have it wired to a switch or timer (no motion). Cost \~\$120 ACTION jason and brendan pass that we shall allow funds 200   \* I ❤ laser!
+
+-   Daniel has adopted the printer, threatening anyone who messes it with violence
+-   Richard has volunteered to 'blitz' the machine shop next weekend. Brendan says why don't we do a busy bee.
+-   Daniel requests budget for calipers - real ones that don't need batteries. Richard can get at reseller price.
+-   Multimeters?! Get donations from altronics as a stop-gap? 200 budget for at least 2
+
+#### Membership
+
+-   we would like a membership report from last couple of months ACTION paste in minutes
+-   remind members that they can get their key ACTION
+
+#### Events
+
+-   Dine and Design night. Tasty.
+-   Dr Sketchy's! Success! Roughly 200 on the bar. artists don't drink as much as musos.
+-   Perth poetry fesetival. writers drink A LOT.
+-   upcoming: Noisemaschin!! August
+-   Geek Haven will be merged/alternated with an e-textiles night. Every second Thursday.
+-   ACTION make sure etextiles gets on the google calendar!
+-   ArtLab presentation Sept 14
+-   6th-10th Jan Hackerspace party for the LCA delegates.
+-   Fringe Festival ACTION make sure we did actually apply for the match-maker thing.
+
+#### Lease
+
+-   we are now on the higher rent and we are still stable. Cautiously optimistic treasurer.
+
+#### Lottery West: Lasercutter
+
+-   Approved!
+-   Imported free of charge! 1200x900 150 watt to cut MSOT things. And 300x500 finer quality.
+-   Free shipping, rotary axis for both, refridgerated chilling.
+-   We have 3 months to fundraise 3k to cover extra costs once the lasers arrive
+-   Treasury is authorised. Unanimous huzzahs. "Fuckin' lasers!"
+
+#### Sausage Sizzle
+
+-   Masters Sausage Sizzle 29th september
+-   We expect 1000, less costs.
+-   Bring props!
+-   Our local office works does a bbq
+-   can go to any other masters.
+-   ACTION email JParker about this. He lives Champion Lake. Pick things up fresh close by..
+-   Spud shed has cheap chopped onions!
+
+### GENERAL
+
+#### Tidy Club
+
+-   Tidy Club as an alternative for managing membership and database stuff. Can integrate paypal, facebook events, membership forms. Results of remaining questions will be forwarded to committee.
+-   They have an api- can integrate with DOOR. Can have official mailing list and 'friends of space'
+-   Jason wants to transition over september, proposes to set up a trial account with no sensitive info. No objections.
+
+=== Clutter ===
+
+-   Time for a Declutterization Drive? Discussed under infrastructure.
+
+#### AGM
+
+-   21st of September.
+-   12.00, bbq at 13.00
+
+### PREVIOUS ACTION ITEMS
+
+-   everyone sign up to BTsync
+-   Daniel/Peter: Membership/financial report at the end of the month - we'd still like one
+-   Correct ReMida on membership permissions.
+-   ACTION Daniel - update the price on the membership document.
+-   ACTION Nick - remind members that they can get key from Brett. Key numbers to be associated with their full name somewhere.
+-   get updated quote for lasercutter
+-   ACTION: FIXME: Peter, please list the new members in these minutes
+-   ACTION: FIXME: Daniel: pay De Vita Dixon lawyers \$737 for Deed of Extension on lease
+
+#### Meeting Closed
+
+15.00
+
+### ACTION SUMMARY
+
+-   Anton authorised to fix carpark lighting. \$200
+-   proper calipers and multimeters! Altronics?
+-   we would like a membership report from last couple of months ACTION paste in minutes
+-   remind members that they can get their key ACTION
+-   ACTION make sure etextiles gets on the google calendar!
+-   Fringe Festival ACTION make sure we did actually apply for the match-maker thing.
+-   ACTION email JParker about sausage sizzle. He lives Champion Lake. Pick things up fresh close by..

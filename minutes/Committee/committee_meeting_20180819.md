@@ -1,0 +1,69 @@
+---
+title: Committee Meeting 2018-08-19
+description: 
+published: true
+date: 2022-10-19T09:53:02.055Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:10:20.673Z
+---
+
+# Committee Meeting 2018-08-19
+
+## Agenda
+
+1.  Review new constitution (as required by regulations up date)
+
+## Minutes
+
+### Members Present
+
+-   Present: James, Mel, JM, Steve, Fletcher, Hugh, Lemming, Stuart, Tim, Blake
+-   Apologies: Tanner
+-   Absent: None
+-   Minute taker: Blake
+-   Chair: Lemming
+
+### Meeting Times
+
+-   Opened: 16:00
+-   Closed: 19:10
+-   Next meeting (for constitution discussion): Tuesday 21-08-2018 6pm
+
+### Constitution Review
+
+-   Discussion on objectives
+-   Discussion on quorum for general meetings
+    -   Decided to keep it the same
+-   Definitions - ok
+-   Applying for membership - ok
+-   Membership applications
+    -   Discussion around process for new members. Didn't change constitution.
+    -   Discussion on provisional membership
+-   Classes of membership
+    -   Band membership - band has representative, people belonging to band can have their own memberships to the space
+    -   Discussion on wording - member can only hold one class of memebership
+-   Discussion on membership types - refine wording
+-   Membership ceases - ok
+-   Resignation
+    -   When does resignation take effect? When Secretary receives it
+-   Break
+-   Continue reviewing resignation section
+-   Membership fees - reword slightly
+-   Register of members - ok
+-   Suspensions
+    -   Questions on if we want to be able to suspend members immediately - to follow up later
+-   Grievance procedures and mediator - ok
+    -   Discussion on how mediation works - ok
+-   Committee section - nominations
+    -   discussion on written nominations - change so they are on equal footing with people nominated on the day
+    -   decided not to change rules
+    -   agree to have office bearers voted by committee after meeting
+-   Out of pocket expenses
+    -   Made so it doesn't apply
+-   Committee meeting
+    -   Agreed need 24 hours to call meeting
+    -   Discussion members attending meeting - ok
+    -   Discussion around how long to wait for quorum for meeting
+-   Finished at Section 45
+-   Section 16 incomplete

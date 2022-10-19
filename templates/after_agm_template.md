@@ -1,6 +1,13 @@
 ---
-title: "Committee Meeting - yyyy-mm-dd - Post AGM"
+title: Committee Meeting - yyyy-mm-dd - Post AGM
+description: 
+published: true
+date: 2022-10-19T10:05:47.850Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:52:32.836Z
 ---
+
 # Committee Meeting - yyyy-mm-dd - Post AGM
 
 # Agenda

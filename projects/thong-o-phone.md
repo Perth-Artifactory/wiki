@@ -1,6 +1,13 @@
 ---
-title: "thong-o-phone"
+title: thong-o-phone
+description: 
+published: true
+date: 2022-10-19T10:05:09.270Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:57:09.655Z
 ---
+
 Thong-o-Phone
 
 <img src="/user/thongophone.jpg" class="align-right" width="400" height="300" alt="thongophone.jpg" />

@@ -1,0 +1,361 @@
+---
+title: Committee Meeting 2021.01.10
+description: 
+published: true
+date: 2022-10-17T16:16:54.965Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:16:45.985Z
+---
+
+# Committee Meeting 2021.01.10
+
+Previous: [Committee Meeting 2020.12.05](Committee Meeting 2020.12.05)
+
+Next: [Committee Meeting 2021.02.15](Committee Meeting 2021.02.15)
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: Iain, Beau, Fletcher, Vincent, Blake, Jason, Steve (remotely).
+-   Apologies: Scott
+-   Absent: Lisa, Judith
+-   Observing: NAMES
+-   Minute taker: NAME
+-   Chair: NAME
+
+### Meeting Times
+
+-   Opened: 10:08 am (PLANNED: 10:00 am)
+-   Closed: 10:47 am
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+Previous meeting's minutes: [Committee Meeting 2020.12.05](Committee Meeting 2020.12.05)
+
+-   DISCUSSION
+
+| Moved By    | FLetcher |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+**ACTIONS**
+
+-   Tidyhq grandfathering still ongoing
+-   Member storage audit: no action since last meeting, some assistance may be good.
+-   Website replacement: still progressing. Mockups ar eready.
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Possible grant program - details on Slack later
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   INCIDENTS - note any that are reported and discuss if needed
+    -   Matthew Cass - Unsafe useage of drill press.
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   PROPERTY
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   CHAIRPERSON
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+-   None
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+**New Memberships for approval**
+
+-   CONCESSION - Opie Robinson, Michael Stoney, Oliver Pettingill
+-   FULL - Kale Crosbie, Jeremiah Finch, Craig Wale, Jack Buckley
+
+**Reject the following membership**
+
+Matthew Cass.
+
+-   Refer to tidyhq for details.
+
+| Moved By    | Blake    |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+**Bar Matthew Cass from the space**
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Bleau    |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * REPORT
+
+**Event Officer**
+
+      * We do not have an event officer and we need one - FLetcher
+
+**Rehearsal Room Coordinators**
+
+      * Band wants to join and pay for extra rehearsals. Fletcher suggests leaving extra price up to coordinator. 
+
+**Quartermasters**
+
+      * REPORT
+
+**Membership Officers**
+
+      * REPORT
+
+**Membership Storage Officer**
+
+      * REPORT
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * Big Red's tube may be dying, $2k+ potential expense in the next few months.
+
+**IT Subcommittee**
+
+      * Website draft up.
+
+**Promotions Subcommittee**
+
+      * -
+
+**Sponsored Memberships Panel**
+
+      * Few submissions. Going as normal.
+
+**Infrastructure Subcommittee**
+
+      * Design lab ceiling leaked from aircon, tub repositioned.
+      * Bought a toolbox. Going to put the small tools in the toolbox, leaving the tool wall for saws and things.
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) -
+-   Arduino U - (Coordinators: Hugh, Doug) - Very low attendance at the moment.
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) -
+
+**Games**
+
+-   ARTIfrag (Coordinator: Iain) -
+-   Chess Knight (Coordinator: Stuart) -
+
+**Cosplay and Craft**
+
+-   Cosplay (Coordinator: Scott) -
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) -
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Did run.
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) - Didn't run.
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Jean-Michel, Skot) -
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) -
+-   Open Day (Coordinator: Steve Hodges) - Getting quite a lot of people coming down for tours.
+-   Wine & Design (Coordinator: Committee) - Paused for christmas period.
+-   Workshop Wednesday (Coordinator: Fletcher) -
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Model Rockets Reimbursement
+
+Regarding reimbursement for Model Rocket kits. See Lisa's posts on Slack for more detail.
+
+These meeting's minutes may also be relevant (hyperlink goes to section on rockets).
+
+[2020.07.25](Committee_Meeting_2020.07.25#expenses_for_approval)
+
+[2019.07.27](Committee_Meeting_2019.07.27#rockets_for_kent_street_shs)
+
+**Treasurers comment**
+
+-   She is entitled to the reimbursement; currently busy trying to check if it has already been sent (and missed) or not, before it gets done.
+-   No action required.
+
+------------------------------------------------------------------------
+
+### RFID Keys for Members By-Law modification: Photos
+
+We're at a membership size where a lot of people don't know each other anymore. While it would be "ideal" to require photos from all members that has a variety of privacy implications that aren't worth approaching right now. A much more reasonable requirement is for us to retain ID photos for members who hold keys.
+
+**Motion**
+
+Add the following bullet point to the RFID Keys for Members By-Law:
+
+-   Members requesting keys after 10/01/2021 must submit a head/shoulders photo suitable for identification purposes. The Secretary or Treasurer may rule that a provided picture does not meet these requirements at their discretion.
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+### By-law Addition: Minors in the space
+
+As per the last meeting a by-law governing minors in the spac has been drafted.
+
+**Motion**
+
+Adopt the following by-law as written
+
+    While persons under the age of 18 can attend the space there are certain restrictions in place to protect everyone involved.
+
+    It is the responsibility of the guardian to ensure that the supervised child is:
+
+    * following all appropriate safety requirements
+    * not endangered by the tool use of members and attendees.
+    * not interfering with members and attendees
+
+    Please note: regardless of any alcohol supply laws guardians can not provide alcohol to minors on Artifactory property.
+
+    === Persons under the age of 13 ===
+
+    Must be actively supervised in the following areas:
+
+    * Rehearsal Room
+    * Electronics Lab
+    * Machining Bay
+    * Welding Bay
+    * Project Area - Active use
+    * Machine Room
+    * Laser Area
+    * Rear Courtyard - Active use
+
+    Can be left in the following areas provided that the supervising guardian can see the child:
+
+    * Social Area
+    * Design Lab
+    * Project Area - Passive use
+    * Rear Courtyard - Passive use
+    * Kitchen
+
+    === Persons over the age of 12 but under 18 ===
+
+    Must be actively supervised in the following areas:
+
+    * Machining Bay
+    * Welding Bay
+    * Machine Room
+
+    Can be left in the following areas provided that the supervising guardian can see the teen:
+
+    * Laser Area
+    * Electronics Lab
+    * Rehearsal Room
+    * Social Area
+    * Design Lab
+    * Project Area - Passive use
+    * Project Area - Active use
+    * Rear Courtyard - Passive use
+    * Rear Courtyard - Active use
+    * Kitchen
+
+    === Definitions ===
+
+    * Active use: Power tools, spray paint, hot works, or other dangerous activities are occuring. Members or attendees using either the courtyard or project area may change the status of the area to Active Use at their discretion to reflect any issues that may be caused by an unsupervised minor in that area. (Painting minatures, wet paint etc)
+    * Passive use: Where none of the above apply
+    * Actively supervised: The guardian must be physically present in the area and able to intervene to enforce their responsibilities as guardian
+
+#### Discussion
+
+-   Should probably put up a sign.
+    -   People who bring their kids along will ask anyway, but good to have
+
+```{=html}
+<!-- -->
+```
+    * 
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+Action Items (if required)
+
+| Action Items                  | Who     |
+|-------------------------------|---------|
+| Update the wiki by 12/01/2021 | Vincent |
+| Notify members by 16/01/2021  | Vincent |
+
+------------------------------------------------------------------------
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+Precise date will be set later by the chairman: Will be set very soon.
+
+Minutes of next meeting: \[\[Committee Meeting 2021.02.15\]
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

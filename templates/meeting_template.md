@@ -1,6 +1,13 @@
 ---
-title: "Committee Meeting - yyyy-mm-dd"
+title: Committee Meeting - yyyy-mm-dd
+description: 
+published: true
+date: 2022-10-19T10:06:05.641Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:52:53.978Z
 ---
+
 # Committee Meeting - yyyy-mm-dd
 
 Previous meeting:[Committee Meeting PPPP.PP.PP](Committee Meeting PPPP.PP.PP)

@@ -1,0 +1,242 @@
+---
+title: Committee Meeting [2022.07.02](2022.07.02)
+description: 
+published: true
+date: 2022-10-17T16:19:45.390Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:19:36.568Z
+---
+
+# Committee Meeting [2022.07.02](2022.07.02)
+
+Previous meeting:[Committee Meeting 2022.05.07](Committee Meeting 2022.05.07)
+
+Next meeting: [Committee Meeting 2022.08.06](Committee Meeting 2022.08.06)
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: Beau, Fletcher, Iain, Jason, Phoebe-Jean, Vincent
+-   Apologies: Johannes
+-   Absent: Ben
+-   Observing: NAMES
+-   Minute taker: Vincent
+-   Chair: Beau
+
+### Meeting Times
+
+-   Opened: 4.30 pm
+-   Closed: 5:10 pm
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+Previous meeting's minutes: [Committee Meeting 2022.05.07](Committee Meeting 2022.05.07)
+
+-   Title needs correcting
+
+| Moved By    | Beau     |
+|-------------|----------|
+| Seconded By | Joshua   |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+**ACTIONS**
+
+    *
+
+### Review Online Motions
+
+| Date raised | Date completed | Motion text            | Outcome                |
+|-------------|----------------|------------------------|------------------------|
+| XXXX.XX.XX  | XXXX.XX.XX     | The text of the motion | Passed/Rejected/Lapsed |
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Maylands festival later in the year, will receive info at some point soon.
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   None reported
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   Made an A-frame sign and put it out for the Open day
+    -   Would be good to have a steel one, and leave it out permanently.
+-   New fence sign, corflute
+-   Sold the second mini-mill
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   Thanks to everyone that made Supanova and the open day possible :)
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+-   No report submitted
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+-   None
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+**Current Status**
+
+Membership as at 2020-xx-xx:
+
+-   X (+X / -X) Full Members (Monthly+Annual);
+-   X (+X / -X) Concession Memberships (Monthly+Annual);
+-   X (+X / -X) Band Memberships
+-   X (+X / -X) Associate Memberships
+
+**Cancelled Non-Payment**
+
+Memberships to be cancelled for Non-Payment (+90 days due):
+
+-   MEMBER_NAME
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * Fletcher set up an online shop!
+
+**Event Officer**
+
+      * Person who runs Board-game night is available again, so may see some soon.
+
+**Rehearsal Room Coordinators**
+
+      * Business as usual
+
+**Quartermasters**
+
+      * Bar restocking still happening
+
+**Membership Officers**
+
+      * Nothing to report
+
+**Membership Storage Officer**
+
+      * We are still able to fulfil every request for storage.
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * Ticking along
+
+**IT Subcommittee**
+
+      * Nothing to report
+
+**Promotions Subcommittee**
+
+      * Supanova happened (and went well), 
+
+**Sponsored Memberships Panel**
+
+      * No requests, but can expect one or two as an indirect result of Supanova.
+
+**Infrastructure Subcommittee**
+
+      * Compressor needs fixing, but was on-pause while preparing Supanova.
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   Arduino U - (Coordinators: Blake, Stewart) - Running normally. On the 22nd, there was also a KiCAD workshop.
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) -
+
+**Games**
+
+-   ARTIfrag (Coordinator: Iain) - Need to schedule
+-   Boardgame Night (Coordinator: Phoebe) - Can run over the next few events.
+
+**Cosplay and Craft**
+
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - Business as user
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Seems to be ticking along
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) - did not run
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Skot) - ran offsite
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) - Business as usual
+-   Open Day (Coordinator: Fletcher) - Had extra from Supanova. People were fairly spread out during the day, which was good. Some people started working on things (e.g. CNC mill) during the event, which was good.
+-   Wine & Design (Coordinator: Committee) - Largely business as usual
+-   Metal Monday (Coordinator: Ben) - Still going strong
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Member Conduct
+
+This item was accepted as Emergency Business under article 43.4 of the constitution.
+
+We have received several conduct reports regarding a member in the space.
+
+-   On multiple occasions the member has been very insistent on the way other member projects are performed. When their suggestions are not taken on board the member becomes more argumentative. - Two committee members have discussed this with the member informally. The committee has opted to issue a written conduct warning.
+
+Note: The details of the below complaint have been provided to the committee in full.
+
+-   On \<date\> the complainant was crouched in front of the hack rack working. Each time the member walked passed the complainant to the machine room they patted them on the head. The complainant verbally and visibly told the member to stop and the member did not do so. The complainant then removed themselves from the area. This complaint was received on the day of this meeting so no action has been taken at the time of writing. Committee members indicated that there would be follow up discussion online. The complainant has not requested a particular resolution but is no longer comfortable being alone with the member.
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   Next meeting: 2022.08.06 4:30 pm, 5 weeks
+
+Minutes: [Committee Meeting 2022.08.06](Committee Meeting 2022.08.06)
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

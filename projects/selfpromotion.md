@@ -1,6 +1,13 @@
 ---
-title: "Self Promotion"
+title: Self Promotion
+description: 
+published: true
+date: 2022-10-19T10:03:31.797Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:54:53.168Z
 ---
+
 # Self Promotion
 
 spearheaded by [davo](/user/davo)

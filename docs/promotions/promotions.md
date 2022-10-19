@@ -1,6 +1,13 @@
 ---
-title: "Promotions Subcommittee"
+title: Promotions Subcommittee
+description: 
+published: true
+date: 2022-10-19T10:15:43.454Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:51:50.764Z
 ---
+
 # Promotions Subcommittee
 
 ## Active Projects

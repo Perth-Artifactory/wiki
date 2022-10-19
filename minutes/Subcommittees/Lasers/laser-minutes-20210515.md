@@ -1,0 +1,35 @@
+---
+title: Laser Subcommittee Meeting 2021-05-15
+description: 
+published: true
+date: 2022-10-17T16:31:08.194Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:31:02.182Z
+---
+
+# Laser Subcommittee Meeting 2021-05-15
+
+-   Attendees: BlakeS, NickB
+    -   Next meeting(s): Four weeks: regular third Saturday 14:00 ? OK
+    -   Numbers are down, seeking ideas to reinvigorate maintenance sessions
+        -   Event is calendared, open to all interested
+        -   Demo sessions
+-   LG500 "Little Red"
+    -   cutting 3mm MDF in centre of bed at 34mm/s
+-   KH7050 "Kellogg/Middle" (out-of-order, bed out-of-level)
+-   LC1290 "Big Red"
+    -   cutting 3mm MDF in centre of bed at 40mm/s
+    -   Empty compressor tanks, water trap
+    -   Hour meter
+        -   The hour meter started from 1.6 hours, at 20171210 , 400-512 beam-active cutting hours per annum
+
+| Date     | Hour count                       |
+|----------|----------------------------------|
+| 20171210 | 1.6                              |
+| 20171217 | 11.5                             |
+| 20181217 | 488.9 100W installed 20181222    |
+| 20191216 | 1026.3                           |
+| 20201219 | 1441.1                           |
+| 20210320 | 1515.6 SPT-TR130W tube installed |
+| 20210515 | 1554.1                           |

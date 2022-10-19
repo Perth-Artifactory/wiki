@@ -1,0 +1,76 @@
+---
+title: Committee Meeting 2011.03.05
+description: 
+published: true
+date: 2022-10-19T09:39:32.004Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:53:19.672Z
+---
+
+# Committee Meeting 2011.03.05
+
+\*\*Members Present \*\*
+
+-   Daniel Harmsworth
+-   Simon Kirkby
+-   Brendan Ragan
+-   Shay Telfer
+-   Skot McDonald
+-   Peter Dreisiger
+
+**Meeting Times**
+
+-   Opened: 13:31
+-   Closed: 13:57
+-   Next meeting: 19th, 10am
+
+**Action Items**
+
+-   PD to email core to think about nights / etc for the new space
+-   BR to harass people about wireless internets etc.
+-   SK will determine what we are on.
+-   SK will determine what the current PSTN line is.
+-   SK will set up openERP for Artifactory
+-   BR will set up VoIP for Artifactory
+-   SM and BR will arrange the Sundowner on the 5th of march.
+-   SM will write grovel letter to St. Marys
+-   BR will organize a co-tenants meetings.
+-   SM will recover the twitter account.
+
+**Minutes**
+
+1.  Minutes of previous meeting
+    1.  BR accepts, DH Seconds
+2.  Correspondence
+    1.  Electricity bill, again for the full amount.
+    2.  Renew on the same terms, if we don't use the payment plan we save 10%
+    3.  Rio replied to a grant request
+    4.  London Hackspace looking for a car window.
+3.  Property report
+    1.  Air con controller has been moved.
+    2.  Skip people haven't picked up because there's some problem with the account.
+    3.  Office ethernet is in the building network at the moment.
+    4.  Need to send a note to the co-tenants about cigarette smoke.
+4.  Office-holder Reports
+    1.  Chairman has nothing
+    2.  Treasuer
+        1.  had \$8000 in account, \$7000 is owing to Skot. Paid march rent.
+        2.  Insurance will be \$2200
+        3.  Still about \$600 per month short of breaking even.
+        4.  Begging letters went out to Rio and BHP.
+5.  Publicity Report
+    1.  GR went to ECU Mt. Lawley, Curtin and UWA for their respective O-Days
+    2.  Events need to go on the Facebook and Wordpress.
+    3.  Space on the front page for advertisements (Artifactory specific ads - for projects, for incubator space etc.)
+6.  Artist Liaison
+    1.  Artist in residence programme. Emails have gone out to the Australia Council, Digital Culture Fund.
+    2.  Could liase with artists and those communities as well as figure out what an Artist in residence programme would look like.
+    3.  Lots of interest in this space, but they don't know we exist.
+7.  Insurance
+    1.  We will pay in advance
+8.  General Business
+    1.  Committee praises GR for it's help in advertising.
+    2.  DH - Lathe funds need to be checked and released, PD seconds.
+    3.  St. Mary's letter
+        1.  Need to specifically mention surplus equipment donations.

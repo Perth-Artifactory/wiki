@@ -1,6 +1,13 @@
 ---
-title: "Space/Organization/Club Management System"
+title: Space/Organization/Club Management System
+description: 
+published: true
+date: 2022-10-19T09:59:07.935Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:48:36.643Z
 ---
+
 # Space/Organization/Club Management System
 
 Currently we are in the specification stage so we can create a tender document and apply for grant monies

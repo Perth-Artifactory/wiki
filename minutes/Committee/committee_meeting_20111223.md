@@ -1,0 +1,45 @@
+---
+title: Lease Assignment meeting, 8.30am, Friday 23 December 2012
+description: 
+published: true
+date: 2022-10-19T09:41:14.588Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:55:25.350Z
+---
+
+# Lease Assignment meeting, 8.30am, Friday 23 December 2012
+
+### People present
+
+-   Daniel Harmsworth (DH), Chairperson, authorised to sign on behalf of the Artifactory (Assignee)
+-   Peter Dreisiger (PD), Secretary, authorised to sign on behalf of the Artifactory (Assignee)
+-   Jason Muirhead (JM), Treasurer
+-   Andrew Wheatley (AW), Assignor
+-   George Mantovani (GM), Prime Property Agency
+-   Don Kolichis (DK), representing the owners
+
+### Review of the Deed of Assignment
+
+1.  **Dropping the need for guarantors**: as a result of prior discussions between the Artifactory and the DK, the need for guarantors has been replaced by a \$6,000 bond
+2.  **Section 11: Costs and Expenses** which reads "the Lessor's costs, charges and expenses incurred in connection with the negotiation, preparation, execution and stamping of this Deed shall be borne by the Assignee and must be paid on or before the Date of Assignment": upon GM and DK's confirmation that no charges were incurred, the Artifactory asked that this clause be omitted from the deed
+3.  **Section 13.1: Special Conditions**: this clause currently says that the assignee (the Artifactory) needs to pay all outstanding monies and the legal costs associated with the preparation of the deed; it was agreed that this should read the assignor (Andrew Wheatley)
+
+### Signing of the Deed of Assignment
+
+1.  AW raised the issue of the chattel as something that needs to be resolved before he will sign the deed
+2.  AW indicated that the chattel consisted of all of the office spaces and the air-conditioning plant, and that he had the tax invoices to substantiate the material and installation costs
+3.  The Artifactory indicated that this issue could have been raised prior to the signing meeting, but that it would be willing to negotiate on the value and payment options for the purchase of the chattel
+4.  The Artifactory committee members present also indicated that they would not be able to authorise any payment without the approval of the wider membership base
+5.  DK noted that the owners do not want to keep the additional structures, and that the last tenants who wish to use these structures will also be responsible for the removal costs
+6.  The Artifactory indicated that there has been some conflicting information about who has paid for what, and that this will need to be resolved during negotiations
+7.  The Artifactory also indicated that, whilst convenient, the chattel are not essential to what we do, and in determining their monetary value to us, we will be taking their utility, depreciation, current labour costs and costs of removal into account
+8.  DK and GM indicated that they are happy for the Artifactory to continue to occupy the space while negotiations take place
+9.  DK and GM also indicated that the Artifactory may hold onto the rental dues until the deed of assignment is signed
+10. DK and GM indicated that a negotiation period lasting until late January would be acceptable
+
+### Outcomes
+
+1.  With the deed of assignment unsigned, DK and GM agreed to defer the assignment to allow AW and the Artifactory to negotiate about the chattel
+2.  The Artifactory and AW will meet on the evening of Wednesday the 28th of December to begin negotiations (time to be confirmed)
+3.  The Artifactory will forward regular bank statements onto GM to prove we have sufficient funds to cover our rental dues

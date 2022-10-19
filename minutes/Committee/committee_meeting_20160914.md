@@ -1,0 +1,157 @@
+---
+title: Committee Meeting 2016.09.14
+description: 
+published: true
+date: 2022-10-19T09:48:55.442Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:05:10.883Z
+---
+
+# Committee Meeting 2016.09.14
+
+## Agenda
+
+1.  Acceptance of Minutes of the previous previous meeting
+2.  Acceptance of Minutes of the previous meeting
+3.  URGENT business (defer that which can wait until a more normal committee meeting)
+    1.  Correspondence
+    2.  Chairman's report
+    3.  Treasurer's report
+    4.  Other officer's reports
+    5.  Subcommittee reports (moot as they may be)
+    6.  Building Report
+
+```{=html}
+<!-- -->
+```
+1.  Area hosts and other tsars
+2.  Subcommittee terms of reference
+3.  Subcommittee membership
+4.  Other business
+5.  Review of outstanding Action Items
+
+## Minutes
+
+### Members Present
+
+-   Present: SM, JMM, JK, Nick, TP, Lemming, Hugh, SH, Russel
+-   Observing:
+-   Apologies: TG
+-   Absent:
+
+### Meeting Times
+
+-   Opened: 2043
+-   Closed: 2200
+-   Next meeting: 12 Oct 2016 2000
+
+### Minutes of previous previous meeting (13/8/2016)
+
+See: [committee_meeting_2016.08.13](/committee/committee_meeting_2016.08.13) (Not accepted at the last committee meeting)
+
+| Status      | Accepted / Rejected |
+|-------------|---------------------|
+| Moved By    | SH                  |
+| Seconded By | Lemming             |
+
+Passed without dissent
+
+### Minutes of previous meeting (3/9/2016)
+
+See: [committee_meeting_2016.09.03](/committee/committee_meeting_2016.09.03)
+
+| Status      | Accepted / Rejected |
+|-------------|---------------------|
+| Moved By    | Lemming             |
+| Seconded By | JMM                 |
+
+Passed without dissent
+
+### Correspondence
+
+Deferred?
+
+### Chairman's report
+
+Deferred?
+
+### Treasurer's report
+
+No significant change from AGM
+
+### Other officer's reports
+
+Deferred?
+
+### Subcommittee reports
+
+\- Laser subcommittee
+
+     - Last information is that the tube is in Perth but the supplier is on holiday (MK - last week).
+
+### Building Report
+
+Deferred?
+
+### Area hosts and other Tsars
+
+1.  Area hosts
+    1.  CAD Room - Russell
+    2.  Electronics Bench - Steve
+    3.  Tool Room - Lemming
+    4.  Welding - Lemming
+    5.  Band Room - Tanner
+    6.  Stage - JMM
+2.  Fundraising - SM, JMM, Russell
+3.  Treasurer functions - SM, Nick
+4.  Quartermasters - SM, Russell, Hugh, Tim
+5.  IT Infrastructure SubComm - Mitch, Steven Tseng, Nick, Tim, Brendan
+6.  Physical Infrastructure
+7.  RFID Card issuing - Stu, Nick, Jason
+8.  Member hype promo - JK
+9.  Sustainability - Russell
+10. New Venue Hunting - SM, JMM, Lemming
+11. Event Coordinators
+    1.  NoizeM - SM, TG, JMM, Sk0t, Meg
+    2.  Arduino U - TG, Hugh
+    3.  DIY Synth - Tim
+    4.  open day - Steve
+    5.  ADUG - Nick & Richard Harrington
+12. Queries
+    1.  Facebook - Tim, Jason, Lemming
+    2.  info@ - TG
+    3.  treasurer@ - SM
+    4.  tidyHQ - SM
+    5.  website - SM
+13. Publishing events
+    1.  Facebook - Tim
+    2.  website - SM
+    3.  google calendar - Russell
+14. Wiki
+15. Website - SM
+
+### Subcommittee Terms of reference
+
+See [start](/subcommittee/start)
+
+### Subcommittee membership
+
+See [start](/subcommittee/start)
+
+### Other Business
+
+Discussion about other premises.
+
+Lemming is happy to call people -- give him numbers for properties for lease.
+
+Discussion about commercial use and taking commercial jobs
+
+### ACTION Items Resulting
+
+#### ONGOING ACTION Items
+
+Can we defer and significant discussion? NOTE - The list from the last committee has been removed!
+
+-   ACTION (3/9/2016) SteveH to write prospective subcommittee documentation for subcommittees (IT, Infrastructure, Laser, Fundraising, Events) prior to the next meeting and to solicit feedback from both the committee, existing subcommittee members (where known) and the general membership.
+-   ACTION (3/9/2016) Stuart to contact the Studio member to discuss a small rate increment.

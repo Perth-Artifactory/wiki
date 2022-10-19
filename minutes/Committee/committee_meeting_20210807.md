@@ -1,0 +1,276 @@
+---
+title: committee_meeting_2021.08.07
+description: 
+published: true
+date: 2022-10-17T16:18:02.797Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:17:53.826Z
+---
+
+====== Committee Meeting 2021.08.07 ====== Previous meeting:[Committee Meeting 2021.07.03](Committee Meeting 2021.07.03)
+
+Next meeting: [Committee Meeting 2021.08.28](Committee Meeting 2021.08.28)
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: REMOVE NOT PRESENT - Iain, Beau, Fletcher, Vincent, Blake, Jason
+-   Apologies: Judith
+-   Absent: Scott
+-   Observing: NAMES
+-   Minute taker: Vincent
+-   Chair: Iain
+
+### Meeting Times
+
+-   Opened: 6:14 pm (Planned: 6:00pm)
+-   Closed: 7:32 pm
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+Previous meeting's minutes: [Committee Meeting 2021.07.03](Committee Meeting 2021.07.03)
+
+-   No mistakes to be rectified
+
+| Moved By    | Beau     |
+|-------------|----------|
+| Seconded By | Blake    |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+-   Email was written and sent
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   A Maker down south wants to start a space
+-   A Community group wants to build a high altitude balloon
+-   An IT company wants a space to practice moving servers temporarily
+    -   Has been arranged, Treasurer will send out invoices.
+-   More NDIS enquiries
+    -   Must take care to avoid undue strain on volunteers.
+
+```{=html}
+<!-- -->
+```
+-   Further email re: former member ban
+    -   Decision: Allow for mediation on termination under section 12.5 of the constitution.
+    -   Send response email to this effect.
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   No incidents
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   The drain pump is starting when it shouldn't, Don is investigating
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   Nothing to report
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
+
+| Account    | 3/7/21      | 7/8/21      |
+|------------|-------------|-------------|
+| Operations | \$10,987.03 | \$10,186.61 |
+| Sale       | \$112.05    | \$112.05    |
+| Donations  | \$2,500.16  | \$2,545.16  |
+| Total      | \$13,612.65 | \$12,843.82 |
+
+### Pentanet
+
+Pentanet are cutting back on their sponsored services (including us). New price is \$119/mo
+
+"From 1 September 2021, your internet plan will be changed to: Fixed Wireless - Commercial - 120Mbps/20Mbps 500GB On-Peak, Unlimited Off-Peak (\$119 inc GST) If you do not wish to continue your service, you may opt to cancel your account before 31 August 2021 by responding to this ticket."
+
+### General financial state
+
+From the start of COVID-19 our financial position has been slipping backwards. We've lost sponsors as businesses have cut back. We've lost members, internal events, and bar sales due to the decrease in community spending. We've also lost once off cash injections from participation at local events (Supanova, Madman etc). The only reason we're still able to move forward with maintenance costs and refurbishments is because these expenditures are being covered by specific members. Without this continued support or injection of funds from other sources we will not survive.
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+-   Expenses have been covered by private donations.
+    -   Hand tool replacements
+    -   Ryobi battery replacement
+    -   Resin and resin accessories (printing)
+    -   Dust extraction refurbishment
+    -   Lighting refurbishment
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+**Current Status**
+
+Membership as at 2020-xx-xx:
+
+-   X (+X / -X) Full Members (Monthly+Annual);
+-   X (+X / -X) Concession Memberships (Monthly+Annual);
+-   X (+X / -X) Band Memberships
+-   X (+X / -X) Associate Memberships
+
+**New Memberships for approval**
+
+-   FULL - Michael Chin
+
+**Defer to next meeting**
+
+-   FULL - Wally Mulik
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Beau     |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * REPORT
+
+**Event Officer**
+
+      * REPORT
+
+**Rehearsal Room Coordinators**
+
+      * REPORT
+
+**Quartermasters**
+
+      * REPORT
+
+**Membership Officers**
+
+      * REPORT
+
+**Membership Storage Officer**
+
+      * REPORT
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * REPORT
+
+**IT Subcommittee**
+
+      * REPORT
+
+**Promotions Subcommittee**
+
+      * REPORT
+
+**Sponsored Memberships Panel**
+
+      * REPORT
+
+**Infrastructure Subcommittee**
+
+      * Various upgrades around the space, focused on the machine room (including dust extraction and a new workbench placement)
+      * New carpark lighting is ready to be installed
+      * Adding more lights to the carpark
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) -
+-   Arduino U - (Coordinators: Hugh, Doug) - \~4 people last time (compared to 6-7 in previous few).
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) -
+
+**Games**
+
+-   <s>ARTIfrag (Coordinator: Iain) -</s> Event not scheduled
+-   <s>Chess Knight (Coordinator: Stuart) -</s> Event not scheduled
+
+**Cosplay and Craft**
+
+-   <s>Cosplay (Coordinator: Scott) -</s> Event not scheduled
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) - Running normally
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Ran normally
+-   Mostly Modular Synth (Coordinators: Hugh, Jon) - Didn't run.
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Jean-Michel, Skot) - Event run (postponed from last month due to lockdown), new stage lighting
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) -
+-   Open Day (Coordinator: Steve Hodges) - Had \~10 people through
+-   Wine & Design (Coordinator: Committee) - Both wine and design is occurring.
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Schedule annual general meeting
+
+The annual general meeting must take place by the 30th of September. 14 days notice must be given (21 if a special resolution is proposed).
+
+**Motion** (if required) Hold the Annual General meeting at **1:00pm** on **18 September 2021** at the Perth Artifactory.
+
+Notice NOT to be sent until the next committee meeting, where we ill finalise the agenda.
+
+| Moved By    | Vincent  |
+|-------------|----------|
+| Seconded By | Fletcher |
+| Status      | Accepted |
+
+----
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   Next meeting: 2021.08.28 6pm, 3 weeks
+
+Minutes: [Committee Meeting 2021.08.28](Committee Meeting 2021.08.28)
+
+## Action Summary
+
+-   LIST ACTIONS AND ACTIONEES

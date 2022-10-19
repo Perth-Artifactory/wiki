@@ -1,6 +1,13 @@
 ---
-title: "Events subcommittee page"
+title: Events subcommittee page
+description: 
+published: true
+date: 2022-10-19T10:14:21.838Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:49:52.728Z
 ---
+
 ## Events subcommittee page
 
 #### Members

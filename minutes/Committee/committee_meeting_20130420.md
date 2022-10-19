@@ -1,0 +1,97 @@
+---
+title: Committee meeting for Perth Artifactory 20/04/2013
+description: 
+published: true
+date: 2022-10-19T09:43:06.890Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:57:43.692Z
+---
+
+### Committee meeting for Perth Artifactory 20/04/2013
+
+-   Date: 20 April 2013
+-   Location: Perth Artifactory
+-   Meeting Opened: 1318
+-   Next meeting: 11 may 2013 1pm, the weekend after the deadline for city of Stirling
+
+#### Members present
+
+-   Present: PeterD, Daniel H, Nick B, SKoT McD, Brendan R, Kitty, Anton, Jenna, Brett
+-   Apologies: Jason
+
+#### Previous minutes
+
+Accept? (proposed Daniel, Brendan seconds, passed)
+
+### AGENDA
+
+-   Reports
+-   Correspondence
+-   Events
+-   Projects
+-   General
+
+#### Treasurer Report
+
+-   In good stead - \$4377, have paid April rent.
+-   Have paid insurance \$1200
+-   Rent is \~\$3600/month, due 1st of each month
+-   will pay May rent after meeting;
+-   Western Power & instant waste TODO.
+
+#### Membership
+
+    *Last reminder emails found $1200 in back dues.
+    * 4 members 4 or more months over.
+    * email about Tom - has he paid bond
+    * Bonds in citrus...? Apparently.
+    * Skateboard park guy needs bond back.
+    * Membership in arrears chews bond - this is on membership form. 
+    * TODO - look up never never balance
+
+#### Infrastructure Subcommittee
+
+-   Anton cannot give an accurate report due to his recent absence.
+-   printers are gone! We didn't have to pay!
+-   Total Metal Recyclers, 91 Guthrie St. Good place to take chunks of metal. Bulk metal disposals/recycling, including random steel, aluminium cans, <http://www.tmr.net.au/>
+
+#### Correspondence
+
+-   Antony Jessop - popped up hassling Jason, SKoT contacted
+
+#### Events
+
+-   Noise Mashin happening on Tuesday, last one pulled in 450
+-   wahackon? We're umming and ahhing, Peter D to post out to core to ask if anyone wants to take it up
+-   Geek Haven had a very low turnout even though it was heavily advertised.
+-   Artifactory gets 100 from athe biplanecycle that was rented out for Dr Sketchy's at the northbridge piazza!
+-   Rental of sound gear etc to swancon. Brendan will find out how much we can invoice
+-   Anton has been paid for sound gear, Brendan needs payment asap
+
+#### City of Stirling
+
+-   (Skot has been keeping committee very well-informed via email and wiki)
+
+### GENERAL
+
+-   Daniel has dropped off his key, requests info@ emails be redirected to someone else. Also web admin.
+-   Daniel please make a list and it can go towards to the comprehensive software solution that we will put together with the help of lottery west hopefully!
+-   Big thankyou to the Gilchrists for stepping up as our quartermasters!
+-   arduino people still working on big blinky display to advertise space open.
+-   membership flattening to coincide with the lasercutter and agm
+
+### ACTION SUMMARY
+
+-   agenda mailout a week in advance again
+-   audio vault pile has shrunk satisfactorily
+-   Daniel requests that info@ emails be redirected to someone else. Also web admin.
+-   Daniel please make a list and it can go towards to the comprehensive software solution that we will put together with the help of lottery west hopefully!
+-   Anton has been paid for sound gear, Brendan needs payment asap
+-   Rental of sound gear etc to swancon. Brendan will find out how much we can invoice
+-   Look up never never balance
+-   Western Power & instant waste moneys
+
+#### Meeting Closed
+
+1357

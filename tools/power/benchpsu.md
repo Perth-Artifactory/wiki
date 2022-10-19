@@ -1,6 +1,13 @@
 ---
-title: "DSE 0—30V 2.5A Lab Power Supply"
+title: DSE 0—30V 2.5A Lab Power Supply
+description: 
+published: true
+date: 2022-10-19T10:46:12.892Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:00:14.969Z
 ---
+
 # DSE 0—30V 2.5A Lab Power Supply
 
 \*\* Specifications \*\*

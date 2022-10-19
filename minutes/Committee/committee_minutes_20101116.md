@@ -1,0 +1,74 @@
+---
+title: Committee Meeting 2010.11.16
+description: 
+published: true
+date: 2022-10-17T16:21:53.943Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:21:45.828Z
+---
+
+# Committee Meeting 2010.11.16
+
+**Members Present**
+
+-   Skot Mcdonald (SM)
+-   Daniel Harmsworth (DH)
+-   Brendan Ragan (BR)
+
+Apologies from Peter Dreisiger
+
+**Meeting Times**
+
+-   Opened: 19:50
+-   Closed: 20:30
+-   Next meeting: 30th November
+
+**Action Items**
+
+-   **New:** SM to email out core about move.
+-   **New:** SM to arrange a skip.
+-   **New:** DH to document shelling in from outside on the wiki.
+-   <s>SM to do full account summaries for members.</s>
+-   <s>PD will email core about cleanliness.</s>
+
+**Minutes**
+
+1.  Finalise agenda for this meeting
+2.  Minutes of previous meeting
+    1.  SM mailed out account details (except for andy, who is leaving)
+    2.  SM forwarded insurance details to BR and sent them to our current landlord
+    3.  DH couldn't chase the landlord because he went on holidays
+    4.  PD did in fact email out about cleanliness
+3.  Correspondence
+    1.  We got the Invoice for Nov 15 to December 15 (which has been paid)
+    2.  SM got the insurance address changed to his house
+4.  Office-holder Reports
+    1.  Chairman's Report
+        1.  Departed member - we wish him well. He has requested to stay on the mailing list
+        2.  Connecting with other Artifactories in australia re: documentation etc.
+    2.  Treasurer's Report
+        1.  Sent out account details.
+        2.  \$800 in the bank, rent paid until the 15th of December. \$1500 expected to come in.
+        3.  Membership system is required.
+5.  Property Reportback
+    1.  We've entered into discussions about a property on Guthrie Street in Osborne Park.
+    2.  He is very amicable, has similar interests.
+    3.  The space looks really good.
+    4.  Wiki page here.
+    5.  Need to answer a few questions before we sign a lease.
+    6.  Hector street property is now available.
+6.  General Business
+    1.  Organising Cleanup and Packing
+
+```{=html}
+<!-- -->
+```
+          - Boxes
+          - BR Suggested bookstores (White Dwarf Books and Fantastic Planet) as they often have heaps of boxen
+        - Email going out to members asking for boxes, vans/ute's and packing material.
+          - Skip will need to be booked.
+      - External Access to the artifactory system?
+        - External SSH Access. Should be documented on the wiki.
+      - Membership System.
+        - Build it in house! Have a play. Backs onto LDAP.

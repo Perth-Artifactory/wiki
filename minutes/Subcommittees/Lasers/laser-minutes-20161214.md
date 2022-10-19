@@ -1,0 +1,38 @@
+---
+title: Laser subcommittee meeting 2016-12-21
+description: 
+published: true
+date: 2022-10-17T16:24:51.223Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:24:43.469Z
+---
+
+##### Laser subcommittee meeting 2016-12-21
+
+-   Issues since previously, or continuing
+    -   LC1290
+        -   Bed level check
+            -   2016-12-05: LEM+JM checked: bed is level
+                -   Slats supporting the bed have MDF char and move around
+                -   New honeycomb?
+        -   but: Mirror alignment needed at 2016-12-05: masking tape shows the beam seeming to go quite high into the aperture at the top of the head at all areas of the travel
+        -   TODO: Check chiller
+            -   water level
+            -   Does temperature stay on target or creep up?
+            -   temp snapshot: 19.2C, 18.8C
+        -   New tube test install
+            -   Pick a downtime day: Wed 20161228-0900 ; with a lunchtime deadline for rollback
+    -   LG500
+
+```{=html}
+<!-- -->
+```
+          * temp snapshot: 16.0C, 16.4C
+      * Can we find/replace the missing access keys? Only 2 of 6? remain
+      * Monitor/backup PC config
+      * No fresh spare lens: want 2 * 50.8mm + 2 * 63.5mm
+        * Regarded as a consumable
+        * Want list of spares on the wiki
+        * Resolved: buy some!
+      * Open up artifactory-laser list view topics: agreed; DONE

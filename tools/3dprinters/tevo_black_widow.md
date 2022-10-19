@@ -1,6 +1,13 @@
 ---
-title: "Tevo Black Widow FDM 3D Printer"
+title: Tevo Black Widow FDM 3D Printer
+description: 
+published: true
+date: 2022-10-19T10:43:16.514Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:54:05.862Z
 ---
+
 # Tevo Black Widow FDM 3D Printer
 
 ## Summary

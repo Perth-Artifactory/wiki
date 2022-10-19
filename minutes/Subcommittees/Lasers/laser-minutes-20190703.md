@@ -1,0 +1,34 @@
+---
+title: Laser Subcommittee Meeting 2019-07-03
+description: 
+published: true
+date: 2022-10-17T16:28:33.281Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:28:27.772Z
+---
+
+# Laser Subcommittee Meeting 2019-07-03
+
+-   Attendees: BlakeS, Fletcher, NickB
+
+```{=html}
+<!-- -->
+```
+-   LC1290 Big Red
+    -   Cutting fine
+-   LG500 Little Red
+    -   Cutting slowly: 4mm/s with 3mm MDF
+        -   Pristine condition with new tube \>24mm/sec
+        -   Focus is bad
+        -   Blemish on partially silvered tube end
+        -   Chengdu Weegiant 60W CO2 laser tube, expected 2000h lifespan, lasted 5+ years - better than any of the 100W+ tubes!
+        -   New, improved (co-linear red targetting diode?) replacement about \$500 delivered?
+    -   Using new lens "USA ZnSe Focusing Lens 50.8mm" - this is the \$25 one
+        -   Was about 7mm/s for 3mm MDF when installed
+    -   Removed and looked reasonably clean
+    -   Trying "China ZnSe 63.5mm"
+    -   Tried the "China ZnSe 50.8"
+        -   Different height on focus target
+        -   Focus still poor
+        -   Loose nozzle-securing screw: stripped, replace&re-tap?

@@ -1,6 +1,13 @@
 ---
-title: "Kit-O-Tron"
+title: Kit-O-Tron
+description: 
+published: true
+date: 2022-10-19T10:41:24.418Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T08:43:28.709Z
 ---
+
 # Kit-O-Tron
 
 ## Electronic Components

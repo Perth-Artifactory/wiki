@@ -1,0 +1,267 @@
+---
+title: Committee Meeting 2017.03.01
+description: 
+published: true
+date: 2022-10-19T09:50:00.946Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:06:30.486Z
+---
+
+# Committee Meeting 2017.03.01
+
+## Agenda
+
+1.  Usual business
+    1.  Acceptance of last meeting's minutes
+    2.  SGM date and time, confirmation
+    3.  Correspondence
+    4.  Chairman's report
+    5.  Treasurer's report
+    6.  Other officer's reports
+    7.  Subcommittee reports
+    8.  Building Report
+    9.  Area Host reports
+    10. Cornwall House
+2.  2 Burgay Court - Update and questions to be answered
+3.  Other business
+4.  Review of Action Items
+
+## Minutes
+
+### Members Present
+
+DS, ML
+
+-   Present: Nick Bannon (NB), Stuart McDonald (SM), Lemming (LEM), Hugh Fraser (HF), Steve Hodges (SH), Jean-Michele (J-M)
+-   Observing: Mitch Kelly
+-   Apologies: Tim Gilchrist (TG), Tanner Perham (TP)
+-   Absent: Jason Kongchoy (JK), Russel Clarke (RC)
+
+### Meeting Times
+
+-   Opened: 2000
+-   Closed: 2144
+-   Next meeting: (12 March 2017 at 20:00)
+
+### Acceptance of minutes
+
+See: [committee_meeting_2017.01.04](/committee/committee_meeting_2017.01.04)
+
+| Status      | IS Accepted |
+|-------------|-------------|
+| Moved By    | J-M         |
+| Seconded By | NB          |
+
+PASSED without doissent
+
+### SGM date and time, confirmation
+
+The SGM was announced a few days ago for 15 Mar 2017. This was informally approved at an unminuted meeting where a quorum of the management committee were present. It was noted that the constitution does not require the SGM to be formally called before it is announced. We thus need to minute that the management committee agree to an SGM.
+
+MOVED (SH) That an SGM is held at 7pm on the evening of 15 Mar 2017 at 2 Burgay Court for the primary purpose of polling the membership about the acceptance of the lease and subsequent move to 2 Burgay Court.
+
+SECONDED (LEM)
+
+Passed without dissent
+
+### Correspondence
+
+some people asking about events here including a blues even. replied to them but no response yet
+
+cosplay coming up on the 11th (sat)
+
+mod synth on 14th.
+
+no lease yet
+
+### Chairman's report
+
+really good noise machin. 30 to 40 people. some issues with microphone (and oral placemetn thereof)
+
+### Treasurer's Report
+
+|                         | 28/02/2017     | 31/01/2017     |
+|:-----------------------:|----------------|----------------|
+|       NAB Balance       | \$3407.86      | \$5493.92      |
+| Pending TidyHQ / eftpos | \$719.60       | \$403.93       |
+|     Guthire St Bond     | \$6000.00      | \$6000         |
+|    Burgay Court Bond    | \$1500.00      | \$0            |
+|         Balance         | **\$11627.46** | **\$11897.85** |
+
+\^
+
+| Quarantined Funds                     |
+|---------------------------------------|
+| Estimated RFID Key Members Bond Value |
+| For Insurance 17/18                   |
+| Amount Owed on Sound Equipment        |
+| DESIRED BALANCE                       |
+
+\^
+
+|                                 | 28/2/2017 | 31/01/2017 |                   |
+|:-------------------------------:|-----------|------------|-------------------|
+| Sound Equipment Funds Collected | \$2705    | \$2705     | Collected in Full |
+
+REFUND SKOT???
+
+| REVENUE                                                         | Last Month | 12 Month Average |
+|-----------------------------------------------------------------|------------|------------------|
+| Membership                                                      | \$4045     | \$4325           |
+| Space Cash (Events/Venue hire/Snacks/tool fees/day users/other) | \$553      | \$1170           |
+| Grants/Prizes/Donations/Fundraising                             | \$140      | \$68             |
+| TOTAL REVENUE                                                   | **\$4738** | **\$5562**       |
+
+\^
+
+| EXPENSES                                         |             |             |
+|--------------------------------------------------|-------------|:-----------:|
+| Lease+Estimated Variable Outgoings               | -\$4224     |   -\$4224   |
+| Electricity                                      | -\$388      |   -\$413    |
+| Insurance (12 month average)                     | -\$0        |   -\$158    |
+| Waste/Internet/Welding Supplies                  | -\$304      |   -\$313    |
+| Merchant Fees                                    | -\$40       |    -\$40    |
+| TidyHQ/Bank Charges                              | -\$93       |   -\$106    |
+| TOTAL EXPENSES (Excluding Equip/Fundraising Exp) | **-\$4995** | **-\$5253** |
+
+\^
+
+| Fundraising Expenses# | -\$0 | \$0       |
+|-----------------------|------|-----------|
+| Equipment Purchases\$ | -\$0 | -\$503.47 |
+
+Major Events/Other (Past Month)
+
+    *ADUG - ~$100
+    *Noizemaschin ~$200 Including surplus stock. 
+
+Money Due (31/01/16)
+
+    *Membership - ~$4575 -$0.5K on last months 
+    *Car park hire (1 weeks)- $400 
+    *Kitchenette Expenses - $80.50  
+    *ADUG Jan / Feb - $50 + $100
+    *LEDs - $50
+    *PCs - $110
+
+#### Membership Report
+
+-   30 (-1) Full Members;
+-   13 (-2) Concession Memberships;
+-   1 (0) Studio Office Memberships (For 2 Members)
+-   5 (0) Band Memberships
+
+```{=html}
+<!-- -->
+```
+-   **Approve** Memberships for Cancellation for Non-Payment (+90 days due) - NONE
+
+MOVED: SECONDED:
+
+-   **Approve / Disapprove** of New Members since last meeting - NONE
+    -   CONCESSION -
+    -   FULL -
+    -   BAND -
+
+MOVED: SECONDED:
+
+### Other officer's reports
+
+#### Promotions Officer - JK
+
+#### Fundraising JMM/StM
+
+Working on the grant. Need annual report to be finished and then up to 3 months before we hear anything.
+
+exhibition at edith cowan. artifactory stuff or table would be good.
+
+#### Event Coordinators Report
+
+      * NoizeM - SM, TG, JMM, Skot, Meg - Ran on time well attend.
+        * 
+      * Arduino U - TG, Hugh"
+      * DIY Synth - Lem
+      * open day - Steve
+        * Feb's open day was slow but the 3 groups who came in were positive and interested.
+        * March's open day is next week
+        * Should we consider ceasing formal open days during any move?  and when should we have open days at the new space? (sooner rather than later!!)  April 1st yes, we'll have it.  May, doubtful.
+      * ADUG - Nick & Richard Harrington
+      * Other Events
+
+Need to coordinate with event coordinators to ensure all the stuff they require is at one space or the other (and that people know which one) during the move.
+
+### Subcommittee reports
+
+-   Laser subcommittee
+    -   meeting sun 12 11am -- all welcome
+
+```{=html}
+<!-- -->
+```
+-   IT SubComm
+    -   issues with reader on the door on hot days
+
+```{=html}
+<!-- -->
+```
+-   Infrastructure
+    -   we had flooding. saved by lemming!
+
+```{=html}
+<!-- -->
+```
+-   Events
+
+### Building Report
+
+### Area hosts Reports
+
+      * CAD Room - Russell
+      * Electronics Bench - Steve
+      * Tool Room - Lemming
+        * cordless drills are breeding
+      * Welding - Lemming
+        * need to bolt down grinder
+      * Band Room - Tanner
+        * cables organized
+        * clean up done
+      * Stage - JMM
+
+### 2 Burgay Court - Update and questions to be answered
+
+Are there questions to be answered prior to the SGM (see Sk0t's email)
+
+\$1500 security deposit paid (this comes off June's rent)
+
+\$5000 bond to be paid by 1 April
+
+4.2 meter racking may still be in the place and can be used, can it be moved/modified?
+
+Some offices for lease at small rent (\$200/month)
+
+Martin to come along to check electrical stuff.
+
+### Other Business
+
+### ACTION items
+
+#### Resolved
+
+#### New (arising from this meeting)
+
+#### Ongoing
+
+ACTION (HF) to investigate arduino parts and stuff for courses & syllabus **Work in progress**
+
+ACTION (Subcommittees) to ask for people interested in subcommittees **Ongoing**
+
+ACTION (TG) - Manipulation of the history of core mailing list. (not yet done) Can someone else do it?
+
+ACTION: Nick to decide what is needed for laser cutters and to get prices for next meeting. **To do**
+
+ACTION: LEM to followup on Burgay Crt.
+
+ACTION: STU set up family membership **DONE**
+
+ACTION: JK - Finish Grant

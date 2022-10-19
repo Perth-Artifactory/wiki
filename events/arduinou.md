@@ -1,6 +1,13 @@
 ---
-title: "Arduino U"
+title: Arduino U
+description: 
+published: true
+date: 2022-10-19T09:56:59.531Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:45:33.122Z
 ---
+
 # Arduino U
 
 A fortnightly evening of talks about and hacking on Arduino microcontrollers.

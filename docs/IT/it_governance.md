@@ -1,6 +1,13 @@
 ---
-title: "it_governance"
+title: it_governance
+description: 
+published: true
+date: 2022-10-19T10:08:58.270Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:41:49.910Z
 ---
+
 The IT Governance framework is a work in progress developed by the IT Coordinator. It's purpose is to align a framework of IT ideals to the Artifactory operations.
 
 **Documentation** -All Artifactory owned devices connected to the network must have clear documentation on the Wiki -Documentation must include

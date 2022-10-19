@@ -1,0 +1,59 @@
+---
+title: Laser subcommittee meeting 2017-06-26
+description: 
+published: true
+date: 2022-10-17T16:25:39.464Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:25:33.257Z
+---
+
+##### Laser subcommittee meeting 2017-06-26
+
+-   Present: Glenn, Nick
+-   Next Meeting 24th July
+
+```{=html}
+<!-- -->
+```
+-   New cheaper lenses arrived: 2\*50.8mm, 3\*63.5mm nominal
+    -   Approx. AUD\$15 each after shipping
+    -   No need to install today
+    -   NOTIFY artifactory-laser@googlegroups.com if installed, we need to know if they perform and last as expected
+-   LC1290 clean&level bed
+
+```{=html}
+<!-- -->
+```
+-   Ordered clear silicone Tubing, spare for water hose and extra HV insulation
+    -   HV silicone tubing
+        -   Current tubing is not original: recent grey silicone installed from HV PSU to laser head
+        -   Hobby store fuel tubing is too thin? Thick red tubing from Autobarn: \$30?
+        -   Confirm with Jim: spare clear tube has arrived?
+
+```{=html}
+<!-- -->
+```
+-   Glenn made spare case keys, A1 Locksmiths, Morley. 4 copies made: will bring them in to be placed into the safe
+    -   One on green mini-spanner keyring
+
+```{=html}
+<!-- -->
+```
+-   Lasercutter safety report is resolved
+
+```{=html}
+<!-- -->
+```
+-   There may have been an issue with the Stop button on big red - Will check with Jim
+
+#### Machine inspection and tests
+
+-   LC1290 main hinge repair: done Wednesday 2017-06-07!
+    -   2\* new gas struts still needed, photo of model numbers/293mm fully extended pivot point to pivot point, 114mm of movement, 800 Newtons
+    -   Right side 120mm 240V 0.1A = 24W exhaust fan; slight noise
+    -   Clean&level bed, cutting 6mm MDF@18-22mm/sec; 9mm MDF @11-15mm/sec
+        -   15mm gap nozzle to target after Z-datum
+    -   Empty compressor water
+-   Add weather strip, light baffles?
+-   LG500 cutting is running the same, 11-12mm/second on 3mm MDF, despite recently cleaned mirrors and swapped lens

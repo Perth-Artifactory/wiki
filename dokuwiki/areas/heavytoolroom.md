@@ -1,6 +1,13 @@
 ---
-title: "Heavy Tool Room (Machine Room)"
+title: Heavy Tool Room (Machine Room)
+description: 
+published: true
+date: 2022-10-19T10:16:11.039Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:09:56.305Z
 ---
+
 # Heavy Tool Room (Machine Room)
 
 The place for using tools that are not *too* dusty. (Take really dusty tools outside)

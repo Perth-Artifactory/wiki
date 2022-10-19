@@ -1,6 +1,13 @@
 ---
-title: "HP 6268B Bench Power Supply"
+title: HP 6268B Bench Power Supply
+description: 
+published: true
+date: 2022-10-19T10:44:12.361Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:56:12.422Z
 ---
+
 # HP 6268B Bench Power Supply
 
 \*\* Specifications \*\*

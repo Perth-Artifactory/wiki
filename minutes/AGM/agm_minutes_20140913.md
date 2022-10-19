@@ -1,0 +1,141 @@
+---
+title: agm_minutes_2014.09.13
+description: 
+published: true
+date: 2022-10-19T09:38:18.299Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-09T06:21:11.896Z
+---
+
+-   Open: 11:10
+-   Present: AntonL SKoTM MitchK ChrisHall DaveFaletti DavidO'Meara JennaD BrettD WarrenC ChrisBashall JamesStewart TimGilchrist JasonMuirhead ShayTelfer Jean-MichelMaujean(NM featured artist, next 3 months) NickBannon MatteoVinci BrendanRagan KittyByrne
+
+```{=html}
+<!-- -->
+```
+-   1\. Attendance and Apologies, Proxies received
+    -   No apologies, proxies received
+
+```{=html}
+<!-- -->
+```
+-   2\. Presentation and Approval of the Annual report of the Management Committee
+    -   Chair's report:
+        -   To be scanned from typewriter!
+        -   Special recognition:
+            -   JasonM
+            -   SkotM vs Vogonic city council
+            -   DanielH: Wrangling Lotterywest grant and favourite toy
+            -   David O'M: Promotional endeavours & outreach to Enkel.co in Freo, first point of call for new members walking into the space during the day
+            -   MitchK: Taking on Laser Monday
+            -   Timbo: Continual support of committee members, following up new members
+            -   WarrenC: Chasing up attractive position in Midland
+            -   Sure there's missed people, but thank you!
+        -   Motion to be moved: That the meeting accept the 2014 Annual Report of the Management Committee
+
+```{=html}
+<!-- -->
+```
+-   3\. Presentation and Approval of Financial reports
+    -   Thank you to the GSPA!
+    -   \$6872.19 in account, much is the Artifactory minus a few hundred dollars in final GSPA expenses
+        -   Ready to pay September 2014's rent
+    -   Robotics event coming up this month, lump sum coming in
+    -   Treasury numbers since 20140101 (not since last AGM)
+        -   Net Profits for August and the Calendar Year To Date are actually losses of \$5,454.50 and \$7,119.85
+        -   Net loss: start Jan-end Aug \$7148.30: now behind in rent
+        -   August2014 net loss: \$706
+        -   The loss for the year to date has been managed through going from being ahead on major payments (rent and power) to being behind
+        -   there \_is\_ a path forward, we have had good event proceeds lately
+        -   Been holding GSPA ticket money
+
+| TidyClub.com Income & Expenses Report | August 2014 | Total, 01 January 2014 to 31 August 2014 |
+|---------------------------------------|-------------|------------------------------------------|
+| Income - SubTotal                     | \$10,192.70 | \$47,922.39                              |
+| Income - Membership                   | \$3,035.50  | \$24,864.63                              |
+| Income - Cash Deposit                 | \$860.50    | \$4,801.60                               |
+| Income - Bond                         | \$203.41    | \$850.23                                 |
+| Income - Merchandise                  | \$0.00      | \$85.00                                  |
+| Income - Tickets                      | \$6,088.64  | \$16,131.73                              |
+| Income - Equipment                    | \$0.00      | \$924.55                                 |
+| Income - Misc                         | \$0.00      | \$120.00                                 |
+| Income - T-Shirts                     | \$144.65    | \$144.65                                 |
+| Expenses - SubTotal                   | \$4,738.20  | \$40,802.54                              |
+| Expenses - Rent                       | \$4,449.38  | \$30,642.26                              |
+| Expenses - Internet                   | \$79.00     | \$632.00                                 |
+| Expenses - Waste                      | \$209.82    | \$1,499.79                               |
+| Expenses - Electricity                | \$0.00      | \$4,591.10                               |
+| Expenses - Membership                 | \$0.00      | \$210.00                                 |
+| Expenses - Insurance                  | \$0.00      | \$1,417.29                               |
+| Expenses - Welding Classes            | \$0.00      | \$1,810.10                               |
+| Net Profit                            | \$5,454.50  | \$7,119.85                               |
+
+      * Motion to be moved: That the meeting accept the 2014 Financial Report
+      * Moved: SKoT, second: ChrisHall
+        * All for? Against: 0; Unanimous!
+
+-   4\. Presentation and Approval of the membership fees and schedules
+    -   Motion to be moved: That the meeting accept the current membership fees and schedules
+    -   \$1350 for September AudioVault
+        -   2 metre square for pallet racking
+    -   32-37 full members (some in arrears), 4 concession
+    -   Move to \$75? \$80?
+    -   Day memberships: to disscuss in committee
+    -   Studio/Comissioned work/Artist level membership \$150/month
+        -   BD precendent when he was doing large commissioned work
+        -   Sponsored membership \$100/month with materials
+            -   Student groups?
+        -   Can add a premium membership? \$100?
+            -   No usage fees
+            -   No commercial quantity/mass manufacturing purposes?
+            -   Concern: person hogging resources: could be fixed better by user pays
+                -   JD: We are in a hackerspace: We need to be social and share
+            -   "Resource membership" better name?
+            -   In principle general approval
+            -   Separate single month item in tidyclub; "space allowance" item
+        -   Base membership increase
+        -   NB: Move to \$80/month; ChrisHall seconds
+            -   BRagan: Leary of raising it above CPI
+            -   Increased CPI+Electricity use
+            -   Tidyclub fees: \$1.80+50c
+                -   For: 3
+                -   Against: 14
+        -   Motion: Full to \$75; SkotM: \$75, Second: BrendanR
+            -   For: Unanimous
+        -   Motion: concession to \$45:; move: NB second: ShayT
+            -   For: Unanimous
+        -   Motion: Recommend: That the incoming committee shall consider and implement the "space allowance" item; move: SKoT second: Timbo
+            -   For: Unanimous
+
+```{=html}
+<!-- -->
+```
+-   5\. Election of a new management committee.
+
+```{=html}
+<!-- -->
+```
+        * Nominate: MitchK: SM; second Timbo
+        * Nominate: SM, NB, MK, DO'M, JD, BD, WC, JamesStewart, TG, JM
+        * < maximum of 10 members; no need for formal voting
+        * Any objections? None!
+        * Done!
+
+-   6\. Other business.
+    -   JasonM, WC: Cornwell House Community Workshops
+        -   Couple of years away
+        -   Artifactory to join them as a member, we will have a vote
+        -   Motion: Join CHCW as a member: Move: WC; Second: SKoTM
+            -   What obligations are on us?
+                -   We are part of the movement attracting funding for the construction
+                -   WC,JasonM will attend their monthly meetings
+                -   For: n-1
+                -   Abstain: 1
+    -   BR: Thanks to outgoing! Continuing! Yay for another year in the space!
+
+```{=html}
+<!-- -->
+```
+-   7\. Close
+    -   12:02pm

@@ -1,6 +1,13 @@
 ---
-title: "Post AGM Report"
+title: Post AGM Report
+description: 
+published: true
+date: 2022-10-19T10:10:35.434Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:45:20.416Z
 ---
+
 # Post AGM Report
 
 ## The Committee

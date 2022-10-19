@@ -1,6 +1,13 @@
 ---
-title: "it_infrastructure_setup_standards"
+title: it_infrastructure_setup_standards
+description: 
+published: true
+date: 2022-10-19T10:09:11.827Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:42:10.048Z
 ---
+
 Hardware and Software Setup Standards
 
 [Security Cameras](/subcommittee/it_infrastructure/setup_standards/cameras)

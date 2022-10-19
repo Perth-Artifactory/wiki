@@ -1,6 +1,13 @@
 ---
-title: "Bliptronic Arduinome"
+title: Bliptronic Arduinome
+description: 
+published: true
+date: 2022-10-19T09:58:47.766Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:48:08.782Z
 ---
+
 # Bliptronic Arduinome
 
 ## What is it?

@@ -1,6 +1,13 @@
 ---
-title: "Compressed Air Line"
+title: Compressed Air Line
+description: 
+published: true
+date: 2022-10-19T09:57:48.962Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:46:43.139Z
 ---
+
 # Compressed Air Line
 
 This project is to provide air for various uses around the space. It will be completed in several phases based on time, availability, materials and a bunch of other factors.

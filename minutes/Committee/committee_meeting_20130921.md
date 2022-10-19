@@ -1,0 +1,175 @@
+---
+title: Committee Meeting 2013.09.21 (following AGM)
+description: 
+published: true
+date: 2022-10-19T09:43:49.889Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T15:58:37.419Z
+---
+
+# Committee Meeting 2013.09.21 (following AGM)
+
+## Agenda
+
+-   Appointment of roles
+
+## Minutes
+
+### Members Present
+
+-   Present: Nick B, Daniel H, Skot M, Jenna D, Brett D, Peter D, Anton L, Steven Reszegi, Warren C, Tim G
+-   Apologies: Jason M, Brendan R, Anton L
+
+### Meeting Times, Venue
+
+-   Location: Perth Artifactory
+-   Meeting Opened: 14:50
+-   Meeting Closed: 15:31
+
+### Minutes of previous meeting
+
+Motions template:
+
+| Status      | Accepted/Rejected |
+|-------------|-------------------|
+| Moved By    | PM-MOVER          |
+| Seconded By | PM-SECONDER       |
+
+### Agenda Items
+
+Appointment of roles: The 2013/4 Committee has just been elected in today's AGM, roles will be as follows:
+
+Executive Committee:
+
+-   Chair: Jenna Downing (JD)
+-   Vice-Chair: Daniel Harmsworth (DH)
+-   Treasurer: Jason Muirhead (JM)
+-   Secretary: Nick Bannon (NB)
+
+Committee:
+
+-   Deputy Secretary and Events Manager: SKoT McDonald (SM)
+-   Deputy Treasurer and Membership Officer: Tim Gilchrist (TG)
+-   OCM: Brett Downing (BD)
+-   OCM and Infrastructure Subcomittee Tsar: Anton Lord (AL)
+-   OCM: Warren Creemers (WC)
+-   OCM: Brendan Ragan (BR)
+
+Other appointed roles:
+
+-   Quartermasters: Timbo and Helenzilla (TG & HG)
+-   Media and Propaganda Officer: SKoT McDonald (SM)
+-   Deputy Media and Propaganda Officer: Steven Reszegi (SR)
+-   Safety Officer: Daniel Harmsworth (DH)
+
+### Correspondence
+
+### Property Report
+
+### Officer Reports
+
+#### Chairpersons Report
+
+#### Treasurers Report
+
+#### Membership Officers Report
+
+#### Promotions Officers Report
+
+#### Arts Liaison Officers Report
+
+#### Infrastructure Officers Report
+
+#### Sub-Committee Reports
+
+### Previous Action Items Status
+
+#### Past Events
+
+-   ArtLab creative conference happened last Saturday 20130914  
+    Jenna, Steve: Success! Inspired more potential members, events
+-   NM last month
+-   DrSketchy's August
+-   Poetry Festival
+
+#### Future Events
+
+\* Sizzle@Masters Home Improvement, Forrestdale
+
+      Sunday 20130929, 10am - 5pm
+      Warren volunteers, Daniel maybe
+      Require drinks&buns
+      buns: Steven & Warren know bakers
+      Golden Bakery
+      Subcommittee Nick, Warren, 
+      Budget: Approved: float from fridge
+
+\* Warren: Mathematical Group
+
+\* This Thursday 20130926: etextiles night: Jenna
+
+\* Geek Haven once a month: next is Thursday 20131012
+
+### General Business
+
+The lasercutter's on its way - we've got 6 weeks:
+
+      Cleanup: Saturday 5th & 12th October
+      Warren: Volunteers will be in the initial training run
+          training priority
+      SKoT second
+      Cleaning credits! redeemable for Lasercutter time
+      Busybees: Cleanup, replace toolroom
+      Welders required
+      Teardown/rebuild toolroom
+      Special attention to load ratings
+      Daniel will pass this onto a structural engineer: Ross Jarvis
+      Adam Fiannaca is a master welder
+      Hire trailer on Daniel's car for bulk disposal
+      Lotterywest:
+          Treasurer report: $14K in bank, $1K earmarked for insurance, $11K to return to loaners
+          => $11000 grant arrived in account!
+      Red and black colours, ready to ship on Sep 26th, here in 6 weeks
+      Will need to pick it up from the Docks, Daniel will do the paperwork with Adam Fiannaca
+      Anton's liftback truck
+      Adam F will help us get it setup
+      Daniel H will reimburse the loans tonight, confirm the bank details
+
+City of Stirling:
+
+      We will change to an "Unlisted use" use -> 
+      Chris Bashall: The notification sign?
+          Ryan: Yes, the sign has been ordered
+      21 days advertising
+      starts 4 days after they are informed by SKoT by email/phone
+      then engineering checkout
+
+Alternative/satellite spaces:
+
+      Myer building Freo rent is $1/m^2/month. work in public
+      Could be an Artifactory satellite base
+      or via Arcadia: BeaufortSt Festival workshop space
+
+PRD, Skot: wants to downpay/cash out as it become possible
+
+      2013-07 income: $5700
+      2013-08 income: $4700
+
+Solar panels:
+
+      SKoT has quotes: Upfront cost: ~$7500
+      Crowdfunding!
+      $0.28 kWh rebate remains for not-for-profits?
+      Could halve our electricity bill! from ~$400 to ~$200/month
+      (Daytime use will vanish)
+
+Warren: Build a model traintrack
+
+### Action Items Resulting
+
+    ACTION: Nick call Jason re: Treasury and Tidyclub
+    ACTION: Daniel get Timbo,Warren onto committee list
+    ACTION: Daniel get Steven onto core list
+    ACTION: PRD: membership handover-> Timbo
+    ACTION: Treasurer: To do: pay SKoT's $837 bill: next month

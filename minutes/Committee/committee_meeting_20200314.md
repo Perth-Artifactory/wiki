@@ -1,0 +1,459 @@
+---
+title: Committee Meeting 2020.03.14
+description: 
+published: true
+date: 2022-10-17T16:15:00.861Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:14:51.004Z
+---
+
+# Committee Meeting 2020.03.14
+
+Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
+
+# Minutes
+
+### Members Present
+
+-   Present: Hugh, Iain, Fletcher, Stuart, Steve, Vincent, Jean-Michel, Lauren
+-   Apologies: None
+-   Absent: Scott, Mel
+-   Observing: Beau, Josh, Nigel, Felix, Adam, JC, Doug, Don
+-   Minute taker: Jean-Michel
+-   Chair: Iain
+
+### Meeting Times
+
+-   Opened: 3:06pm
+-   Closed: 4:24pm
+-   Next meeting: See end of minutes
+
+------------------------------------------------------------------------
+
+### Review Previous Meeting's Minutes
+
+-   DISCUSSION
+
+| Moved By    | Vincent  |
+|-------------|----------|
+| Seconded By | Stuart   |
+| Status      | Accepted |
+
+### Review Previous Meeting's Action Items
+
+**ACTIONS**
+
+-   <s>Investigate bandroom usage limit policy (Fletcher)</s> Done, discussed with event hosts, opted not to create a policy at this time
+-   <s>Ask James if he wants to be bandroom coordinator(JM)</s> Done
+-   Vending machine: Progress report (Steve)
+
+```{=html}
+<!-- -->
+```
+      -Nothing to report
+    * <del>Followup with Steven Hughes (Blazing Swan stage build) (Fletcher)</del> Done, using another space
+    * <del>Modify expenses by-law (JM)</del>DONE
+
+------------------------------------------------------------------------
+
+## Correspondence
+
+-   Travis and Constance, would like to use our space for float build.
+-   City of Stirling - How to get arts and culture grant
+    -   Draw up a budget
+    -   Make an event for something we don't normally do
+    -   Production line style make a thing?
+    -   Will not fund equipment
+    -   Must be for benefit of Stirling
+    -   Estimated at \$5000
+
+------------------------------------------------------------------------
+
+## Incident Reports
+
+-   INCIDENTS - None
+
+------------------------------------------------------------------------
+
+## Property Report
+
+-   Discussed within Infrastructure report
+
+------------------------------------------------------------------------
+
+## Chairperson's Report
+
+-   Business as usual
+
+------------------------------------------------------------------------
+
+## Treasurer's Report
+
+Going okay at moment, but may need to scale back expenditure into the next 3 months (due to COVID-19)
+
+The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
+
+|                                                        | 29/02/2020      | 31/01/2020      |                                                            |
+|--------------------------------------------------------|-----------------|-----------------|------------------------------------------------------------|
+| Bank Accounts                                          | \$14,573.98     | \$16,256.31     |                                                            |
+| Pending from TidyHQ/EFTPOS/Cash + Float                | \$1,542.72      | \$272.22        |                                                            |
+| **BALANCE**                                            | **\$16,116.70** | **\$16,528.53** | Ideally should be larger than bond value                   |
+| Guthrie St Bond                                        | \$6000          | \$6000          |                                                            |
+|                                                        |                 |                 |                                                            |
+| **Quarantined Funds**                                  | 29/02/2020      | 31/01/2020      |                                                            |
+| Estimated Key Bond                                     | **\$11,755.00** | **\$11,395.00** |                                                            |
+| For Insurance 20/21                                    | \$2,552.00      | \$2,320.00      | +232 for each month due annually 31/3. (\$2781.25 in 2019) |
+| For TidyHQ 20/21                                       | \$196.00        | \$147.00        | +49 for each month due annually Oct. (\$588.75 in 2019)    |
+| For Extra Outgoings 20/21                              | \$700.00        | \$600.00        | +100 for each month due annually Aug. (\$442.66 in 2019)   |
+| **DESIRED BALANCE**                                    | **\$15,203.00** | **\$14,462.00** |                                                            |
+| **Funds Available (+Yes -NO) BALANCE-DESIRED BALANCE** | **\$913.70**    | **\$2,066.53**  |                                                            |
+
+| REVENUE (Excludes Bond + Money Collected on behalf of others) | Jan-20      | monthly average |
+|---------------------------------------------------------------|-------------|-----------------|
+| Membership Income                                             | \$5,805     | \$4,047         |
+| Space Cash (drinks/events/tool fees/casual)                   | \$1,965     | \$2,404         |
+| Fundraising                                                   |             | \$222           |
+| Donations                                                     | \$1,129     | \$159           |
+| Donations - For Membership                                    | \$90        | \$90            |
+| **TOTAL INCOME**                                              | **\$8,989** | **\$6,922**     |
+|                                                               |             |                 |
+| EXPENSES                                                      | \$43,850    | monthly average |
+| Lease/Utilities/BOC/Bank Fees/Insurance                       | \$4,502     | \$5,211         |
+| Kitchenette/FundraisingFridge/Toiletries/Sale Program         | \$461       | \$624           |
+| Total Regular Expenses                                        | **\$4,963** | **\$5,835**     |
+| Fundraising Expenses                                          |             | \$65            |
+| Equipment/Infrastructure Expenses                             | \$1,543     | \$537           |
+| **Total Expense**                                             | **\$6,506** |                 |
+
+------------------------------------------------------------------------
+
+## Expenses for Approval
+
+### IT Subcommittee
+
+-   \$120 for UPS batteries
+-   \$300 (max) for upgraded server HDDs (time sensitive)
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Vincent  |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Membership Report
+
+**Current Status**
+
+Membership as at 2020-03-14:
+
+-   46 (+2) Full Members (Monthly+Annual);
+-   25 (+2) Concession Memberships (Monthly+Annual);
+-   4 Band Memberships
+-   4 (+1) Associate Memberships
+
+Membership as at 2020-02-08:
+
+-   44 (-2) Full Members (Monthly+Annual);
+-   23 (0) Concession Memberships (Monthly+Annual);
+-   4 (-1) Band Memberships
+-   3 (-1) Associate Memberships
+
+**New Memberships for approval**
+
+-   CONCESSION - Sam Kirkbride, Olivia Biasin
+-   FULL - Ed MacMullin, Peter Hillier, Jaidan Bracken, James Butler
+-   BAND - NA
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Steve    |
+| Status      | Accepted |
+
+------------------------------------------------------------------------
+
+## Officer Reports
+
+Reports to be emailed in for review of committee when officer does not attend meeting.
+
+**IT Officer**
+
+      * REPORT
+
+**Event Officer**
+
+      * REPORT
+
+**Rehearsal Room Coordinators**
+
+      * REPORT
+
+**Quartermasters**
+
+      * REPORT
+
+**Membership Officers**
+
+      * REPORT
+
+**Membership Storage Officer**
+
+      * 8 new lockers available
+        -contacting people on the wait list (Fletcher)
+        -labelled D5-12
+
+------------------------------------------------------------------------
+
+## Subcommittee Reports
+
+Updates from subcommittees - discussions or requests for action.
+
+**Laser Subcommittee**
+
+      * Trial redesign was a success, more work required before we can switch permanently
+
+**IT Subcommittee**
+
+      * Fletcher is racking a new server to support Artifrag (Steamcache). The server will be set up by a 3rd party and is only drawing power during LANs/maintenance
+      * Fletcher has upgraded Dokuwiki with a fresh install. Cleanup/purge has begun. (Details not filled in before the meeting as this is a reasonably active project and any update written write now would be out of date)
+      * Fletcher and Vincent began purging Filer, work progressing
+
+**Promotions Subcommittee**
+
+      * Scott reaching out to Supanova after this weekend (after their gold coast show)
+
+**Sponsored Memberships Panel**
+
+      * One new person - Stacey Benfall
+
+**Infrastructure Subcommittee**
+
+      * Updates: 
+        * Skip trial is going well - uptick in pickups is due to internal purging, not external drop offs
+        * Spray booth replacement in progress - 1-2 short metal filing cabients would be useful
+        * Demo shelves moving to the lobby (Thanks Lisa)
+          * looking for filing cabinets 
+        * Leather (?) sewing machine moved to the lobby
+        * CAD room is progressing, the last of the more difficult to source material has been aquired (carpet)
+          * surplus carpet tiles
+        * New lockers outside the Electronics Lab
+        * Airline maintenance performed, may see improved performance when using high flow tools
+        * Working on a prototype for a portable machining station
+        * Hackme bench has been renamed as the Upcycle bench, new bench/signage installed that also stores Box of Bangs
+        * Our street signs were gone (tuesday storm?) and have been temporarily replaced with Acrylic placeholders, not considered urgent at this point and not a high priority internally (open for anyone to have a crack if they like, talk to infra first for details)
+        * Signage added to the gate now that it's kept open, more to come. Exploring designs for a 3m tall logo
+        * Carpark cleared, weeding to come and maybe repainting the bay dividers.
+        * New light installed above the Hack Rack and we may be lining up a day to repair two light fixtures in the space.
+        * Front pallet racking being reconfigured to increase storage/work area.
+        * Hack Rack 1/3rd purged, Hackme bench purged.
+        * Thanks Vincent for starting the purge in the office.
+        * CNC mill getting closer to operation. CNC control operational, bed fixings still required to be purchased.
+        * Manual mill maintenance completed and re-entered into service.
+        * FDM printer (Tevo Blackwidow) closer to operation. Wiring configurations addressed. Head/probe swap in progress.
+      * New Tools:
+        * Some Ryobi tools replaced/fixed - Second Angle Grinder and Circular Saw back in rotation, broken Random Orbital replaced, most damaged drill replaced, added a third impact driver
+        * Spindle sander installed
+        * Second Anycubic Photon (Black resin printer) added to the CAD room, on loan from Kym
+        * Second Metal Lathe aquired (needs work/cleanup)
+        * New Wood Lathe aquired (needs slight repair, new home in the machine room once the portable station is complete
+      * Interaction with other groups (subcommittees, SIGs etc):
+        * Assisting SKoT with the next round of stage upgrades
+        * Laser rearrangement has been confirmed. Lobby project being used as a trial for several techniques
+      * Requested from Committee/Committee members:
+        * CAD room aircon has been moved ready for plumbing, had a small leak due to heavy aircon usage
+        * Will need to take over a section of the project area as a temporary CAD room for a few days, a week if things go wrong with the upgrade
+      * Requested by Committee:
+        * Flood lights to be repaired in carpark
+
+------------------------------------------------------------------------
+
+## Event/Workshop Coordinator Reports
+
+News and discussions on events.
+
+**\#** Denotes run by non-members
+
+**Tech**
+
+-   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**) - Invoices paid
+-   Arduino U - (Coordinators: Hugh, Doug) - New attendees that have been converted into regulars BAS
+-   Open Source Hackers (Coordinators: Stephen Price**\#**) -
+
+**Games**
+
+-   ARTIfrag (Coordinator: Iain) - Another LAN coming up, looking at a more regular schedule
+    -   Really fun
+-   Chess Knight (Coordinator: Stuart) -
+    -   4 new attendees
+
+**Cosplay and Craft**
+
+-   <s>Cosplay (Coordinator: Scott) -</s> Didn't happen
+-   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft) -
+-   <s>PikPI Cosplay Workshops (Coordinators: Hayleye**\#**)</s> Didn't happen
+
+**Music**
+
+-   DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits**\#**) - Really busy
+-   \<del\>Mostly Modular Synth (Coordinators: Hugh, Jon) \</del\> Didn't happen
+-   Noizemaschin!! (Coordinators: Stuart, Tim, Jean-Michel, Skot) - 30 peops.
+
+**General**
+
+-   General Hacking Day (Coordinator: Committee) -
+-   Open Day (Coordinator: Steve Hodges) - Went well, some of the tours have already converted into repeat attendees and equipment donations
+-   Wine & Design (Coordinator: Committee) - Work on the space is progressing, nice atmosphere
+-   Workshop Wednesday (Coordinator: Fletcher) - Lisa, Beau, and Nigel have been a massive help
+
+**Other** (new and once off events)
+
+-   OTHER Events
+
+------------------------------------------------------------------------
+
+## Other Business
+
+Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+
+### Rehearsal Room Coordinator appointment
+
+As discussed at the last meeting Tanner can no longer hold an appointed position. James is a friendly band member and is interested.
+
+**Motion**
+
+Appoint James B as a rehearsal room coordinator
+
+| Moved By    | Fletcher    |
+|-------------|-------------|
+| Seconded By | Jean-Michel |
+| Status      | Accepted    |
+
+Action Items (if required)
+
+| Action Items                         | Who      |
+|--------------------------------------|----------|
+| Provide admin access to as required  |          |
+| Set up band membership notifications | Fletcher |
+
+------------------------------------------------------------------------
+
+### By-Law Modification: Artifactory Expenses
+
+This doesn't change the reimbursable items, merely reorders them to look nicer
+
+**Motion**
+
+Update the Artifactory Expenses By-Law to read:
+
+    The Committee allows the Treasurer to pay/reimburse for the following expenses without needing to seek committee approval. The Treasurer may defer reimbursements until a meeting of the Management Committee at their discretion.\\
+    * Lease, variable outgoings, and building bonds
+    * Fundraising Fridge/Kitchenette Supplies (sell-able items)
+    * Consumables for cleaning the Artifactory
+    * First Aid, Toiletry, Office and PPE supplies
+    * Utilities: Internet, welding gas, rubbish disposal, and electricity
+    * Materials and consumables for use by a subcommittee of the organisation provided that the total amount is less than $75 and the expense has been approved by the head of the relevant subcommittee.
+    * Bank fees, merchant fees, fees associated with maintaining the membership database/management, public building compliance costs, and event expenses associated with public building compliance
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Stu      |
+| Status      | Accepted |
+
+Action Items
+
+| Action Items | Who      |
+|--------------|----------|
+| Update wiki  | Fletcher |
+
+------------------------------------------------------------------------
+
+### Membership Class Modification: Resident Artist
+
+Had a decent conversation with Danny (outgoing artist) about his time at the space and conferred with several Artifactory trainers and NM stakeholders. It can take a month to get settled in the space. A month to plan and build your first small project. A month to start planning but not finish your larger work. If people are doing cool stuff or are a significant positive influence on the space we should be able to extend their membership.
+
+**Motion**
+
+Change the membership time from:
+
+    The membership lasts for a period of 3 month.
+
+to:
+
+    The membership lasts for a period of 3 months by default. The Management Committee may opt to extend this period up to a 
+    maximum of 6 months if they believe it is in the best interests of the association and the member.
+
+| Moved By    | Fletcher |
+|-------------|----------|
+| Seconded By | Stuart   |
+| Status      | Accepted |
+
+Action Items
+
+| Action Items                      | Who      |
+|-----------------------------------|----------|
+| Update website                    | Fletcher |
+| Update wiki                       | Fletcher |
+| Inform membership via Slack/Email | Fletcher |
+| Inform NM community               |          |
+
+------------------------------------------------------------------------
+
+### Membership Class: Feedback
+
+Right now we have one artist membership class. We should add more so that we can expand our reach into other creative communities and broaden our community support efforts. For best effect any artist membership classes we create should also come with the opportunity to display their work.
+
+-   How do people feel about a visual artist residency?
+-   Suggestions
+
+```{=html}
+<!-- -->
+```
+       * Grants
+       * Feedback generally positive
+
+------------------------------------------------------------------------
+
+### COVID-19
+
+<s>How is the space preparing/adapting for the coming months? (Brainstorming session)</s>
+
+Changed to:
+
+### Emergency Business
+
+New policies in response to COVID-19
+
+**Motion** Accept [COVID-19 emergency measures](https://wiki.artifactory.org.au/lib/exe/fetch.php?media=artifactory_covid-19_response_v1.1.pdf) proposed by Fletcher
+
+| Moved By    | Stuart   |
+|-------------|----------|
+| Seconded By | Vincent  |
+| Status      | Accepted |
+
+Action Items
+
+| Action Items                         | Who                                   |
+|--------------------------------------|---------------------------------------|
+| Implement Covid19 emergency measures | Fletcher, Steve and allocated members |
+
+## End of Meeting
+
+Remember to set **next meeting time** before closing meeting!
+
+-   Next meeting: Sat 28th 6pm, (Online, first test of teleconferencing)
+
+## Action Summary
+
+-   Rehearsal Room Coordinator appointment
+    -   Provide admin access to as required (JM)
+    -   Set up band membership notifications (Fletcher)
+-   Update the Artifactory Expenses By-Law
+    -   Update Wiki (Fletcher)
+-   Membership Class Modification: Resident Artist
+    -   Update website (Fletcher)
+    -   Update wiki (Fletcher)
+    -   Inform membership via Slack/Email (Fletcher)
+    -   Inform NM community
+-   New policies in response to COVID-19
+    -   Implement Covid19 emergency measures (Fletcher, Steve and various members)

@@ -1,0 +1,209 @@
+---
+title: Committee Meeting 2016.05.14
+description: 
+published: true
+date: 2022-10-19T09:48:08.812Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:04:10.132Z
+---
+
+## Committee Meeting 2016.05.14
+
+## Agenda
+
+-   Are we happy with the current Artifactory brand? - Is there an issue with it looking like the Avenger's 'A'.....Our logo is a closer resemblance to the 1868 Spanish anarchists logo A in a circle. \*\*SKotM: Australia has "Artifactory". We are "Perth Artifactory" TimG Research: <https://en.wikipedia.org/wiki/Anarchist_symbolism#Circle-A> \*\* \*\* Committee opinion is that nothing is required.\*\*
+
+```{=html}
+<!-- -->
+```
+-   VOIP Phone **General consensus is that it's not required. Lemming tried a few times, doesn't always work** **Action: StuartM to ask Mitch to remove** JamesS asks: Can I use it call 000. Lemming: Yes, but not reliable. Alt solution, plug an old phone into landline for emergency calls. MegT: We should figure out what we want first, then find a solution. Other discussion items: Landline, old mobile with SIM chained to a wall, Hold off to NBN. **Consenus: Do nothing until NBN**
+
+```{=html}
+<!-- -->
+```
+-   Webcam and Wiki pages keep occasionally being inaccessible \*\* NickB: Caused by Dynamic DNS. Consusus: Do nothing until NBN\*\*
+
+### Previous Action Items
+
+    *ACTION: SKoT to get prospectus to StuartM for ACNC/Cultural org. registration ongoing **ONGOING**
+    *ACTION: StuartM to sort our NM and Space t-shirts ongoing One-off t-shirt vendor located in Brisbane. **Done**
+    *ACTION: Lemming - BNE Hackerspace premises situation. Lemming to write up and send to committee **BNE have a peppercorn+rates lease until industrial area has been gentrified Lemming asking if they have contacts over here **
+    *ACTION: SKoTM to post to list re current process for reporting dangerous things Wiki updated. Incidents eg Use of spraypaints/solvents has informed the grey areas in the process **Wiki entry done. To be posted out**
+    *ACTION: SKotM to form subcommittee to work up a draft for next meeting for dangerous or stupid activities/removing people from the space **Not Done**
+    *ACTION: TimG to Add calendar link and remove shop link **Done**
+    *ACTION: SKotM to post to list about resin, paints etc on workbenches, and the importance of using drop sheets. **Not done**
+    *ACTION: MitckK to investigate officeworks printing of (RFID?) membership cards **Not done** SKoTM to take on.
+    *ACTION: SKotM to review membership list. **Done**
+    *ACTION: StuartM - Form Subcommittee with Dave to Come with a plan to remove lockers and replaced with tubs **Not done** StuartM to take on solo. **Not done**
+    *ACTION: SKoT to contact RGL * We can apply for a Permanent Liquor License as "Restricted Club" ~ $400.  RGL may be have veto over our constitution, SKoT to contact RGL and determine exact requirements **SkotM: We should secure lease/talk to Landlord **
+    *ACTION: SKotTM* Door 1.5 has a solar panel, but it may not be secured. We should investigate the state of the roof prior to wind and rain.**Not done**
+
+### Additional Agenda Items
+
+## Minutes
+
+### Members Present
+
+-   Present: SKotM, MegT, SKoTM NickB, SteveH, TimG
+-   Apologies: JM
+-   Absent:
+-   Observing: Lemming, James Sim.
+
+### Meeting Times
+
+-   Opened: 11:30
+-   Closed: 12:45
+-   Next meeting: 11th June 11:00AM
+
+### Minutes of previous meeting
+
+| Status      | Accepted/Rejected |
+|-------------|-------------------|
+| Moved By    | Nick              |
+| Seconded By | Stuart            |
+
+### Correspondence
+
+-   Curtin Pedal guys **Have paid, waiting to hear back re when they want to start etc**
+-   Swancon have agreed to pay \$1200 as advance hire for sound system for next two years. **Perth Artifactory sound systems (3 amps, 2xPA tops, 2 subs, 3 mixers, assorted mic stands and cables.)**
+-   SKotM has spoken with a local VC investor. He's backed local games companies. View to a city location/incubator.
+
+### Property Report
+
+-   The flow of rain is being observed. The Sump pump out the front has been glued again, so hopefully we'll avoid flooding out the front. **No more reports of flooding**
+-   Dan's plumbing explorations - there is a septic, where is unknown, soakwells get OK from Don - WINTER READINESS in general. \*\*Verbal OK from Don. SKotM suggests we ask for a rent-free period during lease negotiations, where we do all the work re soakwells, hot water etc etc. \*\*
+-   Alex keen to run welding workshops, so perhaps use to finish bars for windows. **No movement**
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   Working on bylaws around member refusal to stop doing a (suspected) dangerous thing. See action item.
+-   Proposal:
+
+#### Treasurer's Report
+
+|                      | 30/04/2016 | 31/03/2016 |
+|:--------------------:|------------|------------|
+|     NAB Balance      | \$6553.61  | \$7526.11  |
+| Estimated Bond Value | \$6735     | \$6630     |
+
+| REVENUE                                                         | Last Month  | 6 Month Average |
+|-----------------------------------------------------------------|-------------|-----------------|
+| Membership                                                      | \$4155      | \$4756          |
+| Space Cash (Events/Venue hire/drinks/tool fees/day users/other) | \$1143      | \$748           |
+| Grants/Prizes                                                   | \$0         | \$266           |
+| TOTAL REVENUE                                                   | **\$5298**  | **\$5769**      |
+| EXPENSES                                                        |             |                 |
+| Lease (Paid due date for coming month)                          | -\$3993     | -\$3993         |
+| Electricity                                                     | -\$499      | -\$482          |
+| Waste/Internet/Welding Supplies                                 | -\$334      | -\$326          |
+| Insurance (12 month average)                                    | -\$1890     | -\$158          |
+| TidyHQ/Bank Charges                                             | -\$105      | -\$79           |
+| Merchant Fees                                                   | -\$80       | -\$40           |
+| TOTAL EXPENSES (Excluding Equipment)                            | **-\$6874** | **-\$5104**     |
+| Equipment Purchases\*                                           | \- \$440    | \- \$348        |
+
+\*3 Trestles+Power boards/cables lasers+minor tools \$154, Lathe Tools \$268, Padlock \$18
+
+Major Events/Other
+
+    *Noizemaschin ~$215, Mod Synth, ~$177
+    *Swancon hired Sound gear Paid $300
+
+Money Due (10/05)
+
+    *Swancon 2017/18 - $1200
+    *Curtin HPV - $500
+    *Membership - ~$3665 (Up a grand on last month)
+    *ADUG - $141
+    *Bond - $225
+
+Treasurer Cancelled Membership - J Mooney - 3 months due. No response.
+
+**NO FUNDS CURRENTLY AVAILABLE FOR FURTHER EQUIPMENT PURCHASES**
+
+#### Membership Officer Report
+
+-   MEMBERSHIP (10/05)
+    -   Approval of New Members - Conc = Sylvain Esclapez, Full = Mike Stewart, Steffan Hoffman **All for. Approved**
+
+```{=html}
+<!-- -->
+```
+-   1 Full Members with Tool Usage,
+-   35 (-2) Full Members;
+-   16 (+3) Concession Memberships;
+-   1 Studio Memberships
+-   1 Sponsored Memberships
+-   1 Studio Office Memberships (For 2 Members)
+-   6 Band Memberships
+
+#### Events Officer Report
+
+-   Previous
+    -   Open Day **Great**
+    -   Noizemaschin **Also a good one**
+    -   DIY Synth **Huge! Consider more tables/chairs/soldering irons/Lighting**
+-   Upcoming
+    -   NM
+    -   Regular events - Wine & Design, Arduino U, General hacking day.
+
+### Sub-Committee Reports
+
+    *ACTION: List of subcommittes and mailing lists **NickB to update wiki with details**
+
+**Laser Subcommittee**
+
+    *ACTION: Laser Subcommittee - Checklist above laser cutter bigger & investigate 240v level relay logic thing. See infrastructure/laser report ** Ongoing **
+    *ACTION: SKotM: Officeworks for whiteboard, get extension cords and have everything in one place. **Done**
+    *ACTION: Check bearing on little red's fan. ** Not Done**
+    *ACTION: Interlocks etc continues. **Ongoing**
+    *DaveO reports non approved plastics **Action: Do-not-cut Sign above laser cutters **
+
+**IT Subcommittee**
+
+    *ACTION: DaveO refer to IT subcommitte for technical solution to pinging members before their membership expires **Not Done**
+
+-   Door 1.6 released - Now checks cardlist. Roadmap on [GitHub](https://github.com/Perth-Artifactory/doorbot/issues)
+-   Routine Patching of VMs
+-   Central logging -\> core
+-   webcam page fixed (where poss)
+-   TODO LIST:
+    -   Tidy and label patching (re-enable office outlets?)
+    -   IP address reshuffle to make things more logical
+    -   Move critical services onto router (can then be UPSd if desired)
+    -   [Self-Service Kiosk for members](/projects/selfservicekisok)
+    -   Purchase external HDD for Disaster Recovery backup
+-   Reminder to mail any changes to the artifactory-it mailing list
+-   IRC Channel \#artifactory on freenode resurrected - Will promote to members
+
+**Infrastructure Subcommittee**
+
+-   [Infrastructure subcommittee meeting 20160427](/subcommittee/infrastructure_meeting_2016.04.27)
+
+```{=html}
+<!-- -->
+```
+    *ACTION: SKoTM - Solar Panels 5KW for $5000 or so, can lease for ~$150pm.
+    *ACTION: Skot/Lemming to come up with a swarf-o-mat report of tooling and fixes required. **Lemming: Gecko drivers are roughly $500 **
+    *ACTION: StuartM - Area Tidy Hosts signs for Lasers and CAD room point of contacts changed to email addresses of the Laser-Subcommittee and IT-Subcommittee [[tidyspace:|Tidy Space]] [[areahosts:|AREA HOSTS]]
+    *ACTION: SKoTM to wrangle a new sign, to get a cost to Treasurer, and vector files to sign maker
+    * Bandsaw - roughly $500. **Broad approval. StuartM: No cash right now**
+
+**Security Subcommittee**
+
+-   Yet to Meet.**SKot to action - call for meeting**
+
+### Agenda Items
+
+### General Business
+
+Motion: StuartM Moves we co-opt Lawrence Dixon onto committee. NickB Seconded. Noone against. **Carried** **Action: NickB to add Lawrence to groups etc.**
+
+SteveH has completed Laser safety training and is willing to put hand up for LSO. \*\*Action: Steve to add his LSO status to the wiki page. \*\* Steve: there's a risk of beam exposure through grille at front and recommends we build a cowl over the vent.
+
+### ACTION Items Resulting
+
+ACTION: Check bearing on little red's fan. Not Done ACTION: Interlocks etc continues. Ongoing Action: DaveO(?)Do-not-cut Sign above laser cutters ACTION: DaveO refer to IT subcommitte for technical solution to pinging members before their membership expires Not Done ACTION: SKoT to call for Security subcommttee meeting ACTION: NickB to add Lemming to -ctte groups ACTION: SteveH to add his LSO status to the wiki page

@@ -1,6 +1,13 @@
 ---
-title: "Hafco Metalmaster AL-50GA Metal Lathe"
+title: Hafco Metalmaster AL-50GA Metal Lathe
+description: 
+published: true
+date: 2022-10-19T10:07:01.250Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:58:29.304Z
 ---
+
 # Hafco Metalmaster AL-50GA Metal Lathe
 
 <img src="/tools/al-50ga.jpg" class="align-left" alt="al-50ga.jpg" /> The metal lathe is the first tool purchased by communal funds at the Artifactory. Members are responsible for providing tooling and safety equipment for use with the lathe, there is currently a small selection of communal tooling with the lathe but regular users will want to acquire their own tooling.  

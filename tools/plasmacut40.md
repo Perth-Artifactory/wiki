@@ -1,6 +1,13 @@
 ---
-title: "Plasma Cutter"
+title: Plasma Cutter
+description: 
+published: true
+date: 2022-10-19T10:07:45.134Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:59:29.493Z
 ---
+
 # Plasma Cutter
 
 **UNFORTUNATELY THE ARTIFACTORY NO LONGER HAS A PLASMA CUTTER.**

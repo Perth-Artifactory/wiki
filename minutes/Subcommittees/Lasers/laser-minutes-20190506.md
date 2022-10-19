@@ -1,0 +1,27 @@
+---
+title: Laser Subcommittee Meeting 2019-05-06
+description: 
+published: true
+date: 2022-10-17T16:28:15.941Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:28:10.153Z
+---
+
+# Laser Subcommittee Meeting 2019-05-06
+
+-   Attendees: FletcherB, NickB, BlakeS
+
+```{=html}
+<!-- -->
+```
+-   LC1290 Big Red
+    -   Clean&re-grease rails ( <https://www.3inone.com/> drip oil )
+    -   New PSU should be good to max WA grid? Move stepdown autotransformer to Kellogg
+-   LG500 Little Red
+    -   Clean&re-grease rails
+-   Kellogg
+    -   PSU requires stepdown autotransformer to start - moved from LC1290
+    -   Using non-refrigerative CW-3000 chiller for testing
+    -   Set test pulse in laser settings menu
+    -   Test alignment

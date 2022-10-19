@@ -1,6 +1,13 @@
 ---
-title: "musicalcoildriver"
+title: musicalcoildriver
+description: 
+published: true
+date: 2022-10-19T10:02:25.490Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:53:18.419Z
 ---
+
 Related Projects: [Arcophone](arcophone) \| [Jacob's ladder](jacobs_ladder)
 
 # Musical Coil Driver

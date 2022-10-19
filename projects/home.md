@@ -1,6 +1,13 @@
 ---
-title: "Artifactory Projects"
+title: Artifactory Projects
+description: 
+published: true
+date: 2022-10-19T10:01:02.630Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:51:23.630Z
 ---
+
 # Artifactory Projects
 
 ## Ongoing or Planned

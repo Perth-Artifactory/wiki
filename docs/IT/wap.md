@@ -1,6 +1,13 @@
 ---
-title: "WAP"
+title: WAP
+description: 
+published: true
+date: 2022-10-19T10:10:22.567Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:44:26.018Z
 ---
+
 # WAP
 
 Wireless Access Point

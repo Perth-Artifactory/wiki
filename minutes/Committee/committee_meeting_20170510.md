@@ -1,0 +1,284 @@
+---
+title: Committee Meeting 2017.05.10
+description: 
+published: true
+date: 2022-10-19T09:50:28.076Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:07:04.667Z
+---
+
+# Committee Meeting 2017.05.10
+
+## Agenda
+
+1.  Usual business
+    1.  Acceptance of last meeting's minutes
+    2.  Correspondence
+    3.  Property
+    4.  Chairman's report
+    5.  Treasurer's report
+    6.  Other officer's/Event Coordinators reports
+    7.  Subcommittee reports
+    8.  Area Host reports
+    9.  Swan Community Workshops
+2.  Other business
+    1.  Any expenses/For reimbursement
+    2.  Dan Exit
+    3.  Improving
+
+```{=html}
+<!-- -->
+```
+      - 
+      - 
+      - 
+    - Review of Action Items
+
+### Agenda Items
+
+## Minutes
+
+### Members Present
+
+-   Present: LEM MK Tanner NB STU
+-   Apologies: Steve
+-   Absent: JM, Russell
+
+### Meeting Times
+
+-   Opened: OPEN Wednesday 20170510-2040
+-   Closed: CLOSE Wednesday 20170510-2220
+-   Next meeting: NEXTMEETING, 4 weeks, Wednesday 20170607-2000
+
+### Minutes of previous meeting
+
+| Status      | Accepted/Rejected |
+|-------------|-------------------|
+| Moved By    | PM-MOVER LEM      |
+| Seconded By | PM-SECONDER HRF   |
+
+1 abstain, 3 yes, 1 no NB questioned accuracy of the minutes concerning dispute and censure
+
+### Correspondence
+
+-   CORRESPONDENCE
+-   Nothing major
+-   ECU sent thank note regarding Arduino evening the were very happy and hope to continue with events in the future
+-   SwanCon happy with hiring gear
+-   E-mail from swapcard - not worth chasing
+-   Perth review video made which Lemming being interviewed; videos were out of focus, Lemming may send stills
+-   Hayley wants another cos-play workshop Monday 20170515
+-   Mike O'Hanlon 220 Pier street property, no discussion on price or Sq-m area 2400sq m lots that
+-   Lots of good feedback from our May Open Day, Saturday 20170506
+-   Address being changed for ATO
+
+### Property Report
+
+-   PROPERTY
+-   Don fixed the Tap out the back, (LEM says no leaks inside)
+
+```{=html}
+<!-- -->
+```
+    * 
+
+### Officer Reports
+
+#### Chairperson's Report
+
+-   CHAIRPERSON
+-   Good month 25 people at the open day
+-   2 new members
+
+### Treasurer's Report
+
+|                         | 30/04/2017     | 31/03/2017     |
+|:-----------------------:|----------------|----------------|
+|       NAB Balance       | \$4489.26      | \$4109.32      |
+| Pending TidyHQ / eftpos | \$148.77       | \$264.26       |
+|     Guthrie St Bond     | \$6000         | \$6000         |
+|         Balance         | **\$10638.03** | **\$10373.58** |
+
+\^
+
+| Quarantined Funds                     |
+|---------------------------------------|
+| Estimated RFID Key Members Bond Value |
+| For Insurance 18/19                   |
+| Amount Owed on Sound Equipment        |
+| DESIRED BALANCE                       |
+
+\^
+
+|                                 | 30/04/2-17 | 31/3/2017 |                                    |
+|:-------------------------------:|------------|-----------|------------------------------------|
+| Sound Equipment Funds Collected | \$2705     | \$2705    | Collected in Full - REFUND SKOT??? |
+
+| REVENUE                                                         | Last Month | 12 Month Average |
+|-----------------------------------------------------------------|------------|------------------|
+| Membership                                                      | \$3985     | \$4141           |
+| Space Cash (Events/Venue hire/Snacks/tool fees/day users/other) | \$1369     | \$1255           |
+| Grants/Prizes/Donations/Fundraising                             | \$0        | \$76             |
+| TOTAL REVENUE                                                   | **\$5345** | **\$5472**       |
+
+\^
+
+| EXPENSES                                         |             |             |
+|--------------------------------------------------|-------------|:-----------:|
+| Lease+Estimated Variable Outgoings               | -\$4224     |   -\$4224   |
+| Electricity (bimonthly)                          | -\$661      |   -\$333    |
+| Insurance (12 month average)                     | -\$0        |   -\$114    |
+| Waste/Internet/Welding Supplies                  | -\$285      |   -\$270    |
+| Merchant Fees (bimonthly sometimes)              | -\$40       |    -\$40    |
+| TidyHQ/Bank Charges                              | -\$87       |    -\$91    |
+| TOTAL EXPENSES (Excluding Equip/Fundraising Exp) | **-\$5297** | **-\$5073** |
+
+\^
+
+| Fundraising Expenses# | -\$0     | \$0    |
+|-----------------------|----------|--------|
+| Equipment Purchases\$ | -\$18.67 | -\$442 |
+
+Mousetrap \$18.67
+
+Major Events/Other (Past Month)
+
+    *ADUG - $80
+    *Noizemaschin ~$470
+    *ECU ~$30
+    *Mod Synth ~$390
+    * **Cosplay ~$ was there any in April?**
+
+Money Due (12/04)
+
+    *Membership - ~$4845 steady on last months 
+    *PCs - $20
+    *Curtin Pedal Prix $500
+    *KickstART $400
+    *Tool Usage $96
+
+#### Membership Report
+
+20170510
+
+-   31 (+2) Full Members;
+-   15 (+2) Concession Memberships;
+-   1 (0) Studio Office Memberships (For 2 Members)
+-   5 (0) Band Memberships
+
+```{=html}
+<!-- -->
+```
+-   Memberships for Cancellation for Non-Payment (+90 days due) - Stefan Hoffman
+
+MOVED: Stu SECONDED: Lem
+
+-   **Approve / Disapprove** of New Members since last meeting -
+    -   CONCESSION - Ben McCarthy, Ho Ho, Cyra Locsin
+    -   FULL - Ben Hogan, Siavash Noorbakhsh, Andrew Leitch
+    -   BAND -
+
+Lockers: No List so far from Steve, Russell not seen lately who was labelling them
+
+MOVED: Stu SECONDED: LEM
+
+### Other officer's reports
+
+Tanner asking on behalf of James from Sunshine Punch to do a 2-band membership 3 rehearsals a month believes the rehearsals will be consecutive on the same day -
+
+LEM: Can Tanner talk to bands about more gigs here? (Capacity 50 but with prior notice can expand to 100 by hiring portaloo)
+
+#### Promotions Officer
+
+#### Fundraising JMM/StM
+
+1.  Stu will redo figures for JM and Jason's report (doing latest month)
+
+#### Event Coordinators Report
+
+      * NoizeM - (Coordinators SM, TG, JMM, Skot, Meg)  most $ due to Blazing Swan 
+        
+      * Arduino U - (Coordinators Hugh, Doug)
+      
+      * DIY Synth - (Coordinator Lem) 31 non members Dave Faleti cut 12 cases, LEM: can look at pre-made cases. Noize Machin for DIY Synth coming up, STU talking changing dates due to conflicts, Dan moving out may free up space for ADUG and prevent conflicts
+         
+      * Open Day - (Coordinator Steve), lots of people, LEM guiding 10 people at one stage, created new memberships from it.
+
+      * ADUG(WA) - (Coordinator Richard Harrington, sometimes Nick) Scott Hollows is secondary contact but need Artifactory member to get the money and organise
+        * April meeting paid for 9 day members + Richard (monthly subscription)
+        * This month is ADUG National conference on their usual third-Tuesday slot, meeting moved to Tuesday 20170523: penciled in
+
+      * Cosplay - **15th May yet to be added to calendar**(Coordinator Lem) Hayley brings tools and just needs tables setup
+
+      * Other Events
+
+### Sub-Committee Reports
+
+Laser Committee had a meeting
+
+      * NB stepped down as secretary and Jim is now secretary
+      * http://wiki.artifactory.org.au/doku.php?id=subcommittee:laser-minutes-20170503
+      * Lemming suggested 2x 50.8 lenses for part order
+      * MK: Maintenance Training should not be done unless a laser safety officer is presence
+      * Lemming: restrict number of Maintainers
+      * NB: no need to discuss this in this meeting
+      * Have 3 safety officers 
+      * STU: defer the topic?
+      * MK: look into legal requirements, thinks LSO is required for some maintenance actions
+      * STU: proposed to defer until radiation safety authority council documentation is available MK to get information  LEM: Seconded
+      * STU: to consult with Steve as 3rd LSO
+      * LEM: if the lens is the changed, an announcement needs to go out on the mailing list MK Jims responsibility
+      * STU: Lasercutter is making good $
+       
+
+IT sub committee
+
+     * LEM wants 1 person as arbiter of decisions
+     * LEM wants equipment cost for servers and UPS on grant
+       * Door access required manual intervention due to power outage
+     * Committee disbanded subcommittee (6c of previous minutes) due to inactivity
+     * LEM to write up and propose his preferred rules for IT Committee
+
+Infrastructure
+
+     * Got a mouse in the mouse trap
+
+### Agenda Items
+
+     * There are no expenses requiring re-imbursement
+
+### General Business
+
+     *LEM investigating Bamboo ply sheets
+     *STU Dan exit, looking for new member/tenants, alternatively double efforts on relocation
+     *MK People cut PVC on laser cutter.
+     *MK 1TB drive is on the server archive \nvr2 in unison, individual account can mean settings are lost so use artifactory committee account 
+     *LEM NoizeMachin!! residency Proposes offering to Claude. Free Membership for 3 month. 
+     *Every 3 months the Artifactory kindly allows a panel-selected Audio Artist 3 months membership, with guaranteed NM performances slots.  The Artist is to build whacky things or engage with the Artifactory in some way, and demonstrate their inventions at NoizeMachin!!.
+
+### ACTION items
+
+#### Resolved
+
+#### New (arising from this meeting)
+
+#### Ongoing
+
+ACTION (HF) to investigate arduino parts and stuff for courses & syllabus **Work in progress**
+
+ACTION (Subcommittees) to ask for people interested in subcommittees **Ongoing**
+
+ACTION (TG) - Manipulation of the history of core mailing list. (not yet done) Can someone else do it?
+
+ACTION: Nick to decide what is needed for laser cutters and to get prices for next meeting. **To do**
+
+ACTION: (JK) - Finish Grant
+
+ACTION: (MK) - acrylic sheets
+
+     * all decent sheets had been taken so not worth it
+
+ACTION: RFID for office
+
+ACTION: Vending Machine (MK)

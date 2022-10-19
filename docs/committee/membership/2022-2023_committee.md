@@ -10,14 +10,13 @@ Office Bearers
 -   [Chair](Chairperson): Beau Scott
 -   Deputy Chair: Vincent Dalstra
 -   [Secretary](Secretary): Phoebe Harris
--   [Treasurer](Treasurer): Ben Conner
+-   [Treasurer](Treasurer): Ben Connor
 
 Ordinary Committee Members
 
 -   Deputy Secretary: Lewis Yip
 -   Deputy Treasurer: Fletcher Boyd
 -   Ordinary Committee Member: Johannes Chuah
--   Ordinary Committee Member: Vincent Dalstra
 -   Ordinary Committee Member: Joshua Rospondek
 -   Ordinary Committee Member: Vacant
 -   Ordinary Committee Member: Vacant

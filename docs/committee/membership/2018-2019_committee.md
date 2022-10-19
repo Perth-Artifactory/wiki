@@ -1,6 +1,8 @@
 ---
-title: "2018-2019_committee"
+title: "2018 - 2019 Committee"
 ---
+#2018 - 2019 Committee
+
 Elected 15th of September 2018 Office Bearers
 
 -   [Chair](Chairperson): Iain Graham (Appt 25/5/19) // - - - - - - Lawrence Dixon (Lemming) (prior)//

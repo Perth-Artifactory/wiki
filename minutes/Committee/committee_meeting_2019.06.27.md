@@ -1,6 +1,0 @@
----
-title: "committee_meeting_2019.06.27"
----
-Page added with the wrong month.
-
-<https://wiki.artifactory.org.au/doku.php?id=committee:committee_meeting_2019.07.27>

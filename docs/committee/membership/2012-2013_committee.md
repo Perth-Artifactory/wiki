@@ -1,6 +1,8 @@
 ---
-title: "2012-2013_committee"
+title: "2012 - 2013 Committee"
 ---
+# 2012 - 2013 Committee
+
 Elected 8th September 2012
 
 -    Chair: Nick Bannon (NB)

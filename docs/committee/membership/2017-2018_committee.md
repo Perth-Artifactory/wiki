@@ -1,6 +1,8 @@
 ---
-title: "2017-2018_committee"
+title: "2017 - 2018 Committee"
 ---
+# 2017 - 2018 Committee
+
 Elected 30th of September 2017
 
 -   Chair: Lawrence Dixon - “Lemming” (LEM)

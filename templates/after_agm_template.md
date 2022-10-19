@@ -1,7 +1,7 @@
 ---
-title: "COMMITTEE MEETING 20xx.xx.xx - POST AGM"
+title: "Committee Meeting - yyyy-mm-dd - Post AGM"
 ---
-# COMMITTEE MEETING 20xx.xx.xx - POST AGM
+# Committee Meeting - yyyy-mm-dd - Post AGM
 
 # Agenda
 

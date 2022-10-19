@@ -1,7 +1,9 @@
 ---
-title: "2021-2022_committee"
+title: "2021 - 2022 Committee"
 ---
-Elected ??th of September 2021 Office Bearers
+# 2021 - 2022 Committee
+
+Elected 18th of September 2021 Office Bearers
 
 -   [Chair](Chairperson): Beau Daley
 -   Deputy Chair: Fletcher Boyd

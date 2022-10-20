@@ -26,7 +26,7 @@ C. Any 20% of the ordinary members (being members entitled to vote under these r
 
 D. Any 4 committee members constitute a quorum for the conduct of the business of a committee meeting.
 
-E. The association’s financial year will be the period of 12 months commencing on 1st July and ending on 30th June of each year.
+E. The Association’s financial year will be the period of 12 months commencing on 1st July and ending on 30th June of each year.
 
 ## PART 1 - PRELIMINARY 
 
@@ -89,7 +89,7 @@ The Purpose of the Association is to encourage and facilitate creative use of te
 
 ### 3 Financial year
 
-The association’s financial year will be the period of 12 months commencing on 1st July and ending on the 30th June each year.
+The Association’s financial year will be the period of 12 months commencing on 1st July and ending on the 30th June each year.
 
 ## PART 2 — ASSOCIATION TO BE NOT FOR PROFIT BODY
 
@@ -439,8 +439,8 @@ A member becomes a committee member if the member —
 
 ### 35 Election of office bearers
 
-* 35.1 The office bearers of the association are determined by the elected committee after the annual general meeting.
-* 35.2 The newly elected Committee must decide by vote on office bearers of the Association and any other officers/roles for the association
+* 35.1 The office bearers of the Association are determined by the elected committee after the annual general meeting.
+* 35.2 The newly elected Committee must decide by vote on office bearers of the Association and any other officers/roles for the Association
 * 35.3 If there is no nomination for a position, the chairperson of the meeting will appoint a member.
 * 35.4 If only one member has nominated for a position, the chairperson of the meeting must declare the Member elected to the position.
 * 35.5 If more than one committee member has nominated for a position, the committee members at the meeting must vote by secret ballot.
@@ -770,7 +770,7 @@ The funds of the Association may be derived from entrance fees, subscriptions, d
 
 ### 65 By-laws
 
-* 65.1 The committee shall have the power to make, alter and rescind any by-laws that it considers necessary for the effective administration of the association, provided that no by-law may be inconsistent with the rules of association.
+* 65.1 The committee shall have the power to make, alter and rescind any by-laws that it considers necessary for the effective administration of the Association, provided that no by-law may be inconsistent with the rules of association.
 * 65.2 The Association may, by resolution at a general meeting, make, amend or revoke by-laws.
 * 65.3 By-laws may —
   * 65.3.a provide for the rights and obligations that apply to any classes of membership approved under rule 8; and

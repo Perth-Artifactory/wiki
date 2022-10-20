@@ -1,6 +1,13 @@
 ---
-title: "Milling Machine"
+title: Milling Machine
+description: 
+published: true
+date: 2022-10-20T12:37:10.771Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:58:58.322Z
 ---
+
 # Milling Machine
 
 ## Summary
@@ -70,31 +77,33 @@ The **key risk mitigation measures** in place are:
 
 ## Authorised Users
 
-|                |
-|----------------|
-| Ben            |
-| Kamil          |
-| Guy            |
-| Dave Madgewick |
-| Glynn          |
-| Aron Spencer   |
-| Steve          |
+* Ben Connor
+* Kamil Seda
+* Guy
+* Dave Madgewick
+* Glynn Jones
+* Aron Spencer
+* Steve Hodges
+* Branden Ross
+* Tom White
+* Bruce Chambers
+* Alasdair Penman
 
 ## Usage Policies
 
-#### Access to the machine
+### Access to the machine
 
 Access to the machine is available to Artifactory members only. New users will need to complete a training / familiarisation session (see the [Milling Machine Training](Milling Machine Training) page), and then at a later date use the machine under supervision. Upon satisfactory completion of those requirements, the user will be given the combination to the tool cabinet and isolator and will be able to use the machine without supervision. Access remains at Ben's discretion (in addition to the usual Committee discretion) and can be revoked at any time.
 
-#### Costs
+### Costs
 
 The cost to use the machine is \$5.00 per hour for Artifactory members and \$10.00 per hour for others, applicable to both setup and machining time and payable to the Artifactory. Bank transfers should be referenced "MILL" followed by your surname.
 
-#### Tooling
+### Tooling
 
 The artifactory maintains a small selection of mill tooling (end mills and slot drills) that are stored on the bench and are available to all users. Breakage of / damage to this tooling is covered by the usage fee. Privately-owned tool holders kept in the tooling cabinet are generally available to all users, but their consumables (carbide inserts, saw blades etc) are subject to agreement with the owner, such as a small cash contribution. Users may want to purchase their own high-use consumables (e.g. end mills) and are welcome to add insert tooling to the privately-owned collection (this adds the potential for reciprocal use agreements).
 
-#### Damage / breakage
+### Damage / breakage
 
 Breakage of or damage to the machine or accessories is generally expected to be paid for by the person that did the breaking. Exceptions would include wear and tear, or machine failures unrelated to use.
 
@@ -105,7 +114,7 @@ At present the machine is operational but two of machine functions are limited p
 
 ## General Instructions for Use
 
-#### 1. Don’t hurt yourself or others
+### 1. Don’t hurt yourself or others
 
 -   Long hair to be tied back. No loose clothing or jewellery is to be worn  
     \* Operating the machine requires the operator’s full attention. Minimise distractions (this includes from 'helpers') and stop work if necessary.  
@@ -121,7 +130,7 @@ At present the machine is operational but two of machine functions are limited p
     \* Don’t try to clear swarf with your hands. That stuff is sharp!  
     \* Always be ready to activate the emergency stop, and don’t hesitate to use it.  
 
-#### 2. Don't hurt the machine (or accessories)
+### 2. Don't hurt the machine (or accessories)
 
 -   This mill was once in daily use and has survived to this point without any operator accidentally running a tool into the table. Don't be the first.  
     \* Ensure the ways, spindle taper and tooling are kept free of swarf. Clean swarf with a brush / t-slot scraper / vacuum cleaner. Using compressed air to clean the machine should be done with caution to avoid driving swarf into places you don’t want it, on the machine or on your person.  
@@ -133,7 +142,7 @@ At present the machine is operational but two of machine functions are limited p
     \* Use appropriate tooling for the job you are doing.  
     \* Treat precision accessories gently and only use them in ways consistent with their intended purpose. This includes all tool holding, work holding and measuring accessories.  
 
-#### 3. Be a considerate tool user
+### 3. Be a considerate tool user
 
 -   Clean up after yourself. Vacuum or sweep up swarf, including from on the floor.  
     \* Put away tools and accessories you have finished with.  
@@ -149,7 +158,7 @@ At present the machine is operational but two of machine functions are limited p
 
 Listed below are the accessories available to users:
 
-#### Work holding
+### Work holding
 
 | Item                             | Owner | Link |
 |:---------------------------------|:------|:-----|
@@ -160,7 +169,7 @@ Listed below are the accessories available to users:
 | V blocks                         | Ben   |      |
 | 4 and 6 sided ER40 collet blocks | Ben   |      |
 
-#### Tool holding
+### Tool holding
 
 | Item                         | Owner | Link |
 |:-----------------------------|:------|:-----|
@@ -171,7 +180,7 @@ Listed below are the accessories available to users:
 | 80mm slitting saw blades (2) | Ben   |      |
 | Boring bar set               | Kamil |      |
 
-#### Measuring and setup
+### Measuring and setup
 
 | Item                    | Owner       | Link |
 |:------------------------|:------------|:-----|

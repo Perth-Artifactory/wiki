@@ -1,8 +1,8 @@
 ---
-title: Constitution of the Perth Artifactory Inc.
+title: Constitution
 description: 
 published: true
-date: 2022-10-20T09:36:05.538Z
+date: 2022-10-20T09:38:52.193Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:46:18.038Z

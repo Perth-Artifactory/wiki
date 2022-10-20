@@ -174,7 +174,7 @@ The rights of a member are not transferable and end when membership ceases.
 * 12.3 All members must pay the membership fees on the schedule set by the Management Committee
 * 12.4 A member must pay the membership fee to the treasurer, or another person authorised by the committee to accept payments, by the date (the due date) determined by the committee.
 * 12.5 If a member has not paid the membership fee within the period of 3 months after the due date, the member ceases to be a member on the expiry of that period.
-* 12.6 If a person who has ceased to be a member under rule (12.5) offers to pay the annual membership fee after the period referred to in that rule has expired —
+* 12.6 If a person who has ceased to be a member under rule (12.5) offers to pay the appropriate membership fee relevant to their membership level after the period referred to in that rule has expired —
   * 12.6.a the committee may, at its discretion, accept that payment; and
   * 12.6.b if the payment is accepted, the person’s membership is reinstated from the date the payment is accepted.
 

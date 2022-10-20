@@ -1,7 +1,14 @@
 ---
-title: "Constitution of the Perth Artifactory Inc."
+title: Constitution of the Perth Artifactory Inc.
+description: 
+published: true
+date: 2022-10-20T09:36:05.538Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:46:18.038Z
 ---
-# Constitution of the Perth Artifactory Inc.
+
+# Constitution of Perth Artifactory Inc.
 
 \*\* A.    The name of the Association is: ** \* Perth Artifactory Inc. ** B.    The objects of the Association are: ** \* promote the creative use of technology; \* establish, maintain, and equip a shared work space for its members; \* provide work space, storage, and other resources for the creative and artistic use of technology; \* foster a collaborative, inclusive, safe, and creative environment for artistic and technological projects; \* educate and train its members in skills relevant to its objects; \* organise educational, social and cultural events to promote the creative use of technology; \* raise funds to support its other objects; \* communicate and collaborate with others with similar objectives. ** C.   Any 20% of the ordinary members (being members entitled to vote under these rules at a general meeting) will constitute a quorum for the conduct of business at a general meeting. ** ** D.   Any 4 committee members constitute a quorum for the conduct of the business of a committee meeting. ** ** E.    The association’s financial year will be the period of 12 months commencing on 1st July and ending on 30th June of each year. ** =====           PART 1 - PRELIMINARY ===== ==== 1         Definitions ==== \* In these rules, unless the contrary intention appears — ** Act **means the Associations Incorporation Act 2015; ** associate member \*\* means a member with the rights referred to in rule 8.4;
 

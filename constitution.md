@@ -170,8 +170,8 @@ The rights of a member are not transferable and end when membership ceases.
 ### 12 Membership fees
 
 * 12.1 The committee must determine the entrance fee (if any) and the period of the membership fee (if any) to be paid for membership of the Association.
-* 12.2 The membership fee and payment schedule will be fixed by the Management Committee, subject to review by the members at a general meeting
-* 12.3 All members must pay the membership fees on the schedule set by the Management Committee
+* 12.2 The membership fee and payment schedule will be fixed by the committee, subject to review by the members at a general meeting
+* 12.3 All members must pay the membership fees on the schedule set by the committee
 * 12.4 A member must pay the membership fee to the treasurer, or another person authorised by the committee to accept payments, by the date (the due date) determined by the committee.
 * 12.5 If a member has not paid the membership fee within the period of 3 months after the due date, the member ceases to be a member on the expiry of that period.
 * 12.6 If a person who has ceased to be a member under rule (12.5) offers to pay the appropriate membership fee relevant to their membership level after the period referred to in that rule has expired —
@@ -204,11 +204,11 @@ In this Part (Pt 4) — member in relation to a member who is expelled from 
 
 ### 15 Emergency Temporary Suspension
 
-* 15.1 In the event that the actions of a member pose an imminent risk to the Objects of the Association as defined by this Constitution any two members of the Management Committee may temporarily modify member rights.
+* 15.1 In the event that the actions of a member pose an imminent risk to the Objects of the Association as defined by this Constitution any two members of the committee may temporarily modify member rights.
 * 15.2 An emergency temporary suspension cannot be used to
   * 15.2.a modify the rights of a member in a way that prevents them from exercising their voting rights as defined by this Constitution.
-  * 15.2.b modify the rights of a member of the Management Committee in a way that prevents them from exercising their ability to vote as a member of the Management Committee.
-* 15.3 **Notice of Emergency Temporary Suspension** An initial notice must be provided verbally or in writing by an instigating Management Committee member. A written notice must be delivered to the suspended member and all members of the committee within 3 days and include -
+  * 15.2.b modify the rights of a member of the committee in a way that prevents them from exercising their ability to vote as a member of the committee.
+* 15.3 **Notice of Emergency Temporary Suspension** An initial notice must be provided verbally or in writing by an instigating committee member. A written notice must be delivered to the suspended member and all members of the committee within 3 days and include -
   * 15.3.a The rights being restricted    
   * 15.3.b The reason for the Emergency Temporary Suspension  
   * 15.3.c A summary of this section of the Constitution  
@@ -216,10 +216,10 @@ In this Part (Pt 4) — member in relation to a member who is expelled from 
   * 15.3.e A link to, or a copy of, this Constitution as a whole  
 * 15.4 **Length of Emergency Temporary Suspension** An Emergency Temporary Suspension under this section must not exceed 31 days from the date of initial notification.     
 * 15.5 Upholding and withdrawing an emergency temporary suspension 
-  * 15.5.a An emergency temporary suspension must be reviewed and can be modified, withdrawn or upheld at every subsequent meeting of the management committee where allowable under this constitution.
-  * 15.5.b Any two members of the Management Committee may choose to withdraw or modified an emergency temporary suspension unless that emergency temporary suspension has been upheld by a meeting of the Management Committee. Any changes can be delivered verbally but must also be sent via written notice within 3 days.    
+  * 15.5.a An emergency temporary suspension must be reviewed and can be modified, withdrawn or upheld at every subsequent meeting of the committee where allowable under this constitution.
+  * 15.5.b Any two members of the committee may choose to withdraw or modified an emergency temporary suspension unless that emergency temporary suspension has been upheld by a meeting of the committee. Any changes can be delivered verbally but must also be sent via written notice within 3 days.    
 * 15.6 Appealing an Emergency Temporary Suspension 
-  * 15.6.a A member subject to a emergency temporary suspension defined by this section may opt to provide a written appeal of reasonable length to the Secretary. The Management Committee must consider this appeal when considering the suspension.    
+  * 15.6.a A member subject to a emergency temporary suspension defined by this section may opt to provide a written appeal of reasonable length to the Secretary. The committee must consider this appeal when considering the suspension.    
 
 ### 16 Suspension or expulsion
 
@@ -360,7 +360,7 @@ The parties to a dispute must attempt to resolve the dispute between themselves 
 
 ### 28 Committee members
 
-* 28.1 The Management Committee must consist of at least 5 but not more than 10 members.
+* 28.1 The committee must consist of at least 5 but not more than 10 members.
 * 28.2 The following are the office bearers of the Association —
   * 28.2.a   the chairperson;
   * 28.2.b   the deputy chairperson;
@@ -505,7 +505,7 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 
 ### 42 Committee meetings
 
-* 42.1 The Management Committee will meet at least once every two months.
+* 42.1 The committee will meet at least once every two months.
 * 42.2 The date, time and place of the first committee meeting must be determined by the committee members as soon as practicable after the annual general meeting at which the committee members are elected.
 * 42.3 Special committee meetings may be convened by the chairperson or any 3 committee members.
 
@@ -770,7 +770,7 @@ The funds of the Association may be derived from entrance fees, subscriptions, d
 
 ### 65 By-laws
 
-* 65.1 The management committee shall have the power to make, alter and rescind any by-laws that it considers necessary for the effective administration of the association, provided that no by-law may be inconsistent with the rules of association.
+* 65.1 The committee shall have the power to make, alter and rescind any by-laws that it considers necessary for the effective administration of the association, provided that no by-law may be inconsistent with the rules of association.
 * 65.2 The Association may, by resolution at a general meeting, make, amend or revoke by-laws.
 * 65.3 By-laws may —
   * 65.3.a provide for the rights and obligations that apply to any classes of membership approved under rule 8; and

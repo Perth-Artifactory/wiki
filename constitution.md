@@ -18,7 +18,8 @@ B. The objects of the Association are:
 * establish, maintain, and equip a shared work space for its members;
 * provide work space, storage, and other resources for the creative and artistic use of technology;
 * foster a collaborative, inclusive, safe, and creative environment for artistic and technological projects;
-* educate and train its members in skills relevant to its objects; \* organise educational, social and cultural events to promote the creative use of technology;
+* educate and train its members in skills relevant to its objects;
+* organise educational, social and cultural events to promote the creative use of technology;
 * raise funds to support its other objects;
 * communicate and collaborate with others with similar objectives.
 

@@ -2,7 +2,7 @@
 title: Committee Meeting - yyyy-mm-dd
 description: 
 published: true
-date: 2022-10-20T07:04:54.689Z
+date: 2022-10-20T07:07:26.784Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -20,7 +20,7 @@ The table of contents on the left side of the page forms the agenda of this meet
 
 ## Members Present
 
-* Present: REMOVE NOT PRESENT - Beau, Ben, Fletcher, Iain, Jason, Johannes, Joshua, Phoebe-Jean, Vincent
+* Present: REMOVE NOT PRESENT - Beau, Ben, Fletcher, Johannes, Joshua, Lewis, Phoebe-Jean, Vincent
 * Apologies: NAMES
 * Absent: NAMES
 * Observing: NAMES

@@ -1,6 +1,13 @@
 ---
-title: "Swarf-O-Mat CNC Router"
+title: Swarf-O-Mat CNC Router
+description: 
+published: true
+date: 2022-10-20T12:32:22.567Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:54:57.788Z
 ---
+
 # Swarf-O-Mat CNC Router
 
 ## Summary
@@ -11,16 +18,13 @@ title: "Swarf-O-Mat CNC Router"
 
 ## Hazards
 
-|                                                                             |
-|-----------------------------------------------------------------------------|
-| \< - 140px 300px 140px 300px \>                                             |
-| <img src="/tools/hazards/movingpng.png" class="align-center" width="100" /> |
+![movingpng.png](/resources/hazards/movingpng.png)
 
 ## Approved Users
 
 Under NO circumstances should you use this machine if you have not been trained. ... \|\< 100% 20% \>\| \^ Trainers \^ Availability \^ Availability
 
-|                                          |                                          |
+| Trainers                                 | Availability                             |
 |------------------------------------------|------------------------------------------|
 | [Jason Kongchouy](/user/Jason Kongchouy) | General Hacking Days, by request (Slack) |
 | Fletcher Boyd                            | General Hacking Days, by request (Slack) |
@@ -43,6 +47,7 @@ Under NO circumstances should you use this machine if you have not been trained.
 | Ben Connor             |
 | Glynn                  |
 | O Nokey                |
+| Tom White              |
 
 ## Swarf-o-Mat Reference
 

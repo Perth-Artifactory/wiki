@@ -2,7 +2,7 @@
 title: Committee Meeting - yyyy-mm-dd
 description: 
 published: true
-date: 2022-10-20T06:56:15.085Z
+date: 2022-10-20T07:04:54.689Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -221,7 +221,9 @@ News and discussions on events.
 
 Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
 
-### OTHER BUSINESS EXAMPLE - DO NOT DELETE UNTIL DAY OF MEETING
+### OTHER BUSINESS EXAMPLE
+
+<!--- DO NOT DELETE UNTIL DAY OF MEETING --->
 
 What/Inform/Issue
 

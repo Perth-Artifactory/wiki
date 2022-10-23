@@ -249,7 +249,7 @@ What/Inform/Issue
 
 Remember to set **next meeting time** before closing meeting!
 
--   Next meeting: NNNN.NN.NN NN:NN, N weeks
+* Next meeting: NNNN.NN.NN NN:NN, N weeks
 
 Minutes: [NNNN-NN-NN](/minutes/Committee/NNNN-NN-NN)
 

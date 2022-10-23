@@ -14,6 +14,8 @@ Previous meeting: [PPPP-PP-PP](/minutes/Committee/PPPP-PP-PP)
 
 Next meeting: [NNNN-NN-NN](/minutes/Committee/NNNN-NN-NN)
 
+Scheduled start: 
+
 The table of contents on the left side of the page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
 
 # Minutes

@@ -1,5 +1,5 @@
 ---
-title: Committee Meeting - yyyy-mm-dd
+title: yyyy-mm-dd
 description: 
 published: true
 date: 2022-10-20T07:07:26.784Z
@@ -202,7 +202,6 @@ News and discussions on events.
 ### Music
 
 * DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits*) -
-* Mostly Modular Synth (Coordinators: Hugh, Jon*) -
 * Noizemaschin!! (Coordinators: Stuart*, Tim*, Skot, Stewbags*) -
 
 ### General

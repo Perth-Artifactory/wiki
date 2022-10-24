@@ -1,6 +1,13 @@
 ---
-title: "2017 - 2018 Committee"
+title: 2017 - 2018 Committee
+description: 
+published: true
+date: 2022-10-19T11:40:25.517Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:25:25.645Z
 ---
+
 # 2017 - 2018 Committee
 
 Elected 30th of September 2017

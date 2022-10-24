@@ -1,6 +1,13 @@
 ---
-title: "Frabjous Sculpture"
+title: Frabjous Sculpture
+description: 
+published: true
+date: 2022-10-19T12:38:13.082Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:50:08.732Z
 ---
+
 # Frabjous Sculpture
 
 by [davo](/user/davo)

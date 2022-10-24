@@ -1,6 +1,13 @@
 ---
-title: "Areas Overview"
+title: Areas Overview
+description: 
+published: true
+date: 2022-10-19T11:44:31.754Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:10:05.488Z
 ---
+
 # Areas Overview
 
 This is always subject to change, as the space evolves and mutates the list of areas will change.

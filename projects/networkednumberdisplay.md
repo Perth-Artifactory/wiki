@@ -1,6 +1,13 @@
 ---
-title: "Networked Number Display"
+title: Networked Number Display
+description: 
+published: true
+date: 2022-10-19T12:40:31.583Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:53:27.898Z
 ---
+
 # Networked Number Display
 
 Because We can.

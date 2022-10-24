@@ -1,6 +1,13 @@
 ---
-title: "The Artifactory Subcommittee Workspace"
+title: The Artifactory Subcommittee Workspace
+description: 
+published: true
+date: 2022-10-19T11:42:50.428Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:50:12.844Z
 ---
+
 # The Artifactory Subcommittee Workspace
 
 |                                                                                |

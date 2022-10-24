@@ -1,6 +1,13 @@
 ---
-title: "HP 3456A 6 1/2 digit voltmeter"
+title: HP 3456A 6 1/2 digit voltmeter
+description: 
+published: true
+date: 2022-10-19T12:46:20.405Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:55:44.186Z
 ---
+
 # HP 3456A 6 1/2 digit voltmeter
 
 \*\* Specifications \*\*

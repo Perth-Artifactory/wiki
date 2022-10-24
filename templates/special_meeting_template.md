@@ -1,6 +1,13 @@
 ---
-title: "Special Committee Meeting - yyyy-mm-dd"
+title: Special Committee Meeting - yyyy-mm-dd
+description: 
+published: true
+date: 2022-10-19T12:44:14.980Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:53:15.134Z
 ---
+
 # Special Committee Meeting - yyyy-mm-dd
 
 Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.

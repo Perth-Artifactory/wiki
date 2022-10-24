@@ -1,6 +1,13 @@
 ---
-title: "Ryobi EMS254L Drop Saw / Mitre Saw"
+title: Ryobi EMS254L Drop Saw / Mitre Saw
+description: 
+published: true
+date: 2022-10-19T11:42:25.996Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:08:25.444Z
 ---
+
 # Ryobi EMS254L Drop Saw / Mitre Saw
 
 The Ryobi EMS254L 254mm (10″) Compact Slide Mitre Saw/Compound saw/Drop saw is suitable for cutting through just about anything, provided you are using the correct blade. It is currently set up on a movable trolley and can be used out the back if you are cutting a lot of material or a material that is particularly noxious.  

@@ -1,6 +1,13 @@
 ---
-title: "Steam Ostrich"
+title: Steam Ostrich
+description: 
+published: true
+date: 2022-10-19T12:42:10.321Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:55:51.865Z
 ---
+
 ## Steam Ostrich
 
 ##### Who

@@ -1,6 +1,13 @@
 ---
-title: "Swarf-o-mat maintenance information"
+title: Swarf-o-mat maintenance information
+description: 
+published: true
+date: 2022-10-19T12:45:24.571Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:54:37.096Z
 ---
+
 ## Swarf-o-mat maintenance information
 
 Swarf-o-Mat (SoM) is a three-axis CNC router originally built by Artifactory member Skot in 2010. It was upgraded in 2020 to its current specification. This page is a technical reference for SoM. For these purposes, SoM is divided into systems for mechanical motion, motion control, power supply, protection, spindle control, cooling and user interface (PC and software).

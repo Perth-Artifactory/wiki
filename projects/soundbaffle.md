@@ -1,6 +1,13 @@
 ---
-title: "Baffling Building"
+title: Baffling Building
+description: 
+published: true
+date: 2022-10-19T12:41:56.130Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:55:31.082Z
 ---
+
 # Baffling Building
 
 We are making baffles with standard R2.5 "EarthWool" insulation batts from Bunnings.

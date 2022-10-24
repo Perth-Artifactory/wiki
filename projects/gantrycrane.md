@@ -1,6 +1,13 @@
 ---
-title: "Gantry Crane"
+title: Gantry Crane
+description: 
+published: true
+date: 2022-10-19T12:38:27.164Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:50:28.229Z
 ---
+
 # Gantry Crane
 
 ## Inspiration

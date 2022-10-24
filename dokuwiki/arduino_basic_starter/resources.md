@@ -1,6 +1,13 @@
 ---
-title: "Basic Arduino Beginners Kit - Resources"
+title: Basic Arduino Beginners Kit - Resources
+description: 
+published: true
+date: 2022-10-19T11:44:06.023Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:09:29.221Z
 ---
+
 # Basic Arduino Beginners Kit - Resources
 
 ## Kit Documentation

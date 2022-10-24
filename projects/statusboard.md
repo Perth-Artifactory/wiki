@@ -1,6 +1,13 @@
 ---
-title: "statusboard"
+title: statusboard
+description: 
+published: true
+date: 2022-10-19T12:42:04.317Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:55:40.468Z
 ---
+
 Grand Master plan to replace the [ABS box containing doorbot](/projects/opendoorcontrol) with something larger.
 
 -   Move the PSU / Battery backup higher up the wall

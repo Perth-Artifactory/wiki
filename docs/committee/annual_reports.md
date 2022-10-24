@@ -1,6 +1,13 @@
 ---
-title: "Artifactory Annual Reports"
+title: Artifactory Annual Reports
+description: 
+published: true
+date: 2022-10-19T11:37:56.887Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:45:30.259Z
 ---
+
 # Artifactory Annual Reports
 
 The annual reports are a presentation for the members of what The Perth Artifactory has done in that particular financial year.

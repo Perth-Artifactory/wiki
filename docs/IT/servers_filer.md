@@ -1,6 +1,13 @@
 ---
-title: "Filer Server"
+title: Filer Server
+description: 
+published: true
+date: 2022-10-19T11:36:41.360Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:43:13.629Z
 ---
+
 # Filer Server
 
 ## System Details

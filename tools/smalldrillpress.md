@@ -1,6 +1,13 @@
 ---
-title: "Ryobi EDP2521L Small Drill Press"
+title: Ryobi EDP2521L Small Drill Press
+description: 
+published: true
+date: 2022-10-19T12:50:33.096Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:02:04.854Z
 ---
+
 # Ryobi EDP2521L Small Drill Press
 
 ## Summary

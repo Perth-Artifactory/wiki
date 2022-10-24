@@ -1,6 +1,13 @@
 ---
-title: "cnc_machine"
+title: cnc_machine
+description: 
+published: true
+date: 2022-10-19T12:37:18.206Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:48:45.728Z
 ---
+
 <img src="/projects/img_0852.jpg" class="align-right" width="400" height="300" alt="img_0852.jpg" />
 
 Machine Infomation

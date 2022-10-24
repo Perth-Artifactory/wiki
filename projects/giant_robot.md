@@ -1,6 +1,13 @@
 ---
-title: "Giant Robot"
+title: Giant Robot
+description: 
+published: true
+date: 2022-10-19T12:38:45.575Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:50:55.220Z
 ---
+
 # Giant Robot
 
 <img src="/projects/giantrobotblastsfog.jpg" class="align-right" width="400" height="300" />

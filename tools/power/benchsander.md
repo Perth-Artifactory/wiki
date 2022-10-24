@@ -1,6 +1,13 @@
 ---
-title: "Ryobi EMBS200 Bench Sander"
+title: Ryobi EMBS200 Bench Sander
+description: 
+published: true
+date: 2022-10-19T12:49:25.085Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:00:23.874Z
 ---
+
 # Ryobi EMBS200 Bench Sander
 
 ## Summary

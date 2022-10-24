@@ -1,6 +1,13 @@
 ---
-title: "arduino_beginners"
+title: arduino_beginners
+description: 
+published: true
+date: 2022-10-19T11:51:13.902Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T08:51:46.339Z
 ---
+
 ![](/events/arduinouni.jpg)
 
 [workshops](/workshops)

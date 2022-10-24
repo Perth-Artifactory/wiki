@@ -1,6 +1,13 @@
 ---
-title: "EPROM Programming PC"
+title: EPROM Programming PC
+description: 
+published: true
+date: 2022-10-19T12:46:08.417Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:55:26.439Z
 ---
+
 # EPROM Programming PC
 
 **Specifications**

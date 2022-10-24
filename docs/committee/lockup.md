@@ -1,6 +1,13 @@
 ---
-title: "Closing Procedure"
+title: Closing Procedure
+description: 
+published: true
+date: 2022-10-19T11:39:19.686Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:47:01.779Z
 ---
+
 # Closing Procedure
 
 Following these steps is part of your [responsibilities as a keyholder.](/committee/keyholder_responsibilities) If you cannot close up please contact the committee via [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y) on [Slack](https://space.artifactory.org.au/slack).

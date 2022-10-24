@@ -1,6 +1,13 @@
 ---
-title: "Agilent 6632B Bench Power Supply"
+title: Agilent 6632B Bench Power Supply
+description: 
+published: true
+date: 2022-10-19T12:46:44.393Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:56:21.603Z
 ---
+
 # Agilent 6632B Bench Power Supply
 
 \*\* Specifications \*\*

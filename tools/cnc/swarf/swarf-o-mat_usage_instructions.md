@@ -1,6 +1,13 @@
 ---
-title: "Swarf-O-Mat Usage Instructions"
+title: Swarf-O-Mat Usage Instructions
+description: 
+published: true
+date: 2022-10-19T12:45:30.445Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:54:47.213Z
 ---
+
 # Swarf-O-Mat Usage Instructions
 
 ## IMPORTANT

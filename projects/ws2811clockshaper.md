@@ -1,6 +1,13 @@
 ---
-title: "WS2811 Clock Shaper"
+title: WS2811 Clock Shaper
+description: 
+published: true
+date: 2022-10-19T12:43:32.769Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:57:56.493Z
 ---
+
 # WS2811 Clock Shaper
 
 ## What's all this?

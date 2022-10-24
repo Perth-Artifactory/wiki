@@ -1,6 +1,13 @@
 ---
-title: "PROSPECTUS"
+title: PROSPECTUS
+description: 
+published: true
+date: 2022-10-19T11:38:17.623Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:45:56.790Z
 ---
+
 ## PROSPECTUS
 
 The Artifactory Perth's communal Arts/Technology creative Making space.

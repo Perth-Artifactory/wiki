@@ -1,6 +1,13 @@
 ---
-title: "The Gadget"
+title: The Gadget
+description: 
+published: true
+date: 2022-10-19T12:42:41.716Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:56:40.213Z
 ---
+
 # The Gadget
 
 ## Project Brief

@@ -1,6 +1,13 @@
 ---
-title: "Compressed Air Engine"
+title: Compressed Air Engine
+description: 
+published: true
+date: 2022-10-19T12:35:50.648Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:46:33.712Z
 ---
+
 # Compressed Air Engine
 
 Based on a comment from a visitor to the space, compressed air is freely available at petrol stations (until it is no longer freely available) and can be used to drive an engine mechanism for other purposes.

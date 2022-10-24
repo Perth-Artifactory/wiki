@@ -1,6 +1,13 @@
 ---
-title: "Ryobi BD12 Drill Press"
+title: Ryobi BD12 Drill Press
+description: 
+published: true
+date: 2022-10-19T12:48:14.541Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:58:39.213Z
 ---
+
 # Ryobi BD12 Drill Press
 
 ## Summary

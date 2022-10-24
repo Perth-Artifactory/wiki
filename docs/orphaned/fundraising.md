@@ -1,6 +1,13 @@
 ---
-title: "Fundraising subcommittee page"
+title: Fundraising subcommittee page
+description: 
+published: true
+date: 2022-10-19T11:42:37.875Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:50:02.580Z
 ---
+
 ## Fundraising subcommittee page
 
 02/11/2016

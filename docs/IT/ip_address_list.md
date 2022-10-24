@@ -1,6 +1,13 @@
 ---
-title: "ip_address_list"
+title: ip_address_list
+description: 
+published: true
+date: 2022-10-19T11:35:31.633Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:41:31.800Z
 ---
+
 Also see "servers.md" on Github Docs: <https://github.com/Perth-Artifactory/Docs/blob/main/servers.md>
 
 | IP ADDRESS    | NAME                                                | ROLES              |

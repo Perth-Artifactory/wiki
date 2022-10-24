@@ -1,6 +1,13 @@
 ---
-title: "artidisco"
+title: artidisco
+description: 
+published: true
+date: 2022-10-19T12:36:28.314Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:47:31.485Z
 ---
+
 Protocol
 
 Command Packet from Control system to ArtiDisco Arduino Light:

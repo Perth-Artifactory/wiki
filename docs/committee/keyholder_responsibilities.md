@@ -1,6 +1,13 @@
 ---
-title: "Keyholder Responsibilities"
+title: Keyholder Responsibilities
+description: 
+published: true
+date: 2022-10-19T11:39:13.204Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:46:51.979Z
 ---
+
 ## Keyholder Responsibilities
 
 Having a key to access Artifactory is a wonderful thing, and while we try and place as little onus on our members as possible, there are some responsibilities that must come with holding one of these keys.

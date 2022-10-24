@@ -16,7 +16,7 @@ This page lists the classes of a) ordinary membership and b) associate membershi
 
 ### Full Membership
 
-Defined at committee meeting 01/09/2018
+Defined at committee meeting 2018-01-09
 
 * Membership subscription is \$75 per month (Paid Monthly/Annually)
 * Gives access to the Artifactory and equipment for adult(18+)
@@ -28,7 +28,7 @@ Defined at committee meeting 01/09/2018
 
 ### Concession Membership
 
-Defined at committee meeting 01/09/2018
+Defined at committee meeting 2018-01-09
 
 * Membership subscription is \$45 per month (Paid Monthly/Annually)
 * Gives access to the Artifactory and equipment for adult(18+)
@@ -40,7 +40,7 @@ Defined at committee meeting 01/09/2018
 
 ### Band Membership
 
-Last modified at committee meeting 24/08/2019
+Last modified at committee meeting 2018-08-24
 
 The Band Membership is restricted to a maximum of 6 memberships.
 
@@ -68,7 +68,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 
 ### Associate Membership - Sponsored Student Membership
 
-Defined at committee meeting 24/11/2018
+Defined at committee meeting 2018-11-24
 
 * This membership is paid for via Member Sponsorship Donations at the same rate as a Concession membership.
 * The Committees chosen panel of at least 3 (comprising of at least one Committee member) will select who.
@@ -85,13 +85,13 @@ Defined at committee meeting 24/11/2018
 
 ### Associate Membership - The Ambassador!
 
-Defined at committee meeting 01/09/2018
+Defined at committee meeting 2018-09-01
 
 Description: The Ambassador is appointed by committee and required to promote the Artifactory.
 
 ### Associate Membership - Resident Artist - NoizeMaschin!!
 
-Last Modified 2020/03/14
+Last Modified 2020-03-14
 
 Description: Noizemaschin Residency - Every 3 months the Artifactory allows a Noizemaschin panel-selected Audio Artist 3 months membership, with guaranteed NM performances slots. The Artist is to build wacky things or engage with the Artifactory in some way, and demonstrate their inventions at NoizeMachin!!
 

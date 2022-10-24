@@ -62,7 +62,7 @@ In these rules, unless the contrary intention appears —
 * **general meeting** of the Association, means a meeting of the Association that all members are entitled to receive notice of and to attend;
 * **member** means a person who is an ordinary member or an associate member of the Association;
 * **ordinary committee member** means a committee member who is not an office holder of the Association under rule 28.1;
-* **office bearer** – refers to the Chairperson, Treasurer, Secretary, Vice Chairperson
+* **officer bearer** – refers to the Chairperson, Treasurer, Secretary, Vice Chairperson
 * **ordinary member** means a member with the rights referred to in rule 8.3;
 * **register of members** means the register of members referred to in section 53 of the Act;
 * **rules** means these rules of the Association, as in force for the time being;
@@ -218,7 +218,7 @@ In this Part (Pt 4) — member in relation to a member who is expelled from the 
 * 15.4 **Length of Emergency Temporary Suspension** An Emergency Temporary Suspension under this section must not exceed 31 days from the date of initial notification.
 * 15.5 Upholding and withdrawing an emergency temporary suspension -
   * 15.5.a An emergency temporary suspension must be reviewed and can be modified, withdrawn or upheld at every subsequent meeting of the committee where allowable under this constitution.
-  * 15.5.b Any two members of the committee may choose to withdraw or modify an emergency temporary suspension unless that emergency temporary suspension has been upheld by a meeting of the committee. Any changes can be delivered verbally but must also be sent via written notice within 3 days.
+  * 15.5.b Any two members of the committee may choose to withdraw or modified an emergency temporary suspension unless that emergency temporary suspension has been upheld by a meeting of the committee. Any changes can be delivered verbally but must also be sent via written notice within 3 days.
 * 15.6 Appealing an Emergency Temporary Suspension -
   * 15.6.a A member subject to a emergency temporary suspension defined by this section may opt to provide a written appeal of reasonable length to the Secretary. The committee must consider this appeal when considering the suspension.
 
@@ -677,7 +677,7 @@ The acts of a committee or subcommittee, or of a committee member or member of a
     * 56.5.c.ii the same place, unless the chairperson specifies another place at the time of the adjournment or written notice of another place is given to the members before the day to which the meeting is adjourned.
 * 56.6 If —
   * 56.6.a a quorum is not present within 30 minutes after the commencement time of an annual general meeting held under rule 56.5.c; and
-  * 56.6.b the lesser of 10 or 10% ordinary members are present at the meeting,
+  * 56.6.b the lessor of 10 or 10% ordinary members are present at the meeting,
 * those members present are taken to constitute a quorum.
 
 ### 57 Adjournment of general meeting

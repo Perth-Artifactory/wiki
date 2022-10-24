@@ -12,139 +12,69 @@ dateCreated: 2022-10-24T17:45:00.000Z
 
 This page lists by-laws which the committee has made, as allowed for by the [Constitution](/constitution), §65 *By-laws*.
 
-### Artifactory Expenses
+------------------------------------------------------------------------
 
-Last modified at the committee meeting 2020-03-14.
+## Artifactory Expenses
 
-The Committee allows the Treasurer to pay/reimburse for the following expenses without needing to seek committee approval. The Treasurer may defer reimbursements until a meeting of the Management Committee at their discretion.
-
-* Lease, variable outgoings, and building bonds
-* Fundraising Fridge/Kitchenette Supplies (sell-able items)
-* Consumables for cleaning the Artifactory
-* First Aid, Toiletry, Office and PPE supplies
-* Utilities: Internet, welding gas, rubbish disposal, and electricity
-* Materials and consumables for use by a subcommittee of the organisation provided that the total amount is less than \$75 and the expense has been approved by the head of the relevant subcommittee.
-* Bank fees, merchant fees, fees associated with maintaining the membership database/management, public building compliance costs, and event expenses associated with public building compliance
-
-### Asynchronous online-only motions
-
-Defined at committee meeting 2022-04-09.
-
-A committee member may raise a motion for consideration by the Management Committee outside of a convened meeting.
-
-* The technical manner in which the motion is raised and voted on is determined by the current elected Chairperson
-  * Motions must be equally available to all committee members. (eg, a shared Slack channel)
-  * Voting cannot be anonymous
-* These motions will only pass if every member of the Management Committee either votes Aye or abstains
-  * Abstaining from voting on a motion raised under this bylaw is an active process. Not responding to a raised motion is not considered abstaining.
-  * A single Nay vote will be considered a veto and the motion may not be raised again for 72 hours unless done so at a convened meeting of the Management Committee
-* If a meeting of the Management Committee is convened all outstanding motions raised under this by-law automatically fail
-* Details regarding any motions raised under this bylaw must be noted in the next regularly scheduled meeting of the Management Committee
-
-### Car Park
-
-Defined at committee meeting 2019-11-02.
-
-* Car Parking Bays cannot be occupied for materials, projects and goods as this is a requirement of our Planning Approval with the Council.
-
-REASON: City of Stirling approval states No goods or materials being stored, either temporarily or permanently, in the car parking or landscaped areas or within access driveways. All goods and materials are to be stored within the buildings or storage yards, where provided;
+Refer to [By-laws - Administration](/docs/policies/administration).
 
 ------------------------------------------------------------------------
 
-### Casual Makers
+## Asynchronous online-only motions
 
-Updated at AGM 2021-09-18.
-
-* Cost per day is \$15 (Casual Access Rate) plus applicable tool usage fees. If a person is attending a workshop/event that counts as paid for the day unless otherwise stated. (Events similar to Noizemaschin do not count as paid)
+Refer to [By-laws - Administration](/docs/policies/administration).
 
 ------------------------------------------------------------------------
 
-### Ceasing Membership + The Members Projects
+## Car Park
 
-Created at committee meeting 2019-04-27.
-
-Effective from 2019-04-27.
-
-* Once a person ceases to be a member, any projects left at the Artifactory will be free for anyone to use or for the Artifactory to dispose of once the owner(s) of the project has had a month notice.
+Refer to [By-laws - Storage](/docs/policies/storage).
 
 ------------------------------------------------------------------------
 
-### Duties Delegated by the Secretary
+## Casual Makers
 
-Defined at committee meeting 30-01-2019.
-
-* The [Office bearers](constitution#committee_members), Deputy Treasurer, Deputy Secretary [Membership Officer](/committee/committeerulings#membership_officer_s) and the associations Bank Signatory's are authorised to accept written notices of resignation under the constitution item [10](/constitution#resignation) resignation
-* The Treasurer, Deputy Treasurer, Deputy Secretary and the associations Bank Signatory's are authorised to assist the Secretary with the maintaining of the register of members under the constitution item [13.1, 13.2](/constitution#register_of_members) and [30.d](/constitution#secretary)
+Refer to [By-laws - Fees](/docs/policies/fees).
 
 ------------------------------------------------------------------------
 
-### Events and Workshops
+## Ceasing Membership + The Members Projects
 
-Last modified at the committee meeting 30-01-2019.
-
-* Any committee member may authorise a new workshop or event if
-  * it will bring in the casual User minimum rate per attendee (excluding members)
-  * does not require exclusive access of the Artifactory
-  * does not conflict with another event/workshop unless the Event Coordinators of the other Workshop sees no conflict
-  * will not conflict with persons using noisy tools
-  * will not hinder a band using the Rehearsal room.
-  * must be added to the google calendar
-* The Chair and any three other committee members reserve the right to waive the above rules if it is considered beneficial to the Artifactory to do so. The decision must be documented at the next regular committee meeting
+Refer to [By-laws - Storage](/docs/policies/storage).
 
 ------------------------------------------------------------------------
 
-### Material Racks
+## Duties Delegated by the Secretary
 
-Update at committee meeting 2019-05-25.
-
-Effective from 2019-07-01.
-
-* Only members are entitled to store materials on these material racks.
-* Materials are required to be dated with the full name of the owner and date stored
-* Materials are permitted to stay on the rack for a maximum of three months from the date marked. The owner may update the date if material is partially used.
-* Materials that over-stay their time, belong to an ex-member after notice period has lasped or are outsize the size limits are subject to being discarded or placed on the hack rack by a Committee member.
-* Limit per member of Members are limited to 10 pieces or 100mm thick of material whichever is greater.
-* Sheets may not exceed 900mm x 1200mm.
-* With skeletons removed, individual pieces must be larger than roughly A3 in size).
-* Member Storage Officer & Committee will conduct audits of the materials racks as required.
+Refer to [By-laws - Administration](/docs/policies/administration).
 
 ------------------------------------------------------------------------
 
-### Member Storage
+## Events and Workshops
 
-Member Storage Areas Updated at committee meeting 2019-05-25.
-
-Effective from 2019-07-01.
-
-* Members are entitled (subject to availability) to a single committee authorised storage space (up to 150L) left in a tidy and safe state.
-* Authorised spaces are
-  * Lockers-Kitchenette,
-  * Lockers-Under Pallet Racking,
-  Lockers-Metal
-  * Including oversized Lockers -currently located in CAD Room
-    * 1.  Not to be reallocated - Being deprecated
-  * The bottom two shelves of the pallet racking left of the stage (4 shelves in total) divided into 6 spots per shelf. Excluding 2 spots lost to power cords and boards.
-  * When a member loses their right to storage (whether through resignation, termination or another association’s process) their belongings will be stored for a period of one month starting from when the notification by the Management Committee or Member Storage Officer provides them with a copy of this by-law. Once this notice period has expired the belongings will be claimed by the association and may be used or disposed of as the Management Committee sees fit.
-  * Each storage space will be marked with a unique identifier. Members may add their own tags but not remove the identifier.
-  * Requests for storage space, or to relinquish storage space should be made to the Member Storage Officer or a Committee Member.
-  * Any material found in an unallocated space will be removed to the office for no less than seven days. If it is unclaimed, it will be disposed of as a committee member sees fit. .
-  * Members with storage space may apply for a change in storage location. If space becomes available and the member agrees, they will have 7 days to move from the existing storage location to a new location.
-  * Where demand for member storage or a particular type of storage exceeds supply, a waiting list may be maintained. If a waiting list is in operation, members will be offered space as it becomes available in waiting list order. Members who are not contactable or fail to take their space within a reasonable period will be skipped and advised.
-  * The Chair and any 3 committee members may override these rules at their discretion. Any override must be minuted at the next committee meeting and may then be overruled.
+Refer to [By-laws - Administration](/docs/policies/administration).
 
 ------------------------------------------------------------------------
 
-### Member Storage - Additional
+## Material Racks
 
-Updated at committee meeting 2019-05-25.
-
-Effective from 2019-07-01.
-
-Members are entitled to request for additional storage on the pallet racking. Additional storage will be charged at a rate of \$60 per half a pallet rack per month and will be restricted to the upper racks that are not within reach. Any four Committee members may determine what part of the pallet racking will be available for such storage and will advise the Treasurer to invoice as such from the start of the Members next membership period. The Artifactory Committee reserves the right to revoke that additional storage with a months notice if it is deemed needed for the Artifactory.
+Refer to [By-laws - Storage](/docs/policies/storage).
 
 ------------------------------------------------------------------------
 
-### Money Donations
+## Member Storage
+
+Refer to [By-laws - Storage](/docs/policies/storage).
+
+------------------------------------------------------------------------
+
+## Member Storage - Additional
+
+Refer to [By-laws - Storage](/docs/policies/storage).
+
+------------------------------------------------------------------------
+
+## Money Donations
 
 Last modified at the committee meeting 2020-01-11.
 
@@ -152,23 +82,23 @@ Last modified at the committee meeting 2020-01-11.
   * Types of money donations maybe "General Donations", "Sponsoring a Member Donation", "Event/Workshop Support Donation", "Specified Equipment/Venue enhancements"
   * If the donor wishes to remain anonymous (meaning not thanked publicly), it shall be recorded in TidyHQ and the Secretary informed.
 
-##### General Donations (not specified)
+### General Donations (not specified)
 
   * Shall only be used for the Equipment/Venue Enhancements or held until direction for use is given by the Committee. (This allows the Treasurer to draw funds from general donations for equipment and venue enhancements as approved as by the Committee.)
 
-##### Donations for Specified Equipment/Venue Enhancement
+### Donations for Specified Equipment/Venue Enhancement
 
   * Shall be used for the purpose of the Specified Equipment/Venue enhancements.
   * If the Committee is satisfied that cause of the donation has completed the purpose, leftover monies can be treated as a general donation.
 
-##### Member Sponsorship Donations
+### Member Sponsorship Donations
 
   * Funds can only be used to Sponsor Associate Memberships if the Membership Classification allows it.
   * The process as to who receives the sponsored membership is through a committee selected member panel who will choose sponsored members from a publicly advertised process on the Artifactory website.
   * If any panel member has a close connection to an individual applying, they must excuse themselves from the selection panel.
   * The Artifactory Committee as part of the constitution still has to accept the nominated Associate Membership like any membership.
 
-##### Donations to support a particular event or workshop.
+### Donations to support a particular event or workshop.
 
   * Shall be used for the purpose of supporting the event/workshop
   * Cannot be treated as a donation if an individual or group that runs the event/workshop benefits financially from the event/workshop.
@@ -176,7 +106,7 @@ Last modified at the committee meeting 2020-01-11.
 
 ------------------------------------------------------------------------
 
-### NeverNever
+## NeverNever
 
 Defined at committee meeting 2019-08-24.
 
@@ -186,7 +116,7 @@ Defined at committee meeting 2019-08-24.
 
 ------------------------------------------------------------------------
 
-### Physical Keys + Safe Access
+## Physical Keys + Safe Access
 
 Defined at committee meeting 2018-09-29.
 
@@ -196,7 +126,7 @@ Defined at committee meeting 2018-09-29.
 
 ------------------------------------------------------------------------
 
-### Rehearsal Room - Casual Usage
+## Rehearsal Room - Casual Usage
 
 Last modified at committee meeting 2019-06-22.
 
@@ -209,7 +139,7 @@ The rehearsal room can be used on a casual basis:
 
 ------------------------------------------------------------------------
 
-### RFID Keys for Members
+## RFID Keys for Members
 
 Last modified at the committee meeting 2021-01-10.
 
@@ -223,7 +153,7 @@ Last modified at the committee meeting 2021-01-10.
 
 ------------------------------------------------------------------------
 
-### RFID Keys for Non-members
+## RFID Keys for Non-members
 
 Defined at committee meeting 2018-09-01.
 
@@ -234,89 +164,19 @@ Defined at committee meeting 2018-09-01.
 
 ------------------------------------------------------------------------
 
-### Subcommittee Rules
+## Subcommittee Rules
 
-Defined at committee meeting 2019-02-23.
-
-* The subcommittee system is designed to
-  * Relieve load from the main committee,
-  * Allow the main committee to benefit from the expertise of other members,
-  * Allow non-committee members to participate in the management of the space,
-  * Be open to scrutiny and observation by interested members (as is the main committee), and
-  * Be run in a friendly and collegial manner.
-* Each subcommittee is subservient to the main committee and exists by fiat of the main committee and within the rules of the Constitution 49+50
-* A determination made by the subcommittee is to be made by a simple majority of subcommittee members.
-* A subcommittee has responsibility delegated to it by the main committee within defined terms of reference. The terms of reference are determined by the main committee.
-* Any change of membership/Other changes require assent of the main committee unless the subcommittee has been granted autonomy in this area and must be minuted regardless. The subcommittee may invite others to observe
-* The subcommittee is inactivated with all responsibilities referred back to the main committee if:
-  * The subcommittee membership falls below 2 members,
-  * There is no main committee member on the sub-committee,
-  * The main committee disbands the sub-committee.
-  * The subcommittee reports to the main committee that they have resolved to disband.
-  * The subcommittee acts outside their terms of reference.
-  * At the first Committee Meeting after the AGM or SGM all subcommittees will be dissolved unless reaffirmed by the management committee subject to membership including a committee member
-* A quorum of a subcommittee is at least half.
-* Each subcommittee has the following detailed on the wiki:
-  * Current Name
-  * Current Terms of reference
-  * Current Members (Full Name)
-  * Current Communication method
-  * Any change of membership/Other Changes to the above must be minuted in the subcommittee minutes. Changes to the Chair/Secretary or Panel of the subcommittee must be reported to the main committee at a meeting.
-* Within their area of responsibility, and if it is within their terms of reference, the sub-committee will be the appropriate place for normal members to:
-  * Obtain permission/training to access/operate,
-  * Request maintenance or obtain permission to maintain,
-  * Request a modification or obtain permission to modify, and
-  * Request updates on the current operational status.
-* Any action taken by the subcommittee should be communicated to all members of the subcommittee
-  * Sub-committees are encouraged to nominate a secretary to be responsible for minuting and reporting.
-  * Sub-committees should generally operate on a "plan" then "do" model which enables all members of the subcommittee to be aware of the plans before they are put into effect.
-  * Membership of a sub-committee does not give individuals the freedom to act unilaterally. A sub-committee has been formed by the main committee to allow a team to work on a task.
-* The subcommittee should be ready and willing to report the current status of any action they are undertaking to:
-  * Their own members
-  * A main committee member
-  * The main committee at each committee meeting
-
-More detailed information may require reference to a particular subcommittee members, but in general this information should be available as determined by the subcommittee and stated where in the wiki the location which in sub-committee's wiki page.
+Refer to [By-laws - Subcommittees](/docs/policies/subcommittees).
 
 ------------------------------------------------------------------------
 
-### Tool Usage Fees
+## Tool Usage Fees
 
-Last modified at committee meeting 2019-11-02.
-
-Whilst the **membership** fee allows access to our many machines, some of which have an additional timed cost for use, this allows for money to go towards to maintaining and upkeep of the machines.
-
-**Casual users** of the Artifactory pay the tool usage fee plus the casual access rate to the Artifactory. The casual access fee may collected as part of a cost for a workshop/event.
-
-#### Laser Cutters
-
-* Member Rate: Big Red \$0.20, Little Red/Kellogg \$0.10 per minute rounded up to the nearest dollar.
-* Casual User Rate: \$5 per 10 minutes rounded up to the nearest \$5.
-
-#### Welding with Gas
-
-* Member Rate: \$15 an hour or part there of
-* Casual User Rate: \$20 an hour or part there of
-
-#### 3D Printer
-
-* Member Rate: \$0.05 per gram rounded up the nearest dollar
-* Casual User Rate: \$0.20 per gram rounded up the nearest dollar
-
-#### 3D Printer - Resin
-
-* Member Rate: \$0.50 per gram
-* Casual User Rate: \$1 per gram
-
-#### CNC Machines:
-
-* Member Rate: \$0.10 per minute rounded up to the nearest dollar if using Artifactory tooling
-* Member Rate: \$0.05 per minute rounded up to the nearest dollar if using your own tooling
-* Casual User Rate: \$5 per 10 minutes rounded up to the nearest \$5
+Refer to [By-laws - Fees](/docs/policies/fees).
 
 ------------------------------------------------------------------------
 
-### Intellectual/Physical Property
+## Intellectual/Physical Property
 
 Adopted at committee meeting 2019-11-02.
 
@@ -324,7 +184,7 @@ By funding a project in part or full the Artifactory retains the rights to utili
 
 ------------------------------------------------------------------------
 
-### Tool inductions
+## Tool inductions
 
 Adopted at committee meeting 2019-12-07.
 
@@ -334,21 +194,13 @@ A list of gated tools and appointed trainers must be made available on the wiki 
 
 ------------------------------------------------------------------------
 
-### Workspace Usage
+## Workspace Usage
 
-Adopted at committee meeting 2019-11-02.
-
-* You may occupy up to 3 trestles worth of space while actively working on a project noting that you may need to move it for a scheduled event.
-* Projects may be left in the space for three days so long as:
-* The project is on a single trestle table(including under) that includes your name, contact details, and date of pickup
-* Your project is left in a movable state as events/workshops may have priority over a specified area/general area resulting in the moving of your project.
-* While we will attempt to contact you if any of these conditions are not met there is risk that your project may be disposed of or end up on the hack-me bench. The Artifactory does not guarantee the safety of any personal projects.
-* Anything that would violate the requirements set out above must be done in coordination with the Management Committee.
-* Committee can veto these rules.
+Refer to [By-laws - Storage](/docs/policies/storage).
 
 ------------------------------------------------------------------------
 
-### Minors in the space
+## Minors in the space
 
 Adopted at committee meeting 2021-01-10.
 
@@ -362,7 +214,7 @@ It is the responsibility of the guardian to ensure that the supervised child is:
 
 Please note: regardless of any alcohol supply laws guardians can not provide alcohol to minors on Artifactory property.
 
-#### Minors under the age of 13
+### Minors under the age of 13
 
 Must be actively supervised in the following areas:
 
@@ -383,7 +235,7 @@ Can be left in the following areas provided that the supervising guardian can se
 * Rear Courtyard - Passive use
 * Kitchen
 
-#### Minors 13 and over
+### Minors 13 and over
 
 Must be actively supervised in the following areas:
 
@@ -404,11 +256,13 @@ Can be left in the following areas provided that the supervising guardian can se
 * Rear Courtyard - Active use
 * Kitchen
 
-#### Definitions
+### Definitions
 
 * Active use: Power tools, spray paint, hot works, or other dangerous activities are occuring. Members or attendees using either the courtyard or project area may change the status of the area to Active Use at their discretion to reflect any issues that may be caused by an unsupervised minor in that area. (Painting minatures, wet paint etc)
 * Passive use: Where none of the above apply
 * Actively supervised: The guardian must be physically present in the area and able to intervene to enforce their responsibilities as guardian
+
+------------------------------------------------------------------------
 
 ## Policies and Guidelines
 

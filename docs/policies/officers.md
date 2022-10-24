@@ -15,6 +15,8 @@ This page lists the subsidiary offices that the committee has created, as allowe
 * §49 *Subcommittees and subsidiary offices*
 * §50 *Delegation to subcommittees and holders of subsidiary offices*
 
+In these by-laws, unless the contrary intention appears, all terms are as defined as in the Constitution, §1 *Definitions*.
+
 ## Events Officer(s)
 
 Defined at committee meeting 2018-10-27

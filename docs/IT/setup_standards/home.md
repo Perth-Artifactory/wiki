@@ -1,6 +1,13 @@
 ---
-title: "start"
+title: start
+description: 
+published: true
+date: 2022-10-19T11:37:06.353Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:43:49.755Z
 ---
+
 Hardware and Software Setup Standards
 
 [Security Cameras](/subcommittee/it_infrastructure/setup_standards/cameras)

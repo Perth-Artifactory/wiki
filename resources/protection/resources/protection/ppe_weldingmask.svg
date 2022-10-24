@@ -1,0 +1,56 @@
+<svg version="1.1" width="100" id="svg1" height="100" xmlns="http://www.w3.org/2000/svg">
+  <metadata id="metadata3767">
+    
+      
+        
+        obligation
+        
+          
+            
+            symbol
+            signs_and_symbols
+          
+        
+        
+          
+            yves GUILLOU
+          
+        
+        
+          
+            yves GUILLOU
+          
+        
+        
+          
+            yves GUILLOU
+          
+        
+        
+        image/svg+xml
+        
+        
+        en
+      
+      
+        
+        
+        
+      
+    
+  </metadata>
+  
+  <defs id="defs2">
+    <marker viewBox="0 0 10 10" refY="5" refX="0" orient="auto" markerWidth="4" markerUnits="strokeWidth" markerHeight="3" id="ArrowEnd">
+      <path id="path4" d="M 0,0 10,5 0,10 z"></path>
+    </marker>
+    <marker viewBox="0 0 10 10" refY="5" refX="10" orient="auto" markerWidth="4" markerUnits="strokeWidth" markerHeight="3" id="ArrowStart">
+      <path id="path6" d="M 10,0 0,5 10,10 z"></path>
+    </marker>
+  </defs>
+  <g transform="matrix(0.7055502,0,0,0.70554873,-8.1277111,-8.1274861)" id="g7">
+    <path style="fill:#000000;stroke:none" id="path8" d="M 84.4627,153.222 C 123.584,152.076 154.369,119.431 153.222,80.3102 152.076,41.1892 119.431,10.4038 80.3104,11.5504 41.1894,12.6971 10.404,45.3414 11.5507,84.4625 c 1.1466,39.1205 33.791,69.9065 72.912,68.7595 z"></path>
+    <path style="fill:#004cff;stroke:#ffffff;stroke-width:3" id="path9" d="M 84.2892,148.923 C 121.063,147.846 150.001,117.16 148.924,80.3861 147.846,43.6122 117.16,14.674 80.386,15.7517 43.6122,16.8295 14.6738,47.5154 15.7517,84.2892 16.8296,121.063 47.5154,150.001 84.2892,148.923 z"></path>
+  </g>
+  <path id="path3867" d="M 50.03125 10 C 39.180284 10 30.384039 18.676648 30.09375 29.46875 L 30 29.46875 L 30 70.5 L 30.03125 70.5 C 30.298874 81.312392 39.16566 90 50.03125 90 C 61.06545 90 70 81.045694 70 70 L 69.96875 70 L 69.96875 30 L 70 30 C 70 29.816574 69.97365 29.65099 69.96875 29.46875 C 69.678457 18.676648 60.882216 10 50.03125 10 z M 37.5 35 L 62.5 35 L 62.5 45 L 37.5 45 L 37.5 35 z" style="fill:#ffffff"></path>
+</svg>

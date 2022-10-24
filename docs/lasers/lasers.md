@@ -1,6 +1,13 @@
 ---
-title: "Laser subcommittee page"
+title: Laser subcommittee page
+description: 
+published: true
+date: 2022-10-19T11:42:19.349Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:49:14.656Z
 ---
+
 ## Laser subcommittee page
 
 ### Members

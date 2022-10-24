@@ -1,6 +1,13 @@
 ---
-title: "concrete"
+title: concrete
+description: 
+published: true
+date: 2022-10-19T12:37:24.444Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:48:54.450Z
 ---
+
 16/04/12
 
 The large(r) slab has also been rough cut (50 grit diamond pad). All samples have dried substantially lighter than expected. Not as hard to cut as expected after 4 weeks of curing. Next - slurry!

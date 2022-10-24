@@ -1,6 +1,13 @@
 ---
-title: "PP3DP UP! 3D Printer"
+title: PP3DP UP! 3D Printer
+description: 
+published: true
+date: 2022-10-19T12:44:47.945Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:53:33.865Z
 ---
+
 # PP3DP UP! 3D Printer
 
 ## Summary

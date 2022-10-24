@@ -1,6 +1,13 @@
 ---
-title: "Hoverboard"
+title: Hoverboard
+description: 
+published: true
+date: 2022-10-19T12:39:10.229Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:51:33.287Z
 ---
+
 # Hoverboard
 
 <img src="/projects/hoverboardblowhere.jpg" width="200" />

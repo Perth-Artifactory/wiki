@@ -1,6 +1,13 @@
 ---
-title: "selfservicekisok"
+title: selfservicekisok
+description: 
+published: true
+date: 2022-10-19T12:41:37.135Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:55:03.253Z
 ---
+
 The proposed membership kiosk (to be located somewhere useful, but not in the way of hacking spaces -- perhaps in the foyer or near the kitchen?) will allow:
 
 -   members to tap their tag and verify:

@@ -1,6 +1,13 @@
 ---
-title: "Maker Machines"
+title: Maker Machines
+description: 
+published: true
+date: 2022-10-19T12:41:10.328Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:54:23.996Z
 ---
+
 # Maker Machines
 
 Makers are a type of machine that can produce objects based on an electronic design from raw materials. Feed it raw plastic (or in some cases metals) and a design and it will make the object for you. They come in lots of varieties and types.

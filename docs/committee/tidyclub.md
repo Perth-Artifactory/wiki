@@ -1,6 +1,13 @@
 ---
-title: "TidyHQ"
+title: TidyHQ
+description: 
+published: true
+date: 2022-10-19T11:41:48.382Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:48:40.195Z
 ---
+
 # TidyHQ
 
 TidyHQ is a member management system used by The Perth Artifactory to manage memberships, collect membership fees, sell tickets to events and manage finances.

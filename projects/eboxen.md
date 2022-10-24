@@ -1,6 +1,13 @@
 ---
-title: "eBoxen"
+title: eBoxen
+description: 
+published: true
+date: 2022-10-19T12:37:55.318Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:49:41.404Z
 ---
+
 # eBoxen
 
 by [davo](/user/davo)

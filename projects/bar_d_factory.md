@@ -1,4 +1,14 @@
 ---
+title: bar_d_factory
+description: 
+published: true
+date: 2022-10-19T12:36:34.160Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:47:40.177Z
+---
+
+---
 title: "Bar d'Factory "Vunder Bar" v2.0"
 ---
 # Bar d'Factory "Vunder Bar" v2.0

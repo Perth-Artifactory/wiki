@@ -1,6 +1,13 @@
 ---
-title: "mame"
+title: mame
+description: 
+published: true
+date: 2022-10-19T12:40:00.806Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:52:40.810Z
 ---
+
 16/01/12
 
 Cabinet has been kludged together and is operational! There's even LED lighting in the header and the sound has been plumbed in. It's set to do an Artifactory photo slide show when MAME isn't in use. MAMEUI automatically loads when the machine boots...

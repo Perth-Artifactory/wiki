@@ -1,6 +1,13 @@
 ---
-title: "Ideas for spray-can artists to paint for Artifactory."
+title: Ideas for spray-can artists to paint for Artifactory.
+description: 
+published: true
+date: 2022-10-19T12:37:43.324Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:49:22.903Z
 ---
+
 ## Ideas for spray-can artists to paint for Artifactory.
 
 We have graffiti artists coming to the Space part of the AudioVault Friday evenings. If we give them suggestions on what we would like for the space, we may end up with insto decoration art!

@@ -1,6 +1,13 @@
 ---
-title: "race_car_simulator_motion_simulator"
+title: race_car_simulator_motion_simulator
+description: 
+published: true
+date: 2022-10-19T12:41:03.857Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:54:15.106Z
 ---
+
 There are two things I want to produce;
 
 1\) Car simulator inside a real car - using an old car, rig up the steering wheel and pedals etc to communicate just like a standard car racing wheel plugged in via usb. Then putting a projector/screen in front of the real windscreen. You could also rig up the passenger side so you could play vs with the person next to you...

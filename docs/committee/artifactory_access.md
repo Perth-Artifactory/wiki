@@ -1,6 +1,13 @@
 ---
-title: "Artifactory Access"
+title: Artifactory Access
+description: 
+published: true
+date: 2022-10-19T11:38:10.160Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:45:47.883Z
 ---
+
 # Artifactory Access
 
 The Perth Artifactory is a nonprofit organization run entirely by volunteers and thrives through the overall communal and combined effort of its members. Unfortunately this means we aren't open every day. You can find our opening hours on [Google Maps](https://g.page/theperthartifactory).

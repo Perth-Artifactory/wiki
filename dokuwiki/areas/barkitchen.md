@@ -1,6 +1,13 @@
 ---
-title: "Bar and Kitchen Area"
+title: Bar and Kitchen Area
+description: 
+published: true
+date: 2022-10-19T11:44:12.521Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:09:38.238Z
 ---
+
 ## Bar and Kitchen Area
 
 The Artifactory has a small kitchen area open for use to all members and those visiting the space.

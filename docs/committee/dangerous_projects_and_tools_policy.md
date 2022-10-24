@@ -1,6 +1,13 @@
 ---
-title: "dangerous_projects_and_tools_policy"
+title: dangerous_projects_and_tools_policy
+description: 
+published: true
+date: 2022-10-19T11:38:59.112Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:46:32.249Z
 ---
+
 If you are using dangerous tools, working on a dangerous project, or engaging in a dangerous event, you MUST have clearance from the Committee. Examples include:
 
 -   Toxic chemicals

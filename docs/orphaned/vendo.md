@@ -1,6 +1,13 @@
 ---
-title: "vendo"
+title: vendo
+description: 
+published: true
+date: 2022-10-19T11:43:30.954Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:09:20.317Z
 ---
+
 The Vendo Documentation Half way there
 
 Part 1 - The Motors

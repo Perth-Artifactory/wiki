@@ -1,6 +1,13 @@
 ---
-title: "councilnotification"
+title: councilnotification
+description: 
+published: true
+date: 2022-10-19T12:37:30.706Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:49:04.032Z
 ---
+
 As per Skot: We have been informed by the City Of Stirling that we have the go-ahead for advertising our proposed change of Planning to an "unlisted use" - the best classification we can get in an Industrial Area.
 
 We need to create a 1x1.5m professional sign with exactly proscribed wording (we have a letter from the city saying what this is). The sign needs to be erected at eye height on an exact position on the street, also proscribed by the letter.

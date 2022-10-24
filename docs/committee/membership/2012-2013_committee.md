@@ -1,6 +1,13 @@
 ---
-title: "2012 - 2013 Committee"
+title: 2012 - 2013 Committee
+description: 
+published: true
+date: 2022-10-19T11:39:52.463Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:24:32.301Z
 ---
+
 # 2012 - 2013 Committee
 
 Elected 8th September 2012

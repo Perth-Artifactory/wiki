@@ -1,6 +1,13 @@
 ---
-title: "Analog Synthesis Hardware projects at the Artifactory"
+title: Analog Synthesis Hardware projects at the Artifactory
+description: 
+published: true
+date: 2022-10-19T12:36:02.742Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:46:52.379Z
 ---
+
 ### Analog Synthesis Hardware projects at the Artifactory
 
 First up is a PaIA Fatman, an analog synthesizer that includes a MIDI-CV converter, so bridging the analog and digital worlds

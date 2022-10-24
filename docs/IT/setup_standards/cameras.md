@@ -1,6 +1,13 @@
 ---
-title: "cameras"
+title: cameras
+description: 
+published: true
+date: 2022-10-19T11:36:59.913Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:43:40.422Z
 ---
+
 All artifactory secruity cameras are setup to the following specifications
 
 ## Security Cameras

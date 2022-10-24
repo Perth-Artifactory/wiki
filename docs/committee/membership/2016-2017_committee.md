@@ -1,6 +1,13 @@
 ---
-title: "2016 - 2017 Committee"
+title: 2016 - 2017 Committee
+description: 
+published: true
+date: 2022-10-19T11:40:19.559Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:25:14.843Z
 ---
+
 # 2016 - 2017 Committee
 
 The committee is formed by merit of, and governed by the [constitution](constitution)

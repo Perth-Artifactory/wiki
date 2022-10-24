@@ -1,6 +1,13 @@
 ---
-title: "newnetworkednumberdisplay"
+title: newnetworkednumberdisplay
+description: 
+published: true
+date: 2022-10-19T12:40:38.030Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:53:37.903Z
 ---
+
 This is me throwing ideas at the page to see what sticks:
 
 1.  Addressable LEDs driven by a Teensy3, then networked by a Raspberry Pi? The Pi can be the network stack and the Teensy can drive the segments. Effectively frontware and backware. How to talk between?

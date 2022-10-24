@@ -1,6 +1,13 @@
 ---
-title: "Basic Arduino Beginners Kit"
+title: Basic Arduino Beginners Kit
+description: 
+published: true
+date: 2022-10-19T12:36:16.103Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:47:12.882Z
 ---
+
 # Basic Arduino Beginners Kit
 
 ## What is this?

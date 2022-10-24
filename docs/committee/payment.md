@@ -1,6 +1,13 @@
 ---
-title: "Bank Transfer"
+title: Bank Transfer
+description: 
+published: true
+date: 2022-10-19T11:41:06.705Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:47:45.538Z
 ---
+
 # Bank Transfer
 
 The Artifactory can accept electronic funds transfer to the following account:  

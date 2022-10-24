@@ -1,6 +1,13 @@
 ---
-title: "Heat Gun"
+title: Heat Gun
+description: 
+published: true
+date: 2022-10-19T12:50:08.450Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:01:28.092Z
 ---
+
 # Heat Gun
 
 ## Approved Users

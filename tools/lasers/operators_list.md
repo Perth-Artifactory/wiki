@@ -1,6 +1,13 @@
 ---
-title: "Operators List"
+title: Operators List
+description: 
+published: true
+date: 2022-10-19T12:47:55.557Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:58:09.446Z
 ---
+
 # Operators List
 
 | Operators                                | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | Currency confirmed           |

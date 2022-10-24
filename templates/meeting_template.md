@@ -1,8 +1,8 @@
 ---
-title: Committee Meeting - yyyy-mm-dd
+title: yyyy-mm-dd
 description: 
 published: true
-date: 2022-10-20T07:07:26.784Z
+date: 2022-10-23T07:45:54.577Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -13,6 +13,8 @@ dateCreated: 2022-10-17T16:52:53.978Z
 Previous meeting: [PPPP-PP-PP](/minutes/Committee/PPPP-PP-PP)
 
 Next meeting: [NNNN-NN-NN](/minutes/Committee/NNNN-NN-NN)
+
+Scheduled start: 
 
 The table of contents on the left side of the page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.
 
@@ -200,7 +202,6 @@ News and discussions on events.
 ### Music
 
 * DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits*) -
-* Mostly Modular Synth (Coordinators: Hugh, Jon*) -
 * Noizemaschin!! (Coordinators: Stuart*, Tim*, Skot, Stewbags*) -
 
 ### General
@@ -247,7 +248,7 @@ What/Inform/Issue
 
 Remember to set **next meeting time** before closing meeting!
 
--   Next meeting: NNNN.NN.NN NN:NN am/pm, N weeks
+* Next meeting: NNNN.NN.NN NN:NN, N weeks
 
 Minutes: [NNNN-NN-NN](/minutes/Committee/NNNN-NN-NN)
 

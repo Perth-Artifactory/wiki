@@ -1,6 +1,13 @@
 ---
-title: "The Perth Artifactory Wiki"
+title: The Perth Artifactory Wiki
+description: 
+published: true
+date: 2022-10-19T11:45:26.156Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T17:11:57.430Z
 ---
+
 # The Perth Artifactory Wiki
 
 This is the shared online workspace for all members of the [Perth Artifactory](http://artifactory.org.au/), WA's largest [hackerspace](http://en.wikipedia.org/wiki/Hackerspace).

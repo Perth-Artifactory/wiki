@@ -1,6 +1,13 @@
 ---
-title: "Group Order From Amari Plastics"
+title: Group Order From Amari Plastics
+description: 
+published: true
+date: 2022-10-19T12:47:03.409Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:56:49.167Z
 ---
+
 #### Group Order From Amari Plastics
 
 Nick [nick](/user/nick) or [elwell](/user/elwell) is wrangling an order from Amari Plastics, to be placed in approximately 1 week.

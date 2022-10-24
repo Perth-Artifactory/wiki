@@ -1,6 +1,13 @@
 ---
-title: "Laser Cutter Controller MPC6515"
+title: Laser Cutter Controller MPC6515
+description: 
+published: true
+date: 2022-10-19T12:47:16.439Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:57:09.138Z
 ---
+
 # Laser Cutter Controller MPC6515
 
 The MPC6515 came fitted to both [Little Red](/tools/lasercutters/littlered) and [Big Red](/tools/lasercutters/bigred) when they were purchased and are still used by those laser cutters. The MPC6515 must be used with the "LaserCut 5.3" software.

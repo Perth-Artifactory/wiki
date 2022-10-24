@@ -1,6 +1,13 @@
 ---
-title: "Arcophone"
+title: Arcophone
+description: 
+published: true
+date: 2022-10-19T12:36:09.552Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:47:01.914Z
 ---
+
 # Arcophone
 
 ## Who

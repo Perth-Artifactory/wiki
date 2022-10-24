@@ -1,6 +1,13 @@
 ---
-title: "Committee Meeting - 2019-xx-xx"
+title: Committee Meeting - 2019-xx-xx
+description: 
+published: true
+date: 2022-10-19T12:44:08.834Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-17T16:53:05.909Z
 ---
+
 # Committee Meeting 2019.xx.xx
 
 Table of Contents on right side of page forms the agenda of this meeting. Agenda must be set 48 hours before start of committee meeting.

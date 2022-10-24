@@ -1,6 +1,13 @@
 ---
-title: "Marble Machine"
+title: Marble Machine
+description: 
+published: true
+date: 2022-10-19T12:40:06.618Z
+tags: 
+editor: markdown
+dateCreated: 2022-10-19T07:52:49.994Z
 ---
+
 # Marble Machine
 
 Originally downloaded from [Thingiverse](http://www.thingiverse.com/thing:148312) and also available as an [Instructable](http://www.instructables.com/id/MSRaynsfords-Marble-Machine-11-Kit/). Created by [M Raynsford](http://msraynsford.blogspot.com.au/) and sold on his web site. He has given us permission to reproduce the work (with his branding) for our own promotions.

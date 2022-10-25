@@ -2,7 +2,7 @@
 title: Operators List
 description: 
 published: true
-date: 2022-10-19T12:47:55.557Z
+date: 2022-10-25T10:11:54.227Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:09.446Z
@@ -15,7 +15,7 @@ dateCreated: 2022-10-17T16:58:09.446Z
 | Alastair Waddell                         | Yes            | No              | No           |                              |
 | DougB                                    | Yes            | No              | Yes          |                              |
 | Jeremy Randall                           | Yes            | No              | Yes          |                              |
-| [Jason Kongchouy](/user/jason_kongchouy) | Yes            | No              | Yes          |                              |
+| Jason Kongchouy                          | Yes            | No              | Yes          |                              |
 | Hugh Frazer                              | Yes            | No              | Yes          |                              |
 | Stuart McDonald                          | Yes            | Yes             | Yes          |                              |
 | Gerard Biles                             | Yes            | No              | No           |                              |

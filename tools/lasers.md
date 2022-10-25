@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2022-10-25T10:20:50.081Z
+date: 2022-10-25T10:47:58.301Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -10,13 +10,11 @@ dateCreated: 2022-10-17T16:57:18.915Z
 
 # Laser Cutters
 
-<img src="/tools/lasercutters/laser_cutter_area_photo.jpg" width="400" />
-
 The Perth Artifactory has 3 laser cutters available for use. For details on each machine see these pages:
 
--   [Big Red](/tools/lasercutters/bigred)
--   [Middle Red](/tools/lasercutters/middlered)
--   [Little Red](/tools/lasercutters/littlered)
+* [Big Red](/tools/lasers/bigred)
+* [Middle Red](/tools/lasers/middlered)
+* [Little Red](/tools/lasers/littlered)
 
 The laser cutters use high intensity collimated infrared light to cut and engrave various materials. The most common materials cut on our laser cutters are woods and acrylic.
 
@@ -26,21 +24,19 @@ All operators must be trained before using the machines. An operator must be wat
 
 The laser cutters are dangerous tools. The main hazards:
 
-|                                                                     |
-|---------------------------------------------------------------------|
-| \< 100% 75px \>                                                     |
-| <img src="/tools/hazards/fire.png" width="100" />                   |
-| <img src="/tools/hazards/crush.svg" class="align-center" />         |
-| <img src="/tools/hazards/laser.png" width="100" />                  |
-| <img src="/tools/hazards/visible_light.svg" class="align-center" /> |
-| <img src="/tools/hazards/laser.png" width="100" />                  |
-| <img src="/tools/hazards/high_voltage.svg" class="align-center" />  |
+|                                                                 |      |
+| --------------------------------------------------------------- | ---- |
+| ![ionising_radiation.svg](/resources/hazards/fire.png)          | There is a constant risk of fire when cutting most materials. Supervise the laser at all times. |
+| ![ionising_radiation.svg](/resources/hazards/crush.svg)         | There is the risk of a crush injury when raising and lowering the bed. Keep your hands out of the machine when changing the bed height or focusing the laser. |
+| ![ionising_radiation.svg](/resources/hazards/laser.png)         | The lasers in these machines are capable of producing intense, collimated beams of light that can cause significant injury. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
+| ![ionising_radiation.svg](/resources/hazards/visible_light.svg) | When vaporised some material will release a bright light. Use your own judgement as to whether the light is too bright to look at directly. |
+| ![ionising_radiation.svg](/resources/hazards/high_voltage.svg)  | The laser cutters operate at approximately 30,000V. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
 
 ## Usage Costs
 
 To cover the cost of maintenance and consumables the laser cutters have fees per minute of operation. When a laser cutter job finishes, the display shows the time it took. This is the time to be charged. The laser cutter software on the PC can give an estimate of cut time before you start a job. It tends to under estimate though especially for engraving.
 
-The definitive reference to fees is given under "Tool Usage Fees" on [Committee Rulings](/committee/committeerulings). If these two pages differ, Committee Rulings takes precedence.
+The definitive reference to fees is given under "Tool Usage Fees" on [Committee Rulings](/committeerulings). If these two pages differ, Committee Rulings takes precedence.
 
 | Laser cutter | Member Rate                                 | Casual Rate                                               |
 |--------------|---------------------------------------------|-----------------------------------------------------------|
@@ -60,28 +56,26 @@ Please pay for laser time via bank deposit.
 
 All users must be trained on the laser cutters before using them. Training consists of two parts - first a session to explain how to use the laser cutter including supervised jobs done by the trainee. The second part is a test to ensure the operator is safe to use the laser cutter. A user must be trained and tested on each laser cutter since they are all different in certain aspects.
 
-[Training Procedure](/tools/lasercutters/training_procedure) - This page details the laser cutter training procedure.
-
 ### Trainers
 
 Below is a list of trainers (Artifactory volunteers who are able to train new operators). Training can be organised by posting a message to the \#lazors channel on slack.
 
-| Trainer Name  | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | LSO | Availability                                          |
-|---------------|----------------|-----------------|--------------|-----|-------------------------------------------------------|
-|               |                |                 |              |     |                                                       |
-| Nick Bannon   | Yes            | Yes             | Yes          | Yes | Third Tuesday of the month from 6pm                   |
-| Steve Hodges  | Yes            | TBC             | Yes          | Yes | Ask on Slack                                          |
-| Glenn Martin  | Yes            | TBC             | Yes          | No  |                                                       |
-| Fletcher Boyd | Yes            | Yes             | Yes          | No  | General Hacking Saturdays, other times by arrangement |
-| Iain Graham   | Yes            | Yes             | Yes          | No  | Upon request                                          |
-| Beau Daley    | Yes            | Yes             | Yes          | No  | General Hacking Saturdays, other times by arrangement |
-| Blake Samuels | Yes            | Yes             | Yes          | No  |                                                       |
+| Trainer Name   | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | Availability                                            |
+| -------------- | -------------- | --------------- | ------------ | ------------------------------------------------------- |
+| Blake Samuels  | Yes            | Yes             | Yes          | Arduino U (Confirm beforehand), #lazors on Slack        |
+| Beau Scott     | Yes            | Yes             | Yes          | #lazors on Slack                                        |
+| Bruce Chambers | No             | No              | Yes          | #lazors on Slack                                        |
+| Fletcher Boyd  | Yes            | Yes             | Yes          | General Hacking Saturdays (Confirm beforehand), #lazors on Slack           |
+| Glenn Martin   | Yes            | No              | Yes          | Unavailable                                             |
+| Iain Graham    | Yes            | Yes             | Yes          | Unavailable                                             |
+| Johannes Chuah | No             | No              | Yes          | #lazors on Slack                                        |
+| Nick Bannon    | Yes            | Yes             | Yes          | Third Tuesday of the month from 6pm (Confirm befrehand) |
+| Steve Hodges   | Yes            | No              | Yes          | Unavailable                                             |
 
-Laser Safety Officer (LSO) is a training and certification under the [Radiation Safety Act (1975)](http://www.austlii.edu.au/au/legis/wa/consol_act/rsa1975173/).
 
 ### Operators
 
-[Operators List](/tools/lasercutters/operators_list) - this is a list of the people who are trained to use each laser cutter.
+[Operators List](/tools/lasers/operators_list) - this is a list of the people who are trained to use each laser cutter.
 
 ## Instructions for Use
 
@@ -91,7 +85,7 @@ Laser Safety Officer (LSO) is a training and certification under the [Radiation 
 
 The software which drives both the LG500 and LC1290 is called "LaserCut" and can be found on the desktop of the computers linked up to their respective cutting machine.
 
-<embed src="/tools/lasercutters/lasercut5.3_manual_v1.6.pdf" class="align-center" /> - It's not a fantastic piece of documentation, but may be useful. Also see [MPC6515 controller page](/tools/lasercutters/controller_mpc6515).
+<embed src="/tools/lasercutters/lasercut5.3_manual_v1.6.pdf" class="align-center" /> - It's not a fantastic piece of documentation, but may be useful. Also see [MPC6515 controller page](/docs/lasers/controller_mpc6515).
 
 **Please don't alter any of the machine settings without checking with a trainer first!**
 
@@ -146,19 +140,10 @@ Pointers and helpful Tips for using the Artifactory Laser Cutters:
 -   **Engrave before cutting** - similar to the above. Engrave items before they have a chance to move
 -   You can **etch rather than engrave** by using the cut setting with a power level which marks rather than cutting through the material. eg with MDF (any thickness) on the small cutter: try 100% power, 70mm/s speed and 25% corners.
 
-```{=html}
-<!-- -->
-```
 -   The **large LC1290 laser** cuts faster and has a longer focus with a deeper cutting area, but may not be able to be fine enough for some engraving jobs.
 
-```{=html}
-<!-- -->
-```
 -   The **small LG500 laser** has a shorter focus which works well for fine engraving and thin&intricate cuts. It may not be able to cut all materials that the larger cutter can eat.
 
-```{=html}
-<!-- -->
-```
 -   The main software used to create laser cuts are **VCarve** and **LibreCAD**. They are installed on each CAD computer.
     -   VCarve is easier to use and works better with the software on the CNC machines.
     -   LibreCAD has more features but as such is a little harder to use and often creates files that cannot be fully read by the laser cutters. It helps to open these files in VCarve and export again as DXF.

@@ -1,9 +1,9 @@
 ---
 title: Milling Machine
-description: 
+description: BM-70VE
 published: true
-date: 2022-10-25T07:53:01.387Z
-tags: 
+date: 2022-10-25T08:01:36.913Z
+tags: tools, metalwork, machining
 editor: markdown
 dateCreated: 2022-10-17T16:58:58.322Z
 ---

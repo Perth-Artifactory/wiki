@@ -1,8 +1,8 @@
 ---
-title: Bandsaw
+title: Wood Bandsaw
 description: HAFCO Woodmaster BP-255
 published: true
-date: 2022-10-25T08:30:19.200Z
+date: 2022-10-25T08:31:32.302Z
 tags: tools, woodworking
 editor: markdown
 dateCreated: 2022-10-17T16:59:57.044Z

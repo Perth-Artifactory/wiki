@@ -2,7 +2,7 @@
 title: Milling Machine
 description: BM-70VE
 published: true
-date: 2022-10-25T08:33:50.159Z
+date: 2022-10-25T09:55:40.343Z
 tags: tools, metalwork, machining
 editor: markdown
 dateCreated: 2022-10-17T16:58:58.322Z
@@ -109,11 +109,6 @@ The artifactory maintains a small selection of mill tooling (end mills and slot 
 ### Damage / breakage
 
 Breakage of or damage to the machine or accessories is generally expected to be paid for by the person that did the breaking. Exceptions would include wear and tear, or machine failures unrelated to use.
-
-## Current status of the machine and notes on use
-
-At present the machine is operational but two of machine functions are limited pending repair or replacement of parts:  
-• The y-axis power feed is disabled as the motor has an earth fault and requires replacement. The x-axis feed works as normal.  
 
 ## General Instructions for Use
 

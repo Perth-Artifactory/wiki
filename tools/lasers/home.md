@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2022-10-19T12:47:23.468Z
+date: 2022-10-25T10:20:50.081Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z

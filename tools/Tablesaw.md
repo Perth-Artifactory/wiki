@@ -2,7 +2,7 @@
 title: Tablesaw
 description: DeWalt DWE7491-XE 2000W 254mm (10") Table Saw
 published: true
-date: 2022-10-25T08:18:21.351Z
+date: 2022-10-25T08:20:34.370Z
 tags: tools, woodworking, todo
 editor: markdown
 dateCreated: 2022-10-17T17:02:14.571Z
@@ -49,6 +49,6 @@ These accessories are stored **on the machine**. Please check that all items are
 | Dimensions LxWxH      | 742mm x 577mm x 425mm          |
 | Weight                | 26.6kg                         |
 
-## Notes
+## Ownership
 
-
+This tool was purchased through a combination of grant funds and crowdsourced donations. It is owned by the Artifactory.

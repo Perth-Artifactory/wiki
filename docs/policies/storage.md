@@ -12,6 +12,8 @@ This page lists [by-laws](/docs/policies/bylaws) relating to storage in the spac
 
 By-laws are made by the committee, as allowed for by the [Constitution](/constitution), §65 *By-laws*.
 
+In these by-laws, unless the contrary intention appears, all terms are as defined as in the Constitution, §1 *Definitions*.
+
 ------------------------------------------------------------------------
 
 ### Car Park

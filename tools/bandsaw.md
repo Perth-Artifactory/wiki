@@ -1,16 +1,16 @@
 ---
-title: HAFCO Woodmaster BP-255
-description: 
+title: Bandsaw
+description: HAFCO Woodmaster BP-255
 published: true
-date: 2022-10-19T12:49:05.904Z
-tags: 
+date: 2022-10-25T08:30:19.200Z
+tags: tools, woodworking
 editor: markdown
 dateCreated: 2022-10-17T16:59:57.044Z
 ---
 
 # HAFCO Woodmaster BP-255
 
-HAFCO Woodmaster BP-255 - Wood Band Saw, bought by the Artifactory early 2016
+HAFCO Woodmaster BP-255 - Wood Band Saw
 
 The band saw is suitable for cutting woods and plastics. NOT Aluminium
 
@@ -34,32 +34,23 @@ Use attached vacuum for dust extraction and open machine and clean out inside af
 
 ## Specifications
 
-MODELBP-255
-
-(mm)Wheel Diameter (Ø)255
-
-(mm)Throat Capacity245
-
-(mm)Height Capacity152
-
-(mm)Table Size360 x 320
-
-Frame TypeSteel
-
-(kW / hp)Motor Power0.375 / 0.5
-
-(V / amp)Voltage / Amperage240 / 10
-
-(Suits)Blade CodeW950A, W950B, W950F
-
-(mm)Blade Size (L x W x T)1826 x 12.5 x 0.65
-
-(mm)Floor Space (W x D x H)750 x 650 x 1430
-
-(mm)Shipping Dimensions (L x W x H)450 x 380 x 1020
-
-(kg)Nett Weight42
+| Specification   | Value                |
+| --------------- | -------------------- |
+| Model           | BP-255               |
+| Wheel Diameter  | (Ø)255mm             |
+| Throat Capacity | 245mm                |
+| Height Capacity | 152mm                |
+| Table Size      | 360mm x 320mm        |
+| Motor Power     | kW: 0.375<br>HP: 0.5 |
+| Power           | 240V 10A             |
+| Blade           | Models: W950A, W950B, W950F<br>Size:1826 x 12.5 x 0.65 |
+| Floor Space     | 750 x 650 x 1430     |
+| Weight          | 42kg                 | 
 
 ## Replacements
 
 Replacement Blades can be bought at MachineryHouse in Kewdale - "W950A - Wood Band Saw Blade - 6TPI, Carbon Steel Suits BP-255 Wood Band Saw" www.machineryhouse.com.au/
+
+## Ownership
+
+This tool was purchased outright by the Artifactory early 2016

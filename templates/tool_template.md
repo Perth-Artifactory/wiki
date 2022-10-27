@@ -2,7 +2,7 @@
 title: Tool template
 description: TOOL MODEL NUMBER
 published: true
-date: 2022-10-27T13:52:45.161Z
+date: 2022-10-27T13:53:42.210Z
 tags: needs picture
 editor: markdown
 dateCreated: 2022-10-27T13:52:12.885Z
@@ -49,6 +49,8 @@ Note if others need protection as well or just the user
 ## Authorised Users
 
 ### Trainers
+
+* How to organise training
 
 | Name       | Availability |
 | ---------- | ------------ |

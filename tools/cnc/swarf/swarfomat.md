@@ -49,6 +49,11 @@ Under NO circumstances should you use this machine if you have not been trained.
 | O Nokey                |
 | Tom White              |
 
+## Tool Usage Fee
+
+Refer to [Tool Usage Fees](/docs/policies/fees).
+
+
 ## Swarf-o-Mat Reference
 
 | Materials Reference |             |                      |                 |                                                             |

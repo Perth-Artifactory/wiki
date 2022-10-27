@@ -2,8 +2,8 @@
 title: Constitution
 description: 
 published: true
-date: 2022-10-20T11:49:52.520Z
-tags: 
+date: 2022-10-27T12:48:35.985Z
+tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:18.038Z
 ---

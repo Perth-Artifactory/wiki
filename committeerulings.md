@@ -2,7 +2,7 @@
 title: Committee Rulings
 description: 
 published: true
-date: 2022-10-20T12:27:11.215Z
+date: 2022-10-27T12:59:21.255Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:46:06.038Z
@@ -12,7 +12,7 @@ dateCreated: 2022-10-17T16:46:06.038Z
 
 Including Classes of Membership, Officers & By-Laws.
 
-NOTE: Should any rules here conflict with the WA Association Incorporation Act 2015 or the Constitution of Perth Artifactory Inc then that rule is limited by the overruling document. 
+NOTE: Should any rules here conflict with the WA Association Incorporation Act 2015 or the Constitution of Perth Artifactory Inc., then that rule is limited by the overruling document. 
 
 ## Classes of Membership
 

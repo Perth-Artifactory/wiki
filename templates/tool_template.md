@@ -2,8 +2,8 @@
 title: Tool template
 description: TOOL MODEL NUMBER
 published: true
-date: 2022-10-27T13:52:12.885Z
-tags: 
+date: 2022-10-27T13:52:45.161Z
+tags: needs picture
 editor: markdown
 dateCreated: 2022-10-27T13:52:12.885Z
 ---

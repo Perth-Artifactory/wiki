@@ -2,7 +2,7 @@
 title: Tool template
 description: TOOL MODEL NUMBER
 published: true
-date: 2022-10-27T13:53:42.210Z
+date: 2022-10-27T15:40:33.860Z
 tags: needs picture
 editor: markdown
 dateCreated: 2022-10-27T13:52:12.885Z
@@ -24,6 +24,14 @@ DESCRIPTION
 | Image       | Risk             | Mitigation      |
 | ----------- | ---------------- | --------------- |
 | danger icon | RISK DESCRIPTION | RISK MITIGATION |
+
+## Fees
+
+(Delete what doesn't apply)
+
+Usage of this tool is included in the [Workshop Usage Fee](/docs/policies/fees).
+
+Usage of this tool is subject to a [Tool Usage Fee](/docs/policies/fees).
 
 ## PPE Required
 

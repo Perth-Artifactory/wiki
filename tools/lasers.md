@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2022-10-25T10:47:58.301Z
+date: 2022-10-27T16:04:52.267Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -35,6 +35,8 @@ The laser cutters are dangerous tools. The main hazards:
 ## Usage Costs
 
 To cover the cost of maintenance and consumables the laser cutters have fees per minute of operation. When a laser cutter job finishes, the display shows the time it took. This is the time to be charged. The laser cutter software on the PC can give an estimate of cut time before you start a job. It tends to under estimate though especially for engraving.
+
+![big_red_laser_time_readout.jpg](/tools/lasers/big_red_laser_time_readout.jpg)
 
 The definitive reference to fees is given under "Tool Usage Fees" on [Committee Rulings](/committeerulings). If these two pages differ, Committee Rulings takes precedence.
 

@@ -2,7 +2,7 @@
 title: Tool template
 description: TOOL MODEL NUMBER
 published: true
-date: 2022-10-27T15:40:33.860Z
+date: 2022-10-27T15:43:35.272Z
 tags: needs picture
 editor: markdown
 dateCreated: 2022-10-27T13:52:12.885Z
@@ -50,7 +50,7 @@ Note if others need protection as well or just the user
 | Enclosed shoes                 | Y/N             |                                                                                        |
 | Steel capped boots             | Y/N             |                                                                                        |
 | Mask (dust)                    | Y/N             |                                                                                        |
-| Mask (vaopurs)                 | Y/N             |                                                                                        |
+| Respirator (vapours)                 | Y/N             |                                                                                        |
 | Long sleeves                   | Y/N             |                                                                                        |
 | Natural fibre clothing         | Y/N             |                                                                                        |
 

@@ -39,7 +39,7 @@ Cost basis:
 * Per day
 
 Member rate:
-* Included in all memberships bar Band Membership
+* Included in all [classes of membership](/docs/policies/classes_of_membership) bar Band Membership.
 
 Casual rate:
 * If attending a workshop event - included in the fee for the event unless otherwise noted
@@ -100,12 +100,10 @@ This section is the **authoritative reference** regarding usage fees for the too
 Tool usage fees generally reflect the cost of consumables, operation, maintenance, and upgrades to the tools and equipment.
 
 * Members pay the "member rate", excepting where the member's class of membership states that they pay the "casual rate".
-  * Ed: Really need to fix the definitions of "classes of membership" to explicitly say, for each and every class of membership, whether the "member rate" or the "casual rate" is charged for tool usage.
-  * Ed: Consider changing the language so that the rates are called "Standard rate" and "Discount rate".
 
 * All other users pay the "casual rate".
 
-* Casual users of the Artifactory pay the "Casual Makers" rate above, in addition to applicable tool usage fees.
+* Casual users of the Artifactory pay the workshop usage fee above, in addition to applicable tool usage fees.
 
 ----------------------------------------------------------------
 

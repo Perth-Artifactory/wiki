@@ -2,7 +2,7 @@
 title: Tool template
 description: TOOL MODEL NUMBER
 published: true
-date: 2022-10-27T13:53:42.210Z
+date: 2022-10-27T15:46:58.241Z
 tags: needs picture
 editor: markdown
 dateCreated: 2022-10-27T13:52:12.885Z
@@ -25,6 +25,14 @@ DESCRIPTION
 | ----------- | ---------------- | --------------- |
 | danger icon | RISK DESCRIPTION | RISK MITIGATION |
 
+## Fees
+
+(Delete what doesn't apply)
+
+Usage of this tool is included in the [Workshop Usage Fee](/docs/policies/fees).
+
+Usage of this tool is subject to a [Tool Usage Fee](/docs/policies/fees).
+
 ## PPE Required
 
 <!-- exclude items that are not applicable -->
@@ -36,13 +44,13 @@ Note if others need protection as well or just the user
 | Eye protection (impact/splash) | Y/N             |                                                                                        |
 | Eye protection (EMR)           | Y/N             | Be very specific as to what is needed. (wavelength and shade/OD)                       |
 | Ear protection                 | Y/N             | Include a sound rating if you can.                                                     |
-| Gloves (general)               | Y/N             |                                                                                        |
+| Gloves (general)               | Y/N             | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe.                                                                                       |
 | Gloves (chemical)              | Y/N             |                                                                                        |
 | Gloves (heat)                  | Y/N             |                                                                                        |
 | Enclosed shoes                 | Y/N             |                                                                                        |
 | Steel capped boots             | Y/N             |                                                                                        |
-| Mask (dust)                    | Y/N             |                                                                                        |
-| Mask (vaopurs)                 | Y/N             |                                                                                        |
+| Mask/Respirator (dust)                    | Y/N             | Note required class of respirator cartridge. I.e. P1, P2, P3.                                                                                       |
+| Mask/Respirator (vapours)                 | Y/N             | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.)                                                                                    |
 | Long sleeves                   | Y/N             |                                                                                        |
 | Natural fibre clothing         | Y/N             |                                                                                        |
 

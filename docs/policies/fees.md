@@ -39,14 +39,11 @@ Cost basis:
 * Per day
 
 Member rate:
-* [Full members](/docs/policies/classes_of_membership): Nil
-* [Concession members](/docs/policies/classes_of_membership): Nil
-* [Sponsored Student members](/docs/policies/classes_of_membership): Nil
-* [Resident Artist - NoizeMachin!!](/docs/policies/classes_of_membership): Nil (???)
+* Included in all memberships bar Band Membership
 
 Casual rate:
-* If attending a workshop event - included in the fee for the event.
-* During an open day - Nil. (???????????)
+* If attending a workshop event - included in the fee for the event unless otherwise noted
+* Visiting for a tour during an Open Day or other event - Nil
 * Otherwise, the Casual Access Rate - \$15 / day.
 
 Inclusions:
@@ -109,15 +106,13 @@ Tool usage fees generally reflect the cost of consumables, operation, maintenanc
 * All other users pay the "casual rate".
 
 * Casual users of the Artifactory pay the "Casual Makers" rate above, in addition to applicable tool usage fees.
-  * Ed: Again, consider renaming the rates to "Standard" and "Discount" to avoid confusion between casual users, and financial members (such as band memberships) who nonetheless pay the casual user rate.
-
 
 ----------------------------------------------------------------
 
 ### 3D Printer - FDM
 
 Cost basis
-* Weight of part, as printed. (Weigh using the digital scales in the Design Room.)
+* Weight of part including supports, as printed. (Weigh using the digital scales in the Design Lab.)
 
 Member rate
 * \$0.05 / gram, rounded up to the nearest \$1.00
@@ -126,7 +121,7 @@ Casual rate
 * \$0.20 / gram, rounded up to the nearest \$1.00
 
 Inclusions
-* N/A
+* Filament
 
 Exclusions
 * N/A
@@ -139,7 +134,7 @@ Payment method
 ### 3D Printer - Resin
 
 Cost basis
-* Weight of part, as printed. (Weigh using the digital scales in the Design Room.)
+* Weight of part including supports, as printed. (Weigh using the digital scales in the Design Lab.)
 
 Member rate
 * \$0.50 / gram, rounded up to the nearest \$1.00
@@ -148,8 +143,8 @@ Casual rate
 * \$1.00 / gram, rounded up to the nearest \$1.00
 
 Inclusions
-* Use of ultrasonic washer???
-* Reasonable quantity of isopropyl alcohol???
+* Resin
+* Reasonable quantity of isopropyl alcohol required to clean print
 
 Exclusions
 * N/A
@@ -162,7 +157,7 @@ Payment method
 ### CNC Router ("Swarf-o-mat")
 
 Cost basis
-* Time, including setup time and machining time. (???)
+* Machine run time
 
 Member rate
 * \$0.10 / minute, rounded up to the nearest \$1.00, when using Artifactory tooling.
@@ -175,7 +170,7 @@ Inclusions
 * Use of Artifactory-owned tooling, including reasonable wear and tear.
 
 Exclusions
-* N/A
+* Material
 
 Payment method
 * Bank transfer, referencing "SWARF" followed by your surname.
@@ -197,7 +192,7 @@ Inclusions
 * N/A
 
 Exclusions
-* N/A
+* Material
 
 Payment method
 * Bank transfer, referencing "LASER" followed by your surname.
@@ -207,7 +202,7 @@ Payment method
 ### Laser cutter - Middle Red
 
 Cost basis
-* Machine run time, as reported on the machine's display after completion of a job. (???)
+* Machine run time, as reported on the machine's display after completion of a job.
 
 Member rate
 * \$0.10 / minute, rounded up to the nearest \$1.00
@@ -229,7 +224,7 @@ Payment method
 ### Laser cutter - Little Red
 
 Cost basis
-* Machine run time, as reported on the machine's display after completion of a job. (???)
+* Machine run time, as reported on the machine's display after completion of a job.
 
 Member rate
 * \$0.10 / minute, rounded up to the nearest \$1.00
@@ -251,7 +246,7 @@ Payment method
 ### Metal mill (Turret mill) - BM70-VE
 
 Cost basis
-* Time, including setup time and machining time. (???)
+* Time, including setup time and machining time.
 
 Member rate
 * \$5.00 / hour or part thereof
@@ -270,66 +265,23 @@ Payment method
 
 ----------------------------------------------------------------
 
-### Metal lathe (mini-lathe)
-
-Cost basis
-* Time, including setup time and machining time. (???)
-
-Member rate
-* \$5.00 / hour or part thereof (???)
-
-Casual rate
-* \$10.00 / hour or part thereof (???)
-
-Inclusions
-* Use of Artifactory-owned tooling, including reasonable wear and tear.
-
-Exclusions
-* Use of member-owned tooling.
-
-Payment method
-* Bank transfer, referencing "LATHE" followed by your surname.
-
-----------------------------------------------------------------
-
-### Vinyl cutter
-
-Cost basis
-* Time, including setup time and machining time. (???)
-
-Member rate
-* \$5.00 / hour or part thereof (???)
-
-Casual rate
-* \$10.00 / hour or part thereof (???)
-
-Inclusions
-* Use of Artifactory-owned tooling, including reasonable wear and tear. (???)
-
-Exclusions
-* Use of member-owned tooling. (???)
-
-Payment method
-* Bank transfer, referencing "VINYL" followed by your surname. (???)
-
-----------------------------------------------------------------
-
 ### Welding, with gas
 
 Cost basis
-* Time. (???)
+* Time, excluding setup time.
 
 Member rate
-* \$15.00 / hour or part thereof (???)
+* \$15.00 / hour, rounded up to the nearest \$5.00
 
 Casual rate
-* \$20.00 / hour or part thereof (???)
+* \$20.00 / hour, rounded up to the nearest \$5.00
 
 Inclusions
-* Welding consumables, including welding gas. (???)
+* Welding gas
+* Reasonable quantity of wire
 
 Exclusions
-* N/A (???)
+* N/A
 
 Payment method
 * Bank transfer, referencing "WELDING" followed by your surname. (???)

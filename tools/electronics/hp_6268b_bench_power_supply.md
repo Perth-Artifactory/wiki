@@ -2,7 +2,7 @@
 title: HP 6268B Bench Power Supply
 description: 
 published: true
-date: 2022-10-19T12:46:37.854Z
+date: 2022-10-26T15:44:19.594Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:56:12.422Z
@@ -10,7 +10,9 @@ dateCreated: 2022-10-17T16:56:12.422Z
 
 # HP 6268B Bench Power Supply
 
-\*\* Specifications \*\*
+![hp_6269a.jpg](/hp_6269a.jpg)
+
+## Specifications
 
 1.  Over-voltage protection
 2.  Analog programmable
@@ -23,9 +25,13 @@ dateCreated: 2022-10-17T16:56:12.422Z
 9.  Line regulation: 0.01% + 200 uV, 0.02% + 2 mA
 10. Physical Specifications: Weight: 34.4 kg (76 lbs); Dimensions: 483 mm W x 173 mm H x 479.4 mm D (19 in x 6.81 in x 18.88 in)
 
-For a detailed user manual see <http://literature.cdn.keysight.com/litweb/pdf/5950-1766.pdf?id=734358>
+## Manuals
 
-\*\* Setting up and using \*\*
+For detailed specifications see [4360_6269b.pdf](/4360_6269b.pdf)
+
+For a detailed user manual see [6269b.pdf](/6269b.pdf)
+
+## Basic Operating Instructions
 
 1.  Disconnect load
 2.  Turn both coarse controls fully anticlockwise
@@ -41,6 +47,8 @@ For a detailed user manual see <http://literature.cdn.keysight.com/litweb/pdf/59
 If something goes wrong, turn the coarse current limit fully anticlockwise
 
 I **STRONGLY** recommend you set the current limit to something safe.
+
+## WARNING
 
 This power supply can supply a very high current. **BE VERY CAREFUL** at high power settings it can supply in excess of 1000W. Although this power supply is pretty simple to use, if you want to know more, please RTFM.
 

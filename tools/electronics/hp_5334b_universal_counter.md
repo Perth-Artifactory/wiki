@@ -2,7 +2,7 @@
 title: HP 5334B Universal Counter
 description: 
 published: true
-date: 2022-10-19T12:46:26.590Z
+date: 2022-10-27T08:54:21.892Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:55:53.675Z
@@ -10,7 +10,7 @@ dateCreated: 2022-10-17T16:55:53.675Z
 
 # HP 5334B Universal Counter
 
-\*\* Specifications \*\*
+## Specifications
 
 -   Channel A and B: 0.001Hz to 100MHz
 -   Sensitivity 15mV 0-20MHz, 35mV to 100MHz
@@ -18,7 +18,7 @@ dateCreated: 2022-10-17T16:55:53.675Z
 -   Period: 10ns to 10\^3s
 -   Timebase: 10MHz OCO
 
-\*\* Setting up and using \*\*
+## Basic Operation
 
 1.  Apply power (a power light is on even when the device is in standby because the 10MHz oscillator is always powered)
 2.  Set FREQ A

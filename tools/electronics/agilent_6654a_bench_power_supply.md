@@ -2,7 +2,7 @@
 title: Agilent 6654A Bench Power Supply
 description: 
 published: true
-date: 2022-10-19T12:45:55.770Z
+date: 2022-10-26T13:15:11.929Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:55:17.214Z
@@ -10,7 +10,9 @@ dateCreated: 2022-10-17T16:55:17.214Z
 
 # Agilent 6654A Bench Power Supply
 
-\*\* Specifications \*\*
+![prod-839368-01.webp](/prod-839368-01.webp)
+
+## Specifications
 
 -   Output voltage: 0—60 V DC
 -   Output current: 0-9A
@@ -20,11 +22,15 @@ dateCreated: 2022-10-17T16:55:17.214Z
 -   Voltmeter accuracy: 40mV
 -   Ammeter accuracy: 7mA
 
-For detailed specifications see <http://literature.cdn.keysight.com/litweb/pdf/5990-9305EN.pdf?id=1000073286:epsg:dow>
+## Manuals
 
-For a detailed user manual see <http://literature.cdn.keysight.com/litweb/pdf/5964-8267.pdf?id=1000002297-1:epsg:man>
+For Specifications see: [5990-9305.pdf](/5990-9305.pdf)
 
-\*\* Setting up and using \*\*
+For an Operating Guide see: [9018-01422.pdf](/9018-01422.pdf)
+
+For a Service Manual see: [9018-01114.pdf](/9018-01114.pdf)
+
+## Basic Operating Instructions
 
 1.  Apply power
 2.  Press VOLTAGE

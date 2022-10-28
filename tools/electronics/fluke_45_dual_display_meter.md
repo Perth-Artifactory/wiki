@@ -2,7 +2,7 @@
 title: Fluke 45 Dual Display Multimeter
 description: 
 published: true
-date: 2022-10-19T12:46:14.226Z
+date: 2022-10-26T15:07:04.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:55:35.109Z
@@ -10,7 +10,9 @@ dateCreated: 2022-10-17T16:55:35.109Z
 
 # Fluke 45 Dual Display Multimeter
 
-\*\* Specifications \*\*
+![fluke_45.jpg](/fluke_45.jpg)
+
+## Specifications
 
 -   100,000 count multimeter
 -   True-RMS voltage and current, including AC+DC
@@ -23,9 +25,17 @@ dateCreated: 2022-10-17T16:55:35.109Z
 -   Resistance 0Ω - 100MΩ; resolution 1mΩ to 100kΩ
 -   dB readout (600Ω reference): range -34 ± 60; resolution 0.01 dB to 0.1 dB
 
-User manual: <http://assets.fluke.com/manuals/45______umeng0400.pdf>
+## Manuals
 
-Use it like a normal multimeter. Note that for the more complex stuff (like handling the dual display, min/max, compare, and relative modes, RTFM
+For detailed specifications see [fluke_45_data_sheet.pdf](/fluke_45_data_sheet.pdf)
+
+For a detailed User's Manual see [fluke_45_user.pdf](/fluke_45_user.pdf)
+
+A service manual is also available (ask Steve)
+
+## Basic Operating Instructions
+
+Use it like a normal multimeter. Note that for the more complex stuff (like handling the dual display, min/max, compare, and relative modes), RTFM
 
 ------------------------------------------------------------------------
 

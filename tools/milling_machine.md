@@ -98,9 +98,9 @@ The **key risk mitigation measures** in place are:
 
 Access to the machine is available to Artifactory members only. New users will need to complete a training / familiarisation session (see the [Milling Machine Training](Milling Machine Training) page), and then at a later date use the machine under supervision. Upon satisfactory completion of those requirements, the user will be given the combination to the tool cabinet and isolator and will be able to use the machine without supervision. Access remains at Ben's discretion (in addition to the usual Committee discretion) and can be revoked at any time.
 
-### Costs
+### Tool Usage Fee
 
-The cost to use the machine is \$5.00 per hour for Artifactory members and \$10.00 per hour for others, applicable to both setup and machining time and payable to the Artifactory. Bank transfers should be referenced "MILL" followed by your surname.
+Refer to [Tool Usage Fees](/docs/policies/fees).
 
 ### Tooling
 

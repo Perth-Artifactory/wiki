@@ -38,21 +38,7 @@ To cover the cost of maintenance and consumables the laser cutters have fees per
 
 ![big_red_laser_time_readout.jpg](/tools/lasers/big_red_laser_time_readout.jpg)
 
-The definitive reference to fees is given under "Tool Usage Fees" on [Committee Rulings](/committeerulings). If these two pages differ, Committee Rulings takes precedence.
-
-| Laser cutter | Member Rate                                 | Casual Rate                                               |
-|--------------|---------------------------------------------|-----------------------------------------------------------|
-| Big Red      | \$0.20 per minute rounded up to nearest \$1 | \$5 per 10 min (\$0.50 per min) rounded up to nearest \$5 |
-| Middle Red   | \$0.10 per minute rounded up to nearest \$1 | \$5 per 10 min (\$0.50 per min) rounded up to nearest \$5 |
-| Little Red   | \$0.10 per minute rounded up to nearest \$1 | \$5 per 10 min (\$0.50 per min) rounded up to nearest \$5 |
-
-Casual members must also pay the day rate.
-
-Please pay for laser time via bank deposit.
-
--   BSB: 086 366
--   Account: 16 546 9448
--   Description: LASER + Your name
+Refer to [Tool Usage Fees](/docs/policies/fees) for the current fees.
 
 ## Training
 

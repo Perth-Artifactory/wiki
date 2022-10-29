@@ -8,7 +8,9 @@ editor: markdown
 dateCreated: 2022-10-24T18:10:00.000Z
 ---
 
-This page lists [by-laws](/docs/policies/bylaws) relating to fees.
+This page lists [by-laws](/docs/policies/bylaws) relating to fees, other than membership fees.
+
+Membership fees are listed under [Classes of membership](/docs/policies/classes_of_membership).
 
 By-laws are made by the committee, as allowed for by the [Constitution](/constitution), §65 *By-laws*.
 
@@ -16,44 +18,268 @@ In these by-laws, unless the contrary intention appears, all terms are as define
 
 ------------------------------------------------------------------------
 
-## Casual Makers
-
-Updated at AGM 2021-09-18.
-
-* Cost per day is \$15 (Casual Access Rate) plus applicable tool usage fees. If a person is attending a workshop/event that counts as paid for the day unless otherwise stated. (Events similar to Noizemaschin do not count as paid)
+This page was endorsed at the committee meeting held 2022-XX-XX.
 
 ------------------------------------------------------------------------
 
-### Tool Usage Fees
+## Bank transfer details
 
-Last modified at committee meeting 2019-11-02.
+The Artifactory's direct deposit details are:
 
-Whilst the **membership** fee allows access to our many machines, some of which have an additional timed cost for use, this allows for money to go towards to maintaining and upkeep of the machines.
+* BSB: 086 366
+* Account number: 16 546 9448
 
-**Casual users** of the Artifactory pay the tool usage fee plus the casual access rate to the Artifactory. The casual access fee may collected as part of a cost for a workshop/event.
+Transaction descriptions should be as noted below.
 
-#### Laser Cutters
+------------------------------------------------------------------------
 
-* Member Rate: Big Red \$0.20, Little Red/Kellogg \$0.10 per minute rounded up to the nearest dollar.
-* Casual User Rate: \$5 per 10 minutes rounded up to the nearest \$5.
+## Workshop Usage Fees
 
-#### Welding with Gas
+Cost basis:
+* Per day
 
-* Member Rate: \$15 an hour or part there of
-* Casual User Rate: \$20 an hour or part there of
+Member rate:
+* Included in all [classes of membership](/docs/policies/classes_of_membership) bar Band Membership.
 
-#### 3D Printer
+Casual rate:
+* If attending a workshop event - included in the fee for the event unless otherwise noted
+* Visiting for a tour during an Open Day or other event - Nil
+* Otherwise, the Casual Access Rate - \$15 / day.
 
-* Member Rate: \$0.05 per gram rounded up the nearest dollar
-* Casual User Rate: \$0.20 per gram rounded up the nearest dollar
+Inclusions:
+* Use of the communal areas.
+* Use of the indoor and outdoor workshop areas.
+* Use of workshop tools, equipment, computers, etc.
+  * Some tools require you to be trained, deemed competent, and authorised before use.
+  * Some tools attract additional Tool Usage Fees - see below.
 
-#### 3D Printer - Resin
+Exclusions:
+* Use of the rehearsal room.
 
-* Member Rate: \$0.50 per gram
-* Casual User Rate: \$1 per gram
+Payment method:
+* EFTPOS machine at the bar - self service
 
-#### CNC Machines:
+Note: The Casual Access Rate is reviewed during each Annual General Meeting.
+The Casual Access Rate was set to \$15 at the AGM held on 2021-09-18.
 
-* Member Rate: \$0.10 per minute rounded up to the nearest dollar if using Artifactory tooling
-* Member Rate: \$0.05 per minute rounded up to the nearest dollar if using your own tooling
-* Casual User Rate: \$5 per 10 minutes rounded up to the nearest \$5
+------------------------------------------------------------------------
+
+## Rehearsal Room Usage Fees
+
+Cost basis:
+* Per session
+
+Member rate:
+* With [Band Membership](/docs/policies/classes_of_membership): Nil
+
+Casual rate:
+* Where at least 50% of the group are [Full or Concession members](/docs/policies/classes_of_membership): \$20 per session.
+* Casual users: \$40 / session
+
+Inclusions:
+* Use of the communal areas.
+* Use of the rehearsal room.
+
+Exclusions:
+* Use of the indoor and outdoor workshop areas.
+* Use of workshop tools, equipment, computers, etc.
+
+Payment method:
+* Bank transfer, referencing "REHEARSAL" followed by your surname.
+
+See [Rehearsal Room - Casual Usage](/docs/policies/bylaws) for further details regarding casual usage.
+
+See [Classes of membership](/docs/policies/classes_of_membership) for further details on entitlements included with Band Membership.
+
+------------------------------------------------------------------------
+
+## Tool Usage Fees
+
+This section is the **authoritative reference** regarding usage fees for the tools and equipment listed below.
+
+Tool usage fees generally reflect the cost of consumables, operation, maintenance, and upgrades to the tools and equipment.
+
+* Members pay the "member rate", excepting where the member's class of membership states that they pay the "casual rate".
+
+* All other users pay the "casual rate".
+
+* Casual users of the Artifactory pay the workshop usage fee above, in addition to applicable tool usage fees.
+
+----------------------------------------------------------------
+
+### 3D Printer - FDM
+
+Cost basis
+* Weight of part including supports, as printed. (Weigh using the digital scales in the Design Lab.)
+
+Member rate
+* \$0.05 / gram, rounded up to the nearest \$1.00
+
+Casual rate
+* \$0.20 / gram, rounded up to the nearest \$1.00
+
+Inclusions
+* Filament
+
+Exclusions
+* N/A
+
+Payment method
+* Bank transfer, referencing "3D PRINT" followed by your surname.
+
+----------------------------------------------------------------
+
+### 3D Printer - Resin
+
+Cost basis
+* Weight of part including supports, as printed. (Weigh using the digital scales in the Design Lab.)
+
+Member rate
+* \$0.50 / gram, rounded up to the nearest \$1.00
+
+Casual rate
+* \$1.00 / gram, rounded up to the nearest \$1.00
+
+Inclusions
+* Resin
+* Reasonable quantity of isopropyl alcohol required to clean print
+
+Exclusions
+* N/A
+
+Payment method
+* Bank transfer, referencing "3D PRINT" followed by your surname.
+
+----------------------------------------------------------------
+
+### CNC Router ("Swarf-o-mat")
+
+Cost basis
+* Machine run time
+
+Member rate
+* \$0.10 / minute, rounded up to the nearest \$1.00, when using Artifactory tooling.
+* \$0.05 / minute, rounded up to the nearest \$1.00, when using B.Y.O. tooling.
+
+Casual rate
+* \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
+
+Inclusions
+* Use of Artifactory-owned tooling, including reasonable wear and tear.
+
+Exclusions
+* Material
+
+Payment method
+* Bank transfer, referencing "SWARF" followed by your surname.
+
+----------------------------------------------------------------
+
+### Laser cutter - Big Red
+
+Cost basis
+* Machine run time, as reported on the machine's display after completion of a job.
+
+Member rate
+* \$0.20 / minute, rounded up to the nearest \$1.00
+
+Casual rate
+* \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
+
+Inclusions
+* N/A
+
+Exclusions
+* Material
+
+Payment method
+* Bank transfer, referencing "LASER" followed by your surname.
+
+----------------------------------------------------------------
+
+### Laser cutter - Middle Red
+
+Cost basis
+* Machine run time, as reported on the machine's display after completion of a job.
+
+Member rate
+* \$0.10 / minute, rounded up to the nearest \$1.00
+
+Casual rate
+* \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
+
+Inclusions
+* N/A
+
+Exclusions
+* N/A
+
+Payment method
+* Bank transfer, referencing "LASER" followed by your surname.
+
+----------------------------------------------------------------
+
+### Laser cutter - Little Red
+
+Cost basis
+* Machine run time, as reported on the machine's display after completion of a job.
+
+Member rate
+* \$0.10 / minute, rounded up to the nearest \$1.00
+
+Casual rate
+* \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
+
+Inclusions
+* N/A
+
+Exclusions
+* N/A
+
+Payment method
+* Bank transfer, referencing "LASER" followed by your surname.
+
+----------------------------------------------------------------
+
+### Metal mill (Turret mill) - BM70-VE
+
+Cost basis
+* Time, including setup time and machining time.
+
+Member rate
+* \$5.00 / hour or part thereof
+
+Casual rate
+* \$10.00 / hour or part thereof
+
+Inclusions
+* Use of Artifactory-owned tooling, including reasonable wear and tear.
+
+Exclusions
+* Use of member-owned tooling.
+
+Payment method
+* Bank transfer, referencing "MILL" followed by your surname.
+
+----------------------------------------------------------------
+
+### Welding, with gas
+
+Cost basis
+* Time, excluding setup time.
+
+Member rate
+* \$15.00 / hour, rounded up to the nearest \$5.00
+
+Casual rate
+* \$20.00 / hour, rounded up to the nearest \$5.00
+
+Inclusions
+* Welding gas
+* Reasonable quantity of wire
+
+Exclusions
+* N/A
+
+Payment method
+* Bank transfer, referencing "WELDING" followed by your surname. (???)

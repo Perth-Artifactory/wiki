@@ -14,6 +14,10 @@ Members are responsible for providing tooling and safety equipment for use with 
   
 The lathe is a **very** dangerous tool and is not to be used until you have had a safety induction and basic training by someone on the lathe trainers list below. This is true even if you have used lathes before and is non-negotiable.
 
+### Tool Usage Fee
+
+Refer to [Tool Usage Fees](/docs/policies/fees).
+
 ## Approved Users
 
 ### Trainers

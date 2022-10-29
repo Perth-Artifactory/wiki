@@ -1,6 +1,6 @@
 ---
 title: Constitution
-description: 
+description:
 published: true
 date: 2022-10-27T12:48:35.985Z
 tags: official
@@ -12,27 +12,28 @@ dateCreated: 2022-10-17T16:46:18.038Z
 
 A. The name of the Association is: Perth Artifactory Inc.
 
-B. The objects of the Association are: 
+B. The objects of the Association are:
 
-* promote the creative use of technology; 
+* promote the creative use of technology;
 * establish, maintain, and equip a shared work space for its members;
 * provide work space, storage, and other resources for the creative and artistic use of technology;
 * foster a collaborative, inclusive, safe, and creative environment for artistic and technological projects;
-* educate and train its members in skills relevant to its objects; \* organise educational, social and cultural events to promote the creative use of technology;
+* educate and train its members in skills relevant to its objects;
+* organise educational, social and cultural events to promote the creative use of technology;
 * raise funds to support its other objects;
-* communicate and collaborate with others with similar objectives. 
+* communicate and collaborate with others with similar objectives.
 
 C. Any 20% of the ordinary members (being members entitled to vote under these rules at a general meeting) will constitute a quorum for the conduct of business at a general meeting.
 
 D. Any 4 committee members constitute a quorum for the conduct of the business of a committee meeting.
 
-E. The association’s financial year will be the period of 12 months commencing on 1st July and ending on 30th June of each year.
+E. The Association’s financial year will be the period of 12 months commencing on 1st July and ending on 30th June of each year.
 
-## PART 1 - PRELIMINARY 
+## PART 1 - PRELIMINARY
 
 ### 1 Definitions
 
-In these rules, unless the contrary intention appears — 
+In these rules, unless the contrary intention appears —
 
 * **Act** means the Associations Incorporation Act 2015;
 * **associate** member means a member with the rights referred to in rule 8.4;
@@ -74,7 +75,7 @@ In these rules, unless the contrary intention appears —
 * **tier 3 association** means an incorporated association to which section 64(3) of the Act applies;
 * **treasurer** means the committee member holding office as the treasurer of the Association.
 
-### 2 Purpose/Objects
+### 2 Purpose/Objects
 
 The Purpose of the Association is to encourage and facilitate creative use of technology. The objects of the Association are to:
 
@@ -89,7 +90,7 @@ The Purpose of the Association is to encourage and facilitate creative use of te
 
 ### 3 Financial year
 
-The association’s financial year will be the period of 12 months commencing on 1st July and ending on the 30th June each year.
+The Association’s financial year will be the period of 12 months commencing on 1st July and ending on the 30th June each year.
 
 ## PART 2 — ASSOCIATION TO BE NOT FOR PROFIT BODY
 
@@ -105,7 +106,7 @@ The association’s financial year will be the period of 12 months commencing on
 
 ## PART 3 – MEMBERS
 
-##           Division 1 — Membership
+##           Division 1 — Membership
 
 ### 5 Applying for Membership
 
@@ -115,7 +116,7 @@ The association’s financial year will be the period of 12 months commencing on
 
 ### 6 Dealing with Membership Applications
 
-* 6.1 The committee must consider each application for membership of the Association and decide whether to accept or reject the application
+* 6.1 The committee must consider each application for membership of the Association and decide whether to accept or reject the application.
 * 6.2 The committee may delay its consideration of an application if the committee considers that any matter relating to the application needs to be clarified by the applicant or that the applicant needs to provide further information in support of the application.
 * 6.3 The committee must not accept an application unless the applicant —
   * 6.3.a is eligible under rule 5.1; and
@@ -126,17 +127,17 @@ The association’s financial year will be the period of 12 months commencing on
 ### 7 Becoming a member
 
 * 7.1 An applicant for membership of the Association becomes a member when -
-  * 7.1.a the applicant pays any membership fees payable to the Association under rule 12.4 and
+  * 7.1.a the applicant pays any membership fees payable to the Association under rule 12.4; and
   * 7.1.b the committee accepts the application at a committee meeting or as stated in the by-laws.
 
 ### 8 Classes of membership
 
 * 8.1 The Committee may make multiple classes of ordinary membership and associate membership and may make individual arrangements for membership.
-* 8.2 A person or entity can only hold one class of membership
+* 8.2 A person or entity can only hold one class of membership.
 * 8.3 An ordinary member has full voting rights and any other rights conferred on members by these rules or approved by resolution at a general meeting or determined by the committee.
-* 8.4 An associate member has the rights referred to in rule 8.3
+* 8.4 An associate member has the rights referred to in rule 8.3 —
   * 8.4.a other than full voting rights;
-  * 8.4.b and rights restricted under a particular class of associate membership
+  * 8.4.b and rights restricted under a particular class of associate membership.
 * 8.5 The Committee may limit the number of members of any class of membership and associate membership.
 * 8.6 If a particular class of membership is in use, the Association does not have the right except at a General Meeting to change a class of membership to an Associate Class or vice versa.
 
@@ -157,7 +158,7 @@ The association’s financial year will be the period of 12 months commencing on
 * 10.2 The resignation takes effect —
   * 10.2.a when the Secretary receives the notice; or
   * 10.2.b if a later time is stated in the notice, at that later time; or
-  * 10.2.c when described in the by-laws
+  * 10.2.c when described in the by-laws.
 * 10.3 A person who has resigned from membership of the Association remains liable for any fees that are owed to the Association (the owed amount) at the time of resignation.
 * 10.4 The owed amount may be recovered by the Association in a court of competent jurisdiction as a debt due to the Association.
 
@@ -170,8 +171,8 @@ The rights of a member are not transferable and end when membership ceases.
 ### 12 Membership fees
 
 * 12.1 The committee must determine the entrance fee (if any) and the period of the membership fee (if any) to be paid for membership of the Association.
-* 12.2 The membership fee and payment schedule will be fixed by the Management Committee, subject to review by the members at a general meeting
-* 12.3 All members must pay the membership fees on the schedule set by the Management Committee
+* 12.2 The membership fee and payment schedule will be fixed by the Management Committee, subject to review by the members at a general meeting.
+* 12.3 All members must pay the membership fees on the schedule set by the Management Committee.
 * 12.4 A member must pay the membership fee to the treasurer, or another person authorised by the committee to accept payments, by the date (the due date) determined by the committee.
 * 12.5 If a member has not paid the membership fee within the period of 3 months after the due date, the member ceases to be a member on the expiry of that period.
 * 12.6 If a person who has ceased to be a member under rule (12.5) offers to pay the appropriate membership fee relevant to their membership level after the period referred to in that rule has expired —
@@ -190,7 +191,7 @@ The rights of a member are not transferable and end when membership ceases.
   * 13.5.a a member inspecting the register of members wishes to make a copy of, or take an extract from, the register under section 54(2) of the Act; or
   * 13.5.b a member makes a written request under section 56(1) of the Act to be provided with a copy of the register of members,
 
-      the committee may require the member to provide a statutory declaration setting out the purpose for which the copy or extract is required and declaring that the purpose is connected with the affairs of the Association.  
+      the committee may require the member to provide a statutory declaration setting out the purpose for which the copy or extract is required and declaring that the purpose is connected with the affairs of the Association.
 
 ## PART 4 — DISCIPLINARY ACTION, DISPUTES AND MEDIATION
 
@@ -198,7 +199,7 @@ The rights of a member are not transferable and end when membership ceases.
 
 ### 14 Term Used: Member
 
-In this Part (Pt 4) — member in relation to a member who is expelled from the Association, includes former member.
+In this Part (Pt 4) — member in relation to a member who is expelled from the Association, includes former member.
 
 ## Division 2 — Disciplinary action
 
@@ -212,13 +213,13 @@ In this Part (Pt 4) — member in relation to a member who is expelled from 
   * 15.3.a The rights being restricted    
   * 15.3.b The reason for the Emergency Temporary Suspension  
   * 15.3.c A summary of this section of the Constitution  
-  * 15.3.d Any applicable rights or methods of appeal available to the member 
+  * 15.3.d Any applicable rights or methods of appeal available to the member
   * 15.3.e A link to, or a copy of, this Constitution as a whole  
 * 15.4 **Length of Emergency Temporary Suspension** An Emergency Temporary Suspension under this section must not exceed 31 days from the date of initial notification.     
-* 15.5 Upholding and withdrawing an emergency temporary suspension 
+* 15.5 Upholding and withdrawing an emergency temporary suspension
   * 15.5.a An emergency temporary suspension must be reviewed and can be modified, withdrawn or upheld at every subsequent meeting of the management committee where allowable under this constitution.
   * 15.5.b Any two members of the Management Committee may choose to withdraw or modified an emergency temporary suspension unless that emergency temporary suspension has been upheld by a meeting of the Management Committee. Any changes can be delivered verbally but must also be sent via written notice within 3 days.    
-* 15.6 Appealing an Emergency Temporary Suspension 
+* 15.6 Appealing an Emergency Temporary Suspension
   * 15.6.a A member subject to a emergency temporary suspension defined by this section may opt to provide a written appeal of reasonable length to the Secretary. The Management Committee must consider this appeal when considering the suspension.    
 
 ### 16 Suspension or expulsion
@@ -255,7 +256,7 @@ In this Part (Pt 4) — member in relation to a member who is expelled from 
 
 ## Division 3 — Resolving disputes
 
-### 18     Terms Used
+### 18     Terms Used
 
 In this Division —
 
@@ -266,9 +267,9 @@ In this Division —
 
 ### 19 Application of Division
 
-The procedure set out in this Division (Pt4, Div3) (the grievance procedure) applies to disputes —
+The procedure set out in this Division (Pt4, Div3) (the grievance procedure) applies to disputes —
 * 19.1 between members; or
-* 19.2 between one or more members and the Association
+* 19.2 between one or more members and the Association.
 
 ### 20 Parties to attempt to resolve dispute
 
@@ -305,10 +306,10 @@ The parties to a dispute must attempt to resolve the dispute between themselves 
 
 ### 23 Appointment of mediator
 
-* 23.1 This Division (Pt 4, Div 4) applies if written notice has been given to the secretary requesting the appointment of a mediator —
+* 23.1 This Division (Pt 4, Div 4) applies if written notice has been given to the secretary requesting the appointment of a mediator —
   * 23.1.a by a member under rule 16.6; or
   * 23.1.b by a party to a dispute under rule 21.5.b.i or 22.3.
-* 23.2 If this Division (Pt 4, Div 4) applies, a mediator must be chosen or appointed under rule 24.
+* 23.2 If this Division (Pt 4, Div 4) applies, a mediator must be chosen or appointed under rule 24.
 
 ### 24 Appointment of mediator
 
@@ -362,13 +363,13 @@ The parties to a dispute must attempt to resolve the dispute between themselves 
 
 * 28.1 The Management Committee must consist of at least 5 but not more than 10 members.
 * 28.2 The following are the office bearers of the Association —
-  * 28.2.a   the chairperson;
-  * 28.2.b   the deputy chairperson;
-  * 28.2.c   the secretary;
-  * 28.2.d   the treasurer.
+  * 28.2.a   the chairperson;
+  * 28.2.b   the deputy chairperson;
+  * 28.2.c   the secretary;
+  * 28.2.d   the treasurer.
 * 28.3 A person may be a committee member if the person is —
-  * 28.3.a   an individual who has reached 18 years of age; and
-  * 28.3.b   a ordinary member.
+  * 28.3.a   an individual who has reached 18 years of age; and
+  * 28.3.b   a ordinary member.
 * 28.4 A person must not hold 2 or more of the offices mentioned in rule 28.2 at the same time.
 * 28.5 The office bearers referred to in rule 28.2 will form the Executive Committee
 
@@ -381,29 +382,29 @@ The parties to a dispute must attempt to resolve the dispute between themselves 
 
 The Secretary has the following duties —
 
-* a) dealing with the Association’s correspondence;  
-* b) consulting with the chairperson regarding the business to be conducted at each committee meeting and general meeting;   
-* c) preparing the notices required for meetings and for the business to be conducted at meetings;   
-* d) unless another member is authorised by the committee to do so, maintaining on behalf of the Association the register of members, and recording in the register any changes in the membership, as required under section 53(1) of the Act;   
-* e) maintaining on behalf of the Association an up-to-date copy of these rules, as required under section 35(1) of the Act; 
-* f) unless another member is authorised by the committee to do so, maintaining on behalf of the Association a record of committee members and other persons authorised to act on behalf of the Association, as required under section 58(2) of the Act;    
-* g) ensuring the safe custody of the books of the Association, other than the financial records, financial statements and financial reports, as applicable to the Association;  
-* h) maintaining full and accurate minutes of committee meetings and general meetings;   
-* i) carrying out any other duty given to the secretary under these rules or by the committee. 
+* a) dealing with the Association’s correspondence;
+* b) consulting with the chairperson regarding the business to be conducted at each committee meeting and general meeting;
+* c) preparing the notices required for meetings and for the business to be conducted at meetings;
+* d) unless another member is authorised by the committee to do so, maintaining on behalf of the Association the register of members, and recording in the register any changes in the membership, as required under section 53(1) of the Act;
+* e) maintaining on behalf of the Association an up-to-date copy of these rules, as required under section 35(1) of the Act;
+* f) unless another member is authorised by the committee to do so, maintaining on behalf of the Association a record of committee members and other persons authorised to act on behalf of the Association, as required under section 58(2) of the Act;
+* g) ensuring the safe custody of the books of the Association, other than the financial records, financial statements and financial reports, as applicable to the Association;
+* h) maintaining full and accurate minutes of committee meetings and general meetings;
+* i) carrying out any other duty given to the secretary under these rules or by the committee.
 
 ### 31 Treasurer
 
 The treasurer has the following duties —
 
-* a) ensuring that any amounts payable to the Association are collected and issuing receipts for those amounts in the Association’s name;    
-* b) ensuring that any amounts paid to the Association are credited to the appropriate account of the Association, as directed by the committee; 
-* c) ensuring that any payments to be made by the Association that have been authorised by the committee or at a general meeting are made on time;   
-* d) ensuring that the Association complies with the relevant requirements of Part 5 of the Act; 
-* e) ensuring the safe custody of the Association’s financial records, financial statements and financial reports, as applicable to the Association; 
-* f) if the Association is a tier 1 association, coordinating the preparation of the Association’s financial statements before their submission to the Association’s annual general meeting;    
-* g) if the Association is a tier 2 association or tier 3 association, coordinating the preparation of the Association’s financial report before its submission to the Association’s annual general meeting; 
-* h providing any assistance required by an auditor or reviewer conducting an audit or review of the Association’s financial statements or financial report under Part 5 Division 5 of the Act; 
-* i) carrying out any other duty given to the treasurer under these rules or by the committee. 
+* a) ensuring that any amounts payable to the Association are collected and issuing receipts for those amounts in the Association’s name;
+* b) ensuring that any amounts paid to the Association are credited to the appropriate account of the Association, as directed by the committee;
+* c) ensuring that any payments to be made by the Association that have been authorised by the committee or at a general meeting are made on time;
+* d) ensuring that the Association complies with the relevant requirements of Part 5 of the Act;
+* e) ensuring the safe custody of the Association’s financial records, financial statements and financial reports, as applicable to the Association;
+* f) if the Association is a tier 1 association, coordinating the preparation of the Association’s financial statements before their submission to the Association’s annual general meeting;
+* g) if the Association is a tier 2 association or tier 3 association, coordinating the preparation of the Association’s financial report before its submission to the Association’s annual general meeting;
+* h providing any assistance required by an auditor or reviewer conducting an audit or review of the Association’s financial statements or financial report under Part 5 Division 5 of the Act;
+* i) carrying out any other duty given to the treasurer under these rules or by the committee.
 
 ## Division 3 — Election of committee members and tenure of office
 
@@ -433,14 +434,14 @@ A member becomes a committee member if the member —
 * 34.3 If —
   * 34.3.a the number of members nominating for the position of ordinary committee member is greater than the number to be elected; or
   * 34.3.b the number of members nominating under rule 34.2.b is greater than the number of positions remaining unfilled,
-* the members at the meeting must vote by secret ballot to decide the members who are to be elected to the position of ordinary committee member
+* the members at the meeting must vote by secret ballot to decide the members who are to be elected to the position of ordinary committee member.
 * 34.4 A member who has nominated for the position of ordinary committee member may vote in accordance with that nomination.
 * 34.5 Proxy votes will be allowed under rule 54. Proxy votes must reach the Secretary prior to the commencement of the meeting.
 
 ### 35 Election of office bearers
 
-* 35.1 The office bearers of the association are determined by the elected committee after the annual general meeting.
-* 35.2 The newly elected Committee must decide by vote on office bearers of the Association and any other officers/roles for the association
+* 35.1 The office bearers of the Association are determined by the elected committee after the annual general meeting.
+* 35.2 The newly elected Committee must decide by vote on office bearers of the Association and any other officers/roles for the Association.
 * 35.3 If there is no nomination for a position, the chairperson of the meeting will appoint a member.
 * 35.4 If only one member has nominated for a position, the chairperson of the meeting must declare the Member elected to the position.
 * 35.5 If more than one committee member has nominated for a position, the committee members at the meeting must vote by secret ballot.
@@ -451,7 +452,7 @@ A member becomes a committee member if the member —
 ### 36 Term of office
 
 * 36.1 The term of office of a committee member begins when the member —
-  * 36.1.a is elected at an annual general meeting or under rule 37.3.b or
+  * 36.1.a is elected at an annual general meeting or under rule 37.3.b; or
   * 36.1.b is appointed to fill a casual vacancy under rule 39.
 * 36.2 Subject to rule 36, a committee member holds office until the positions on the committee are declared vacant at the next annual general meeting.
 * 36.3 A committee member may be re-elected.
@@ -481,7 +482,7 @@ A member becomes a committee member if the member —
 
 * 39.1 The committee may appoint a member who is eligible under rule 28.3 to fill a position on the committee that —
   * 39.1.a has become vacant under rule 38; or
-  * 39.1.b was not filled by election at the most recent annual general meeting or under rule 37.3.b
+  * 39.1.b was not filled by election at the most recent annual general meeting or under rule 37.3.b.
 * 39.2 If the position of secretary becomes vacant, the committee must appoint a member who is eligible under rule 28.3 to fill the position within 14 days after the vacancy arises.
 * 39.3 Subject to the requirement for a quorum under rule 46, the committee may continue to act despite any vacancy in its membership.
 * 39.4 If there are fewer committee members than required for a quorum under rule 46, the committee may act only for the purpose of —
@@ -494,12 +495,12 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 
 ### 41 Payments to Committee Members
 
-* 41.1 In this rule — committee member includes a member of a subcommittee;
-* committee meeting includes a meeting of a subcommittee.                                        
+* 41.1 In this rule — committee member includes a member of a subcommittee;
+* committee meeting includes a meeting of a subcommittee.
 * 41.2 A committee member is not entitled to be paid out of the funds of the Association for any out-of-pocket expenses for travel and accommodation incurred —
-  * 41.2.a in attending a committee meeting or
+  * 41.2.a in attending a committee meeting; or
   * 41.2.b in attending a general meeting; or
-  * 41.2.c otherwise in connection with the Association’s business
+  * 41.2.c otherwise in connection with the Association’s business.
 
 ## Division 4 — Committee meetings
 
@@ -542,9 +543,9 @@ The acts of a committee or subcommittee, or of a committee member or member of a
   * 46.3.b in the case of a special meeting — the meeting lapses; or
   * 46.3.c otherwise, the meeting is adjourned to the same time, day and place in the following week.
 * 46.4 If —
-  * 46.4.a a quorum is not present within 30 minutes after the commencement time of a committee meeting held under rule 46.3.c and
+  * 46.4.a a quorum is not present within 30 minutes after the commencement time of a committee meeting held under rule 46.3.c; and
   * 46.4.b at least 2 committee members are present at the meeting,
-* 46.5 those members present are taken to constitute a quorum.
+* those members present are taken to constitute a quorum.
 
 ### 47 Voting at committee meetings
 
@@ -559,7 +560,7 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 * 48.1 The committee must ensure that minutes are taken and kept of each committee meeting.
 * 48.2 The minutes must record the following —
   * 48.2.a the names of the committee members present at the meeting;
-  * 48.2.b the name of any person attending the meeting under rule 44.5
+  * 48.2.b the name of any person attending the meeting under rule 44.5;
   * 48.2.c the business considered at the meeting;
   * 48.2.d any motion on which a vote is taken at the meeting and the result of the vote.
 * 48.3 The minutes of a committee meeting must be entered in the Association’s minute record within 7 days after the meeting is held.
@@ -585,7 +586,7 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 ### 50 Delegation to subcommittees and holders of subsidiary offices
 
 * 50.1 In this rule —
-* non-delegable duty** means a duty imposed on the committee by the Act or another written law.
+* **non-delegable duty** means a duty imposed on the committee by the Act or another written law.
 * 50.2 The committee may, in writing, delegate to a subcommittee or the holder of a subsidiary office the exercise of any power or the performance of any duty of the committee other than —
   * 50.2.a the power to delegate; and
   * 50.2.b a non-delegable duty.
@@ -603,7 +604,7 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 * 51.2 The committee must determine the date, time and place of the annual general meeting.
 * 51.3 The ordinary business of the annual general meeting is as follows —
   * 51.3.a to confirm the minutes of the previous annual general meeting and of any special general meeting held since then if the minutes of that meeting have not yet been confirmed;
-  * 51.3.b   to receive and consider —
+  * 51.3.b to receive and consider —
     * 51.3.b.i the committee’s annual report on the Association’s activities during the preceding financial year; and
     * 51.3.b.ii if the Association is a tier 1 association, the financial statements of the Association for the preceding financial year presented under Part 5 of the Act; and
     * 51.3.b.iii if the Association is a tier 2 association or a tier 3 association, the financial report of the Association for the preceding financial year presented under Part 5 of the Act;
@@ -664,7 +665,7 @@ The acts of a committee or subcommittee, or of a committee member or member of a
 
 ### 56 Presiding member and quorum for general meetings
 
-* 56.1 Quorum for a Committee Meeting is stated in Guidance Note E
+* 56.1 Quorum for a committee meeting is stated in Guidance Note E.
 * 56.2 The chairperson or, in the chairperson’s absence, the deputy chairperson must preside as chairperson of each general meeting.
 * 56.3 If the chairperson and deputy chairperson are absent or are unwilling to act as chairperson of a general meeting, the committee members at the meeting must choose one of them to act as chairperson of the meeting.
 * 56.4 No business is to be conducted at a general meeting unless a quorum is present.
@@ -672,10 +673,10 @@ The acts of a committee or subcommittee, or of a committee member or member of a
   * 56.5.a the members present may elect to wait up to another 60 minutes for the quorum to be present; or
   * 56.5.b in the case of a special general meeting — the meeting lapses; or
   * 56.5.c in the case of the annual general meeting — the meeting is adjourned to —
-  * 56.5.c.i the same time and day in the following week; and
-  * 56.5.c.ii the same place, unless the chairperson specifies another place at the time of the adjournment or written notice of another place is given to the members before the day to which the meeting is adjourned.
+    * 56.5.c.i the same time and day in the following week; and
+    * 56.5.c.ii the same place, unless the chairperson specifies another place at the time of the adjournment or written notice of another place is given to the members before the day to which the meeting is adjourned.
 * 56.6 If —
-  * 56.6.a a quorum is not present within 30 minutes after the commencement time of an annual general meeting held under rule 56.5.c and
+  * 56.6.a a quorum is not present within 30 minutes after the commencement time of an annual general meeting held under rule 56.5.c; and
   * 56.6.b the lessor of 10 or 10% ordinary members are present at the meeting,
 * those members present are taken to constitute a quorum.
 
@@ -686,7 +687,7 @@ The acts of a committee or subcommittee, or of a committee member or member of a
   * 57.2.a if there is insufficient time to deal with the business at hand; or
   * 57.2.b to give the members more time to consider an item of business.
 * 57.3 No business may be conducted on the resumption of an adjourned meeting other than the business that remained unfinished when the meeting was adjourned.
-* 57.4 Notice of the adjournment of a meeting under this rule is not required unless the meeting is adjourned for 14 days or more, in which case notice of the meeting must be given in accordance with rule 53
+* 57.4 Notice of the adjournment of a meeting under this rule is not required unless the meeting is adjourned for 14 days or more, in which case notice of the meeting must be given in accordance with rule 53.
 
 ### 58 Voting at general meeting
 
@@ -732,7 +733,7 @@ The acts of a committee or subcommittee, or of a committee member or member of a
   * 61.3.a the names of the ordinary members attending the meeting; and
   * 61.3.b any proxy forms given to the Secretary of the meeting under rule 54.8; and
   * 61.3.c the financial statements or financial report presented at the meeting, as referred to in rule 51.3.b.ii or 51.3.b.iii; and
-  * 61.3.d any report of the review or auditor’s report on the financial statements or financial report presented at the meeting, as referred to in rule 51.3.b.iv
+  * 61.3.d any report of the review or auditor’s report on the financial statements or financial report presented at the meeting, as referred to in rule 51.3.b.iv.
 * 61.4 The minutes of a general meeting must be entered in the Association’s minute record within 7 days after the meeting is held.
 * 61.5 The chairperson must ensure that the minutes of a general meeting are reviewed as correct by a motion of the next general meeting.
 * 61.6 When the minutes of a general meeting have been signed as correct they are, in the absence of evidence to the contrary, taken to be proof that —
@@ -786,16 +787,16 @@ The funds of the Association may be derived from entrance fees, subscriptions, d
 * 66.1 The Association may execute a document if the document is signed by —
   * 66.1.a 2 committee members; or
   * 66.1.b one committee member and a person authorised by the committee.
-* 66.2 The secretary must make a written record of each document executed
+* 66.2 The secretary must make a written record of each document executed.
 
 ### 67 Giving notices to members
 
 * 67.1 In this rule —
   * **recorded** means recorded in the register of members.
 * 67.2 A notice or other document that is to be given to a member under these rules is taken not to have been given to the member unless it is in writing and —
-  * 67.2.a sent by electronic transmission to an appropriate recorded electronic address of the member.
+  * 67.2.a sent by electronic transmission to an appropriate recorded electronic address of the member; or
   * 67.2.b delivered by hand to the recorded physical address of the member; or
-  * 67.2.c sent by prepaid post to the recorded postal address of the member
+  * 67.2.c sent by prepaid post to the recorded postal address of the member.
 
 ### 68 Custody of books and securities
 
@@ -830,11 +831,11 @@ The record of committee members and other persons authorised to act on behalf of
 
 ### 72 Distribution of surplus property on cancellation of incorporation or winding up
 
-* 72.1 In this rule - 
+* 72.1 In this rule -
 * **surplus property**, in relation to the Association, means property remaining after satisfaction of —
   * 72.1.a the debts and liabilities of the Association; and
   * 72.1.b the costs, charges and expenses of winding up or cancelling the incorporation of the Association but does not include books relating to the management of the Association.
-* 72.2 On the cancellation of the incorporation or the winding up of the Association, its surplus property must be distributed as determined by special resolution by reference to the persons mentioned in section 24(1) of the Act.​
+* 72.2 On the cancellation of the incorporation or the winding up of the Association, its surplus property must be distributed as determined by special resolution by reference to the persons mentioned in section 24(1) of the Act.
 
 ### 73 Alteration of rules
 

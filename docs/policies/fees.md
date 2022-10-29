@@ -118,6 +118,7 @@ Member rate
 Casual rate
 * \$0.15 / gram, rounded up to the nearest \$1.00
 
+
 Inclusions
 * Filament
 

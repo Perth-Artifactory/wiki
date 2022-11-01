@@ -18,7 +18,7 @@ In these by-laws, unless the contrary intention appears, all terms are as define
 
 ------------------------------------------------------------------------
 
-This page was endorsed at the committee meeting held 2022-XX-XX.
+This page was endorsed by online vote recorded at the committee meeting held 2022-11-26.
 
 ------------------------------------------------------------------------
 
@@ -116,7 +116,8 @@ Member rate
 * \$0.05 / gram, rounded up to the nearest \$1.00
 
 Casual rate
-* \$0.20 / gram, rounded up to the nearest \$1.00
+* \$0.15 / gram, rounded up to the nearest \$1.00
+
 
 Inclusions
 * Filament
@@ -135,10 +136,10 @@ Cost basis
 * Weight of part including supports, as printed. (Weigh using the digital scales in the Design Lab.)
 
 Member rate
-* \$0.50 / gram, rounded up to the nearest \$1.00
+* \$0.20 / gram, rounded up to the nearest \$1.00
 
 Casual rate
-* \$1.00 / gram, rounded up to the nearest \$1.00
+* \$0.50 / gram, rounded up to the nearest \$1.00
 
 Inclusions
 * Resin
@@ -269,10 +270,10 @@ Cost basis
 * Time, excluding setup time.
 
 Member rate
-* \$15.00 / hour, rounded up to the nearest \$5.00
+* \$20.00 / hour, rounded up to the nearest \$5.00
 
 Casual rate
-* \$20.00 / hour, rounded up to the nearest \$5.00
+* \$25.00 / hour, rounded up to the nearest \$5.00
 
 Inclusions
 * Welding gas

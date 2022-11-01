@@ -18,7 +18,7 @@ In these by-laws, unless the contrary intention appears, all terms are as define
 
 ------------------------------------------------------------------------
 
-This page was endorsed at the committee meeting held 2022-XX-XX.
+This page was endorsed by online vote recorded at the committee meeting held 2022-11-26.
 
 ------------------------------------------------------------------------
 

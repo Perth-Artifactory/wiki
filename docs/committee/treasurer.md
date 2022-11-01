@@ -27,7 +27,7 @@ This is not an exhausted list of the responsibilities and how to do things.
       *[[https://wiki.artifactory.org.au/doku.php?id=committee:committeerulings#artifactory_expenses|Artifactory Expenses]] - What expenses you can pay without approval by the committee.
       *[[https://wiki.artifactory.org.au/doku.php?id=committee:committeerulings#money_donations|Money Donations]] - How to deal with money donations.
       *[[https://wiki.artifactory.org.au/doku.php?id=committee:committeerulings#physical_keys_safe_access|Physical Keys + Safe Access]] - Note duties after AGM.
-      *Various ones involving fees - Tool Usage Fee / Casual Makers (Casual Use Rate) / Rehearsal Room - Casual Usage
+      *Various ones involving fees - Tool Usage Fee / Casual Makers (Day pass) / Rehearsal Room - Casual Usage
       *[[https://wiki.artifactory.org.au/doku.php?id=committee:committeerulings#rfid_keys_for_members|RFID Keys for Members]] - Key Bonds
     *[[http://wiki.artifactory.org.au/doku.php?id=committee:committeerulings#classes_of_membership|Classes of Membership]]
       *[[https://wiki.artifactory.org.au/doku.php?id=committee:committeerulings#associate_membership_-_sponsored_student_membership|Sponsored Student Membership]] - this membership is free to the student members and paid for by donations.  Upon commencement of this membership, funds need to be transferred from the donation account to the main Artifactory account or paid via other donation of the committees approval.

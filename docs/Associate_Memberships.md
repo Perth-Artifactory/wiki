@@ -17,11 +17,11 @@ dateCreated: 2022-10-17T16:50:43.686Z
 ## Role
 
 * Recommend changes to associate class memberships.
-* Act as the sole selection/approval panel for all associate class memberships unless 
+* Act as the sole selection/approval panel for all associate class memberships unless otherwise delegated.
 * Liaise with the Treasurer as to the amount of funding available for these memberships and to obtain additional/ongoing funding for this purpose.
 * Liaise with Artifactory volunteers when onboarding a new associate member.
-* Maintain the [free memberships page](https://artifactory.org.au/pages/freeMembership)
-* Advertise for applicants
+* Maintain the [free memberships page](https://artifactory.org.au/pages/freeMembership).
+* Advertise for applicants as appropriate.
 
 ## Minutes
 

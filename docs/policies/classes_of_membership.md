@@ -44,7 +44,7 @@ Last modified at committee meeting 2018-08-24
 
 The Band Membership is restricted to a maximum of 6 memberships.
 
-Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by bands with band membership of the Perth Artifactory. Use of Artifactory tools/equipment etc is encouraged, but charged at the casual use rates.
+Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by bands with band membership of the Perth Artifactory. Use of Artifactory tools/equipment etc is encouraged, but charged at the day pass rates.
 
 * Band membership fees are set at \$100/month.
 * Each band pays a \$100 key bond(refundable upon return of key so long as the band is up to date with membership fees)

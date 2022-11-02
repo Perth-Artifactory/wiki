@@ -106,7 +106,7 @@ The Association’s financial year will be the period of 12 months commencing on
 
 ## PART 3 – MEMBERS
 
-##           Division 1 — Membership
+## Division 1 — Membership
 
 ### 5 Applying for Membership
 

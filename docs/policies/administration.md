@@ -63,7 +63,7 @@ Defined at committee meeting 30-01-2019.
 Last modified at the committee meeting 30-01-2019.
 
 * Any committee member may authorise a new workshop or event if
-  * it will bring in the casual User minimum rate per attendee (excluding members)
+  * it will bring in the day pass minimum rate per attendee (excluding members)
   * does not require exclusive access of the Artifactory
   * does not conflict with another event/workshop unless the Event Coordinators of the other Workshop sees no conflict
   * will not conflict with persons using noisy tools

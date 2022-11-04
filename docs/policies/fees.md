@@ -41,10 +41,10 @@ Cost basis:
 Member rate:
 * Included in all [classes of membership](/docs/policies/classes_of_membership) bar Band Membership.
 
-Casual rate:
+Day Pass:
 * If attending a workshop event - included in the fee for the event unless otherwise noted
 * Visiting for a tour during an Open Day or other event - Nil
-* Otherwise, the Casual Access Rate - \$15 / day.
+* Otherwise, the Day Pass rate - \$15 / day.
 
 Inclusions:
 * Use of the communal areas.
@@ -59,8 +59,8 @@ Exclusions:
 Payment method:
 * EFTPOS machine at the bar - self service
 
-Note: The Casual Access Rate is reviewed during each Annual General Meeting.
-The Casual Access Rate was set to \$15 at the AGM held on 2021-09-18.
+Note: The Day Pass rate is reviewed during each Annual General Meeting.
+The Day Pass rate was set to \$15 at the AGM held on 2021-09-18.
 
 ------------------------------------------------------------------------
 
@@ -99,11 +99,11 @@ This section is the **authoritative reference** regarding usage fees for the too
 
 Tool usage fees generally reflect the cost of consumables, operation, maintenance, and upgrades to the tools and equipment.
 
-* Members pay the "member rate", excepting where the member's class of membership states that they pay the "casual rate".
+* Members pay the "member rate", excepting where the member's class of membership states that they pay the Day Pass rate.
 
-* All other users pay the "casual rate".
+* All other users pay the "Day Pass rate".
 
-* Casual users of the Artifactory pay the workshop usage fee above, in addition to applicable tool usage fees.
+* Casual users of the Artifactory pay the workshop usage fee/Day Pass rate above, in addition to applicable tool usage fees.
 
 ----------------------------------------------------------------
 
@@ -115,7 +115,7 @@ Cost basis
 Member rate
 * \$0.05 / gram, rounded up to the nearest \$1.00
 
-Casual rate
+Day Pass rate
 * \$0.15 / gram, rounded up to the nearest \$1.00
 
 
@@ -138,7 +138,7 @@ Cost basis
 Member rate
 * \$0.20 / gram, rounded up to the nearest \$1.00
 
-Casual rate
+Day Pass rate
 * \$0.50 / gram, rounded up to the nearest \$1.00
 
 Inclusions
@@ -162,7 +162,7 @@ Member rate
 * \$0.10 / minute, rounded up to the nearest \$1.00, when using Artifactory tooling.
 * \$0.05 / minute, rounded up to the nearest \$1.00, when using B.Y.O. tooling.
 
-Casual rate
+Day Pass rate
 * \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
 
 Inclusions
@@ -184,7 +184,7 @@ Cost basis
 Member rate
 * \$0.20 / minute, rounded up to the nearest \$1.00
 
-Casual rate
+Day Pass rate
 * \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
 
 Inclusions
@@ -206,7 +206,7 @@ Cost basis
 Member rate
 * \$0.10 / minute, rounded up to the nearest \$1.00
 
-Casual rate
+Day Pass rate
 * \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
 
 Inclusions
@@ -228,7 +228,7 @@ Cost basis
 Member rate
 * \$0.10 / minute, rounded up to the nearest \$1.00
 
-Casual rate
+Day Pass rate
 * \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
 
 Inclusions
@@ -250,7 +250,7 @@ Cost basis
 Member rate
 * \$5.00 / hour or part thereof
 
-Casual rate
+Day Pass rate
 * \$10.00 / hour or part thereof
 
 Inclusions
@@ -272,7 +272,7 @@ Cost basis
 Member rate
 * \$20.00 / hour, rounded up to the nearest \$5.00
 
-Casual rate
+Day Pass rate
 * \$25.00 / hour, rounded up to the nearest \$5.00
 
 Inclusions

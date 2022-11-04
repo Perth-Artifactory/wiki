@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2022-10-27T16:04:52.267Z
+date: 2022-11-04T07:54:21.875Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -26,11 +26,11 @@ The laser cutters are dangerous tools. The main hazards:
 
 |                                                                 |      |
 | --------------------------------------------------------------- | ---- |
-| ![ionising_radiation.svg](/resources/hazards/fire.png)          | There is a constant risk of fire when cutting most materials. Supervise the laser at all times. |
-| ![ionising_radiation.svg](/resources/hazards/crush.svg)         | There is the risk of a crush injury when raising and lowering the bed. Keep your hands out of the machine when changing the bed height or focusing the laser. |
-| ![ionising_radiation.svg](/resources/hazards/laser.png)         | The lasers in these machines are capable of producing intense, collimated beams of light that can cause significant injury. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
-| ![ionising_radiation.svg](/resources/hazards/visible_light.svg) | When vaporised some material will release a bright light. Use your own judgement as to whether the light is too bright to look at directly. |
-| ![ionising_radiation.svg](/resources/hazards/high_voltage.svg)  | The laser cutters operate at approximately 30,000V. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
+| ![ionising_radiation.svg](/resources/hazards/fire.png =64x64)          | There is a constant risk of fire when cutting most materials. Supervise the laser at all times. |
+| ![ionising_radiation.svg](/resources/hazards/crush.svg =64x64)         | There is the risk of a crush injury when raising and lowering the bed. Keep your hands out of the machine when changing the bed height or focusing the laser. |
+| ![ionising_radiation.svg](/resources/hazards/laser.png =64x64)         | The lasers in these machines are capable of producing intense, collimated beams of light that can cause significant injury. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
+| ![ionising_radiation.svg](/resources/hazards/visible_light.svg =64x64) | When vaporised some material will release a bright light. Use your own judgement as to whether the light is too bright to look at directly. |
+| ![ionising_radiation.svg](/resources/hazards/high_voltage.svg =64x64)  | The laser cutters operate at approximately 30,000V. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
 
 ## Usage Costs
 

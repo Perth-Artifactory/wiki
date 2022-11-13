@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2022-11-13T10:02:13.354Z
+date: 2022-11-13T10:04:48.889Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -92,7 +92,7 @@ For most jobs it is easier to operate in *relative* positioning mode as it allow
 
 ### Rules
 
-* You cannot look at both laser cutters at the same time, This means you cannot operate multiple lasers at the same time.
+* You cannot look at multiple laser cutters at the same time, this means you cannot operate multiple lasers at the same time.
 * Clean up the bed after you are done cutting.
 * Closed footwear must be worn at all times in the laser area.
 * Do not attempt to open covers or fix issues yourself if you are not qualified to do so. Let #lazors on Slack know.

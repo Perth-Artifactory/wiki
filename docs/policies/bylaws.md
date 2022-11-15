@@ -1,11 +1,11 @@
 ---
 title: By-laws
-description:
+description: 
 published: true
-date: 2022-10-24T17:45:00.000Z
-tags:
+date: 2022-11-15T12:49:39.233Z
+tags: 
 editor: markdown
-dateCreated: 2022-10-24T17:45:00.000Z
+dateCreated: 2022-10-27T14:21:12.439Z
 ---
 
 # By-laws
@@ -16,7 +16,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 
 ## Artifactory Expenses
 
-Refer to [By-laws - Administration](/docs/policies/administration).
+Refer to [By-laws - Administration](/docs/policies/administration). 
 
 ------------------------------------------------------------------------
 

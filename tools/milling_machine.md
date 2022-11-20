@@ -2,7 +2,7 @@
 title: Milling Machine
 description: BM-70VE
 published: true
-date: 2022-10-25T09:55:40.343Z
+date: 2022-11-20T17:08:34.061Z
 tags: tools, metalwork, machining
 editor: markdown
 dateCreated: 2022-10-17T16:58:58.322Z
@@ -196,7 +196,11 @@ The [Blondihacks Mill Skills series on Youtube](https://www.youtube.com/playlist
 
 ## Documentation
 
-[Instruction Manual](/tools/BM-70VE manual.pdf)
+[bm-70ve_manual.pdf](/tools/bm-70ve_manual.pdf)
+[mill_schematic_sheet_1.dwg](/tools/mill/mill_schematic_sheet_1.dwg)
+[mill_schematic_sheet_2.dwg](/tools/mill/mill_schematic_sheet_2.dwg)
+[mill_schematic_sheet_1.pdf](/tools/mill/mill_schematic_sheet_1.pdf)
+[mill_schematic_sheet_2.pdf](/tools/mill/mill_schematic_sheet_2.pdf)
 
 ## Specifications
 

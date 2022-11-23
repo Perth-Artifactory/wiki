@@ -2,8 +2,8 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2022-11-23T09:15:29.382Z
-tags: 
+date: 2022-11-23T09:16:16.777Z
+tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
 ---

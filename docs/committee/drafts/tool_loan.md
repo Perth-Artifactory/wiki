@@ -21,6 +21,7 @@ This document is intended to cover loans of tools by members (“tool owner”) 
 * The Artifactory may request that the tool be removed from the space at any time.
   * The Management Committee must give the tool owner reasonable notice that reflects the difficulty of relocating the tool. The notice does not need to reflect the tool owner’s alternative storage options.
   * The notice must be at least 14 days for hand/power tools and at least 28 days for other equipment.
+  * In the event the tool is not removed within the timeframe outlined in the request the tool will be treated as a donation to The Artifactory.
 * The Artifactory may opt to implement a tool usage fee for the tool to reflect power usage, workshop usage, and other costs determined by the Management Committee.
 * The Artifactory Infrastructure Subcommittee may opt to gate a loaned tool behind a safety induction.
   * In the event that a safety induction is in place the tool owner does not automatically have the ability to induct users.

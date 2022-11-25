@@ -36,3 +36,4 @@ This document is intended to cover loans of tools by members (“tool owner”) 
   * does not increase the risk associated with the tool,
   * does not increase the footprint of the tool, and
   * does not incur increased financial obligations for the artifactory
+* The tool owner will be subject to any tool usage fees implemented by The Artifactory. If both a Day Pass and Member rate exist the latter will be applicable regardless of the membership status of the tool owner.

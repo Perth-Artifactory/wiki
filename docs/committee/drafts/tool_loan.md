@@ -22,7 +22,6 @@ This document is intended to cover loans of tools by members (“tool owner”) 
   * The management committee must give the tool owner reasonable notice that reflects the difficulty of relocating the tool. The notice does not need to reflect the tool owner’s alternative storage options.
 * The Artifactory may opt to implement a tool usage fee for the tool to reflect power usage, workshop usage, and other costs determined by the management committee.
 * The Artifactory Infrastructure Subcommittee may opt to gate a loaned tool behind a safety induction.
-  * In the event that a safety induction is in place the tool owner 
   * In the event that a safety induction is in place the tool owner does not automatically have the ability to induct users.
 
 ## Owner protection
@@ -31,5 +30,3 @@ This document is intended to cover loans of tools by members (“tool owner”) 
 * The Perth Artifactory will assume fault in place of the tool owner if a user is injured using the machine. 
   * This provision is applicable to the extent that the event is covered under any applicable insurance policy held by Perth Artifactory Inc.
 * In the event that the tool is damaged in a manner that is covered by an insurance policy held by Perth Artifactory Inc the association shall be responsible for the policy excess.
-
-

@@ -8,7 +8,7 @@ editor: markdown
 date: 2022-11-25T11:37:50.964Z
 ---
 
-This document is intended to cover loans of tools by members (“tool owner”) to The Artifactory. An agreement made using this document must be approved by at least two members of the Artifactory Executive and the Infrastructure Subcommittee. Sections of this document may be striked out by an agreement of all parties.
+This document is intended to cover loans of tools by members (“tool owner”) to The Artifactory. An agreement made using this document must be approved in writing by a member of the Infrastructure Subcommittee, and seconded in writing by either another member of the Infrastructure Subcommittee, or a member of the Management Committee.
 
 ## Space protection
 

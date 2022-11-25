@@ -10,7 +10,7 @@ date: 2022-11-25T11:37:50.964Z
 
 This document is intended to cover loans of tools by members (“tool owner”) to The Artifactory. An agreement made using this document must be approved in writing by a member of the Infrastructure Subcommittee, and seconded in writing by either another member of the Infrastructure Subcommittee, or a member of the Management Committee.
 
-## Space protection
+## Artifactory obligations
 
 * Perth Artifactory Inc is not financially responsible for damages to loaned equipment. 
   * The association will endeavour to identify who caused damage to the tool. 
@@ -23,10 +23,17 @@ This document is intended to cover loans of tools by members (“tool owner”) 
 * The Artifactory may opt to implement a tool usage fee for the tool to reflect power usage, workshop usage, and other costs determined by the management committee.
 * The Artifactory Infrastructure Subcommittee may opt to gate a loaned tool behind a safety induction.
   * In the event that a safety induction is in place the tool owner does not automatically have the ability to induct users.
+* The Artifactory may not modify the tool without explicit agreement of the tool owner.
 
-## Owner protection
+## Owner obligations
 
 * The tool owner may request to take the tool back by providing written notice to the management committee.
 * The Perth Artifactory will assume fault in place of the tool owner if a user is injured using the machine. 
   * This provision is applicable to the extent that the event is covered under any applicable insurance policy held by Perth Artifactory Inc.
 * In the event that the tool is damaged in a manner that is covered by an insurance policy held by Perth Artifactory Inc the association shall be responsible for the policy excess.
+* The tool owner may freely modify the tool provided that the modification -
+  * does not reduce safety protections on the tool,
+  * does not increase the risk associated with the tool,
+  * does not increase the footprint of the tool, and
+  * does not incur increased financial obligations for the artifactory
+

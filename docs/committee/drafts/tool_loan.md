@@ -10,7 +10,7 @@ dateCreated: 2022-11-25T10:29:06.972Z
 
 ## Scope
 
-This document is intended to cover loans of tools by members (“tool owner”) to the Association (Perth Artifactory Inc., "The Association").
+This document is intended to cover loans of tools by an individual (“tool owner”) to the Association (Perth Artifactory Inc., "The Association").
 
 "Tools" includes all types of tools and equipment, including -
 
@@ -61,6 +61,7 @@ Written records must be made of:
 
 ## Owner obligations
 
+* The tool owner must maintain exclusive, free and clear ownership of the tool.
 * The tool owner must keep their contact details up to date.
 * The Association will assume liability in place of the tool owner if a user is injured using the tool.
   * This provision applies to the extent that the event is covered under an insurance policy held by the Association.
@@ -72,7 +73,7 @@ Written records must be made of:
   * does not increase the footprint of the tool, and
   * does not incur increased financial obligations for the Association
 * The tool owner will be subject to the tool usage fee, if any.
-  * If there are multiple rates of tool usage fee, such as a Day Pass rate and a member rate, the tool owner will be always be subject to the lowest rate.
+  * If there are multiple rates of tool usage fee deliniated by membership class the tool owner will always be subject to the lowest applicable rate.
 * The tool owner may end the loan by providing written notice to the Management Committee.
   * The notice must be at least 14 days for hand/power tools and at least 28 days for other equipment, unless a suitable replacement is already available.
   * The notice period may be waived by a member of the Infrastructure Subcommittee or the Management Committee.

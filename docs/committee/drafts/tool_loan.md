@@ -67,7 +67,7 @@ Written records must be made of:
 
 * The equipment owner must maintain exclusive, free and clear ownership of the equipment.
 * The equipment owner must keep their contact details up to date.
-* The Association will assume liability in place of the equipment owner if a user is injured using the equipment.
+* The Association will assume liability in place of the equipment owner if a user other than the owner is injured using the equipment.
   * This provision applies to the extent that the event is covered under an insurance policy held by the Association.
 * If the equipment is damaged in a manner that is covered by an insurance policy held by the Association, the Association will pay the policy excess.
 * The equipment owner may freely modify the equipment, provided that the modification -

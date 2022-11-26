@@ -36,6 +36,7 @@ This document is intended to cover loans of tools by members (“tool owner”) 
   * This provision is applicable to the extent that the event is covered under any applicable insurance policy held by Perth Artifactory Inc.
 * In the event that the tool is damaged in a manner that is covered by an insurance policy held by Perth Artifactory Inc the association shall be responsible for the policy excess.
 * The tool owner may freely modify the tool provided that the modification -
+  * is appropriately documented and communicated to members,
   * does not reduce safety protections on the tool,
   * does not increase the risk associated with the tool,
   * does not increase the footprint of the tool, and

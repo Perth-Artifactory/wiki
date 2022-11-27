@@ -2,7 +2,7 @@
 title: Tool template
 description: TOOL MODEL NUMBER
 published: true
-date: 2022-11-12T10:22:31.188Z
+date: 2022-11-27T04:09:42.132Z
 tags: needs picture
 editor: markdown
 dateCreated: 2022-10-27T13:52:12.885Z
@@ -29,7 +29,7 @@ DESCRIPTION
 
 (Delete what doesn't apply)
 
-Usage of this tool is included in the [Workshop Usage Fee](/docs/policies/fees).
+Usage of this tool is included in the [Day Pass Fee](/docs/policies/fees).
 
 Usage of this tool is subject to a [Tool Usage Fee](/docs/policies/fees).
 

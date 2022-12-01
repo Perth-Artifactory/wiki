@@ -264,6 +264,14 @@ Can be left in the following areas provided that the supervising guardian can se
 
 ------------------------------------------------------------------------
 
+## Equipment Loans
+
+Adopted at committee meeting XXXX-XX-XX.
+
+Persons authorised by the equipment loan agreement may sign on behalf of the Association.
+
+------------------------------------------------------------------------
+
 ## Policies and Guidelines
 
 ### Social Media Guidelines

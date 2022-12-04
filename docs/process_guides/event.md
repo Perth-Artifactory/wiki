@@ -2,8 +2,8 @@
 title: Informing Event Officer and Committee
 description: 
 published: true
-date: 2022-10-19T11:43:39.334Z
-tags: 
+date: 2022-12-04T14:05:31.759Z
+tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:51:10.382Z
 ---

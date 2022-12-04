@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2022-10-19T11:39:07.062Z
+date: 2022-12-04T14:00:32.441Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -38,17 +38,21 @@ Office Bearers
 
 -   [Chair](Chairperson): Beau Scott
 -   [Vice Chair](Chairperson): Vincent Dalstra
--   [Secretary](Secretary): Phoebe-Jean Harris
+-   [Secretary](Secretary): Lewis Yip
 -   [Treasurer](Treasurer): Ben Connor
 
 Ordinary Committee Members
 
--   Deputy Secretary: Lewis Yip
+-   Deputy Secretary: Phoebe-Jean Harris
 -   Deputy Treasurer: Fletcher Boyd
 -   Ordinary Committee Member: Johannes Chuah
 -   Ordinary Committee Member: Joshua Rospondek
 -   Ordinary Committee Member: Vacant
 -   Ordinary Committee Member: Vacant
+
+Note: on 2022-11-26,
+-   Phoebe-Jean Harris changed position from Secretary to Deputy Secretary.
+-   Lewis YIp changed position from Deputy Secretary to Secretary.
 
 ## Officers
 

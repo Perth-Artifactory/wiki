@@ -2,7 +2,7 @@
 title: Thermal Camera
 description: CAT S60 thermal camera phone
 published: true
-date: 2022-12-06T10:13:13.172Z
+date: 2022-12-06T10:23:19.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T10:13:13.172Z
@@ -86,7 +86,7 @@ N/A
 * This equipment is on loan under an [Equipment Loan Agreement](https://wiki2.artifactory.org.au/en/docs/policies/equipment_loan_agreement).
 
   * The owner is Lewis Yip.
-  * The Equipment Loan Agreement was raised by Lewis Yip, approved by Fletcher Boyd (committee member), and seconded by Beau Scott (committee member), via written messages in the #infrastructure Slack channel, on 2022-12-06.
+  * The Equipment Loan Agreement was raised by Lewis Yip, approved by Fletcher Boyd (infrastructure subcommittee member), and seconded by Beau Scott (committee member), via written messages in the #infrastructure Slack channel, on 2022-12-06.
   * The owner's contact details are as recorded in the Association's register of members.
   * The equipment being loaned is one CAT S60 smartphone. There are no attachments or accessories included.
   * There are no variations to the standard form of Equipment Loan Agreement.

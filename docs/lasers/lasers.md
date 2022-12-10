@@ -2,7 +2,7 @@
 title: Laser subcommittee page
 description: 
 published: true
-date: 2022-10-19T11:42:19.349Z
+date: 2022-12-10T09:17:43.800Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:14.656Z
@@ -12,7 +12,7 @@ dateCreated: 2022-10-17T16:49:14.656Z
 
 ### Members
 
-BlakeS (Chair), FletcherB, GlennM, Jean-Michel, KamilS, NickB
+BlakeS (Chair), FletcherB, GlennM, KamilS, NickB
 
 Last updated: 2019-11-02
 

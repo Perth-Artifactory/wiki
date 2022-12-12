@@ -2,7 +2,7 @@
 title: Operators List
 description: 
 published: true
-date: 2022-10-25T10:11:54.227Z
+date: 2022-12-12T16:12:53.779Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:09.446Z
@@ -141,3 +141,5 @@ dateCreated: 2022-10-17T16:58:09.446Z
 | Johannes Chuah                           | Yes            | No              | Yes          | 20210717 NB                  |
 | Sarah Allard                             | Yes            | Yes             | Yes          | 20210828 NB                  |
 | John Parker "Cheshire"                   | Yes            | No              | No           | 2021-02-16 Blake Samuels     |
+| Lewis Yip                                | Yes            | No              | No           | 2022-07-26 JC                |
+| Josh Foti                                | Yes            | No              | No           | 2022-12-13 2nd session LAYip |

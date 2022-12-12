@@ -2,7 +2,7 @@
 title: Operators List
 description: 
 published: true
-date: 2022-12-12T16:12:53.779Z
+date: 2022-12-12T16:14:46.221Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:09.446Z
@@ -142,4 +142,6 @@ dateCreated: 2022-10-17T16:58:09.446Z
 | Sarah Allard                             | Yes            | Yes             | Yes          | 20210828 NB                  |
 | John Parker "Cheshire"                   | Yes            | No              | No           | 2021-02-16 Blake Samuels     |
 | Lewis Yip                                | Yes            | No              | No           | 2022-07-26 JC                |
-| Josh Foti                                | Yes            | No              | No           | 2022-12-13 2nd session LAYip |
+| Alex Kirwan                              | Trainee        | No              | No           | 2022-12-10 1st session LAYip |
+| Alejandro Abarcia                        | Trainee        | No              | No           | 2022-12-10 1st session LAYip |
+| Josh Foti                                | Yes            | No              | No           | 2022-12-12 2nd session LAYip |

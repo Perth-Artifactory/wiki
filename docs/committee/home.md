@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2022-12-04T14:02:32.955Z
+date: 2022-12-23T13:09:41.353Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -16,30 +16,28 @@ The Artifactory is governed by its [constitution](http://wiki.artifactory.org.au
 
 ## Committee References
 
-[Committee Rulings](/committee/committeerulings) - All decisions made by the committee that affect the running of the Artifactory are recorded here. Including the definitions of membership classifications, officer positions and by-laws.
+[Committee Rulings](committeerulings) - All decisions made by the committee that affect the running of the Artifactory are recorded here. Including the definitions of membership classifications, officer positions and by-laws.
 
 [Subcommittee](/subcommittee/start) rules can be found on the respective subcommittee pages.
-
-Secret World Domination plans are in the [restricted](/committee/restricted/start) section.
 
 Event survey form: [Artifactory Group/Event Report - Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdrpL35JPyWVSqmnJb8B55MWlCGP0xdfh2-pbqZUvxnLevH-A/viewform?c=0&w=1)
 
 New [RFID Key issued by Committee member form](https://docs.google.com/forms/d/e/1FAIpQLSfrYbEFv7-il0syFjUJaoN_gPXeIOqMfNvtY3ht-HOIF7v60g/viewform)
 
-[Code of Conduct](/committee/code_of_conduct) for The Perth Artifactory
+[code_of_conduct](/docs/committee/code_of_conduct) for The Perth Artifactory
 
 ## Committee Members
 
 *See links of roles (e.g. secretary, treasurer) for a guide to that role.*
 
-Elected 26th of September 2020
+Elected [2022-09-17](/minutes/AGM/2022-09-17)
 
 Office Bearers
 
--   [Chair](Chairperson): Beau Scott
--   [Vice Chair](Chairperson): Vincent Dalstra
--   [Secretary](Secretary): Lewis Yip
--   [Treasurer](Treasurer): Ben Connor
+-   [Chair](/docs/committee/chairperson): Beau Scott
+-   [Vice Chair](/docs/committee/chairperson): Vincent Dalstra
+-   [Secretary](/docs/committee/secretary): Lewis Yip
+-   [Treasurer](/docs/committee/treasurer): Ben Connor
 
 Ordinary Committee Members
 

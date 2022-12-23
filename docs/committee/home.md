@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2022-12-23T13:09:41.353Z
+date: 2022-12-23T13:32:17.918Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -12,19 +12,24 @@ dateCreated: 2022-10-17T16:46:41.519Z
 
 ## The Constitution
 
-The Artifactory is governed by its [constitution](http://wiki.artifactory.org.au/doku.php?id=constitution) and any [by-laws](/committee/committeerulings#by-laws/) created by the committee allowed under the constitution.
+The Artifactory is governed by its [constitution](/constitution) and any [by-laws](/committeerulings) created by the committee allowed under the constitution.
 
 ## Committee References
 
-[Committee Rulings](committeerulings) - All decisions made by the committee that affect the running of the Artifactory are recorded here. Including the definitions of membership classifications, officer positions and by-laws.
+[Committee rulings](/committeerulings) - All decisions made by the committee that affect the running of the Artifactory are recorded here. Including the definitions of membership classifications, officer positions and by-laws.
 
-[Subcommittee](/subcommittee/start) rules can be found on the respective subcommittee pages.
+Subcommittee rules can be found on the respective subcommittee pages:
+
+* [Infrastructure Subcommittee](docs/infrastructure/infrastructurev2)
+* [Lasers Subcommittee](/docs/lasers/lasers)
+* [Associate Memberships Panel](/docs/Associate_Memberships)
+* [IT Subcommittee](/docs/IT)
 
 Event survey form: [Artifactory Group/Event Report - Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdrpL35JPyWVSqmnJb8B55MWlCGP0xdfh2-pbqZUvxnLevH-A/viewform?c=0&w=1)
 
 New [RFID Key issued by Committee member form](https://docs.google.com/forms/d/e/1FAIpQLSfrYbEFv7-il0syFjUJaoN_gPXeIOqMfNvtY3ht-HOIF7v60g/viewform)
 
-[code_of_conduct](/docs/committee/code_of_conduct) for The Perth Artifactory
+[Code of Conduct](/docs/committee/code_of_conduct) for The Perth Artifactory
 
 ## Committee Members
 
@@ -54,13 +59,13 @@ Note: on 2022-11-26,
 
 ## Officers
 
--   [IT Officer](/committee/committeerulings#it_officer): Vacant
--   [Rehearsal Room Coordinator(s)](/committee/committeerulings#rehearsal_room_coordinator_s): Johannes Chuah, Martin Gonzalez
--   [Quartermaster(s)](committeerulings#quartermaster_s): Vincent Dalstra
--   [Events Officer(s)](/committee/committeerulings#events_officer_s): Phoebe-Jean Harris
--   [Membership Officer(s)](/committee/committeerulings#membership_officer_s): Fletcher Boyd
--   [Member Storage Officer](/committee/committeerulings&#member_storage_officer): Steve Hodges
--   [The Ambassador](/committee/committeerulings#associate_membership_-_the_ambassador) - Magnus Danger Magnus
+-   [Events Officer(s)](/docs/policies/officers): Phoebe-Jean Harris
+-   [IT Officer](/docs/policies/officers): Vacant
+-   [Membership Officer(s)](/docs/policies/officers): Fletcher Boyd
+-   [Member Storage Officer](/docs/policies/officers): Steve Hodges
+-   [Quartermaster(s)](/docs/policies/officers): Vincent Dalstra
+-   [Rehearsal Room Coordinator(s)](/docs/policies/officers): Johannes Chuah, Martin Gonzalez
+-   [The Ambassador](docs/policies/classes_of_membership) - Magnus Danger Magnus
 
 ## Events and Workshop Coordinators
 
@@ -112,9 +117,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee Meeting 2022.10.22](Committee Meeting 2022.10.22)
     -   [Committee Meeting 2022.09.17](Committee Meeting 2022.09.17) - post AGM committee meeting
 
-```{=html}
-<!-- -->
-```
 -   [2021-2022 Committee](2021-2022_committee)
     -   [Committee Meeting 2022.08.06](Committee Meeting 2022.08.06)
     -   [Committee Meeting 2022.07.02](Committee Meeting 2022.07.02)
@@ -126,9 +128,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee Meeting 2021.10.23](Committee Meeting 2021.10.23)
     -   [Committee Meeting 2021.09.18](Committee Meeting 2021.09.18) - post AGM committee meeting
 
-```{=html}
-<!-- -->
-```
 -   [2020-2021 Committee](2020-2021_committee)
     -   [Committee Meeting 2021.08.28](Committee Meeting 2021.08.28)
     -   [Committee Meeting 2021.08.07](Committee Meeting 2021.08.07) - Online
@@ -142,9 +141,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee Meeting 2020.11.21](Committee Meeting 2020.11.21)
     -   [Committee Meeting 2020.09.26](Committee Meeting 2020.09.26) - post AGM committee meeting
 
-```{=html}
-<!-- -->
-```
 -   [2019-2020 Committee](2019-2020_committee)
     -   [Committee Meeting 2020.08.22](Committee Meeting 2020.08.22)
     -   [Committee Meeting 2020.07.25](Committee Meeting 2020.07.25)
@@ -160,9 +156,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee_Meeting_2019.10.02](Committee_Meeting_2019.10.02) - Shortened meeting
     -   [Committee_Meeting_2019.09.14](Committee_Meeting_2019.09.14) - post AGM committee meeting
 
-```{=html}
-<!-- -->
-```
 -   [2018-2019 Committee](2018-2019_committee)
     -   [Committee_Meeting_2019.08.24](Committee_Meeting_2019.08.24)
     -   [Committee_Meeting_2019.07.27](Committee_Meeting_2019.07.27)
@@ -179,9 +172,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee_Meeting_2018.09.29](Committee_Meeting_2018.09.29)
     -   [Committee_Meeting_2018.09.15](Committee_Meeting_2018.09.15) - post AGM committee meeting
 
-```{=html}
-<!-- -->
-```
 -   [2017-2018 Committee](2017-2018_committee)
     -   [Committee Meeting 2018.09.01](Committee_Meeting_2018.09.01)
     -   [Committee_Meeting_2018.08.21](Committee_Meeting_2018.08.21) - constitution review
@@ -197,9 +187,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [committee_meeting_2017.11.25](committee_meeting_2017.11.25)
     -   [Committee_Meeting_2017.10.28](Committee_Meeting_2017.10.28)
 
-```{=html}
-<!-- -->
-```
 -   [2016-2017 Committee](2016-2017_committee)
     -   [Committee_Meeting_2017.09.30](Committee_Meeting_2017.09.30)
     -   [Committee_Meeting_2017.09.03](Committee_Meeting_2017.09.03)
@@ -218,9 +205,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee_Meeting_2016.09.14](Committee_Meeting_2016.09.14)
     -   [Committee_Meeting_2016.09.03](Committee_Meeting_2016.09.03)
 
-```{=html}
-<!-- -->
-```
 -   [2015-2016 Committee](2015-2016_committee)
     -   [Committee_Meeting_2016.08.13](Committee_Meeting_2016.08.13)
     -   [Committee Meeting 2016.07.09](Committee_Meeting_2016.07.09)
@@ -235,9 +219,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee Meeting 2015.10.17](committee_meeting_2015.10.17)
     -   [Committee Meeting 2015.09.12](committee_meeting_2015.09.12)
 
-```{=html}
-<!-- -->
-```
 -   [2014-2015 Committee](2014-2015_committee)
     -   [Committee Meeting 2015.08.15](committee_meeting_2015.08.15)
     -   [Committee Meeting 2015.07.18](committee_meeting_2015.07.18)
@@ -251,9 +232,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee Meeting 2014.10.11](committee_meeting_2014.10.11)
     -   [Committee Meeting 2014.09.13](committee_meeting_2014.09.13)
 
-```{=html}
-<!-- -->
-```
 -   [2013-2014 Committee](2013-2014_committee)
     -   [Committee Meeting 2014.08.16](committee_meeting_2014.08.16)
     -   [Committee Meeting 2014.07.19](committee_meeting_2014.07.19)
@@ -267,9 +245,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee Meeting 2013.11.02](committee_meeting_2013.11.02)
     -   [Committee Meeting 2013.09.21](committee_meeting_2013.09.21)
 
-```{=html}
-<!-- -->
-```
 -   [2012-2013 Committee](2012-2013_committee)
     -   [Committee Meeting 2013.08.17](committee_meeting_2013.08.17)
     -   [Committee Meeting 2013.07.20](committee_meeting_2013.07.20)
@@ -284,9 +259,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee Meeting 2012.10.06](committee_meeting_2012.10.06)
     -   [Committee Meeting 2012.09.08](committee_meeting_2012.09.08)
 
-```{=html}
-<!-- -->
-```
 -   [2011-2012 Committee](2011-2012_committee)
     -   [Committee Meeting 2012.07.25](committee_meeting_2012.07.25)
     -   [Committee Meeting 2012.06.02](committee_meeting_2012.06.02)
@@ -301,9 +273,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   [Committee Meeting 2011.10.19](committee_meeting_2011.10.19)
     -   [Committee Meeting 2011.09.17](committee_meeting_2011.09.17)
 
-```{=html}
-<!-- -->
-```
 -   [2010-2011_committee](2010-2011_committee)
 -   [2009-2010_committee](2009-2010_committee)
 
@@ -317,7 +286,7 @@ Garry Carroll (garryc AT iinet) has registered us as a UWA contractor, active si
 
 ### Never-Never Register
 
-[Never-Never Register](/committee/nevernever)
+[Never-Never Register](/docs/committee/nevernever)
 
 ### Owner and Agent Information
 
@@ -335,32 +304,21 @@ A user of PerthArtifact has been created on as many social media sites as possib
 
 The Association may execute a document if the document is signed in accordance with the Constitution rule 66. A log of Executed Documents is viewable to members [here](/committee/commonseal)
 
-## Policy Development
-
--   [Safer-space and EO policy](/committee/policies/safer_space)
--   [Proposed Materials and Artifact Policy](/committee/policies/stuff_policy)
-
 ## ARCHIVED
 
 **Prospectus / Grant application development:**
 
--   [Prospectus](Artifactory Prospectus)
--   [Supporting Letters](Supporting Letters)
+[artifactory_prospectus](/docs/committee/artifactory_prospectus)
 
-```{=html}
-<!-- -->
-```
 -   Asset Register: <https://docs.google.com/spreadsheet/ccc?key=0AnEp0QWeorz6dFdlalk1UnpSNFFEeS16VDdCekZTX0E&usp=sharing>
 
 **Guthrie Street Lease takeover:**
 
-![](/committee/guthriest_leaseassignment0001_opt.pdf)
+[guthriest_leaseassignment0001_opt.pdf](/docs/committee/guthriest_leaseassignment0001_opt.pdf)
 
 **Stirling City Saga:**
 
-[Stirling City Saga](Stirling City Saga) - Resolved - Certificate of Approval received 5/11/2015
-
-[Property Neighbours](/committee//Property Neighbours)
+[Stirling City Saga](/docs/committee/stirling_city_saga) - Resolved - Certificate of Approval received 5/11/2015
 
 **Records General:** The documentary records held by the committee are held on an internal server accessible via SSH. The documents are also available through BTsync. FIXME: add details
 

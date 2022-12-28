@@ -12,7 +12,7 @@ dateCreated: 2022-10-17T16:58:58.322Z
 
 ## Summary
 
-![BM-70VE.jpg](/tools//BM-70VE.jpg)
+![BM-70VE.jpg](/tools/mill/BM-70VE.jpg)
 The milling machine a BM-70VE Bridge-port-style turret mill, sold by Hare and Forbes and made in Taiwan. It is large and powerful enough to do serious work.  
 The milling machine is a gated tool. That means you must have been trained by an approved Artifactory trainer before using it, even if you have used such machines before.  
 The milling machine, and many of its accessories, are owned by individual Artifactory members (mostly Ben and Kamil). Some of them are expensive. They are available for other members to use, after suitable training and subject to the policies set out below.  
@@ -196,7 +196,7 @@ The [Blondihacks Mill Skills series on Youtube](https://www.youtube.com/playlist
 
 ## Documentation
 
-[bm-70ve_manual.pdf](/tools/bm-70ve_manual.pdf)
+[bm-70ve_manual.pdf](/tools/mill/bm-70ve_manual.pdf)
 [mill_schematic_sheet_1.dwg](/tools/mill/mill_schematic_sheet_1.dwg)
 [mill_schematic_sheet_2.dwg](/tools/mill/mill_schematic_sheet_2.dwg)
 [mill_schematic_sheet_1.pdf](/tools/mill/mill_schematic_sheet_1.pdf)

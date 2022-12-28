@@ -10,7 +10,7 @@ dateCreated: 2022-10-17T16:55:17.214Z
 
 # Agilent 6654A Bench Power Supply
 
-![prod-839368-01.webp](/prod-839368-01.webp)
+![prod-839368-01.webp](/tools/electronics/prod-839368-01.webp)
 
 ## Specifications
 
@@ -24,11 +24,11 @@ dateCreated: 2022-10-17T16:55:17.214Z
 
 ## Manuals
 
-For Specifications see: [5990-9305.pdf](/5990-9305.pdf)
+For Specifications see: [5990-9305.pdf](/tools/electronics/5990-9305.pdf)
 
-For an Operating Guide see: [9018-01422.pdf](/9018-01422.pdf)
+For an Operating Guide see: [9018-01422.pdf](/tools/electronics/9018-01422.pdf)
 
-For a Service Manual see: [9018-01114.pdf](/9018-01114.pdf)
+For a Service Manual see: [9018-01114.pdf](/tools/electronics/9018-01114.pdf)
 
 ## Basic Operating Instructions
 

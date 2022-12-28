@@ -25,7 +25,7 @@ dateCreated: 2022-10-17T16:56:31.039Z
 
 ### Resources and further information
 
-![](/tools/soldering_station_micron_t2380_user_manual_.pdf)
+![](/tools/electronics/soldering_station_micron_t2380_user_manual_.pdf)
 
 ## DSE T1976 Soldering Station
 
@@ -35,4 +35,4 @@ dateCreated: 2022-10-17T16:56:31.039Z
 
 ### Resources and further information
 
-![](/tools/soldering_station_dse_t1976_user_manual_.pdf)
+![](/tools/electronics/soldering_station_dse_t1976_user_manual_.pdf)

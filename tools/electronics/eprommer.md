@@ -2,7 +2,7 @@
 title: EPROM Programming PC
 description: 
 published: true
-date: 2022-10-19T12:46:08.417Z
+date: 2022-12-28T10:51:31.251Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:55:26.439Z
@@ -36,7 +36,7 @@ To image an already programmed ROM, press 'R' to read the chip's contents then '
 
 ![](/tools/electronics/eprommer-read.png)
 
-To program a blank EPROM, press '2' to load the image from disk, 'B' to confirm that the chip is blank, 'P' to program it and 'V' to verify that the image was, in fact, successfully programmed. Oh, and if for some reason you weren't able to track down the correct datasheet, you can check ![this](/tools/electronics/eprom_programming_voltages.pdf) out; failing that, you can start with a programming voltage of 12.5V and increase it if if the chip fails to verify correctly.
+To program a blank EPROM, press '2' to load the image from disk, 'B' to confirm that the chip is blank, 'P' to program it and 'V' to verify that the image was, in fact, successfully programmed. Oh, and if for some reason you weren't able to track down the correct datasheet, you can check [this](/tools/electronics/eprom_programming_voltages.pdf) out; failing that, you can start with a programming voltage of 12.5V and increase it if if the chip fails to verify correctly.
 
 The final option worth mentioning is the programming algorithm; in most situations, the 'Intelligent' mode should be fine, but to program some of the older chips you might need to select the 'Normal' mode.
 
@@ -44,7 +44,7 @@ The final option worth mentioning is the programming algorithm; in most situatio
 
 **Resources and Further Information**
 
-In the unlikely event that something goes awry, a copy of the programmer's software is available ![here](/tools/electronics/eprom-programmer-software.zip); more information about the programmer is available [here](http://www.danbbs.dk/~rmadrm/eprom9.htm). If that doesn't fix it, or if you're having trouble using this setup, feel free to contact Peter Dreisiger.
+In the unlikely event that something goes awry, a copy of the programmer's software is available [here](/tools/electronics/eprom-programmer-software.zip); more information about the programmer is available [here](http://www.danbbs.dk/~rmadrm/eprom9.htm). If that doesn't fix it, or if you're having trouble using this setup, feel free to contact Peter Dreisiger.
 
 ------------------------------------------------------------------------
 

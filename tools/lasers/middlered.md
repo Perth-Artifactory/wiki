@@ -2,7 +2,7 @@
 title: Middle Red
 description: 
 published: true
-date: 2022-10-19T12:47:48.310Z
+date: 2022-12-29T03:19:58.079Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:00.139Z
@@ -10,15 +10,11 @@ dateCreated: 2022-10-17T16:58:00.139Z
 
 # Middle Red
 
-[Tool Register](/tools/start) - List of all tools
-
-[Laser Cutters](/tools/lasercutters/start) - Info on all laser cutters
-
-<img src="/tools/lasercutters/middle_red_photo.jpg" width="400" />
+![middle_red_photo.jpg](/tools/lasers/middle_red_photo.jpg)
 
 ## Introduction
 
-Our medium sized ("just right") laser cutter. It's good for engraving with its high top speed and features more modern controller.
+Our medium sized ("just right") laser cutter. It's good for engraving with its high top speed and features a more modern controller.
 
 Key Parameters:
 

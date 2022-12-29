@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2022-11-13T10:04:48.889Z
+date: 2022-12-29T03:17:41.994Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -18,7 +18,7 @@ The Perth Artifactory has 3 laser cutters available for use. For details on each
 
 The laser cutters use high intensity collimated infrared light to cut and engrave various materials. The most common materials cut on our laser cutters are woods and acrylic.
 
-All operators must be trained before using the machines. An operator must be watching the laser cutter at all times while its cutting.
+All operators must be trained before using the machines. An operator must be watching the laser cutter at all times while it is cutting.
 
 ## Safety
 
@@ -26,11 +26,11 @@ The laser cutters are dangerous tools. The main hazards:
 
 |                                                                 |      |
 | --------------------------------------------------------------- | ---- |
-| ![ionising_radiation.svg](/resources/hazards/fire.png =64x64)          | There is a constant risk of fire when cutting most materials. Supervise the laser at all times. |
-| ![ionising_radiation.svg](/resources/hazards/crush.svg =64x64)         | There is the risk of a crush injury when raising and lowering the bed. Keep your hands out of the machine when changing the bed height or focusing the laser. |
-| ![ionising_radiation.svg](/resources/hazards/laser.png =64x64)         | The lasers in these machines are capable of producing intense, collimated beams of light that can cause significant injury. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
-| ![ionising_radiation.svg](/resources/hazards/visible_light.svg =64x64) | When vaporised some material will release a bright light. Use your own judgement as to whether the light is too bright to look at directly. |
-| ![ionising_radiation.svg](/resources/hazards/high_voltage.svg =64x64)  | The laser cutters operate at approximately 30,000V. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
+| ![ionising_radiation.svg](/resources/hazards/fire.png)          | There is a constant risk of fire when cutting most materials. Supervise the laser at all times. |
+| ![ionising_radiation.svg](/resources/hazards/crush.svg)         | There is the risk of a crush injury when raising and lowering the bed. Keep your hands out of the machine when changing the bed height or focusing the laser. |
+| ![ionising_radiation.svg](/resources/hazards/laser.png)         | The lasers in these machines are capable of producing intense, collimated beams of light that can cause significant injury. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
+| ![ionising_radiation.svg](/resources/hazards/visible_light.svg) | When vaporised some material will release a bright light. Use your own judgement as to whether the light is too bright to look at directly. |
+| ![ionising_radiation.svg](/resources/hazards/high_voltage.svg)  | The laser cutters operate at approximately 30,000V. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
 
 ## Usage Costs
 
@@ -42,23 +42,32 @@ Refer to [Tool Usage Fees](/docs/policies/fees) for the current fees.
 
 ## Training
 
-All users must be trained on the laser cutters before using them. Training consists of two parts - first a session to explain how to use the laser cutter including supervised jobs done by the trainee. The second part is a test to ensure the operator is safe to use the laser cutter. A user must be trained and tested on each laser cutter since they are all different in certain aspects.
+All users must be trained on the laser cutters before using them.
+
+Training consists of two parts -
+
+* Part 1: a session to explain how to use the laser cutter including supervised jobs done by the trainee.
+
+* Part 2: a test to ensure the operator is safe to use the laser cutter.
+
+A user must be trained and tested on each laser cutter separately, since they are all different in certain aspects.
 
 ### Trainers
 
-Below is a list of trainers (Artifactory volunteers who are able to train new operators). Training can be organised by posting a message to the \#lazors channel on slack.
+Below is a list of trainers (Artifactory volunteers who are able to train new operators). Training can be organised by posting a message to the [\#lasers](https://perthartifactory.slack.com/archives/CB9S94S2E) channel on Slack.
 
 | Trainer Name   | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | Availability                                            |
 | -------------- | -------------- | --------------- | ------------ | ------------------------------------------------------- |
-| Blake Samuels  | Yes            | Yes             | Yes          | Arduino U (Confirm beforehand), #lazors on Slack        |
-| Beau Scott     | Yes            | Yes             | Yes          | #lazors on Slack                                        |
-| Bruce Chambers | No             | No              | Yes          | #lazors on Slack                                        |
-| Fletcher Boyd  | Yes            | Yes             | Yes          | General Hacking Saturdays (Confirm beforehand), #lazors on Slack           |
+| Blake Samuels  | Yes            | Yes             | Yes          | Arduino U (Confirm beforehand), #lazers on Slack        |
+| Beau Scott     | Yes            | Yes             | Yes          | #lasers on Slack                                        |
+| Bruce Chambers | No             | No              | Yes          | #lasers on Slack                                        |
+| Fletcher Boyd  | Yes            | Yes             | Yes          | General Hacking Saturdays (Confirm beforehand), #lasers on Slack           |
 | Glenn Martin   | Yes            | No              | Yes          | Unavailable                                             |
 | Iain Graham    | Yes            | Yes             | Yes          | Unavailable                                             |
-| Johannes Chuah | No             | No              | Yes          | #lazors on Slack                                        |
-| Nick Bannon    | Yes            | Yes             | Yes          | Third Tuesday of the month from 6pm (Confirm befrehand) |
+| Johannes Chuah | No             | No              | Yes          | #lasers on Slack                                        |
+| Nick Bannon    | Yes            | Yes             | Yes          | Third Tuesday of the month from 6pm (Confirm beforehand) |
 | Steve Hodges   | Yes            | No              | Yes          | Unavailable                                             |
+| Lewis Yip | No | No | Yes | General Hacking Saturdays (Confirm beforehand), #lasers on Slack |
 
 ### Operators
 
@@ -68,11 +77,15 @@ Below is a list of trainers (Artifactory volunteers who are able to train new op
 
 ### LaserCut Software
 
-<img src="/tools/lasercutters/lasercut21.png" class="align-left" width="200" />
+![lasercut21.png](/tools/lasers/lasercut21.png)
 
 The software which drives both the LG500 and LC1290 is called "LaserCut" and can be found on the desktop of the computers linked up to their respective cutting machine.
 
-<embed src="/tools/lasercutters/lasercut5.3_manual_v1.6.pdf" class="align-center" /> - It's not a fantastic piece of documentation, but may be useful. Also see [MPC6515 controller page](/docs/lasers/controller_mpc6515).
+[lasercut5.3_manual_v1.6.pdf](/tools/lasers/lasercut5.3_manual_v1.6.pdf)
+
+ It's not a fantastic piece of documentation, but may be useful.
+ 
+ Also see [MPC6515 controller page](/docs/lasers/controller_mpc6515).
 
 **Please don't alter any of the machine settings without checking with a trainer first!**
 
@@ -84,7 +97,9 @@ Which can be created using most CAD programs out there, The most commonly used o
 
 ### Relative or Absolute Positioning
 
-<img src="/tools/lasercutters/immediate_check_lcp.png" class="align-left" width="200" /> The machines can operate in either absolute positioning mode (The machine will cut the vectors in the position they are located on the outline of the bed in the software) or in relative positioning mode (The machine will cut the vectors starting at the current location of the cutting head).  
+![immediate_check_lcp.png](/tools/lasers/immediate_check_lcp.png)
+
+The machines can operate in either absolute positioning mode (The machine will cut the vectors in the position they are located on the outline of the bed in the software) or in relative positioning mode (The machine will cut the vectors starting at the current location of the cutting head).  
   
 For most jobs it is easier to operate in *relative* positioning mode as it allows you to manually reposition the cut much faster by simply jogging the head. Absolute positioning mode is however preferable if you are using a jig to cut or engrave multiple parts. To switch between cutting modes you simply need to toggle the **Immediate** checkbox, if the checkbox is checked then the machine is operating in *relative* positioning mode, if it is not then the machine is operating in *absolute* positioning mode.  
   
@@ -95,7 +110,7 @@ For most jobs it is easier to operate in *relative* positioning mode as it allow
 * You cannot look at multiple laser cutters at the same time, this means you cannot operate multiple lasers at the same time.
 * Clean up the bed after you are done cutting.
 * Closed footwear must be worn at all times in the laser area.
-* Do not attempt to open covers or fix issues yourself if you are not qualified to do so. Let #lazors on Slack know.
+* Do not attempt to open covers or fix issues yourself if you are not qualified to do so. Let #lazers on Slack know.
 * Do not slam or force the main door.
 * Do not leave the laser cutter while it's running.
 * Only use approved materials.

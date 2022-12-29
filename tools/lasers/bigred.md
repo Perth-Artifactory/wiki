@@ -2,7 +2,7 @@
 title: Big Red
 description: 
 published: true
-date: 2022-10-19T12:47:10.401Z
+date: 2022-12-29T03:04:51.396Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:56:59.372Z
@@ -10,26 +10,22 @@ dateCreated: 2022-10-17T16:56:59.372Z
 
 # Big Red
 
-[Tool Register](/tools/start) - List of all tools
-
-[Laser Cutters General Info](/tools/lasercutters/start) - Info on all laser cutters.
-
-<img src="/tools/lasercutters/big_red_photo.jpg" width="400" />
+![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg)
 
 ## Introduction
 
 Our largest and most powerful laser cutter. It's good for large pieces of material, thick material and for cutting quickly. It's suitable for use on wood and acrylic like the other laser cutters. It's not as good at engraving as middle red while little red is better at fine detail work.
 
-Key Parameters:
+| -------------------------- | ----------------- |
+| Make/Model                 | [G.Weike LC1290](https://web.archive.org/web/20150319072633/http://www.wklaser.com/pro_190.aspx) |
+| Controller                 | [MPC6515](/tools/lasers/controller_mpc6515) |
+| Nominal cut area           | 1,200 × 900 mm    |
+| Honeycomb area             | 1,165 × 862 mm    |
+| Laser type                 | CO2 10.6μm laser  |
+| Laser tube                 | SPT-TR130 (130W)  |
+| Laser tube working current | 25 - 30mA         |
+| Lens                       | China PVD Znse Lens 20mm / 63.5 (2.5 inch) ([cloudray](https://www.cloudraylaser.com/products/china-pvd-znse-focusing-lens-for-co2-laser?variant=43422450184)) |
 
--   Laser cutter model number: LC1290 (<http://www.wklaser.com/pro_190.aspx>)
--   Controller model number: [MPC6515](/tools/lasercutters/controller_mpc6515)
--   Nominal cut area: 1200mm×900mm
--   Honeycomb area is 1165×862
--   Laser type: CO2 10.6um laser
--   Current laser tube: SPT-TR130 (130W)
--   Laser tube working current: 25-30mA
--   Lens: China PVD Znse Lens 20mm / 63.5 (2.5 inch) ([cloudray](https://www.cloudraylaser.com/products/china-pvd-znse-focusing-lens-for-co2-laser?variant=43422450184))
 
 Computer:
 
@@ -42,9 +38,7 @@ Computer:
 
 This is the checklist operators should be working through as they go about their laser cutting jobs.
 
-*Click to view larger version (click again for full resolution).*
-
-<img src="/tools/lasercutters/big_red.png" width="300" />
+![big_red.png](/tools/lasers/big_red.png)
 
 ## Laser Tube History
 
@@ -64,12 +58,10 @@ Big Red's cut and engrave speeds are limited to 200mm/s to reduce shaking the mi
 
 To install the rotary axis for doing round things you need to first disconnect the Y axis and connect the rotary axis.
 
-Note: This page used to be over at [](/lasercutters/lc1290_parameters) but was overhauled and moved here. That page title was: "LC1290 Laser Cutting / Engraving Reference"
-
 Machine Settings:
 
-| X Axis Pulse Unit | 0.0048000000 |
 |-------------------|--------------|
+| X Axis Pulse Unit | 0.0048000000 |
 | Y Axis Pulse Unit | 0.0048000000 |
 
 The controller is MPC6515: <embed src="/tools/lasercutters/laser_cutter_manual_bigred_mpc6515_20140701113449_50485.pdf" class="align-center" />
@@ -78,7 +70,7 @@ The power supply (including screen) is HY-Z from cloudray: <embed src="/tools/la
 
 ## Laser Speeds
 
-Cut, engraves and marking speeds are listed here for historical record. Some common and more up-to-date cut speeds will be on the whiteboard next to the laser cutters for common materials. Operators are encouraged to post their cut speeds to \`#lasers-big-red\` on Slack.
+Cut, engraves and marking speeds are listed here for historical record. Some common and more up-to-date cut speeds will be on the whiteboard next to the laser cutters for common materials. Operators are encouraged to post their cut speeds to \`#lasers_big-red\` on Slack.
 
 ### Cutting
 

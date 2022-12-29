@@ -2,7 +2,7 @@
 title: Big Red
 description: 
 published: true
-date: 2022-12-29T03:04:51.396Z
+date: 2022-12-29T06:43:16.086Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:56:59.372Z
@@ -64,9 +64,11 @@ Machine Settings:
 | X Axis Pulse Unit | 0.0048000000 |
 | Y Axis Pulse Unit | 0.0048000000 |
 
-The controller is MPC6515: <embed src="/tools/lasercutters/laser_cutter_manual_bigred_mpc6515_20140701113449_50485.pdf" class="align-center" />
+We do not have a user manual for the LC1290 specifically. [operational_manual_of_machine_xin_usb.pdf](/tools/lasers/operational_manual_of_machine_xin_usb.pdf) is a manual for the similar (but not identical) LC1280.
 
-The power supply (including screen) is HY-Z from cloudray: <embed src="/tools/lasercutters/hy-z_series_laser_power_supply_user_manual.pdf" class="align-center" />
+The controller is MPC6515: [laser_cutter_manual_bigred_mpc6515_20140701113449_50485.pdf](/tools/lasers/laser_cutter_manual_bigred_mpc6515_20140701113449_50485.pdf)
+
+The power supply (including screen) is HY-Z from cloudray: [hy-z_series_laser_power_supply_user_manual.pdf](/tools/lasers/hy-z_series_laser_power_supply_user_manual.pdf)
 
 ## Laser Speeds
 
@@ -127,7 +129,7 @@ Guide to aligning mirrors on Laser.
 
 <http://justaddsharks.co.uk/support/laser-beam-alignment-guide>
 
-See "[file://filer/shared/member work/lemming/laser alignment](file://filer/shared/member work/lemming/laser alignment)" for laser alignment targets.
+See `\\filer\Resources\Laser\laser-Alignment-target\` for laser alignment targets.
 
 ### Documents
 

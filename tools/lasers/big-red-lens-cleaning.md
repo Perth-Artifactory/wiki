@@ -1,8 +1,8 @@
 ---
-title: Big Red - Lens Cleaning Procedure
+title: Big Red - Lens Cleaning
 description: 
 published: true
-date: 2022-12-30T05:48:45.792Z
+date: 2022-12-30T05:51:57.634Z
 tags: lasers
 editor: markdown
 dateCreated: 2022-12-28T16:42:16.881Z

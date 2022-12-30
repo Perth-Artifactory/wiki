@@ -2,7 +2,7 @@
 title: Big Red - Lens Cleaning Procedure
 description: 
 published: true
-date: 2022-12-30T05:40:10.173Z
+date: 2022-12-30T05:48:45.792Z
 tags: lasers
 editor: markdown
 dateCreated: 2022-12-28T16:42:16.881Z
@@ -10,21 +10,21 @@ dateCreated: 2022-12-28T16:42:16.881Z
 
 # Big Red - Lens Cleaning Procedure
 
+This is the procedure to clean the laser head lens on "Big Red", our LC1290 laser cutter.
+
 > This procedure is for use by trained laser maintainers.
 > Do not perform this task unless you have been specifically trained.
 {.is-warning}
 
 Laser cutters use a lens to focus a wide beam of energy down to a focused point.
 
-The lens accumulates dirt over time (smoke etc) which reduces the cutting power of the laser.
-
-Cleaning the lens should be done frequently in order to maintain the cutting power of the laser.
+The lens needs to be cleaned frequently to remove dirt (smoke, etc) which reduces the amount of power getting through the lens.
 
 ## Objectives
 
 * Disassemble the laser head assembly to access the lens
 * Clean the lens
-* Reassemble the laser head assembly
+* Reassemble
 * Test Z-probe and laser cutting after re-assembly.
 
 ## Laser head anatomy

@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2022-12-29T03:17:41.994Z
+date: 2022-12-30T06:00:19.280Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -58,16 +58,16 @@ Below is a list of trainers (Artifactory volunteers who are able to train new op
 
 | Trainer Name   | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | Availability                                            |
 | -------------- | -------------- | --------------- | ------------ | ------------------------------------------------------- |
-| Blake Samuels  | Yes            | Yes             | Yes          | Arduino U (Confirm beforehand), #lazers on Slack        |
-| Beau Scott     | Yes            | Yes             | Yes          | #lasers on Slack                                        |
-| Bruce Chambers | No             | No              | Yes          | #lasers on Slack                                        |
-| Fletcher Boyd  | Yes            | Yes             | Yes          | General Hacking Saturdays (Confirm beforehand), #lasers on Slack           |
-| Glenn Martin   | Yes            | No              | Yes          | Unavailable                                             |
-| Iain Graham    | Yes            | Yes             | Yes          | Unavailable                                             |
-| Johannes Chuah | No             | No              | Yes          | #lasers on Slack                                        |
-| Nick Bannon    | Yes            | Yes             | Yes          | Third Tuesday of the month from 6pm (Confirm beforehand) |
-| Steve Hodges   | Yes            | No              | Yes          | Unavailable                                             |
-| Lewis Yip | No | No | Yes | General Hacking Saturdays (Confirm beforehand), #lasers on Slack |
+| Blake Samuels  | ✓            | ✓             | ✓          | Arduino U (Confirm beforehand), #lazers on Slack        |
+| Beau Scott     | ✓            | ✓             | ✓          | #lasers on Slack                                        |
+| Bruce Chambers | -             | -              | ✓          | #lasers on Slack                                        |
+| Fletcher Boyd  | ✓            | ✓             | ✓          | General Hacking Saturdays (Confirm beforehand), #lasers on Slack           |
+| Glenn Martin   | ✓            | -              | ✓          | Unavailable                                             |
+| Iain Graham    | ✓            | ✓             | ✓          | Unavailable                                             |
+| Johannes Chuah | -             | -              | ✓          | #lasers on Slack                                        |
+| Nick Bannon    | ✓            | ✓             | ✓          | Third Tuesday of the month from 6pm (Confirm beforehand) |
+| Steve Hodges   | ✓            | -              | ✓          | Unavailable                                             |
+| Lewis Yip | - | - | ✓ | General Hacking Saturdays (Confirm beforehand), #lasers on Slack |
 
 ### Operators
 

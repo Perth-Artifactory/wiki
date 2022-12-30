@@ -2,7 +2,7 @@
 title: Big Red - Lens Cleaning Procedure
 description: 
 published: true
-date: 2022-12-28T16:42:16.881Z
+date: 2022-12-30T04:52:22.670Z
 tags: lasers
 editor: markdown
 dateCreated: 2022-12-28T16:42:16.881Z
@@ -13,6 +13,23 @@ dateCreated: 2022-12-28T16:42:16.881Z
 > This procedure is for use by trained laser maintainers.
 > Do not perform this task unless you have been specifically trained.
 {.is-warning}
+
+Laser cutters use a lens to focus a wide beam of energy down to a focused point.
+
+The lens accumulates dirt over time (smoke etc) which reduces the cutting power of the laser.
+
+Cleaning the lens should be done frequently in order to maintain the cutting power of the laser.
+
+## Objectives
+
+* Disassemble the laser head assembly to access the lens
+* Clean the lens
+* Reassemble the laser head assembly
+* Test Z-probe and laser cutting after re-assembly.
+
+## Laser head anatomy
+
+![big-red-head-anatomy.jpg](/tools/lasers/big-red-head-anatomy.jpg)
 
 ## Equipment
 
@@ -28,6 +45,8 @@ You will need:
 * A spray bottle of isopropyl alcohol (IPA)
 * Polishing cloths
 
+![big-red-lens-cleaning-tools.jpg](/tools/lasers/big-red-lens-cleaning-tools.jpg)
+
 ## Procedure
 
 1. Start the laser.
@@ -38,17 +57,21 @@ You will need:
 
 3. Drive the laser head to the front and centre of the bed, so you can reach it easily.
 
+![big-red-lens-cleaning-1.jpg](/tools/lasers/big-red-lens-cleaning-1.jpg)
+
 4. Manually drive the Z-axis down to create working space underneath the laser head.
 
 5. Put the A4 piece of material under the head. This creates a clean working surface for parts to lie on, and catches any small parts you may drop.
 
-6. **Loosen** the thumb-screw securing the lens tube. The lens tube will drop out of the head.
+6. Disassemble the laser head -
 
-8. **Loosen** (do not remove!) the two screws securing the Z-probe to the lens tube.
+    * **Loosen** (do not remove!) the two screws securing the Z-probe to the lens tube.
+    * **Loosen** the thumb-screw securing the lens tube.
+    * Unscrew the air assist nozzle from the lens tube.
 
-9. Unscrew the air assist nozzle from the lens tube.
+![big-red-lens-cleaning-2.jpg](/tools/lasers/big-red-lens-cleaning-2.jpg)
 
-10. Use the laser lens wrench to unscrew the ring which holds the lens in the lens tube. Be careful not to scratch the lens.
+9. Use the laser lens wrench to unscrew the ring which holds the lens in the lens tube. Be careful not to scratch the lens.
 
 11. Take note of the orientation of the lens (curved side up/down) and the position of the silicon O-ring.
 

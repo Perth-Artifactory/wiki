@@ -2,7 +2,7 @@
 title: Big Red - Lens Cleaning Procedure
 description: 
 published: true
-date: 2022-12-30T04:52:22.670Z
+date: 2022-12-30T05:40:10.173Z
 tags: lasers
 editor: markdown
 dateCreated: 2022-12-28T16:42:16.881Z
@@ -71,25 +71,39 @@ You will need:
 
 ![big-red-lens-cleaning-2.jpg](/tools/lasers/big-red-lens-cleaning-2.jpg)
 
-9. Use the laser lens wrench to unscrew the ring which holds the lens in the lens tube. Be careful not to scratch the lens.
+7. Use the laser lens wrench to unscrew the ring which holds the lens in the lens tube. Be careful not to scratch the lens.
 
-11. Take note of the orientation of the lens (curved side up/down) and the position of the silicon O-ring.
+![big-red-lens-cleaning-3.jpg](/tools/lasers/big-red-lens-cleaning-3.jpg)
 
-12. Clean the lens with copious amounts of isopropyl alcohol. Repeat until lens is as clean as possible.
+![big-red-lens-cleaning-4.jpg](/tools/lasers/big-red-lens-cleaning-4.jpg)
 
-13. Reassemble the lens, O-ring and locking ring back into the lens tube.
+8. Clean the lens with a soft, lint-free cloth, and copious amounts of isopropyl alcohol. Repeat until lens is clean.
 
-14. Reassemble the Z-probe, lens tube, and air assist nozzle.
+![big-red-lens-cleaning-5.jpg](/tools/lasers/big-red-lens-cleaning-5.jpg)
 
-15. Re-tighten the screws that hold the Z-probe to the lens tube. **Ensure the z-probe holder is tight against the shoulder on the lens assembly. This sets the focal length of the laser.**
+9. Reassemble the lens, O-ring and locking ring back into the lens tube.
 
-16. Wiggle the Z-probe / z-probe bracket to ensure it is **securely fixed** to the lens tube. Re-tighten the screws if required.
+    * Note the orientation of the lens - convex side up (away from the work), concave side down (towards the work).
+    
+    ![big-red-lens-tube-assembly.png](/tools/lasers/big-red-lens-tube-assembly.png)
 
-16. Re-tighten the thumb-screw that holds the lens tube and Z-probe on the head. **Leave 20mm of spare space as indicated** - this will make it easier to recover from head crashes if required.
+10. Reassemble the Z-probe, lens tube, and air assist nozzle.
 
-17. Check the Z-probe for function. (Push the Z-probe button up; a red light should illuminate on the back of the Z-probe.)
+11. Re-tighten the screws that hold the Z-probe to the lens tube. **Ensure the z-probe holder is tight against the shoulder on the lens assembly. This sets the focal length of the laser.**
 
-18. Z-datum the machine. **After maintenance there is a increased risk of the Z-probe failing - so really ensure you are ready to E-stop the machine!**
+![big-red-lens-cleaning-6.jpg](/tools/lasers/big-red-lens-cleaning-6.jpg)
 
-19. Perform another speed test on 3mm MDF and record the result.
+12. Wiggle the Z-probe / z-probe bracket to ensure it is **securely fixed** to the lens tube. Re-tighten the screws if required.
+
+13. Re-tighten the thumb-screw that holds the lens tube and Z-probe on the head. **Leave 20mm of spare space as indicated** - this will make it easier to recover from head crashes if required.
+
+![big-red-lens-cleaning-7.jpg](/tools/lasers/big-red-lens-cleaning-7.jpg)
+
+14. Check the Z-probe for function. (Push the Z-probe button up; a red light should illuminate on the back of the Z-probe.)
+
+![big-red-lens-cleaning-8.jpg](/tools/lasers/big-red-lens-cleaning-8.jpg)
+
+15. Z-datum the machine. **After maintenance there is a increased risk of the Z-probe failing - so really ensure you are ready to E-stop the machine!**
+
+16. Perform another speed test on 3mm MDF and record the result.
 

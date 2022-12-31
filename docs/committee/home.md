@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2022-12-23T13:32:17.918Z
+date: 2022-12-31T05:01:28.842Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -50,12 +50,15 @@ Ordinary Committee Members
 -   Deputy Treasurer: Fletcher Boyd
 -   Ordinary Committee Member: Johannes Chuah
 -   Ordinary Committee Member: Joshua Rospondek
--   Ordinary Committee Member: Vacant
+-   Ordinary Committee Member: Renae Currie
 -   Ordinary Committee Member: Vacant
 
 Note: on 2022-11-26,
 -   Phoebe-Jean Harris changed position from Secretary to Deputy Secretary.
 -   Lewis YIp changed position from Deputy Secretary to Secretary.
+
+Note: on 2023-01-01
+* Renae Currie was appointed to the committee
 
 ## Officers
 

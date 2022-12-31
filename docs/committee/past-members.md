@@ -2,7 +2,7 @@
 title: Past Committee
 description: This is a non exhaustive list of past Artifactory committees.
 published: true
-date: 2022-11-20T10:14:02.887Z
+date: 2022-12-31T05:02:43.316Z
 tags: official
 editor: markdown
 dateCreated: 2022-11-20T10:14:02.887Z
@@ -10,7 +10,7 @@ dateCreated: 2022-11-20T10:14:02.887Z
 
 | Year  | Chair | Vice Chair | Secretary | Treasurer | Deputy Secretary | Deputy Treasurer | OCM | OCM | OCM | OCM | OCM | OCM |
 | ----- | ----- | ---------- | --------- | --------- | ---------------- | ---------------- | --- | --- | --- | --- | --- | --- |
-| 22-23 | Beau Scott  | Vincent Dalstra | Phoebe-Jean Harris | Ben Connor | Lewis Yip | Fletcher Boyd | Johannes Chuah | Joshua Rospondek | Vacant | Vacant | N/A | N/A |
+| 22-23 | Beau Scott  | Vincent Dalstra | Phoebe-Jean Harris | Ben Connor | Lewis Yip | Fletcher Boyd | Johannes Chuah | Joshua Rospondek | Vacant<br>Renae Currie (01/01) | Vacant | N/A | N/A |
 | 21-22 | Beau Scott  | Fletcher Boyd   | Phoebe-Jean Harris | Vincent Dalstra | N/A | Ben Connor | Iain Graham | Jason Kongchouy | Jeremiah Finch<br>Vacant (??/??) | Johannes Chuah | Joshua Rospondek | N/A |
 | 20-21 | Iain Graham | Beau Scott      | Vincent Dalstra    | Fletcher Boyd   | N/A | N/A | Blake Samuels | Jason Kongchouy | Judith Huang | Lisa McCarthy | Scott Simons	| Steve Hodges |
 | 19-20 | Iain Graham | Stuart McDonald | Jean-Michel Maujean<br>Vincent Dalstra (26/05) | Fletcher Boyd   | N/A | N/A | Hugh Fraser | Lauren Amos | Melanie McCarthy | Scott Simons | Steve Hodges | Vincent Dalstra<br>Jean-Michel Maujean (26/05) |

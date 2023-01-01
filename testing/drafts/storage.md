@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-01-01T11:16:23.694Z
+date: 2023-01-01T11:17:58.149Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -232,19 +232,19 @@ We will hold that property for 7 days.
 
 ## Disposal of property
 
-The committee may dispose of property ---
+We may dispose of property ---
 
 * Which remains on the Association's premises after the stated date on a *Direction to remove property*.
 * Which remains unclaimed after the period stated in the section *Lost and found*.
-* Which poses an imminent risk to safety and health, immediately upon the committee becoming aware of the risk.
+* Which poses an imminent risk to safety and health, immediately after we become aware of the risk.
 
-The committee may dispose of such property in any way they see fit, including (but not limited to) ---
+We may dispose of such property in any way we see fit, including (but not limited to) ---
 
 * Treating the property as a donation to the Artifactory.
 * Sending or delivering the property to your recorded address at your cost.
 * Disposing of the property as waste.
 
-The Association is entitled to recover its reasonable costs associated with the disposal of property.
+We are entitled to recover our reasonable costs associated with the disposal of your property.
 
 
 

@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-01-01T11:13:35.543Z
+date: 2023-01-01T11:16:23.694Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -24,6 +24,7 @@ dateCreated: 2023-01-01T11:13:35.543Z
 >     - Todo: Reference this from the standard form of "Equipment loan agreement" and include a clause which states that new versions of the "Equipment loan agreement" automatically supercede old versions once suitable notice has been given.
 >      - New process provides for us to send a member's stuff to them at their cost.
 >      - New process provides for us to recover the cost of disposing of stuff if needed. (e.g. A member leaves dangerous goods in their storage locker.)
+>      - New process allows for us to yeet things immediately if they are a danger to safety and health. (e.g. improperly stored batteries, e.g. leaking chemicals.)
 
 These are the [by-laws](/docs/policies/bylaws) governing storage in the space.
 
@@ -235,6 +236,7 @@ The committee may dispose of property ---
 
 * Which remains on the Association's premises after the stated date on a *Direction to remove property*.
 * Which remains unclaimed after the period stated in the section *Lost and found*.
+* Which poses an imminent risk to safety and health, immediately upon the committee becoming aware of the risk.
 
 The committee may dispose of such property in any way they see fit, including (but not limited to) ---
 

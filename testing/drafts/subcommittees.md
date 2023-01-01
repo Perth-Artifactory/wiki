@@ -2,7 +2,7 @@
 title: DRAFT - Subcommittee by-laws
 description: 
 published: true
-date: 2023-01-01T09:48:47.289Z
+date: 2023-01-01T09:55:32.200Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T09:48:47.289Z
@@ -16,7 +16,7 @@ dateCreated: 2023-01-01T09:48:47.289Z
 > * Breaks the by-law up into logical sections reflecting the life-cycle of a subcommittee.
 > * States when the subcommittee must vote on a question (previously undefined)
 > * Removes the "suggested" parts of the by-law out to a separate document, "Guidance for subcommittees". (By-laws should only contain things which are mandatory and enforceable.)
-> 
+> * Add requirement to record both the name and the address of subcommittee members. (A requirement of the Act.)
 {.is-info}
 
 This is the [by-law](/docs/policies/bylaws) governing subcommittees.

@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2022-10-23T07:45:54.577Z
+date: 2023-01-03T02:45:57.678Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -248,7 +248,7 @@ What/Inform/Issue
 
 Remember to set **next meeting time** before closing meeting!
 
-* Next meeting: NNNN.NN.NN NN:NN, N weeks
+* Next meeting: NNNN.NN.NN, NN:NN N weeks
 
 Minutes: [NNNN-NN-NN](/minutes/Committee/NNNN-NN-NN)
 

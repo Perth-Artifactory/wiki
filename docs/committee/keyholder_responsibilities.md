@@ -18,5 +18,7 @@ The committee can be contacted via committee@artifactory.org.au or [\#general](s
 -   If you are leaving and there are other people in the space you must make sure there is another keyholder still in the space. If not you will need to ask them to leave as well and then make the space secure.
 -   Your key is yours alone, please do not lend your key to others. If your key is lost please advise the committee ASAP so that we can disable your key. We’ll provide you with a replacement.
 -   If you notice any issues with security. Please advise the committee as soon as possible.
--   If you’re the only one in the space, we would suggest closing the front door for security reasons.
+-   If you're the only one in the space, we would suggest closing the front door for security reasons.
+-   If you are working alone, ensure you assess what you are doing and only undertake tasks you are comfortable doing alone. Consider deferring risky jobs to a time when other people will be around to help.
+-   Every key holder must have a valid emergency contact listed in TidyHQ.
 -   The committee reserves the right to revoke your key at any time for any reason. You will be notified by email or other communications method as they see fit.

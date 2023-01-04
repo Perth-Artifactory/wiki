@@ -24,7 +24,6 @@ Defined at committee meeting 2018-01-09
 * Access to and usage of heavy duty tools, machines and facilities.
 * Tool usage fees are payable on some tool use.
 * Discounts on Artifactory run Events and workshops
-* For 24/7 access. A key bond equivalent to 3 months of membership is payable.
 
 ### Concession Membership
 
@@ -36,7 +35,6 @@ Defined at committee meeting 2018-01-09
 * Access to and usage of heavy duty tools, machines and facilities.
 * Tool usage fees are payable on some tool use.
 * Discounts on Artifactory run Events and workshops
-* For 24/7 access. A key bond equivalent to 3 months of membership is payable.
 
 ### Band Membership
 
@@ -47,7 +45,6 @@ The Band Membership is restricted to a maximum of 6 memberships.
 Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by bands with band membership of the Perth Artifactory. Use of Artifactory tools/equipment etc is encouraged, but charged at the day pass rates.
 
 * Band membership fees are set at \$100/month.
-* Each band pays a \$100 key bond(refundable upon return of key so long as the band is up to date with membership fees)
 * The band is provided with only one key to the room.
 * Only the nominated contact person in the band has voting rights under the Artifactory constitution
 * Band membership entitles each band to the following:
@@ -81,7 +78,6 @@ Defined at committee meeting 2018-11-24
 * Access to and usage of heavy duty tools, machines and facilities.
 * Tool usage fees are payable on some tool use (at member rate).
 * Discounts on Artifactory run events and workshops.
-* 24/7 access to the Artifactory can be granted with this membership but it requires a key bond of equivalent to a concession membership to be paid.
 
 ### Associate Membership - The Ambassador!
 
@@ -97,7 +93,6 @@ Description: Noizemaschin Residency - Every 3 months the Artifactory allows a No
 
 * While the Noizemaschin Panel selects the Artist, the Artist must be formally approved by the Committee
 * The Artist is expected to play at 3 Noizemaschin events (where possible)
-* The Artist will be provided with a key to the Artifactory. (No bond required)
 * Tool usage fees apply at the same rate as Full or Concession members for the artist
 * Rehearsal room usage:
   * 3 rehearsal slots/month;

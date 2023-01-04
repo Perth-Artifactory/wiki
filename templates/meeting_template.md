@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2023-01-03T02:45:57.678Z
+date: 2023-01-04T06:36:58.386Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -22,7 +22,16 @@ The table of contents on the left side of the page forms the agenda of this meet
 
 ## Members Present
 
-* Present: REMOVE NOT PRESENT - Beau, Ben, Fletcher, Johannes, Joshua, Lewis, Phoebe-Jean, Vincent
+* Present: REMOVE NOT PRESENT
+    * Beau Scott
+    * Ben Connor
+    * Fletcher Boyd
+    * Johannes Chuah
+    * Joshua Rospondek
+    * Lewis Yip
+    * Phoebe-Jean Harris
+    * Renae Currie
+    * Vincent Dalstra
 * Apologies: NAMES
 * Absent: NAMES
 * Observing: NAMES

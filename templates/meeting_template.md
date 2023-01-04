@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2023-01-04T06:36:58.386Z
+date: 2023-01-04T12:04:35.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -174,7 +174,7 @@ Updates from subcommittees - discussions or requests for action.
 * REPORT ITEM
   * DETAILS
 
-### Sponsored Memberships Panel
+### Associate Memberships Panel
 
 * REPORT ITEM
   * DETAILS

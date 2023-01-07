@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-01-01T11:19:38.897Z
+date: 2023-01-07T05:15:41.366Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -83,7 +83,8 @@ Members are entitled to ---
 * Store material on the **material racks**; and
 * Temporary storage in general workspaces - see **workspace usage**.
 
-
+> Fletcher: Not all members (bands etc) are entitled to storage. "Members may be entitled to"?
+{.is-info}
 
 
 
@@ -122,10 +123,7 @@ You must clearly mark each sheet with ---
     - Initials e.g. "JD" are not acceptable.
 - The **full** date, e.g. "31/01/2022", when the material was stored.
     - Shortened dates, e.g. "31/01", are not acceptable.
-    - You may update the date on your material if it is partially used.
-
-> (Ed: Is it intended that the date can only be updated if material is partially used? Can I update the date on a full sheet of material?)
-{.is-info}
+    - You may update the date on your material.
 
 Sheets must ---
 - Be at least A3 size, with skeletons removed.
@@ -134,10 +132,7 @@ Sheets must ---
 You may store up to ---
 - 10 sheets; or
 - 100mm total thickness of sheets,
-whichever is greater.
-
-> (Ed: What does this actually mean? Does it mean I can store 10 sheets of 20mm plywood (200mm total thickness)?)
-{.is-info}
+whichever limit is reached first.
 
 You can keep materials on the rack for up to three months after the date marked on the sheet.
 

@@ -2,17 +2,17 @@
 title: Associate Memberships Panel
 description: 
 published: true
-date: 2022-11-01T13:47:29.800Z
+date: 2023-01-08T09:21:09.069Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-17T16:50:43.686Z
+dateCreated: 2022-11-26T13:27:04.702Z
 ---
 
 # Associate Memberships Panel
 
 ## Members
 
-* 
+* Ben Connor
 
 ## Role
 

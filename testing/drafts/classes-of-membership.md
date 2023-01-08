@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-01-08T13:12:16.939Z
+date: 2023-01-08T13:17:22.235Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -129,6 +129,8 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 > Deleted provision for "The Perth Artifactory Committee has the right to cancel an individuals membership at any time", as it is unenforceable under our constitution.
 >
 > Note s9 of the constitution, *When membership ceases*, will need to be revised to allow for the expiry of this type of membership after three months.
+>
+> Do we want to allow students under 18? (e.g. young first-years can be as young as 16.)
 
 {.is-info}
 

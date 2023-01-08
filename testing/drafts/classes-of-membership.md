@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-01-08T13:17:22.235Z
+date: 2023-01-08T13:18:44.927Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -131,6 +131,8 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 > Note s9 of the constitution, *When membership ceases*, will need to be revised to allow for the expiry of this type of membership after three months.
 >
 > Do we want to allow students under 18? (e.g. young first-years can be as young as 16.)
+>
+> Additionally, do we want to create a (permanent) class of membership for under 16's?
 
 {.is-info}
 

@@ -2,7 +2,7 @@
 title: Associate Memberships Panel
 description: 
 published: true
-date: 2023-01-08T09:21:09.069Z
+date: 2023-01-08T10:42:22.777Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-26T13:27:04.702Z
@@ -12,7 +12,18 @@ dateCreated: 2022-11-26T13:27:04.702Z
 
 ## Members
 
-* Ben Connor
+| Name                  | Contact details on file in TidyHQ † |
+| --------------------- | ----------------------------------- |
+| Beau Scott            | Yes                                 |
+| Ben Connor            | Yes                                 |
+
+> † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
+{.is-info}
+
+## Contact details
+
+The Associate Memberships Panel can be contacted via email at apply@artifactory.org.au .
+
 
 ## Role
 

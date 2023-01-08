@@ -20,5 +20,5 @@ The committee can be contacted via committee@artifactory.org.au or [\#general](s
 -   If you notice any issues with security. Please advise the committee as soon as possible.
 -   If you're the only one in the space, we would suggest closing the front door for security reasons.
 -   If you are working alone, ensure you assess what you are doing and only undertake tasks you are comfortable doing alone. Consider deferring risky jobs to a time when other people will be around to help.
--   Every key holder must have a valid emergency contact listed in TidyHQ.
+-   Every key holder must maintain accurate personal and emergency contact details in TidyHQ at all times.
 -   The committee reserves the right to revoke your key at any time for any reason. You will be notified by email or other communications method as they see fit.

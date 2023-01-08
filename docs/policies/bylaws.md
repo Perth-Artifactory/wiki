@@ -157,7 +157,7 @@ Last modified at the committee meeting 2021-01-10.
 * 24/7 access may be revoked at the discretion of the committee should any of the above no longer be true.
 * When a member moves to a different membership class the bond amount shall be the lesser of the classes
 * Members requesting keys after 10/01/2021 must submit a head/shoulders photo suitable for identification purposes. The Secretary or Treasurer may rule that a provided picture does not meet these requirements at their discretion.
-* The member must maintain current emergency contact details in the Artifactory's member management system (e.g. TidyHQ) at all times.
+* The member must maintain accurate personal and emergency contact details in the Artifactory's member management system (e.g. TidyHQ) at all times.
 * The Chair, Treasurer and any two other committee members may waive the bond if it is considered beneficial to the Artifactory to do so. The decision must be documented at the next regular committee meeting.
 * Bond amounts are as follows:
 

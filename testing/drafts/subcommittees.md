@@ -2,7 +2,7 @@
 title: DRAFT - Subcommittee by-laws
 description: 
 published: true
-date: 2023-01-01T09:55:32.200Z
+date: 2023-01-08T05:54:07.401Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T09:48:47.289Z
@@ -22,6 +22,8 @@ dateCreated: 2023-01-01T09:48:47.289Z
 This is the [by-law](/docs/policies/bylaws) governing subcommittees.
 
 By-laws are made by the committee, as allowed for rule 65 of the [Constitution](/constitution) regarding *By-laws*.
+
+Also refer to additional [guidance for subcommittees](/testing/drafts/subcommittee_guidance).
 
 ## Background (informative)
 
@@ -145,30 +147,3 @@ A subcommittee is disbanded when any of the following takes place ---
     - For any other reason.
 
 All powers and duties delegated to a subcommittee are revoked when the subcommittee is disbanded.
-
-
-----
-
-# Guidance for subcommittees
-
-> This will be a separate document to the by-law itself.
-{.is-info}
-
-* Within their area of responsibility, and if it is within their terms of reference, the sub-committee will be the appropriate place for normal members to:
-  * Obtain permission/training to access/operate,
-  * Request maintenance or obtain permission to maintain,
-  * Request a modification or obtain permission to modify, and
-  * Request updates on the current operational status.
-
-* Any action taken by the subcommittee should be communicated to all members of the subcommittee.
-  * Sub-committees are encouraged to nominate a secretary to be responsible for minuting and reporting.
-  * Sub-committees should generally operate on a "plan" then "do" model which enables all members of the subcommittee to be aware of the plans before they are put into effect.
-  * Membership of a sub-committee does not give individuals the freedom to act unilaterally. A sub-committee has been formed by the main committee to allow a team to work on a task.
-
-* The subcommitee should maintain public documentation for all things within their terms of reference.
-
-* The subcommittee should be ready and willing to report the current status of any action they are undertaking to:
-  * Their own members.
-  * A main committee member.
-  * The main committee at each committee meeting.
-

@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-01-08T13:04:08.503Z
+date: 2023-01-08T13:12:16.939Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -98,7 +98,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 >
 > Combine:
 >
-> - Casual use of the rehearsal room
+> - Casual use of the rehearsal room - currently its own thing under [the general bylaws](/docs/policies/bylaws).
 > - Band membership use of rehearsal room
 > - Resident artist entitlements to rehearsal room
 > - Event specific noise restrictions

@@ -143,11 +143,17 @@ The rehearsal room can be used on a casual basis:
 
 Last modified at the committee meeting 2021-01-10.
 
-* All members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that -
-  * The member's current membership is at least two weeks old,
-  * The member has not acted against the interests of the Association, 
-  * The member pays a bond appropriate to their membership class, and
-  * The member has no outstanding invoices.
+* All members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
+  * Has held their current membership for at least two weeks,
+  * Has not acted against the interests of the Association, 
+  * Pays a bond appropriate to their membership class,
+  * Has no outstanding invoices,
+  * Is competent to make decisions on who can enter the space, and
+  * Has demonstrated an ability to -
+    * Work unsupervised,
+    * Undertake tasks safely,
+    * Clean their work area, and
+    * Communicate any issues to committee.
 * 24/7 access may be revoked at the discretion of the committee should any of the above no longer be true.
 * When a member moves to a different membership class the bond amount shall be the lesser of the classes
 * Members requesting keys after 10/01/2021 must submit a head/shoulders photo suitable for identification purposes. The Secretary or Treasurer may rule that a provided picture does not meet these requirements at their discretion.

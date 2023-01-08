@@ -2,7 +2,7 @@
 title: Big Red - Extractor Cleaning
 description: 
 published: true
-date: 2022-12-29T03:36:07.778Z
+date: 2023-01-08T15:05:23.087Z
 tags: lasers
 editor: markdown
 dateCreated: 2022-12-29T03:36:07.778Z
@@ -15,6 +15,9 @@ Big Red uses an extractor fan to pull smoke and fumes out of the laser cutter.
 This extractor fan is located in the machine room.
 
 The fan clogs over time, reducing its suction power.
+
+> Obtain approval from the Lasers Subcommittee (via #lasers on Slack) before performing this task.
+{.is-warning}
 
 To clean the fan,
 

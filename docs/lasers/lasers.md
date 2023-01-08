@@ -2,7 +2,7 @@
 title: Laser subcommittee page
 description: 
 published: true
-date: 2023-01-08T06:23:01.810Z
+date: 2023-01-08T09:43:35.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:14.656Z
@@ -12,9 +12,22 @@ dateCreated: 2022-10-17T16:49:14.656Z
 
 ### Members
 
-BlakeS (Chair), FletcherB, GlennM, KamilS, NickB
-
 Last updated: 2019-11-02
+
+| Name                  | Contact details on file in TidyHQ † |
+| --------------------- | ----------------------------------- |
+| Blake Samuels (Chair) | Yes                                 |
+| Fletcher Boyd         | Yes                                 |
+| Glenn Martin          | Yes                                 |
+| Kamil Seda            | Yes                                 |
+| Nick Bannon           | Yes                                 |
+
+> † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
+{.is-info}
+
+### Contact details
+
+The  Laser subcommittee can be contacted via the [#lasers](https://perthartifactory.slack.com/archives/CB9S94S2E) channel on Slack.
 
 ### Role
 

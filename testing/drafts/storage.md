@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-01-08T10:58:34.600Z
+date: 2023-01-08T10:58:59.043Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -24,7 +24,7 @@ dateCreated: 2023-01-01T11:13:35.543Z
 >     - Todo: Reference this from the standard form of "Equipment loan agreement".
 >     - New process provides for us to send a member's stuff to them at their cost.
 >     - New process provides for us to recover the cost of disposing of stuff if needed. (e.g. A member leaves an entire skip load of material in the space, or a member leaves dangerous goods in their storage locker.)
->     - New process allows for us to yeet things immediately if they are a danger to safety and health. (e.g. improperly stored batteries, e.g. leaking chemicals.)
+>     - New process allows for us to dispose of things immediately if they are a danger to safety and health. (e.g. improperly stored batteries, e.g. leaking chemicals.)
 
 These are the [by-laws](/docs/policies/bylaws) governing storage in the space.
 

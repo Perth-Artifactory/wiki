@@ -1,3 +1,13 @@
+---
+title: assessment_part_2
+description: 
+published: true
+date: 2023-01-08T17:51:57.786Z
+tags: restricted, lasers
+editor: markdown
+dateCreated: 2022-12-12T17:06:54.067Z
+---
+
 ## The following competencies must be met to sign off on part 2 of laser training
 
 * Check air assist/extraction

@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-01-08T12:51:16.357Z
+date: 2023-01-08T13:04:08.503Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -16,10 +16,15 @@ dateCreated: 2023-01-08T12:51:16.357Z
 > * Clarify what is meant by "communal areas".
 > * Clarify that discounts on Artifactory-run events may be specific to the event.
 > * Replace references to "heavy duty tools, machines, and facilities" with "workshop tools, equipment, computers, etc."
-> * State for each class of membership whether the "member rate" or "day pass rate" of tool usage fees applies.
+> * State for each class of membership ---
+>     * whether the "member rate" or "day pass rate" of tool usage fees applies.
+>     * whether the member is entitled to storage.
+> * Refer to 24/7 access / RFID key bylaws for all details relating to 24/7 access and keys, including key bonds.
 
+This page defines the classes of membership made by the committee, and some of the by-laws applying to those classes of membership, as allowed for by -
 
-This page lists the classes of a) ordinary membership and b) associate membership, defined by the committee, as allowed for by the [Constitution](/constitution), §8 *Classes of membership*.
+* s8 of the [Constitution](/constitution) regarding *Classes of membership*; and
+* s65 of the [Constitution](/constitution) regarding *By-laws*.
 
 ## Classes of ordinary membership
 
@@ -43,10 +48,6 @@ This page lists the classes of a) ordinary membership and b) associate membershi
 
 
 
-
-
-
-
 ### Concession Membership
 
 | ---- | ---- |
@@ -64,6 +65,7 @@ This page lists the classes of a) ordinary membership and b) associate membershi
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | No limit. |
+
 
 
 ### Band Membership
@@ -115,7 +117,10 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 \* Quiet Bands are defined as not including an acoustic drum kit, a maximum of 2 guitars/amps, and a willingness to turn the volume down if requested. Again, please make yourselves known to any others using the Artifactory while you are rehearsing to make this a comfortable conversation if required.
 
 
+
 ## Classes of associate membership
+
+
 
 ### Associate Membership - Sponsored Student Membership
 
@@ -145,6 +150,8 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | As determined by the current state of the Sponsored Membership Donations fund. |
 
+
+
 ### Associate Membership - The Ambassador!
 
 Description: The Ambassador is appointed by committee and required to promote the Artifactory.
@@ -164,6 +171,8 @@ Description: The Ambassador is appointed by committee and required to promote th
 | **Eligible for 24/7 access** | ??? |
 | **Amount of bond for 24/7 access** | ??? |
 | **Maximum number of members in this class of membership** | ??? |
+
+
 
 ### Associate Membership - Resident Artist - NoizeMaschin!!
 

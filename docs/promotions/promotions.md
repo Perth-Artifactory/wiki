@@ -2,7 +2,7 @@
 title: Promotions Subcommittee
 description: 
 published: true
-date: 2023-01-08T10:42:09.298Z
+date: 2023-01-08T10:46:40.783Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:51:50.764Z

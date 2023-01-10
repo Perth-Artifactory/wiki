@@ -1,8 +1,8 @@
 ---
-title: dangerous_projects_and_tools_policy
+title: Dangerous Projects and Tools Policy
 description: 
 published: true
-date: 2022-10-19T11:38:59.112Z
+date: 2023-01-10T11:34:54.583Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:46:32.249Z

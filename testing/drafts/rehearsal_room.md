@@ -2,7 +2,7 @@
 title: DRAFT - Rehearsal Room By-laws
 description: 
 published: true
-date: 2023-01-16T05:36:04.951Z
+date: 2023-01-16T05:45:56.850Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T05:30:15.712Z
@@ -35,6 +35,8 @@ To balance use of the rehearsal room against other uses of the space.
 The rehearsal room is booked in sessions of up to 4 hours duration.
 
 > Ed: This was previously defined as "Generally a morning, an afternoon, or an evening."
+>
+> Ed: There was a bylaw that limited sessions to 3 hours. Personally I don't see the harm in making it 4 hours.
 
 Bookings for the rehearsal room must be made at least 48 hours in advance.
 
@@ -51,8 +53,17 @@ Bookings are made in a shared calendar.
 
 ## Rehearsal Room usage fees
 
-Refer to [Fees](https://wiki.artifactory.org.au/en/docs/policies/fees).
+Refer to [Fees](https://wiki.artifactory.org.au/en/docs/policies/fees) for *Rehearsal Room Usage Fees*.
 
+## Casual usage
+
+> Ed: Incorporate what is currently the "Rehearsal Room - Casual Usage" bylaw at https://wiki.artifactory.org.au/docs/policies/bylaws .
+
+The rehearsal room can be booked on a casual basis.
+
+Casual users may make bookings by contacting either a) a rehearsal room coordinator, or b) a committee member.
+
+Refer to [Fees](https://wiki.artifactory.org.au/en/docs/policies/fees) for *Rehearsal Room Usage Fees* applying to casual usage..
 
 ## Noise restrictions
 

@@ -2,13 +2,27 @@
 title: Promotions Subcommittee
 description: 
 published: true
-date: 2022-10-19T11:43:59.727Z
+date: 2023-01-08T10:46:40.783Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:51:50.764Z
 ---
 
 # Promotions Subcommittee
+
+## Members
+
+| Name                  | Contact details on file in TidyHQ † |
+| --------------------- | ----------------------------------- |
+| Phoebe-Jean Harris    | Yes                                 |
+| Johannes Chuah        | Yes                                 |
+
+> † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
+{.is-info}
+
+## Contact details
+
+The Promotions subcommittee can be contacted the [#events-and-promotions](https://perthartifactory.slack.com/archives/CFXEGDMLP) channel on Slack.
 
 ## Active Projects
 
@@ -22,11 +36,11 @@ dateCreated: 2022-10-17T16:51:50.764Z
 
 The Promotions Subcommittee is responsible for coordinating the following:
 
-      * Project Leads for external events ran by The Artifactory
-      * The construction and maintenance of promotional displays
-      * The production and stocking of merchandise 
-      * Awareness of upcoming events applicable to the space and related proposals to the Management Committee
-      * Any other tasks assigned by the Management Committee
+* Project Leads for external events ran by The Artifactory
+* The construction and maintenance of promotional displays
+* The production and stocking of merchandise 
+ * Awareness of upcoming events applicable to the space and related proposals to the Management Committee
+* Any other tasks assigned by the Management Committee
 
 ### Coordination
 

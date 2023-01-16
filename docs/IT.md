@@ -2,17 +2,29 @@
 title: IT Subcommittee
 description: 
 published: true
-date: 2022-11-01T11:35:51.614Z
+date: 2023-01-08T09:53:01.025Z
 tags: 
 editor: markdown
-dateCreated: 2022-10-17T16:42:00.766Z
+dateCreated: 2022-11-01T10:47:56.241Z
 ---
 
 # IT Subcommittee Page
 
 ## Members
 
-Nick Blake Vincent Fletcher
+| Name                  | Contact details on file in TidyHQ † |
+| --------------------- | ----------------------------------- |
+| Nick Bannon           | Yes                                 |
+| Blake Samuels         | Yes                                 |
+| Vincent Dalstra       | Yes                                 |
+| Fletcher Boyd         | Yes                                 |
+
+> † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
+{.is-info}
+
+## Contact details
+
+The IT subcommittee can be contacted via the [#it](https://perthartifactory.slack.com/archives/CBGSXQ2CB) channel on Slack.
 
 ## Role
 

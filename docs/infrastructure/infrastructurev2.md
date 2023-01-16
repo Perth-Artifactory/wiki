@@ -2,13 +2,33 @@
 title: Infrastructure Subcommittee
 description: 
 published: true
-date: 2022-10-19T11:42:12.752Z
+date: 2023-01-08T09:52:16.227Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:03.316Z
 ---
 
 # Infrastructure Subcommittee
+
+## Members
+
+Last updated: xxxx-xx-xx
+
+| Name                     | Contact details on file in TidyHQ † |
+| ------------------------ | ----------------------------------- |
+| Joshua Rospondek (Chair) | Yes                                 |
+| Ben Connor               | Yes                                 |
+| Fletcher Boyd            | Yes                                 |
+| Iain Graham              | Yes                                 |
+| Beau Scott               | Yes                                 |
+| Renae Currie             | Yes                                 |
+
+> † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
+{.is-info}
+
+## Contact details
+
+The Infrastructure subcommittee can be contacted via the [#infrastructure](https://perthartifactory.slack.com/archives/CFWCKULHY) channel on Slack.
 
 ## Active Projects
 
@@ -30,10 +50,10 @@ dateCreated: 2022-10-17T16:49:03.316Z
 
 The Infrastructure Subcommittee is responsible for coordinating the following:
 
-      * Project Leads for upgrades and repairs within the space
-      * Assistance for assigned Project Leads
-      * Internal funding proposals for space builds and repair costs
-      * Any other tasks assigned by the Management Committee provided that they are accepted by the subcommittee chair
+* Project Leads for upgrades and repairs within the space
+* Assistance for assigned Project Leads
+* Internal funding proposals for space builds and repair costs
+* Any other tasks assigned by the Management Committee provided that they are accepted by the subcommittee chair
 
 ### Coordination
 

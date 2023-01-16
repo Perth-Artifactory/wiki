@@ -2,7 +2,7 @@
 title: Code Of Conduct
 description: 
 published: true
-date: 2022-10-19T11:38:31.987Z
+date: 2023-01-08T17:47:44.852Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T08:03:29.574Z
@@ -48,7 +48,7 @@ All attendees are encouraged to proactively report issues as soon as they arise.
 
 Reporting methods:
 
--   Talk to a committee member (see: [committee members list](/committee/start#committee_members))
+-   Talk to a committee member (see: [committee members list](/docs/committee/home))
 -   Email the management committee: [committee@artifactory.org.au](committee@artifactory.org.au)
 -   Email the executive committee (Chair, Deputy Chair, Secretary Treasurer): [exec@artifactory.org.au](exec@artifactory.org.au)
 -   Slack direct message to a committee member

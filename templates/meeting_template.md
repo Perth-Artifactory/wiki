@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2022-10-23T07:45:54.577Z
+date: 2023-01-04T12:04:35.461Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -22,7 +22,16 @@ The table of contents on the left side of the page forms the agenda of this meet
 
 ## Members Present
 
-* Present: REMOVE NOT PRESENT - Beau, Ben, Fletcher, Johannes, Joshua, Lewis, Phoebe-Jean, Vincent
+* Present: REMOVE NOT PRESENT
+    * Beau Scott
+    * Ben Connor
+    * Fletcher Boyd
+    * Johannes Chuah
+    * Joshua Rospondek
+    * Lewis Yip
+    * Phoebe-Jean Harris
+    * Renae Currie
+    * Vincent Dalstra
 * Apologies: NAMES
 * Absent: NAMES
 * Observing: NAMES
@@ -165,7 +174,7 @@ Updates from subcommittees - discussions or requests for action.
 * REPORT ITEM
   * DETAILS
 
-### Sponsored Memberships Panel
+### Associate Memberships Panel
 
 * REPORT ITEM
   * DETAILS
@@ -248,7 +257,7 @@ What/Inform/Issue
 
 Remember to set **next meeting time** before closing meeting!
 
-* Next meeting: NNNN.NN.NN NN:NN, N weeks
+* Next meeting: NNNN.NN.NN, NN:NN N weeks
 
 Minutes: [NNNN-NN-NN](/minutes/Committee/NNNN-NN-NN)
 

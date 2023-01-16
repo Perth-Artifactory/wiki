@@ -10,7 +10,7 @@ dateCreated: 2022-10-17T16:56:12.422Z
 
 # HP 6268B Bench Power Supply
 
-![hp_6269a.jpg](/hp_6269a.jpg)
+![hp_6269a.jpg](/tools/electronics/hp_6269a.jpg)
 
 ## Specifications
 
@@ -27,9 +27,9 @@ dateCreated: 2022-10-17T16:56:12.422Z
 
 ## Manuals
 
-For detailed specifications see [4360_6269b.pdf](/4360_6269b.pdf)
+For detailed specifications see [4360_6269b.pdf](/tools/electronics/4360_6269b.pdf)
 
-For a detailed user manual see [6269b.pdf](/6269b.pdf)
+For a detailed user manual see [6269b.pdf](/tools/electronics/6269b.pdf)
 
 ## Basic Operating Instructions
 

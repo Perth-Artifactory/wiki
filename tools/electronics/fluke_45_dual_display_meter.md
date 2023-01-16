@@ -10,7 +10,7 @@ dateCreated: 2022-10-17T16:55:35.109Z
 
 # Fluke 45 Dual Display Multimeter
 
-![fluke_45.jpg](/fluke_45.jpg)
+![fluke_45.jpg](/tools/electronics/fluke_45.jpg)
 
 ## Specifications
 
@@ -27,9 +27,9 @@ dateCreated: 2022-10-17T16:55:35.109Z
 
 ## Manuals
 
-For detailed specifications see [fluke_45_data_sheet.pdf](/fluke_45_data_sheet.pdf)
+For detailed specifications see [fluke_45_data_sheet.pdf](/tools/electronics/fluke_45_data_sheet.pdf)
 
-For a detailed User's Manual see [fluke_45_user.pdf](/fluke_45_user.pdf)
+For a detailed User's Manual see [fluke_45_user.pdf](/tools/electronics/fluke_45_user.pdf)
 
 A service manual is also available (ask Steve)
 

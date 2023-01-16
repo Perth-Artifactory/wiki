@@ -2,7 +2,7 @@
 title: Shopping
 description: 
 published: true
-date: 2022-10-19T11:41:25.768Z
+date: 2023-01-10T07:40:23.007Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:48:11.265Z
@@ -24,7 +24,6 @@ Post links to parts suppliers here. As a newbie, half the time it can be a chall
 | [Little Bird Electronics](https://www.littlebirdelectronics.com/) | Arduino and Raspberry pis                                                                                   |
 | International                                                     |                                                                                                             |
 | [Ali Express](https://www.aliexpress.com/)                        | Chinese electronics, components and almost everything else                                                  |
-| [Deal Extreme](https://www.dealextreme.com/)                      | Bargain basement HK-based bit of everything                                                                 |
 | [Adafruit](https://www.adafruit.com/)                             | USA based. Specialist in Arduino shields and modules                                                        |
 | [SparkFun Electronics](https://www.sparkfun.com/)                 | Arduinos, components                                                                                        |
 | [Element 14](https://au.element14.com/)                           | Almost every electronic part you can think of                                                               |
@@ -35,24 +34,25 @@ Post links to parts suppliers here. As a newbie, half the time it can be a chall
 
 Wood:
 
--   <https://www.bunnings.com.au/> - MDF and plywood (avoid marine ply).
+* [Bunnings](https://www.bunnings.com.au) - Innaloo, Balcatta, etc - MDF and plywood (avoid marine ply for laser cutting). While they do sell acrylic it will be cheaper at the suppliers below.
 
 Acrylic
 
--   <https://www.mulfordplastics.com.au/> - Order acrylic by the sheet or buy offcuts from their office. Balcatta.
+* [Mulford Plastics](https://www.mulfordplastics.com.au/) - Balcatta - Order acrylic by the sheet or buy offcuts from their office.
+* [CDC Laser](https://cdclaser.com.au/) - Balcatta - A3-5 sheets in lots of different colours
+* [Trotec](https://www.trotec-materials.com/) - Balcatta - Wide variety of acrylic and more exotic laserable material.
 
 Steel:
 
--   <https://metalcorpsteel.com.au/> - Kewdale - plate, sheet, bar, rod, tube, right angle, black, painted, galv - delivery only \$60 (especially good when lengths are typically 6.5 - 8.5m although they will usually cut to a few lengths to make pickup easier)
--   <http://www.dilena.com.au/> - Osborne Park - not as cheap as above but local and you can usually get short lengths (or bits out of the off-cut bucket) for a bit of cash
+-   [Metalcorp](https://metalcorpsteel.com.au/) - Kewdale - plate, sheet, bar, rod, tube, right angle, black, painted, galv
+-   [Di LENA](http://www.dilena.com.au/) - Osborne Park - not as cheap as above but local and you can usually get short lengths (or bits out of the off-cut bucket) for a bit of cash
 
 Non Ferrous Metals:
 
--   <https://www.capral.com.au/> - plenty of ally and other metals, lot's of off-cuts at the front counter
+-   [Capral Aluminium](https://www.capral.com.au/) - plenty of ali and other metals, lot's of off-cuts at the front counter
 
 Salvage (Steel, Wood, Building Materials):
 
--   `www.diggersandtruckers.com.au` (Dead link) - Shenton Park - big bits of metal, wood (jarrah, man mades)
 -   <https://billsmachinery.com.au/> - Bills machinery
 -   <https://www.remidawa.com/> - Acrylic, Wood, Offcuts and other Upcycleables. West Perth
 

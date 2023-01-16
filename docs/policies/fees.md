@@ -1,11 +1,11 @@
 ---
 title: Fees
-description:
+description: 
 published: true
-date: 2022-10-24T18:10:00.000Z
-tags:
+date: 2023-01-08T19:56:55.011Z
+tags: 
 editor: markdown
-dateCreated: 2022-10-24T18:10:00.000Z
+dateCreated: 2022-10-27T14:21:30.717Z
 ---
 
 This page lists [by-laws](/docs/policies/bylaws) relating to fees, other than membership fees.
@@ -24,10 +24,7 @@ This page was endorsed by online vote recorded at the committee meeting held 202
 
 ## Bank transfer details
 
-The Artifactory's direct deposit details are:
-
-* BSB: 086 366
-* Account number: 16 546 9448
+The Artifactory's banking details are as per [bank details](/docs/committee/bank_details).
 
 Transaction descriptions should be as noted below.
 

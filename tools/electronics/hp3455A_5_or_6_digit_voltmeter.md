@@ -10,7 +10,7 @@ dateCreated: 2022-10-17T16:55:44.186Z
 
 # HP 3455A 5 or 6 digit voltmeter
 
-![hp3455a.jpg](/hp3455a.jpg)
+![hp3455a.jpg](/tools/electronics/hp3455a.jpg)
 
 ## Specifications
 
@@ -23,11 +23,11 @@ dateCreated: 2022-10-17T16:55:44.186Z
 
 ## Manuals
 
-For detailed specifications see: [3455a_dvm_datesheet.pdf](/3455a_dvm_datesheet.pdf)
+For detailed specifications see: [3455a_dvm_datasheet.pdf](/tools/electronics/3455a_dvm_datasheet.pdf)
 
-For detailed operating instructions see [9018-05892.pdf](/9018-05892.pdf)
+For detailed operating instructions see [9018-05892.pdf](/tools/electronics/9018-05892.pdf)
 
-For a more abbreviated set of instructions see [hp_3455a_operating.pdf](/hp_3455a_operating.pdf)
+For a more abbreviated set of instructions see [hp_3455a_operating.pdf](/tools/electronics/hp_3455a_operating.pdf)
 
 ## Basic Operating Instructions
 

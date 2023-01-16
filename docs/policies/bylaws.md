@@ -1,11 +1,11 @@
 ---
 title: By-laws
-description:
+description: 
 published: true
-date: 2022-10-24T17:45:00.000Z
-tags:
+date: 2022-11-15T12:49:39.233Z
+tags: 
 editor: markdown
-dateCreated: 2022-10-24T17:45:00.000Z
+dateCreated: 2022-10-27T14:21:12.439Z
 ---
 
 # By-laws
@@ -16,7 +16,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 
 ## Artifactory Expenses
 
-Refer to [By-laws - Administration](/docs/policies/administration).
+Refer to [By-laws - Administration](/docs/policies/administration). 
 
 ------------------------------------------------------------------------
 
@@ -280,6 +280,14 @@ Can be left in the following areas provided that the supervising guardian can se
 * Active use: Power tools, spray paint, hot works, or other dangerous activities are occuring. Members or attendees using either the courtyard or project area may change the status of the area to Active Use at their discretion to reflect any issues that may be caused by an unsupervised minor in that area. (Painting minatures, wet paint etc)
 * Passive use: Where none of the above apply
 * Actively supervised: The guardian must be physically present in the area and able to intervene to enforce their responsibilities as guardian
+
+------------------------------------------------------------------------
+
+## Equipment Loans
+
+Adopted at committee meeting XXXX-XX-XX.
+
+Persons authorised by the equipment loan agreement may sign on behalf of the Association.
 
 ------------------------------------------------------------------------
 

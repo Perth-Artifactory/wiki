@@ -2,7 +2,7 @@
 title: Little Red
 description: 
 published: true
-date: 2022-10-19T12:47:42.132Z
+date: 2022-12-29T03:22:42.181Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:50.268Z
@@ -10,11 +10,11 @@ dateCreated: 2022-10-17T16:57:50.268Z
 
 # Little Red
 
-[Tool Register](/tools/start) - List of all tools
+> This machine is currently out of service.
+{.is-warning}
 
-[Laser Cutters General Info](/tools/lasercutters/start) - Info on all laser cutters.
 
-<img src="/tools/lasercutters/little_red_photo.jpg" width="400" />
+![little_red_photo.jpg](/tools/lasers/little_red_photo.jpg)
 
 ## Introduction
 
@@ -42,16 +42,14 @@ This is the checklist operators should be working through as they go about their
 
 *Click to view larger version (click again for full resolution).*
 
-<img src="/tools/lasercutters/little_red.png" width="300" />
+![little_red.png](/tools/lasers/little_red.png)
 
 ## LG500 Laser Engraver Cutting / Engraving Reference
 
-<img src="/lasercutters/littleres.jpg" class="align-left" width="300" />The LG500 laser engraver (cutter) is the machine of choice for fine engraving or learning. It is equipped with a MCWlaser 60W laser tube, model M60, Product \#82061, date of production 2019-09-20? installed 2020-01-12. To ensure tube longevity and reliability the tube should **not** be operated above 20mA as indicated by the current meter on the machine.  
+![littleres.jpg](/tools/lasers/littleres.jpg)
+
+The LG500 laser engraver (cutter) is the machine of choice for fine engraving or learning. It is equipped with a MCWlaser 60W laser tube, model M60, Product \#82061, date of production 2019-09-20? installed 2020-01-12. To ensure tube longevity and reliability the tube should **not** be operated above 20mA as indicated by the current meter on the machine.  
 (Previously: 2013--2019 [Chengdu Weegiant](http://www.cdgri.com/) 60W CO2 laser tube)
-
-Sheets of Acrylic and MDF cut to fit the LG500 cutting bed are available for [sale](/tools/lasercutters/stock).
-
-[bannedmaterials](/lasercutters/bannedmaterials)
 
 ## Cutting
 

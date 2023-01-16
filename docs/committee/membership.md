@@ -2,7 +2,7 @@
 title: How to join The Perth Artifactory
 description: 
 published: true
-date: 2022-10-19T11:39:27.818Z
+date: 2023-01-08T14:37:01.764Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:47:11.598Z
@@ -12,15 +12,20 @@ dateCreated: 2022-10-17T16:47:11.598Z
 
 The Artifactory uses TidyHQ to manage its membership. The following is the suggested path to joining us at the Artifactory
 
-    -[[https://slack.com/app_redirect?channel=C01M7UR7NHG|Join our Slack Team]] You'll be automatically put in a number of channels, including the "Welcome" channel, where you can chat and ask questions about us.
-    -Visit the space! Visiting is FREE. Attend one of our open days on the first Saturday of each month, or come down when you can during [[https://calendar.google.com/calendar/embed?src=q9bs8ul7umfnm4m02eq535114o%40group.calendar.google.com&amp;ctz=Australia/Perth|one of our regular events]]. [[http://space.artifactory.org.au/|Check the webcams here]] first to see if people are there.
-    -Join as member with this link here: https://artifactory.tidyhq.com/public/membership_levels
-    -Visit the space and make things!
-    -Make the space yours. It's a shared space and your contributions are highly valued.
+- Join our [Slack team](https://perthartifactory.slack.com/archives/C01M7UR7NHG)!
+    - Slack is a chat application - like Facebook Messenger or Discord, but for organizations. We use Slack for everything!
+    - You'll be automatically put in a number of channels, including the "Welcome" channel, where you can chat and ask questions about us.
+- Visit the space! Visiting is FREE. Attend one of our open days on the first Saturday of each month, or come down when you can during [one of our regular events](https://calendar.google.com/calendar/embed?src=q9bs8ul7umfnm4m02eq535114o%40group.calendar.google.com&amp;ctz=Australia/Perth). [Check the webcams](http://space.artifactory.org.au) first to see if people are there.
+- [Join as a member using TidyHQ.](https://artifactory.tidyhq.com/public/membership_levels)
+- Visit the space and make things!
+- Make the space yours. It's a shared space and your contributions are highly valued.
 
 You can also address enquires to info@artifactory.org.au
 
 ### How much does it cost?
+
+> See [Classes of membership](/docs/policies/classes_of_membership) for more information.
+{.is-info}
 
 The Artifactory is funded by its membership, workshops/events, donations and other fundraising, all funds received go towards keeping the spaces doors open.
 
@@ -32,6 +37,9 @@ The Artifactory is funded by its membership, workshops/events, donations and oth
 | Band Membership       | \$100        | Access to The Artifactory Rehearsal Room with at least 3 rehearsal slots a month, Free entry for band members to Perth Artifactory run music related events. Including NoizeMaschin!! and the ModularSynth, Free WIFI, Small kitchenette and toilet facilities, DAY PASS RATES apply to band members to access tools/machines/workshop. For full description see [Membership Classes.](https://wiki.artifactory.org.au/doku.php?id=committee:committeerulings#band_membership) |
 
 ### Tool Usage Costs
+
+> See [Fees](/docs/policies/fees) for more information.
+{.is-info}
 
 Whilst the membership fee allows access to our many machines, some of which have an additional timed cost for use, this allows for money to go towards to maintaining and upkeep of the machines.
 
@@ -59,10 +67,4 @@ Whilst the membership fee allows access to our many machines, some of which have
 
 # Invoicing and Payment Process through TidyHQ
 
-[Click here to get payment details.](tidyclub)
-
-# New Members Guide
-
-[New Members Guide](New Members Guide) - All you need to know to get started at the Artifactory.  
-[Access Information](/membership/doorcontrol) - Information on accessing the space, locking up and parking.  
-Our [Constitution](Constitution).
+[Click here to get payment details.](/docs/committee/tidyclub)

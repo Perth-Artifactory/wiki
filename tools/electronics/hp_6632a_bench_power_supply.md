@@ -10,7 +10,7 @@ dateCreated: 2022-10-17T16:56:21.603Z
 
 # Agilent 6632B Bench Power Supply
 
-![prod-838596-01.webp](/prod-838596-01.webp)
+![prod-838596-01.webp](/tools/electronics/prod-838596-01.webp)
 
 ## Specifications
 
@@ -25,11 +25,11 @@ dateCreated: 2022-10-17T16:56:21.603Z
 ## Manuals
 
 
-For detailed specifications see [5990-9303.pdf](/5990-9303.pdf)
+For detailed specifications see [5990-9303.pdf](/tools/electronics/5990-9303.pdf)
 
-For a User's Guide see [5962-8196.pdf](/5962-8196.pdf)
+For a User's Guide see [5962-8196.pdf](/tools/electronics/5962-8196.pdf)
 
-For a Service Manual see [5957-6365.pdf](/5957-6365.pdf)
+For a Service Manual see [5957-6365.pdf](/tools/electronics/5957-6365.pdf)
 
 ## Basic Operating Instructions
 

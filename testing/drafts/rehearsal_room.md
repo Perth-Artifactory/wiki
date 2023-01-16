@@ -2,7 +2,7 @@
 title: DRAFT - Rehearsal Room By-laws
 description: 
 published: true
-date: 2023-01-16T05:46:39.284Z
+date: 2023-01-16T05:52:06.319Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T05:30:15.712Z
@@ -44,7 +44,7 @@ Bookings are made in a shared calendar.
 
 > (Informative)
 >
-> The rehearsal room calendar is currently a Google Calendar located here. (FIXME - ADD LINK.)
+> The rehearsal room calendar is currently a [Google Calendar](https://space.artifactory.org.au/bands.html).
 >
 > Regular users of the rehearsal room make their own bookings in the calendar.
 >

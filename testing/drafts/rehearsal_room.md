@@ -2,7 +2,7 @@
 title: DRAFT - Rehearsal Room By-laws
 description: 
 published: true
-date: 2023-01-16T05:53:01.308Z
+date: 2023-01-16T05:54:09.095Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T05:30:15.712Z
@@ -22,8 +22,8 @@ See (Areas - Rehearsal Room) for more information on the equipment available in 
 
 ## Objects of this by-law
 
-To define the rehearsal room booking process.
-To balance use of the rehearsal room against other uses of the space.
+* To define the rehearsal room booking process.
+* To balance use of the rehearsal room against other uses of the space.
 
 ## Terms used
 

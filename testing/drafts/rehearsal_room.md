@@ -2,13 +2,17 @@
 title: DRAFT - Rehearsal Room By-laws
 description: 
 published: true
-date: 2023-01-16T05:30:15.712Z
+date: 2023-01-16T05:36:04.951Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T05:30:15.712Z
 ---
 
 # Rehearsal room by-laws
+
+These are the [by-laws](/docs/policies/bylaws) governing use of the rehearsal room.
+
+By-laws are made by the committee, as allowed for rule 65 of the [Constitution](/constitution) regarding *By-laws*.
 
 ## Background (informative)
 

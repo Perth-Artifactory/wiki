@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-01-14T08:56:03.784Z
+date: 2023-01-16T07:33:00.927Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -88,33 +88,14 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Tool usage fees** | The "**day pass** rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
 | **Entitlement to storage space** | No. |
 | **Use of rehearsal room** | Yes - three bookings per month. Additional bookings subject to availability. |
-| **Fees to attend Artifactory-run events and workshops** | Free entry for band members to NoizeMaschin!! events and ModularSynth building nights. Otherwise, the non-member rate for the event. |
+| **Fees to attend Artifactory-run events and workshops** | Free entry for band members to NoizeMaschin!! events and ModularSynth building nights held on the Artifactory premises. Otherwise, the non-member rate for the event. |
 | **Eligible for 24/7 access** | A single key per band. Issue of keys is subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | Six band memberships. |
 
-
-> Move all rehearsal room stuff out to a separate page?
->
-> Combine:
->
-> - Casual use of the rehearsal room - currently its own thing under [the general bylaws](/docs/policies/bylaws).
-> - Band membership use of rehearsal room
-> - Resident artist entitlements to rehearsal room
-> - Event specific noise restrictions
-
 * Band membership entitles each band to the following:
   * 3 rehearsal slots/month;
   * Extra bookings may be made if a slot is free, no earlier than 48 hours in advance of the time you are booking
-  * Free entry for band members to NoizeMaschin!! and the ModularSynth building nights
-  * A rehearsal slot is considered (broadly) to be a morning, afternoon or evening.
-  * The band members are part of the wider Artifactory community, and are encouraged to be part of that community and work with the others to help make the space usable for everyone.
-* Band membership restrictions. The following times have restrictions on the use of the room due to other Artifactory events at which use of the rehearsal room interferes due to sound spill. There may also be others on a one-off basis that will be communicated to the bands when known.
-  * 3rd Tuesday(usually) evening of each month – quiet\* bands only (ADUG Monthly Meeting)
-  * 4th/Last Tuesday(usually) evening of each month – no rehearsals permitted (NoizeMaschin!!)
-  * Wednesday evenings – quiet* bands only
-
-\* Quiet Bands are defined as not including an acoustic drum kit, a maximum of 2 guitars/amps, and a willingness to turn the volume down if requested. Again, please make yourselves known to any others using the Artifactory while you are rehearsing to make this a comfortable conversation if required.
 
 
 
@@ -202,13 +183,15 @@ Description: Noizemaschin Residency - Every 3 months the Artifactory allows a No
 | **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
 | **Entitlement to storage space** | An individual storage space (subject to availability), storage on material racks, and temporary storage in general workspaces. (Refer to the [storage by-law](https://wiki.artifactory.org.au/docs/policies/storage) for details.) |
 | **Use of rehearsal room** | Yes - three bookings per month. Additional bookings subject to availability. |
-| **Fees to attend Artifactory-run events and workshops** | Free entry to NoizeMaschin!! events and ModularSynth building nights. Member rate for other events - which may be free or discounted, depending on the event. |
+| **Fees to attend Artifactory-run events and workshops** | Free entry to NoizeMaschin!! events and ModularSynth building nights held on the Artifactory premises. Member rate for other events - which may be free or discounted, depending on the event. |
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | ??? |
 
 
 * The Artist is expected to play at 3 Noizemaschin events (where possible)
+
+> Delete the below clause? Key bonds are covered under 24/7 key access changes.
 
 * If the Resident Artist wants a key to access the Rehearsal Room they must pay a key bond equivalent to a Band Membership one and be provided with a way to book the band room.
 

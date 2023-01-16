@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-01-16T07:33:00.927Z
+date: 2023-01-16T23:36:37.267Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -163,6 +163,8 @@ Description: The Ambassador is appointed by committee and required to promote th
 
 Description: Noizemaschin Residency - Every 3 months the Artifactory allows a Noizemaschin panel-selected Audio Artist 3 months membership, with guaranteed NM performances slots. The Artist is to build wacky things or engage with the Artifactory in some way, and demonstrate their inventions at NoizeMachin!!
 
+The Artist is expected to play at 3 Noizemaschin events (where possible).
+
 > Changed approval authority from "committee" to "Associate Memberships Panel"
 > 
 > Membership fee? Evidently intended to be free, however is this offset against any internal account?
@@ -170,6 +172,8 @@ Description: Noizemaschin Residency - Every 3 months the Artifactory allows a No
 > Storage space???
 >
 > Entry fees to events???
+>
+> Key bond reduced from "the same as a band membership" to $0 as part of 24/7 key amendments.
 
 | ---- | ---- |
 | **Eligibility criteria** | A person, over 18 years of age, recommended by Noizemaschin!!, and approved by the [Associate Memberships Panel](https://wiki.artifactory.org.au/en/docs/Associate_Memberships). |
@@ -187,12 +191,3 @@ Description: Noizemaschin Residency - Every 3 months the Artifactory allows a No
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | ??? |
-
-
-* The Artist is expected to play at 3 Noizemaschin events (where possible)
-
-> Delete the below clause? Key bonds are covered under 24/7 key access changes.
-
-* If the Resident Artist wants a key to access the Rehearsal Room they must pay a key bond equivalent to a Band Membership one and be provided with a way to book the band room.
-
-

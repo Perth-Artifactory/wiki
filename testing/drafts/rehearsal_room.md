@@ -2,7 +2,7 @@
 title: DRAFT - Rehearsal Room By-laws
 description: 
 published: true
-date: 2023-01-16T05:45:56.850Z
+date: 2023-01-16T05:46:39.284Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T05:30:15.712Z
@@ -59,7 +59,7 @@ Refer to [Fees](https://wiki.artifactory.org.au/en/docs/policies/fees) for *Rehe
 
 > Ed: Incorporate what is currently the "Rehearsal Room - Casual Usage" bylaw at https://wiki.artifactory.org.au/docs/policies/bylaws .
 
-The rehearsal room can be booked on a casual basis.
+The rehearsal room can be booked on a casual basis, subject to availability.
 
 Casual users may make bookings by contacting either a) a rehearsal room coordinator, or b) a committee member.
 

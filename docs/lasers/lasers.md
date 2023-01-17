@@ -2,7 +2,7 @@
 title: Laser subcommittee page
 description: 
 published: true
-date: 2023-01-17T13:31:33.796Z
+date: 2023-01-17T13:31:45.555Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:14.656Z
@@ -11,8 +11,6 @@ dateCreated: 2022-10-17T16:49:14.656Z
 ## Laser subcommittee page
 
 ### Members
-
-Last updated: 2019-11-02
 
 | Name                              | Contact details on file in TidyHQ † |
 | --------------------------------- | ----------------------------------- |

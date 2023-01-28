@@ -1,8 +1,8 @@
 ---
-title: Lasercut Software Guide
+title: LaserCut Operation Guide
 description: 
 published: true
-date: 2023-01-28T05:57:04.060Z
+date: 2023-01-28T05:57:37.090Z
 tags: lasers
 editor: markdown
 dateCreated: 2023-01-28T05:57:04.060Z

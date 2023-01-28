@@ -2,13 +2,19 @@
 title: LaserCut Operation Guide
 description: 
 published: true
-date: 2023-01-28T05:57:37.090Z
+date: 2023-01-28T06:03:33.195Z
 tags: lasers
 editor: markdown
 dateCreated: 2023-01-28T05:57:04.060Z
 ---
 
 # LaserCut Operation Guide
+
+The LaserCut software is used to control [Big Red](/tools/lasers/bigred) and [Little Red](/tools/lasers/littlered).
+
+The official [manual for LaserCut](/tools/lasers/lasercut5.3_manual_v1.6.pdf) is available for reference.
+
+
 
 ## Basic operation
 
@@ -40,6 +46,10 @@ dateCreated: 2023-01-28T05:57:04.060Z
 You have completed the basic version of setting up a job on LaserCut.
 
 ## Advanced operation/features
+
+> Do not alter any machine settings unless you have been trained to do so!
+{.is-warning}
+
 
 > TODO
 {.is-warning}

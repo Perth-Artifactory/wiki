@@ -2,7 +2,7 @@
 title: Swarf-O-Mat CNC Router
 description: 
 published: true
-date: 2022-10-20T12:32:28.974Z
+date: 2023-02-04T10:34:56.160Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:57.788Z
@@ -26,26 +26,21 @@ Under NO circumstances should you use this machine if you have not been trained.
 
 | Trainers                                 | Availability                             |
 |------------------------------------------|------------------------------------------|
-| [Jason Kongchouy](/user/Jason Kongchouy) | General Hacking Days, by request (Slack) |
+| [Jason Kongchouy](/user/Jason Kongchouy) | Unavailable                              |
 | Fletcher Boyd                            | General Hacking Days, by request (Slack) |
-| Iain Graham                              | Open days, by request (Slack)            |
+| Iain Graham                              | Unavailable                              |
 | Ben Connor                               | By request (Slack)                       |
+
 
 | Full Operators         |
 |------------------------|
-| [maxlex](/user/maxlex) |
 | Glenn Martin           |
-| [timbo](/user/timbo)   |
-| [elena](/user/elena)   |
-| Jenna Downing          |
-| Mike                   |
-| Nathan Thompson        |
-| Joshua                 |
+| Joshua Rospondek       |
 | Vincent Dalstra        |
 | Nick Bannon            |
-| Beau Daley             |
+| Beau Scott             |
 | Ben Connor             |
-| Glynn                  |
+| Glynn Jones            |
 | O Nokey                |
 | Tom White              |
 
@@ -56,9 +51,8 @@ Refer to [Tool Usage Fees](/docs/policies/fees).
 
 ## Swarf-o-Mat Reference
 
-| Materials Reference |             |                      |                 |                                                             |
-|---------------------|-------------|----------------------|-----------------|-------------------------------------------------------------|
 | Material            | VFD Setting | Feed Rate (6mm Tool) | Pass Depth (mm) | Notes                                                       |
+|---------------------|-------------|----------------------|-----------------|-------------------------------------------------------------|
 | Aluminium           | 400         | 200mm/min            | 0.25            | Swarf will re-weld to sides of channels - keep job clean    |
 | HDPE                | 300         | 1200mm/min           | 3               | Cuts like butter                                            |
 | Perspex / Acrylic   | 300         | 600mm/min            | 2               | Grind the plastic, don't melt it - take it slower than wood |
@@ -68,29 +62,28 @@ Refer to [Tool Usage Fees](/docs/policies/fees).
 
 ## Specifications
 
+| Parameter                     |                                     |
+| ----------------------------- | ----------------------------------- |
 | X Axis Range                  | 600                                 |
-|:------------------------------|-------------------------------------|
 | Y Axis Range                  | 420                                 |
 | Z Axis Range                  | 70                                  |
 | Collet                        | ER11                                |
 | Driver Software               | Mach3                               |
 | Full Swarf-O-Mat Area         | 600mm x 460mm x 70mm (minus buffer) |
 | Maximum Dimensions of Any job | **580mm x 440mm x 60mm**            |
+| Post processor                | Mach 3 Arcs mm                      |
+
 
 ## Approved Materials
 
 You can **not** use a lot of things, if it's not listed here and/or you're not sure ASK!
 
-|                |
-|----------------|
-| \< 100% 20% \> |
-| Material       |
-| soft wood      |
-| MDF            |
-| acrylic        |
-| HDPE           |
-| hard wood      |
-| aluminium      |
+* Soft wood
+* MDF
+* acrylic
+* HDPE
+* hard wood
+* aluminium
 
 ## Swarf-O-Mat Checklist
 

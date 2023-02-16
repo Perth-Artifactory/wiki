@@ -2,7 +2,7 @@
 title: Materials Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-02-16T13:12:10.311Z
+date: 2023-02-16T13:13:12.217Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -105,7 +105,7 @@ Synthetic fabrics are likely to melt rather than burn. This can result in signif
 
 ## Paper / Cardboard
 
-> Corrigated cardboard presents a significant fire risk and should be supervised by an experienced laser trainer
+> Corrigated cardboard presents a significant fire risk and should be supervised by an experienced laser maintainer.
 {.is-warning}
 
 Cuts easily but consider whether cardboard has a non cuttable plastic coating on it. 

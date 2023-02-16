@@ -2,11 +2,13 @@
 title: Materials Advice
 description: 
 published: true
-date: 2023-02-11T10:17:46.852Z
+date: 2023-02-16T13:08:26.731Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
 ---
+
+If the material you wish to cut/engrave is not listed as safe on this list do not cut it without approval from a laser trainer first.
 
 ## Wood
 
@@ -49,7 +51,11 @@ Thicknesses:
 
 ### Pine
 
+Cuts and engraves well, more details to come.
+
 ### Jarrah
+
+Cuts and engraves well. Can present a moderate fire risk. More details to come.
 
 ## Plastic
 
@@ -57,20 +63,60 @@ Certain plastics are completely banned from use on the lasers due to their dange
 
 ### Acrylic
 
-### HDPE
+Cuts great, more details to come.
 
-### Polycarbonate
+### Polyethylene (HDPE) ❌
 
-### PVC / Vinyl
+Polyethylene cuts poorly on laser cutters in part because it melts rather than vapourises. It poses a significant fire risk and has a high likelyhood of leaving a residue on the laser bed. It can be safely cut on the [CNC router](/tools/cnc/swarf/swarfomat) instead.
 
-The information below has been included for informational purposes only. Under no circumstances should PVC be cut on the lasers at any time. Vinyl can be safely cut on on the Vinyl cutter located in the Design Lab.
+Under heavy supervision by an experienced laser maintainer thin sheets of HDPE may be cut by utilising high airflow to prevent the material from rebonding behind the beam. This is primarily applicable to recycled plastic.
+
+### Polycarbonate ❌
+
+Polycarbonate cuts poorly on laser cutters in part because it melts rather than vapourises. It poses a significant fire risk and has a high likelyhood of leaving a residue on the laser bed. It can be safely cut on the [CNC router](/tools/cnc/swarf/swarfomat) instead.
+
+### Polystyrene / Polypropylene ❌
+
+Polystyrene prvents a significant fire risk and should not be cut on the lasers at any time. Getting good results on the [CNC router](/tools/cnc/swarf/swarfomat) is potentially difficult and users should consider using alternative tools.
+
+### PVC / Vinyl ❌
+
+> The information below has been included for informational purposes only. Under no circumstances should PVC be cut on the lasers at any time. Vinyl can be safely cut on the Vinyl cutter located in the Design Lab.
+{.is-warning}
 
 PVC contains chlorine which is released when cutting on the lasers in the form of chlorine gas. This gas is harmful to laser componentry and people. Material containing chlorine can be recognised by a yellow smoke being released. If you see this gas immediately press the emergency stop on the machine and step away from the laser until the gas has been extracted. If the laser has been in operation for more than 5 seconds **you must evacuate the courtyard and laser area**. Depending on the respiratory health of attendees on the day they may need to seek emergency medical attention. Alert your nearest committee member if one is present in the space.
 
+### ABS
+
+> The information below has been included for informational purposes only. Under no circumstances should ABS be cut on the lasers at any time.
+{.is-warning}
+
+When burnt ABS releases a variety of gases including hydrogen cyanide which is toxic to people. It also prevents a significant fire risk. Users should **consider carefully** before putting 3D printed ABS in the [CNC router](/tools/cnc/swarf/swarfomat) as an alternative.
+
 ## Fabric
+
+### Natural fibers
+
+Cut fast to prevent fire. Consider drastically lowering corner power.
+
+### Synthetic cloth
+
+Synthetic fabrics are likely to melt rather than burn. This can result in significant cleanup time and the potential for harmful byproducts. Check with a laser trainer first.
 
 ## Paper / Cardboard
 
+> Corrigated cardboard presents a significant fire risk and should be supervised by an experienced laser trainer
+{.is-warning}
+
+Cuts easily but consider whether cardboard has a non cuttable plastic coating on it. 
+
 ## Leather
 
+> Chrome tanned leather presents a significant health risk and should not be cut at any time.
+{.is-warning}
+
+Thin leather cuts well but can have a distinct burnt hair smell. Consider cutting outside of events.
+
 ## Glass
+
+Can be etched and (sometimes) scored. Plan for failure and bring extra material. More details to come.

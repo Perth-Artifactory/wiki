@@ -2,7 +2,7 @@
 title: Materials Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-02-16T13:13:12.217Z
+date: 2023-02-16T13:17:10.870Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -34,6 +34,8 @@ Thicknesses:
 ### Plywood
 
 Plywood is made up of multiple layers of offset wood glued together. This has some advantages and disadvantages. The easiest source is Bunnings.
+
+**Marine Plywood**, particularily over 3mm thick, does not cut well on the lasers.
 
 Considerations:
 * **Material variations**: Marine grade plywood (and other fire resistant variations) do not cut well on the lasers and should be avoided. If this material is absolutely required you may have some success using the CNC router instead. You could also cut templates out of another material and use a plunge router depending on your required design.

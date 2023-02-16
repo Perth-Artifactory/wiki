@@ -2,7 +2,7 @@
 title: Materials Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-02-16T13:17:10.870Z
+date: 2023-02-16T13:18:56.753Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -122,3 +122,7 @@ Thin leather cuts well but can have a distinct burnt hair smell. Consider cuttin
 ## Glass
 
 Can be etched and (sometimes) scored. Plan for failure and bring extra material. More details to come.
+
+## EVA Foam
+
+Cuts great, may need to use engraving passes if doing partial cuts on Big Red because getting the power low enough otherwise is difficult.

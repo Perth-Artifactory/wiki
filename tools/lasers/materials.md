@@ -2,7 +2,7 @@
 title: Materials Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-02-16T13:09:11.428Z
+date: 2023-02-16T13:12:10.311Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -77,18 +77,18 @@ Polycarbonate cuts poorly on laser cutters in part because it melts rather than 
 
 ### Polystyrene / Polypropylene ❌
 
-Polystyrene prvents a significant fire risk and should not be cut on the lasers at any time. Getting good results on the [CNC router](/tools/cnc/swarf/swarfomat) is potentially difficult and users should consider using alternative tools.
+Polystyrene and Polypropylene present a significant fire risk and should not be cut on the lasers at any time. Getting good results on the [CNC router](/tools/cnc/swarf/swarfomat) is potentially difficult and users should consider using alternative tools.
 
 ### PVC / Vinyl ❌
 
-> The information below has been included for informational purposes only. Under no circumstances should PVC be cut on the lasers at any time. Vinyl can be safely cut on the Vinyl cutter located in the Design Lab.
+> The information below has been included for informational purposes only. This material presents a significant health risk and under no circumstances should be cut on the lasers at any time. Vinyl can be safely cut on the Vinyl cutter located in the Design Lab.
 {.is-warning}
 
 PVC contains chlorine which is released when cutting on the lasers in the form of chlorine gas. This gas is harmful to laser componentry and people. Material containing chlorine can be recognised by a yellow smoke being released. If you see this gas immediately press the emergency stop on the machine and step away from the laser until the gas has been extracted. If the laser has been in operation for more than 5 seconds **you must evacuate the courtyard and laser area**. Depending on the respiratory health of attendees on the day they may need to seek emergency medical attention. Alert your nearest committee member if one is present in the space.
 
 ### ABS
 
-> The information below has been included for informational purposes only. Under no circumstances should ABS be cut on the lasers at any time.
+> The information below has been included for informational purposes only. This material presents a significant health risk and under no circumstances should be cut on the lasers at any time.
 {.is-warning}
 
 When burnt ABS releases a variety of gases including hydrogen cyanide which is toxic to people. It also prevents a significant fire risk. Users should **consider carefully** before putting 3D printed ABS in the [CNC router](/tools/cnc/swarf/swarfomat) as an alternative.
@@ -112,10 +112,10 @@ Cuts easily but consider whether cardboard has a non cuttable plastic coating on
 
 ## Leather
 
-> Chrome tanned leather presents a significant health risk and should not be cut at any time.
-{.is-warning}
-
 Thin leather cuts well but can have a distinct burnt hair smell. Consider cutting outside of events.
+
+> Chrome tanned leather in particular presents a significant health risk and should not be cut at any time.
+{.is-warning}
 
 ## Glass
 

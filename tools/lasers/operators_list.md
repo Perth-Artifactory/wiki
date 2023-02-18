@@ -2,7 +2,7 @@
 title: Operators List
 description: 
 published: true
-date: 2023-02-11T08:08:19.333Z
+date: 2023-02-18T13:41:31.197Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:09.446Z
@@ -148,3 +148,4 @@ dateCreated: 2022-10-17T16:58:09.446Z
 | Mike Thompson                            | Trainee        | No              | No           | 2023-01-28 1st session LAYip |
 | Renae Currie                             | Trainee        | No              | No           | 2023-02-07 1st session LAYip |
 | Benno Amesz   | No | No | Trainess | 2023-02-011 1st session LAYip |
+| Josh Walters   | No | No | Trainee | 2023-02-018 1st session Bruce Chambers |

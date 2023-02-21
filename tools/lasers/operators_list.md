@@ -2,7 +2,7 @@
 title: Operators List
 description: 
 published: true
-date: 2023-02-21T13:23:59.256Z
+date: 2023-02-21T13:25:30.496Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:09.446Z
@@ -149,4 +149,4 @@ dateCreated: 2022-10-17T16:58:09.446Z
 | Renae Currie                             | Trainee        | No              | No           | 2023-02-07 1st session LAYip |
 | Benno Amesz   | No | No | Trainee | 2023-02-11 1st session LAYip |
 | Josh Walters   | No | No | Trainee | 2023-02-18 1st session Bruce Chambers |
-| Neil ??? | No | No | Trainee | 2023-02-18 1st session LAYip | 
+| Neil Wilson | No | No | Trainee | 2023-02-18 1st session LAYip | 

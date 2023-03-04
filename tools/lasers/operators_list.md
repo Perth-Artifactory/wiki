@@ -2,7 +2,7 @@
 title: Operators List
 description: 
 published: true
-date: 2023-02-21T13:25:30.496Z
+date: 2023-03-04T07:48:57.719Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:09.446Z
@@ -13,7 +13,7 @@ dateCreated: 2022-10-17T16:58:09.446Z
 | Operators                                | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | Currency confirmed           |
 |------------------------------------------|----------------|-----------------|--------------|------------------------------|
 | Alastair Waddell                         | Yes            | No              | No           |                              |
-| DougB                                    | Yes            | No              | Yes          |                              |
+| DougB                                    | Yes            | No              | Yes          |      JC retrained on big red 2023-03-04                        |
 | Jeremy Randall                           | Yes            | No              | Yes          |                              |
 | Jason Kongchouy                          | Yes            | No              | Yes          |                              |
 | Hugh Frazer                              | Yes            | No              | Yes          |                              |

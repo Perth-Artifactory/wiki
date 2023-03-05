@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2022-12-30T06:00:19.280Z
+date: 2023-03-05T08:53:05.551Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -58,7 +58,7 @@ Below is a list of trainers (Artifactory volunteers who are able to train new op
 
 | Trainer Name   | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | Availability                                            |
 | -------------- | -------------- | --------------- | ------------ | ------------------------------------------------------- |
-| Blake Samuels  | ✓            | ✓             | ✓          | Arduino U (Confirm beforehand), #lazers on Slack        |
+| Blake Samuels  | ✓            | ✓             | ✓          | Unavailable        |
 | Beau Scott     | ✓            | ✓             | ✓          | #lasers on Slack                                        |
 | Bruce Chambers | -             | -              | ✓          | #lasers on Slack                                        |
 | Fletcher Boyd  | ✓            | ✓             | ✓          | General Hacking Saturdays (Confirm beforehand), #lasers on Slack           |

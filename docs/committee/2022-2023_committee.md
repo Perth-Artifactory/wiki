@@ -2,7 +2,7 @@
 title: 2022 - 2023 Committee
 description: 
 published: true
-date: 2023-03-11T15:52:05.111Z
+date: 2023-03-11T15:52:43.839Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:25:52.641Z
@@ -17,15 +17,15 @@ Office Bearers
 -   [Chair](/docs/committee/chairperson): Beau Scott
 -   [Vice Chair](/docs/committee/chairperson): Vincent Dalstra
 -   [Secretary](/docs/committee/secretary): Lewis Yip
--   [Treasurer](/docs/committee/treasurer): Ben Connor
+-   [Treasurer](/docs/committee/treasurer): Fletcher Boyd
 
 Ordinary Committee Members
 
 -   Deputy Secretary: Phoebe-Jean Harris
--   Deputy Treasurer: Fletcher Boyd
+-   Deputy Treasurer: Ben Connor
+-   Deputy Treasurer: Renae Currie
 -   Ordinary Committee Member: Johannes Chuah
 -   Ordinary Committee Member: Joshua Rospondek
--   Ordinary Committee Member: Renae Currie
 -   Ordinary Committee Member: Vacant
 
 Note: on 2022-11-26,

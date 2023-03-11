@@ -2,7 +2,7 @@
 title: 2022 - 2023 Committee
 description: 
 published: true
-date: 2023-01-10T11:24:23.961Z
+date: 2023-03-11T15:52:05.111Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:25:52.641Z
@@ -34,3 +34,8 @@ Note: on 2022-11-26,
 
 Note: on 2023-01-01,
 * Renae Currie was appointed to the committee
+
+Note: on 2023-03-11,
+* Ben Connor changed role: Treasurer -> Assistant Treasurer
+* Fletcher Boyd changed role: Assistant Treasurer -> Treasurer
+* Renae Currie changed role: Ordinary Committee Member -> Assistant Treasurer

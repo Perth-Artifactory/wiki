@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2022-11-23T09:16:16.777Z
+date: 2023-03-12T09:16:07.115Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -14,8 +14,9 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 Recent changes:
 
+* Electronics lab robot lights, bar lights, and foyer lights are automatic based on scheduled events and don't need to be manually turned off
+* Band room aircon is automated and doesn't need to be turned off manually. If it's on and no one is there it's because there's an upcoming room booking.
 * 3 phase compressor no longer exists
-* Band room aircon is on a smart switch
 
 ## Outdoor Area
 
@@ -43,9 +44,7 @@ Recent changes:
 * Lights above the lasers are turned off (top left switch)
 * Ladies Toilets light is off. Mens toilet light will turn off automatically.
 * Lights above the central table are switched off (powerpoint outside Design Lab door).
-* Bar lights are off. Powerpoint is on the left side, next to the small door.
-  * The lights on the bar itself are turned off using the switch on the power board under the bar.
-* Band room door is locked, aircon can be overridden using the button on the smart switch plugged into the powerboard outside the Design Lab.
+* Band room door is locked
 
 ## Electronics Lab
 
@@ -60,7 +59,6 @@ Recent changes:
 ## Final
 
 * Turn off overhead lights using the block of 3 switches next to the door.
-* Turn off appropriate switches on the power board above the photos.
 * If you haven’t already, check the machine room, as its lights cannot be seen from outside.
-* Check all the lights are off. Only the First-Aid box and the Exit signs should be emitting light.
+* Check all the lights are off (excluding the bar, foyer, and electronics lab robot). Only the First-Aid box and the Exit signs should be emitting light.
 * Firmly close the front door behind you and make sure it is locked.

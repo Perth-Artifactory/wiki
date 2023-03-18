@@ -2,7 +2,7 @@
 title: Test presentation
 description: 
 published: true
-date: 2023-03-18T07:02:55.609Z
+date: 2023-03-18T08:21:36.273Z
 tags: official, presentation
 editor: markdown
 dateCreated: 2023-03-18T07:02:55.609Z
@@ -14,7 +14,7 @@ dateCreated: 2023-03-18T07:02:55.609Z
 - The second one.
 - And the third.
 
-# This will start a new slide.
+# This will start a new slide. {data-background-image="https://artifactory.org.au/assets/site/gallery/20190616_121402-hero.jpg"}
 
 - New bullet point.
 - etc.

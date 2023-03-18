@@ -1,8 +1,8 @@
 ---
 title: Test presentation
-description: 
+description: A presentation powered by reveal.js
 published: true
-date: 2023-03-18T08:21:36.273Z
+date: 2023-03-18T08:31:34.463Z
 tags: official, presentation
 editor: markdown
 dateCreated: 2023-03-18T07:02:55.609Z

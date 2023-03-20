@@ -2,7 +2,7 @@
 title: Workshop Orientation
 description: A presentation powered by reveal.js
 published: true
-date: 2023-03-18T08:36:44.279Z
+date: 2023-03-20T13:05:49.133Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -17,6 +17,16 @@ The Artifactory is a volunteer run shared workspace.
 # Code of Conduct
 
 Our code of conduct is the guiding document for your actions in the space.
+
+::: notes
+
+Talk on how this affects:
+
+- Workshop cleanliness
+- Assume good faith
+- Interactions with group projects
+
+:::
 
 # Workshop reports
 

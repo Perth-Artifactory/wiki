@@ -2,7 +2,7 @@
 title: Big Red Training Guide
 description: 
 published: true
-date: 2023-03-24T10:18:19.068Z
+date: 2023-03-24T10:23:57.372Z
 tags: official, presentation
 editor: markdown
 dateCreated: 2023-03-24T10:18:19.068Z
@@ -15,12 +15,12 @@ dateCreated: 2023-03-24T10:18:19.068Z
 
 # Turn the machine on at the wall
 
-## Chiller
-
-test
+::: incremental
 
 * Check the water chiller <!-- .element: class="fragment" -->
 * Check the fume extraction <!-- .element: class="fragment" -->
+
+:::
 
 ::: notes
 

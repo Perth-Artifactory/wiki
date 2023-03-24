@@ -2,7 +2,7 @@
 title: Big Red Training Guide
 description: 
 published: true
-date: 2023-03-24T10:32:27.815Z
+date: 2023-03-24T10:35:02.896Z
 tags: official, presentation
 editor: markdown
 dateCreated: 2023-03-24T10:18:19.068Z
@@ -13,7 +13,7 @@ dateCreated: 2023-03-24T10:18:19.068Z
 * Training is run over 2 sessions: A practical training session and an assessment conducted on a different day
 * Make use of all the resources we provide you. (Checklist, operation guides etc)
 
-# 
+# Test?
 
 ## Turn the machine on at the wall
 ::: incremental

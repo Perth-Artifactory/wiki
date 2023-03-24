@@ -2,7 +2,7 @@
 title: Workshop Orientation
 description: A presentation powered by reveal.js
 published: true
-date: 2023-03-20T13:05:49.133Z
+date: 2023-03-24T11:23:21.878Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -32,3 +32,6 @@ Talk on how this affects:
 
 The workshop only works if people are held accountable for leaving the workshop a mess.
 ![reporting form](https://perart.io/workshopreport/qr-code)
+
+# Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
+

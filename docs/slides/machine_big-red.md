@@ -2,7 +2,7 @@
 title: Big Red Training Guide
 description: 
 published: true
-date: 2023-03-24T10:56:03.599Z
+date: 2023-03-24T11:20:44.647Z
 tags: official, presentation
 editor: markdown
 dateCreated: 2023-03-24T10:18:19.068Z
@@ -107,12 +107,67 @@ Unlike almost every other part of laser cutting this is the one step where mista
 * Maintainers in the space
 * #lasers on Slack
 * Blake
-
 :::
 
 Until you turn the machine back on it's an easy fix for maintainers.
 
-# Workshop reports
+# Fire suppression
 
-The workshop only works if people are held accountable for leaving the workshop a mess.
-![reporting form](https://perart.io/workshopreport/qr-code)
+Lasers cut by burning the material. This prevents a continous risk that is mitigated by your material choice and air assist
+
+##
+
+::: incremental
+* Spray bottle
+* Remove the material
+:::
+
+##
+
+::: incremental
+* Fire Blanket
+* Fire Extinguisher
+:::
+
+# Prep for cutting
+
+::: incremental
+* Check the temperature on the chiller. It's safe to operate when the chiller is displaying 25.5C or lower. If the temperature is above this limit wait a few minutes and check again.
+* Familiarise yourself with the location of your fire suppression equipment.
+* Turn on extra air assist if required
+* Close the lid
+:::
+
+::: notes
+Explain the three reasons we use air (protect the lens, clean the cuts, prevent fires). Since you're asking the trainee to put their hand under the head of quite a powerful machine this is also a great time to talk about machine interlocks.
+:::
+
+# Press start!
+
+You must supervise the machine when it's running.
+
+There's a few different ways to stop the machine:
+
+::: incremental
+* The Start/Pause button will pause your job. This is good if you need to walk away from the machine. The job can be resumed by pressing the button again.
+* The Stop button will end the job and return the cutting head to the starting position.
+* The emergency stop will immediately shut down the laser.
+:::
+
+::: notes
+Lasers are cool as hell, give your trainee some time to watch the cool thing.
+Once they've had a chance to watch the laser talk about the various ways the laser can be stopped and their consequences.
+:::
+
+# Shutdown
+
+::: incremental
+* Turn off the air assist. The laser cutters are situated close to the social and project areas. To prevent unnecessary noise pollution turn off the air assist before opening the lid of the machine.
+* Remove your design and discard of any scraps created.
+* Return the laser to the top right
+* Turn off the machine at the wall
+:::
+
+::: notes
+Talk about useful scrap sizes and that it's okay to discard the leftovers from cuts. "Yes you could do something with 100 tiny MDF ovals but unless you have a specific idea in mind it's probably better to just cut them when you need them". Discuss which scraps can remain in the bed and which can't.
+:::

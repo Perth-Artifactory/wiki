@@ -1,14 +1,24 @@
 ---
 title: Constitution
-description:
+description: 
 published: true
-date: 2022-10-27T12:48:35.985Z
+date: 2023-03-29T17:45:22.266Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:18.038Z
 ---
 
 # Constitution of Perth Artifactory Inc.
+
+> This is the constitution currently in force.
+>
+> A revised constitution was approved by special resolution at the general meeting held [2022-03-04](/minutes/SGM/2022-03-04).
+>
+> The revised constitution has been submitted to DMIRS and will take effect when DMIRS approval is recieved.
+>
+> The revised constitution (not yet in effect) is [located on GitHub](https://github.com/Perth-Artifactory/governance/blob/main/constitution.pdf) for the time being.
+{.is-info}
+
 
 A. The name of the Association is: Perth Artifactory Inc.
 

@@ -15,23 +15,23 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Alastair Waddell (alastair) | ❌ | ❌ | ✅ | 
 | Alexey Korolev (korolexa) | ❌ | ❌ | ✅ | 
 | Andrew Bernsousa | ✅ | ❌ | ✅ | 
-| Andrew Leitch (Andre) | ❌ | ❌ | ✅ | 
+| Andrew Leitch (Andre) | ✅ | ❌ | ✅ | 
 | Ashleigh Williams | ✅ | ❌ | ✅ | 
 | Ben Harris | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ✅ | 
-| Blake Samuels (Blake) | ✅ | ❌ | ✅ | 
+| Blake Samuels (Blake) | ✅ | ✅ | ✅ | 
 | Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ✅ | 
-| Claude Woodward | ❌ | ❌ | ✅ | 
+| Claude Woodward | ✅ | ❌ | ✅ | 
 | Constance Titterton | ❌ | ❌ | ✅ | 
 | Daniel Hart (Danny) | ❌ | ❌ | ✅ | 
 | Daniel Macnish (dan) | ❌ | ❌ | ✅ | 
 | David Reeve (DSJR) | ❌ | ❌ | ✅ | 
 | David Skilton (PoshSpice) | ❌ | ❌ | ✅ | 
 | Doug Bateman (dougb) | ✅ | ❌ | ✅ | 
-| Ewan Macleod (Drayke) | ❌ | ❌ | ✅ | 
+| Ewan Macleod (Drayke) | ✅ | ✅ | ✅ | 
 | Fletcher Boyd | ✅ | ✅ | ✅ | 
 | Gerard Biles (Gerard) | ❌ | ❌ | ✅ | 
-| Glynn Jones (Glynn) | ✅ | ❌ | ✅ | 
+| Glynn Jones (Glynn) | ✅ | ✅ | ✅ | 
 | Gwynneth Jones (vetch) | ❌ | ❌ | ✅ | 
 | Harry King | ❌ | ❌ | ✅ | 
 | Hugh Frazer (b0wlb0y) | ✅ | ❌ | ✅ | 
@@ -55,22 +55,22 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Josh Foti (Josh) | ✅ | ❌ | ❌ | 
 | Joshua Walters (Josh) | ✅ | ❌ | ❌ | 
 | Justin Richards (ornea) | ❌ | ❌ | ✅ | 
-| Kamil Seda (Kamil) | ❌ | ❌ | ✅ | 
+| Kamil Seda (Kamil) | ✅ | ❌ | ✅ | 
 | Kassandra Roderick | ❌ | ❌ | ✅ | 
-| Kymberli Lim (Kym) | ❌ | ❌ | ✅ | 
+| Kymberli Lim (Kym) | ✅ | ❌ | ✅ | 
 | Lachlan Hutchison | ❌ | ❌ | ✅ | 
 | Lauren Amos (Lauren) | ✅ | ❌ | ✅ | 
 | Li-aung Yip (Lewis) | ✅ | ✅ | ✅ | 
-| Lisa Mccarthy | ❌ | ❌ | ✅ | 
+| Lisa Mccarthy | ✅ | ❌ | ✅ | 
 | Loren Hughes (Lorey) | ❌ | ❌ | ✅ | 
 | Mark Finlayson | ❌ | ❌ | ✅ | 
 | Maryka De vries | ✅ | ❌ | ✅ | 
-| Melanie Mccarthy (Mel) | ❌ | ❌ | ✅ | 
+| Melanie Mccarthy (Mel) | ✅ | ❌ | ✅ | 
 | Michael O'connor | ❌ | ❌ | ✅ | 
 | Mitchell Robertson (Mitch) | ✅ | ❌ | ✅ | 
-| Narelle Fouche (Ladybug) | ❌ | ✅ | ❌ | 
+| Narelle Fouche (Ladybug) | ✅ | ✅ | ❌ | 
 | Nathan Dunn | ❌ | ❌ | ✅ | 
-| Nathan Thompson (nathan) | ❌ | ❌ | ✅ | 
+| Nathan Thompson (nathan) | ✅ | ❌ | ✅ | 
 | Patrick Kent | ✅ | ❌ | ✅ | 
 | Peter Hillier (letsburn00) | ✅ | ❌ | ✅ | 
 | Philip Wijesinghe | ❌ | ❌ | ✅ | 
@@ -85,7 +85,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ryan White | ❌ | ❌ | ✅ | 
 | Sam Smith (Sam) | ❌ | ❌ | ✅ | 
 | Sami Blue bird (sami) | ❌ | ❌ | ✅ | 
-| Scott Simons | ❌ | ❌ | ✅ | 
+| Scott Simons | ✅ | ❌ | ✅ | 
 | Sean Barry (Sean Barry) | ❌ | ❌ | ✅ | 
 | Shay Telfer (shay) | ❌ | ❌ | ✅ | 
 | Siavash Noorbakhsh | ❌ | ❌ | ✅ | 

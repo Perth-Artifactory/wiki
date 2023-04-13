@@ -10,6 +10,6 @@ dateCreated: 2023-04-13T13:13:39.242Z
 
 | Operator | Big Red | Middle Red | Little Red |
 | --- | --- | --- | --- |
-| Fletcher Boyd | ✅ | ❌ | ✅ |
-| Ilke Dincer | ✅ | ❌ | ❌ |
-| Li-aung Yip (Lewis) | ❌ | ✅ | ❌ |
+| Fletcher Boyd | ✅ | ❌ | ✅ | 
+| Ilke Dincer | ✅ | ❌ | ❌ | 
+| Li-aung Yip (Lewis) | ❌ | ✅ | ❌ | 

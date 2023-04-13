@@ -2,13 +2,15 @@
 title: Operators List
 description: 
 published: true
-date: 2023-03-04T07:48:57.719Z
+date: 2023-04-13T15:05:32.791Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:09.446Z
 ---
 
 # Operators List
+
+This list has been superceded by [Laser operators](/docs/reports/Laser_operators)
 
 | Operators                                | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | Currency confirmed           |
 |------------------------------------------|----------------|-----------------|--------------|------------------------------|

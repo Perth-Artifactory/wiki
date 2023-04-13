@@ -10,95 +10,95 @@ dateCreated: 2023-04-13T13:13:39.242Z
 
 | Operator | Big Red | Middle Red | Little Red |
 | --- | --- | --- | --- |
-| lauren amos (Lauren) | ✅ | ❌ | ✅ | 
-| Doug Bateman (dougb) | ✅ | ❌ | ✅ | 
-| Andrew BernSousa | ✅ | ❌ | ✅ | 
-| Fletcher Boyd | ✅ | ✅ | ✅ | 
-| Robert Bruce Chambers (Bruce) | ✅ | ✅ | ✅ | 
-| Johannes Chuah (JohnnyC) | ✅ | ✅ | ✅ | 
-| Renae Currie | ✅ | ❌ | ❌ | 
-| Vincent Dalstra (Vincent) | ✅ | ❌ | ✅ | 
-| Maryka de Vries | ✅ | ❌ | ✅ | 
-| Ilke Dincer | ✅ | ❌ | ❌ | 
-| Josh Foti (Josh) | ✅ | ❌ | ❌ | 
-| Hugh Frazer (b0wlb0y) | ✅ | ❌ | ✅ | 
-| Stephen Garran (Steve) | ✅ | ❌ | ✅ | 
-| Iain Graham (Sylver) | ✅ | ✅ | ✅ | 
-| Stephen Hicks (BigSteve) | ✅ | ❌ | ✅ | 
-| Peter Hillier (letsburn00) | ✅ | ❌ | ✅ | 
-| Glynn Jones (Glynn) | ✅ | ❌ | ✅ | 
-| Patrick Kent | ✅ | ❌ | ✅ | 
-| Jason Kongchouy (Jason) | ✅ | ❌ | ✅ | 
-| jean-michel maujean (jeanmichel) | ✅ | ❌ | ✅ | 
-| Stuart McDonald (STU) | ✅ | ✅ | ✅ | 
-| Adam Mellor | ✅ | ✅ | ✅ | 
-| Jamie  Moir  (Jamie ) | ✅ | ❌ | ✅ | 
-| John Parker (cheshire) | ✅ | ❌ | ✅ | 
-| Jamieson  Quin (Jamo) | ✅ | ❌ | ❌ | 
-| Jeremy Randall (Jezman) | ✅ | ❌ | ✅ | 
-| Mitchell Robertson (Mitch) | ✅ | ❌ | ✅ | 
-| Blake Samuels (Blake) | ✅ | ❌ | ✅ | 
-| Jayden Saw (Sandy) | ✅ | ❌ | ✅ | 
-| Joshua Walters (Josh) | ✅ | ❌ | ❌ | 
-| Ashleigh Williams | ✅ | ❌ | ✅ | 
-| Li-aung Yip (Lewis) | ✅ | ✅ | ✅ | 
-| Rick Duley (Rick) | ❌ | ✅ | ✅ | 
-| Narelle Fouche (Ladybug) | ❌ | ✅ | ❌ | 
-| Simon Haynes (Ganthorion) | ❌ | ✅ | ✅ | 
-| ryan adine (Reyan) | ❌ | ❌ | ✅ | 
-| Joseph Ang (HellRyden) | ❌ | ❌ | ✅ | 
-| Ricki Barnes (rickibarnes) | ❌ | ❌ | ✅ | 
-| Sean Barry (Sean Barry) | ❌ | ❌ | ✅ | 
-| Gerard Biles (Gerard) | ❌ | ❌ | ✅ | 
-| sami blue bird (sami) | ❌ | ❌ | ✅ | 
-| Travis Bullock | ❌ | ❌ | ✅ | 
-| Terry Christou | ❌ | ❌ | ✅ | 
-| Simon Cosgrave | ❌ | ❌ | ✅ | 
 | Adam Crowle (Ads) | ❌ | ❌ | ✅ | 
-| Nathan Dunn | ❌ | ❌ | ✅ | 
-| Sylvain Esclapez (Sy) | ❌ | ❌ | ✅ | 
-| Mark Finlayson | ❌ | ❌ | ✅ | 
-| Jon Gregory (Jon) | ❌ | ❌ | ✅ | 
-| Ben Harris | ❌ | ❌ | ✅ | 
-| Daniel Hart (Danny) | ❌ | ❌ | ✅ | 
-| Jon Hayward | ❌ | ❌ | ✅ | 
-| Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ✅ | 
-| Rebecca Howard | ❌ | ❌ | ✅ | 
-| Loren Hughes (Lorey) | ❌ | ❌ | ✅ | 
-| Lachlan Hutchison | ❌ | ❌ | ✅ | 
-| Gwynneth Jones (vetch) | ❌ | ❌ | ✅ | 
-| Ben Jude (bjude) | ❌ | ❌ | ✅ | 
-| Rodrigo Kendrick | ❌ | ❌ | ✅ | 
-| Harry King | ❌ | ❌ | ✅ | 
-| Alexey Korolev (korolexa) | ❌ | ❌ | ✅ | 
-| Somsuda Kunnikorn (Som) | ❌ | ❌ | ✅ | 
-| Andrew Leitch (Andre) | ❌ | ❌ | ✅ | 
-| Hui Shan Lim (Shan) | ❌ | ❌ | ✅ | 
-| Kymberli Lim (Kym) | ❌ | ❌ | ✅ | 
-| Ewan MacLeod (Drayke) | ❌ | ❌ | ✅ | 
-| Daniel Macnish (dan) | ❌ | ❌ | ✅ | 
-| Lisa McCarthy | ❌ | ❌ | ✅ | 
-| Melanie Mccarthy (Mel) | ❌ | ❌ | ✅ | 
-| Stuart McLay (Stu) | ❌ | ❌ | ✅ | 
-| Siavash Noorbakhsh | ❌ | ❌ | ✅ | 
-| Michael O'Connor | ❌ | ❌ | ✅ | 
-| James Palmer (James Palmer) | ❌ | ❌ | ✅ | 
-| John Parry (JP) | ❌ | ❌ | ✅ | 
-| Yohan Ratnayaka (Yo) | ❌ | ❌ | ✅ | 
-| David Reeve (DSJR) | ❌ | ❌ | ✅ | 
-| Justin Richards (ornea) | ❌ | ❌ | ✅ | 
-| Kassandra Roderick | ❌ | ❌ | ✅ | 
-| Yoann Roy (Yoann) | ❌ | ❌ | ✅ | 
-| Ross Sandrock | ❌ | ❌ | ✅ | 
-| John Saunders (John) | ❌ | ❌ | ✅ | 
-| Kamil Seda (Kamil) | ❌ | ❌ | ✅ | 
-| Scott Simons | ❌ | ❌ | ✅ | 
-| David Skilton (PoshSpice) | ❌ | ❌ | ✅ | 
-| Sam Smith (Sam) | ❌ | ❌ | ✅ | 
-| Shay Telfer (shay) | ❌ | ❌ | ✅ | 
-| Nathan Thompson (nathan) | ❌ | ❌ | ✅ | 
-| Constance Titterton | ❌ | ❌ | ✅ | 
+| Adam Mellor | ✅ | ✅ | ✅ | 
 | Alastair Waddell (alastair) | ❌ | ❌ | ✅ | 
-| Ryan White | ❌ | ❌ | ✅ | 
-| Philip Wijesinghe | ❌ | ❌ | ✅ | 
+| Alexey Korolev (korolexa) | ❌ | ❌ | ✅ | 
+| Andrew Bernsousa | ✅ | ❌ | ✅ | 
+| Andrew Leitch (Andre) | ❌ | ❌ | ✅ | 
+| Ashleigh Williams | ✅ | ❌ | ✅ | 
+| Ben Harris | ❌ | ❌ | ✅ | 
+| Ben Jude (bjude) | ❌ | ❌ | ✅ | 
+| Blake Samuels (Blake) | ✅ | ❌ | ✅ | 
+| Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ✅ | 
 | Claude Woodward | ❌ | ❌ | ✅ | 
+| Constance Titterton | ❌ | ❌ | ✅ | 
+| Daniel Hart (Danny) | ❌ | ❌ | ✅ | 
+| Daniel Macnish (dan) | ❌ | ❌ | ✅ | 
+| David Reeve (DSJR) | ❌ | ❌ | ✅ | 
+| David Skilton (PoshSpice) | ❌ | ❌ | ✅ | 
+| Doug Bateman (dougb) | ✅ | ❌ | ✅ | 
+| Ewan Macleod (Drayke) | ❌ | ❌ | ✅ | 
+| Fletcher Boyd | ✅ | ✅ | ✅ | 
+| Gerard Biles (Gerard) | ❌ | ❌ | ✅ | 
+| Glynn Jones (Glynn) | ✅ | ❌ | ✅ | 
+| Gwynneth Jones (vetch) | ❌ | ❌ | ✅ | 
+| Harry King | ❌ | ❌ | ✅ | 
+| Hugh Frazer (b0wlb0y) | ✅ | ❌ | ✅ | 
+| Hui shan Lim (Shan) | ❌ | ❌ | ✅ | 
+| Iain Graham (Sylver) | ✅ | ✅ | ✅ | 
+| Ilke Dincer | ✅ | ❌ | ❌ | 
+| James Palmer (James Palmer) | ❌ | ❌ | ✅ | 
+| Jamie  Moir  (Jamie ) | ✅ | ❌ | ✅ | 
+| Jamieson  Quin (Jamo) | ✅ | ❌ | ❌ | 
+| Jason Kongchouy (Jason) | ✅ | ❌ | ✅ | 
+| Jayden Saw (Sandy) | ✅ | ❌ | ✅ | 
+| Jean-michel Maujean (jeanmichel) | ✅ | ❌ | ✅ | 
+| Jeremy Randall (Jezman) | ✅ | ❌ | ✅ | 
+| Johannes Chuah (JohnnyC) | ✅ | ✅ | ✅ | 
+| John Parker (cheshire) | ✅ | ❌ | ✅ | 
+| John Parry (JP) | ❌ | ❌ | ✅ | 
+| John Saunders (John) | ❌ | ❌ | ✅ | 
+| Jon Gregory (Jon) | ❌ | ❌ | ✅ | 
+| Jon Hayward | ❌ | ❌ | ✅ | 
+| Joseph Ang (HellRyden) | ❌ | ❌ | ✅ | 
+| Josh Foti (Josh) | ✅ | ❌ | ❌ | 
+| Joshua Walters (Josh) | ✅ | ❌ | ❌ | 
+| Justin Richards (ornea) | ❌ | ❌ | ✅ | 
+| Kamil Seda (Kamil) | ❌ | ❌ | ✅ | 
+| Kassandra Roderick | ❌ | ❌ | ✅ | 
+| Kymberli Lim (Kym) | ❌ | ❌ | ✅ | 
+| Lachlan Hutchison | ❌ | ❌ | ✅ | 
+| Lauren Amos (Lauren) | ✅ | ❌ | ✅ | 
+| Li-aung Yip (Lewis) | ✅ | ✅ | ✅ | 
+| Lisa Mccarthy | ❌ | ❌ | ✅ | 
+| Loren Hughes (Lorey) | ❌ | ❌ | ✅ | 
+| Mark Finlayson | ❌ | ❌ | ✅ | 
+| Maryka De vries | ✅ | ❌ | ✅ | 
+| Melanie Mccarthy (Mel) | ❌ | ❌ | ✅ | 
+| Michael O'connor | ❌ | ❌ | ✅ | 
+| Mitchell Robertson (Mitch) | ✅ | ❌ | ✅ | 
+| Narelle Fouche (Ladybug) | ❌ | ✅ | ❌ | 
+| Nathan Dunn | ❌ | ❌ | ✅ | 
+| Nathan Thompson (nathan) | ❌ | ❌ | ✅ | 
+| Patrick Kent | ✅ | ❌ | ✅ | 
+| Peter Hillier (letsburn00) | ✅ | ❌ | ✅ | 
+| Philip Wijesinghe | ❌ | ❌ | ✅ | 
+| Rebecca Howard | ❌ | ❌ | ✅ | 
+| Renae Currie | ✅ | ❌ | ❌ | 
+| Rick Duley (Rick) | ❌ | ✅ | ✅ | 
+| Ricki Barnes (rickibarnes) | ❌ | ❌ | ✅ | 
+| Robert bruce Chambers (Bruce) | ✅ | ✅ | ✅ | 
+| Rodrigo Kendrick | ❌ | ❌ | ✅ | 
+| Ross Sandrock | ❌ | ❌ | ✅ | 
+| Ryan Adine (Reyan) | ❌ | ❌ | ✅ | 
+| Ryan White | ❌ | ❌ | ✅ | 
+| Sam Smith (Sam) | ❌ | ❌ | ✅ | 
+| Sami Blue bird (sami) | ❌ | ❌ | ✅ | 
+| Scott Simons | ❌ | ❌ | ✅ | 
+| Sean Barry (Sean Barry) | ❌ | ❌ | ✅ | 
+| Shay Telfer (shay) | ❌ | ❌ | ✅ | 
+| Siavash Noorbakhsh | ❌ | ❌ | ✅ | 
+| Simon Cosgrave | ❌ | ❌ | ✅ | 
+| Simon Haynes (Ganthorion) | ❌ | ✅ | ✅ | 
+| Somsuda Kunnikorn (Som) | ❌ | ❌ | ✅ | 
+| Stephen Garran (Steve) | ✅ | ❌ | ✅ | 
+| Stephen Hicks (BigSteve) | ✅ | ❌ | ✅ | 
+| Stuart Mcdonald (STU) | ✅ | ✅ | ✅ | 
+| Stuart Mclay (Stu) | ❌ | ❌ | ✅ | 
+| Sylvain Esclapez (Sy) | ❌ | ❌ | ✅ | 
+| Terry Christou | ❌ | ❌ | ✅ | 
+| Travis Bullock | ❌ | ❌ | ✅ | 
+| Vincent Dalstra (Vincent) | ✅ | ❌ | ✅ | 
+| Yoann Roy (Yoann) | ❌ | ❌ | ✅ | 
+| Yohan Ratnayaka (Yo) | ❌ | ❌ | ✅ | 

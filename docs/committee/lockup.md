@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-03-12T09:16:07.115Z
+date: 2023-04-16T04:02:47.421Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -14,6 +14,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 Recent changes:
 
+* Machine room and mill/lathe can now be turned off via the foyer kiosk
 * Electronics lab robot lights, bar lights, and foyer lights are automatic based on scheduled events and don't need to be manually turned off
 * Band room aircon is automated and doesn't need to be turned off manually. If it's on and no one is there it's because there's an upcoming room booking.
 * 3 phase compressor no longer exists
@@ -27,9 +28,7 @@ Recent changes:
 
 ## Machine Room
 
-* All machines and tools in woodshop are turned off.
-* Both powerpoints next to back window are off (this also turns off the shed power).
-* Light switches for the tool room are to the right of the door as you walk in.
+* Press the silver button just inside the door OR the machine room button on the foyer kiosk
 
 ## Design Lab
 

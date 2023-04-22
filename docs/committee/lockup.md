@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-04-16T04:02:47.421Z
+date: 2023-04-22T11:45:04.575Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -10,10 +10,11 @@ dateCreated: 2022-10-17T16:47:01.779Z
 
 # Closing Procedure
 
-Following these steps is part of your [responsibilities as a keyholder.](/docs/committee/keyholder_responsibilities) If you cannot close up please contact the committee via [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y) on [Slack](https://space.artifactory.org.au/slack).
+Following these steps is part of your [responsibilities as a keyholder.](/docs/committee/keyholder_responsibilities) If you cannot close up please contact the committee via [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y) on [Slack](https://perart.io/slack).
 
 Recent changes:
 
+* Lights above the lasers are now turned on using the same switches as the ceiling lights
 * Machine room and mill/lathe can now be turned off via the foyer kiosk
 * Electronics lab robot lights, bar lights, and foyer lights are automatic based on scheduled events and don't need to be manually turned off
 * Band room aircon is automated and doesn't need to be turned off manually. If it's on and no one is there it's because there's an upcoming room booking.
@@ -40,14 +41,12 @@ Recent changes:
 ## Main Area
 
 * Lasers are turned off, computers can stay on.
-* Lights above the lasers are turned off (top left switch)
 * Ladies Toilets light is off. Mens toilet light will turn off automatically.
 * Lights above the central table are switched off (powerpoint outside Design Lab door).
 * Band room door is locked
 
 ## Electronics Lab
 
-* Make sure any soldering irons on the workbench are switched off.
 * Turn off bench power using the switches on the wall behind the bench.
 * Turn off room light.
 

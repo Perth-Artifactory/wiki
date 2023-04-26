@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-04-22T11:45:04.575Z
+date: 2023-04-26T14:20:29.548Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -14,6 +14,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 Recent changes:
 
+* Courtyard lights are now available on the kiosk
 * Lights above the lasers are now turned on using the same switches as the ceiling lights
 * Machine room and mill/lathe can now be turned off via the foyer kiosk
 * Electronics lab robot lights, bar lights, and foyer lights are automatic based on scheduled events and don't need to be manually turned off
@@ -26,6 +27,7 @@ Recent changes:
 * Door to the left of bar is locked and bolted
 * Outdoor power points (smaller switches) to left of roller door to be turned off.
 * Shed power comes from machine room. (No need to lock shed)
+* Turn the courtyard lights off with the silver button below the roller door controls OR the courtyard button on the kiosk
 
 ## Machine Room
 

@@ -2,7 +2,7 @@
 title: Space Control
 description: Relays and buttons oh my!
 published: true
-date: 2023-04-26T14:38:11.045Z
+date: 2023-04-26T14:38:44.951Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-01T15:54:50.097Z
@@ -18,7 +18,7 @@ You can access the [control panel](https://control.artifactory.org.au) when conn
 
 | What                    | Automations | Manual | Override |
 |-------------------------|-------------|--------|----------|
-| Project area bay lights | None | Home Assistant | Turn the workshop lights off for 5 seconds and then turn them back on. |
+| Project area bay lights | All on by default when the main light switches are used | Home Assistant | Turn the workshop lights off for 5 seconds and then turn them back on. |
 | Carpark lights | Turned on for 5 minutes when the kiosk `leaving` button is pressed after sunset or if the timer button is pressed. | Silver button to the left of the front door | None (silver button has no external requirements) |
 | Courtyard lights | None | Silver button below roller door controls or via Home Assistant | None (silver button has no external requirements) |
 | Mill / Lathe | None | Silver button on the side of the mill wall/shield or via Home Assistant | None (silver button has no external requirements) |

@@ -16,6 +16,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Alexey Korolev (korolexa) | ❌ | ❌ | ✅ | 
 | Andrew Bernsousa | ✅ | ❌ | ✅ | 
 | Andrew Leitch (Andre) | ✅ | ❌ | ✅ | 
+| Anna Anagno (Anna) | ✅ | ❌ | ❌ | 
 | Ashleigh Williams | ✅ | ❌ | ✅ | 
 | Ben Harris | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ✅ | 
@@ -89,6 +90,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Sean Barry (Sean Barry) | ❌ | ❌ | ✅ | 
 | Shay Telfer (shay) | ❌ | ❌ | ✅ | 
 | Siavash Noorbakhsh | ❌ | ❌ | ✅ | 
+| Sijan Rai | ✅ | ❌ | ❌ | 
 | Simon Cosgrave | ❌ | ❌ | ✅ | 
 | Simon Haynes (Ganthorion) | ❌ | ✅ | ✅ | 
 | Somsuda Kunnikorn (Som) | ❌ | ❌ | ✅ | 
@@ -98,6 +100,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Stuart Mclay (Stu) | ❌ | ❌ | ✅ | 
 | Sylvain Esclapez (Sy) | ❌ | ❌ | ✅ | 
 | Terry Christou | ❌ | ❌ | ✅ | 
+| Thomas White | ✅ | ✅ | ❌ | 
 | Travis Bullock | ❌ | ❌ | ✅ | 
 | Vincent Dalstra (Vincent) | ✅ | ❌ | ✅ | 
 | Yoann Roy (Yoann) | ❌ | ❌ | ✅ | 

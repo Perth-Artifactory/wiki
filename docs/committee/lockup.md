@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-04-26T14:20:29.548Z
+date: 2023-05-06T09:41:38.877Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -14,6 +14,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 Recent changes:
 
+* Pallet rack lights are fixed and are available on the kiosk
 * Courtyard lights are now available on the kiosk
 * Lights above the lasers are now turned on using the same switches as the ceiling lights
 * Machine room and mill/lathe can now be turned off via the foyer kiosk
@@ -45,6 +46,7 @@ Recent changes:
 * Lasers are turned off, computers can stay on.
 * Ladies Toilets light is off. Mens toilet light will turn off automatically.
 * Lights above the central table are switched off (powerpoint outside Design Lab door).
+* Lights under the pallet racking are off (Paddle switch above the power board tub or the "Display Lights" button on the kiosk)
 * Band room door is locked
 
 ## Electronics Lab

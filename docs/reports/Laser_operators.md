@@ -30,6 +30,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | David Skilton (PoshSpice) | ❌ | ❌ | ✅ | 
 | Doug Bateman (dougb) | ✅ | ❌ | ✅ | 
 | Ewan Macleod (Drayke) | ✅ | ✅ | ✅ | 
+| Felix Wojcik | ✅ | ❌ | ❌ | 
 | Fletcher Boyd | ✅ | ✅ | ✅ | 
 | Gerard Biles (Gerard) | ❌ | ❌ | ✅ | 
 | Glynn Jones (Glynn) | ✅ | ✅ | ✅ | 

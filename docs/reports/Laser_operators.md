@@ -17,6 +17,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Andrew Bernsousa | ✅ | ❌ | ✅ | 
 | Andrew Leitch (Andre) | ✅ | ❌ | ✅ | 
 | Anna Anagno (Anna) | ✅ | ❌ | ❌ | 
+| Arshia Gerami zadegan (Arshia) | ✅ | ❌ | ❌ | 
 | Ashleigh Williams | ✅ | ❌ | ✅ | 
 | Ben Harris | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ✅ | 

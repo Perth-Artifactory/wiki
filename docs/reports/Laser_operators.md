@@ -48,7 +48,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Jayden Saw (Sandy) | ✅ | ❌ | ✅ | 
 | Jean-michel Maujean (jeanmichel) | ✅ | ❌ | ✅ | 
 | Jeremy Randall (Jezman) | ✅ | ❌ | ✅ | 
-| Johannes Chuah (JohnnyC) | ✅ | ✅ | ✅ | 
+| Johannes Chuah (JC) | ✅ | ✅ | ✅ | 
 | John Parker (cheshire) | ✅ | ❌ | ✅ | 
 | John Parry (JP) | ❌ | ❌ | ✅ | 
 | John Saunders (John) | ❌ | ❌ | ✅ | 

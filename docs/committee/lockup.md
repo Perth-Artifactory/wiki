@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-05-06T09:41:38.877Z
+date: 2023-05-10T11:03:18.858Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -12,8 +12,12 @@ dateCreated: 2022-10-17T16:47:01.779Z
 
 Following these steps is part of your [responsibilities as a keyholder.](/docs/committee/keyholder_responsibilities) If you cannot close up please contact the committee via [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y) on [Slack](https://perart.io/slack).
 
+Things marked with 🏘️ can also be turned off via the kiosk in the foyer.
+
 Recent changes:
 
+* Women's toilet lights are on the kiosk
+* Design Lab lights are on the kiosk
 * Pallet rack lights are fixed and are available on the kiosk
 * Courtyard lights are now available on the kiosk
 * Lights above the lasers are now turned on using the same switches as the ceiling lights
@@ -27,26 +31,25 @@ Recent changes:
 * Roller door to backyard is down, controller is to the right of the door. (No need to manually lock)
 * Door to the left of bar is locked and bolted
 * Outdoor power points (smaller switches) to left of roller door to be turned off.
-* Shed power comes from machine room. (No need to lock shed)
-* Turn the courtyard lights off with the silver button below the roller door controls OR the courtyard button on the kiosk
-
+* 🏘️ Shed power comes from machine room. (No need to lock shed)
+* 🏘️ Turn the courtyard lights off with the silver button below the roller door controls
 ## Machine Room
 
-* Press the silver button just inside the door OR the machine room button on the foyer kiosk
+* 🏘️ Press the silver button just inside the door OR the machine room button on the foyer kiosk
 
 ## Design Lab
 
-* Lights are off.
+* 🏘️ Lights are off.
 * 3D printers are turned off unless currently printing a job.
 * Computers can stay on.
 * Turn off Aircon if on. The button is located in the far left corner of the room above the resin printing bench.
 
 ## Main Area
 
-* Lasers are turned off, computers can stay on.
-* Ladies Toilets light is off. Mens toilet light will turn off automatically.
+* 🏘️ Lasers are turned off, computers can stay on.
+* 🏘️ Ladies Toilets light is off. Mens toilet light will turn off automatically.
 * Lights above the central table are switched off (powerpoint outside Design Lab door).
-* Lights under the pallet racking are off (Paddle switch above the power board tub or the "Display Lights" button on the kiosk)
+* 🏘️ Lights under the pallet racking are off (Paddle switch above the power board tub)
 * Band room door is locked
 
 ## Electronics Lab
@@ -61,6 +64,4 @@ Recent changes:
 ## Final
 
 * Turn off overhead lights using the block of 3 switches next to the door.
-* If you haven’t already, check the machine room, as its lights cannot be seen from outside.
-* Check all the lights are off (excluding the bar, foyer, and electronics lab robot). Only the First-Aid box and the Exit signs should be emitting light.
 * Firmly close the front door behind you and make sure it is locked.

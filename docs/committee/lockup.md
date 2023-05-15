@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-05-10T11:03:18.858Z
+date: 2023-05-15T15:13:07.601Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -16,6 +16,7 @@ Things marked with 🏘️ can also be turned off via the kiosk in the foyer.
 
 Recent changes:
 
+* Electronics bench is on the kiosk
 * Women's toilet lights are on the kiosk
 * Design Lab lights are on the kiosk
 * Pallet rack lights are fixed and are available on the kiosk
@@ -30,12 +31,13 @@ Recent changes:
 
 * Roller door to backyard is down, controller is to the right of the door. (No need to manually lock)
 * Door to the left of bar is locked and bolted
-* Outdoor power points (smaller switches) to left of roller door to be turned off.
+* Outdoor power points (smaller switches) to left of roller door are turned off.
 * 🏘️ Shed power comes from machine room. (No need to lock shed)
 * 🏘️ Turn the courtyard lights off with the silver button below the roller door controls
+
 ## Machine Room
 
-* 🏘️ Press the silver button just inside the door OR the machine room button on the foyer kiosk
+* 🏘️ Press the silver button just inside the door
 
 ## Design Lab
 
@@ -54,8 +56,8 @@ Recent changes:
 
 ## Electronics Lab
 
-* Turn off bench power using the switches on the wall behind the bench.
-* Turn off room light.
+* 🏘️ Turn off bench power using both sides of the power control switch on the red control panel
+* 🏘️ Turn off room light.
 
 ## Front
 

@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-06-04T09:11:59.582Z
+date: 2023-06-04T09:13:57.640Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -12,7 +12,9 @@ dateCreated: 2022-10-17T16:47:01.779Z
 
 Following these steps is part of your [responsibilities as a keyholder.](/docs/committee/keyholder_responsibilities) If you cannot close up please contact the committee via [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y) on [Slack](https://perart.io/slack).
 
-Things marked with 🏘️ can also be turned off via the kiosk in the foyer.
+> Things marked with 🏘️ can also be turned off via the kiosk in the foyer.<br>In particular the "Leaving" button at the top will turn everything off and start a timer for the carpark lights to give you time to leave.
+{.is-info}
+
 
 Recent changes:
 
@@ -66,5 +68,6 @@ Recent changes:
 
 ## Final
 
+* Turn off the carpark lights using the silver button to the left of the door.
 * Turn off overhead lights using the block of 3 switches next to the door.
 * Close the front door behind you and make sure it locked.

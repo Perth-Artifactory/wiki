@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-06-04T08:36:43.730Z
+date: 2023-06-04T09:11:59.582Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -67,4 +67,4 @@ Recent changes:
 ## Final
 
 * Turn off overhead lights using the block of 3 switches next to the door.
-* Firmly close the front door behind you and make sure it is locked.
+* Close the front door behind you and make sure it locked.

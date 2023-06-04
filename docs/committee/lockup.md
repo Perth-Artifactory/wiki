@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-05-15T15:13:07.601Z
+date: 2023-06-04T08:36:43.730Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -16,6 +16,7 @@ Things marked with 🏘️ can also be turned off via the kiosk in the foyer.
 
 Recent changes:
 
+* Social area lights have been replaced and are now on the kiosk
 * Electronics bench is on the kiosk
 * Women's toilet lights are on the kiosk
 * Design Lab lights are on the kiosk
@@ -50,7 +51,7 @@ Recent changes:
 
 * 🏘️ Lasers are turned off, computers can stay on.
 * 🏘️ Ladies Toilets light is off. Mens toilet light will turn off automatically.
-* Lights above the central table are switched off (powerpoint outside Design Lab door).
+* 🏘️ Light above the social table is switched off (white button next to phone charger on table)
 * 🏘️ Lights under the pallet racking are off (Paddle switch above the power board tub)
 * Band room door is locked
 

@@ -2,7 +2,7 @@
 title: Space Control
 description: Relays and buttons oh my!
 published: true
-date: 2023-06-04T08:39:43.789Z
+date: 2023-06-04T08:43:42.166Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-01T15:54:50.097Z
@@ -32,8 +32,9 @@ You can access the [control panel](https://control.artifactory.org.au) when conn
 | Bar                     | **Turns on** when a google calendar event starts<br>**Turns off** when the event ends | Home Assistant | Button on the relay behind the left side of the bar |
 | Foyer                   | **Turns on** when a google calendar event starts<br>**Turns off** when the event ends | Home Assistant | Button on the relay on the top of the wall (near the GPO) |
 | Robot (Electronics Lab) | **Turns on** when a google calendar event starts<br>**Turns off** when the event ends | Home Assistant | Button on the relay inside the body |
-| Battlestar Galactica    | Turns on with the bar |||
-| Blimp                   | N/A | Bottom left switch on the laser GPOs | N/A |
+| Battlestar Galactica    | Turns on with the bar | | |
+| Blimp                   | **Turns on** when a google calendar event starts | Home Assistant | None, Hardwired |
+| Pallet rack lighting | **Turns on** when a google calendar event starts | Home Assistant | Paddle switch above the power board tub |
 
 ## Aircon
 

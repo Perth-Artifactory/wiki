@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-06-04T09:13:57.640Z
+date: 2023-06-10T12:50:05.017Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -18,6 +18,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 Recent changes:
 
+* Rehearsal room aircon switch is no longer accessable to workshop members, use the kiosk
 * Social area lights have been replaced and are now on the kiosk
 * Electronics bench is on the kiosk
 * Women's toilet lights are on the kiosk
@@ -47,7 +48,6 @@ Recent changes:
 * 🏘️ Lights are off.
 * 3D printers are turned off unless currently printing a job.
 * Computers can stay on.
-* Turn off Aircon if on. The button is located in the far left corner of the room above the resin printing bench.
 
 ## Main Area
 
@@ -59,7 +59,7 @@ Recent changes:
 
 ## Electronics Lab
 
-* 🏘️ Turn off bench power using both sides of the power control switch on the red control panel
+* 🏘️ Turn off bench power using power control button on the red control panel
 * 🏘️ Turn off room light.
 
 ## Front
@@ -68,6 +68,6 @@ Recent changes:
 
 ## Final
 
-* Turn off the carpark lights using the silver button to the left of the door.
+* 🏘️ Turn off the carpark lights using the silver button to the left of the door.
 * Turn off overhead lights using the block of 3 switches next to the door.
 * Close the front door behind you and make sure it locked.

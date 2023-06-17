@@ -2,7 +2,7 @@
 title: Artifactory Access
 description: 
 published: true
-date: 2022-10-19T11:38:10.160Z
+date: 2023-06-17T05:28:42.169Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:47.883Z
@@ -26,10 +26,11 @@ Check the webcams to see if there is already a key holding member who has opened
 
 ### Regular Events
 
-Come down on one of our regular scheduled events (except for Noise machine and other events specifically marked in the calendar as low noise). You're welcome to attend the events but you can also just go off and do your own thing or use what you need to.
+Come down on one of our regular scheduled events. You're welcome to attend the events but you can also just go off and do your own thing or use what you need to.
 
 ### Organise with a member
 
-\*\* \* Organize access on the Mailing List\*\*
+Go to our [Slack team](https://perart.io/slack) ask if anyone will be in at the space on a particular day or time.
 
-Go to our Slack team or mailing list and ask if anyone will be in at the space on a particular day or time. Our primary real time communication method is Slack and will yield the best results.
+* Our primary real time communication method is Slack and will yield the best results.
+* The #memberavailability channel or #general channel are the best places to ask.

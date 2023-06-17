@@ -2,7 +2,7 @@
 title: Secretary
 description: 
 published: true
-date: 2023-06-17T05:16:42.668Z
+date: 2023-06-17T05:22:05.054Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T08:05:17.332Z
@@ -43,6 +43,7 @@ Legislation that we must comply with includes (but is not limited to):
   * Most of the tools to comply with our requirements under this Act are available via the AssociationsOnline web portal.
 * The *Australian Charities and Not-for-profits Commission Act 2012 (Cth)* and the *Australian Charities and Not-for-profits Commission Regulation 2023 (Cth)*, relating to our registration with the ACNC at the Commonwealth level.
   * Most of the tools to comply with our requirements under this act are available via the ACNC web portal.
+  * Generally speaking, **any time we report an event to the West Australian regulator, that same event will also need to be reported to ACNC.** (Example: Change to the rules of the Association.)
 * The *Income Tax Assessment Act 1997 (Cth)* as it relates to deductible gift recipients (DGRs) endorsed by the ATO.
 
 The Association's responsible people (including the secretary) have duties specified in each of these laws. The Association's responsible people must be aware of their duties, which may include reading the relevant legislation, or reading guidance documents from the relevant authorities.

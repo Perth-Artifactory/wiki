@@ -27,6 +27,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Constance Titterton | ❌ | ❌ | ✅ | 
 | Daniel Hart (Danny) | ❌ | ❌ | ✅ | 
 | Daniel Macnish (dan) | ❌ | ❌ | ✅ | 
+| Darren Lewis | ✅ | ❌ | ❌ | 
 | David Reeve (DSJR) | ❌ | ❌ | ✅ | 
 | David Skilton (PoshSpice) | ❌ | ❌ | ✅ | 
 | Doug Bateman (dougb) | ✅ | ❌ | ✅ | 

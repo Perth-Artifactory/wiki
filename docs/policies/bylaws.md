@@ -2,8 +2,8 @@
 title: By-laws
 description: 
 published: true
-date: 2022-11-15T12:49:39.233Z
-tags: 
+date: 2023-07-02T09:21:16.318Z
+tags: official, restricted
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
 ---

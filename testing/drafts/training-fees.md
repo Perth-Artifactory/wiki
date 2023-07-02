@@ -2,7 +2,7 @@
 title: DRAFT - Training Fees
 description: 
 published: true
-date: 2023-07-02T08:20:43.606Z
+date: 2023-07-02T08:21:00.673Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-02T08:19:59.401Z
@@ -23,3 +23,4 @@ The following tool and equipment training attracts additional *training fees* to
 | Laser Cutter - initial training ("first session") | $0 | Day Pass Rate + $15 |
 | Laser Cutter - competency assessment ("second session") | $0 | Day Pass Rate |
 | Metal mill (turret mill) | $0 | Day Pass Rate |
+| Metal lathe | $0 | Day Pass Rate |

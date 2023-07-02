@@ -2,7 +2,7 @@
 title: Chairperson
 description: 
 published: true
-date: 2022-10-19T11:38:25.722Z
+date: 2023-07-02T09:25:42.543Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T08:03:16.952Z
@@ -10,6 +10,7 @@ dateCreated: 2022-10-19T08:03:16.952Z
 
 ## Chairperson
 
-Responsibilities of the Chairperson is set out in constitution + by-laws
+The duties of the chairperson are defined in:
 
-      * [[https://wiki.artifactory.org.au/doku.php?id=constitution#chairperson|Section 29]]
+* The [constitution](/constitution) - particularly s29.
+* The [by-laws](/docs/policies/bylaws).

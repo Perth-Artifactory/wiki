@@ -2,10 +2,10 @@
 title: Equipment Loan Agreement
 description: 
 published: true
-date: 2022-11-25T11:34:46.495Z
-tags: 
+date: 2023-07-02T09:22:01.525Z
+tags: official, restricted
 editor: markdown
-dateCreated: 2022-11-25T10:29:06.972Z
+dateCreated: 2022-12-01T03:40:13.647Z
 ---
 
 # Equipment loan agreement

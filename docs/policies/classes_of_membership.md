@@ -1,11 +1,11 @@
 ---
 title: Classes of membership
-description:
+description: 
 published: true
-date: 2022-10-24T17:32:29.000Z
-tags:
+date: 2023-07-02T09:21:39.457Z
+tags: official, restricted
 editor: markdown
-dateCreated: 2022-10-24T17:32:29.000Z
+dateCreated: 2022-10-27T14:21:21.933Z
 ---
 
 # Classes of membership

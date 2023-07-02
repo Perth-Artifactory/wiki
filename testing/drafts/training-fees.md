@@ -2,7 +2,7 @@
 title: DRAFT - Training Fees
 description: 
 published: true
-date: 2023-07-02T08:56:40.592Z
+date: 2023-07-02T08:59:00.817Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-02T08:19:59.401Z
@@ -13,7 +13,7 @@ dateCreated: 2023-07-02T08:19:59.401Z
 The following tool and equipment training attracts *training fees* to cover the cost of volunteer time.
 
 - Training is free for [members](/docs/policies/classes_of_membership).
-- Training for non-members costs the Day Pass Rate (to cover general use of the space), plus the specific training fee below.
+- Training for non-members costs the Day Pass Rate (to cover general use of the space), plus the specific training fee (if any) listed below.
 - If you join up as a member, we will refund the training fee below, for any training sessions you have completed in the previous 7 days.
 
 | Tool | Training fee - non member |

@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-01-08T10:58:59.043Z
+date: 2023-07-02T09:07:15.355Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -77,11 +77,19 @@ We may, at any time, inspect anything you have stored on the Association's premi
 
 ## Member storage entitlements
 
-Members are entitled to ---
+~~Members are entitled to ---~~
 
-* Storage in their own **individual member storage space**, subject to availability; and
+* ~~Storage in their own **individual member storage space**, subject to availability; and~~
+* ~~Store material on the **material racks**; and~~
+* ~~Temporary storage in general workspaces - see **workspace usage**.~~
+
+
+Members whose [class of membership](/docs/policies/classes_of_membership) includes storage entitlements are allowed to:
+
+* Store their property in their own **individual member storage space**, subject to availability; and
 * Store material on the **material racks**; and
-* Temporary storage in general workspaces - see **workspace usage**.
+* Temporarily store their property in general workspaces - see **workspace usage**.
+
 
 > Fletcher: Not all members (bands etc) are entitled to storage. "Members may be entitled to"?
 {.is-info}
@@ -164,7 +172,11 @@ If you need to leave a project in the work space ---
 * Your property may occupy up to one trestle table's worth of work space.
 * Your property must be left in a safe and movable state, in case your property needs to be moved for a scheduled event.
 
+> Scanning your RFID key on the kiosk, in the foyer, will print a "Storage Auth" ticket with your details already filled in.
+{.is-info}
 
+> Insert picture of a storage auth ticket
+{.is-info}
 
 ## Additional storage
 

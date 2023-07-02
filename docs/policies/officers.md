@@ -2,8 +2,8 @@
 title: Officers
 description: 
 published: true
-date: 2023-07-02T09:22:51.824Z
-tags: official, restricted
+date: 2023-07-02T09:28:45.931Z
+tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:39.410Z
 ---

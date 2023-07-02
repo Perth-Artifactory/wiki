@@ -2,7 +2,7 @@
 title: Subcommittees
 description: 
 published: true
-date: 2023-07-02T09:18:06.176Z
+date: 2023-07-02T09:18:59.040Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-27T14:21:57.686Z
@@ -19,7 +19,7 @@ This is the [by-law](/docs/policies/bylaws) governing subcommittees.
 
 By-laws are made by the committee, as allowed for rule 65 of the [Constitution](/constitution) regarding *By-laws*.
 
-Also refer to additional [guidance for subcommittees](/testing/drafts/subcommittee_guidance).
+Also refer to additional [guidance for subcommittees](/docs/policies/subcommittee_guidance).
 
 ## Background (informative)
 

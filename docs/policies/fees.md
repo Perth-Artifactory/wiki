@@ -2,8 +2,8 @@
 title: Fees
 description: 
 published: true
-date: 2023-01-08T19:56:55.011Z
-tags: 
+date: 2023-07-02T09:22:25.833Z
+tags: official, restricted
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
 ---

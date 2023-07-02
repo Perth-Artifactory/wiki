@@ -2,13 +2,13 @@
 title: Guidance for subcommittees
 description: 
 published: true
-date: 2023-01-08T05:54:38.680Z
+date: 2023-07-02T09:18:38.615Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T05:52:26.820Z
 ---
 
-# DRAFT - Guidance for subcommittees
+# Guidance for subcommittees
 
 This page gives guidance for how subcommittees should be run.
 

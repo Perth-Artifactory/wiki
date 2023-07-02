@@ -2,8 +2,8 @@
 title: Guidance for subcommittees
 description: 
 published: true
-date: 2023-07-02T09:18:38.615Z
-tags: 
+date: 2023-07-02T09:20:24.205Z
+tags: official, restricted
 editor: markdown
 dateCreated: 2023-01-08T05:52:26.820Z
 ---

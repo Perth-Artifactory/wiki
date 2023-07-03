@@ -2,7 +2,7 @@
 title: Sewing Machine
 description: 
 published: true
-date: 2022-10-19T12:50:26.488Z
+date: 2023-07-03T10:35:12.272Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T17:01:55.332Z
@@ -10,6 +10,6 @@ dateCreated: 2022-10-17T17:01:55.332Z
 
 # Sewing Machine
 
-Elderly Elna machine with shoe box of random things.
+Brother JS1410 Portable Free Arm Sewing Machine.
 
-29-Aug-2014: Elena has borrowed (for GSPA costume creation assistance :)
+![brother-js1410-sewing-machine.jpg](/tools/brother-js1410-sewing-machine.jpg)

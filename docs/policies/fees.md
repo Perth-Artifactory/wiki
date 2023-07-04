@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2023-07-02T09:28:24.594Z
+date: 2023-07-04T09:27:29.814Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -10,15 +10,33 @@ dateCreated: 2022-10-27T14:21:30.717Z
 
 This page lists [by-laws](/docs/policies/bylaws) relating to fees, other than membership fees.
 
+This includes:
+
+* Workshop Usage Fees (including the Day Pass Rate)
+* Rehearsal Room Usage Fees
+* Training Fees
+* Tool Usage Fees
+* Laser Cutting Job Fee
+
 Membership fees are listed under [Classes of membership](/docs/policies/classes_of_membership).
+
+----
 
 By-laws are made by the committee, as allowed for by the [Constitution](/constitution), §65 *By-laws*.
 
 In these by-laws, unless the contrary intention appears, all terms are as defined as in the Constitution, §1 *Definitions*.
 
-------------------------------------------------------------------------
+----
 
-This page was endorsed by online vote recorded at the committee meeting held 2022-11-26.
+> History:
+>
+> - A new version of this page was endorsed by online vote recorded at the committee meeting held [2022-11-26](/minutes/Committee/2022-11-26).
+>
+> - *Training fees* were endorsed by the committee by online vote on 2023-07-04 with immediate effect, as recorded at the committee meeting of [2023-07-22](/minutes/Committee/2023-07-22).
+>
+> - *Laser cutting job fees* were endorsed by the committee on 2023-07-04 with immediate effect, as recorded at the committee meeting of [2023-07-22](/minutes/Committee/2023-07-22).
+{.is-info}
+
 
 ------------------------------------------------------------------------
 
@@ -87,6 +105,27 @@ Payment method:
 See [Rehearsal Room - Casual Usage](/docs/policies/bylaws) for further details regarding casual usage.
 
 See [Classes of membership](/docs/policies/classes_of_membership) for further details on entitlements included with Band Membership.
+
+
+------------------------------------------------------------------------
+
+## Training Fees
+
+The following tool and equipment training attracts *training fees* to cover the cost of volunteer time.
+
+- Training is free for [members](/docs/policies/classes_of_membership).
+- Training for non-members costs the Day Pass Rate (to cover general use of the space), plus the specific training fee (if any) listed below.
+- If you join up as a member, we will refund the training fee below, for any training sessions you have completed in the previous 7 days.
+
+| Tool | Training fee - non member |
+| ---- | ---- | ---- |
+| Resin 3D printer | $15 |
+| FDM 3D printer | $15 |
+| CNC Router | $15 |
+| Laser Cutter - initial training ("first session") | $15 |
+| Laser Cutter - competency assessment ("second session") | No additional fee |
+| Metal mill (turret mill) | No additional fee |
+| Metal lathe | No additional fee |
 
 ------------------------------------------------------------------------
 
@@ -281,3 +320,21 @@ Exclusions
 
 Payment method
 * Bank transfer, referencing "WELDING" followed by your surname. (???)
+
+----
+
+## Laser cutting job fees
+
+
+If you only need to use the laser cutters for one job, the easiest way may be to ask one of our volunteers to set up and cut the job for you.
+
+The fee for this service is -
+
+* Day Pass Rate + operator time @ $5.00 per 10 minutes, rounded up to the nearest $5.
+* Operator time includes both -
+  * The time that the operator spends setting up your job, and
+  * The time that the machine spends cutting your job, which the operator must supervise at all times.
+
+This fee does not include the supply of material.
+- Only certain types of material are compatible with the laser cutters - check the [laser materials](/tools/lasers/materials) page or ask us beforehand.
+- Some materials may be available to purchase on the day - ask us beforehand.

@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-10T19:28:01.986Z
+date: 2023-07-10T19:28:27.910Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -63,7 +63,7 @@ House rules - introduce the [Code of Conduct](https://artifactory.org.au/pages/c
 
 # Lobby
 
-:scroll: Door - **access to the space** - events, keyholders, RFID keys, key bonds.
+:scroll: Door - **access to the space** - events, keyholders, RFID keys, criteria to get a key, key bonds.
 
 Kiosk - **demonstrate**.
 

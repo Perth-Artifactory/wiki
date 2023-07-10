@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-10T19:28:27.910Z
+date: 2023-07-10T19:29:47.613Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -254,22 +254,9 @@ Events - **calendar** on website - alternately Facebook / Meetup events
 **Reinforce** - upcoming events
 
 
-----
+---
 
-> Below is a work in progress
-
-
-:dollar: :warning: :passport_control: :innocent: :scroll: :mag:
-
-
-# Support the artifactory
-Become a member
-Run events / workshops / classes
-Share expertise and experience
-Volunteer
-Help the committee
-General cleaning – take out the bins – put tools away – reset the space to a little better than you found it.
-
+> Where does the stuff below go?
 
 # Bylaws
 No storing stuff in the carpark.
@@ -277,23 +264,8 @@ No storing stuff in the carpark.
 Don’t take pictures of people or things without asking them first
 We can take photos of things
 
-# Communication / membership
-Slack
-Google calendar (canonical)
-Social media (meetup, facebook events)
-TOUR Sponsored student membership
-TOUR Membership information
-24x7 key and bond
-
-
-
 
 NOTE TO SELF – Adopt equipment loan bylaw
-
-
-
-
-:dollar: :warning: :passport_control: :innocent: :scroll: :mag:
 
 
 

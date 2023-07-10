@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-10T19:01:08.749Z
+date: 2023-07-10T19:28:01.986Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -46,9 +46,11 @@ This induction should take about 30 minutes and can be performed with multiple p
 
 :innocent: Welcome the person! Ask about their interests.
 
-:innocent: The Artifactory is a volunteer, not-for-profit org. **We have no paid employees.**
-
 :innocent: Communal makerspace ethos.
+* The Artifactory is a volunteer, not-for-profit org. **We have no paid employees.**
+* Shared communal materials - give and take - if it's run out, restock it.
+* Get training and help - train and help others - where you can.
+* Everyone helps - everyone cleans up.
 
 House rules - introduce the [Code of Conduct](https://artifactory.org.au/pages/code_of_conduct) (**point** at the copy displayed in the foyer.) **Four main items.**
 
@@ -61,7 +63,7 @@ House rules - introduce the [Code of Conduct](https://artifactory.org.au/pages/c
 
 # Lobby
 
-:scroll: Door - **access to the space** - events, keyholders, RFID keys.
+:scroll: Door - **access to the space** - events, keyholders, RFID keys, key bonds.
 
 Kiosk - **demonstrate**.
 
@@ -77,7 +79,7 @@ Emergency procedures
 
 :innocent: **Arduino U**
 
-:scroll: Components, supplies, consumables - **communal** - give and take - if it's run out, restock it
+Components, supplies, consumables - **communal**
 
 :passport_control: Power supplies - high power - fire hazard :fire:
 
@@ -243,8 +245,13 @@ In here:
 * :warning: Metal lathe. **Training** via #tools-and-fabrication.
 * :warning: Metal mill. **Training** via #tools-and-fabrication. Point at **fees** sign.
 
+# Final things
 
+Slack - "it's business Discord" - **show** them the signup link - **reinforce** this is where they ask for training, advice, etc.
 
+Events - **calendar** on website - alternately Facebook / Meetup events
+
+**Reinforce** - upcoming events
 
 
 ----
@@ -264,14 +271,6 @@ Help the committee
 General cleaning – take out the bins – put tools away – reset the space to a little better than you found it.
 
 
-
-
-
-# Machine tools
-Mill and lathe – tool induction 
-
-
-
 # Bylaws
 No storing stuff in the carpark.
 ^ Vehicles must be drivable at the end of the day.
@@ -285,8 +284,7 @@ Social media (meetup, facebook events)
 TOUR Sponsored student membership
 TOUR Membership information
 24x7 key and bond
-Upcoming social events
-Upcoming workshops
+
 
 
 

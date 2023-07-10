@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-10T19:29:47.613Z
+date: 2023-07-10T19:31:00.195Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -231,7 +231,7 @@ Help clean up - empty bins - put things away. **Leave the space better than when
 :innocent: Metal Monday event
 
 In here:
-* Welding/metalworking PPE
+* Welding PPE
 * :passport_control: Angle grinders
 * :passport_control: Friction saw
 * :passport_control: Metal bandsaw
@@ -243,7 +243,7 @@ In here:
 
 In here:
 * :warning: Metal lathe. **Training** via #tools-and-fabrication.
-* :warning: Metal mill. **Training** via #tools-and-fabrication. Point at **fees** sign.
+* :warning: :dollar: Metal mill. **Training** via #tools-and-fabrication. Point at **fees** sign.
 
 # Final things
 

@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-06-10T12:50:05.017Z
+date: 2023-07-11T15:19:30.346Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -18,6 +18,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 Recent changes:
 
+* Workshop lights are on the kiosk
 * Rehearsal room aircon switch is no longer accessable to workshop members, use the kiosk
 * Social area lights have been replaced and are now on the kiosk
 * Electronics bench is on the kiosk
@@ -65,9 +66,10 @@ Recent changes:
 ## Front
 
 * Ensure roller door to car park is down and bolted. Check that the roller door stays down when pulling chain in either direction.
+* Turn off welding bay - GPO above bench
 
 ## Final
 
 * 🏘️ Turn off the carpark lights using the silver button to the left of the door.
-* Turn off overhead lights using the block of 3 switches next to the door.
+* 🏘️ Turn off overhead lights using the block of 3 switches next to the door.
 * Close the front door behind you and make sure it locked.

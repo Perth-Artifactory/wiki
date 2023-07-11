@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T14:54:07.309Z
+date: 2023-07-11T15:04:41.265Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -62,8 +62,8 @@ House rules - introduce the [Code of Conduct](https://artifactory.org.au/pages/c
 * Complaints and reporting - maintenance issues, safety incidents/near misses, issues with other members. *Report small things before they become big things.*
 
 > TODO: Display a copy of the Code of Conduct in the foyer.
-
 > Beau: Please ensure the format of the displayed CoC adheres to the renovated standard of the foyer.
+
 # Lobby
 
 :scroll: Door - **access to the space** - events, keyholders, RFID keys, criteria to get a key, key bonds.
@@ -163,6 +163,7 @@ Air compressor, location of pneumatic tools, blow gun safety (don't point at peo
 
 >Aircompressor and air tools. General safety regarding air blowing gun(don't point at self or others.
 >Fletcher: Added
+{.is-success}
 
 # Lasers
 
@@ -182,6 +183,7 @@ Messy tools - use outside!
 
 >Sandblaster?
 >Fletcher: Added
+{.is-success}
 
 # Hand tool rack
 
@@ -229,7 +231,7 @@ Big area to do stuff.
 
 Consider others - do messy, dirty, chemical things **outside**.
 
-Hack rack and upcycle rack - **Communal** spare parts and materials. Give and take.
+Hack rack - **Communal** spare parts and materials. Give and take.
 
 Member storage - **for members**
 * :scroll: [Member storage](/docs/policies/storage#member-storage) - pallet racking, lockers, material racks
@@ -237,15 +239,26 @@ Member storage - **for members**
 
 Leave the space suitable for scheduled events.
 
-Roller door - open and close - **demonstrate**.
-
 >Beau: Move rollerdoor, upcycle rack to seperate section. add in car tools. bring up car in working order, cannot be left overnight here. competency to be shown for car ramps, must be operated with min 2 people due to slippage. cars not to be left running in space.
+> Fletcher: We don't currently have a name for the area in front of the roller door except for the welding bay. "Car bay"? Moved to new section regardless.
+{.is-success}
 
 > Help word the above re schedule events. Cite a policy?
 
-> Fletcher: We don't currently have a name for the area in front of the roller door except for the welding bay. "Car bay"?
-
 Help clean up - empty bins - put things away. **Leave the space better than when you started.**
+
+# \[as yet unnamed car place]
+
+Roller door - open and close - **demonstrate**.
+
+Upcycle bench - Donated items that are free for use. Please don't donate junk.
+
+Car stuff
+* Jack
+* :passport_control: Ramps - **Need a person at each ramp due to slippage
+* Creeper
+* Do not leave car running in the workshop
+* Car must be drivable at the end of the day and cannot be left overnight
 
 # Welding bay
 
@@ -262,6 +275,7 @@ In here:
 
 >training for melting furnace to be asked for in #fire-and-forge
 >Fletcher: Channel updated
+{.is-success}
 
 # Machine tools
 
@@ -277,14 +291,13 @@ Events - **calendar** on website - alternately Facebook / Meetup events
 
 **Reinforce** - upcoming events
 
-
 ---
 
 > Where does the stuff below go?
 
 # Bylaws
 No storing stuff in the carpark.
-^ Vehicles must be drivable at the end of the day.
+~~ Vehicles must be drivable at the end of the day.~~ addressed above
 Don’t take pictures of people or things without asking them first
 We can take photos of things
 

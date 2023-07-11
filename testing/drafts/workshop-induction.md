@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T14:43:14.827Z
+date: 2023-07-11T14:49:13.649Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -239,6 +239,8 @@ Roller door - open and close - **demonstrate**.
 >Beau: Move rollerdoor, upcycle rack to seperate section. add in car tools. bring up car in working order, cannot be left overnight here. competency to be shown for car ramps, must be operated with min 2 people due to slippage. cars not to be left running in space.
 
 > Help word the above re schedule events. Cite a policy?
+
+> Fletcher: We don't currently have a name for the area in front of the roller door except for the welding bay. "Car bay"?
 
 Help clean up - empty bins - put things away. **Leave the space better than when you started.**
 

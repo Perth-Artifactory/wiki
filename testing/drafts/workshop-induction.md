@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T11:10:17.161Z
+date: 2023-07-11T11:13:09.770Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -192,6 +192,8 @@ In here:
 * :passport_control: Hydraulic press - work can explode
 * :passport_control: Mitre saw
 * Power tools -
+* :warning: Track saw
+* :passport_control: Festool Router
   * Point at sign re what power tools require training.
   * Orbital sander, battery drill, impact driver, multitool, hot glue gun - anyone can use.
   * :passport_control: All other power tools.

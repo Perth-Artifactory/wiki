@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T11:13:09.770Z
+date: 2023-07-11T11:18:30.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -233,6 +233,8 @@ Leave the space suitable for scheduled events.
 
 Roller door - open and close - **demonstrate**.
 
+>Beau: Move rollerdoor, upcycle rack to seperate section. add in car tools. bring up car in working order, cannot be left overnight here. competency to be shown for car ramps, must be operated with min 2 people due to slippage. cars not to be left running in space.
+
 > Help word the above re schedule events. Cite a policy?
 
 Help clean up - empty bins - put things away. **Leave the space better than when you started.**
@@ -249,6 +251,8 @@ In here:
 * :passport_control: Plasma cutters
 * :passport_control: :dollar: Welding equipment. Point at **fees** sign.
 * :warning: Metal melting furnace. **Training** via #tools-and-fabrication.
+
+>training for melting furnace to be asked for in #fire-and-forge
 
 # Machine tools
 

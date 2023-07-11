@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T11:09:40.689Z
+date: 2023-07-11T11:10:17.161Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z

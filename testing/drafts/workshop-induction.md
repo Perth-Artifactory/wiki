@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T10:59:23.962Z
+date: 2023-07-11T11:09:40.689Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -92,6 +92,8 @@ Components, supplies, consumables - **communal**
 
 :innocent: Relevant? (or skip it)
 
+>Beau: Include it, it's a tool to be used, looks nice.
+
 :scroll: Access, band membership, booking system.
 
 :dollar: Usage fee.
@@ -156,6 +158,8 @@ Outside sink
 
 Tool shed - spray paint storage, drying oven
 
+>Aircompressor and air tools. General safety regarding air blowing gun(don't point at self or others.
+
 # Lasers
 
 :warning: :dollar: Organise **training** via #lasers on Slack. Point at **fees** on sign.
@@ -170,6 +174,8 @@ Messy tools - use outside!
 * :passport_control: Table saw
 * :passport_control: Router table
 * :passport_control: Planer / thicknesser
+
+>Sandblaster?
 
 # Hand tool rack
 

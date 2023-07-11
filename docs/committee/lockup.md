@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-07-11T15:19:30.346Z
+date: 2023-07-11T15:57:43.798Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -14,23 +14,6 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 > Things marked with 🏘️ can also be turned off via the kiosk in the foyer.<br>In particular the "Leaving" button at the top will turn everything off and start a timer for the carpark lights to give you time to leave.
 {.is-info}
-
-
-Recent changes:
-
-* Workshop lights are on the kiosk
-* Rehearsal room aircon switch is no longer accessable to workshop members, use the kiosk
-* Social area lights have been replaced and are now on the kiosk
-* Electronics bench is on the kiosk
-* Women's toilet lights are on the kiosk
-* Design Lab lights are on the kiosk
-* Pallet rack lights are fixed and are available on the kiosk
-* Courtyard lights are now available on the kiosk
-* Lights above the lasers are now turned on using the same switches as the ceiling lights
-* Machine room and mill/lathe can now be turned off via the foyer kiosk
-* Electronics lab robot lights, bar lights, and foyer lights are automatic based on scheduled events and don't need to be manually turned off
-* Band room aircon is automated and doesn't need to be turned off manually. If it's on and no one is there it's because there's an upcoming room booking.
-* 3 phase compressor no longer exists
 
 ## Outdoor Area
 
@@ -73,3 +56,13 @@ Recent changes:
 * 🏘️ Turn off the carpark lights using the silver button to the left of the door.
 * 🏘️ Turn off overhead lights using the block of 3 switches next to the door.
 * Close the front door behind you and make sure it locked.
+
+# Recent changes
+
+* The following lights can now be controlled via the kiosk: Courtyard, Pallet Rack, Design Lab, Women's Toilet, Social Area, Electronics lab
+* Rehearsal room aircon switch is no longer accessable to workshop members, use the kiosk
+* Electronics bench is on the kiosk
+* Lights above the lasers are now turned on using the same switches as the ceiling lights
+* Machine room and mill/lathe can now be turned off via the foyer kiosk
+* Electronics lab robot lights, bar lights, and foyer lights are automatic based on scheduled events and don't need to be manually turned off
+* 3 phase compressor no longer exists

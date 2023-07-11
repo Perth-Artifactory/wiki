@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T15:04:41.265Z
+date: 2023-07-11T15:05:36.368Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -297,7 +297,7 @@ Events - **calendar** on website - alternately Facebook / Meetup events
 
 # Bylaws
 No storing stuff in the carpark.
-~~ Vehicles must be drivable at the end of the day.~~ addressed above
+~~Vehicles must be drivable at the end of the day.~~ addressed above
 Don’t take pictures of people or things without asking them first
 We can take photos of things
 

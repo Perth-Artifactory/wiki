@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T14:49:13.649Z
+date: 2023-07-11T14:54:07.309Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -159,7 +159,10 @@ Outside sink
 
 Tool shed - spray paint storage, drying oven
 
+Air compressor, location of pneumatic tools, blow gun safety (don't point at people)
+
 >Aircompressor and air tools. General safety regarding air blowing gun(don't point at self or others.
+>Fletcher: Added
 
 # Lasers
 
@@ -287,8 +290,3 @@ We can take photos of things
 
 
 NOTE TO SELF – Adopt equipment loan bylaw
-
-
-
-
-

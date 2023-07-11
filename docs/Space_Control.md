@@ -2,7 +2,7 @@
 title: Space Control
 description: Relays and buttons oh my!
 published: true
-date: 2023-06-04T08:43:42.166Z
+date: 2023-07-11T15:21:04.989Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-01T15:54:50.097Z
@@ -24,6 +24,7 @@ You can access the [control panel](https://control.artifactory.org.au) when conn
 | Mill / Lathe | None | Silver button on the side of the mill wall/shield or via Home Assistant | None (silver button has no external requirements) |
 | Machine room | Front and back switches will both toggle the entire room. Switch will turn on automatically when door is opened. | Silver buttons next to the door or behind bandsaw. Alternatively via Home Assistant | None (silver buttons has no external requirements) |
 | Social area light | Turns on with scheduled event | White button on social table next to phone charger | None, hardwired |
+| Workshop lights | Turns on after a key is scanned on the front door | Light switch on side of switchboard inside front door | None (light switch has no external requirements)
 
 ## Decorations
 

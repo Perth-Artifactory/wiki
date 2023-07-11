@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-10T19:31:00.195Z
+date: 2023-07-11T10:55:48.098Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -61,6 +61,7 @@ House rules - introduce the [Code of Conduct](https://artifactory.org.au/pages/c
 
 > TODO: Display a copy of the Code of Conduct in the foyer.
 
+> Beau: Please ensure the format adheres to the renovated standard of the foyer.
 # Lobby
 
 :scroll: Door - **access to the space** - events, keyholders, RFID keys, criteria to get a key, key bonds.

@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T11:18:30.489Z
+date: 2023-07-11T14:43:14.827Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -93,6 +93,7 @@ Components, supplies, consumables - **communal**
 :innocent: Relevant? (or skip it)
 
 >Beau: Include it, it's a tool to be used, looks nice.
+>Fletcher: The level of detail should be tailored to the individual. Eg, someone with no interest in music doesn't care about the existance (or lack thereof) of a backline.
 
 :scroll: Access, band membership, booking system.
 
@@ -174,8 +175,10 @@ Messy tools - use outside!
 * :passport_control: Table saw
 * :passport_control: Router table
 * :passport_control: Planer / thicknesser
+* :passport_control: Sandblaster
 
 >Sandblaster?
+>Fletcher: Added
 
 # Hand tool rack
 
@@ -250,9 +253,10 @@ In here:
 * :passport_control: Metal bandsaw
 * :passport_control: Plasma cutters
 * :passport_control: :dollar: Welding equipment. Point at **fees** sign.
-* :warning: Metal melting furnace. **Training** via #tools-and-fabrication.
+* :warning: Metal melting furnace. **Training** via #fire-and-forge.
 
 >training for melting furnace to be asked for in #fire-and-forge
+>Fletcher: Channel updated
 
 # Machine tools
 

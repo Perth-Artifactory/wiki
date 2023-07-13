@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-13T03:18:28.810Z
+date: 2023-07-13T03:21:39.216Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -148,6 +148,8 @@ Emergency procedures (since the first aid kit is here)
 * First aid kit
 * First aiders in the space
 * Defib (outside front
+
+>Ren: should we compile a list of first aiders?
 
 # Rear courtyard
 

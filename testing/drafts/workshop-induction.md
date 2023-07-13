@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-13T03:16:31.745Z
+date: 2023-07-13T03:18:28.810Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -277,7 +277,7 @@ In here:
 >Fletcher: Channel updated
 {.is-success}
 
-27Ren: welding fees onltly for gas, not stick
+>Ren: welding fees only for gas, not stick. clarify sign
 
 # Machine tools
 

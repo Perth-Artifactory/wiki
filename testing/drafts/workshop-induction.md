@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-11T15:05:36.368Z
+date: 2023-07-13T03:16:31.745Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -276,6 +276,8 @@ In here:
 >training for melting furnace to be asked for in #fire-and-forge
 >Fletcher: Channel updated
 {.is-success}
+
+27Ren: welding fees onltly for gas, not stick
 
 # Machine tools
 

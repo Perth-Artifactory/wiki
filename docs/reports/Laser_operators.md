@@ -21,8 +21,10 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ashleigh Williams | ✅ | ❌ | ✅ | 
 | Ben Harris | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ✅ | 
+| Ben Moore (Ben) | ✅ | ❌ | ❌ | 
 | Blake Samuels (Blake) | ✅ | ✅ | ✅ | 
 | Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ✅ | 
+| Callum Smith (Clam) | ✅ | ✅ | ❌ | 
 | Claude Woodward | ✅ | ❌ | ✅ | 
 | Constance Titterton | ❌ | ❌ | ✅ | 
 | Daniel Hart (Danny) | ❌ | ❌ | ✅ | 
@@ -102,6 +104,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Stuart Mcdonald (STU) | ✅ | ✅ | ✅ | 
 | Stuart Mclay (Stu) | ❌ | ❌ | ✅ | 
 | Sylvain Esclapez (Sy) | ❌ | ❌ | ✅ | 
+| Tegan Murphy | ✅ | ❌ | ❌ | 
 | Terry Christou | ❌ | ❌ | ✅ | 
 | Thomas White | ✅ | ✅ | ❌ | 
 | Travis Bullock | ❌ | ❌ | ✅ | 

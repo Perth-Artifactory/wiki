@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-01-16T23:36:37.267Z
+date: 2023-07-16T10:38:48.542Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -75,7 +75,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 > Some thinking needed here.
 > * Eligibility criteria - do all members of the band need to be over 18?
 > * Use of workshop ("use of artifactory tools is encouraged...") - does this include after hours (since they hold a 24/7 key)? Does it include the entire band (with the band's keyholder discharging the keyholder responsibilities?) or just the band member who is the keyholder?
-> 
+> Reword "charged at day pass rates" to clarify what this means. I think Tool use should just be excluded from the class of membership as the entity is the band, not the multiple individuals.
 
 | ---- | ---- |
 | **Eligibility criteria** | Any person over 18 years of age, who represents a band. (The *nominated contact person* for the band.) |

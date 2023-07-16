@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-07-16T08:37:58.172Z
+date: 2023-07-16T10:28:31.177Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -246,7 +246,7 @@ We may dispose of property ---
 * Which remains on the Association's premises after the stated date on a *Direction to remove property*.
 * Which remains unclaimed after the period stated in the section *Lost and found*.
 * Which poses an imminent risk to safety and health, immediately after we become aware of the risk.
-
+Ren:something more general? Interferes with proper use of the space? Thinking of someone leaving something big or annoying in general area
 We may dispose of such property in any way we see fit, including (but not limited to) ---
 
 * Treating the property as a donation to the Artifactory.

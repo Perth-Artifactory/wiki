@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-07-16T10:38:48.542Z
+date: 2023-07-16T10:49:11.019Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -75,7 +75,8 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 > Some thinking needed here.
 > * Eligibility criteria - do all members of the band need to be over 18?
 > * Use of workshop ("use of artifactory tools is encouraged...") - does this include after hours (since they hold a 24/7 key)? Does it include the entire band (with the band's keyholder discharging the keyholder responsibilities?) or just the band member who is the keyholder?
-> Reword "charged at day pass rates" to clarify what this means. I think Tool use should just be excluded from the class of membership as the entity is the band, not the multiple individuals.
+> Ren: Reword "charged at day pass rates" to clarify what this means. I think Tool use should just be excluded from the class of membership as the entity is the band, not the multiple individuals.
+> Ren: 24/7 access limited to rehearsal slots only?
 
 | ---- | ---- |
 | **Eligibility criteria** | Any person over 18 years of age, who represents a band. (The *nominated contact person* for the band.) |
@@ -114,6 +115,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 > Do we want to allow students under 18? (e.g. young first-years can be as young as 16.)
 >
 > Additionally, do we want to create a (permanent) class of membership for under 16's?
+> Ren: We should require them to pay a keybond. They pose equal risk to ordinary keyholders
 
 {.is-info}
 
@@ -174,6 +176,7 @@ The Artist is expected to play at 3 Noizemaschin events (where possible).
 > Entry fees to events???
 >
 > Key bond reduced from "the same as a band membership" to $0 as part of 24/7 key amendments.
+
 
 | ---- | ---- |
 | **Eligibility criteria** | A person, over 18 years of age, recommended by Noizemaschin!!, and approved by the [Associate Memberships Panel](https://wiki.artifactory.org.au/en/docs/Associate_Memberships). |

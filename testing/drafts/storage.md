@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-07-16T08:36:33.259Z
+date: 2023-07-16T08:37:58.172Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -107,7 +107,7 @@ Members whose [class of membership](/docs/policies/classes_of_membership) includ
 - Pallet racking - bottom two shelves (four shelves total), divided into six spots per shelf.
 
 > Insert pictures.
-> Lewis: Not going to insert pictures - it's really hard to take pictures of our storage areas that look good.
+> Lewis: Not going to insert pictures - it's really hard to take pictures of our lockers and pallet racking that look good.
 {.is-info}
 
 We will assign you a single one of these storage spaces, if you request one, and if one is available. If the type of storage you request is not available, we will add you to a waiting list, on a "first come, first served" basis.
@@ -126,6 +126,9 @@ There are two racks for members to store sheet materials.
 
 > Insert pictures.
 {.is-info}
+
+> There is currently a proposal to change sheet material storage, from the "10 sheets / 100mm" rule below, to allocating each member a specific slot in the sheet racks on application.
+{.is-warning}
 
 You must clearly mark each sheet with ---
 - Your **full** name, e.g. "Jane Doe".

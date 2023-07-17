@@ -8,11 +8,12 @@ editor: markdown
 dateCreated: 2022-10-19T07:46:14.049Z
 ---
 
-#### Talk & Design
+> This page has been preserved for historical interest only and is not maintained.
+{.is-warning}
 
-![wine_n\_design.jpg](/events/wine_n_design.jpg)
+#### Wine & Design
 
-An evening of contemplating artifact and interior Design - partly with the aim of making the Space look cool, partly to develop an Artifactory Aesthetic. Bring a Bottle and some Books.
+An evening of contemplating artifact and interior Design - partly with the aim of making the Space look cool, partly to develop an Artifactory Aesthetic.
 
 A great evening to come down to see the space for the first time, or get involved with upgrading the space.
 

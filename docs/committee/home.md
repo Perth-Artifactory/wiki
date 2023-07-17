@@ -90,7 +90,7 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
 -   General
     -   General Hacking Day (Coordinator: Committee)
     -   Open Day (Coordinator: Fletcher)
-    -   Wine & Design (Coordinator: Committee)
+    -   Talkshop Wednesday (Coordinator: Committee)
 
 ## Minutes of Meetings
 

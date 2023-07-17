@@ -36,7 +36,7 @@ Note that due to the rules concerning the quorum requirements of subcommittees, 
 3.  The formal members of the Infrastructure subcommittee are to keep minutes to the extent that they allow the Management Committee to be aware of any projects which may require funding, large amounts of space, or have any other significant impact on the running of the space.
 4.  The Infrastructure subcommittee DOES NOT have a role in approving new projects unless they impact facilities managed by the Infrastructure committee (note that the main committee, other subcommittees and/or Area hosts may need to approve in some cases).
 5.  The infrastructure subcommittee does not manage any facilities.
-6.  To have regular brainstorming meetings on "Wine and Design" nights.
+6.  To have regular brainstorming meetings on "Talkshop Wednesday" nights.
 7.  To minute any brainstorming even if a quorum is not present.
 
 #### Minutes of meetings

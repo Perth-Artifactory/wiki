@@ -8,6 +8,9 @@ editor: markdown
 dateCreated: 2022-10-17T16:45:56.790Z
 ---
 
+> This page has been preserved for historical interest only and is not maintained.
+{.is-warning}
+
 ## PROSPECTUS
 
 The Artifactory Perth's communal Arts/Technology creative Making space.

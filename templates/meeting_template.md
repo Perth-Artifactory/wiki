@@ -202,7 +202,7 @@ News and discussions on events.
 ### Social
 
 * Artifrag (Coordinator: Fletcher) -
-* Wine & Design (Coordinator: Committee, Damon) -
+* Talkshop Wednesday (Coordinator: Fletcher, Renae, Phoebe) -
 
 ### Cosplay and Craft
 

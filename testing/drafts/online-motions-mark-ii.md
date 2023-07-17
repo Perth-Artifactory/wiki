@@ -2,7 +2,7 @@
 title: DRAFT - Online Motions Mk. II
 description: 
 published: true
-date: 2023-07-17T11:47:00.380Z
+date: 2023-07-17T11:47:54.278Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T11:16:59.500Z
@@ -41,7 +41,7 @@ A committee member may raise an *online motion* for consideration by the committ
 The *online platform* used for this purpose must -
 - Be approved by the chairperson of the Association; and
 - Allow all committee members to raise, view, and vote on motions; and
-- Send an email notice to each committee member's Artifactory-provided email address when a new motion is raised.
+- Send an email notice to each committee member's Artifactory-provided email address when a new motion is raised; and
 - Must keep a record of how each committee member voted on each motion, i.e. voting must not be anonymous.
 
 ### Raising and participating in online motions

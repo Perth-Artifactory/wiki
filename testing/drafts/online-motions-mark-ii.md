@@ -2,7 +2,7 @@
 title: DRAFT - Online Motions Mk. II
 description: 
 published: true
-date: 2023-07-17T11:16:59.501Z
+date: 2023-07-17T11:20:24.176Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T11:16:59.500Z
@@ -38,7 +38,8 @@ All online motions must be open for at least 72 hours.
 While an online motion is open, a committee member may participate in the vote by:
 - Voting "aye"; or
 - Voting "nay"; or
-- Recording that they wish to abstain from this particular motion.
+- Recording that they wish to abstain from this particular motion; or
+- Vetoing the motion.
 
 ### Closing and determining the results of online motions
 

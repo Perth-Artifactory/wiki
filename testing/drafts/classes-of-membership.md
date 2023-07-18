@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-07-18T02:30:13.730Z
+date: 2023-07-18T02:30:33.696Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -163,7 +163,9 @@ Description: The Ambassador is appointed by committee and required to promote th
 
 ### Associate Membership - Resident Artist - NoizeMaschin!!
 
-Description: Noizemaschin Residency - Every 3 months the Artifactory allows a Noizemaschin panel-selected Audio Artist 3 months membership, with guaranteed NM performances slots. The Artist is to build wacky things or engage with the Artifactory in some way, and demonstrate their inventions at NoizeMachin!!
+Description: Noizemaschin Residency - Every 3 months the Artifactory allows a Noizemaschin panel-selected Audio Artist 3 months membership. The Artist is to build wacky things or engage with the Artifactory in some way, and demonstrate their inventions at NoizeMachin!!
+
+The Artist is expected to play at 3 Noizemaschin events (where possible).
 
 > Changed approval authority from "committee" to "Associate Memberships Panel"
 > 

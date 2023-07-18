@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-07-18T02:30:33.696Z
+date: 2023-07-18T02:36:04.844Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -39,7 +39,7 @@ This page defines the classes of membership made by the committee, and some of t
 | **Use of the indoor and outdoor workshop areas** | Yes |
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
 | **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
-| **Entitlement to storage space** | An individual storage space (subject to availability), storage on material racks, and temporary storage in general workspaces. (Refer to the [storage by-law](https://wiki.artifactory.org.au/docs/policies/storage) for details.) |
+| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
 | **Use of rehearsal room** | No |
 | **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
@@ -59,7 +59,7 @@ This page defines the classes of membership made by the committee, and some of t
 | **Use of the indoor and outdoor workshop areas** | Yes |
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
 | **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
-| **Entitlement to storage space** | An individual storage space (subject to availability), storage on material racks, and temporary storage in general workspaces. (Refer to the [storage by-law](https://wiki.artifactory.org.au/docs/policies/storage) for details.) |
+| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
 | **Use of rehearsal room** | No |
 | **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
@@ -87,7 +87,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Use of the indoor and outdoor workshop areas** | Yes |
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
 | **Tool usage fees** | The "**day pass** rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
-| **Entitlement to storage space** | No. |
+| **Can store property at the space** | No |
 | **Use of rehearsal room** | Yes - three bookings per month. Additional bookings subject to availability. |
 | **Fees to attend Artifactory-run events and workshops** | Free entry for band members to NoizeMaschin!! events and ModularSynth building nights held on the Artifactory premises. Otherwise, the non-member rate for the event. |
 | **Eligible for 24/7 access** | A single key per band. Issue of keys is subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
@@ -130,7 +130,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Use of the indoor and outdoor workshop areas** | Yes |
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
 | **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
-| **Entitlement to storage space** | Yes. |
+| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
 | **Use of rehearsal room** | No. |
 | **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
@@ -152,7 +152,7 @@ Description: The Ambassador is appointed by committee and required to promote th
 | **Use of the indoor and outdoor workshop areas** | ??? |
 | **Use of workshop tools, equipment, computers, etc.** | ??? |
 | **Tool usage fees** | ??? |
-| **Entitlement to storage space** | ??? |
+| **Can store property at the space** | ??? |
 | **Use of rehearsal room** | ??? |
 | **Fees to attend Artifactory-run events and workshops** | ??? |
 | **Eligible for 24/7 access** | ??? |
@@ -188,7 +188,7 @@ The Artist is expected to play at 3 Noizemaschin events (where possible).
 | **Use of the indoor and outdoor workshop areas** | Yes |
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
 | **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
-| **Entitlement to storage space** | An individual storage space (subject to availability), storage on material racks, and temporary storage in general workspaces. (Refer to the [storage by-law](https://wiki.artifactory.org.au/docs/policies/storage) for details.) |
+| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
 | **Use of rehearsal room** | Yes - three bookings per month. Additional bookings subject to availability. |
 | **Fees to attend Artifactory-run events and workshops** | Free entry to NoizeMaschin!! events and ModularSynth building nights held on the Artifactory premises. Member rate for other events - which may be free or discounted, depending on the event. |
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |

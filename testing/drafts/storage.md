@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-07-16T10:32:32.996Z
+date: 2023-07-18T02:32:59.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -77,24 +77,13 @@ We may, at any time, inspect anything you have stored on the Association's premi
 
 ## Member storage entitlements
 
-~~Members are entitled to ---~~
-
-* ~~Storage in their own **individual member storage space**, subject to availability; and~~
-* ~~Store material on the **material racks**; and~~
-* ~~Temporary storage in general workspaces - see **workspace usage**.~~
-
-
 Members whose [class of membership](/docs/policies/classes_of_membership) includes storage entitlements are allowed to:
 
 * Store their property in their own **individual member storage space**, subject to availability; and
 * Store material on the **material racks**; and
 * Temporarily store their property in general workspaces - see **workspace usage**.
 
-
-> Fletcher: Not all members (bands etc) are entitled to storage. "Members may be entitled to"?
-{.is-info}
-
-
+Members who store their property at the premises must follow these storage by-laws. Members who repeatedly violate the storage by-laws may have their storage entitlements revoked.
 
 ## Individual member storage spaces
 
@@ -105,10 +94,6 @@ Members whose [class of membership](/docs/policies/classes_of_membership) includ
     - Kitchenette area.
     - Outside electronics lab.
 - Pallet racking - bottom two shelves (four shelves total), divided into six spots per shelf.
-
-> Insert pictures.
-> Lewis: Not going to insert pictures - it's really hard to take pictures of our lockers and pallet racking that look good.
-{.is-info}
 
 We will assign you a single one of these storage spaces, if you request one, and if one is available. If the type of storage you request is not available, we will add you to a waiting list, on a "first come, first served" basis.
 

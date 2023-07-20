@@ -2,13 +2,13 @@
 title: DRAFT - Automotive Projects
 description: 
 published: true
-date: 2023-07-20T02:45:52.371Z
+date: 2023-07-20T02:46:18.489Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T02:14:22.078Z
 ---
 
-# Automotive Projects
+# DRAFT - Automotive Projects
 
 These policies apply to automotive projects, including work on cars, vans, motorbikes, etc.
 

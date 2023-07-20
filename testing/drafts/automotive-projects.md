@@ -2,7 +2,7 @@
 title: DRAFT - Automotive Projects
 description: 
 published: true
-date: 2023-07-20T02:14:22.078Z
+date: 2023-07-20T02:45:52.371Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T02:14:22.078Z
@@ -12,14 +12,42 @@ dateCreated: 2023-07-20T02:14:22.078Z
 
 These policies apply to automotive projects, including work on cars, vans, motorbikes, etc.
 
-- Don't leave your vehicle in the workshop overnight
-- Don't position your vehicle in such a way as to block the foyer entrance
-- Dont do anything to your vehicle that may leave it undrivable at the end of the day
-- Don't park your vehicle in the car park overnight
-- Dispose of oil somewhere else
-	- Batteries, other fluids, oil filters, ...
-- Don't leave your vehicle running if it's in the workshop
-- Message committee if there are extraordinary circumstances
-- If its on jacks it needs to be supervised at all times
+## Workspace usage
+
+- Vehicles must not block entry into the space via the foyer.
+
+## Storage
+
+> These policies follow from the existing [storage by laws](/docs/policies/storage). Their application to vehicle projects is clarified here.
+{.is-info}
+
+- Vehicles must not be left in the workshop overnight. (See [workspace usage](/docs/policies/storage#workspace-usage).)
+
+- Don't park your vehicle in the car park overnight. (See [car park](/docs/policies/storage#car-park).)
+
+- Don't do anything to your vehicle that may leave it undrivable at the end of the day.
+
+  - Contact the committee if an exceptional situation occurs.
 
 
+## Safety
+
+- Do not leave vehicles running inside the workshop.
+- Vehicles on jacks must be supervised at all times.
+
+## Hazardous waste
+
+See [hazardous waste](/testing/drafts/hazardous-waste).
+
+For automotive projects, relevant hazardous wastes include -
+
+* Batteries
+* Engine coolants and glycols
+* Flammable liquids – hydrocarbons and fuels
+	* Oil
+  * Used filters
+* Flammable solids
+	* Oily rags
+* Paint
+* Solvents
+* Tyres

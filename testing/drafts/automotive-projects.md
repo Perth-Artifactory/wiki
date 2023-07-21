@@ -2,7 +2,7 @@
 title: DRAFT - Automotive Projects
 description: 
 published: true
-date: 2023-07-20T02:46:18.489Z
+date: 2023-07-21T05:53:55.051Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T02:14:22.078Z
@@ -14,7 +14,7 @@ These policies apply to automotive projects, including work on cars, vans, motor
 
 ## Workspace usage
 
-- Vehicles must not block entry into the space via the foyer.
+- Vehicles must not block entry into the main workshop area via the foyer.
 
 ## Storage
 

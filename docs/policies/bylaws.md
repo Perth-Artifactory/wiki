@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2023-07-22T14:28:41.061Z
+date: 2023-07-22T14:33:15.797Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -58,7 +58,7 @@ Refer to [By-laws - Administration](/docs/policies/administration).
 
 ## Hazardous waste
 
->  Adopted at committee meeting of [2023-07-22](/minutes/Committee/2023-07-22).
+>  Adopted at committee meeting of [2023-07-22](https://wiki.artifactory.org.au/minutes/Committee/2023-07-22#by-laws-hazardous-waste).
 {.is-info}
 
 **The Artifactory does not have any facilities for disposing of [hazardous waste](https://www.wasteauthority.wa.gov.au/programs/view/household-hazardous-waste).**

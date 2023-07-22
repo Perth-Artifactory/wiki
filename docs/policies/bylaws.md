@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2023-07-22T14:33:15.797Z
+date: 2023-07-22T16:02:29.713Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -99,7 +99,7 @@ Refer to [By-laws - Storage](/docs/policies/storage).
 Last modified at the committee meeting 2020-01-11.
 
   * Any money received by the Artifactory as a donation must go into the "Perth Artifactory - Donations" account.
-  * Types of money donations maybe "General Donations", "Sponsoring a Member Donation", "Event/Workshop Support Donation", "Specified Equipment/Venue enhancements"
+  * Types of money donations may be "General Donations", "Sponsoring a Member Donation", "Event/Workshop Support Donation", "Specified Equipment/Venue enhancements"
   * If the donor wishes to remain anonymous (meaning not thanked publicly), it shall be recorded in TidyHQ and the Secretary informed.
 
 ### General Donations (not specified)

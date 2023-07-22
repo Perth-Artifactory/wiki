@@ -2,7 +2,7 @@
 title: Administration
 description: 
 published: true
-date: 2023-07-02T09:31:31.087Z
+date: 2023-07-22T14:08:24.669Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:03.205Z
@@ -34,18 +34,7 @@ The Committee allows the Treasurer to pay/reimburse for the following expenses w
 
 ## Asynchronous online-only motions
 
-Defined at committee meeting 2022-04-09.
-
-A committee member may raise a motion for consideration by the Management Committee outside of a convened meeting.
-
-* The technical manner in which the motion is raised and voted on is determined by the current elected Chairperson
-  * Motions must be equally available to all committee members. (eg, a shared Slack channel)
-  * Voting cannot be anonymous
-* These motions will only pass if every member of the Management Committee either votes Aye or abstains
-  * Abstaining from voting on a motion raised under this bylaw is an active process. Not responding to a raised motion is not considered abstaining.
-  * A single Nay vote will be considered a veto and the motion may not be raised again for 72 hours unless done so at a convened meeting of the Management Committee
-* If a meeting of the Management Committee is convened all outstanding motions raised under this by-law automatically fail
-* Details regarding any motions raised under this bylaw must be noted in the next regularly scheduled meeting of the Management Committee
+Refer to [Asynchronous online-only motions](/docs/policies/online-motions).
 
 ------------------------------------------------------------------------
 

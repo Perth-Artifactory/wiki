@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2023-07-02T09:27:54.980Z
+date: 2023-07-22T14:28:41.061Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -53,6 +53,26 @@ Refer to [By-laws - Administration](/docs/policies/administration).
 ## Events and Workshops
 
 Refer to [By-laws - Administration](/docs/policies/administration).
+
+------------------------------------------------------------------------
+
+## Hazardous waste
+
+>  Adopted at committee meeting of [2023-07-22](/minutes/Committee/2023-07-22).
+{.is-info}
+
+**The Artifactory does not have any facilities for disposing of [hazardous waste](https://www.wasteauthority.wa.gov.au/programs/view/household-hazardous-waste).**
+
+**Do not put hazardous waste in the rubbish bins or skip bins on the premises.**
+
+You must correctly dispose of all [hazardous waste](https://www.wasteauthority.wa.gov.au/programs/view/household-hazardous-waste) that you are responsible for.
+
+If you -
+
+- leave hazardous waste on the premises, or
+- dispose of hazardous waste incorrectly,
+
+you will be liable for the the Association's reasonable costs incurred to dispose of the waste correctly.
 
 ------------------------------------------------------------------------
 

@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-24T15:05:24.012Z
+date: 2023-07-24T15:06:12.395Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -25,8 +25,6 @@ By following a set format for this induction, we will ensure that new members co
 ## How to deliver this induction
 
 Start in the foyer and work your way clockwise around the space.
-
->Beau: Preference, can it be performed anti clockwise until the electronics lab is refurbished? This is the first impression of the space, and reflects poorly.
 
 This induction should take about 30 minutes and can be performed with multiple people at a time.
 

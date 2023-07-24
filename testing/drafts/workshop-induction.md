@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-24T15:07:59.416Z
+date: 2023-07-24T15:16:36.734Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -186,7 +186,7 @@ In here:
 
 :innocent: Monday morning woodworking event.
 
-General warning about rotating machinery - **long hair, loose clothing, and jewellry.**
+General warning about rotating machinery - **long hair, loose clothing, and jewellery.**
 
 In here:
 * Dust extraction. Demonstrate - **turn it on**.
@@ -206,11 +206,7 @@ Hack rack - **Communal** spare parts and materials. Give and take.
 
 Member storage - **for members**
 * :scroll: [Member storage](/docs/policies/storage#member-storage) - pallet racking, lockers, material racks
-* :scroll: [Workspace usage](/docs/policies/storage#workspace-usage) policy - storage auth tickets
-
-Leave the space suitable for scheduled events.
-
-> Help word the above re schedule events. Cite a policy?
+* :scroll: [Workspace usage](/docs/policies/storage#workspace-usage) policy - storage auth tickets, and leave the space suitable for scheduled events.
 
 Help clean up - empty bins - put things away. **Leave the space better than when you started.**
 

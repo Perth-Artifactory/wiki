@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-24T14:38:49.315Z
+date: 2023-07-24T14:57:32.315Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -12,9 +12,7 @@ dateCreated: 2023-07-10T19:01:08.749Z
 
 ## Purpose
 
-This induction is mandatory for all new members of the space.
-
-> Ed: casual day rate users?
+This induction is mandatory for all new members and casual attendees of the space.
 
 New members must be inducted regarding:
 
@@ -61,9 +59,6 @@ House rules - introduce the [Code of Conduct](https://artifactory.org.au/pages/c
 * Integrity - *always be honest*
 * Complaints and reporting - maintenance issues, safety incidents/near misses, issues with other members. *Report small things before they become big things.*
 
-> TODO: Display a copy of the Code of Conduct in the foyer.
-> Beau: Please ensure the format of the displayed CoC adheres to the renovated standard of the foyer.
-
 # Lobby
 
 :scroll: Door - **access to the space** - events, keyholders, RFID keys, criteria to get a key, key bonds.
@@ -90,10 +85,7 @@ Components, supplies, consumables - **communal**
 
 # Rehearsal room
 
-:innocent: Relevant? (or skip it)
-
->Beau: Include it, it's a tool to be used, looks nice.
->Fletcher: The level of detail should be tailored to the individual. Eg, someone with no interest in music doesn't care about the existance (or lack thereof) of a backline.
+:innocent: The level of detail should be tailored to the individual. Eg, someone with no interest in music doesn't care about the existance (or lack thereof) of a backline.
 
 :scroll: Access, band membership, booking system.
 
@@ -110,7 +102,7 @@ In here:
 * Vacuformer.
 * Sewing machine.
 
-Wi-fi - **password**.
+Wi-fi - Password location
 
 :scroll: Internet - acceptable use. **Don't torrent.**
 
@@ -148,6 +140,8 @@ Emergency procedures (since the first aid kit is here)
 * First aid kit
 * There are lots of first aiders in the space, ask for help if needed
 * Defib (outside front door)
+* Fire equipment locations
+* Fire hose location (outside gate)
 
 # Rear courtyard
 
@@ -161,13 +155,11 @@ Tool shed - spray paint storage, drying oven
 
 Air compressor, location of pneumatic tools, blow gun safety (don't point at people)
 
->Aircompressor and air tools. General safety regarding air blowing gun(don't point at self or others.
->Fletcher: Added
-{.is-success}
-
 # Lasers
 
 :warning: :dollar: Organise **training** via #lasers on Slack. Point at **fees** on sign.
+
+What laser fees cover - Cost of power, expensive consumable laser tube
 
 Laser maintenance - how to get involved.
 
@@ -180,10 +172,6 @@ Messy tools - use outside!
 * :passport_control: Router table
 * :passport_control: Planer / thicknesser
 * :passport_control: Sandblaster
-
->Sandblaster?
->Fletcher: Added
-{.is-success}
 
 # Hand tool rack
 
@@ -206,9 +194,6 @@ In here:
   * Orbital sander, battery drill, impact driver, multitool, hot glue gun - anyone can use.
   * :passport_control: All other power tools.
 
-> TODO - make signage re power tool training requirements.
-
-
 # Machine room - back half
 
 :innocent: Monday morning woodworking event.
@@ -222,8 +207,6 @@ In here:
 * :passport_control: Wood band saw. Wood/plastic only. **No metal.**
 * :warning: Wood lathe(s).
 * :warning: :dollar: CNC router (Swarfomat) - **training** via #tools_and_fabrication. Point at **fees** sign.
-
-
 
 # Project area
 
@@ -239,15 +222,11 @@ Member storage - **for members**
 
 Leave the space suitable for scheduled events.
 
->Beau: Move rollerdoor, upcycle rack to seperate section. add in car tools. bring up car in working order, cannot be left overnight here. competency to be shown for car ramps, must be operated with min 2 people due to slippage. cars not to be left running in space.
-> Fletcher: We don't currently have a name for the area in front of the roller door except for the welding bay. "Car bay"? Moved to new section regardless.
-{.is-success}
-
 > Help word the above re schedule events. Cite a policy?
 
 Help clean up - empty bins - put things away. **Leave the space better than when you started.**
 
-# \[as yet unnamed car place]
+# Large entryway
 
 Roller door - open and close - **demonstrate**.
 
@@ -273,12 +252,6 @@ In here:
 * :passport_control: :dollar: Welding equipment. Point at **fees** sign.
 * :warning: Metal melting furnace. **Training** via #fire-and-forge.
 
->training for melting furnace to be asked for in #fire-and-forge
->Fletcher: Channel updated
-{.is-success}
-
->Ren: welding fees only for gas, not stick. clarify sign
-
 # Machine tools
 
 In here:
@@ -293,15 +266,6 @@ Events - **calendar** on website - alternately Facebook / Meetup events
 
 **Reinforce** - upcoming events
 
----
-
-> Where does the stuff below go?
-
 # Bylaws
 No storing stuff in the carpark.
-~~Vehicles must be drivable at the end of the day.~~ addressed above
 Don’t take pictures of people or things without asking them first
-We can take photos of things
-
-
-NOTE TO SELF – Adopt equipment loan bylaw

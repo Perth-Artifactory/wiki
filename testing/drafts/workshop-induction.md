@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-14T04:23:50.122Z
+date: 2023-07-24T14:38:49.315Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -146,11 +146,8 @@ Fridges - member fridge vs bar fridge.
 
 Emergency procedures (since the first aid kit is here)
 * First aid kit
-* First aiders in the space (call for help in the workshop early)
+* There are lots of first aiders in the space, ask for help if needed
 * Defib (outside front door)
-
->Ren: should we compile a list of first aiders?
->Fletcher: What would be the use case for such a list? (ie, requiring at least one trained person at events?)
 
 # Rear courtyard
 

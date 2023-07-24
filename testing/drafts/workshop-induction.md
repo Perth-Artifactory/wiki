@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-24T15:00:41.002Z
+date: 2023-07-24T15:05:24.012Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -72,16 +72,6 @@ Emergency procedures
 * Fire extinguishers - **point at one**.
 * Fire hose reel - outside - **point at it**.
 * AED - automated external defibrillator - outside - **point at it**.
-
-# Electronics lab
-
-:innocent: **Arduino U**
-
-Components, supplies, consumables - **communal**
-
-:passport_control: Power supplies - high power - fire hazard :fire:
-
-:scroll: [Dangerous projects and tools policy](/docs/committee/dangerous_projects_and_tools_policy)
 
 # Rehearsal room
 
@@ -257,6 +247,16 @@ In here:
 In here:
 * :warning: Metal lathe. **Training** via #tools-and-fabrication.
 * :warning: :dollar: Metal mill. **Training** via #tools-and-fabrication. Point at **fees** sign.
+
+# Electronics lab
+
+:innocent: **Arduino U**
+
+Components, supplies, consumables - **communal**
+
+:passport_control: Power supplies - high power - fire hazard :fire:
+
+:scroll: [Dangerous projects and tools policy](/docs/committee/dangerous_projects_and_tools_policy)
 
 # Final things
 

@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-24T15:06:12.395Z
+date: 2023-07-24T15:07:59.416Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -94,7 +94,7 @@ Wi-fi - Password location
 
 :scroll: Internet - acceptable use. **Don't torrent.**
 
-File storage - `filer`, NextCloud.
+File storage - Member storage (they can create a folder for themselves), NextCloud.
 
 :mag: Installing software on the computers - anything free/open source is OK.
 

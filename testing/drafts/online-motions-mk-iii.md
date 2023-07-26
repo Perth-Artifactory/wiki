@@ -2,7 +2,7 @@
 title: Asynchronous online-only motions - AMENDMENTS
 description: 
 published: true
-date: 2023-07-22T14:57:56.946Z
+date: 2023-07-26T15:47:23.849Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-22T14:57:56.946Z
@@ -44,10 +44,14 @@ While an online motion is open, a committee member may participate in the vote b
 ## Leave of absence
 
 **A committee member may apply for a leave of absence from participating in online motions.**
-- **The application must be made in writing to the chairperson or deputy chairperson.**
+- **The application must be made in writing to an office holder of the Association.**
 - **The application must specify the reason for the absence and the period of the absence.**
-- **The chairperson or deputy chairperson may accept or reject the application at their discretion.**
+- **The office holder may accept or reject the application at their discretion.**
+- **A person cannot approve their own application.**
 - **The leave of absence is effective from the date it is approved in writing.**
+
+> **Note for this section: The office holders of the Association are as defined at s28 of the constitution; namely, the chairperson, deputy chairperson, secretary, and treasurer.**
+{.is-info}
 
 ## Closing and determining the results of online motions
 

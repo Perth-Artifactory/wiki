@@ -2,7 +2,7 @@
 title: Asynchronous online-only motions - AMENDMENTS
 description: 
 published: true
-date: 2023-07-26T15:47:23.849Z
+date: 2023-07-26T15:52:40.921Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-22T14:57:56.946Z
@@ -55,7 +55,7 @@ While an online motion is open, a committee member may participate in the vote b
 
 ## Closing and determining the results of online motions
 
-**In this section, *committee members* excludes those members who are currently on a leave of absence.**
+**In this section, *committee members* excludes those members who are currently on an approved leave of absence.**
 
 An online motion closes as soon as one of the following events occurs -
 

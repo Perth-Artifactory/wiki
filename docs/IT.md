@@ -2,7 +2,7 @@
 title: IT Subcommittee
 description: 
 published: true
-date: 2023-01-08T09:53:01.025Z
+date: 2023-07-28T12:04:22.685Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-01T10:47:56.241Z
@@ -18,6 +18,7 @@ dateCreated: 2022-11-01T10:47:56.241Z
 | Blake Samuels         | Yes                                 |
 | Vincent Dalstra       | Yes                                 |
 | Fletcher Boyd         | Yes                                 |
+| Thomas White          | Yes                                 |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
 {.is-info}

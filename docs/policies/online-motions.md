@@ -2,7 +2,7 @@
 title: Asynchronous online-only motions
 description: 
 published: true
-date: 2023-07-22T14:07:41.397Z
+date: 2023-08-13T15:53:01.655Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-17T11:16:59.500Z
@@ -41,7 +41,21 @@ While an online motion is open, a committee member may participate in the vote b
 - Recording that they wish to abstain from this particular motion; or
 - Vetoing the motion.
 
+## Leave of absence
+
+A committee member may apply for a leave of absence from participating in online motions.
+- The application must be made in writing to an office holder of the Association.
+- The application must specify the reason for the absence and the period of the absence.
+- The office holder may accept or reject the application at their discretion.
+- A person cannot approve their own application.
+- The leave of absence is effective from the date it is approved in writing.
+
+> Note for this section: The office holders of the Association are as defined at s28 of the constitution; namely, the chairperson, deputy chairperson, secretary, and treasurer.
+{.is-info}
+
 ## Closing and determining the results of online motions
+
+In this section, the term *committee members* excludes those members who are currently on an approved leave of absence.
 
 An online motion closes as soon as one of the following events occurs -
 
@@ -72,3 +86,5 @@ The main changes were:
 - Allow votes to close after 72 hours, and define what happens when some committee members have not voted.
 - Separate the concepts of a veto (immediately ends the vote) vs. voting "nay".
 - Clarify when motions lapse relative to a scheduled committee meeting. ("convened" vs "starts")
+
+The by-law was further amended to allow for committee members to take leave of absence on [2023-08-04](https://vote.artifactory.org.au/d/TeuJdrUl/revision-to-online-motions-process/5).

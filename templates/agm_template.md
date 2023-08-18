@@ -2,7 +2,7 @@
 title: Annual General Meeting - yyyy-mm-dd
 description: 
 published: true
-date: 2022-10-19T12:43:53.294Z
+date: 2023-08-18T15:36:04.596Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:42.713Z
@@ -10,7 +10,7 @@ dateCreated: 2022-10-17T16:52:42.713Z
 
 # AGM Minutes yyyy-mm-dd
 
-AGM must be held in accordance with [PART 6 — GENERAL MEETINGS OF ASSOCIATION](https://wiki.artifactory.org.au/doku.php?id=constitution#annual_general_meeting)
+AGM must be held in accordance with Part 6 of the [constitution](/constitution) regarding *General meetings of association*.
 
 ## Agenda
 

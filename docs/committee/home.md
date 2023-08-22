@@ -2,13 +2,17 @@
 title: Committee
 description: 
 published: true
-date: 2022-12-31T05:01:28.842Z
+date: 2023-08-22T09:02:30.728Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
 ---
 
 # Committee
+
+> The list of committee members and officers on this page is correct. All other information needs to be updated.
+{.is-warning}
+
 
 ## The Constitution
 

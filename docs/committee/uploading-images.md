@@ -2,7 +2,7 @@
 title: Photo Archival Program
 description: How to upload images to our photo repository for social media/promotions purposes
 published: true
-date: 2023-08-27T05:35:28.235Z
+date: 2023-08-27T05:49:06.963Z
 tags: official
 editor: markdown
 dateCreated: 2023-08-27T05:25:09.850Z
@@ -10,7 +10,7 @@ dateCreated: 2023-08-27T05:25:09.850Z
 
 # Why
 
-The Artifactory Photo Archival Program is an active initiative at Artifactory, developed with the intention of widening the scope of community engagement and fostering an environment of shared creativity through visual narratives. This resourceful program allows members to share photos of their projects, events or simply candid shots that best represent their "Artifactory" experience. The main idea behind this is to provide a platform that facilitates the display of a diverse range of ideas and creations, all born within our creative hub.
+The Artifactory Photo Archival Program has been developed with the intention of widening the scope of community engagement and fostering an environment of shared creativity through visual narratives. This program allows members to share photos of their projects, events or simply candid shots that best represent their "Artifactory" experience. The main idea behind this is to provide a platform that facilitates the display of a diverse range of ideas and creations, all born within our creative hub.
 
 The process for involvement has been designed keeping ease-of-use as a priority. You can effortlessly upload your photographs in a variety of ways. Upon upload, these images are automatically archived and passed on to our social media volunteers. This ensures preservation and broad dissemination of the vibrant art and creativity blooming within our space. It's more than just a photo sharing procedure - it's a chance for each member's work to be seen, appreciated and be a source of inspiration for others.
 

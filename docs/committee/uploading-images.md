@@ -2,7 +2,7 @@
 title: Photo Archival Program
 description: How to upload images to our photo repository for social media/promotions purposes
 published: true
-date: 2023-08-27T05:49:06.963Z
+date: 2023-08-27T06:06:08.291Z
 tags: official
 editor: markdown
 dateCreated: 2023-08-27T05:25:09.850Z
@@ -17,6 +17,8 @@ The process for involvement has been designed keeping ease-of-use as a priority.
 Participation in the Artifactory Photo Archival Program goes beyond documenting and sharing personal creative journeys. It's a meaningful contribution to the story of the Artifactory community itself. By capturing and showcasing these moments, we collectively build and highlight the dynamic, creative environment that is the Artifactory <3
 
 ## Upload methods
+
+Pick the method that is most convenient for you, none of these options create work for our volunteers :)
 
 ### Slack
 

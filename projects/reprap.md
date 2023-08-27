@@ -2,7 +2,7 @@
 title: Maker Machines
 description: 
 published: true
-date: 2022-10-19T12:41:10.328Z
+date: 2023-01-04T02:37:27.280Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:54:23.996Z

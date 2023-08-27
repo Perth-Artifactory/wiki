@@ -2,7 +2,7 @@
 title: arduinos_and_midi
 description: 
 published: true
-date: 2022-10-19T11:51:29.589Z
+date: 2023-01-04T03:18:09.448Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T08:52:05.477Z

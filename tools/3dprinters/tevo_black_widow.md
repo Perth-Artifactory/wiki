@@ -2,7 +2,7 @@
 title: Tevo Black Widow FDM 3D Printer
 description: 
 published: true
-date: 2022-10-19T12:45:07.024Z
+date: 2023-01-04T03:12:29.469Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:05.862Z

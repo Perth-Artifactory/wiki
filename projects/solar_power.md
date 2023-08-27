@@ -2,7 +2,7 @@
 title: Solar Power for the Artifactory
 description: 
 published: true
-date: 2022-10-19T12:41:43.218Z
+date: 2023-01-04T02:38:03.405Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:55:12.430Z

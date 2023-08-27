@@ -2,7 +2,7 @@
 title: Tablesaw
 description: DeWalt DWE7491-XE 2000W 254mm (10") Table Saw
 published: true
-date: 2022-10-25T08:20:34.370Z
+date: 2023-01-04T02:41:06.176Z
 tags: tools, woodworking, todo
 editor: markdown
 dateCreated: 2022-10-17T17:02:14.571Z

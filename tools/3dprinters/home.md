@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2022-10-19T12:44:41.286Z
+date: 2023-01-04T03:12:15.232Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z

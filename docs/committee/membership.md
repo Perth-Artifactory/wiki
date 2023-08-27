@@ -2,7 +2,7 @@
 title: How to join The Perth Artifactory
 description: 
 published: true
-date: 2023-01-08T14:37:01.764Z
+date: 2023-01-08T14:37:07.202Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:47:11.598Z

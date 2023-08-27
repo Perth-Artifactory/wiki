@@ -2,7 +2,7 @@
 title: Self Promotion
 description: 
 published: true
-date: 2022-10-19T12:41:31.131Z
+date: 2023-01-04T02:37:49.847Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:54:53.168Z

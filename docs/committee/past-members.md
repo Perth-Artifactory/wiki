@@ -2,7 +2,7 @@
 title: Past Committee
 description: This is a non exhaustive list of past Artifactory committees.
 published: true
-date: 2023-06-17T05:26:01.219Z
+date: 2023-06-17T05:26:07.124Z
 tags: official
 editor: markdown
 dateCreated: 2022-11-20T10:14:02.887Z

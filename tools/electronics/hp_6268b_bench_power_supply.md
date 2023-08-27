@@ -2,7 +2,7 @@
 title: HP 6268B Bench Power Supply
 description: 
 published: true
-date: 2022-10-26T15:44:19.594Z
+date: 2023-01-04T03:13:31.274Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:56:12.422Z

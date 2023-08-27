@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-07-18T02:36:04.844Z
+date: 2023-07-18T02:36:11.252Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z

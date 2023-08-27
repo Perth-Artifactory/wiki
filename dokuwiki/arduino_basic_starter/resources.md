@@ -2,7 +2,7 @@
 title: Basic Arduino Beginners Kit - Resources
 description: 
 published: true
-date: 2022-10-19T11:44:06.023Z
+date: 2023-01-04T02:48:01.987Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T17:09:29.221Z

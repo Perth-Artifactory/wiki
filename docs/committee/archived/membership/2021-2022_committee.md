@@ -2,7 +2,7 @@
 title: 2021 - 2022 Committee
 description: 
 published: true
-date: 2022-10-19T11:40:37.845Z
+date: 2023-01-10T11:33:35.323Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:25:43.512Z

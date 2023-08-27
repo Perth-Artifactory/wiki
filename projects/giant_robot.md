@@ -2,7 +2,7 @@
 title: Giant Robot
 description: 
 published: true
-date: 2022-10-19T12:38:45.575Z
+date: 2023-01-04T02:35:02.141Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:50:55.220Z

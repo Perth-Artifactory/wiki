@@ -2,7 +2,7 @@
 title: Storage
 description: 
 published: true
-date: 2023-07-02T09:28:54.520Z
+date: 2023-07-02T09:29:00.238Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:48.198Z

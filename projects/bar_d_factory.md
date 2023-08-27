@@ -2,7 +2,7 @@
 title: bar_d_factory
 description: 
 published: true
-date: 2022-10-19T12:36:34.160Z
+date: 2023-01-04T02:33:47.633Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:47:40.177Z

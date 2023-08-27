@@ -2,7 +2,7 @@
 title: acoustic_damping_panel
 description: 
 published: true
-date: 2022-10-19T11:51:07.297Z
+date: 2023-01-04T02:49:07.100Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T08:09:24.548Z

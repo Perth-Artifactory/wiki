@@ -2,7 +2,7 @@
 title: General Hacking Day
 description: 
 published: true
-date: 2022-10-19T11:50:37.249Z
+date: 2023-01-04T02:32:41.459Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:45:42.170Z

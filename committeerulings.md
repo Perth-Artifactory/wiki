@@ -2,7 +2,7 @@
 title: Committee Rulings
 description: 
 published: true
-date: 2022-11-01T13:08:41.532Z
+date: 2023-01-04T02:31:43.294Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:06.038Z

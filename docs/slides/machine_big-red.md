@@ -2,7 +2,7 @@
 title: Big Red Training Guide
 description: 
 published: true
-date: 2023-03-24T11:22:25.878Z
+date: 2023-03-24T11:22:32.220Z
 tags: official, presentation
 editor: markdown
 dateCreated: 2023-03-24T10:18:19.068Z

@@ -2,7 +2,7 @@
 title: selfservicekisok
 description: 
 published: true
-date: 2022-10-19T12:41:37.135Z
+date: 2023-01-04T02:37:56.563Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:55:03.253Z

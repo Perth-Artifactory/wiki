@@ -2,7 +2,7 @@
 title: Cordless Drills
 description: 
 published: true
-date: 2022-10-19T12:49:37.379Z
+date: 2023-01-04T03:15:27.654Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T17:00:40.967Z

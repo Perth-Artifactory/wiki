@@ -2,7 +2,7 @@
 title: Middle Red
 description: 
 published: true
-date: 2022-12-29T03:19:58.079Z
+date: 2023-01-04T03:14:32.647Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:00.139Z

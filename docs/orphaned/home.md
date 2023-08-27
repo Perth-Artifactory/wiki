@@ -2,7 +2,7 @@
 title: The Artifactory Subcommittee Workspace
 description: 
 published: true
-date: 2022-10-19T11:42:50.428Z
+date: 2023-01-04T02:46:13.543Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:50:12.844Z

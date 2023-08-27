@@ -2,7 +2,7 @@
 title: Laser Cutter Controller MPC6515
 description: 
 published: true
-date: 2022-10-19T12:47:16.439Z
+date: 2023-01-04T03:14:12.168Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:09.138Z

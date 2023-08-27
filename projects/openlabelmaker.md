@@ -2,7 +2,7 @@
 title: Open Label Printer
 description: 
 published: true
-date: 2022-10-19T12:40:51.340Z
+date: 2023-01-04T02:37:04.736Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:53:56.732Z

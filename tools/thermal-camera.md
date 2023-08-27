@@ -2,7 +2,7 @@
 title: Thermal Camera
 description: CAT S60 thermal camera phone
 published: true
-date: 2022-12-06T10:23:19.386Z
+date: 2023-01-04T02:42:09.108Z
 tags: 
 editor: markdown
 dateCreated: 2022-12-06T10:13:13.172Z

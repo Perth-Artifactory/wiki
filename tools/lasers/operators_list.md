@@ -2,7 +2,7 @@
 title: Operators List
 description: 
 published: true
-date: 2023-04-13T15:05:32.791Z
+date: 2023-04-13T15:05:38.816Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:58:09.446Z

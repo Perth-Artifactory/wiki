@@ -2,7 +2,7 @@
 title: Perth Artifactory
 description: Welcome to the wiki!
 published: true
-date: 2023-01-08T14:47:05.702Z
+date: 2023-01-08T14:47:11.784Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-06T13:21:41.820Z

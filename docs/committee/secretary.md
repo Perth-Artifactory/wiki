@@ -2,7 +2,7 @@
 title: Secretary
 description: 
 published: true
-date: 2023-06-17T05:22:24.905Z
+date: 2023-06-17T05:22:30.735Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-19T08:05:17.332Z

@@ -2,7 +2,7 @@
 title: Shopping
 description: 
 published: true
-date: 2023-01-10T07:40:23.007Z
+date: 2023-01-10T07:40:35.013Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:48:11.265Z

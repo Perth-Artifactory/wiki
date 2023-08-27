@@ -2,7 +2,7 @@
 title: LaserCut Operation Guide
 description: 
 published: true
-date: 2023-01-28T06:03:33.195Z
+date: 2023-01-28T06:03:38.835Z
 tags: lasers
 editor: markdown
 dateCreated: 2023-01-28T05:57:04.060Z

@@ -2,7 +2,7 @@
 title: Workshop Orientation
 description: A presentation powered by reveal.js
 published: true
-date: 2023-03-24T11:23:21.878Z
+date: 2023-03-24T11:23:27.177Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z

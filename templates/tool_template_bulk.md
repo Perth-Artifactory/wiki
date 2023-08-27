@@ -2,7 +2,7 @@
 title: Tool template (bulk)
 description: Short description of tool class
 published: true
-date: 2022-11-12T10:19:44.560Z
+date: 2023-01-04T02:40:44.466Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-12T10:19:44.560Z

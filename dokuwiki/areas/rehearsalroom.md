@@ -2,7 +2,7 @@
 title: rehearsalroom
 description: 
 published: true
-date: 2022-10-19T11:44:49.641Z
+date: 2023-01-04T02:48:47.748Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T17:10:30.941Z

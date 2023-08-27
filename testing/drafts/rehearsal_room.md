@@ -2,7 +2,7 @@
 title: DRAFT - Rehearsal Room By-laws
 description: 
 published: true
-date: 2023-01-16T05:54:09.095Z
+date: 2023-01-16T05:54:14.789Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-16T05:30:15.712Z

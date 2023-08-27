@@ -2,7 +2,7 @@
 title: Milling Machine Training
 description: 
 published: true
-date: 2022-10-19T12:48:36.051Z
+date: 2023-01-04T02:41:55.196Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:59:08.991Z

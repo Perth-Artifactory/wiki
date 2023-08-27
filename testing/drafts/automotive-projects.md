@@ -2,7 +2,7 @@
 title: DRAFT - Automotive Projects
 description: 
 published: true
-date: 2023-07-21T05:53:55.051Z
+date: 2023-07-22T14:33:02.011Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T02:14:22.078Z

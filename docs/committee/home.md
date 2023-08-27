@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2023-08-22T09:02:30.728Z
+date: 2023-08-22T09:02:42.257Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z

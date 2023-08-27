@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2022-11-01T13:39:09.318Z
+date: 2023-01-04T02:32:06.599Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z

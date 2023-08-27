@@ -2,7 +2,7 @@
 title: cnc_machine
 description: 
 published: true
-date: 2022-10-19T12:37:18.206Z
+date: 2023-01-04T02:34:21.231Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:48:45.728Z

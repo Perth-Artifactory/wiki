@@ -2,7 +2,7 @@
 title: NoizeMaschin!!
 description: 
 published: true
-date: 2022-10-19T11:50:53.769Z
+date: 2023-01-04T02:32:58.485Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:46:01.726Z

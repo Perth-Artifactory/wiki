@@ -2,7 +2,7 @@
 title: Artifactory Access
 description: 
 published: true
-date: 2023-06-17T05:28:42.169Z
+date: 2023-06-17T05:28:47.186Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:47.883Z

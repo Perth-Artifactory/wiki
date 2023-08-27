@@ -2,7 +2,7 @@
 title: Artifactory Annual Reports
 description: 
 published: true
-date: 2022-12-04T13:45:48.864Z
+date: 2023-01-04T02:42:36.020Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:30.259Z

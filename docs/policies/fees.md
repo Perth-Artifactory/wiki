@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2023-07-04T09:27:29.814Z
+date: 2023-07-04T09:27:35.850Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z

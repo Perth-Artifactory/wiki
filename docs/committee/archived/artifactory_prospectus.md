@@ -2,7 +2,7 @@
 title: PROSPECTUS
 description: 
 published: true
-date: 2022-10-19T11:38:17.623Z
+date: 2023-07-17T08:28:25.125Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:56.790Z

@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-07-18T02:32:59.165Z
+date: 2023-07-18T02:33:05.297Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z

@@ -2,7 +2,7 @@
 title: RotoBot CNC
 description: 
 published: true
-date: 2022-10-19T12:41:16.738Z
+date: 2023-01-04T02:37:34.065Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:54:32.861Z

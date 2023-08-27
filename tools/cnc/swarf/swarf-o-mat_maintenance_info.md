@@ -2,7 +2,7 @@
 title: Swarf-o-mat maintenance information
 description: 
 published: true
-date: 2022-10-19T12:45:24.571Z
+date: 2023-01-04T03:19:06.376Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:37.096Z

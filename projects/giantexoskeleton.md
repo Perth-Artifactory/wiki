@@ -2,7 +2,7 @@
 title: giantexoskeleton
 description: 
 published: true
-date: 2022-10-19T12:38:51.287Z
+date: 2023-01-04T02:35:08.432Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:51:04.529Z

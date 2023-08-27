@@ -2,7 +2,7 @@
 title: Space Control
 description: Relays and buttons oh my!
 published: true
-date: 2023-07-11T15:21:04.989Z
+date: 2023-07-11T15:21:10.756Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-01T15:54:50.097Z

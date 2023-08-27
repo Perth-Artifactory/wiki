@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2023-07-22T16:02:29.713Z
+date: 2023-07-22T16:02:36.153Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z

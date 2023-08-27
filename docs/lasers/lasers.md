@@ -2,7 +2,7 @@
 title: Laser subcommittee page
 description: 
 published: true
-date: 2023-01-17T13:31:45.555Z
+date: 2023-01-17T13:31:51.841Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:14.656Z

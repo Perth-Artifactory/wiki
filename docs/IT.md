@@ -2,7 +2,7 @@
 title: IT Subcommittee
 description: 
 published: true
-date: 2023-08-13T15:40:57.839Z
+date: 2023-08-13T15:41:11.326Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-01T10:47:56.241Z

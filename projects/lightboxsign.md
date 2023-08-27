@@ -2,7 +2,7 @@
 title: Lightbox Sign
 description: 
 published: true
-date: 2022-10-19T12:39:40.313Z
+date: 2023-01-04T02:35:52.327Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:52:12.476Z

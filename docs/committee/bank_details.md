@@ -2,7 +2,7 @@
 title: Bank details
 description: 
 published: true
-date: 2023-01-08T19:55:13.483Z
+date: 2023-01-08T19:55:18.578Z
 tags: official
 editor: markdown
 dateCreated: 2023-01-08T19:55:13.483Z

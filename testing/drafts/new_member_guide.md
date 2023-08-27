@@ -2,7 +2,7 @@
 title: DRAFT - New member guide
 description: 
 published: true
-date: 2023-01-08T20:47:33.325Z
+date: 2023-01-08T20:47:39.969Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T20:47:33.325Z

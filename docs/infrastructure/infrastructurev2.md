@@ -2,7 +2,7 @@
 title: Infrastructure Subcommittee
 description: 
 published: true
-date: 2023-01-08T09:52:16.227Z
+date: 2023-01-08T09:52:22.024Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:03.316Z

@@ -2,7 +2,7 @@
 title: Treasurer
 description: 
 published: true
-date: 2022-10-19T11:41:56.104Z
+date: 2023-01-04T02:45:08.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T08:05:56.875Z

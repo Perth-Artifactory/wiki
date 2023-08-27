@@ -2,7 +2,7 @@
 title: Flat Pack Dice
 description: 
 published: true
-date: 2022-10-19T12:38:07.249Z
+date: 2023-01-04T02:34:34.746Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:49:59.911Z

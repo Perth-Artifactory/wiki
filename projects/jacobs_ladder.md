@@ -2,7 +2,7 @@
 title: jacobs_ladder
 description: 
 published: true
-date: 2022-10-19T12:39:16.151Z
+date: 2023-01-04T02:35:26.837Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:51:43.450Z

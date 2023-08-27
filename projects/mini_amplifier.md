@@ -2,7 +2,7 @@
 title: Mini Amplifier
 description: 
 published: true
-date: 2022-10-19T12:40:18.252Z
+date: 2023-01-04T02:36:30.420Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:53:09.542Z

@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2023-01-04T02:32:06.599Z
+date: 2023-08-28T01:30:19.101Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -98,7 +98,7 @@ Members are entitled to request for additional storage on the pallet racking. Ad
 
 ## Communications
 
-[Slack](https://space.artifactory.org.au/slack) is the number one point of contact for anything and everything Artifactory.
+[Slack](https://perart.io/slack) is the number one point of contact for anything and everything Artifactory.
 
 * If you would like to be **trained on a certain machine,** **reporting a fault** with the equipment or even need **input and advice** for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
 

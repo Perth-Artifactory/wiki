@@ -2,7 +2,7 @@
 title: Tevo Black Widow FDM 3D Printer
 description: 
 published: true
-date: 2023-01-04T03:12:29.469Z
+date: 2023-09-10T00:42:29.331Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:05.862Z
@@ -108,7 +108,7 @@ The Tevo has a large and power-hungry heated bed that, on early models, burned o
 
 ### Firmware
 
-The Tevo runs Marlin 2.0.7.2. The Marlin source files are <embed src="/tools/marlin-2.0.x.zip" class="align-left" />, and a copy is also on the MicroSD card installed in the controller. Other than the standard configuration items for any printer, notable firmware configuration features are:
+The Tevo runs Marlin 2.1.2.1. The Marlin source files are <embed src="/tools/marlin-2.0.x.zip" class="align-left" />, and a copy is also on the MicroSD card installed in the controller. Other than the standard configuration items for any printer, notable firmware configuration features are:
 
 -   Addition of \_Bootscreen.h to provide the custom Artifactory bootscreen
 -   Restriction of maximum accelerations, reflecting that teh macine is heavy in all axes

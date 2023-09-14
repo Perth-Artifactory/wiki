@@ -2,7 +2,7 @@
 title: Officers
 description: 
 published: true
-date: 2023-09-14T04:19:53.875Z
+date: 2023-09-14T04:20:09.665Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:39.410Z
@@ -17,7 +17,7 @@ This page lists the subsidiary offices that the committee has created, as allowe
 
 In these by-laws, unless the contrary intention appears, all terms are as defined as in the Constitution, §1 *Definitions*.
 
-## Current office holders
+## Register of current officers
 
 Refer to [Committee - Officers.](https://wiki.artifactory.org.au/docs/committee/home#officers)
 

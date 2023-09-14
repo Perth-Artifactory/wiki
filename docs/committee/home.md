@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2023-08-22T09:02:42.257Z
+date: 2023-09-14T04:18:37.618Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -66,10 +66,10 @@ Note: on 2023-01-01
 
 ## Officers
 
--   [Events Officer(s)](/docs/policies/officers): Phoebe-Jean Harris
+-   [Events Officer(s)](/docs/policies/officers): Vacant
 -   [IT Officer](/docs/policies/officers): Vacant
 -   [Membership Officer(s)](/docs/policies/officers): Fletcher Boyd
--   [Member Storage Officer](/docs/policies/officers): Steve Hodges
+-   [Member Storage Officer](/docs/policies/officers): Vacant
 -   [Quartermaster(s)](/docs/policies/officers): Vincent Dalstra
 -   [Rehearsal Room Coordinator(s)](/docs/policies/officers): Johannes Chuah, Martin Gonzalez
 -   [The Ambassador](docs/policies/classes_of_membership) - Magnus Danger Magnus

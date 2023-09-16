@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2023-09-14T04:18:37.618Z
+date: 2023-09-16T10:46:32.152Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -39,30 +39,23 @@ New [RFID Key issued by Committee member form](https://docs.google.com/forms/d/e
 
 *See links of roles (e.g. secretary, treasurer) for a guide to that role.*
 
-Elected [2022-09-17](/minutes/AGM/2022-09-17)
+Elected [2023-09-16](/minutes/AGM/2023-09-16)
 
 Office Bearers
 
 -   [Chair](/docs/committee/chairperson): Beau Scott
--   [Vice Chair](/docs/committee/chairperson): Vincent Dalstra
+-   [Vice Chair](/docs/committee/chairperson): Fletcher Boyd
 -   [Secretary](/docs/committee/secretary): Lewis Yip
--   [Treasurer](/docs/committee/treasurer): Ben Connor
+-   [Treasurer](/docs/committee/treasurer): Renae Currie
 
 Ordinary Committee Members
 
--   Deputy Secretary: Phoebe-Jean Harris
--   Deputy Treasurer: Fletcher Boyd
+-   Deputy Secretary: Tegan Murphy
+-   Deputy Treasurer: Ben Connor
 -   Ordinary Committee Member: Johannes Chuah
 -   Ordinary Committee Member: Joshua Rospondek
--   Ordinary Committee Member: Renae Currie
 -   Ordinary Committee Member: Vacant
-
-Note: on 2022-11-26,
--   Phoebe-Jean Harris changed position from Secretary to Deputy Secretary.
--   Lewis YIp changed position from Deputy Secretary to Secretary.
-
-Note: on 2023-01-01
-* Renae Currie was appointed to the committee
+-   Ordinary Committee Member: Vacant
 
 ## Officers
 

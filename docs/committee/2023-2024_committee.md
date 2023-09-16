@@ -2,15 +2,15 @@
 title: 2022 - 2023 Committee
 description: 
 published: true
-date: 2023-09-16T10:44:54.897Z
+date: 2023-09-16T14:57:52.540Z
 tags: official
 editor: markdown
 dateCreated: 2023-09-16T10:44:54.897Z
 ---
 
-# 2022 - 2023 Committee
+# 2023 - 2024 Committee
 
-Elected [2022-09-17](/minutes/AGM/2023-09-16)
+Elected [2023-09-16](/minutes/AGM/2023-09-16)
 
 Office Bearers
 

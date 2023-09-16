@@ -2,7 +2,7 @@
 title: Past Committee
 description: This is a non exhaustive list of past Artifactory committees.
 published: true
-date: 2023-06-17T05:26:07.124Z
+date: 2023-09-16T10:42:58.389Z
 tags: official
 editor: markdown
 dateCreated: 2022-11-20T10:14:02.887Z
@@ -10,6 +10,7 @@ dateCreated: 2022-11-20T10:14:02.887Z
 
 | Year  | Chair | Vice Chair | Secretary | Treasurer | Deputy Secretary | Deputy Treasurer | OCM | OCM | OCM | OCM | OCM | OCM |
 | ----- | ----- | ---------- | --------- | --------- | ---------------- | ---------------- | --- | --- | --- | --- | --- | --- |
+| 23-24 | Beau Scott  | Fletcher Boyd | Lewis Yip | Renae Currie | Tegan Murphy | Ben Connor | Johannes Chuah | Joshua Rospondek | Vacant | N/A | N/A | N/A |
 | 22-23 | Beau Scott  | Vincent Dalstra | Lewis Yip | Fletcher Boyd | Phoebe-Jean Harris | Ben Connor + Renae Currie | Johannes Chuah | Joshua Rospondek | Vacant | N/A | N/A | N/A |
 | 21-22 | Beau Scott  | Fletcher Boyd   | Phoebe-Jean Harris | Vincent Dalstra | N/A | Ben Connor | Iain Graham | Jason Kongchouy | Jeremiah Finch<br>Vacant (??/??) | Johannes Chuah | Joshua Rospondek | N/A |
 | 20-21 | Iain Graham | Beau Scott      | Vincent Dalstra    | Fletcher Boyd   | N/A | N/A | Blake Samuels | Jason Kongchouy | Judith Huang | Lisa McCarthy | Scott Simons	| Steve Hodges |

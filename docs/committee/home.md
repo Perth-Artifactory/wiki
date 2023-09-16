@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2023-09-16T10:46:32.152Z
+date: 2023-09-16T14:47:43.943Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -59,11 +59,11 @@ Ordinary Committee Members
 
 ## Officers
 
--   [Events Officer(s)](/docs/policies/officers): Vacant
+-   [Events Officer(s)](/docs/policies/officers): Johannes Chuah
 -   [IT Officer](/docs/policies/officers): Vacant
 -   [Membership Officer(s)](/docs/policies/officers): Fletcher Boyd
--   [Member Storage Officer](/docs/policies/officers): Vacant
--   [Quartermaster(s)](/docs/policies/officers): Vincent Dalstra
+-   [Member Storage Officer](/docs/policies/officers): Beau Scott
+-   [Quartermaster(s)](/docs/policies/officers): Fletcher Boyd
 -   [Rehearsal Room Coordinator(s)](/docs/policies/officers): Johannes Chuah, Martin Gonzalez
 -   [The Ambassador](docs/policies/classes_of_membership) - Magnus Danger Magnus
 

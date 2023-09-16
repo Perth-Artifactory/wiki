@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2023-07-17T08:29:01.591Z
+date: 2023-09-16T10:48:54.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -29,9 +29,9 @@ The table of contents on the left side of the page forms the agenda of this meet
     * Johannes Chuah
     * Joshua Rospondek
     * Lewis Yip
-    * Phoebe-Jean Harris
     * Renae Currie
-    * Vincent Dalstra
+    * Tegan Murphy
+    
 * Apologies: NAMES
 * Absent: NAMES
 * Observing: NAMES
@@ -106,13 +106,6 @@ The Treasurer's Disclaimer: The numbers below have been calculated in a quick wa
 ## Officer Reports
 
 Reports to be emailed in for review of committee when officer does not attend meeting.
-
-### IT Officer
-
-* REPORT ITEM
-  * DETAILS
-* REPORT ITEM
-  * DETAILS
 
 ### Event Officer
 
@@ -201,8 +194,8 @@ News and discussions on events.
 
 ### Social
 
-* Artifrag (Coordinator: Fletcher) -
 * Talkshop Wednesday (Coordinator: Fletcher, Renae, Phoebe) -
+* Board Game Afternoon (Coordinator: Lewis) - 
 
 ### Cosplay and Craft
 
@@ -218,6 +211,7 @@ News and discussions on events.
 * General Hacking Day (Coordinator: Committee) -
 * Open Day (Coordinator: Fletcher) -
 * Metal Monday (Coordinator: Ben) -
+* Wednesday Woodworking (Coordinator: Renae) - 
 
 ### Other
 

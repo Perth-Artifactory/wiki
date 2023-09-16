@@ -2,7 +2,7 @@
 title: Constitution
 description: 
 published: true
-date: 2023-09-16T14:42:56.534Z
+date: 2023-09-16T14:59:32.772Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:18.038Z
@@ -39,6 +39,8 @@ A revised version (**not yet in effect**) is available:
 * That revision was then submitted to Consumer Protection for approval as required under s33 of the Act, *Certain other rule alterations to be approved by Commissioner*.
 
 * Approval from the Commissioner is pending.
+
+* Once approved, we will upload the new constitution to ACNC, and update this page.
 
 ## Source
 

@@ -2,7 +2,7 @@
 title: Constitution
 description: 
 published: true
-date: 2023-09-16T14:59:32.772Z
+date: 2023-09-18T04:50:29.003Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:18.038Z
@@ -34,7 +34,7 @@ A revised version (**not yet in effect**) is available:
 
 ### Edition of 2023-09-16
 
-* A new clause 9.1.f., regarding when free and sponssored memberships cease, was adopted by special resolution at the annual general meeting held [2023-09-16](/minutes/AGM/2023-09-16).
+* A new clause 9.1.f., regarding when free and sponsored memberships cease, was adopted by special resolution at the annual general meeting held [2023-09-16](/minutes/AGM/2023-09-16).
 
 * That revision was then submitted to Consumer Protection for approval as required under s33 of the Act, *Certain other rule alterations to be approved by Commissioner*.
 

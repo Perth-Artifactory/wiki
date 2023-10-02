@@ -23,6 +23,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ben Jude (bjude) | ❌ | ❌ | ✅ | 
 | Ben Moore (Ben) | ✅ | ❌ | ❌ | 
 | Blake Samuels (Blake) | ✅ | ✅ | ✅ | 
+| Bosun Michael | ✅ | ❌ | ❌ | 
 | Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ✅ | 
 | Callum Smith (Clam) | ✅ | ✅ | ❌ | 
 | Claude Woodward | ✅ | ❌ | ✅ | 

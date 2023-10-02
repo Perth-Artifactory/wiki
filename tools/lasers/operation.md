@@ -1,18 +1,14 @@
 ---
-title: Operation Checklist
-description: 
+title: Laser Operation Checklist
+description: How to use our laser cutters
 published: true
-date: 2023-10-02T12:17:52.386Z
-tags: 
+date: 2023-10-02T12:32:22.416Z
+tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
 ---
 
-##
-
-Checklists for operating the lasers
-
-### Big Red
+## Big Red
 
 * **Check whether your material can be cut by the laser**. Refer to the [Material Advice](/tools/lasers/materials) page for specifics.
 * **Set your job up in [LaserCut](/tools/lasers/lasercut)**
@@ -51,7 +47,7 @@ Checklists for operating the lasers
 
 
 
-### Middle Red
+## Middle Red
 
 * **Set your job up in Light Burn**
 * **Turn the laser on** using the green power button.
@@ -82,4 +78,4 @@ Checklists for operating the lasers
  * **Remove your material**. Remove your design and discard of any scraps created.
 * **Turn the laser off** using the green power button.
 
-### Little Red
+## Little Red

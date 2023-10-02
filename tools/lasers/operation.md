@@ -2,7 +2,7 @@
 title: Operation Checklist
 description: 
 published: true
-date: 2023-10-02T12:05:17.986Z
+date: 2023-10-02T12:11:26.354Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -39,12 +39,12 @@ Checklists for operating the lasers
       * The laser origin point has been changed. Use Laser -> Set laser origin -> `TODO` to correct. You will need to download your job again.
  * **Check the temperature on the chiller**. There is a display on the front of the chiller. It is safe to operate when the chiller is displaying 25.5C or lower. If the temperature is above this limit wait a few minutes and check again.
  * **Familiarise yourself with the location of your fire suppression equipment**. Identify your closest spray bottle, fire blanket, and fire extinguisher.
- * ~~**Turn on the air assist**. Turn the red lever on the left hand side of the machine 90 degrees to open the air valve. Put your hand under the head to confirm that the air is flowing correctly through the head and not through a hole in the air line.~~
+ * **Check the air assist**. Put your hand under the head to confirm that the air is flowing correctly through the head and not through a hole in the air line.
  * **Close the lid**
  * **Cut/Engrave your design**. Press `Start/Pause` and your laser job will begin. You must actively supervise the laser cutting for the duration of your job. If need be the laser can be interrupted in several ways:
    * The `Start/Pause` button will pause your job. This is good if you need to walk away from the machine. The job can be resumed by pressing the button again.
    * The `Stop` button will end the job and return the cutting head to the starting position.
-   * The emergency stop will immediately shut down the laser.
+   * The emergency stop will immediately shut down the laser. (but not auxillary equipment like the extractor, compressor, or chiller)
  * **Turn off the air assist**. The laser cutters are situated close to the social and project areas. To prevent unnecessary noise pollution turn off the air assist before opening the lid of the machine.
  * **Remove your material**. Remove your design and discard of any scraps created.
  * **Turn off the laser cutter at the wall**

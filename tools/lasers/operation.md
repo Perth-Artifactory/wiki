@@ -2,7 +2,7 @@
 title: Operation Checklist
 description: 
 published: true
-date: 2023-10-02T12:16:17.542Z
+date: 2023-10-02T12:17:52.386Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -16,7 +16,7 @@ Checklists for operating the lasers
 
 * **Check whether your material can be cut by the laser**. Refer to the [Material Advice](/tools/lasers/materials) page for specifics.
 * **Set your job up in [LaserCut](/tools/lasers/lasercut)**
-* **Turn the laser on using either the green power button or the shortcut button on the side of the monitor**
+* **Turn the laser on** using either the green power button or the shortcut button on the side of the monitor.
   * **Check that the water chiller turned on**. It's the white box to the left of the laser cutter. You can tell that it's on because the green light will be on. Don't worry about the temperature just yet.
   * **Check that the extraction system turned on**. Big Red uses a large air extractor that is connected to the back of the machine. Fumes are pulled out of the machine through slots located inside the cutting bay behind the bed. Put your hand over these slots and check for slight air movement.
 * **Place your material on the bed**
@@ -47,14 +47,14 @@ Checklists for operating the lasers
    * The `Stop` button will end the job and return the cutting head to the starting position.
    * The emergency stop will immediately shut down the laser. (but not auxillary equipment like the extractor, compressor, or chiller)
  * **Remove your material**. Remove your design and discard of any scraps created.
-* **Turn the laser off using either the green power button or the shortcut button on the side of the monitor**
+* **Turn the laser off** using either the green power button or the shortcut button on the side of the monitor.
 
 
 
 ### Middle Red
 
 * **Set your job up in Light Burn**
-* **Turn the laser on at the wall**
+* **Turn the laser on** using the green power button.
   * **Check that the water chiller turned on**. It's the white box behind the laser cutter. You can tell that it's on because the green light will be on. Don't worry about the temperature just yet.
   * **Check that the extraction system turned on**. Middle Red uses a large air extractor that is connected to the left side of the machine. Fumes are pulled out of the machine through a slot located inside the cutting bay to the left of the bed. Put your hand over this slot and check for slight air movement.
 * **Place your material on the bed**
@@ -80,6 +80,6 @@ Checklists for operating the lasers
    * The `TODO` button will end the job and return the cutting head to the starting position.
    * The emergency stop will immediately shut down the laser.
  * **Remove your material**. Remove your design and discard of any scraps created.
- * **Turn off the laser cutter at the wall**
+* **Turn the laser off** using the green power button.
 
 ### Little Red

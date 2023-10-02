@@ -2,7 +2,7 @@
 title: Materials Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-10-02T12:52:27.425Z
+date: 2023-10-02T12:54:14.934Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -104,7 +104,7 @@ Polystyrene and Polypropylene present a significant fire risk and should not be 
 
 PVC contains chlorine which is released when cutting on the lasers in the form of chlorine gas. This gas is harmful to laser componentry and people. Material containing chlorine can be recognised by a yellow smoke being released. If you see this gas immediately press the emergency stop on the machine and step away from the laser until the gas has been extracted. If the laser has been in operation for more than 5 seconds **you must evacuate the courtyard and laser area**. Depending on the respiratory health of attendees on the day they may need to seek emergency medical attention. Alert your nearest committee member if one is present in the space.
 
-### ABS
+### ABS ❌
 
 > The information below has been included for informational purposes only. This material presents a significant health risk and under no circumstances should be cut on the lasers at any time.
 {.is-warning}

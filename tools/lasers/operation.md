@@ -2,7 +2,7 @@
 title: Operation Checklist
 description: 
 published: true
-date: 2023-10-02T12:14:55.116Z
+date: 2023-10-02T12:16:17.542Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -14,6 +14,7 @@ Checklists for operating the lasers
 
 ### Big Red
 
+* **Check whether your material can be cut by the laser**. Refer to the [Material Advice](/tools/lasers/materials) page for specifics.
 * **Set your job up in [LaserCut](/tools/lasers/lasercut)**
 * **Turn the laser on using either the green power button or the shortcut button on the side of the monitor**
   * **Check that the water chiller turned on**. It's the white box to the left of the laser cutter. You can tell that it's on because the green light will be on. Don't worry about the temperature just yet.

@@ -2,7 +2,7 @@
 title: Operation Checklist
 description: 
 published: true
-date: 2023-10-02T12:11:26.354Z
+date: 2023-10-02T12:14:55.116Z
 tags: 
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -15,7 +15,7 @@ Checklists for operating the lasers
 ### Big Red
 
 * **Set your job up in [LaserCut](/tools/lasers/lasercut)**
-* **Turn the laser on at the wall**
+* **Turn the laser on using either the green power button or the shortcut button on the side of the monitor**
   * **Check that the water chiller turned on**. It's the white box to the left of the laser cutter. You can tell that it's on because the green light will be on. Don't worry about the temperature just yet.
   * **Check that the extraction system turned on**. Big Red uses a large air extractor that is connected to the back of the machine. Fumes are pulled out of the machine through slots located inside the cutting bay behind the bed. Put your hand over these slots and check for slight air movement.
 * **Place your material on the bed**
@@ -45,9 +45,8 @@ Checklists for operating the lasers
    * The `Start/Pause` button will pause your job. This is good if you need to walk away from the machine. The job can be resumed by pressing the button again.
    * The `Stop` button will end the job and return the cutting head to the starting position.
    * The emergency stop will immediately shut down the laser. (but not auxillary equipment like the extractor, compressor, or chiller)
- * **Turn off the air assist**. The laser cutters are situated close to the social and project areas. To prevent unnecessary noise pollution turn off the air assist before opening the lid of the machine.
  * **Remove your material**. Remove your design and discard of any scraps created.
- * **Turn off the laser cutter at the wall**
+* **Turn the laser off using either the green power button or the shortcut button on the side of the monitor**
 
 
 

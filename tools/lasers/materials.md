@@ -2,7 +2,7 @@
 title: Materials Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-10-02T12:54:14.934Z
+date: 2023-10-02T13:10:38.303Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -35,7 +35,6 @@ Thicknesses:
 
 > Marine Plywood, particularily over 3mm thick, does not cut well on the lasers and may present a fire risk.
 {.is-warning}
-
 
 Plywood is made up of multiple layers of offset wood glued together. This has some advantages and disadvantages. The easiest source is Bunnings.
 
@@ -137,8 +136,35 @@ Thin leather cuts well but can have a distinct burnt hair smell. Consider cuttin
 
 ## Glass
 
+> Mirrored glass may present a laser safety hazard to the machine operator. Consult a laser trainer before cutting this variant.
+{.is-warning}
+
 Can be etched and (sometimes) scored. Plan for failure and bring extra material. If your goal is to etch a design on the surface this can likely be achieved using a combination of a stencil cut on the vinyl cutter and the sandblaster instead.
 
 ## EVA Foam
 
 Cuts great, may need to use engraving passes if doing partial cuts on Big Red because getting the power low enough otherwise is difficult.
+
+## Metal
+
+The lasers can't cut metal but they can be used to remove some surface finishes. There's no real risk to the underlying metal if you run the cut too slowly.
+
+### Aluminium Composite Panel (ACP)
+
+Engraviing the coloured coating off of this material will result in clean edges but a dirty surface. Wipe with a cloth to clean up the engraved surface.
+
+### Painted Steel
+
+Provided that the paint is laser safe engraves well.
+
+### Anodised Aluminium
+
+Engraves well, may need an etch on the outside of engraved areas to ensure a clean line.
+
+### Metal coated in layout dye/fluid
+
+Engraves well.
+
+### Rusty Iron/Steel
+
+Slight success can be had when engraving designs but the lasers are not a suitable tool for bulk rust removal. Consider the sand blaster or angle grinder instead.

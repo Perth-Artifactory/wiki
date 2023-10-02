@@ -2,7 +2,7 @@
 title: Materials Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-02-16T13:19:02.822Z
+date: 2023-10-02T12:52:27.425Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -27,15 +27,17 @@ Considerations:
 Thicknesses:
 |            | Works | Edge affected | Edge significantly affected |
 |------------|-------|---------------|-----------------------------|
-| Big Red    | 12    | 12            | 16                          |
+| Big Red    | 9     | 12            | 16                          |
 | Middle Red | 3     | 6             | 9                           |
 | Little Red | 3     | 6             | 9                           |
 
 ### Plywood
 
-Plywood is made up of multiple layers of offset wood glued together. This has some advantages and disadvantages. The easiest source is Bunnings.
+> Marine Plywood, particularily over 3mm thick, does not cut well on the lasers and may present a fire risk.
+{.is-warning}
 
-**Marine Plywood**, particularily over 3mm thick, does not cut well on the lasers.
+
+Plywood is made up of multiple layers of offset wood glued together. This has some advantages and disadvantages. The easiest source is Bunnings.
 
 Considerations:
 * **Material variations**: Marine grade plywood (and other fire resistant variations) do not cut well on the lasers and should be avoided. If this material is absolutely required you may have some success using the CNC router instead. You could also cut templates out of another material and use a plunge router depending on your required design.
@@ -47,17 +49,22 @@ Considerations:
 Thicknesses:
 |            | Works | Edge affected | Edge significantly affected |
 |------------|-------|---------------|-----------------------------|
-| Big Red    | 12    | 18            | 18                          |
-| Middle Red | 3     | 7             | \>7                         |
+| Big Red    | 9     | 12            | >12                          |
+| Middle Red | 3     | 7             | >7                         |
 | Little Red | 3     | 7             | >7                          |
 
 ### Pine
 
-Cuts and engraves well, more details to come.
+Considerations:
+* **Material variations**: Treated framing pine may present a health risk when cutting.
+* **Engraving finish**: Pine will show wood grain when engraved.
+* **Cleanup**: The top edges of cut pine will be covered in residue but won't be overly charred. The easiest method of cleanup is likely sanding. A lot of this surface discolouration can also be offset by covering the material in masking tape or other contact adhesive backed protecting covering before cutting.
+* **Painting**: Plywood paints and seals well.
+* **Cut edge properties**: The edges of cut pine will rarely be perpendicular and will be significantly charred.
 
 ### Jarrah
 
-Cuts and engraves well. Can present a moderate fire risk. More details to come.
+Cuts and engraves well but you will have exceedingly poor results if you have to cut a line twice due to the material hardening once cut. Second passes and slow first passes will present a fire risk.
 
 ## Plastic
 
@@ -65,7 +72,16 @@ Certain plastics are completely banned from use on the lasers due to their dange
 
 ### Acrylic
 
-Cuts great, more details to come.
+> Mirrored acrylic may present a laser safety hazard to the machine operator. Consult a laser trainer before cutting this variant.
+{.is-warning}
+
+* **Material variations**: Apart from mirrored acrylic (see above) The primary safety concern with acrylic variants is when they have a UV coating on top. 
+* **Engraving finish**: Will clearly show the individual lines of an engrave unless the passes are quite light or very close together. Running an etch around the outside of engraved areas may provide a more visually distinctive line.
+* **Cleanup**: Deep engraves will leave a large amount of powder on the surface of the material. This can be removed using an air compressor and water. The top surface of the acrylic will typically be clear but the bottom may have some residue, particularily on thicker material. This can be somewhat negated by leaving the protective film on the bottom of the material.
+* **Painting**: If you're painting the entire material then you're probably better off sourcing a piece that's already the colour you want. For stencil work great success can be had by selectively removing the adhesive paper from the top of the material, painting, then removing the rest. This can be achieved in a few ways (The first will give a more robust finish, the second a smoother surface):
+  * Engraving the area you'd like to paoint, cleaning the engrave, painting, then peeling the rest of the paper off. or
+  * Etching the borders of your desired stencil, carefully peeling off the paper from the parts of the material you want to paint, then painting.
+* **Cut edge properties**: Very clean.
 
 ### Polyethylene (HDPE) ❌
 
@@ -110,18 +126,18 @@ Synthetic fabrics are likely to melt rather than burn. This can result in signif
 > Corrigated cardboard presents a significant fire risk and should be supervised by an experienced laser maintainer.
 {.is-warning}
 
-Cuts easily but consider whether cardboard has a non cuttable plastic coating on it. 
+Cuts easily but consider whether the cardboard has a non cuttable plastic coating on it. 
 
 ## Leather
-
-Thin leather cuts well but can have a distinct burnt hair smell. Consider cutting outside of events.
 
 > Chrome tanned leather in particular presents a significant health risk and should not be cut at any time.
 {.is-warning}
 
+Thin leather cuts well but can have a distinct burnt hair smell. Consider cutting outside of events.
+
 ## Glass
 
-Can be etched and (sometimes) scored. Plan for failure and bring extra material. More details to come.
+Can be etched and (sometimes) scored. Plan for failure and bring extra material. If your goal is to etch a design on the surface this can likely be achieved using a combination of a stencil cut on the vinyl cutter and the sandblaster instead.
 
 ## EVA Foam
 

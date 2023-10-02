@@ -1,8 +1,8 @@
 ---
-title: Materials Advice
+title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-10-02T13:10:38.303Z
+date: 2023-10-02T13:11:12.855Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z

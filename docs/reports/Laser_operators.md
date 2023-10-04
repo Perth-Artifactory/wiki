@@ -80,6 +80,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Nathan Dunn | ❌ | ❌ | ✅ | 
 | Nathan Thompson (nathan) | ✅ | ❌ | ✅ | 
 | Patrick Kent | ✅ | ❌ | ✅ | 
+| Penny Wood | ✅ | ❌ | ❌ | 
 | Peter Hillier (letsburn00) | ✅ | ❌ | ✅ | 
 | Philip Wijesinghe | ❌ | ❌ | ✅ | 
 | Rebecca Howard | ❌ | ❌ | ✅ | 

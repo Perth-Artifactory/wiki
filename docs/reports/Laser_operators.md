@@ -89,6 +89,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ricki Barnes (rickibarnes) | ❌ | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ✅ | ✅ | ✅ | 
 | Rodrigo Kendrick | ❌ | ❌ | ✅ | 
+| Ross Minney | ✅ | ❌ | ❌ | 
 | Ross Sandrock | ❌ | ❌ | ✅ | 
 | Ryan Adine (Reyan) | ❌ | ❌ | ✅ | 
 | Ryan White | ❌ | ❌ | ✅ | 

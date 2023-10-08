@@ -45,7 +45,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Hui shan Lim (Shan) | ❌ | ❌ | ✅ | 
 | Iain Graham (Sylver) | ✅ | ✅ | ✅ | 
 | Ilke Dincer | ✅ | ❌ | ❌ | 
-| Isaac Monteath | ✅ | ❌ | ❌ | 
+| Isaac Monteath | ✅ | ✅ | ❌ | 
 | James Palmer (James Palmer) | ❌ | ❌ | ✅ | 
 | Jamie  Moir  (Jamie ) | ✅ | ❌ | ✅ | 
 | Jamieson  Quin (Jamo) | ✅ | ❌ | ❌ | 

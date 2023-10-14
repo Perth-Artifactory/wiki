@@ -2,11 +2,15 @@
 title: Committee Meeting - yyyy-mm-dd - Post AGM
 description: 
 published: true
-date: 2023-01-04T02:40:00.960Z
+date: 2023-10-14T01:26:57.711Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:32.836Z
 ---
+
+> For the 2023 post AGM meeting I departed significantly from this template. Updating this template is on the to-do list. In the mean time, copy the previous post-AGM minutes. Lewis 2023-10-14.
+{.is-warning}
+
 
 # Committee Meeting - yyyy-mm-dd - Post AGM
 

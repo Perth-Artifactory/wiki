@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2023-08-28T01:30:19.101Z
+date: 2023-10-14T05:35:29.682Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -43,7 +43,7 @@ Keep it nice for everyone else:
 
 ### Member Storage (Lockers and Tubs)
 
-Members are entitled (subject to availability) to a single committee authorised storage space (up to 150L) left in a tidy and safe state. It maybe a locker or storage space on the pallet rack. Ask in #welcome on Slack or contact your nearest committee member to get assigned a space.
+Members are entitled (subject to availability) to a single committee authorised storage space provided it's left in a tidy and safe state. Ask in #welcome on Slack or contact storage@artifactory.org.au to get assigned a space.
 
 **No guarantees are made to the security of your belongings on site.**
 
@@ -54,6 +54,27 @@ If you cancel your membership via resignation, termination etc your belongings w
 ### Additional Member Storage
 
 Members are entitled to request for additional storage on the pallet racking. Additional storage will be charged at a rate of \$60 per half a pallet rack per month and will be restricted to the upper racks. To date the committee has not authorised a storage space under this By-Law due to space constraints in the workshop.
+
+## 24/7 Access
+
+Members may request a 24/7 key to the workshop provided that they have:
+
+* Held their current membership for at least two weeks
+* Consistantly abided by our [Code of Conduct](/docs/committee/code_of_conduct)
+* No outstanding invoices
+* Demonstrated sound judgement regarding who can enter the space outside of events
+* Demonstrated an ability to work well in shared workshop environment (works unsupervised, undertakes tasks safely, cleans up after themselves, communicates issues as they arise)
+
+Once you've contacted the [Membership Officer](mailto:membership@artifactory.org.au) to request a key they will confirm the above requirements and put the application to the committee.
+
+Keyholders are expected to:
+
+* Continue to adhere to the requirements listed above
+* Maintain a keybond with the association appropriate to their membership class
+* Maintain accurate information within our membership system including a photo suitable for identification purposes, contact information, and emergency contact information.
+* Adhere to their [responsibilities as a keyholder](/docs/committee/keyholder_responsibilities)
+
+The underlying bylaw that governs keybonds can be found [here](https://wiki.artifactory.org.au/en/docs/policies/bylaws#rfid-keys-for-members)
 
 ## Areas Directory
 
@@ -89,7 +110,7 @@ Members are entitled to request for additional storage on the pallet racking. Ad
 ## Communal Materials
 
 * There are supplies of free wood and acrylic next to Big Red. The specific location will be shown to you during laser training or you can ask an existing member.
-* Items left on the *Upcycle* bench are free game.
+* Items left on the *Upcycle* rack are free game.
 * The kitchen has a small quantity of cleaning products etc.
 * Filing Cabinet in the shed contains paints / spray paints for communal use unless otherwise labelled.
 * Stuff on the Hack Rack.
@@ -110,6 +131,7 @@ Members are entitled to request for additional storage on the pallet racking. Ad
 
 ## Tech Resources
 
+* Many devices in the space can be controlled from [here](https://control.artifactory.org.au) while connected to our wifi.
 * The Member Work directory can be accessed in a few different ways:
   * From any computer in the space (Typically mounted as either "filer" or "Member Work")
   * From your device when connected to the wifi. (You'll need to mount the filer SMB share, ask someone if you don't know how to do this)

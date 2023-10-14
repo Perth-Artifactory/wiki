@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2023-10-14T01:39:12.551Z
+date: 2023-10-14T01:46:11.424Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -230,10 +230,14 @@ News and discussions on events.
 * Open Day (Coordinator: Fletcher) -
 * Metal Monday (Coordinator: Ben) -
 * Wednesday Woodworking (Coordinator: Renae) - 
+* Start Making! Beginner's Day (Coordinator: Fletcher) -
+* Work on the Workshop (Coordinator: Lewis) -
 
 ### Other
 
 (new and once off events)
+
+
 
 * EVENT NAME (COORDINATOR) - REPORT
 

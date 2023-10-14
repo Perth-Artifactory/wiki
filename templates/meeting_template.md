@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2023-09-16T10:48:54.534Z
+date: 2023-10-14T01:39:12.551Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -38,6 +38,8 @@ The table of contents on the left side of the page forms the agenda of this meet
 * Minute taker: NAME
 * Chair: NAME
 
+* Quorum present (4 committee members): YES/NO
+
 ## Meeting Times
 
 * Opened: OPEN
@@ -58,6 +60,22 @@ Previous meeting's minutes: [PPPP-PP-PP](/minutes/Committee/PPPP-PP-PP)
 * Action item
 
 ### Review Online Motions
+
+> **Note to the secretary (delete after reading)**
+>
+> This section requires manual preparation before the meeting.
+>
+> As per our bylaw on [online motions](/docs/policies/online-motions), 
+>
+> *The details of each online motion must be recorded in the minutes of the next committee meeting. The details recorded must include:*
+> - *The full text of the online motion; and*
+> - *The result of the online motion, e.g. passed, failed, lapsed, or withdrawn.*
+>
+> You can get the text and results of online motions by copy pasting out of Loomio.
+>
+> Also note that the start of a committee meeting causes all outstanding online motions to lapse.
+{.is-info}
+
 
 | Date raised | Date completed | Motion text            | Outcome                |
 | ----------- | -------------- | ---------------------- | ---------------------- |
@@ -190,7 +208,7 @@ News and discussions on events.
 ### Tech
 
 * Arduino U - (Coordinators: Blake, Stewart) -
-* Open Source Hackers / Perth Linux Users Group (Coordinators: Stephen Price*, Nick, Damon) -
+* Open Source Hackers / Perth Linux Users Group (Coordinators: Niall Navin, Nick Bannon) -
 
 ### Social
 
@@ -204,7 +222,7 @@ News and discussions on events.
 ### Music
 
 * DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits*) -
-* Noizemaschin!! (Coordinators: Stuart*, Tim*, Skot, Stewbags*) -
+* Noizemaschin!! (Coordinators: Stuart*, Tim*, Skot*, Stewbags*) -
 
 ### General
 
@@ -223,7 +241,13 @@ News and discussions on events.
 
 ## Other Business
 
-Other business (items not covered by regular meeting sections) may be added to this section up to 48 hours before start of committee meeting.
+> Other business (items not covered by regular meeting sections) may be added to this section until the notice of the committee meeting is given to the committee members, 48 hours before the meeting. 
+> 
+> Urgent business that has not been described in the notice may be conducted at the meeting if the committee members at the meeting unanimously agree to treat that business as urgent.
+>
+> Refer s43 of the [constitution](/constitution) regarding *Notice of committee meetings*.
+{.is-info}
+
 
 ### OTHER BUSINESS EXAMPLE
 

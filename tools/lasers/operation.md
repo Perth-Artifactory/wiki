@@ -2,11 +2,17 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters
 published: true
-date: 2023-10-02T12:32:22.416Z
+date: 2023-10-16T12:39:18.356Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
 ---
+
+> You need to be trained (and pass a test) before using you can use our laser cutters.
+>
+> Only current, authorized [laser trainers](/tools/lasers#trainers) can deliver laser training.
+{.is-warning}
+
 
 ## Big Red
 

@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2023-10-16T12:40:48.098Z
+date: 2023-10-16T12:41:35.891Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -71,7 +71,7 @@ Below is a list of trainers (Artifactory volunteers who are able to train new op
 
 ### Operators
 
-[Operators List](/tools/lasers/operators_list) - this is a list of the people who are trained to use each laser cutter.
+[Operators List](/docs/reports/Laser_operators) - this is a list of the people who are trained to use each laser cutter.
 
 ## Instructions for Use
 

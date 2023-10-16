@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2023-03-05T08:53:11.780Z
+date: 2023-10-16T12:40:48.098Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -67,7 +67,7 @@ Below is a list of trainers (Artifactory volunteers who are able to train new op
 | Johannes Chuah | -             | -              | ✓          | #lasers on Slack                                        |
 | Nick Bannon    | ✓            | ✓             | ✓          | Third Tuesday of the month from 6pm (Confirm beforehand) |
 | Steve Hodges   | ✓            | -              | ✓          | Unavailable                                             |
-| Lewis Yip | - | - | ✓ | General Hacking Saturdays (Confirm beforehand), #lasers on Slack |
+| Lewis Yip | - | - | ✓ | General Hacking Saturdays (Confirm beforehand), Metal Mondays (Confirm beforehand), #lasers on Slack |
 
 ### Operators
 

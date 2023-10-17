@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2023-01-04T03:12:15.232Z
+date: 2023-10-17T11:18:29.011Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -29,6 +29,6 @@ Our resin printers are primarily sliced using [Chitubox](https://www.chitubox.co
 
 | Printer                                     | Status                  | Build volume | Layer height    |
 |---------------------------------------------|-------------------------|--------------|-----------------|
-| [TEVO Black Widow](/tools/Tevo black widow) | Operational             | 350x240x240  | 100-300um (typ) |
+| [TEVO Black Widow](/tools/3dprinters/tevo_black_widow) | Operational             | 350x240x240  | 100-300um (typ) |
 | MakerBot Replicator \#1                     | ❌ Requires calibration |              |                 |
 | MakerBot Replicator \#2                     | ❌ Requires calibration |              |                 |

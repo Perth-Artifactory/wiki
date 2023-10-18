@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2023-10-17T09:52:44.950Z
+date: 2023-10-18T03:37:25.152Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -115,7 +115,32 @@ The Treasurer's Disclaimer: The numbers below have been calculated in a quick wa
 
 ### Current Status
 
+> **Note to the secretary (delete after reading)**
+>
+> This section requires manual preparation before the meeting.
+>
+> Login to our online banking (NAB) and report on the balance of our 3 main bank accounts.
+{.is-info}
+
+| Account                       | Balance     |
+| ----------------------------- | ----------- |
+| Operations                    | $xxx,xxx.xx |
+| Sale Program                  | $xxx,xxx.xx |
+| Sponsored Student Memberships | $xxx,xxx.xx |
+|                               |             |
+| TOTAL                         | $xxx,xxx.xx |
+
+
 ### New Memberships for approval
+
+> **Note to the secretary (delete after reading)**
+>
+> This section requires manual preparation before the meeting.
+>
+> Go through the #committee-bank channel and check for any new memberships that we haven't approved yet.
+>
+> Add a motion to the below table for each such member, e.g. "Approve Full Membership for Jane Citizen".
+{.is-info}
 
 | Motion Text | Moved by    | Seconded by       | Status            |
 | ----------- | ----------- | ----------------- | ----------------- |

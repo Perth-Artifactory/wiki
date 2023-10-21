@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2023-10-18T03:37:25.152Z
+date: 2023-10-21T14:42:25.819Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -101,20 +101,6 @@ Previous meeting's minutes: [PPPP-PP-PP](/minutes/Committee/PPPP-PP-PP)
 
 The Treasurer's Disclaimer: The numbers below have been calculated in a quick way and have not undergone robust checking as for an Annual Report.
 
-### Expenses for Approval
-
-* EXPENSES
-
-| Motion Text | Moved by    | Seconded by       | Status            |
-| ----------- | ----------- | ----------------- | ----------------- |
-| MOTION TEXT | MOVER       | SECONDER          | Accepted/Rejected |
-
-### Due invoices
-
-## Membership Report
-
-### Current Status
-
 > **Note to the secretary (delete after reading)**
 >
 > This section requires manual preparation before the meeting.
@@ -130,6 +116,19 @@ The Treasurer's Disclaimer: The numbers below have been calculated in a quick wa
 |                               |             |
 | TOTAL                         | $xxx,xxx.xx |
 
+### Expenses for Approval
+
+* EXPENSES
+
+| Motion Text | Moved by    | Seconded by       | Status            |
+| ----------- | ----------- | ----------------- | ----------------- |
+| MOTION TEXT | MOVER       | SECONDER          | Accepted/Rejected |
+
+### Due invoices
+
+## Membership Report
+
+### Current Status
 
 ### New Memberships for approval
 

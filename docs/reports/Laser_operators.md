@@ -12,6 +12,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | --- | --- | --- | --- |
 | Adam Crowle (Ads) | ❌ | ❌ | ✅ | 
 | Adam Mellor | ✅ | ✅ | ✅ | 
+| Aiden Loh | ✅ | ❌ | ❌ | 
 | Alastair Waddell (alastair) | ❌ | ❌ | ✅ | 
 | Alexey Korolev (korolexa) | ❌ | ❌ | ✅ | 
 | Andrew Bernsousa | ✅ | ❌ | ✅ | 

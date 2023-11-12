@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2023-10-16T12:41:35.891Z
+date: 2023-11-12T04:46:25.743Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -10,11 +10,11 @@ dateCreated: 2022-10-17T16:57:18.915Z
 
 # Laser Cutters
 
-The Perth Artifactory has 3 laser cutters available for use. For details on each machine see these pages:
+The Perth Artifactory has 2 laser cutters available for use. For details on each machine see these pages:
 
 * [Big Red](/tools/lasers/bigred)
 * [Middle Red](/tools/lasers/middlered)
-* [Little Red](/tools/lasers/littlered)
+* ~~[Little Red](/tools/lasers/littlered)~~
 
 The laser cutters use high intensity collimated infrared light to cut and engrave various materials. The most common materials cut on our laser cutters are woods and acrylic.
 
@@ -56,18 +56,18 @@ A user must be trained and tested on each laser cutter separately, since they ar
 
 Below is a list of trainers (Artifactory volunteers who are able to train new operators). Training can be organised by posting a message to the [\#lasers](https://perthartifactory.slack.com/archives/CB9S94S2E) channel on Slack.
 
-| Trainer Name   | LG500 "Little" | KH7050 "Middle" | LC1290 "Big" | Availability                                            |
-| -------------- | -------------- | --------------- | ------------ | ------------------------------------------------------- |
-| Blake Samuels  | ✓            | ✓             | ✓          | Unavailable        |
-| Beau Scott     | ✓            | ✓             | ✓          | #lasers on Slack                                        |
-| Bruce Chambers | -             | -              | ✓          | #lasers on Slack                                        |
-| Fletcher Boyd  | ✓            | ✓             | ✓          | General Hacking Saturdays (Confirm beforehand), #lasers on Slack           |
-| Glenn Martin   | ✓            | -              | ✓          | Unavailable                                             |
-| Iain Graham    | ✓            | ✓             | ✓          | Unavailable                                             |
-| Johannes Chuah | -             | -              | ✓          | #lasers on Slack                                        |
-| Nick Bannon    | ✓            | ✓             | ✓          | Third Tuesday of the month from 6pm (Confirm beforehand) |
-| Steve Hodges   | ✓            | -              | ✓          | Unavailable                                             |
-| Lewis Yip | - | - | ✓ | General Hacking Saturdays (Confirm beforehand), Metal Mondays (Confirm beforehand), #lasers on Slack |
+| Trainer Name   | Big Red (LC1290) | Middle Red (KH7050) | Availability                                            |
+| -------------- | ---------------- | ------------------- | ------------------------------------------------------- |
+| Nick Bannon    | ✓                | ✓                   | Third Tuesday of the month from 6pm (Confirm beforehand) |
+| Fletcher Boyd  | ✓                | ✓                   | #lasers on Slack, Slack DMs (for NDIS and accessable variations)  |
+| Bruce Chambers | ✓                | -                   | #lasers on Slack  |
+| Johannes Chuah | ✓                |                     | By request  |
+| Lewis Yip      | ✓                | -                   | General Hacking Saturdays (Confirm beforehand), Metal Mondays (Confirm beforehand), #lasers on Slack |
+| Iain Graham    | ✓                | ✓          | Unavailable |
+| Steve Hodges   | ✓                | -          | Unavailable |
+| Glenn Martin   | ✓                | -          | Unavailable |
+| Blake Samuels  | ✓                | ✓          | Unavailable |
+| Beau Scott     | ✓                | ✓          | Unavailable |
 
 ### Operators
 
@@ -110,7 +110,7 @@ For most jobs it is easier to operate in *relative* positioning mode as it allow
 * You cannot look at multiple laser cutters at the same time, this means you cannot operate multiple lasers at the same time.
 * Clean up the bed after you are done cutting.
 * Closed footwear must be worn at all times in the laser area.
-* Do not attempt to open covers or fix issues yourself if you are not qualified to do so. Let #lazers on Slack know.
+* Do not attempt to open covers or fix issues yourself if you are not qualified to do so. Let #lasers on Slack know.
 * Do not slam or force the main door.
 * Do not leave the laser cutter while it's running.
 * Only use approved materials.
@@ -136,10 +136,4 @@ Pointers and helpful Tips for using the Artifactory Laser Cutters:
 
 ### Banned Materials
 
-Some materials are dangerous to put in the laser cutter. If you are not sure what a material is then do not cut it. Some plastics look like acrylic but release chlorine gas when cut. Experience laser operators and maintainers can test samples of materials with extreme caution.
-
-Forbidden Materials:
-
-* Polycarbonates - Releases cyanide - very dangerous to people
-* PVC or Vinyl - Releases chlorine gas - very dangerous to people and very bad for machine
-* Glass - you can etch it but if you try to cut it will shatter.
+Any material not explicitly listed as safe on the [materials](/tools/lasers/materials) cannot be cut without talking to a laser trainer first.

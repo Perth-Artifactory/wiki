@@ -1,8 +1,8 @@
 ---
 title: Laser Operation Checklist
-description: How to use our laser cutters
+description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2023-10-16T12:39:18.356Z
+date: 2023-11-12T04:28:55.617Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -84,4 +84,39 @@ dateCreated: 2023-02-11T10:21:37.510Z
  * **Remove your material**. Remove your design and discard of any scraps created.
 * **Turn the laser off** using the green power button.
 
-## Little Red
+## What do I do if...
+
+### The z probe makes contact with the bed during a focus/datum
+
+> Carefully read this section in its entirety before doing anything. If at any point during these steps you are not completely sure of what to do, **stop** and ask for help on Slack rather than guessing.
+{.is-danger}
+
+These instructions assume that you pressed the emergency stop button.
+
+* Do not turn the machine back on until the path back to the top right is free from obstructions in X, Y, and Z.
+* Check if there's someone more experienced with laser cutters in the workshop at the time. Don't be afraid to ask for help.
+* Check whether the lens tube at the bottom of the head has depth to spare. If it does:
+  * Move the lens assembly up by loosening the brass screw on the right side of the head (above the air hose). Do not confuse this knob with the knobs on the top of the head that adjust the mirror.
+  * If this has moved the head up enough to clear the bed:
+    * Tighten the brass knob.
+    * Manually move the head back to the top right. Push the head all the way to the right then push the gantry all the way back.
+    * Turn the machine back on.
+    * Lower the bed by 5-10cm.
+    * Move the head to a position that makes it easy to work on.
+    * Undo the brass knob.
+    * Lower the lens assemble by 20mm.
+    * Tighten the brassh knob.
+    * Inspect the head and probe assembly for damage and report to Slack.
+    * If no damage is visible you should be safe to use the machine again.
+  * If the head/probe is still not clear then report the issue to #lasers on Slack and place an out of order sign on the lid of the machine. Out of order signs can be found on the shelf behind Big Red's PC.
+
+
+### A piece drops down into the machine
+
+* If it's a small piece (20mm-20mm or less) and you don't care about it, don't worry about it. It'll be removed during a laser maintenance session.
+* Check if there's a laser maintainer or committee member in the space. They can retrieve the piece for you.
+* If no one is around to help contact #lasers on Slack.
+
+### The bed is visibly tilted
+
+* Report to #lasers on Slack.

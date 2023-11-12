@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-11-12T12:34:35.295Z
+date: 2023-11-12T12:35:23.606Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -90,7 +90,7 @@ Under heavy supervision by an experienced laser maintainer thin sheets of HDPE m
 
 ### Polycarbonate ❌
 
-Polycarbonate cuts poorly on laser cutters in part because it melts rather than vapourises. It poses a significant fire risk and has a high likelyhood of leaving a residue on the laser bed. It can be safely cut on the [CNC router](/tools/cnc/swarf/swarfomat) instead.
+Polycarbonate cuts poorly on laser cutters in part because it melts rather than vapourises. It poses a significant fire risk and has a high likelihood of leaving a residue on the laser bed. It can be safely cut on the [CNC router](/tools/cnc/swarf/swarfomat) instead.
 
 ### Polystyrene / Polypropylene ❌
 

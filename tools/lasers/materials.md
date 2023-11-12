@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-10-02T13:11:12.855Z
+date: 2023-11-12T12:34:35.295Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -78,7 +78,7 @@ Certain plastics are completely banned from use on the lasers due to their dange
 * **Engraving finish**: Will clearly show the individual lines of an engrave unless the passes are quite light or very close together. Running an etch around the outside of engraved areas may provide a more visually distinctive line.
 * **Cleanup**: Deep engraves will leave a large amount of powder on the surface of the material. This can be removed using an air compressor and water. The top surface of the acrylic will typically be clear but the bottom may have some residue, particularily on thicker material. This can be somewhat negated by leaving the protective film on the bottom of the material.
 * **Painting**: If you're painting the entire material then you're probably better off sourcing a piece that's already the colour you want. For stencil work great success can be had by selectively removing the adhesive paper from the top of the material, painting, then removing the rest. This can be achieved in a few ways (The first will give a more robust finish, the second a smoother surface):
-  * Engraving the area you'd like to paoint, cleaning the engrave, painting, then peeling the rest of the paper off. or
+  * Engraving the area you'd like to paint, cleaning the engrave, painting, then peeling the rest of the paper off. or
   * Etching the borders of your desired stencil, carefully peeling off the paper from the parts of the material you want to paint, then painting.
 * **Cut edge properties**: Very clean.
 

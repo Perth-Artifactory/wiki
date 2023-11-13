@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2023-10-21T14:42:25.819Z
+date: 2023-11-13T02:28:34.627Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -302,6 +302,8 @@ What/Inform/Issue
 ## End of Meeting
 
 Remember to set **next meeting time** before closing meeting!
+
+Also update the pinned message in #committee to say the date of the next meeting.
 
 * Next meeting: NNNN-NN-NN, NN:NN N weeks
 

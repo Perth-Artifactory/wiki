@@ -2,7 +2,7 @@
 title: NDIS
 description: How we interact with the NDIS
 published: true
-date: 2023-11-17T08:51:33.603Z
+date: 2023-11-17T08:51:50.113Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T08:48:43.901Z
@@ -42,7 +42,7 @@ The Artifactory works in close collaboration with a range of NDIS providers. Our
 
 The Artifactory is a charity run entirely by volunteers and does not currently receive ongoing financial support from any government entity. We will do our best to make the workshop as accessible as possible and provide occasional guidance to support workers in our space.
 
-* We cannot bill NDIA managed participants though we may still be able to assist relevant providers
 * Artifactory members do not have the capacity to act as ongoing support workers themselves unless privately engaged
+* We cannot bill NDIA managed participants though we may still be able to assist relevant providers
 * While we can direct you to providers that have familiarity with our organisation we do not endorse specific providers
 * Any efforts outlined here are provided ad hoc by volunteers and we make no guarentee about current capacity or long term support

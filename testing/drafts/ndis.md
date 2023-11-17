@@ -2,7 +2,7 @@
 title: NDIS
 description: How we interact with the NDIS
 published: true
-date: 2023-11-17T08:48:43.901Z
+date: 2023-11-17T08:51:33.603Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T08:48:43.901Z
@@ -20,7 +20,7 @@ Here's a breakdown of how we interact with the various components of the NDIS, i
 
 ## Participants
 
-The Artifactory strives to create an inclusive and accessible environment for all members of our community. We understand that participants in the NDIS may have diverse needs, and we are committed to meeting these in the most effective and respectful ways possible. We actively work to provide:
+The Artifactory strives to create an inclusive and accessible environment for all members of our community. We understand that participants in the NDIS may have diverse needs, and we are committed to meeting these in the most effective and respectful ways possible. Depending on circumstances we may be able to provide:
 
 * A safe, supportive, and creative environment
 * Tailored inductions and access plans

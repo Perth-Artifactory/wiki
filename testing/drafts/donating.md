@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-17T05:15:51.346Z
+date: 2023-11-17T06:15:57.913Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -49,15 +49,16 @@ Any member of the [Management Committee](/docs/committee/home#committee-members)
 
 ## How do I claim a tax deduction?
 
-Our treasurers will make sure that you get an invoice or receipt for any tax deductible gifts you give to the Artifactory.
+Our treasurers can issue you a receipt[^4] for any tax deductible gifts you give to The Artifactory.
 
 This process is automatic for donations made through PledgeBot but may need to be [manually initiated](mailto:treasurer@artifactory.org.au) for other donations.
 
-For donations of equipment exceeding $5,000 we will supply you with the appropriate certificate of donation.[^4]
+For donations of equipment exceeding $5,000 we will also supply you with the appropriate certificate of donation.[^5]
 
 You can use these documents as evidence when claiming tax deductions on your tax return.
 
 [^1]: [Australian Business Register](https://abr.business.gov.au/ABN/View/16847853023)
 [^2]: *Income Tax Assessment Act 1997 (Cth)* [s 30(15)](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/s30.15.html)
 [^3]: *Income Tax Assessment Act 1997 (Cth)* [s 30(130)](/https://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/s30.130.html)
-[^4]: [ATO: Philanthropy Program](https://www.ato.gov.au/Forms/Certificate-of-donation---philanthropy-program/)
+[^4]: *Income Tax Assessment Act 1997 (Cth)* [s 30(228)](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/s30.228.html)
+[^5]: [ATO: Philanthropy Program](https://www.ato.gov.au/Forms/Certificate-of-donation---philanthropy-program/)

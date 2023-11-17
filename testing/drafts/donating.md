@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-17T04:56:55.471Z
+date: 2023-11-17T05:09:09.328Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -35,6 +35,14 @@ Things that benefit you personally are not gifts, and are not tax deductible, in
 * Tool usage fees
 * Things you buy while in the space, e.g. food and drinks, supplies for making things
 
+## Where to send monetary donations
+
+We are required[^3] to maintain a seperate account for gifts given to the association. The details for this account are:
+
+Name: `Perth Artifactory Inc Gifts`
+BSB: `XXX XXX`
+Account: `XXXX XXXX`
+
 ## Who can authorise a donation of equipment or material
 
 Any member of the [Management Committee](/docs/committee/home#committee-members) or [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2) may accept donations on our behalf. Please do not purchase items with the express intent of gifting them before talking to us first. 
@@ -45,10 +53,11 @@ Our treasurers will make sure that you get an invoice or receipt for any tax ded
 
 This process is automatic for donations made through PledgeBot but may need to be [manually initiated](mailto:treasurer@artifactory.org.au) for other donations.
 
-For donations of equipment exceeding $5,000 we will supply you with the appropriate certificate of donation.[^3]
+For donations of equipment exceeding $5,000 we will supply you with the appropriate certificate of donation.[^4]
 
 You can use these documents as evidence when claiming tax deductions on your tax return.
 
 [^1]: [Australian Business Register](https://abr.business.gov.au/ABN/View/16847853023)
-[^2]: *Income Tax Assessment Act 1997 (Cth)* [sub-div 30-A](http://www5.austlii.edu.au/au/legis/cth/consol_act/itaa1997240/s30.15.html)
-[^3]: [ATO: Philanthropy Program](https://www.ato.gov.au/Forms/Certificate-of-donation---philanthropy-program/)
+[^2]: *Income Tax Assessment Act 1997 (Cth)* [s 30(15)](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/s30.15.html)
+[^3]: *Income Tax Assessment Act 1997 (Cth)* [s 30(130)](/https://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/s30.130.html)
+[^4]: [ATO: Philanthropy Program](https://www.ato.gov.au/Forms/Certificate-of-donation---philanthropy-program/)

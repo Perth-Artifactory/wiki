@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-17T06:15:57.913Z
+date: 2023-11-17T06:18:00.002Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -15,7 +15,7 @@ The Artifactory cannot exist without the support of our community and donations 
 
 ## What is tax deductible?
 
-> You should consider seeking independent legal, financial, taxation or other advice to check the accuracy of this information and how it relates to your unique circumstances.
+> Information in this section has been tailored to the types of gifts we receive and cannot practically be applied to other DGRs. You should consider seeking independent legal, financial, taxation or other advice to check the accuracy of this information and how it relates to your unique circumstances.
 {.is-info}
 
 Gifts are things you give to the Artifactory with no expectation of getting anything personally in return.

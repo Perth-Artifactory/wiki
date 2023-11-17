@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-17T04:54:58.331Z
+date: 2023-11-17T04:56:55.471Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -37,7 +37,7 @@ Things that benefit you personally are not gifts, and are not tax deductible, in
 
 ## Who can authorise a donation of equipment or material
 
-Any member of the [Management Committee](/docs/committee/home#committee-members or [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2) may accept donations on our behalf. Please do not purchase items with the express intent of gifting them before talking to us first. 
+Any member of the [Management Committee](/docs/committee/home#committee-members) or [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2) may accept donations on our behalf. Please do not purchase items with the express intent of gifting them before talking to us first. 
 
 ## How do I claim a tax deduction?
 

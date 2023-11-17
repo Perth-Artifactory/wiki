@@ -2,7 +2,7 @@
 title: NDIS
 description: How we interact with the NDIS
 published: true
-date: 2023-11-17T08:53:40.071Z
+date: 2023-11-17T08:59:03.165Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T08:48:43.901Z
@@ -37,6 +37,8 @@ The Artifactory works in close collaboration with a range of NDIS providers. Our
 * Collaborating on tailored support plans for individuals
 * Adapting to specific requirements wherever possible
 * Providing free induction/training (to the level available to our members) for support workers assisting clients in the workshop
+
+We **strongly recommend** reaching out before including us in a participant's plan. This way we can determine whether our facilities are appropriate for the intended goal.
 
 ## Caveats
 

@@ -2,7 +2,7 @@
 title: NDIS
 description: How we interact with the NDIS
 published: true
-date: 2023-11-17T08:59:03.165Z
+date: 2023-11-17T09:00:00.887Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T08:48:43.901Z
@@ -14,7 +14,7 @@ dateCreated: 2023-11-17T08:48:43.901Z
 
 # Our Interaction with the NDIS
 
-The National Disability Insurance Scheme (NDIS) plays a crucial role in assisting people with disabilities achieve equitable access to our community and facilities.
+The National Disability Insurance Scheme (NDIS) plays a crucial role in assisting people with disabilities achieve equitable access to our community and facilities. For any queries regarding items on this page please [contact us](mailto:info@artifactory.org.au).
 
 Here's a breakdown of how we interact with the various components of the NDIS, including Participants and Providers.
 

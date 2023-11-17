@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-17T06:23:00.164Z
+date: 2023-11-17T07:28:19.248Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -46,9 +46,12 @@ Name: `Perth Artifactory Inc Gifts`
 BSB: `XXX XXX`
 Account: `XXXX XXXX`
 
-## Who can authorise a donation of equipment or material
+## Who can determine whether specific equipment or material support our aims
 
-Any member of the [Management Committee](/docs/committee/home#committee-members) or [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2) may accept donations on our behalf. Please do not purchase items with the express intent of gifting them before talking to us first. 
+* For existing equipment and material: Any member of the [Management Committee](/docs/committee/home#committee-members) or [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2) may accept donations on our behalf. Please do not purchase these items with the express intent of gifting them before talking to us first.
+* For proposed equipment/material (PledgeBot): Any member of the [Management Committee](/docs/committee/home#committee-members) can determine that a project is covered. This will be denoted by this line attached to the specific project:
+
+> Donations to this project are considered gifts to Perth Artifactory Inc and are tax deductible.
 
 ## How do I claim a tax deduction?
 

@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-17T05:09:09.328Z
+date: 2023-11-17T05:15:51.346Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -37,7 +37,7 @@ Things that benefit you personally are not gifts, and are not tax deductible, in
 
 ## Where to send monetary donations
 
-We are required[^3] to maintain a seperate account for gifts given to the association. The details for this account are:
+We are required[^3] to maintain a separate account for gifts given to the association. The details for this account are:
 
 Name: `Perth Artifactory Inc Gifts`
 BSB: `XXX XXX`

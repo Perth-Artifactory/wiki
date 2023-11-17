@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-17T07:40:52.194Z
+date: 2023-11-17T09:00:52.225Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -28,7 +28,7 @@ Tax deductible items include[^2]:
 * Donations of equipment and material that were purchased within the last 12 months
 * Donations of equipment and material currently valued at over $5,000
 
-Things that benefit you personally are not gifts, and are not tax deductible, including:
+Things that benefit you personally are **not gifts**, and **are not** tax deductible, including:
 
 * Membership fees
 * Event admission fees

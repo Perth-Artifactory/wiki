@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-17T06:18:00.002Z
+date: 2023-11-17T06:23:00.164Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -36,6 +36,9 @@ Things that benefit you personally are not gifts, and are not tax deductible, in
 * Things you buy while in the space, e.g. food and drinks, supplies for making things
 
 ## Where to send monetary donations
+
+> Due to technical restrictions invoices issued by us will always include the bank details for our primary operations account regardless of whether the invoice is a gift. Please disregard that payment information when transferring a gift covered by this page.
+{.is-info}
 
 We are required[^3] to maintain a separate account for gifts given to the association. The details for this account are:
 

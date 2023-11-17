@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-17T07:28:19.248Z
+date: 2023-11-17T07:40:52.194Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -18,7 +18,7 @@ The Artifactory cannot exist without the support of our community and donations 
 > Information in this section has been tailored to the types of gifts we receive and cannot practically be applied to other DGRs. You should consider seeking independent legal, financial, taxation or other advice to check the accuracy of this information and how it relates to your unique circumstances.
 {.is-info}
 
-Gifts are things you give to the Artifactory with no expectation of getting anything personally in return.
+Gifts are things you give to the Artifactory with no expectation of getting anything personally in return. For this section monetary donations assume a value of at least $2.
 
 Tax deductible items include[^2]:
 

@@ -2,13 +2,13 @@
 title: NDIS
 description: How we interact with the NDIS
 published: true
-date: 2023-11-17T08:52:42.736Z
+date: 2023-11-17T08:53:40.071Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T08:48:43.901Z
 ---
 
-> This document is a DRAFT
+> This document is a draft and in no way represents our current policies etc
 {.is-danger}
 
 

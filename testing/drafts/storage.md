@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-07-18T02:33:05.297Z
+date: 2023-11-22T11:38:23.043Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -113,6 +113,7 @@ There are two racks for members to store sheet materials.
 {.is-info}
 
 > There is currently a proposal to change sheet material storage, from the "10 sheets / 100mm" rule below, to allocating each member a specific slot in the sheet racks on application.
+> FB: Determination was that it may not be feasible. Ignore for now imo.
 {.is-warning}
 
 You must clearly mark each sheet with ---

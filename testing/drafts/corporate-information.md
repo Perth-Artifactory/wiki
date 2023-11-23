@@ -1,14 +1,14 @@
 ---
-title: Corporate Information
+title: Association Information
 description: 
 published: true
-date: 2023-11-22T19:02:03.065Z
+date: 2023-11-23T19:41:08.425Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-22T19:02:03.065Z
 ---
 
-# Corporate Information
+# Association Information
 
 **Perth Artifactory Inc** ("Artifactory") is an incorporated association under the *Associations Incorporation Act 2015* (WA).
 
@@ -17,6 +17,8 @@ dateCreated: 2023-11-22T19:02:03.065Z
 | Registered name           | PERTH ARTIFACTORY INC. |
 | Date of incorporation     | 20/10/2009             |
 | Jurisdiction              | WA                     |
+
+We are governed by a [constitution](/constitution) as required by the Act.
 
 We are a [registered charity](https://www.acnc.gov.au/charity/charities/705391a6-3aaf-e811-a963-000d3ad24077/profile) with the Australian Charities and Not-for-profits Commission (ACNC).
 
@@ -27,3 +29,5 @@ We are endorsed by the Australian Taxation Office as [stated in the ABR](https:/
 >   * Income Tax Exemption - From 01 Jan 2019
 > * Perth Artifactory Inc. is endorsed as a Deductible Gift Recipient (DGR) from 29 Aug 2023.
 >   * It is covered by Item 1 of the table in section 30-15 of the *Income Tax Assessment Act 1997*.
+
+Should you need to contact us for official business, our address for service is committee@artifactory.org.au.

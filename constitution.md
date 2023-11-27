@@ -2,7 +2,7 @@
 title: Constitution
 description: 
 published: true
-date: 2023-09-18T04:50:29.003Z
+date: 2023-11-27T03:21:08.653Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:18.038Z
@@ -13,10 +13,6 @@ dateCreated: 2022-10-17T16:46:18.038Z
 The Perth Artifactory is an incorporated association under the *Associations Incorporation Act 2015 (WA)*.
 
 Our constitution (rules of the Association) are available in PDF form as:
-
-* [Constitution of Perth Artifactory Inc. - as at 2023-03-04](/constitution_2023-03-04.pdf)
-
-A revised version (**not yet in effect**) is available:
 
 * [Constitution of Perth Artifactory Inc. - as at 2023-09-16](/constitution_2023-09-16.pdf)
 
@@ -38,9 +34,9 @@ A revised version (**not yet in effect**) is available:
 
 * That revision was then submitted to Consumer Protection for approval as required under s33 of the Act, *Certain other rule alterations to be approved by Commissioner*.
 
-* Approval from the Commissioner is pending.
+* Approval was recieved from the commissioner on 2023-11-08. (Refer: [approval letter.](/docs/committee/2023-11-08_1847696_a1014456p_2023_11_01_appvd_-_redacted.pdf))
 
-* Once approved, we will upload the new constitution to ACNC, and update this page.
+* The revised constitution took effect as of the date of approval by the Commissioner, 2023-11-08.
 
 ## Source
 

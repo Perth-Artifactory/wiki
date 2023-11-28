@@ -2,7 +2,7 @@
 title: DRAFT - Automotive Projects
 description: 
 published: true
-date: 2023-11-28T01:24:50.696Z
+date: 2023-11-28T01:30:18.469Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T02:14:22.078Z
@@ -14,16 +14,18 @@ These policies apply to automotive projects, including work on cars, vans, motor
 
 ## Workspace usage
 
-The Perth Artifactory is first and foremost a makerspace, not an automotive workshop, however the work on vehicles in the space is permitted on the following conditions:
+The Perth Artifactory is first and foremost a makerspace, not an automotive workshop.
 
-- Works are not undertaken during a [calendered event](https://artifactory.org.au/events).
+However work on vehicles in the space is permitted on the following conditions:
+
+- Works must not be undertaken during a [calendered event](https://artifactory.org.au/events).
 - Only works that are in the scope of a service, such as an oil and fluid change, may be performed by non keyholders.
 - Any works beyond this within the workshop require prior approval from a committee member and are largely restricted to only key holding members. Such works include disassembly and removal of components that may potentially render the vehicle unsafe or undriveable.
 - Vehicles must not block entry into the main workshop area via the foyer.
 - Spray painting can only be performed in the rear courtyard.
 - Any works on vehicles in the car park area must not emit dust, fumes, or debris onto other vehicles or surfaces.
-> - This policy is not intended to cover interior work/fit out on vehicles being used for habitation such as vans. That policy can be found here LINK
-> - The attendee has posted about the project on the dedicated slack channel to ensure the space has not been double booked.
+- This policy is not intended to cover interior work/fit out on vehicles being used for habitation such as vans. That policy can be found here LINK
+- The attendee has posted about the project on the dedicated slack channel to ensure the space has not been double booked.
 
 
 ## Safety

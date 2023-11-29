@@ -2,14 +2,11 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-23T18:12:42.154Z
+date: 2023-11-29T08:41:48.005Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
 ---
-
-> This document is a draft
-{.is-danger}
 
 The Artifactory wouldn't exist without the support of our community, and donations are a big part of that support. We appreciate all donations of material, equipment, and funds put towards supporting our aims.
 
@@ -44,23 +41,13 @@ Things that benefit you personally are **not gifts**, and **are not** tax deduct
 
 We are required[^3] to maintain a separate account for gifts given to the association. The details for this account are:
 
-Name: `Perth Artifactory Inc Gifts`
-BSB: `XXX XXX`
-Account: `XXXX XXXX`
-
-> Lewis: Do we need to publish multiple gift fund bank accounts for the various purposes? e.g. Sponsored Student Memberships, Equipment and Infrastructure, General.
-> FB: My understanding is that only one account is needed as we are operating a single gift that supports our primary purpose in several ways rather than multiple gift funds.
-> Lewis: Do we need to establish a new gift fund account (or accounts), whether at NAB or another bank?
-> FB: We already have an account that can be used for this but it it may be easier to create a new account for bookkeeping purposes. Since it's ambiguous final decision should just be on the Treasurer imo.
-{.is-warning}
+Name: `Perth Artifactory Inc`
+BSB: `086 366`
+Account: `329 833 366`
 
 ## Who can determine whether specific equipment or material support our aims
 
 * For equipment and material you already own: Any member of the [Management Committee](/docs/committee/home#committee-members) or [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2) may accept donations on our behalf. Please do not purchase these items with the express intent of gifting them before talking to us first.
-
-> Lewis: "Existing equipment" is unclear - on first reading I thought it meant "things already existing in the space". I think the intent is "Equipment and materials you already own" or "Equipment and materials you have already purchased."
-> FB: reworded
-{.is-info}
 
 * For proposed purchases of equipment/material (PledgeBot): Any member of the [Management Committee](/docs/committee/home#committee-members) can determine that a project is covered. This will be denoted by this line attached to the specific project:
 

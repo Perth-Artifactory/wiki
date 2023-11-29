@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-11-12T12:35:23.606Z
+date: 2023-11-29T03:03:40.090Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -131,6 +131,9 @@ Cuts easily but consider whether the cardboard has a non cuttable plastic coatin
 
 > Chrome tanned leather in particular presents a significant health risk and should not be cut at any time.
 {.is-warning}
+
+> Faux leather such as PU and vegan leather are not covered by this section
+{.is-info}
 
 Thin leather cuts well but can have a distinct burnt hair smell. Consider cutting outside of events.
 

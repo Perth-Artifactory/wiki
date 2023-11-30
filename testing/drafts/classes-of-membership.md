@@ -2,7 +2,7 @@
 title: DRAFT - Classes of membership
 description: 
 published: true
-date: 2023-11-22T11:35:00.802Z
+date: 2023-11-30T03:09:19.389Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-08T12:51:16.357Z
@@ -10,23 +10,14 @@ dateCreated: 2023-01-08T12:51:16.357Z
 
 # Classes of membership
 
-> Redrafted.
->
-> * Standardise the description of each class of membership to a common template.
-> * Clarify what is meant by "communal areas".
-> * Clarify that discounts on Artifactory-run events may be specific to the event.
-> * Replace references to "heavy duty tools, machines, and facilities" with "workshop tools, equipment, computers, etc."
-> * State for each class of membership ---
->     * whether the "member rate" or "day pass rate" of tool usage fees applies.
->     * whether the member is entitled to storage.
-> * Refer to 24/7 access / RFID key bylaws for all details relating to 24/7 access and keys, including key bonds.
-
 This page defines the classes of membership made by the committee, and some of the by-laws applying to those classes of membership, as allowed for by -
 
 * s8 of the [Constitution](/constitution) regarding *Classes of membership*; and
 * s65 of the [Constitution](/constitution) regarding *By-laws*.
 
 ## Classes of ordinary membership
+
+&nbsp;
 
 ### Full Membership
 
@@ -46,7 +37,7 @@ This page defines the classes of membership made by the committee, and some of t
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | No limit. |
 
-
+&nbsp;
 
 ### Concession Membership
 
@@ -66,19 +57,11 @@ This page defines the classes of membership made by the committee, and some of t
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | No limit. |
 
-
+&nbsp;
 
 ### Band Membership
 
 Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by bands with band membership of the Perth Artifactory. Use of Artifactory tools/equipment etc is encouraged, but charged at the day pass rates.
-
-> Some thinking needed here.
-> * Eligibility criteria - do all members of the band need to be over 18?
-> FB: Indicated that while not all members have to be 18 any underage must be supervised in line with our bylaws.
-> * Use of workshop ("use of artifactory tools is encouraged...") - does this include after hours (since they hold a 24/7 key)? Does it include the entire band (with the band's keyholder discharging the keyholder responsibilities?) or just the band member who is the keyholder?
-> Ren: Reword "charged at day pass rates" to clarify what this means. I think Tool use should just be excluded from the class of membership as the entity is the band, not the multiple individuals.
-> Ren: 24/7 access limited to rehearsal slots only?
-> FB: Changed use of workshop to Day Pass required. Adjusted use of key to clarify that it's only for use of the room.
 
 | ---- | ---- |
 | **Eligibility criteria** | Any person over 18 years of age, who represents a band. (The *nominated contact person* for the band.) All members of the band must be over the age of 18 or supervised by a parent/guardian as per our [by-laws](/docs/policies/bylaws#minors-in-the-space). |
@@ -100,27 +83,13 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
   * 3 rehearsal slots/month;
   * Extra bookings may be made if a slot is free, no earlier than 48 hours in advance of the time you are booking
 
-
+&nbsp;
 
 ## Classes of associate membership
 
-
+&nbsp;
 
 ### Associate Membership - Sponsored Student Membership
-
-> "Member Sponsorship Donations fund" changed to "Sponsored Membership Donations fund".
-> 
-> Deleted provision for "The Perth Artifactory Committee has the right to cancel an individuals membership at any time", as it is unenforceable under our constitution.
->
-> Note s9 of the constitution, *When membership ceases*, will need to be revised to allow for the expiry of this type of membership after three months.
->
-> Do we want to allow students under 18? (e.g. young first-years can be as young as 16.)
->
-> Additionally, do we want to create a (permanent) class of membership for under 16's?
-> FB: For now I reckon limit to 18+.
-> Ren: We should require them to pay a keybond. They pose equal risk to ordinary keyholders
-> FB: Covered by bylaw
-{.is-info}
 
 | ---- | ---- |
 | **Eligibility criteria** | A tertiary student, over 18 years of age, who is not a past or current member of the Association, and who submits an application [in the prescribed form](https://artifactory.org.au/free_membership). |
@@ -140,7 +109,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | As determined by the current state of the Sponsored Membership Donations fund. |
 
-
+&nbsp;
 
 ### Associate Membership - The Ambassador!
 
@@ -150,14 +119,30 @@ Description: The Ambassador is appointed by committee and required to promote th
 | **Eligibility criteria** | A person, over 18 years of age, appointed by the committee. |
 | **Special rules for this class of membership** | N/A |
 | **Type of membership (ordinary or associate)** | Associate. |
-| **Membership fee** | ??? |
-| **Use of communal areas - social area, kitchenette, and toilet facilities** | ??? |
-| **Use of the indoor and outdoor workshop areas** | ??? |
-| **Use of workshop tools, equipment, computers, etc.** | ??? |
-| **Tool usage fees** | ??? |
-| **Can store property at the space** | ??? |
-| **Use of rehearsal room** | ??? |
-| **Fees to attend Artifactory-run events and workshops** | ??? |
-| **Eligible for 24/7 access** | ??? |
-| **Amount of bond for 24/7 access** | ??? |
-| **Maximum number of members in this class of membership** | ??? |
+| **Membership fee** | As determined by the committee |
+| **Use of communal areas - social area, kitchenette, and toilet facilities** | As determined by the committee |
+| **Use of the indoor and outdoor workshop areas** | As determined by the committee |
+| **Use of workshop tools, equipment, computers, etc.** | As determined by the committee |
+| **Tool usage fees** | As determined by the committee |
+| **Can store property at the space** | As determined by the committee |
+| **Use of rehearsal room** | As determined by the committee |
+| **Fees to attend Artifactory-run events and workshops** | As determined by the committee |
+| **Eligible for 24/7 access** | As determined by the committee |
+| **Amount of bond for 24/7 access** | As determined by the committee |
+| **Maximum number of members in this class of membership** | As determined by the committee |
+
+&nbsp;
+
+## Revision history
+
+### 2023-11-30
+
+Redrafted.
+* Standardise the description of each class of membership to a common template.
+* Clarify what is meant by "communal areas".
+* Clarify that discounts on Artifactory-run events may be specific to the event.
+* Replace references to "heavy duty tools, machines, and facilities" with "workshop tools, equipment, computers, etc."
+* State for each class of membership ---
+  * whether the "member rate" or "day pass rate" of tool usage fees applies.
+  * whether the member is entitled to storage.
+* Refer to 24/7 access / RFID key bylaws for all details relating to 24/7 access and keys, including key bonds.

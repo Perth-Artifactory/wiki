@@ -2,7 +2,7 @@
 title: Donating to The Artifactory
 description: 
 published: true
-date: 2023-11-29T08:41:48.005Z
+date: 2023-11-30T03:34:11.702Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T04:54:58.331Z
@@ -63,8 +63,18 @@ For donations of equipment exceeding $5,000 we will also supply you with the app
 
 You can use these documents as evidence when claiming tax deductions on your tax return.
 
+## Revision history
+
+The current revision of this guideline document was endorsed by the committee on [2023-11-25](/minutes/Committee/2023-11-25#dgr-gift-guidelines-for-members).
+
+&nbsp;
+
+&nbsp;
+
 [^1]: [Australian Business Register](https://abr.business.gov.au/ABN/View/16847853023)
 [^2]: *Income Tax Assessment Act 1997 (Cth)* [s 30(15)](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/s30.15.html)
 [^3]: *Income Tax Assessment Act 1997 (Cth)* [s 30(130)](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/s30.130.html)
 [^4]: *Income Tax Assessment Act 1997 (Cth)* [s 30(228)](https://www8.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/itaa1997240/s30.228.html)
 [^5]: [ATO: Philanthropy Program](https://www.ato.gov.au/Forms/Certificate-of-donation---philanthropy-program/)
+
+

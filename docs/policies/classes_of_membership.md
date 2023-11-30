@@ -2,7 +2,7 @@
 title: Classes of membership
 description: 
 published: true
-date: 2023-11-30T03:10:16.114Z
+date: 2023-11-30T03:19:43.133Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:21.933Z
@@ -29,12 +29,12 @@ This page defines the classes of membership made by the committee, and some of t
 | **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |
 | **Use of the indoor and outdoor workshop areas** | Yes |
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
-| **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
-| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
+| **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](/docs/policies/fees). |
+| **Can store property at the space** | Yes; see [member storage entitlements](/docs/policies/storage#member-storage-entitlements) |
 | **Use of rehearsal room** | No |
 | **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
-| **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
-| **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Eligible for 24/7 access** | On application, subject to our [by-laws](/docs/policies/bylaws). |
+| **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | No limit. |
 
 &nbsp;
@@ -49,12 +49,12 @@ This page defines the classes of membership made by the committee, and some of t
 | **Use of communal areas** - social area, kitchenette, and toilet facilities | Yes |
 | **Use of the indoor and outdoor workshop areas** | Yes |
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
-| **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
-| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
+| **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](/docs/policies/fees). |
+| **Can store property at the space** | Yes; see [member storage entitlements](/docs/policies/storage#member-storage-entitlements) |
 | **Use of rehearsal room** | No |
 | **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
-| **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
-| **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Eligible for 24/7 access** | On application, subject to our [by-laws](/docs/policies/bylaws). |
+| **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | No limit. |
 
 &nbsp;
@@ -71,12 +71,12 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |
 | **Use of the indoor and outdoor workshop areas** | Social use (Day Pass required for projects) |
 | **Use of workshop tools, equipment, computers, etc.** | Day Pass required |
-| **Tool usage fees** | The "**day pass** rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
+| **Tool usage fees** | The "**day pass** rates" listed under [Tool Usage Fees](/docs/policies/fees). |
 | **Can store property at the space** | No |
 | **Use of rehearsal room** | Yes - three bookings per month. Additional bookings subject to availability. |
 | **Fees to attend Artifactory-run events and workshops** | Free entry for band members to Modsynth building nights held on the Artifactory premises. Otherwise, the non-member rate for the event. |
-| **Eligible for 24/7 access** | A single key per band used only for accessing the space when a rehearsal is booked. Issue of keys is subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). Secondary keys may be issued at the discretion of the Management Committtee. |
-| **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Eligible for 24/7 access** | A single key per band used only for accessing the space when a rehearsal is booked. Issue of keys is subject to our [by-laws](/docs/policies/bylaws). Secondary keys may be issued at the discretion of the Management Committtee. |
+| **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | Six band memberships. |
 
 * Band membership entitles each band to the following:
@@ -93,7 +93,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 
 | ---- | ---- |
 | **Eligibility criteria** | A tertiary student, over 18 years of age, who is not a past or current member of the Association, and who submits an application [in the prescribed form](https://artifactory.org.au/free_membership). |
-| **Special rules for this class of membership** | Applications for this class of membership must be selected and approved by the [Associate Memberships Panel](https://wiki.artifactory.org.au/en/docs/Associate_Memberships), subject to the merits of the application. |
+| **Special rules for this class of membership** | Applications for this class of membership must be selected and approved by the [Associate Memberships Panel](/docs/Associate_Memberships), subject to the merits of the application. |
 |  | A person can only hold this membership once. |
 | | A person can hold this class of membership for a number of months determined  by the Associate Memberships Panel, up to a maximum of three months. |
 | **Type of membership (ordinary or associate)** | Associate. |
@@ -101,12 +101,12 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |
 | **Use of the indoor and outdoor workshop areas** | Yes |
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
-| **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
-| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
+| **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](/docs/policies/fees). |
+| **Can store property at the space** | Yes; see [member storage entitlements](/docs/policies/storage#member-storage-entitlements) |
 | **Use of rehearsal room** | No. |
 | **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
-| **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
-| **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Eligible for 24/7 access** | On application, subject to our [by-laws](/docs/policies/bylaws). |
+| **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | As determined by the current state of the Sponsored Membership Donations fund. |
 
 &nbsp;

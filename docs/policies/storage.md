@@ -2,99 +2,244 @@
 title: Storage
 description: 
 published: true
-date: 2023-07-02T09:29:00.238Z
+date: 2023-11-30T03:17:41.942Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:48.198Z
 ---
 
-This page lists [by-laws](/docs/policies/bylaws) relating to storage in the space.
+# Storage by-laws
 
-By-laws are made by the committee, as allowed for by the [Constitution](/constitution), §65 *By-laws*.
 
-In these by-laws, unless the contrary intention appears, all terms are as defined as in the Constitution, §1 *Definitions*.
+These are the [by-laws](/docs/policies/bylaws) governing storage in the space.
 
-------------------------------------------------------------------------
+By-laws are made by the committee, as allowed for rule 65 of the [Constitution](/constitution) regarding *By-laws*.
 
-### Car Park
+## Background (informative)
 
-Defined at committee meeting 2019-11-02.
+One of the objects in our constitution is -
 
-* Car Parking Bays cannot be occupied for materials, projects and goods as this is a requirement of our Planning Approval with the Council.
+> \[to\] provide **work space**, **storage**, and other resources for the creative and artistic use of technology;
 
-REASON: City of Stirling approval states No goods or materials being stored, either temporarily or permanently, in the car parking or landscaped areas or within access driveways. All goods and materials are to be stored within the buildings or storage yards, where provided;
+We have to balance our available space between work space and storage space.
 
-------------------------------------------------------------------------
+This by-law defines policies and procedures which maintain that balance.
 
-### Ceasing Membership + The Members Projects
 
-Created at committee meeting 2019-04-27.
+## Objects of this by-law
 
-Effective from 2019-04-27.
+* To clearly distinguish work spaces from storage spaces.
+* To fairly allocate available storage space.
+* To define procedures for disposing of materials when necessary.
 
-* Once a person ceases to be a member, any projects left at the Artifactory will be free for anyone to use or for the Artifactory to dispose of once the owner(s) of the project has had a month notice.
 
-------------------------------------------------------------------------
+## Terms used
 
-### Material Racks
+Unless the contrary intention appears, all terms are as defined as in the Constitution, and the following:
 
-Update at committee meeting 2019-05-25.
+- "Artifactory" means the Association.
+- "We" or "us" means the Association, committee members, and any officer or subcommittee member authorised to act on behalf of the committee.
+- "You" means a member or former member of the Association.
+- "Property" means any property, goods, materials, etc. that belong to a member or former member of the Association.
+- "Premises" means any of the physical premises of the Association.
 
-Effective from 2019-07-01.
 
-* Only members are entitled to store materials on these material racks.
-* Materials are required to be dated with the full name of the owner and date stored
-* Materials are permitted to stay on the rack for a maximum of three months from the date marked. The owner may update the date if material is partially used.
-* Materials that over-stay their time, belong to an ex-member after notice period has lasped or are outsize the size limits are subject to being discarded or placed on the hack rack by a Committee member.
-* Limit per member of Members are limited to 10 pieces or 100mm thick of material whichever is greater.
-* Sheets may not exceed 900mm x 1200mm.
-* With skeletons removed, individual pieces must be larger than roughly A3 in size).
-* Member Storage Officer & Committee will conduct audits of the materials racks as required.
+## Terms of storage
 
-------------------------------------------------------------------------
+You store your property at the Artifactory at your own risk.
 
-### Member Storage
+Storage at the Association's premises is subject to -
 
-Member Storage Areas Updated at committee meeting 2019-05-25.
+* These by-laws, and
+* Any specific agreement made between you and the Association.
 
-Effective from 2019-07-01.
+We may, at any time, inspect anything you have stored on the Association's premises ---
 
-* Members are entitled (subject to availability) to a single committee authorised storage space (up to 150L) left in a tidy and safe state.
-* Authorised spaces are
-  * Lockers-Kitchenette,
-  * Lockers-Under Pallet Racking,
-  Lockers-Metal
-  * Including oversized Lockers -currently located in CAD Room
-    * 1.  Not to be reallocated - Being deprecated
-  * The bottom two shelves of the pallet racking left of the stage (4 shelves in total) divided into 6 spots per shelf. Excluding 2 spots lost to power cords and boards.
-  * When a member loses their right to storage (whether through resignation, termination or another association’s process) their belongings will be stored for a period of one month starting from when the notification by the Management Committee or Member Storage Officer provides them with a copy of this by-law. Once this notice period has expired the belongings will be claimed by the association and may be used or disposed of as the Management Committee sees fit.
-  * Each storage space will be marked with a unique identifier. Members may add their own tags but not remove the identifier.
-  * Requests for storage space, or to relinquish storage space should be made to the Member Storage Officer or a Committee Member.
-  * Any material found in an unallocated space will be removed to the office for no less than seven days. If it is unclaimed, it will be disposed of as a committee member sees fit. .
-  * Members with storage space may apply for a change in storage location. If space becomes available and the member agrees, they will have 7 days to move from the existing storage location to a new location.
-  * Where demand for member storage or a particular type of storage exceeds supply, a waiting list may be maintained. If a waiting list is in operation, members will be offered space as it becomes available in waiting list order. Members who are not contactable or fail to take their space within a reasonable period will be skipped and advised.
-  * The Chair and any 3 committee members may override these rules at their discretion. Any override must be minuted at the next committee meeting and may then be overruled.
+* To assess compliance with these by-laws.
+* If we believe that your property may pose an imminent risk to safety and health.
 
-------------------------------------------------------------------------
 
-### Member Storage - Additional
 
-Updated at committee meeting 2019-05-25.
+## Member storage entitlements
 
-Effective from 2019-07-01.
+Members whose [class of membership](/docs/policies/classes_of_membership) includes storage entitlements are allowed to:
 
-Members are entitled to request for additional storage on the pallet racking. Additional storage will be charged at a rate of \$60 per half a pallet rack per month and will be restricted to the upper racks that are not within reach. Any four Committee members may determine what part of the pallet racking will be available for such storage and will advise the Treasurer to invoice as such from the start of the Members next membership period. The Artifactory Committee reserves the right to revoke that additional storage with a months notice if it is deemed needed for the Artifactory.
+* Store their property in their own **individual member storage space**, subject to availability; and
+* Store material on the **material racks**; and
+* Temporarily store their property in general workspaces - see **workspace usage**.
 
-------------------------------------------------------------------------
+Members who store their property at the premises must follow these storage by-laws.
 
-### Workspace Usage
+Members who repeatedly violate the storage by-laws may have their storage entitlements revoked.
 
-Adopted at committee meeting 2019-11-02.
+## Individual member storage spaces
 
-* You may occupy up to 3 trestles worth of space while actively working on a project noting that you may need to move it for a scheduled event.
-* Projects may be left in the space for three days so long as:
-* The project is on a single trestle table(including under) that includes your name, contact details, and date of pickup
-* Your project is left in a movable state as events/workshops may have priority over a specified area/general area resulting in the moving of your project.
-* While we will attempt to contact you if any of these conditions are not met there is risk that your project may be disposed of or end up on the hack-me bench. The Artifactory does not guarantee the safety of any personal projects.
-* Anything that would violate the requirements set out above must be done in coordination with the Management Committee.
-* Committee can veto these rules.
+**Individual member storage spaces** include:
+
+- Lockers - various locations:
+    - Under pallet racking.
+    - Kitchenette area.
+    - Outside electronics lab.
+- Pallet racking - bottom two shelves (four shelves total), divided into six spots per shelf.
+
+We will assign you a single one of these storage spaces, if you request one, and if one is available. If the type of storage you request is not available, we will add you to a waiting list, on a "first come, first served" basis.
+
+You must keep your storage space tidy and safe at all times.
+
+Each storage space is marked with a unique identifier, which must not be removed. You may add your own tag if you want to.
+
+You may request to change your assigned storage space. If approved, you will be given 7 days to move your property from your old storage space to your new storage space.
+
+
+
+## Sheet material racks
+
+There are two racks for members to store sheet materials.
+
+You must clearly mark each sheet with ---
+- Your **full** name, e.g. "Jane Doe".
+    - Initials e.g. "JD" are not acceptable.
+- The **full** date, e.g. "31/01/2022", when the material was stored.
+    - Shortened dates, e.g. "31/01", are not acceptable.
+    - You may update the date on your material.
+
+Sheets must ---
+- Be at least A3 size, with skeletons removed.
+- Not exceed 900 x 1,200 mm in size.
+
+You may store up to ---
+- 10 sheets; or
+- 100mm total thickness of sheets,
+whichever limit is reached first.
+
+You can keep materials on the rack for up to three months after the date marked on the sheet.
+
+We may issue you with a *Direction to remove property* to remove any materials which ---
+* Are out of date; or
+* Are bigger than 900 x 1,200 mm; or
+* Exceed the number or thickness of sheets allowed.
+
+We will give you 28 days to either a) comply with these requirements, or b) remove the materials.
+
+The following will be treated as donations to the Artifactory as soon as they are found:
+* Any material not marked with the owner's full name.
+* Any material less than A3 size, with skeletons removed.
+
+
+
+## Workspace usage
+
+While you are actively working on a project ---
+
+* Your property may occupy up to 3 trestle tables' worth of work space; however
+* Scheduled events have priority for usage of the work space.
+
+If you need to leave a project in the work space ---
+
+* You leave your property unattended at your own risk.
+* You may leave your property in the work space for up to three days.
+* You must prominently label your property with your name, contact details, and intended pickup date.
+* Your property may occupy up to one trestle table's worth of work space.
+* Your property must be left in a safe and movable state, in case your property needs to be moved for a scheduled event.
+
+> Scanning your RFID key on the kiosk, in the foyer, will print a "Storage Auth" ticket with your details already filled in.
+> ![storage_auth.jpg](/docs/policies/storage_auth.jpg)
+{.is-info}
+
+## Additional storage
+
+You may request additional pallet rack storage, on the upper pallet racks out of arm's reach, subject to ---
+
+- Availability; and
+- Written approval from the committee; and
+- A fee of $60 per month for each half of a pallet rack shelf, paid in advance.
+
+We may revoke any such arrangement if we need the storage space for our purposes. We will give you a *Direction to remove property* with 28 days notice if this occurs.
+
+
+
+
+## Car park
+
+The car park cannot be used for storage of anything at any time.
+
+REASON: Our City of Stirling planning approval states -
+
+> No goods or materials being stored, either temporarily or permanently, in the car parking or landscaped areas or within access driveways.
+> 
+> All goods and materials are to be stored within the buildings or storage yards, where provided;
+
+
+
+## Direction to remove property
+
+We may require you to remove your property from the premises ---
+
+* If your property is unsafe or stored unsafely.
+* If your property is stored contrary to the storage by-laws.
+* When your membership ends.
+* In accordance with any agreement we have made with you, such as an equipment loan agreement.
+
+We must give you a written notice (a *direction to remove property*) which states ---
+
+* What property you must remove.
+* Why we need you to remove it.
+* When you must remove it by.
+
+The notice must include a link to the storage by-laws.
+
+We must provide you with reasonable access to your property so that you can remove it from the premises.
+
+
+
+## Lost and found
+
+Where property is found ---
+
+- In the general work space, and the owner of the property is not known; or
+- In an individual member storage area which is not allocated to any member (i.e. which should be empty);
+
+We will hold that property for 7 days.
+
+## Disposal of property
+
+We may dispose of property ---
+
+* Which remains on the Association's premises after the stated date on a *Direction to remove property*.
+* Which remains unclaimed after the period stated in the section *Lost and found*.
+* Which poses an imminent risk to safety and health, immediately after we become aware of the risk.
+
+We may dispose of such property in any way we see fit, including (but not limited to) ---
+
+* Treating the property as a donation to the Artifactory.
+* Sending or delivering the property to your recorded address at your cost.
+* Disposing of the property as waste.
+
+We are entitled to recover our reasonable costs associated with the disposal of your property.
+
+
+
+## Exceptions and individual arrangements
+
+The committee may grant exceptions to these storage by-laws, or individual arrangements for storage, on a case by case basis.
+
+Any such arrangement must be approved in writing by the committee, and recorded in the minutes of the next committee meeting.
+
+
+## Revision history
+
+Redrafted 2023-11-30.
+
+- Use plain English.
+- Structure the sections into a logical order;
+    - Kinds of storage available
+    - Rules for each of those kinds of storage in turn
+    - Rules for disposing of unclaimed or lost property
+- Generally remove places where "The Chair and X committee members" can grant exceptions to requirements, replacing these with "where approved by the committee". Now that we have online-only motions, it is just as fast and easy for the full committee to vote on such matters.
+- Individual member storage no longer specifically mentions a 150 litre size for storage space. (Lockers aren't 150 L.)
+- Additional storage - changed "payable from the start of the member's next membership period" to "paid in advance". Avoids an edge case for a member who pays yearly membership.
+- Define the exact process we use to tell a member to remove their stuff (a *Direction to remove property*) and use that process in every place where we will tell a member to remove their stuff.
+    - Todo: Reference this from the standard form of "Equipment loan agreement".
+    - New process provides for us to send a member's stuff to them at their cost.
+    - New process provides for us to recover the cost of disposing of stuff if needed. (e.g. A member leaves an entire skip load of material in the space, or a member leaves dangerous goods in their storage locker.)
+    - New process allows for us to dispose of things immediately if they are a danger to safety and health. (e.g. improperly stored batteries, e.g. leaking chemicals.)

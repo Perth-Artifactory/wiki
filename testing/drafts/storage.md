@@ -2,7 +2,7 @@
 title: DRAFT - Storage by-laws
 description: 
 published: true
-date: 2023-11-22T11:38:23.043Z
+date: 2023-11-30T03:17:12.175Z
 tags: 
 editor: markdown
 dateCreated: 2023-01-01T11:13:35.543Z
@@ -10,21 +10,6 @@ dateCreated: 2023-01-01T11:13:35.543Z
 
 # Storage by-laws
 
-> This is a re-drafting of the [storage](/docs/policies/storage) by-laws.
->
-> - Use plain English.
-> - Structure the sections into a logical order;
->     - Kinds of storage available
->     - Rules for each of those kinds of storage in turn
->     - Rules for disposing of unclaimed or lost property
-> - Generally remove places where "The Chair and X committee members" can grant exceptions to requirements, replacing these with "where approved by the committee". Now that we have online-only motions, it is just as fast and easy for the full committee to vote on such matters.
-> - Individual member storage no longer specifically mentions a 150 litre size for storage space. (Lockers aren't 150 L.)
-> - Additional storage - changed "payable from the start of the member's next membership period" to "paid in advance". Avoids an edge case for a member who pays yearly membership.
-> - Define the exact process we use to tell a member to remove their stuff (a *Direction to remove property*) and use that process in every place where we will tell a member to remove their stuff.
->     - Todo: Reference this from the standard form of "Equipment loan agreement".
->     - New process provides for us to send a member's stuff to them at their cost.
->     - New process provides for us to recover the cost of disposing of stuff if needed. (e.g. A member leaves an entire skip load of material in the space, or a member leaves dangerous goods in their storage locker.)
->     - New process allows for us to dispose of things immediately if they are a danger to safety and health. (e.g. improperly stored batteries, e.g. leaking chemicals.)
 
 These are the [by-laws](/docs/policies/bylaws) governing storage in the space.
 
@@ -83,7 +68,9 @@ Members whose [class of membership](/docs/policies/classes_of_membership) includ
 * Store material on the **material racks**; and
 * Temporarily store their property in general workspaces - see **workspace usage**.
 
-Members who store their property at the premises must follow these storage by-laws. Members who repeatedly violate the storage by-laws may have their storage entitlements revoked.
+Members who store their property at the premises must follow these storage by-laws.
+
+Members who repeatedly violate the storage by-laws may have their storage entitlements revoked.
 
 ## Individual member storage spaces
 
@@ -108,13 +95,6 @@ You may request to change your assigned storage space. If approved, you will be 
 ## Sheet material racks
 
 There are two racks for members to store sheet materials.
-
-> Insert pictures.
-{.is-info}
-
-> There is currently a proposal to change sheet material storage, from the "10 sheets / 100mm" rule below, to allocating each member a specific slot in the sheet racks on application.
-> FB: Determination was that it may not be feasible. Ignore for now imo.
-{.is-warning}
 
 You must clearly mark each sheet with ---
 - Your **full** name, e.g. "Jane Doe".
@@ -221,10 +201,6 @@ Where property is found ---
 
 We will hold that property for 7 days.
 
-> Specifically not including that we will make any attempt to figure out who the owner is or contact anyone.
->
-> Don't want to commit to reviewing camera footage and spamming Slack every time someone forgets an Arduino on a trestle table.
-
 ## Disposal of property
 
 We may dispose of property ---
@@ -232,7 +208,6 @@ We may dispose of property ---
 * Which remains on the Association's premises after the stated date on a *Direction to remove property*.
 * Which remains unclaimed after the period stated in the section *Lost and found*.
 * Which poses an imminent risk to safety and health, immediately after we become aware of the risk.
-> Ren:something more general? Interferes with proper use of the space? Thinking of someone leaving something big or annoying in general area
 
 We may dispose of such property in any way we see fit, including (but not limited to) ---
 
@@ -249,3 +224,22 @@ We are entitled to recover our reasonable costs associated with the disposal of 
 The committee may grant exceptions to these storage by-laws, or individual arrangements for storage, on a case by case basis.
 
 Any such arrangement must be approved in writing by the committee, and recorded in the minutes of the next committee meeting.
+
+
+## Revision history
+
+Redrafted 2023-11-30.
+
+- Use plain English.
+- Structure the sections into a logical order;
+    - Kinds of storage available
+    - Rules for each of those kinds of storage in turn
+    - Rules for disposing of unclaimed or lost property
+- Generally remove places where "The Chair and X committee members" can grant exceptions to requirements, replacing these with "where approved by the committee". Now that we have online-only motions, it is just as fast and easy for the full committee to vote on such matters.
+- Individual member storage no longer specifically mentions a 150 litre size for storage space. (Lockers aren't 150 L.)
+- Additional storage - changed "payable from the start of the member's next membership period" to "paid in advance". Avoids an edge case for a member who pays yearly membership.
+- Define the exact process we use to tell a member to remove their stuff (a *Direction to remove property*) and use that process in every place where we will tell a member to remove their stuff.
+    - Todo: Reference this from the standard form of "Equipment loan agreement".
+    - New process provides for us to send a member's stuff to them at their cost.
+    - New process provides for us to recover the cost of disposing of stuff if needed. (e.g. A member leaves an entire skip load of material in the space, or a member leaves dangerous goods in their storage locker.)
+    - New process allows for us to dispose of things immediately if they are a danger to safety and health. (e.g. improperly stored batteries, e.g. leaking chemicals.)

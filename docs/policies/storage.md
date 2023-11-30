@@ -2,7 +2,7 @@
 title: Storage
 description: 
 published: true
-date: 2023-11-30T03:17:41.942Z
+date: 2023-11-30T03:27:25.165Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:48.198Z
@@ -228,7 +228,9 @@ Any such arrangement must be approved in writing by the committee, and recorded 
 
 ## Revision history
 
-Redrafted 2023-11-30.
+A re-drafting of this bylaw was proposed on [2023-07-16](https://vote.artifactory.org.au/d/D6vUFAmL/revision-to-the-classes-of-membership-and-the-storage-bylaws).
+
+The current version of this bylaw was [approved by the committee on 2023-11-25](/minutes/Committee/2023-11-25#storage-policy-changes).
 
 - Use plain English.
 - Structure the sections into a logical order;

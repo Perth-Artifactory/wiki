@@ -2,7 +2,7 @@
 title: Automotive Projects
 description: 
 published: true
-date: 2023-11-30T03:20:46.148Z
+date: 2023-11-30T03:24:05.658Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T02:14:22.078Z
@@ -24,8 +24,7 @@ However work on vehicles in the space is permitted on the following conditions:
 - Vehicles must not block entry into the main workshop area via the foyer.
 - Spray painting can only be performed in the rear courtyard.
 - Any works on vehicles in the car park area must not emit dust, fumes, or debris onto other vehicles or surfaces.
-- This policy is not intended to cover interior work/fit out on vehicles being used for habitation such as vans. That policy can be found here LINK
-- The attendee has posted about the project on the dedicated slack channel to ensure the space has not been double booked.
+- The attendee has posted about the project on the [#car-and-bike Slack channel](https://perthartifactory.slack.com/archives/CSJDD2RRN) to ensure the space has not been double booked.
 
 
 ## Safety

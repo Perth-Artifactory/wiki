@@ -2,7 +2,7 @@
 title: Classes of membership
 description: 
 published: true
-date: 2023-11-30T03:26:23.672Z
+date: 2023-11-30T03:27:27.987Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:21.933Z
@@ -139,7 +139,7 @@ Description: The Ambassador is appointed by committee and required to promote th
 
 A re-drafting of this bylaw was proposed on [2023-07-16](https://vote.artifactory.org.au/d/D6vUFAmL/revision-to-the-classes-of-membership-and-the-storage-bylaws).
 
-The current version of this bylaw was [approved by the committee on 2023-11-25](/minutes/Committee/2023-11-25#membership-class-changes)
+The current version of this bylaw was [approved by the committee on 2023-11-25](/minutes/Committee/2023-11-25#membership-class-changes).
 
 Redrafted.
 * Standardise the description of each class of membership to a common template.

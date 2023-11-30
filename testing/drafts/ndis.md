@@ -2,15 +2,11 @@
 title: NDIS
 description: How we interact with the NDIS
 published: true
-date: 2023-11-18T02:12:31.586Z
+date: 2023-11-30T03:31:26.340Z
 tags: 
 editor: markdown
 dateCreated: 2023-11-17T08:48:43.901Z
 ---
-
-> This document is a draft and in no way represents our current policies etc
-{.is-danger}
-
 
 # Our Interaction with the NDIS
 
@@ -24,7 +20,7 @@ The Artifactory strives to create an inclusive and accessible environment for al
 
 * A safe, supportive, and creative environment
 * Tailored inductions and access plans
-* Accessability adaptations for machines where possible
+* Accessibility adaptations for machines where possible
 * Letters of support for applicable equipment grant applications (external to the NDIS)
 * Project guidance to make financially responsible decisions regarding projects
 
@@ -48,3 +44,7 @@ The Artifactory is a charity run entirely by volunteers and does not currently r
 * We cannot bill NDIA managed participants though we may still be able to assist relevant providers.
 * While we can direct you to providers that have familiarity with our organisation we do not endorse specific businesses or workers
 * Any efforts outlined here are provided ad hoc by volunteers and we make no guarantees about current capacity or long term support.
+
+## Revision history
+
+This policy was endorsed by the committee on [2023-11-25](/minutes/Committee/2023-11-25#ndis-policy).

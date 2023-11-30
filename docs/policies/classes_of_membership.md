@@ -2,7 +2,7 @@
 title: Classes of membership
 description: 
 published: true
-date: 2023-07-02T09:28:11.593Z
+date: 2023-11-30T03:10:16.114Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:21.933Z
@@ -10,94 +10,139 @@ dateCreated: 2022-10-27T14:21:21.933Z
 
 # Classes of membership
 
-This page lists the classes of a) ordinary membership and b) associate membership, defined by the committee, as allowed for by the [Constitution](/constitution), §8 *Classes of membership*.
+This page defines the classes of membership made by the committee, and some of the by-laws applying to those classes of membership, as allowed for by -
+
+* s8 of the [Constitution](/constitution) regarding *Classes of membership*; and
+* s65 of the [Constitution](/constitution) regarding *By-laws*.
 
 ## Classes of ordinary membership
 
+&nbsp;
+
 ### Full Membership
 
-Defined at committee meeting 2018-01-09
+| ---- | ---- |
+| **Eligibility criteria** | Any person over 18 years of age. |
+| **Special rules for this class of membership** | N/A |
+| **Type of membership (ordinary or associate)** | Ordinary |
+| **Membership fee** | $75 per month, payable monthly or annually. |
+| **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |
+| **Use of the indoor and outdoor workshop areas** | Yes |
+| **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
+| **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
+| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
+| **Use of rehearsal room** | No |
+| **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
+| **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Maximum number of members in this class of membership** | No limit. |
 
-* Membership subscription is \$75 per month (Paid Monthly/Annually)
-* Gives access to the Artifactory and equipment for adult(18+)
-* Access to the communal workshop space indoor and outdoor work areas. (Excluding the Rehearsal Room)
-* Access to and usage of heavy duty tools, machines and facilities.
-* Tool usage fees are payable on some tool use.
-* Discounts on Artifactory run Events and workshops
+&nbsp;
 
 ### Concession Membership
 
-Defined at committee meeting 2018-01-09
+| ---- | ---- |
+| **Eligibility criteria** | Any person over 18 years of age, who a) is a student, or b) is retired, or c) holds any type of [concession/health care card issued by Services Australia](https://www.servicesaustralia.gov.au/concession-and-health-care-cards?context=60091), or d) is otherwise deemed eligible for concession membership by the committee. |
+| **Special rules for this class of membership** | N/A |
+| **Type of membership (ordinary or associate)** | Ordinary |
+| **Membership fee** | $45 per month, payable monthly or annually. |
+| **Use of communal areas** - social area, kitchenette, and toilet facilities | Yes |
+| **Use of the indoor and outdoor workshop areas** | Yes |
+| **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
+| **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
+| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
+| **Use of rehearsal room** | No |
+| **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
+| **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Maximum number of members in this class of membership** | No limit. |
 
-* Membership subscription is \$45 per month (Paid Monthly/Annually)
-* Gives access to the Artifactory and equipment for adult(18+)
-* Access to the communal workshop space indoor and outdoor work areas. (Excluding the Rehearsal Room)
-* Access to and usage of heavy duty tools, machines and facilities.
-* Tool usage fees are payable on some tool use.
-* Discounts on Artifactory run Events and workshops
+&nbsp;
 
 ### Band Membership
 
-Last modified at committee meeting 2018-08-24
-
-The Band Membership is restricted to a maximum of 6 memberships.
-
 Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by bands with band membership of the Perth Artifactory. Use of Artifactory tools/equipment etc is encouraged, but charged at the day pass rates.
 
-* Band membership fees are set at \$100/month.
-* The band is provided with only one key to the room.
-* Only the nominated contact person in the band has voting rights under the Artifactory constitution
+| ---- | ---- |
+| **Eligibility criteria** | Any person over 18 years of age, who represents a band. (The *nominated contact person* for the band.) All members of the band must be over the age of 18 or supervised by a parent/guardian as per our [by-laws](/docs/policies/bylaws#minors-in-the-space). |
+| **Special rules for this class of membership** | N/A |
+| **Type of membership (ordinary or associate)** | The *nominated contact person* in the band is an *ordinary member* with voting rights as per our constitution. |
+| **Membership fee** | $100 per month, payable monthly. |
+| **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |
+| **Use of the indoor and outdoor workshop areas** | Social use (Day Pass required for projects) |
+| **Use of workshop tools, equipment, computers, etc.** | Day Pass required |
+| **Tool usage fees** | The "**day pass** rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
+| **Can store property at the space** | No |
+| **Use of rehearsal room** | Yes - three bookings per month. Additional bookings subject to availability. |
+| **Fees to attend Artifactory-run events and workshops** | Free entry for band members to Modsynth building nights held on the Artifactory premises. Otherwise, the non-member rate for the event. |
+| **Eligible for 24/7 access** | A single key per band used only for accessing the space when a rehearsal is booked. Issue of keys is subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). Secondary keys may be issued at the discretion of the Management Committtee. |
+| **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Maximum number of members in this class of membership** | Six band memberships. |
+
 * Band membership entitles each band to the following:
   * 3 rehearsal slots/month;
   * Extra bookings may be made if a slot is free, no earlier than 48 hours in advance of the time you are booking
-  * Free entry for band members to NoizeMaschin!! and the ModularSynth building nights
-  * A rehearsal slot is considered (broadly) to be a morning, afternoon or evening.
-  * The band members are part of the wider Artifactory community, and are encouraged to be part of that community and work with the others to help make the space usable for everyone.
-* Band membership restrictions. The following times have restrictions on the use of the room due to other Artifactory events at which use of the rehearsal room interferes due to sound spill. There may also be others on a one-off basis that will be communicated to the bands when known.
-  * 3rd Tuesday(usually) evening of each month – quiet\* bands only (ADUG Monthly Meeting)
-  * 4th/Last Tuesday(usually) evening of each month – no rehearsals permitted (NoizeMaschin!!)
-  * Wednesday evenings – quiet* bands only
 
-\* Quiet Bands are defined as not including an acoustic drum kit, a maximum of 2 guitars/amps, and a willingness to turn the volume down if requested. Again, please make yourselves known to any others using the Artifactory while you are rehearsing to make this a comfortable conversation if required.
-
+&nbsp;
 
 ## Classes of associate membership
 
+&nbsp;
+
 ### Associate Membership - Sponsored Student Membership
 
-Defined at committee meeting 2018-11-24
+| ---- | ---- |
+| **Eligibility criteria** | A tertiary student, over 18 years of age, who is not a past or current member of the Association, and who submits an application [in the prescribed form](https://artifactory.org.au/free_membership). |
+| **Special rules for this class of membership** | Applications for this class of membership must be selected and approved by the [Associate Memberships Panel](https://wiki.artifactory.org.au/en/docs/Associate_Memberships), subject to the merits of the application. |
+|  | A person can only hold this membership once. |
+| | A person can hold this class of membership for a number of months determined  by the Associate Memberships Panel, up to a maximum of three months. |
+| **Type of membership (ordinary or associate)** | Associate. |
+| **Membership fee** | **Free, for the member.** Paid for out of the Member Sponsorship Donations fund, at the same rate as a Concession membership. |
+| **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |
+| **Use of the indoor and outdoor workshop areas** | Yes |
+| **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
+| **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](https://wiki.artifactory.org.au/en/docs/policies/fees). |
+| **Can store property at the space** | Yes; see [member storage entitlements](https://wiki.artifactory.org.au/en/testing/drafts/storage#member-storage-entitlements) |
+| **Use of rehearsal room** | No. |
+| **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
+| **Eligible for 24/7 access** | On application, subject to our [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Amount of bond for 24/7 access** | Refer to the [by-laws](https://wiki.artifactory.org.au/docs/policies/bylaws). |
+| **Maximum number of members in this class of membership** | As determined by the current state of the Sponsored Membership Donations fund. |
 
-* This membership is paid for via Member Sponsorship Donations at the same rate as a Concession membership.
-* The Committees chosen panel of at least 3 (comprising of at least one Committee member) will select who.
-* The length of this membership is a maximum of 3 months.
-* The Perth Artifactory Committee has the right to cancel an individuals membership at any time.
-* This membership is not open to current and past members of the Perth Artifactory Inc members including recipients of this sponsored membership.
-* The member must be a tertiary student and at least 18 years of age.
-* Gives access to the Artifactory and equipment.
-* Access to the communal workshop space indoor and outdoor work areas (excluding the Rehearsal Room).
-* Access to and usage of heavy duty tools, machines and facilities.
-* Tool usage fees are payable on some tool use (at member rate).
-* Discounts on Artifactory run events and workshops.
+&nbsp;
 
 ### Associate Membership - The Ambassador!
 
-Defined at committee meeting 2018-09-01
-
 Description: The Ambassador is appointed by committee and required to promote the Artifactory.
 
-### Associate Membership - Resident Artist - NoizeMaschin!!
+| ---- | ---- |
+| **Eligibility criteria** | A person, over 18 years of age, appointed by the committee. |
+| **Special rules for this class of membership** | N/A |
+| **Type of membership (ordinary or associate)** | Associate. |
+| **Membership fee** | As determined by the committee |
+| **Use of communal areas - social area, kitchenette, and toilet facilities** | As determined by the committee |
+| **Use of the indoor and outdoor workshop areas** | As determined by the committee |
+| **Use of workshop tools, equipment, computers, etc.** | As determined by the committee |
+| **Tool usage fees** | As determined by the committee |
+| **Can store property at the space** | As determined by the committee |
+| **Use of rehearsal room** | As determined by the committee |
+| **Fees to attend Artifactory-run events and workshops** | As determined by the committee |
+| **Eligible for 24/7 access** | As determined by the committee |
+| **Amount of bond for 24/7 access** | As determined by the committee |
+| **Maximum number of members in this class of membership** | As determined by the committee |
 
-Last Modified 2020-03-14
+&nbsp;
 
-Description: Noizemaschin Residency - Every 3 months the Artifactory allows a Noizemaschin panel-selected Audio Artist 3 months membership, with guaranteed NM performances slots. The Artist is to build wacky things or engage with the Artifactory in some way, and demonstrate their inventions at NoizeMachin!!
+## Revision history
 
-* While the Noizemaschin Panel selects the Artist, the Artist must be formally approved by the Committee
-* The Artist is expected to play at 3 Noizemaschin events (where possible)
-* Tool usage fees apply at the same rate as Full or Concession members for the artist
-* Rehearsal room usage:
-  * 3 rehearsal slots/month;
-  * Extra bookings may be made if a slot is free, no earlier than 48 hours in advance of the time you are booking
-  * A rehearsal slot is considered (broadly) to be a morning, afternoon or evening.
-  * If the Resident Artist wants a key to access the Rehearsal Room they must pay a key bond equivalent to a Band Membership one and be provided with a way to book the band room.
-  * The membership lasts for a period of 3 months by default. The Management Committee may opt to extend this period up to a maximum of 6 months if they believe it is in the best interests of the association and the member.
-  * A person can only hold this membership once.
+### 2023-11-30
+
+Redrafted.
+* Standardise the description of each class of membership to a common template.
+* Clarify what is meant by "communal areas".
+* Clarify that discounts on Artifactory-run events may be specific to the event.
+* Replace references to "heavy duty tools, machines, and facilities" with "workshop tools, equipment, computers, etc."
+* State for each class of membership ---
+  * whether the "member rate" or "day pass rate" of tool usage fees applies.
+  * whether the member is entitled to storage.
+* Refer to 24/7 access / RFID key bylaws for all details relating to 24/7 access and keys, including key bonds.

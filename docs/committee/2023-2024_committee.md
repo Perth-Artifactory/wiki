@@ -1,8 +1,8 @@
 ---
-title: 2022 - 2023 Committee
+title: 2023 - 2024 Committee
 description: 
 published: true
-date: 2023-09-16T14:57:52.540Z
+date: 2023-12-01T04:12:13.747Z
 tags: official
 editor: markdown
 dateCreated: 2023-09-16T10:44:54.897Z

@@ -48,8 +48,8 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ilke Dincer | ✅ | ❌ | ❌ | 
 | Isaac Monteath | ✅ | ✅ | ❌ | 
 | James Palmer (James Palmer) | ❌ | ❌ | ✅ | 
-| Jamie  Moir  (Jamie ) | ✅ | ❌ | ✅ | 
-| Jamieson  Quin (Jamo) | ✅ | ❌ | ❌ | 
+| Jamie Moir (Jamie ) | ✅ | ❌ | ✅ | 
+| Jamieson Quin (Jamo) | ✅ | ❌ | ❌ | 
 | Jason Kongchouy (Jason) | ✅ | ❌ | ✅ | 
 | Jayden Saw (Sandy) | ✅ | ❌ | ✅ | 
 | Jean-michel Maujean (jeanmichel) | ✅ | ❌ | ✅ | 

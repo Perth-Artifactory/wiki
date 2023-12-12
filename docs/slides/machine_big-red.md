@@ -2,7 +2,7 @@
 title: Big Red Training Guide
 description: 
 published: true
-date: 2023-03-24T11:22:32.220Z
+date: 2023-12-12T00:27:21.782Z
 tags: official, presentation
 editor: markdown
 dateCreated: 2023-03-24T10:18:19.068Z
@@ -113,7 +113,7 @@ Until you turn the machine back on it's an easy fix for maintainers.
 
 # Fire suppression
 
-Lasers cut by burning the material. This prevents a continous risk that is mitigated by your material choice and air assist
+Lasers cut by burning the material. To prevent a fire you must ensure air assist works and only cut approved materials.
 
 ##
 

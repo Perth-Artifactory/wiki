@@ -2,7 +2,7 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2024-01-03T15:39:34.869Z
+date: 2024-01-03T15:41:42.135Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -41,7 +41,7 @@ dateCreated: 2023-02-11T10:21:37.510Z
       * There are rogue lines in LightBurn. This can be checked by dragging a selection box around your design and pressing delete. If all of the entries in the layer list fail to disappear you have rogue lines somewhere outside the confines of the bed.
       * The laser origin point has been changed. The `Job Origin` setting can be used to change the origin back.
  * **Check the temperature on the chiller**. There is a display on the front of the chiller. It is safe to operate when the chiller is displaying 26C or lower. If the temperature is above this limit wait a few minutes and check again.
- * **Familiarise yourself with the location of your fire suppression equipment**. Identify your closest spray bottle, fire blanket, and fire extinguisher.
+ * **Familiarise yourself with the location of your fire suppression equipment**. Identify your closest water spray bottle, fire blanket, and fire extinguisher.
  * **Check the air assist**. Put your hand under the head to confirm that the air is flowing correctly through the head and not through a hole in the air line.
  * **Close the lid**
  * **Cut/Engrave your design**. Press `Start-Pause` and your laser job will begin. You must actively supervise the laser cutting for the duration of your job. If need be the laser can be interrupted in several ways:

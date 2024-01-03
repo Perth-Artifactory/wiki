@@ -2,7 +2,7 @@
 title: LightBurn Operation Guide
 description: 
 published: true
-date: 2024-01-03T15:00:34.698Z
+date: 2024-01-03T15:22:15.614Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T13:39:11.882Z
@@ -19,7 +19,7 @@ The official documentation for LightBurn can be found [here](https://docs.lightb
 
 * **Import your DXF/AI/SVG**: File -> Import. LightBurn can import a variety of formats but can only **open** its own project files (.lbm).
 * **Check your file dimensions**: Either visually confirm that the design is the expected size relative to the bed or use the resize options at the top.
-* **Assign lines to layers**: Assign the lines in your design to layers by first selecting a line (or multiple using <kbd>Ctrl</kbd> or <kbd>Shift</kbd>) and then selecting a colour from the bottom of the screen. We recommend not using red as it is difficult to distinguish between a red line and a selected line. (see Advanced for more details)
+* **Assign lines to layers**: Assign the lines in your design to layers by first selecting a line (or multiple using <kbd>Ctrl</kbd> or <kbd>Shift</kbd>) and then selecting a colour from the bottom of the screen.
 * **Define your layers**: Layers are configured using the box in the top right.
   * Change the drop down next to each layer to either `Line` or `Fill` as required.
   * Double click on the coloured bar next to each layer to configure speed/power.

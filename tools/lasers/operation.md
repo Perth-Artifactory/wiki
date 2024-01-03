@@ -2,7 +2,7 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2024-01-03T15:41:42.135Z
+date: 2024-01-03T15:55:18.219Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -30,7 +30,7 @@ dateCreated: 2023-02-11T10:21:37.510Z
    * Ensure that the Z probe (the stick on the left hand side of the cutting head) is over the *centre of your desired cutting area*. Failure to position the probe directly over your material during this step has a high likelihood of damaging the machine.
    * Open the menu by pressing the Z/U button
    * Navigate to the `Auto focus` menu item using the **up** or **down** arrow keys. (Last menu item in the first column)
-   * Place your hand over the emergency stop button. In the event that the z probe fails to register during the next step the only thing preventing damage to the machine is your reaction time pressing the emergency stop button.
+   * :warning: **Place your hand over the emergency stop button**. In the event that the z probe fails to register during the next step the only thing preventing damage to the machine is your reaction time pressing the emergency stop button.
    * Press the `Enter` button. The bed will rise until the sensor on the Z probe is depressed. It will then lower the bed a pre-configured amount.
    * Repeat this process when changing the thickness of the material you're cutting or when you significantly reposition your material on the bed.
 * **Set the job origin**. If your job is set to start from either `User Origin` or `Current Position` you now need to position your design on your material. Move the head so that the red dot is at the **top left** of your material and press the `Origin` button. When your job starting position is set to `Absolute Coords` this step can be ignored.

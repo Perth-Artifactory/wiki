@@ -2,7 +2,7 @@
 title: LightBurn Operation Guide
 description: 
 published: true
-date: 2024-01-03T15:22:15.614Z
+date: 2024-01-03T15:22:48.096Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T13:39:11.882Z
@@ -23,7 +23,7 @@ The official documentation for LightBurn can be found [here](https://docs.lightb
 * **Define your layers**: Layers are configured using the box in the top right.
   * Change the drop down next to each layer to either `Line` or `Fill` as required.
   * Double click on the coloured bar next to each layer to configure speed/power.
-    * Speed is measured in mm/s and has an upper limit of 200/400 on Big Red and Middle Red respectively. When engraving/filling the upper limit is 500/800 respectively. Values higher than this can be set and will be displayed on the machine but the head won't actually move any faster.
+    * Speed is measured in mm/s and has an upper limit of 200/400 on Big Red and Middle Red respectively. When engraving/filling the upper limit is 600/800 respectively. Values higher than this can be set and will be displayed on the machine but the head won't actually move any faster.
     * Power is measured in a % of 100. The minimum power you can realistically achieve on Big Red is likely to be around 20%.
     * When cutting you can set a power range using the minimum and maximum power fields. The laser will reduce the power within these parameters when slowing down to go around corners etc.
     * `Line Interval` is the distance between each line of an engrave. It is not present when the selected layer is set to Fill.

@@ -2,7 +2,7 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2024-01-03T15:32:35.185Z
+date: 2024-01-03T15:39:34.869Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -33,8 +33,8 @@ dateCreated: 2023-02-11T10:21:37.510Z
    * Place your hand over the emergency stop button. In the event that the z probe fails to register during the next step the only thing preventing damage to the machine is your reaction time pressing the emergency stop button.
    * Press the `Enter` button. The bed will rise until the sensor on the Z probe is depressed. It will then lower the bed a pre-configured amount.
    * Repeat this process when changing the thickness of the material you're cutting or when you significantly reposition your material on the bed.
-* **Set the job origin**. If your job is set to start from either `User Origin` or `Current Position` you now need to position your design on your material. Move the head so that the red dot is at the **top left** of your material and press the `Frame` button. When your job starting position is set to `Absolute Coords` this step can be ignored.
-* **Check whether your design will fit on your material**. The `frame` button will use the head to trace a *rectangular* bounding box. You can use this bounding box to estimate whether your design will fit. The only consequence of your design not fitting is the completeness of your final piece, the laser can safely be directed at the laser bed without issue.
+* **Set the job origin**. If your job is set to start from either `User Origin` or `Current Position` you now need to position your design on your material. Move the head so that the red dot is at the **top left** of your material and press the `Origin` button. When your job starting position is set to `Absolute Coords` this step can be ignored.
+* **Check whether your design will fit on your material**. The `Frame` button will use the head to trace a *rectangular* bounding box. You can use this bounding box to estimate whether your design will fit. The only consequence of your design not fitting is the completeness of your final piece, the laser can safely be directed at the laser bed without issue.
     * If the laser presents a `X Slop over` or `Y Slop over` error your intended cut will cause the machine to go out of bounds in the specified direction. This has four primary causes:
       * Your design is too big
       * The head isn't positioned close enough to the top left to accommodate the size of the design

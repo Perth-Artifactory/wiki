@@ -2,7 +2,7 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2024-01-03T13:41:40.631Z
+date: 2024-01-03T14:19:01.190Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -12,7 +12,6 @@ dateCreated: 2023-02-11T10:21:37.510Z
 >
 > Only current, authorized [laser trainers](/tools/lasers#trainers) can deliver laser training.
 {.is-warning}
-
 
 ## Big Red
 

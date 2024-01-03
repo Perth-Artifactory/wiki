@@ -28,7 +28,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | David Reeve (DSJR) | ❌ | ❌ | ✅ | 
 | David Skilton (PoshSpice) | ❌ | ❌ | ✅ | 
 | Ewan Macleod (Drayke) | ❌ | ✅ | ❌ | 
-| Fletcher Boyd | ❌ | ✅ | ❌ | 
+| Fletcher Boyd | ✅ | ✅ | ❌ | 
 | Gerard Biles (Gerard) | ❌ | ❌ | ✅ | 
 | Glynn Jones (Glynn) | ❌ | ❌ | ✅ | 
 | Gwynneth Jones (vetch) | ❌ | ❌ | ✅ | 
@@ -47,6 +47,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Jon Gregory (Jon) | ❌ | ❌ | ✅ | 
 | Jon Hayward | ❌ | ❌ | ✅ | 
 | Joseph Ang (HellRyden) | ❌ | ❌ | ✅ | 
+| Josh Foti (Josh) | ❌ | ❌ | ✅ | 
 | Kassandra Roderick | ❌ | ❌ | ✅ | 
 | Kymberli Lim (Kym) | ❌ | ❌ | ✅ | 
 | Lachlan Hutchison | ❌ | ❌ | ✅ | 
@@ -68,6 +69,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ricki Barnes (rickibarnes) | ❌ | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ❌ | ✅ | ❌ | 
 | Rodrigo Kendrick | ❌ | ❌ | ✅ | 
+| Ross Minney | ❌ | ❌ | ✅ | 
 | Ross Sandrock | ❌ | ❌ | ✅ | 
 | Ryan Adine (Reyan) | ❌ | ❌ | ✅ | 
 | Ryan White | ❌ | ❌ | ✅ | 

@@ -2,7 +2,7 @@
 title: LightBurn Operation Guide
 description: 
 published: true
-date: 2024-01-03T14:56:49.621Z
+date: 2024-01-03T15:00:34.698Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T13:39:11.882Z
@@ -55,7 +55,7 @@ The layer field `Number of passes` can be used to control how many times a layer
 
 ### Repeat specific layers after a job has finished
 
-To repeat only certain layers uncheck the green output toggle next to the layers you do not wish to cut. This is preferrable to deleting the vectors directly for a few reasons but mainly because the disabled layers are still included when calculating the origin point for TODO mode.
+To repeat only certain layers uncheck the green output toggle next to the layers you do not wish to cut. This is preferrable to deleting the vectors directly for a few reasons but mainly because the disabled layers are still included when calculating the origin point in the User Origin and Current Position modes.
 
 ### Setting the laser origin
 

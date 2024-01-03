@@ -2,7 +2,7 @@
 title: LightBurn Operation Guide
 description: 
 published: true
-date: 2024-01-03T15:22:48.096Z
+date: 2024-01-03T15:25:14.504Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T13:39:11.882Z
@@ -28,7 +28,7 @@ The official documentation for LightBurn can be found [here](https://docs.lightb
     * When cutting you can set a power range using the minimum and maximum power fields. The laser will reduce the power within these parameters when slowing down to go around corners etc.
     * `Line Interval` is the distance between each line of an engrave. It is not present when the selected layer is set to Fill.
   * Ensure that green `Output` and `Show` toggles next to each layer are checked. (see Advanced for more details)
-* **Prioritise your layers**: Select a layer and use the up and down buttons on the screen to change the cut order. Layers should be done in this order: Engraving/Etching, Internal cuts, Final cut outs. This reduces the likelihood that your material will shift during the cut.
+* **Prioritise your layers**: Drag the layers to change the cut order. Layers should be done in this order: Engraving/Etching, Internal cuts, Final cut outs. This reduces the likelihood that your material will shift during the cut.
 * Adjust the `Start from` dropdown
   * `Cut Position`/`User Origin` will cut your design relative to an origin point you set during job setup.
   * `Absolute coords` - Your design will wherever it is placed on the bed within LightBurn

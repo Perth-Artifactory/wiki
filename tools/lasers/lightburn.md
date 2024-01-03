@@ -2,7 +2,7 @@
 title: LightBurn Operation Guide
 description: 
 published: true
-date: 2024-01-03T15:25:14.504Z
+date: 2024-01-03T15:30:19.906Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T13:39:11.882Z
@@ -38,8 +38,9 @@ The official documentation for LightBurn can be found [here](https://docs.lightb
   * If required press `Yes` to overwrite the existing file
   * If you receive `Open shapes skipped` while sending your job:
     * Select `Edit` -> `Close selected paths with tolerance`
-    * Set the distance threshold to 0.1 and hit OK.
+    * Set the distance threshold to about 0.1 and hit OK.
     * Download your job again using the steps above.
+    * If the problem is still not resolved use the `Show me` button within the `Open shapes skipped` error to help identify the issue.
     
 
 You have completed the basic version of setting up a job on LightBurn.

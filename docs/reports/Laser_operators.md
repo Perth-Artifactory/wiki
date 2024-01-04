@@ -66,6 +66,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Jon Hayward | ❌ | ❌ | ❌ | ✅ | 
 | Joseph Ang (HellRyden) | ❌ | ❌ | ❌ | ✅ | 
 | Josh Foti (Josh) | ❌ | ❌ | ❌ | ✅ | 
+| Joshua Rospondek (spondy) | ✅ | ✅ | ❌ | ❌ | 
 | Joshua Walters (Josh) | ❌ | ❌ | ✅ | ❌ | 
 | Kamil Seda (Kamil) | ❌ | ❌ | ✅ | ❌ | 
 | Kassandra Roderick | ❌ | ❌ | ❌ | ✅ | 

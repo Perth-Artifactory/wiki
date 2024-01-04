@@ -69,7 +69,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Li-aung Yip (Lewis) | ✅ | ✅ | ❌ | ❌ | 
 | Lisa Mccarthy | ❌ | ❌ | ❌ | ✅ | 
 | Loren Hughes (Lorey) | ❌ | ❌ | ❌ | ✅ | 
-| Manuel philipp Bauer (Phil) | ❌ | ✅ | ✅ | ❌ | 
+| Manuel philipp Bauer (Phil) | ✅ | ✅ | ❌ | ❌ | 
 | Mark Finlayson | ❌ | ❌ | ❌ | ✅ | 
 | Maryka De vries | ❌ | ❌ | ❌ | ✅ | 
 | Melanie Mccarthy (Mel) | ❌ | ❌ | ❌ | ✅ | 

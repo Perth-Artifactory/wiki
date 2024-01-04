@@ -44,7 +44,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Hui shan Lim (Shan) | ❌ | ❌ | ❌ | ✅ | 
 | Iain Graham (Sylver) | ❌ | ✅ | ✅ | ❌ | 
 | Ilke Dincer | ❌ | ❌ | ✅ | ❌ | 
-| Isaac Monteath | ❌ | ✅ | ✅ | ❌ | 
+| Isaac Monteath | ✅ | ✅ | ❌ | ❌ | 
 | James Palmer (James Palmer) | ❌ | ❌ | ❌ | ✅ | 
 | Jamie Moir (Jamie ) | ❌ | ❌ | ❌ | ✅ | 
 | Jamieson Quin (Jamo) | ❌ | ❌ | ❌ | ✅ | 
@@ -52,6 +52,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Jayden Saw (Sandy) | ❌ | ❌ | ❌ | ✅ | 
 | Jean-michel Maujean (jeanmichel) | ❌ | ❌ | ❌ | ✅ | 
 | Jeremy Randall (Jezman) | ❌ | ❌ | ❌ | ✅ | 
+| Jim Tuckwell (Jim) | ❌ | ❌ | ✅ | ❌ | 
 | Johannes Chuah (JC) | ❌ | ✅ | ✅ | ❌ | 
 | John Parker (cheshire) | ❌ | ❌ | ✅ | ❌ | 
 | John Saunders (John) | ❌ | ❌ | ❌ | ✅ | 
@@ -68,6 +69,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Li-aung Yip (Lewis) | ✅ | ✅ | ❌ | ❌ | 
 | Lisa Mccarthy | ❌ | ❌ | ❌ | ✅ | 
 | Loren Hughes (Lorey) | ❌ | ❌ | ❌ | ✅ | 
+| Manuel philipp Bauer (Phil) | ❌ | ✅ | ✅ | ❌ | 
 | Mark Finlayson | ❌ | ❌ | ❌ | ✅ | 
 | Maryka De vries | ❌ | ❌ | ❌ | ✅ | 
 | Melanie Mccarthy (Mel) | ❌ | ❌ | ❌ | ✅ | 
@@ -107,7 +109,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Sylvain Esclapez (Sy) | ❌ | ❌ | ❌ | ✅ | 
 | Tegan Murphy | ❌ | ❌ | ✅ | ❌ | 
 | Terry Christou | ❌ | ❌ | ❌ | ✅ | 
-| Thomas White | ❌ | ✅ | ✅ | ❌ | 
+| Thomas White | ✅ | ✅ | ❌ | ❌ | 
 | Travis Bullock | ❌ | ❌ | ❌ | ✅ | 
 | Vincent Dalstra (Vincent) | ❌ | ❌ | ✅ | ❌ | 
 | Yoann Roy (Yoann) | ❌ | ❌ | ❌ | ✅ | 

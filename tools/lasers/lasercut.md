@@ -2,7 +2,7 @@
 title: LaserCut Operation Guide
 description: 
 published: true
-date: 2023-10-02T12:30:35.037Z
+date: 2024-01-04T10:05:46.338Z
 tags: lasers
 editor: markdown
 dateCreated: 2023-01-28T05:57:04.060Z
@@ -10,7 +10,11 @@ dateCreated: 2023-01-28T05:57:04.060Z
 
 # LaserCut Operation Guide
 
-The LaserCut software is used to control [Big Red](/tools/lasers/bigred) and [Little Red](/tools/lasers/littlered).
+> LaserCut is not used by any machine currently in use at the Artifactory. This page has been kept as a reference only.
+{.is-warning}
+
+
+LaserCut is the software previously used to control [Big Red](/tools/lasers/bigred) and [Little Red](/tools/lasers/littlered).
 
 The official [manual for LaserCut](/tools/lasers/lasercut5.3_manual_v1.6.pdf) is available for reference.
 

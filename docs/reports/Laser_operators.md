@@ -19,6 +19,8 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Anna Anagno (Anna) | ❌ | ❌ | ❌ | ✅ | 
 | Arshia Gerami zadegan (Arshia) | ❌ | ❌ | ❌ | ✅ | 
 | Ashleigh Williams | ❌ | ❌ | ❌ | ✅ | 
+| Beau Scott | ❌ | ❌ | ✅ | ❌ | 
+| Ben Connor | ❌ | ❌ | ✅ | ❌ | 
 | Ben Harris | ❌ | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ❌ | ✅ | 
 | Ben Moore (Ben) | ❌ | ❌ | ✅ | ❌ | 
@@ -26,12 +28,14 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Bosun Michael | ❌ | ❌ | ✅ | ❌ | 
 | Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ❌ | ✅ | 
 | Callum Smith (Clam) | ❌ | ✅ | ✅ | ❌ | 
+| Cameron Davis (Cam) | ❌ | ❌ | ✅ | ❌ | 
 | Claude Woodward | ❌ | ❌ | ✅ | ❌ | 
 | Constance Titterton | ❌ | ❌ | ❌ | ✅ | 
 | Daniel Macnish (dan) | ❌ | ❌ | ❌ | ✅ | 
 | Darren Lewis | ❌ | ❌ | ❌ | ✅ | 
 | David Reeve (DSJR) | ❌ | ❌ | ❌ | ✅ | 
 | David Skilton (PoshSpice) | ❌ | ❌ | ❌ | ✅ | 
+| Don Yeh | ❌ | ❌ | ✅ | ❌ | 
 | Doug Bateman (dougb) | ❌ | ❌ | ✅ | ❌ | 
 | Ewan Macleod (Drayke) | ❌ | ✅ | ✅ | ❌ | 
 | Felix Wojcik | ❌ | ❌ | ✅ | ❌ | 
@@ -46,12 +50,14 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ilke Dincer | ❌ | ❌ | ✅ | ❌ | 
 | Isaac Monteath | ✅ | ✅ | ❌ | ❌ | 
 | James Palmer (James Palmer) | ❌ | ❌ | ❌ | ✅ | 
+| James Sim (Felix) | ❌ | ❌ | ✅ | ❌ | 
 | Jamie Moir (Jamie ) | ❌ | ❌ | ❌ | ✅ | 
 | Jamieson Quin (Jamo) | ❌ | ❌ | ❌ | ✅ | 
 | Jason Kongchouy (Jason) | ❌ | ❌ | ✅ | ❌ | 
 | Jayden Saw (Sandy) | ❌ | ❌ | ❌ | ✅ | 
 | Jean-michel Maujean (jeanmichel) | ❌ | ❌ | ❌ | ✅ | 
 | Jeremy Randall (Jezman) | ❌ | ❌ | ❌ | ✅ | 
+| Jethro Van kins (Jet) | ❌ | ❌ | ✅ | ❌ | 
 | Jim Tuckwell (Jim) | ❌ | ❌ | ✅ | ❌ | 
 | Johannes Chuah (JC) | ❌ | ✅ | ✅ | ❌ | 
 | John Parker (cheshire) | ❌ | ❌ | ✅ | ❌ | 

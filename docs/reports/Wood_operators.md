@@ -11,7 +11,7 @@ dateCreated: 2024-01-05T11:12:04.524Z
 | Operator | Wood Lathe | CNC Router |
 | --- | --- | --- |
 | Beau Scott | ✅ | ✅ | 
-| Ben Connor | ❌ | ✅ | 
+| Ben Connor | ✅ | ✅ | 
 | Fletcher Boyd | ✅ | ✅ | 
 | Glenn Martin (glenn) | ❌ | ✅ | 
 | Glynn Jones (Glynn) | ❌ | ✅ | 

@@ -8,4 +8,12 @@ editor: markdown
 dateCreated: 2024-01-05T11:39:29.055Z
 ---
 
-hi!
+| Operator | 3D Printer (Resin) | 3D Printer (FDM) |
+| --- | --- | --- |
+| Beau Daley | ✅ | ✅ | 
+| Ben Connor | ❌ | ✅ | 
+| Fletcher Boyd | ✅ | ✅ | 
+| Iain Graham (Sylver) | ✅ | ❌ | 
+| Joshua Rospondek (spondy) | ✅ | ✅ | 
+| Penny Wood | ❌ | ✅ | 
+| Robert bruce Chambers (Bruce) | ❌ | ✅ | 

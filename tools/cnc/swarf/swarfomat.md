@@ -2,7 +2,7 @@
 title: Swarf-O-Mat CNC Router
 description: 
 published: true
-date: 2023-02-04T10:35:41.852Z
+date: 2024-01-05T15:47:55.522Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:57.788Z
@@ -20,31 +20,21 @@ dateCreated: 2022-10-17T16:54:57.788Z
 
 ![movingpng.png](/resources/hazards/movingpng.png)
 
-## Approved Users
+## Trainers
 
-Under NO circumstances should you use this machine if you have not been trained. ... \|\< 100% 20% \>\| \^ Trainers \^ Availability \^ Availability
+Under NO circumstances should you use this machine if you have not been trained.
 
 | Trainers                                 | Availability                             |
 |------------------------------------------|------------------------------------------|
-| [Jason Kongchouy](/user/Jason Kongchouy) | Unavailable                              |
-| Fletcher Boyd                            | General Hacking Days, by request (Slack) |
+| Fletcher Boyd                            | #training-and-inductions on Slack |
 | Iain Graham                              | Unavailable                              |
 | Ben Connor                               | By request (Slack)                       |
 
+## Operators
 
-| Full Operators         |
-|------------------------|
-| Glenn Martin           |
-| Joshua Rospondek       |
-| Vincent Dalstra        |
-| Nick Bannon            |
-| Beau Scott             |
-| Ben Connor             |
-| Glynn Jones            |
-| O Nokey                |
-| Tom White              |
+An up to date list of operators can be found [here](docs/reports/Metal_operators)
 
-## Tool Usage Fee
+## Tool Usage Fees
 
 Refer to [Tool Usage Fees](/docs/policies/fees).
 

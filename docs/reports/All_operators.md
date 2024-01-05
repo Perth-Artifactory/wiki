@@ -43,4 +43,4 @@ dateCreated: 2024-01-05T14:09:00.628Z
 | Tegan Murphy | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | 
 | Thomas White | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | 
 | Vincent Dalstra (Vincent) | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | 
-| Zoe Williamson (Event Host) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | 
+| Zoe Williamson | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | 

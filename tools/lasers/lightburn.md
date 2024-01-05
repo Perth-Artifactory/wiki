@@ -2,7 +2,7 @@
 title: LightBurn Operation Guide
 description: 
 published: true
-date: 2024-01-03T15:30:19.906Z
+date: 2024-01-05T05:03:10.364Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T13:39:11.882Z
@@ -30,7 +30,7 @@ The official documentation for LightBurn can be found [here](https://docs.lightb
   * Ensure that green `Output` and `Show` toggles next to each layer are checked. (see Advanced for more details)
 * **Prioritise your layers**: Drag the layers to change the cut order. Layers should be done in this order: Engraving/Etching, Internal cuts, Final cut outs. This reduces the likelihood that your material will shift during the cut.
 * Adjust the `Start from` dropdown
-  * `Cut Position`/`User Origin` will cut your design relative to an origin point you set during job setup.
+  * `Current Position`/`User Origin` will cut your design relative to an origin point you set during job setup.
   * `Absolute coords` - Your design will wherever it is placed on the bed within LightBurn
 * Download your job
   * Press `Send`

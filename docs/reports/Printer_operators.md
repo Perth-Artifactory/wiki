@@ -10,7 +10,7 @@ dateCreated: 2024-01-05T11:39:29.055Z
 
 | Operator | 3D Printer (Resin) | 3D Printer (FDM) |
 | --- | --- | --- |
-| Beau Daley | ✅ | ✅ | 
+| Beau Scott | ✅ | ✅ | 
 | Ben Connor | ❌ | ✅ | 
 | Fletcher Boyd | ✅ | ✅ | 
 | Iain Graham (Sylver) | ✅ | ❌ | 

@@ -16,4 +16,5 @@ dateCreated: 2024-01-05T11:39:29.055Z
 | Iain Graham (Sylver) | ✅ | ❌ | 
 | Joshua Rospondek (spondy) | ✅ | ✅ | 
 | Penny Wood | ❌ | ✅ | 
-| Robert bruce Chambers (Bruce) | ❌ | ✅ | 
+| Robert bruce Chambers (Bruce) | ✅ | ✅ | 
+| Tegan Murphy | ✅ | ❌ | 

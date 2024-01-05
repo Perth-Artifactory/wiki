@@ -18,18 +18,18 @@ dateCreated: 2024-01-05T11:13:28.530Z
 | Daniel Mews (Danny) | ❌ | ✅ | ❌ | 
 | Dave Madgwick | ✅ | ✅ | ❌ | 
 | Fletcher Boyd | ❌ | ❌ | ✅ | 
-| Glenn Martin (glenn) | ❌ | ❌ | ✅ | 
-| Glynn Jones (Glynn) | ❌ | ✅ | ✅ | 
+| Glenn Martin | ❌ | ❌ | ✅ | 
+| Glynn Jones | ❌ | ✅ | ✅ | 
 | Guy Longthorn | ❌ | ✅ | ❌ | 
 | Iain Graham (Sylver) | ❌ | ❌ | ✅ | 
-| Jason Kongchouy (Jason) | ❌ | ❌ | ✅ | 
+| Jason Kongchouy | ❌ | ❌ | ✅ | 
 | Joshua Rospondek (spondy) | ✅ | ❌ | ✅ | 
-| Kamil Seda (Kamil) | ✅ | ✅ | ❌ | 
-| Li-aung Yip (Lewis) | ❌ | ✅ | ❌ | 
+| Kamil Seda | ✅ | ✅ | ❌ | 
+| Li-aung Yip (Lewis) | ✅ | ✅ | ❌ | 
 | Narelle Fouche (Ladybug) | ✅ | ❌ | ❌ | 
-| Nick Bannon (nick) | ❌ | ❌ | ✅ | 
+| Nick Bannon | ❌ | ❌ | ✅ | 
 | Renae Currie | ❌ | ✅ | ❌ | 
 | Robert bruce Chambers (Bruce) | ❌ | ✅ | ❌ | 
-| Steve Hodges (steve) | ✅ | ✅ | ❌ | 
+| Steve Hodges | ✅ | ✅ | ❌ | 
 | Thomas White | ❌ | ✅ | ✅ | 
-| Vincent Dalstra (Vincent) | ❌ | ❌ | ✅ | 
+| Vincent Dalstra | ❌ | ❌ | ✅ | 

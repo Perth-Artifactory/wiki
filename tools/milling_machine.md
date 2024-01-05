@@ -2,7 +2,7 @@
 title: Milling Machine
 description: BM-70VE
 published: true
-date: 2023-01-04T02:41:46.150Z
+date: 2024-01-05T15:40:33.662Z
 tags: tools, metalwork, machining
 editor: markdown
 dateCreated: 2022-10-17T16:58:58.322Z
@@ -78,19 +78,7 @@ The **key risk mitigation measures** in place are:
 
 ### Users
 
-* Ben Connor
-* Kamil Seda
-* Guy Longthorn
-* Dave Madgewick
-* Glynn Jones
-* Aron Spencer
-* Steve Hodges
-* Branden Ross
-* Tom White
-* Bruce Chambers
-* Alasdair Penman
-* Daniel Mews
-* Lewis Yip
+An up to date list of approved operators can be found [here](/docs/reports/Metal_operators)
 
 ## Usage Policies
 

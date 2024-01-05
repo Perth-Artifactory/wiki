@@ -2,7 +2,7 @@
 title: Metal Lathe
 description: Hafco Metalmaster AL-50GA Metal Lathe
 published: true
-date: 2023-01-04T02:41:32.233Z
+date: 2024-01-05T15:45:34.444Z
 tags: tools, metalwork, machining, needs picture
 editor: markdown
 dateCreated: 2022-10-17T16:58:29.304Z
@@ -26,12 +26,7 @@ Refer to [Tool Usage Fees](/docs/policies/fees).
 
 ### Users
 
-* Steve Hodges
-* Ben Connor  
-* Kamil Seda
-* Narelle  
-* Dave Madgewick  
-* Joshua Rospondek
+An up to date list of operators can be found [here](/docs/reports/Metal_operators)
 
 ## Instructions for Use
 
@@ -143,9 +138,9 @@ The lathe appreciates some lubrication, but try to keep the oil off the belts!
 
 ## Ownership
 
-This tool was purchased through crowdfunding and is owned by the Artifactory.
+This tool was purchased and upgraded through two rounds of crowdfunding and is owned by the Artifactory.
 
-### Donated by
+### Purchase
 
 * Daniel Harmsworth
 * William Knox
@@ -160,3 +155,7 @@ This tool was purchased through crowdfunding and is owned by the Artifactory.
 * SKoT McDonald
 * Doug Bateman
 * Antony N. Lord
+
+### Upgrade
+
+Not listed

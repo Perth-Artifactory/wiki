@@ -2,17 +2,24 @@
 title: 3D Printers
 description: 
 published: true
-date: 2023-10-17T11:18:29.011Z
+date: 2024-01-05T15:43:31.343Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
 ---
 
-## 3D Printers
+# 3D Printers
 
-While 3D printers are largely safe machines we ask that those not familiar with their operation ask for help before their first print.
+> You need to be trained before using our printers.
+>
+> Only current, authorized trainers can deliver printer training.
+{.is-warning}
 
-### Resin
+## Operators
+
+An up to date list of approved operators can be found [here](/docs/reports/Printer_operators)
+
+## Resin
 
 Our resin printers are primarily sliced using [Chitubox](https://www.chitubox.com/en)
 
@@ -25,7 +32,7 @@ Our resin printers are primarily sliced using [Chitubox](https://www.chitubox.co
 | [Anycubic Photon S](https://www.anycubic.com/collections/anycubic-photon-3d-printers/products/anycubic-photon-s) 3 (Black) | ❌ Chassis damaged by spilled resin, potentially getting transplanted into the white model | 115x65x165   | 25 \~ 100um  |
 | [Creality LD-002R](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer)                               | ✔️ Operational                                                                             | 120x65x165   | 25 \~ 50um   |
 
-### FDM / Filament
+## FDM / Filament
 
 | Printer                                     | Status                  | Build volume | Layer height    |
 |---------------------------------------------|-------------------------|--------------|-----------------|

@@ -16,15 +16,15 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Alexey Korolev (korolexa) | ❌ | ❌ | ❌ | ✅ | 
 | Andrew Bernsousa | ❌ | ❌ | ❌ | ✅ | 
 | Andrew Leitch (Andre) | ❌ | ❌ | ✅ | ❌ | 
-| Anna Anagno (Anna) | ❌ | ❌ | ❌ | ✅ | 
-| Arshia Gerami zadegan (Arshia) | ❌ | ❌ | ❌ | ✅ | 
+| Anna Anagno | ❌ | ❌ | ❌ | ✅ | 
+| Arshia Gerami zadegan | ❌ | ❌ | ❌ | ✅ | 
 | Ashleigh Williams | ❌ | ❌ | ❌ | ✅ | 
 | Beau Scott | ❌ | ❌ | ✅ | ❌ | 
 | Ben Connor | ❌ | ❌ | ✅ | ❌ | 
 | Ben Harris | ❌ | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ❌ | ✅ | 
-| Ben Moore (Ben) | ❌ | ❌ | ✅ | ❌ | 
-| Blake Samuels (Blake) | ✅ | ✅ | ❌ | ❌ | 
+| Ben Moore | ❌ | ❌ | ✅ | ❌ | 
+| Blake Samuels | ✅ | ✅ | ❌ | ❌ | 
 | Bosun Michael | ❌ | ❌ | ✅ | ❌ | 
 | Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ❌ | ✅ | 
 | Callum Smith (Clam) | ❌ | ✅ | ✅ | ❌ | 
@@ -40,8 +40,8 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ewan Macleod (Drayke) | ❌ | ✅ | ✅ | ❌ | 
 | Felix Wojcik | ❌ | ❌ | ✅ | ❌ | 
 | Fletcher Boyd | ✅ | ✅ | ❌ | ❌ | 
-| Gerard Biles (Gerard) | ❌ | ❌ | ❌ | ✅ | 
-| Glynn Jones (Glynn) | ❌ | ❌ | ❌ | ✅ | 
+| Gerard Biles | ❌ | ❌ | ❌ | ✅ | 
+| Glynn Jones | ❌ | ❌ | ❌ | ✅ | 
 | Gwynneth Jones (vetch) | ❌ | ❌ | ❌ | ✅ | 
 | Harry King | ❌ | ❌ | ❌ | ✅ | 
 | Hugh Frazer (b0wlb0y) | ❌ | ❌ | ✅ | ❌ | 
@@ -53,26 +53,26 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | James Sim (Felix) | ❌ | ❌ | ✅ | ❌ | 
 | Jamie Moir (Jamie ) | ❌ | ❌ | ❌ | ✅ | 
 | Jamieson Quin (Jamo) | ❌ | ❌ | ❌ | ✅ | 
-| Jason Kongchouy (Jason) | ❌ | ❌ | ✅ | ❌ | 
+| Jason Kongchouy | ❌ | ❌ | ✅ | ❌ | 
 | Jayden Saw (Sandy) | ❌ | ❌ | ❌ | ✅ | 
 | Jean-michel Maujean (jeanmichel) | ❌ | ❌ | ❌ | ✅ | 
 | Jeremy Randall (Jezman) | ❌ | ❌ | ❌ | ✅ | 
 | Jethro Van kins (Jet) | ❌ | ❌ | ✅ | ❌ | 
-| Jim Tuckwell (Jim) | ❌ | ❌ | ✅ | ❌ | 
+| Jim Tuckwell | ❌ | ❌ | ✅ | ❌ | 
 | Johannes Chuah (JC) | ❌ | ✅ | ✅ | ❌ | 
 | John Parker (cheshire) | ❌ | ❌ | ✅ | ❌ | 
-| John Saunders (John) | ❌ | ❌ | ❌ | ✅ | 
-| Jon Gregory (Jon) | ❌ | ❌ | ❌ | ✅ | 
+| John Saunders | ❌ | ❌ | ❌ | ✅ | 
+| Jon Gregory | ❌ | ❌ | ❌ | ✅ | 
 | Jon Hayward | ❌ | ❌ | ❌ | ✅ | 
 | Joseph Ang (HellRyden) | ❌ | ❌ | ❌ | ✅ | 
-| Josh Foti (Josh) | ❌ | ❌ | ❌ | ✅ | 
+| Josh Foti | ❌ | ❌ | ❌ | ✅ | 
 | Joshua Rospondek (spondy) | ✅ | ✅ | ❌ | ❌ | 
 | Joshua Walters (Josh) | ❌ | ❌ | ✅ | ❌ | 
-| Kamil Seda (Kamil) | ❌ | ❌ | ✅ | ❌ | 
+| Kamil Seda | ❌ | ❌ | ✅ | ❌ | 
 | Kassandra Roderick | ❌ | ❌ | ❌ | ✅ | 
 | Kymberli Lim (Kym) | ❌ | ❌ | ❌ | ✅ | 
 | Lachlan Hutchison | ❌ | ❌ | ❌ | ✅ | 
-| Lauren Amos (Lauren) | ❌ | ❌ | ❌ | ✅ | 
+| Lauren Amos | ❌ | ❌ | ❌ | ✅ | 
 | Li-aung Yip (Lewis) | ✅ | ✅ | ❌ | ❌ | 
 | Lisa Mccarthy | ❌ | ❌ | ❌ | ✅ | 
 | Loren Hughes (Lorey) | ❌ | ❌ | ❌ | ✅ | 
@@ -84,14 +84,14 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Mitchell Robertson (Mitch) | ❌ | ❌ | ❌ | ✅ | 
 | Narelle Fouche (Ladybug) | ❌ | ✅ | ✅ | ❌ | 
 | Nathan Dunn | ❌ | ❌ | ❌ | ✅ | 
-| Nathan Thompson (nathan) | ❌ | ❌ | ✅ | ❌ | 
+| Nathan Thompson | ❌ | ❌ | ✅ | ❌ | 
 | Patrick Kent | ❌ | ❌ | ❌ | ✅ | 
 | Penny Wood | ❌ | ❌ | ✅ | ❌ | 
 | Peter Hillier (letsburn00) | ❌ | ❌ | ✅ | ❌ | 
 | Philip Wijesinghe | ❌ | ❌ | ❌ | ✅ | 
 | Rebecca Howard | ❌ | ❌ | ❌ | ✅ | 
 | Renae Currie | ❌ | ❌ | ✅ | ❌ | 
-| Rick Duley (Rick) | ❌ | ❌ | ❌ | ✅ | 
+| Rick Duley | ❌ | ❌ | ❌ | ✅ | 
 | Ricki Barnes (rickibarnes) | ❌ | ❌ | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ❌ | ✅ | ❌ | ❌ | 
 | Rodrigo Kendrick | ❌ | ❌ | ❌ | ✅ | 
@@ -99,11 +99,11 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ross Sandrock | ❌ | ❌ | ❌ | ✅ | 
 | Ryan Adine (Reyan) | ❌ | ❌ | ❌ | ✅ | 
 | Ryan White | ❌ | ❌ | ❌ | ✅ | 
-| Sam Smith (Sam) | ❌ | ❌ | ❌ | ✅ | 
-| Sami Blue bird (sami) | ❌ | ❌ | ❌ | ✅ | 
+| Sam Smith | ❌ | ❌ | ❌ | ✅ | 
+| Sami Blue bird | ❌ | ❌ | ❌ | ✅ | 
 | Scott Simons | ❌ | ❌ | ❌ | ✅ | 
 | Sean Barry (Sean Barry) | ❌ | ❌ | ❌ | ✅ | 
-| Shay Telfer (shay) | ❌ | ❌ | ❌ | ✅ | 
+| Shay Telfer | ❌ | ❌ | ❌ | ✅ | 
 | Siavash Noorbakhsh | ❌ | ❌ | ❌ | ✅ | 
 | Sijan Rai | ❌ | ❌ | ❌ | ✅ | 
 | Simon Cosgrave | ❌ | ❌ | ❌ | ✅ | 
@@ -118,6 +118,6 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Terry Christou | ❌ | ❌ | ❌ | ✅ | 
 | Thomas White | ✅ | ✅ | ❌ | ❌ | 
 | Travis Bullock | ❌ | ❌ | ❌ | ✅ | 
-| Vincent Dalstra (Vincent) | ❌ | ❌ | ✅ | ❌ | 
-| Yoann Roy (Yoann) | ❌ | ❌ | ❌ | ✅ | 
+| Vincent Dalstra | ❌ | ❌ | ✅ | ❌ | 
+| Yoann Roy | ❌ | ❌ | ❌ | ✅ | 
 | Yohan Ratnayaka (Yo) | ❌ | ❌ | ❌ | ✅ | 

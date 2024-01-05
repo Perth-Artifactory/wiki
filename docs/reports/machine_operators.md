@@ -2,7 +2,7 @@
 title: Machine Operators
 description: 
 published: true
-date: 2024-01-05T10:09:57.278Z
+date: 2024-01-05T11:27:00.086Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T10:09:57.278Z
@@ -19,4 +19,6 @@ These lists are generated from data held in our membership management system, Ti
 
 ## Authorised operator lists
 
- 1. [Laser operators](/docs/reports/Laser_operators)
+ * [Laser operators](/docs/reports/Laser_operators) ([Big Red](/tools/lasers/bigred), [Middle Red](/tools/lasers/middlered))
+ * [Woodworking Operators](/docs/reports/Wood_operators) (Wood Lathe, [CNC Router](/tools/cnc/swarf/swarfomat))
+ * [Metalworking Operators](/docs/reports/Metal_operators) ([Metal Lathe](/tools/lathe), [Mill](/tools/milling_machine), [CNC Router](/tools/cnc/swarf/swarfomat))

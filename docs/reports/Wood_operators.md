@@ -14,15 +14,15 @@ dateCreated: 2024-01-05T11:12:04.524Z
 | Beau Scott | ✅ | ✅ | 
 | Ben Connor | ✅ | ✅ | 
 | Fletcher Boyd | ✅ | ✅ | 
-| Glenn Martin (glenn) | ❌ | ✅ | 
-| Glynn Jones (Glynn) | ❌ | ✅ | 
+| Glenn Martin | ❌ | ✅ | 
+| Glynn Jones | ❌ | ✅ | 
 | Iain Graham (Sylver) | ❌ | ✅ | 
-| Jason Kongchouy (Jason) | ❌ | ✅ | 
+| Jason Kongchouy | ❌ | ✅ | 
 | Joshua Rospondek (spondy) | ❌ | ✅ | 
-| Kamil Seda (Kamil) | ✅ | ❌ | 
-| Nick Bannon (nick) | ❌ | ✅ | 
+| Kamil Seda | ✅ | ❌ | 
+| Nick Bannon | ❌ | ✅ | 
 | Renae Currie | ✅ | ❌ | 
 | Tegan Murphy | ✅ | ❌ | 
 | Thomas White | ❌ | ✅ | 
-| Vincent Dalstra (Vincent) | ❌ | ✅ | 
+| Vincent Dalstra | ❌ | ✅ | 
 | Zoe Williamson | ✅ | ❌ | 

@@ -18,7 +18,7 @@ dateCreated: 2024-01-05T11:12:04.524Z
 | Glynn Jones | ❌ | ✅ | ❌ | ❌ | 
 | Iain Graham (Sylver) | ❌ | ✅ | ❌ | ❌ | 
 | Jason Kongchouy | ❌ | ✅ | ❌ | ❌ | 
-| Joshua Rospondek (spondy) | ❌ | ✅ | ❌ | ❌ | 
+| Joshua Rospondek (spondy) | ❌ | ✅ | ✅ | ✅ | 
 | Kamil Seda | ✅ | ❌ | ❌ | ❌ | 
 | Nick Bannon | ❌ | ✅ | ❌ | ❌ | 
 | Renae Currie | ✅ | ❌ | ✅ | ✅ | 

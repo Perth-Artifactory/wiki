@@ -42,6 +42,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Fletcher Boyd | ✅ | ✅ | ❌ | ❌ | 
 | Gerard Biles | ❌ | ❌ | ❌ | ✅ | 
 | Glynn Jones | ❌ | ❌ | ❌ | ✅ | 
+| Guy Longthorn | ❌ | ❌ | ✅ | ❌ | 
 | Gwynneth Jones (vetch) | ❌ | ❌ | ❌ | ✅ | 
 | Harry King | ❌ | ❌ | ❌ | ✅ | 
 | Hugh Frazer (b0wlb0y) | ❌ | ❌ | ✅ | ❌ | 
@@ -90,7 +91,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Peter Hillier (letsburn00) | ❌ | ❌ | ✅ | ❌ | 
 | Philip Wijesinghe | ❌ | ❌ | ❌ | ✅ | 
 | Rebecca Howard | ❌ | ❌ | ❌ | ✅ | 
-| Renae Currie | ❌ | ❌ | ✅ | ❌ | 
+| Renae Currie | ✅ | ✅ | ❌ | ❌ | 
 | Rick Duley | ❌ | ❌ | ❌ | ✅ | 
 | Ricki Barnes (rickibarnes) | ❌ | ❌ | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ❌ | ✅ | ❌ | ❌ | 
@@ -114,7 +115,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Stuart Mcdonald (STU) | ❌ | ❌ | ❌ | ✅ | 
 | Stuart Mclay (Stu) | ❌ | ❌ | ❌ | ✅ | 
 | Sylvain Esclapez (Sy) | ❌ | ❌ | ❌ | ✅ | 
-| Tegan Murphy | ❌ | ❌ | ✅ | ❌ | 
+| Tegan Murphy | ✅ | ✅ | ❌ | ❌ | 
 | Terry Christou | ❌ | ❌ | ❌ | ✅ | 
 | Thomas White | ✅ | ✅ | ❌ | ❌ | 
 | Travis Bullock | ❌ | ❌ | ❌ | ✅ | 

@@ -28,8 +28,8 @@ dateCreated: 2024-01-05T11:13:28.530Z
 | Li-aung Yip (Lewis) | ✅ | ✅ | ❌ | ❌ | 
 | Narelle Fouche (Ladybug) | ✅ | ❌ | ❌ | ❌ | 
 | Nick Bannon | ❌ | ❌ | ✅ | ❌ | 
-| Renae Currie | ❌ | ✅ | ❌ | ❌ | 
-| Robert bruce Chambers (Bruce) | ❌ | ✅ | ❌ | ❌ | 
+| Renae Currie | ❌ | ✅ | ❌ | ✅ | 
+| Robert bruce Chambers (Bruce) | ✅ | ✅ | ❌ | ❌ | 
 | Steve Hodges | ✅ | ✅ | ❌ | ❌ | 
-| Thomas White | ❌ | ✅ | ✅ | ❌ | 
+| Thomas White | ✅ | ✅ | ✅ | ❌ | 
 | Vincent Dalstra | ❌ | ❌ | ✅ | ❌ | 

@@ -8,4 +8,9 @@ editor: markdown
 dateCreated: 2024-01-07T15:14:43.903Z
 ---
 
-hi!
+| Operator | Angle Grinder | Cutoff Tool | Recip Saw | Air Die Grinder | Track Saw | Plunge Router | Circular Saw | Trim Router | Air Nailer | Portable Belt Sander | Jigsaw | Portable Planer |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Beau Scott | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
+| Fletcher Boyd | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
+| Joshua Rospondek (spondy) | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
+| Renae Currie | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 

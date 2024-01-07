@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-01-05T11:39:29.055Z
 ---
 
-| Operator | 3D Printer (Resin) | 3D Printer (FDM) |
+| Operator | 3D Printer (Resin) | 3D Printer (FDM) | 
 | --- | --- | --- |
 | Beau Scott | ✅ | ✅ | 
 | Ben Connor | ❌ | ✅ | 

@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-04-13T13:13:39.242Z
 ---
 
-| Operator | Big Red | Middle Red | Eligible for Big Red upskill | Laser - Expired (Needs Retraining) |
+| Operator | [Big Red](/tools/lasers/bigred) | [Middle Red](/tools/lasers/middlered) | [Eligible for Big Red upskill](https://perthartifactory.slack.com/archives/CB9S94S2E/p1704299200646889) | Laser - Expired (Needs Retraining) | 
 | --- | --- | --- | --- | --- |
 | Adam Crowle (Ads) | ❌ | ❌ | ❌ | ✅ | 
 | Adam Mellor | ❌ | ✅ | ✅ | ❌ | 

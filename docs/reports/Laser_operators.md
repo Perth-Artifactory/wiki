@@ -23,7 +23,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ben Connor | ❌ | ❌ | ✅ | ❌ | 
 | Ben Harris | ❌ | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ❌ | ✅ | 
-| Ben Moore | ❌ | ❌ | ✅ | ❌ | 
+| Ben Moore | ✅ | ❌ | ❌ | ❌ | 
 | Blake Samuels | ✅ | ✅ | ❌ | ❌ | 
 | Bosun Michael | ❌ | ❌ | ✅ | ❌ | 
 | Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ❌ | ✅ | 
@@ -48,7 +48,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Hugh Frazer (b0wlb0y) | ❌ | ❌ | ✅ | ❌ | 
 | Hui shan Lim (Shan) | ❌ | ❌ | ❌ | ✅ | 
 | Iain Graham (Sylver) | ❌ | ✅ | ✅ | ❌ | 
-| Ilke Dincer | ❌ | ❌ | ✅ | ❌ | 
+| Ilke Dincer | ✅ | ✅ | ❌ | ❌ | 
 | Isaac Monteath | ✅ | ✅ | ❌ | ❌ | 
 | James Palmer (James Palmer) | ❌ | ❌ | ❌ | ✅ | 
 | James Sim (Felix) | ❌ | ❌ | ✅ | ❌ | 
@@ -60,8 +60,8 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Jeremy Randall (Jezman) | ❌ | ❌ | ❌ | ✅ | 
 | Jethro Van kins (Jet) | ❌ | ❌ | ✅ | ❌ | 
 | Jim Tuckwell | ❌ | ❌ | ✅ | ❌ | 
-| Johannes Chuah (JC) | ❌ | ✅ | ✅ | ❌ | 
-| John Parker (cheshire) | ❌ | ❌ | ✅ | ❌ | 
+| Johannes Chuah (JC) | ✅ | ✅ | ❌ | ❌ | 
+| John Parker (cheshire) | ✅ | ✅ | ❌ | ❌ | 
 | John Saunders | ❌ | ❌ | ❌ | ✅ | 
 | Jon Gregory | ❌ | ❌ | ❌ | ✅ | 
 | Jon Hayward | ❌ | ❌ | ❌ | ✅ | 
@@ -96,7 +96,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ricki Barnes (rickibarnes) | ❌ | ❌ | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ❌ | ✅ | ❌ | ❌ | 
 | Rodrigo Kendrick | ❌ | ❌ | ❌ | ✅ | 
-| Ross Minney | ❌ | ❌ | ✅ | ❌ | 
+| Ross Minney | ✅ | ❌ | ❌ | ❌ | 
 | Ross Sandrock | ❌ | ❌ | ❌ | ✅ | 
 | Ryan Adine (Reyan) | ❌ | ❌ | ❌ | ✅ | 
 | Ryan White | ❌ | ❌ | ❌ | ✅ | 

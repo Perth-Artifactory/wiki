@@ -2,7 +2,7 @@
 title: Reports
 description: 
 published: true
-date: 2024-01-07T15:03:21.621Z
+date: 2024-01-07T15:44:15.915Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T11:24:09.689Z
@@ -15,5 +15,6 @@ Reports in this section are typically generated from external sources.
   * [Laser Operators](/docs/reports/Laser_operators)
   * [Woodworking Operators](/docs/reports/Wood_operators)
   * [Metalworking Operators](/docs/reports/Metal_operators)
+  * [Power Tool Operators](/docs/reports/Power_operators)
   * [3D Printer Operators](/docs/reports/Printer_operators)
   * [Misc Operators](/docs/reports/Misc_operators)

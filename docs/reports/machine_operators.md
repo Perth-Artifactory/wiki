@@ -2,7 +2,7 @@
 title: Machine Operators
 description: 
 published: true
-date: 2024-01-07T15:45:46.531Z
+date: 2024-01-07T15:46:14.630Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T10:09:57.278Z
@@ -24,5 +24,5 @@ These lists are generated from data held in our membership management system, Ti
  * [Metalworking Operators](/docs/reports/Metal_operators) ([Metal Lathe](/tools/lathe), [Mill](/tools/milling_machine), [CNC Router](/tools/cnc/swarf/swarfomat), Furnace)
  * [Power Tool Operators](/docs/reports/Power_operators)
  * [3D Printer Operators](/docs/reports/Printer_operators) ([Resin Printers](/tools/3dprinters/home#resin), [FDM Printers](/tools/3dprinters/home#fdm-filament))
- * [Misc Operators](/docs/reports/Misc_operators)
- * [Combined list](/docs/reports/All_operators)
+ * [Misc Operators](/docs/reports/Misc_operators) (Things that don't fit in other categories)
+ * [Combined list](/docs/reports/All_operators) (Every operator)

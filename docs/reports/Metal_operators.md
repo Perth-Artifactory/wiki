@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-01-05T11:13:28.530Z
 ---
 
-| Operator | Metal Lathe | Mill | CNC Router | Furnace | Friction Saw | Plasma Cutter | Metal Bandsaw | Bench Grinder | Drill Press | Welder - Stick | Welder - Mig |
+| Operator | Metal Lathe | Mill | CNC Router | Furnace | Friction Saw | Plasma Cutter | Metal Bandsaw | Bench Grinder | Drill Press | Welder - Stick | Welder - Mig | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Alasdair Penman | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
 | Aron Spencer | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 

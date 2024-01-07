@@ -2,7 +2,7 @@
 title: Machine Operators
 description: 
 published: true
-date: 2024-01-07T16:00:32.003Z
+date: 2024-01-07T16:38:17.134Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-05T10:09:57.278Z
@@ -14,11 +14,14 @@ These are lists of people who are authorized to use medium (yellow) and high (re
 
 These lists are generated from data held in our membership management system, TidyHQ, and are refreshed every 24 hours.
 
-> We fully implemented this system in January 2024. If you were trained on a machine/tool prior to January 2024, and you are not listed as an authorised operator, please contact us to get your entry updated.
+> We began implementing this system in January 2024. If you were trained on a machine/tool prior to January 2024, and you are not listed as an authorised operator, please contact us to get your entry updated.
 {.is-info}
 
-> Only high risk (red) tools are listed in brackets here. Each list includes a number of medium-risk tools as well.
+> We recognise the negative short term impact the implementation of this system may have on existing members. A grace period for medium-risk (yellow) tools that did not previously have a formal sign off is in place while we get everyone in the new system.
 {.is-info}
+
+
+Only high risk (red) tools are listed in brackets here. Each list includes a number of medium-risk tools as well.
 
 ## Authorised operator lists
 

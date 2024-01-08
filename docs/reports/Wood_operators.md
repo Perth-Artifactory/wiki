@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2024-01-05T11:12:04.524Z
 ---
 
-| Operator | Wood Lathe | CNC Router | Wood Bandsaw | Table Saw | Jointer | Thicknesser | Router Table | Mitre Saw | Fixed Belt Sander | Spindle Sander | Drill Press | 
+| Operator | Lathe (Wood) | [Router (CNC)](/tools/cnc/swarf/swarfomat) 🔴| Bandsaw (Wood) | Saw (Table) | Jointer | Thicknesser | Router (Table) | Saw (Mitre) | Fixed Belt Sander | Sander (Spindle) | Drill Press | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Anthony Parrella | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
 | Beau Scott | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 

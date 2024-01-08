@@ -8,6 +8,6 @@ editor: markdown
 dateCreated: 2024-01-07T15:02:52.017Z
 ---
 
-| Operator | Kiln | Sand Blaster | Pressure Pot | Air Paint Gun | Air Gun | Vacuum Former | Vinyl Cutter | 
+| Operator | Air Gun 🟡| Air Paint Gun 🟡| Kiln 🟡| Pressure Pot 🟡| Sand Blaster 🟡| Vacuum Former 🟡| Vinyl Cutter 🟡| 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| Shannon Moylan | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | 
+| Shannon Moylan | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 

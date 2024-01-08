@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2024-01-07T15:14:43.903Z
 ---
 
-| Operator | Angle Grinder (<7") | Angle Grinder (7"+) | Cutoff Tool | Saw (Recip) | Air Die Grinder | Saw (Track) | [Router (Plunge)]() 🔴| Saw (Circular) | Router (Trim) | Air Nailer | Sander (Portable Belt) | Saw (Jigsaw) | Portable Planer | 
+| Operator | Air Die Grinder 🟡| Air Nailer 🟡| Angle Grinder (7"+) 🔴| Angle Grinder (<7") 🟡| Cutoff Tool 🟡| Portable Planer 🟡| [Router (Plunge)]() 🔴| Router (Trim) 🟡| Sander (Portable Belt) 🟡| Saw (Circular) 🟡| Saw (Jigsaw) 🟡| Saw (Recip) 🟡| Saw (Track) 🟡| 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Beau Scott | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
-| Fletcher Boyd | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
-| Joshua Rospondek (spondy) | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
-| Renae Currie | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
-| Shannon Moylan | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | 
+| Beau Scott | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | 
+| Fletcher Boyd | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | 
+| Joshua Rospondek (spondy) | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | 
+| Renae Currie | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | 
+| Shannon Moylan | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ❌ | ❌ | 

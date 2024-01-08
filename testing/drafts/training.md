@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-01-08T16:19:34.805Z
+date: 2024-01-08T16:23:20.690Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -20,11 +20,11 @@ If we notice you using a tool inappropriately, we’ll still ask you to pause yo
 
 ### Low Risk 🟢
 
-You can self assess your competency on these tools and use them if you feel comfortable. Feel free to have a go and if you're not sure you can always ask.
+You can self assess your competency on these tools and use them if you feel comfortable. Feel free to have a go and if you're not sure you can always ask for help. Even though these tools are low risk you should still be vigilant about safety.
 
 ### Medium Risk 🟡
 
-These tools can easily hurt you or others. To use these tools you must either complete a short induction with one of our authorised trainers or demonstrate to them that you can use this tool safely.
+These tools can easily hurt you, others, or the tool. To use these tools you must either complete a short induction with one of our authorised trainers or demonstrate to them that you can use this tool safely.
 
 ### High Risk 🔴
 

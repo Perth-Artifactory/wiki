@@ -10,4 +10,8 @@ dateCreated: 2024-01-07T15:02:52.017Z
 
 | Operator | Air Gun 🟡| Air Paint Gun 🟡| Kiln 🟡| Pressure Pot 🟡| Sand Blaster 🟡| Vacuum Former 🟡| Vinyl Cutter 🟡| 
 | --- | --- | --- | --- | --- | --- | --- | --- |
+| Fletcher Boyd | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
+| Guy Longthorn | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | 
+| Li-aung Yip (Lewis) | ✅ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | 
+| Ross Minney | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | 
 | Shannon Moylan | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 

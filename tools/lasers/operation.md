@@ -2,7 +2,7 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2024-01-05T15:42:09.511Z
+date: 2024-01-08T14:36:11.170Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -18,9 +18,9 @@ dateCreated: 2023-02-11T10:21:37.510Z
 * **Check whether your material can be cut by the laser**. Refer to the [Material Advice](/tools/lasers/materials) page for specifics.
 * **Check whether the laser bed is unobstructed**. Ensure the bed is free of material/weights/magnets etc. When you turn the laser on the head will first move back to the top right and then to where the last user set the origin.
 * **Turn the laser on** using either the green power button or the shortcut button on the side of the monitor.
-* **Set your job up in [LightBurn](/tools/lasers/lightburn)**
   * **Check that the water chiller turned on**. It's the white box to the left of the laser cutter. You can tell that it's on because the green light will be on. Don't worry about the temperature just yet.
   * **Check that the extraction system turned on**. Big Red uses a large air extractor that is connected to the back of the machine. Fumes are pulled out of the machine through slots located inside the cutting bay behind the bed. Put your hand over these slots and check for slight air movement.
+* **Set your job up in [LightBurn](/tools/lasers/lightburn)**
 * **Place your material on the bed**
   * **Make sure that your material will fit under the head**. Because Big Red's bed can move up and down it's possible for the bed to be raised to a point where your material will not fit. To lower the bed press the `Z/U` button to open the menu and hold the **right arrow** until the bed is low enough.
   * **Square your material**. The bed itself is free to slide around and cannot be relied upon to be square. The only horizontal squared surface is the gantry. (The bar that the laser head moves left and right on) An easy way to align material is to use the shadow cast by the gantry when it's over your material.

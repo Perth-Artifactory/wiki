@@ -8,14 +8,14 @@ editor: markdown
 dateCreated: 2024-01-05T11:39:29.055Z
 ---
 
-| Operator | [3D Printer (Resin)](/tools/3dprinters/home#resin) 🔴| [3D Printer (FDM)](/tools/3dprinters/home#fdm-filament) 🔴| 
+| Operator | [3D Printer (FDM)](/tools/3dprinters/home#fdm-filament) 🔴| [3D Printer (Resin)](/tools/3dprinters/home#resin) 🔴| 
 | --- | --- | --- |
 | Beau Scott | ✅ | ✅ | 
-| Ben Connor | ❌ | ✅ | 
+| Ben Connor | ✅ | ❌ | 
 | Fletcher Boyd | ✅ | ✅ | 
-| Iain Graham (Sylver) | ✅ | ❌ | 
+| Iain Graham (Sylver) | ❌ | ✅ | 
 | Joshua Rospondek (spondy) | ✅ | ✅ | 
-| Penny Wood | ❌ | ✅ | 
-| Renae Currie | ✅ | ❌ | 
+| Penny Wood | ✅ | ❌ | 
+| Renae Currie | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ✅ | ✅ | 
-| Tegan Murphy | ✅ | ❌ | 
+| Tegan Murphy | ❌ | ✅ | 

@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-01-08T16:23:20.690Z
+date: 2024-01-08T16:26:20.751Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -32,7 +32,7 @@ These tools can cause serious injury, are easy to damage, or both. An induction 
 
 ## Requesting Training
 
-You can request training in the [#training-and-inductions](https://slack.com/app_redirect?channel=C069Q91GQGY&team=T0LQE2JNR) channel on Slack. Some training for medium risk tools can be conducted ad hoc at the discretion of an authorised trainer. However, most training needs to be booked in advance through Slack. Training for some of our high risk tools represents a significant time investment for our volunteers, and is only available to members. 
+You can request training in the [#training-and-inductions](https://slack.com/app_redirect?channel=C069Q91GQGY&team=T0LQE2JNR) channel on Slack. Some training for medium risk tools can be conducted ad hoc at the discretion of an authorised trainer. However, most training needs to be booked in advance through Slack. Training for some of our high risk tools represents a significant time investment for our volunteers, and as such is only available to members. 
 
 ### Costs
 

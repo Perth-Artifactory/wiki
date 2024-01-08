@@ -15,6 +15,7 @@ dateCreated: 2024-01-05T11:39:29.055Z
 | Fletcher Boyd | ✅ | ✅ | 
 | Iain Graham (Sylver) | ❌ | ✅ | 
 | Joshua Rospondek (spondy) | ✅ | ✅ | 
+| Kamil Seda | ❌ | ✅ | 
 | Penny Wood | ✅ | ❌ | 
 | Renae Currie | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ✅ | ✅ | 

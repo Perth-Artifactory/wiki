@@ -2,7 +2,7 @@
 title: Swarf-O-Mat CNC Router
 description: 
 published: true
-date: 2024-01-05T15:48:55.517Z
+date: 2024-01-08T03:14:42.769Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:57.788Z
@@ -35,7 +35,7 @@ dateCreated: 2022-10-17T16:54:57.788Z
 
 ## Operators
 
-An up to date list of operators can be found [here](docs/reports/Metal_operators)
+An up to date list of operators can be found [here](/docs/reports/Metal_operators)
 
 ## Tool Usage Fees
 

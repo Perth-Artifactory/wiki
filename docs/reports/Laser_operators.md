@@ -42,7 +42,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Fletcher Boyd | ❌ | ✅ | ✅ | ❌ | 
 | Gerard Biles | ❌ | ❌ | ❌ | ✅ | 
 | Glynn Jones | ❌ | ❌ | ❌ | ✅ | 
-| Guy Longthorn | ✅ | ❌ | ❌ | ❌ | 
+| Guy Longthorn | ❌ | ✅ | ✅ | ❌ | 
 | Gwynneth Jones (vetch) | ❌ | ❌ | ❌ | ✅ | 
 | Harry King | ❌ | ❌ | ❌ | ✅ | 
 | Hugh Frazer (b0wlb0y) | ✅ | ❌ | ❌ | ❌ | 
@@ -96,7 +96,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ricki Barnes (rickibarnes) | ❌ | ❌ | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ❌ | ❌ | ✅ | ❌ | 
 | Rodrigo Kendrick | ❌ | ❌ | ❌ | ✅ | 
-| Ross Minney | ❌ | ✅ | ❌ | ❌ | 
+| Ross Minney | ❌ | ✅ | ✅ | ❌ | 
 | Ross Sandrock | ❌ | ❌ | ❌ | ✅ | 
 | Ryan Adine (Reyan) | ❌ | ❌ | ❌ | ✅ | 
 | Ryan White | ❌ | ❌ | ❌ | ✅ | 

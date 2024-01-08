@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-01-08T16:04:44.402Z
+date: 2024-01-08T16:19:34.805Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -10,11 +10,11 @@ dateCreated: 2024-01-08T14:46:10.755Z
 
 # Training
 
-Some of our tools are hazardous or easy to damage if used incorrectly. We classify our tools into three levels. Tools will be marked with coloured dots to help you identify whether you can use them or not.
+We classify our tools into three levels based on the potential risk to people and property. Tools are marked with coloured dots to help you identify whether you can use them or not.
 
 You can check whether you're an authorised operator for specific medium and high risk tools by checking the appropriate [Authorised Operator List](/docs/reports/machine_operators).
 
-If we notice you using a tool incorrectly, we’ll still ask you to pause your job and help you identify a safer method.
+If we notice you using a tool inappropriately, we’ll still ask you to pause your job and help you identify a safer method.
 
 ## Tool Categories
 

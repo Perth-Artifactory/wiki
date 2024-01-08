@@ -8,95 +8,95 @@ editor: markdown
 dateCreated: 2023-04-13T13:13:39.242Z
 ---
 
-| Operator | [ Laser (Big Red)](/tools/lasers/bigred) 🔴| [Laser (Middle Red)](/tools/lasers/middlered) 🔴| [Eligible for Big Red upskill](https://perthartifactory.slack.com/archives/CB9S94S2E/p1704299200646889) | Laser - Expired (Needs Retraining) | 
+| Operator | [Eligible for Big Red upskill](https://perthartifactory.slack.com/archives/CB9S94S2E/p1704299200646889) | [Laser (Big Red)](/tools/lasers/bigred) 🔴| [Laser (Middle Red)](/tools/lasers/middlered) 🔴| Laser - Expired (Needs Retraining) | 
 | --- | --- | --- | --- | --- |
 | Adam Crowle (Ads) | ❌ | ❌ | ❌ | ✅ | 
-| Adam Mellor | ❌ | ✅ | ✅ | ❌ | 
-| Aiden Loh | ❌ | ❌ | ✅ | ❌ | 
+| Adam Mellor | ✅ | ❌ | ✅ | ❌ | 
+| Aiden Loh | ✅ | ❌ | ❌ | ❌ | 
 | Alexey Korolev (korolexa) | ❌ | ❌ | ❌ | ✅ | 
 | Andrew Bernsousa | ❌ | ❌ | ❌ | ✅ | 
-| Andrew Leitch (Andre) | ❌ | ❌ | ✅ | ❌ | 
+| Andrew Leitch (Andre) | ✅ | ❌ | ❌ | ❌ | 
 | Anna Anagno | ❌ | ❌ | ❌ | ✅ | 
 | Arshia Gerami zadegan | ❌ | ❌ | ❌ | ✅ | 
 | Ashleigh Williams | ❌ | ❌ | ❌ | ✅ | 
-| Beau Scott | ❌ | ❌ | ✅ | ❌ | 
-| Ben Connor | ❌ | ❌ | ✅ | ❌ | 
+| Beau Scott | ✅ | ❌ | ❌ | ❌ | 
+| Ben Connor | ✅ | ❌ | ❌ | ❌ | 
 | Ben Harris | ❌ | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ❌ | ✅ | 
-| Ben Moore | ✅ | ❌ | ❌ | ❌ | 
-| Blake Samuels | ✅ | ✅ | ❌ | ❌ | 
-| Bosun Michael | ❌ | ❌ | ✅ | ❌ | 
+| Ben Moore | ❌ | ✅ | ❌ | ❌ | 
+| Blake Samuels | ❌ | ✅ | ✅ | ❌ | 
+| Bosun Michael | ✅ | ❌ | ❌ | ❌ | 
 | Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ❌ | ✅ | 
-| Callum Smith (Clam) | ❌ | ✅ | ✅ | ❌ | 
-| Cameron Davis (Cam) | ❌ | ❌ | ✅ | ❌ | 
-| Claude Woodward | ❌ | ❌ | ✅ | ❌ | 
+| Callum Smith (Clam) | ✅ | ❌ | ✅ | ❌ | 
+| Cameron Davis (Cam) | ✅ | ❌ | ❌ | ❌ | 
+| Claude Woodward | ✅ | ❌ | ❌ | ❌ | 
 | Constance Titterton | ❌ | ❌ | ❌ | ✅ | 
 | Daniel Macnish (dan) | ❌ | ❌ | ❌ | ✅ | 
 | Darren Lewis | ❌ | ❌ | ❌ | ✅ | 
 | David Reeve (DSJR) | ❌ | ❌ | ❌ | ✅ | 
 | David Skilton (PoshSpice) | ❌ | ❌ | ❌ | ✅ | 
-| Don Yeh | ❌ | ❌ | ✅ | ❌ | 
-| Doug Bateman (dougb) | ❌ | ❌ | ✅ | ❌ | 
-| Ewan Macleod (Drayke) | ❌ | ✅ | ✅ | ❌ | 
-| Felix Wojcik | ❌ | ❌ | ✅ | ❌ | 
-| Fletcher Boyd | ✅ | ✅ | ❌ | ❌ | 
+| Don Yeh | ✅ | ❌ | ❌ | ❌ | 
+| Doug Bateman (dougb) | ✅ | ❌ | ❌ | ❌ | 
+| Ewan Macleod (Drayke) | ✅ | ❌ | ✅ | ❌ | 
+| Felix Wojcik | ✅ | ❌ | ❌ | ❌ | 
+| Fletcher Boyd | ❌ | ✅ | ✅ | ❌ | 
 | Gerard Biles | ❌ | ❌ | ❌ | ✅ | 
 | Glynn Jones | ❌ | ❌ | ❌ | ✅ | 
-| Guy Longthorn | ❌ | ❌ | ✅ | ❌ | 
+| Guy Longthorn | ✅ | ❌ | ❌ | ❌ | 
 | Gwynneth Jones (vetch) | ❌ | ❌ | ❌ | ✅ | 
 | Harry King | ❌ | ❌ | ❌ | ✅ | 
-| Hugh Frazer (b0wlb0y) | ❌ | ❌ | ✅ | ❌ | 
+| Hugh Frazer (b0wlb0y) | ✅ | ❌ | ❌ | ❌ | 
 | Hui shan Lim (Shan) | ❌ | ❌ | ❌ | ✅ | 
-| Iain Graham (Sylver) | ❌ | ✅ | ✅ | ❌ | 
-| Ilke Dincer | ✅ | ✅ | ❌ | ❌ | 
-| Isaac Monteath | ✅ | ✅ | ❌ | ❌ | 
+| Iain Graham (Sylver) | ✅ | ❌ | ✅ | ❌ | 
+| Ilke Dincer | ❌ | ✅ | ✅ | ❌ | 
+| Isaac Monteath | ❌ | ✅ | ✅ | ❌ | 
 | James Palmer (James Palmer) | ❌ | ❌ | ❌ | ✅ | 
-| James Sim (Felix) | ❌ | ❌ | ✅ | ❌ | 
+| James Sim (Felix) | ✅ | ❌ | ❌ | ❌ | 
 | Jamie Moir (Jamie ) | ❌ | ❌ | ❌ | ✅ | 
 | Jamieson Quin (Jamo) | ❌ | ❌ | ❌ | ✅ | 
-| Jason Kongchouy | ❌ | ❌ | ✅ | ❌ | 
+| Jason Kongchouy | ✅ | ❌ | ❌ | ❌ | 
 | Jayden Saw (Sandy) | ❌ | ❌ | ❌ | ✅ | 
 | Jean-michel Maujean (jeanmichel) | ❌ | ❌ | ❌ | ✅ | 
 | Jeremy Randall (Jezman) | ❌ | ❌ | ❌ | ✅ | 
-| Jethro Van kins (Jet) | ❌ | ❌ | ✅ | ❌ | 
-| Jim Tuckwell | ❌ | ❌ | ✅ | ❌ | 
-| Johannes Chuah (JC) | ✅ | ✅ | ❌ | ❌ | 
-| John Parker (cheshire) | ✅ | ✅ | ❌ | ❌ | 
+| Jethro Van kins (Jet) | ✅ | ❌ | ❌ | ❌ | 
+| Jim Tuckwell | ✅ | ❌ | ❌ | ❌ | 
+| Johannes Chuah (JC) | ❌ | ✅ | ✅ | ❌ | 
+| John Parker (cheshire) | ❌ | ✅ | ✅ | ❌ | 
 | John Saunders | ❌ | ❌ | ❌ | ✅ | 
 | Jon Gregory | ❌ | ❌ | ❌ | ✅ | 
 | Jon Hayward | ❌ | ❌ | ❌ | ✅ | 
 | Joseph Ang (HellRyden) | ❌ | ❌ | ❌ | ✅ | 
 | Josh Foti | ❌ | ❌ | ❌ | ✅ | 
-| Joshua Rospondek (spondy) | ✅ | ✅ | ❌ | ❌ | 
-| Joshua Walters (Josh) | ❌ | ❌ | ✅ | ❌ | 
-| Kamil Seda | ❌ | ❌ | ✅ | ❌ | 
+| Joshua Rospondek (spondy) | ❌ | ✅ | ✅ | ❌ | 
+| Joshua Walters (Josh) | ✅ | ❌ | ❌ | ❌ | 
+| Kamil Seda | ✅ | ❌ | ❌ | ❌ | 
 | Kassandra Roderick | ❌ | ❌ | ❌ | ✅ | 
 | Kymberli Lim (Kym) | ❌ | ❌ | ❌ | ✅ | 
 | Lachlan Hutchison | ❌ | ❌ | ❌ | ✅ | 
 | Lauren Amos | ❌ | ❌ | ❌ | ✅ | 
-| Li-aung Yip (Lewis) | ✅ | ✅ | ❌ | ❌ | 
+| Li-aung Yip (Lewis) | ❌ | ✅ | ✅ | ❌ | 
 | Lisa Mccarthy | ❌ | ❌ | ❌ | ✅ | 
 | Loren Hughes (Lorey) | ❌ | ❌ | ❌ | ✅ | 
-| Manuel philipp Bauer (Phil) | ✅ | ✅ | ❌ | ❌ | 
+| Manuel philipp Bauer (Phil) | ❌ | ✅ | ✅ | ❌ | 
 | Mark Finlayson | ❌ | ❌ | ❌ | ✅ | 
 | Maryka De vries | ❌ | ❌ | ❌ | ✅ | 
 | Melanie Mccarthy (Mel) | ❌ | ❌ | ❌ | ✅ | 
 | Michael O'connor | ❌ | ❌ | ❌ | ✅ | 
 | Mitchell Robertson (Mitch) | ❌ | ❌ | ❌ | ✅ | 
-| Narelle Fouche (Ladybug) | ❌ | ✅ | ✅ | ❌ | 
+| Narelle Fouche (Ladybug) | ✅ | ❌ | ✅ | ❌ | 
 | Nathan Dunn | ❌ | ❌ | ❌ | ✅ | 
-| Nathan Thompson | ❌ | ❌ | ✅ | ❌ | 
+| Nathan Thompson | ✅ | ❌ | ❌ | ❌ | 
 | Patrick Kent | ❌ | ❌ | ❌ | ✅ | 
-| Penny Wood | ❌ | ❌ | ✅ | ❌ | 
-| Peter Hillier (letsburn00) | ❌ | ❌ | ✅ | ❌ | 
+| Penny Wood | ✅ | ❌ | ❌ | ❌ | 
+| Peter Hillier (letsburn00) | ✅ | ❌ | ❌ | ❌ | 
 | Philip Wijesinghe | ❌ | ❌ | ❌ | ✅ | 
 | Rebecca Howard | ❌ | ❌ | ❌ | ✅ | 
-| Renae Currie | ✅ | ✅ | ❌ | ❌ | 
+| Renae Currie | ❌ | ✅ | ✅ | ❌ | 
 | Rick Duley | ❌ | ❌ | ❌ | ✅ | 
 | Ricki Barnes (rickibarnes) | ❌ | ❌ | ❌ | ✅ | 
-| Robert bruce Chambers (Bruce) | ❌ | ✅ | ❌ | ❌ | 
+| Robert bruce Chambers (Bruce) | ❌ | ❌ | ✅ | ❌ | 
 | Rodrigo Kendrick | ❌ | ❌ | ❌ | ✅ | 
-| Ross Minney | ✅ | ❌ | ❌ | ❌ | 
+| Ross Minney | ❌ | ✅ | ❌ | ❌ | 
 | Ross Sandrock | ❌ | ❌ | ❌ | ✅ | 
 | Ryan Adine (Reyan) | ❌ | ❌ | ❌ | ✅ | 
 | Ryan White | ❌ | ❌ | ❌ | ✅ | 
@@ -115,10 +115,10 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Stuart Mcdonald (STU) | ❌ | ❌ | ❌ | ✅ | 
 | Stuart Mclay (Stu) | ❌ | ❌ | ❌ | ✅ | 
 | Sylvain Esclapez (Sy) | ❌ | ❌ | ❌ | ✅ | 
-| Tegan Murphy | ✅ | ✅ | ❌ | ❌ | 
+| Tegan Murphy | ❌ | ✅ | ✅ | ❌ | 
 | Terry Christou | ❌ | ❌ | ❌ | ✅ | 
-| Thomas White | ✅ | ✅ | ❌ | ❌ | 
+| Thomas White | ❌ | ✅ | ✅ | ❌ | 
 | Travis Bullock | ❌ | ❌ | ❌ | ✅ | 
-| Vincent Dalstra | ❌ | ❌ | ✅ | ❌ | 
+| Vincent Dalstra | ✅ | ❌ | ❌ | ❌ | 
 | Yoann Roy | ❌ | ❌ | ❌ | ✅ | 
 | Yohan Ratnayaka (Yo) | ❌ | ❌ | ❌ | ✅ | 

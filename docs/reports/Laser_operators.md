@@ -59,7 +59,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Jean-michel Maujean (jeanmichel) | ❌ | ❌ | ❌ | ✅ | 
 | Jeremy Randall (Jezman) | ❌ | ❌ | ❌ | ✅ | 
 | Jethro Van kins (Jet) | ✅ | ❌ | ❌ | ❌ | 
-| Jim Tuckwell | ✅ | ❌ | ❌ | ❌ | 
+| Jim Tuckwell | ❌ | ✅ | ✅ | ❌ | 
 | Johannes Chuah (JC) | ❌ | ✅ | ✅ | ❌ | 
 | John Parker (cheshire) | ❌ | ✅ | ✅ | ❌ | 
 | John Saunders | ❌ | ❌ | ❌ | ✅ | 
@@ -68,7 +68,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Joseph Ang (HellRyden) | ❌ | ❌ | ❌ | ✅ | 
 | Josh Foti | ❌ | ❌ | ❌ | ✅ | 
 | Joshua Rospondek (spondy) | ❌ | ✅ | ✅ | ❌ | 
-| Joshua Walters (Josh) | ✅ | ❌ | ❌ | ❌ | 
+| Joshua Walters (Josh) | ❌ | ✅ | ✅ | ❌ | 
 | Kamil Seda | ❌ | ✅ | ✅ | ❌ | 
 | Kassandra Roderick | ❌ | ❌ | ❌ | ✅ | 
 | Kymberli Lim (Kym) | ❌ | ❌ | ❌ | ✅ | 

@@ -105,6 +105,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Scott Simons | ❌ | ❌ | ❌ | ✅ | 
 | Sean Barry (Sean Barry) | ❌ | ❌ | ❌ | ✅ | 
 | Shay Telfer | ❌ | ❌ | ❌ | ✅ | 
+| Shelley Elkins | ❌ | ✅ | ✅ | ❌ | 
 | Siavash Noorbakhsh | ❌ | ❌ | ❌ | ✅ | 
 | Sijan Rai | ❌ | ❌ | ❌ | ✅ | 
 | Simon Cosgrave | ❌ | ❌ | ❌ | ✅ | 

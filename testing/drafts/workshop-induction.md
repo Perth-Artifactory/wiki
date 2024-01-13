@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2024-01-13T12:31:48.517Z
+date: 2024-01-13T12:41:47.819Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -228,18 +228,18 @@ Car stuff
 
 In here:
 * Welding PPE
-* :passport_control: Angle grinders
-* :passport_control: Friction saw
-* :passport_control: Metal bandsaw
-* :passport_control: Plasma cutters
-* :passport_control: :dollar: Welding equipment. Point at **fees** sign.
-* :warning: Metal melting furnace. **Training** via #fire-and-forge.
+* 🟡 Angle grinders
+* 🟡 Friction saw
+* 🟡 Metal bandsaw
+* 🟡 Plasma cutters
+* 🟡 :dollar: Welding equipment. Point at **fees** sign.
+* 🔴 Metal melting furnace. **Training** via #fire-and-forge.
 
 # Machine tools
 
 In here:
-* :warning: Metal lathe. **Training** via #tools-and-fabrication.
-* :warning: :dollar: Metal mill. **Training** via #tools-and-fabrication. Point at **fees** sign.
+* 🔴 Metal lathe. **Training** via #tools-and-fabrication.
+* 🔴 :dollar: Metal mill. **Training** via #tools-and-fabrication. Point at **fees** sign.
 
 # Electronics lab
 
@@ -247,7 +247,7 @@ In here:
 
 Components, supplies, consumables - **communal**
 
-:passport_control: Power supplies - high power - fire hazard :fire:
+🟡 Power supplies - high power - fire hazard :fire:
 
 :scroll: [Dangerous projects and tools policy](/docs/committee/dangerous_projects_and_tools_policy)
 

@@ -2,7 +2,7 @@
 title: Workshop Induction - DRAFT
 description: 
 published: true
-date: 2023-07-24T15:16:42.606Z
+date: 2024-01-13T12:31:48.517Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-10T19:01:08.749Z
@@ -34,8 +34,9 @@ This induction should take about 30 minutes and can be performed with multiple p
 
 | --- | --- |
 | :dollar: | This item has a specific usage fee. |
-| :warning: | This tool is dangerous, or easy to damage, or both. You must attend a scheduled training session, pass an assessment, and be authorized in writing to use this tool. |
-| :passport_control: | This tool requires a brief competency check or brief training before use. |
+| 🔴 | High risk tool. |
+| 🟡 | Medium risk tool. |
+| 🟢 | Low risk tool. |
 | :innocent: |  Extra detail / induction steps for people who are attending the space for the first time (e.g. they have never had a tour of the space.) |
 | :scroll: | Policies, rules, or bylaws that members must know about. |
 | :mag: | Extra detail for people who ask about a specific topic. Doesn't need to be mentioned otherwise. |
@@ -84,11 +85,11 @@ Equipment - **BYO** - P.A. is the only inclusion.
 # Design lab
 
 In here:
-* :warning: :dollar: 3D printers.
-* :passport_control: Vinyl cutter.
-* Label printer (`http://labelpi`)
-* Vacuformer.
-* Sewing machine.
+* 🔴 :dollar: 3D printers.
+* 🟡 Vinyl cutter.
+* 🟢 Label printer (`http://labelpi`)
+* 🟡 Vacuformer.
+* 🟢 Sewing machine.
 
 Wi-fi - Password location
 
@@ -141,7 +142,9 @@ Outside sink
 
 Tool shed - spray paint storage, drying oven
 
-Air compressor, location of pneumatic tools, blow gun safety (don't point at people)
+Air compressor, location of pneumatic tools
+
+🟡 Air gun
 
 # Lasers
 
@@ -156,10 +159,10 @@ Scrap rack.
 # Woodworking equipment
 
 Messy tools - use outside!
-* :passport_control: Table saw
-* :passport_control: Router table
-* :passport_control: Planer / thicknesser
-* :passport_control: Sandblaster
+* 🟡 Table saw
+* 🟡 Router table
+* 🟡 Planer / thicknesser
+* 🟡 Sandblaster
 
 # Hand tool rack
 
@@ -172,15 +175,11 @@ Point at locations of hand tools:
 In here:
 * PPE - some spare PPE available - **bring your own**
 * Red toolbox - drill bits, hole saws
-* :passport_control: Drill press - **powerful** - must clamp work
-* :passport_control: Hydraulic press - work can explode
-* :passport_control: Mitre saw
+* 🟡 Drill press - **powerful** - must clamp work
+* 🟡 Hydraulic press - work can explode
+* 🟡 Mitre saw
 * Power tools -
-* :warning: Track saw
-* :passport_control: Festool Router
-  * Point at sign re what power tools require training.
-  * Orbital sander, battery drill, impact driver, multitool, hot glue gun - anyone can use.
-  * :passport_control: All other power tools.
+* 🔴🟡🟢 - Marked on the tools.
 
 # Machine room - back half
 
@@ -190,11 +189,11 @@ General warning about rotating machinery - **long hair, loose clothing, and jewe
 
 In here:
 * Dust extraction. Demonstrate - **turn it on**.
-* Belt sander.
-* :passport_control: Bench grinder.
-* :passport_control: Wood band saw. Wood/plastic only. **No metal.**
-* :warning: Wood lathe(s).
-* :warning: :dollar: CNC router (Swarfomat) - **training** via #tools_and_fabrication. Point at **fees** sign.
+* 🟡 Belt sander.
+* 🟡 Bench grinder.
+* 🟡 Wood band saw. Wood/plastic only. **No metal.**
+* 🔴 Wood lathe(s).
+* 🔴 :dollar: CNC router (Swarfomat) - **training** via #tools_and_fabrication. Point at **fees** sign.
 
 # Project area
 

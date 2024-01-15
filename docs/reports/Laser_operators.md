@@ -41,6 +41,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Felix Wojcik | ✅ | ❌ | ❌ | ❌ | 
 | Fletcher Boyd | ❌ | ✅ | ✅ | ❌ | 
 | Gerard Biles | ❌ | ❌ | ❌ | ✅ | 
+| Glenn Martin | ❌ | ✅ | ✅ | ❌ | 
 | Glynn Jones | ❌ | ❌ | ❌ | ✅ | 
 | Guy Longthorn | ❌ | ✅ | ✅ | ❌ | 
 | Gwynneth Jones (vetch) | ❌ | ❌ | ❌ | ✅ | 

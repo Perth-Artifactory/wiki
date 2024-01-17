@@ -29,16 +29,16 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Caleb Hicks (Caleb Hicks) | ❌ | ❌ | ❌ | ✅ | 
 | Callum Smith (Clam) | ✅ | ❌ | ✅ | ❌ | 
 | Cameron Davis (Cam) | ✅ | ❌ | ❌ | ❌ | 
-| Claude Woodward | ✅ | ❌ | ❌ | ❌ | 
+| Claude Woodward | ✅ | ✅ | ✅ | ❌ | 
 | Constance Titterton | ❌ | ❌ | ❌ | ✅ | 
 | Daniel Macnish (dan) | ❌ | ❌ | ❌ | ✅ | 
 | Darren Lewis | ❌ | ❌ | ❌ | ✅ | 
 | David Reeve (DSJR) | ❌ | ❌ | ❌ | ✅ | 
 | David Skilton (PoshSpice) | ❌ | ❌ | ❌ | ✅ | 
 | Don Yeh | ✅ | ❌ | ❌ | ❌ | 
-| Doug Bateman (dougb) | ✅ | ❌ | ❌ | ❌ | 
+| Doug Bateman (dougb) | ✅ | ✅ | ✅ | ❌ | 
 | Ewan Macleod (Drayke) | ✅ | ❌ | ✅ | ❌ | 
-| Felix Wojcik | ✅ | ❌ | ❌ | ❌ | 
+| Felix Wojcik | ✅ | ✅ | ✅ | ❌ | 
 | Fletcher Boyd | ❌ | ✅ | ✅ | ❌ | 
 | Gerard Biles | ❌ | ❌ | ❌ | ✅ | 
 | Glenn Martin | ❌ | ✅ | ✅ | ❌ | 
@@ -112,6 +112,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Simon Cosgrave | ❌ | ❌ | ❌ | ✅ | 
 | Simon Haynes (Ganthorion) | ❌ | ❌ | ❌ | ✅ | 
 | Somsuda Kunnikorn (Som) | ❌ | ❌ | ❌ | ✅ | 
+| Sophie Murday | ❌ | ✅ | ✅ | ❌ | 
 | Stephen Garran (Steve) | ❌ | ❌ | ❌ | ✅ | 
 | Stephen Hicks (BigSteve) | ❌ | ❌ | ❌ | ✅ | 
 | Stuart Mcdonald (STU) | ❌ | ❌ | ❌ | ✅ | 

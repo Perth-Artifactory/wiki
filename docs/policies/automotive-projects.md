@@ -2,7 +2,7 @@
 title: Automotive Projects
 description: 
 published: true
-date: 2023-11-30T03:24:05.658Z
+date: 2024-01-17T13:13:13.787Z
 tags: 
 editor: markdown
 dateCreated: 2023-07-20T02:14:22.078Z
@@ -53,7 +53,7 @@ These sections are intended to clarify how working on cars interacts with other 
 
 ## Hazardous waste
 
-See [hazardous waste](/testing/drafts/hazardous-waste).
+See [hazardous waste](/docs/policies/bylaws#hazardous-waste).
 
 For automotive projects, relevant hazardous wastes include -
 

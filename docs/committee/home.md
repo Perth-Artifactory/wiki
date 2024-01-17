@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2024-01-17T16:51:11.818Z
+date: 2024-01-17T16:52:58.358Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -89,12 +89,6 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   Talkshop Wednesday (Coordinator: Committee)
 
 ## Records
-
-### ABN
-
-The ABN of the Perth Artifactory Inc. is 16 847 853 023, active since 2009-11-17 <http://abr.business.gov.au/SearchByAbn.aspx?SearchText=16847853023>
-
-Garry Carroll (garryc AT iinet) has registered us as a UWA contractor, active since 2013-10-22 <http://www.rapidinduct.com.au/ContractorRegistration/UniWA/UniWAContractorABN.aspx> , password in the [restricted](/committee/restricted/start) part of the wiki.
 
 ### Never-Never Register
 

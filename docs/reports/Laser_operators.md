@@ -75,6 +75,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Kymberli Lim (Kym) | ❌ | ❌ | ❌ | ✅ | 
 | Lachlan Hutchison | ❌ | ❌ | ❌ | ✅ | 
 | Lauren Amos | ❌ | ❌ | ❌ | ✅ | 
+| Leon Turpin | ❌ | ✅ | ✅ | ❌ | 
 | Li-aung Yip (Lewis) | ❌ | ✅ | ✅ | ❌ | 
 | Lisa Mccarthy | ❌ | ❌ | ❌ | ✅ | 
 | Loren Hughes (Lorey) | ❌ | ❌ | ❌ | ✅ | 

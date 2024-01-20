@@ -19,7 +19,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Anna Anagno | ❌ | ❌ | ❌ | ✅ | 
 | Arshia Gerami zadegan | ❌ | ❌ | ❌ | ✅ | 
 | Ashleigh Williams | ❌ | ❌ | ❌ | ✅ | 
-| Beau Scott | ✅ | ❌ | ❌ | ❌ | 
+| Beau Scott | ✅ | ✅ | ✅ | ❌ | 
 | Ben Connor | ✅ | ❌ | ❌ | ❌ | 
 | Ben Harris | ❌ | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ❌ | ✅ | 
@@ -96,7 +96,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Renae Currie | ❌ | ✅ | ✅ | ❌ | 
 | Rick Duley | ❌ | ❌ | ❌ | ✅ | 
 | Ricki Barnes (rickibarnes) | ❌ | ❌ | ❌ | ✅ | 
-| Robert bruce Chambers (Bruce) | ❌ | ❌ | ✅ | ❌ | 
+| Robert bruce Chambers (Bruce) | ❌ | ✅ | ✅ | ❌ | 
 | Rodrigo Kendrick | ❌ | ❌ | ❌ | ✅ | 
 | Ross Minney | ❌ | ✅ | ✅ | ❌ | 
 | Ross Sandrock | ❌ | ❌ | ❌ | ✅ | 

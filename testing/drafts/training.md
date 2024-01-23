@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-01-23T15:45:20.294Z
+date: 2024-01-23T16:39:36.795Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -12,7 +12,7 @@ dateCreated: 2024-01-08T14:46:10.755Z
 
 We classify our tools into three levels based on the potential risk to people and property. Tools are marked with coloured dots or labels to help you identify whether you can use them or not.
 
-You can check whether you're an authorised operator for specific medium and high risk tools by checking the appropriate [Authorised Operator List](/docs/reports/machine_operators).
+You can check whether you're an authorised operator for specific medium and high risk tools by using the **Training Tracker** bot in Slack, or by checking the appropriate **[Authorised Operator List](/docs/reports/machine_operators)**.
 
 If we notice you using a tool inappropriately, we’ll still ask you to pause your job and help you identify a safer method.
 

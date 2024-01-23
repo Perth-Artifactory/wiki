@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-01-23T16:39:36.795Z
+date: 2024-01-23T16:57:10.149Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -40,4 +40,4 @@ Training on certain high risk tools has an attached cost. Casual attendees who p
 
 ## Revision history
 
-* This policy was endorsed by the committee on [2024-01-20](/minutes/Committee/2024-01-20), taking effect on XXXX-XX-XX.
+* This policy was endorsed by the committee on [2024-01-20](/minutes/Committee/2024-01-20), taking effect on 2024-01-27.

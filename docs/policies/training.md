@@ -2,8 +2,8 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-01-23T16:57:10.149Z
-tags: 
+date: 2024-01-23T16:58:15.861Z
+tags: official
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
 ---

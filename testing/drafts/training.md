@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-01-17T13:14:33.522Z
+date: 2024-01-23T15:45:20.294Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -10,7 +10,7 @@ dateCreated: 2024-01-08T14:46:10.755Z
 
 # Training
 
-We classify our tools into three levels based on the potential risk to people and property. Tools are marked with coloured dots to help you identify whether you can use them or not.
+We classify our tools into three levels based on the potential risk to people and property. Tools are marked with coloured dots or labels to help you identify whether you can use them or not.
 
 You can check whether you're an authorised operator for specific medium and high risk tools by checking the appropriate [Authorised Operator List](/docs/reports/machine_operators).
 

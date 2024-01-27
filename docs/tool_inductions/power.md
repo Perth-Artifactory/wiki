@@ -2,7 +2,7 @@
 title: Medium - Power tools
 description: 
 published: true
-date: 2024-01-27T15:35:54.682Z
+date: 2024-01-27T15:44:20.990Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -12,7 +12,9 @@ dateCreated: 2024-01-27T15:35:54.682Z
 
 Fixed machines are covered here: [Metal](/docs/tool_inductions/metal), [Wood](/docs/tool_inductions/wood)
 
-### Air Die Grinder
+### Air Die Grinder 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -41,7 +43,9 @@ After:
 1. Depressurize and disconnect from the air supply.
 2. Clean and store in a safe place.
 
-### Air Nailer
+### Air Nailer 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -69,7 +73,9 @@ After:
 1. Disconnect from air supply.
 2. Store in a safe place.
 
-### Angle Grinder (<7")
+### Angle Grinder (<7") 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -98,7 +104,9 @@ After:
 1. Let the grinder stop spinning on its own.
 2. Carefully clean and store the tool.
 
-### Cutoff Tool
+### Cutoff Tool 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -126,7 +134,9 @@ After:
 1. Allow the cutting disc to come to a full stop.
 2. Clean any cut-off debris.
 
-### Portable Planer
+### Portable Planer 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -154,7 +164,9 @@ After:
 1. Clean off wood shavings from planer and work space.
 2. Store safely.
 
-### Router (Trim)
+### Router (Trim) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -182,7 +194,9 @@ After:
 1. Let the router come to a full stop.
 2. Clean the tool and work area.
 
-### Sander (Portable Belt)
+### Sander (Portable Belt) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -210,7 +224,9 @@ After:
 1. Wait for the sander to stop before placing it down.
 2. Clean the tool and work area.
 
-### Saw (Circular)
+### Saw (Circular) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -238,7 +254,9 @@ After:
 1. Allow the blade to stop before setting the saw down.
 2. Clean any cutoff debris.
 
-### Saw (Jigsaw)
+### Saw (Jigsaw) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -266,7 +284,9 @@ After:
 1. Wait for blade to stop before setting the jigsaw down.
 2. Clean and store properly.
 
-### Saw (Recip)
+### Saw (Recip) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |

@@ -2,7 +2,7 @@
 title: Medium - Misc
 description: 
 published: true
-date: 2024-01-27T15:43:56.573Z
+date: 2024-01-27T15:46:58.789Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -76,7 +76,7 @@ After:
 
 ## Car (Jacks) 
 
-Lead: XXX
+Lead: Beau Scott
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -107,7 +107,7 @@ After:
 
 ## EWP (Elevated Work Platform) 
 
-Lead: XXX
+Lead: Fletcher Boyd
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -169,7 +169,7 @@ After:
 
 ## Ladder 
 
-Lead: XXX
+Lead: Fletcher Boyd
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -231,7 +231,7 @@ After:
 
 ## Sand Blaster 
 
-Lead: XXX
+Lead: Lewis Yip
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -262,7 +262,7 @@ After:
 
 ## Vacuum Former 
 
-Lead: XXX
+Lead: Lewis Yip, Fletcher Boyd
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -293,7 +293,7 @@ After:
 
 ## Vinyl Cutter 
 
-Lead: XXX
+Lead: Tom White, Lewis Yip
 
 | Item  | Requirement | Notes  |
 | - | - | - |

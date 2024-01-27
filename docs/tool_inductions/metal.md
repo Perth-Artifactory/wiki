@@ -2,7 +2,7 @@
 title: Medium - Metal
 description: 
 published: true
-date: 2024-01-27T15:27:50.880Z
+date: 2024-01-27T15:43:31.105Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -13,6 +13,8 @@ dateCreated: 2024-01-27T15:17:00.618Z
 These are tools in the metal category only. You may be thinking of the power tool category instead.
 
 ## Bandsaw (Metal)
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -41,7 +43,9 @@ After:
 1. Clean area of metal shavings
 2. Turn off and unplug when changing blades
 
-## Bench Grinder
+## Bench Grinder 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -70,11 +74,13 @@ After:
 1. Let wheels stop completely before leaving
 2. Clean area of any grinding dust
 
-## Drill Press
+## Drill Press 
 
 This tool is in multiple categories. [Master](/docs/tool_inductions/wood#drill-press)
 
-## Plasma Cutter
+## Plasma Cutter 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -103,7 +109,9 @@ After:
 1. Let the torch cool down before putting it away
 2. Clean up any cutting debris
 
-## Saw (Friction)
+## Saw (Friction) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -132,7 +140,9 @@ After:
 1. Let the machine cool completely before cleaning
 2. Clean machine and work area
 
-## Welder (MIG)
+## Welder (MIG) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -161,7 +171,9 @@ After:
 1. Allow materials to cool before handling
 2. Clean welder and work area of metal fragments and dust
 
-## Welder (Stick/SMAW)
+## Welder (Stick/SMAW) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |

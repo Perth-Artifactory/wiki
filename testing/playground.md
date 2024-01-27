@@ -2,7 +2,7 @@
 title: Playground
 description: This is where you can test some formatting stuff
 published: true
-date: 2023-01-04T02:40:53.473Z
+date: 2024-01-27T08:47:09.638Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-06T13:35:25.322Z
@@ -318,3 +318,7 @@ Unlike a pre-formatted code block, a code span indicates code within a
 normal paragraph. For example:
 
 Use the `printf()` function.
+
+- [x] Write the press release
+- [ ] Update the website
+- [ ] Contact the media

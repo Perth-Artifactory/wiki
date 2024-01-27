@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-01-27T10:06:35.646Z
+date: 2024-01-27T15:16:04.699Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -47,35 +47,24 @@ After:
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y |  |
-| Ear protection                 | M | Include a sound rating if you can. |
+| Eye protection (impact/splash) | Y | Flying chips |
+| Ear protection                 | M | Depending on material |
 | Gloves (general)               | N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Enclosed shoes                 | Y | Falling swarf/piece |
+| Safety boots                   | M | Falling heavy piece |
+| Mask/Respirator (dust)         | M | If material is toxic (MDF etc) |
 
 Pre:
-1.
+1. Inspect the drill press for bit condition, table adjustment, and speed setting
+1. Clamp down material securely
 
 Using:
-1.
+1. Position yourself for leverage and control
+1. Keep hands clear of the bit
+1. Don't force the bit into the material
 
 After:
-1.
-
-Pre: 
-1. Inspect the drill press for bit condition, table adjustment, and speed setting
-2. Clamp down material securely
-
-**During Use**
-1. Position yourself for leverage and control
-2. Keep hands clear of the bit
-3. Don't force the bit into the material
-**After Use**
-1. Turn off and unplug the drill press when changing bits
+1. 
 
 ## Fixed Belt Sander
 
@@ -95,23 +84,14 @@ Pre:
 | Natural fibre clothing         | Y/M/N |  |
 
 Pre:
-1.
+1. Ensure the belt is correctly seated and tightly secured
+1. Inspect sanding belt for wear or damage
 
 Using:
-1.
+1. 
 
 After:
-1.
-
-Pre: 
-1. Ensure the belt is correctly seated and tightly secured
-2. Inspect sanding belt for wear or damage
-
-**During Use**
-1. Secure your workpiece before sanding
-2. Apply light pressure and move the workpiece along the grain
-**After Use**
-1. Turn off and unplug the sander when changing belts
+1. 
 
 ## Jointer
 
@@ -131,22 +111,14 @@ Pre:
 | Natural fibre clothing         | Y/M/N |  |
 
 Pre:
-1.
+1. Check blades for sharpness and correct adjustment
+1. Ensure the workpiece is flat and free from loose knots
 
 Using:
-1.
+1. Use push blocks for handling small pieces
+1. Move smoothly and keep your hands away from the blades
 
 After:
-1.
-
-Pre: 
-1. Check blades for sharpness and correct adjustment
-2. Ensure the workpiece is flat and free from loose knots
-
-**During Use**
-1. Use push blocks for handling small pieces
-2. Move smoothly and keep your hands away from the blades
-**After Use**
 1. Clean the machine after use to ensure it's ready for the next user
 
 ## Router (Table)
@@ -167,19 +139,13 @@ Pre:
 | Natural fibre clothing         | Y/M/N |  |
 
 Pre:
-1.
+1. Confirm correct bit and router speed
 
 Using:
-1.
+1. 
 
 After:
-1.
-
-1. Confirm correct bit and router speed
-2. Secure workpiece and adjust fence
-3. Keep fingers clear of bit
-4. Always feed against cutter rotation
-5. Turn off and unplug when changing bits
+1. 
 
 ## Sander (Spindle)
 
@@ -199,19 +165,14 @@ After:
 | Natural fibre clothing         | Y/M/N |  |
 
 Pre:
-1.
+1. Check spindle for tightness and sanding sleeve for wear
 
 Using:
-1.
+1. Sand with gentle pressure and even motion
+1. Keep fingers away from rotation
 
 After:
-1.
-
-1. Check spindle for tightness and sanding sleeve for wear
-2. Secure workpiece before use
-3. Sand with gentle pressure and even motion
-4. Keep fingers away from rotation
-5. Turn off and unplug when changing spindle
+1. 
 
 ## Saw (Mitre)
 
@@ -231,19 +192,17 @@ After:
 | Natural fibre clothing         | Y/M/N |  |
 
 Pre:
-1.
+1. Check blade for sharpness and proper setup
+1. Ensure workpiece is secured and no obstructions
+1. Make a test cut if possible
+1. Keep fingers away from blade
+1. Use clamps or a holding device when necessary
 
 Using:
-1.
+1. 
 
 After:
-1.
-
-1. Check blade for sharpness and proper setup
-2. Ensure workpiece is secured and no obstructions
-3. Make a test cut if possible
-4. Keep fingers away from blade
-5. Use clamps or a holding device when necessary
+1. 
 
 ## Saw (Table)
 
@@ -263,20 +222,17 @@ After:
 | Natural fibre clothing         | Y/M/N |  |
 
 Pre:
-1.
+1. Check blade for sharpness and correct height/angle
+1. Use rip fence or mitre gauge, not both
+1. Turn off and unplug when changing blades
 
 Using:
-1.
+1. Stand to side, not directly behind blade
+1. Never freehand a cut
+1. Use push sticks for thin/narrow pieces
 
 After:
-1.
-
-1. Check blade for sharpness and correct height/angle
-2. Use rip fence or mitre gauge, not both
-3. Stand to side, not directly behind blade
-4. Never freehand a cut
-5. Use push sticks for thin/narrow pieces
-6. Turn off and unplug when changing blades
+1. 
 
 ## Thicknesser
 
@@ -296,16 +252,13 @@ After:
 | Natural fibre clothing         | Y/M/N |  |
 
 Pre:
-1.
-
-Using:
-1.
-
-After:
-1.
-
 1. Check cutter for sharpness and alignment
 2. Prepare material - make sure it's flat on one side
-3. Feed material in the direction of grain
-4. Adjust depth incrementally
-5. Keep hands away from cutters and feed rollers
+
+Using:
+1. Feed material in the direction of grain
+1. Adjust depth incrementally
+1. Keep hands away from cutters and feed rollers
+
+After:
+1. 

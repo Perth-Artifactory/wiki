@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-01-27T15:44:48.811Z
+date: 2024-01-27T15:49:46.614Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -10,7 +10,7 @@ dateCreated: 2024-01-27T10:06:35.646Z
 
 # Wood inductions
 
-These are tools in the wood category only. You may be thinking of the power tool category instead.
+These are tools in the wood category only. You may be thinking of the [power tool](/docs/tool_inductions/power) category instead.
 
 ## Bandsaw (Wood) 
 

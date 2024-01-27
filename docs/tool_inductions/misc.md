@@ -2,7 +2,7 @@
 title: Medium - Misc
 description: 
 published: true
-date: 2024-01-27T15:41:36.498Z
+date: 2024-01-27T15:43:56.573Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -12,7 +12,9 @@ dateCreated: 2024-01-27T15:41:36.498Z
 
 Tools not covered in other categories
 
-## Air Gun
+## Air Gun 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -41,7 +43,9 @@ After:
 1. Release air pressure.
 2. Clean tool and store properly.
 
-## Air Paint Gun
+## Air Paint Gun 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -70,7 +74,9 @@ After:
 1. Clean tool thoroughly.
 2. Store in a safe space.
 
-## Car (Jacks)
+## Car (Jacks) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -99,7 +105,9 @@ After:
 1. Release jack pressure slowly.
 2. Store properly.
 
-## EWP (Elevated Work Platform)
+## EWP (Elevated Work Platform) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -128,7 +136,9 @@ After:
 1. Lower platform carefully.
 2. Inspect equipment for damage.
 
-## Kiln
+## Kiln 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -157,7 +167,9 @@ After:
 1. Allow ample time for kiln and items to cool down.
 2. Keep kiln clean and unplugged when not in use.
 
-## Ladder
+## Ladder 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -186,7 +198,9 @@ After:
 1. Store ladders in a safe, dry location.
 2. Inspect regularly for wear and tear.
 
-## Pressure Pot
+## Pressure Pot 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -215,7 +229,9 @@ After:
 1. Release pressure before opening.
 2. Clean and store it properly.
 
-## Sand Blaster
+## Sand Blaster 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -244,7 +260,9 @@ After:
 1. Clear sand from your work area.
 2. Clean system and store properly.
 
-## Vacuum Former
+## Vacuum Former 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -273,7 +291,9 @@ After:
 1. Allow for sufficient cooling time.
 2. Switch off, unplug and store properly.
 
-## Vinyl Cutter
+## Vinyl Cutter 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |

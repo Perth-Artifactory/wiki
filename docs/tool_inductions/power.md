@@ -2,7 +2,7 @@
 title: Medium - Power tools
 description: 
 published: true
-date: 2024-01-27T15:44:20.990Z
+date: 2024-01-27T15:47:38.839Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -45,7 +45,7 @@ After:
 
 ### Air Nailer 
 
-Lead: XXX
+Lead: Beau Scott
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -106,7 +106,7 @@ After:
 
 ### Cutoff Tool 
 
-Lead: XXX
+Lead: Fletcher Boyd
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -166,7 +166,7 @@ After:
 
 ### Router (Trim) 
 
-Lead: XXX
+Lead: Fletcher Boyd
 
 | Item  | Requirement | Notes  |
 | - | - | - |

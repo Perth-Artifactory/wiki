@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-01-27T15:16:04.699Z
+date: 2024-01-27T15:44:48.811Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -12,7 +12,9 @@ dateCreated: 2024-01-27T10:06:35.646Z
 
 These are tools in the wood category only. You may be thinking of the power tool category instead.
 
-## Bandsaw (Wood)
+## Bandsaw (Wood) 
+
+Lead: XXX
 
 | Item  | Req | Notes  |
 | - | - | - |
@@ -43,7 +45,9 @@ After:
 1. Dispose of cutoffs
 1. Cleanup includes: table, both compartments, tray, floor
 
-## Drill Press
+## Drill Press 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -66,7 +70,9 @@ Using:
 After:
 1. 
 
-## Fixed Belt Sander
+## Fixed Belt Sander 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -93,7 +99,9 @@ Using:
 After:
 1. 
 
-## Jointer
+## Jointer 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -121,7 +129,9 @@ Using:
 After:
 1. Clean the machine after use to ensure it's ready for the next user
 
-## Router (Table)
+## Router (Table) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -147,7 +157,9 @@ Using:
 After:
 1. 
 
-## Sander (Spindle)
+## Sander (Spindle) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -174,7 +186,9 @@ Using:
 After:
 1. 
 
-## Saw (Mitre)
+## Saw (Mitre) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -204,7 +218,9 @@ Using:
 After:
 1. 
 
-## Saw (Table)
+## Saw (Table) 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -234,7 +250,9 @@ Using:
 After:
 1. 
 
-## Thicknesser
+## Thicknesser 
+
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |

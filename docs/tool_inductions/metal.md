@@ -2,7 +2,7 @@
 title: Medium - Metal
 description: 
 published: true
-date: 2024-01-27T15:43:31.105Z
+date: 2024-01-27T15:50:11.012Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -10,7 +10,7 @@ dateCreated: 2024-01-27T15:17:00.618Z
 
 # Metal Inductions
 
-These are tools in the metal category only. You may be thinking of the power tool category instead.
+These are tools in the metal category only. You may be thinking of the [power tool](/docs/tool_inductions/power) category instead.
 
 ## Bandsaw (Metal)
 

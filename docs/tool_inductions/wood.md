@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-01-28T03:26:39.365Z
+date: 2024-01-28T06:29:05.336Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -14,15 +14,15 @@ These are tools in the wood category only. You may be thinking of the [power too
 
 ## Bandsaw (Wood) 
 
-Lead: XXX
+Lead: Renae Currie
 
 | Item  | Req | Notes  |
 | - | - | - |
 | Eye protection (impact/splash) | Y | Flying chips |
 | Ear protection                 | M | Material dependant |
 | Gloves (general)               | N | Moving parts |
-| Enclosed shoes                 | Y | Falling cutoffs |
-| Safety boots                   | M | Falling heavy cutoffs |
+| Enclosed shoes                 | Y | Falling off cuts |
+| Safety boots                   | M | Falling heavy off cuts |
 | Mask/Respirator (dust)         | M | P2 if material is toxic (MDF etc) |
 
 Pre: 
@@ -43,62 +43,77 @@ Using:
 1. Do not clear material from blade/fence with fingers
 
 After:
-1. Dispose of cutoffs
-1. Cleanup includes: table, both compartments, tray, floor
+1. Turn off using red button not estop
+1. Dispose of off cuts (empty bin into skip if 3/4 full)
+1. Vacuuming includes: table, both compartments, tray, floor
 
 ## Drill Press 
 
-Lead: XXX
+Lead: Renae Currie
 
 | Item  | Requirement | Notes  |
 | - | - | - |
 | Eye protection (impact/splash) | Y | Flying chips |
 | Ear protection                 | M | Depending on material |
-| Gloves (general)               | N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
+| Gloves (general)               | N | Spinning parts |
 | Enclosed shoes                 | Y | Falling swarf/piece |
 | Safety boots                   | M | Falling heavy piece |
-| Mask/Respirator (dust)         | M | If material is toxic (MDF etc) |
+| Mask/Respirator (dust)         | M | P2 If material is toxic (MDF etc) |
 
 Pre:
-1. Inspect the drill press for bit condition, table adjustment, and speed setting
+1. Use proper bit for material and ensure appropriate sharpness
+1. Ensure chuck is tight and key is back in holder
+1. Unlock table
+1. Set table to appropriate height based on bit length, material thickness, and depth of hole
+1. Confirm table is positioned so that bit will not interact when extended
+1. Lock table
+1. Consider pilot hole
 1. Clamp down material securely
 
 Using:
-1. Position yourself for leverage and control
+1. Position yourself for leverage and control (consider which handle you should hold
 1. Keep hands clear of the bit
 1. Don't force the bit into the material
+1. Clear chips often
+1. Do not move material while in contact with bit
 
 After:
-1. 
+1. Remove bit from machine (may be hot)
+1. Reset table to appropriate height for general use
+1. Vacuuming includes: table, table chanels, floor
 
 ## Fixed Belt Sander 
 
-Lead: XXX
+Lead: Fletcher Boyd
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | Y | Dust |
+| Ear protection                 | M | Tool is over 85db, consider for long jobs (1hr+) |
+| Gloves (general)               | N | Moving parts TODO |
+| Enclosed shoes                 | Y |  |
+| Mask/Respirator (dust)         | M | P2 if material is toxic (MDF etc) |
 
 Pre:
-1. Ensure the belt is correctly seated and tightly secured
-1. Inspect sanding belt for wear or damage
+1. Ensure the belt is correctly seated and tightly secured (or disc is firmly attached)
+1. Check belt/disc is appropriate for material (type) and job (grit)
+1. Inspect belt/disc for wear, damage, and cleanliness (show how to clean)
+1. Ensure fence/table is set to appropriate angle if using
+1. Consider operator position (Is sitting down better due to angles/length of cut)
+1. Turn on dust extractor and set gates
 
 Using:
-1. 
+1. Do not force material into belt/disc
+1. Move left/right as appropriate (explain center line on disc)
+1. Do not angle material away from you on the belt (catches)
+1. Consider how material is held and what happens if material catches
+1. If material catches, do not try and retreive with machine on
 
 After:
-1. 
+1. Turn off dust extractor with red button not estop
+1. Clean belt/disc if material building is noticeable (would you need to clean it if you started using the machine now)
+1. Remove chair if used
+1. Vacuuming includes: table, belt, under guard, floor
 
 ## Jointer 
 
@@ -193,35 +208,43 @@ Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | Y | Flying chips, risk of flying material |
+| Ear protection                 | Y |  |
+| Gloves (general)               | M | If material has splinters etc |
+| Enclosed shoes                 | Y | Risk of falling off cuts |
+| Safety boots                   | M | Long/heavy pieces |
+| Mask/Respirator (dust)         | M | P2 if material is toxic (MDF) |
 
 Pre:
-1. Check blade for sharpness and proper setup
-1. Ensure workpiece is secured and no obstructions
-1. Make a test cut if possible
-1. Keep fingers away from blade
-1. Use clamps or a holding device when necessary
+1. Check blade for sharpness/missing teeth (disconnect tool)
+1. Use proper blade for material and cut type
+1. Check material for fixings (nails etc) using metal detector
+1. Check/set angles
+1. Check/set slide
+1. Consider material bowing
+1. Align piece with blade (can sit blade on material to check or use laser)
+1. Ensure workpiece is firmly placed against both sides of the fence
+1. Ensure workpiece is secured (both before and after cut)
+1. Consider stop block if appropriate
+1. Confirm saw will be able to drop with no obstructions
+1. Consider 5mm cut first if sliding
+1. Close machine room door and consider other members in room
 
 Using:
-1. 
+1. Turn on saw vacuum
+1. Spin up saw completely before cutting
+1. Cut in one smooth motion, do not push saw hard into material
+1. Once saw is in top posiiton ensure guard has locked back into place before moving hands/material
 
 After:
-1. 
+1. Turn off saw vacuum
+1. Dispose of off cuts (empty bin into skip if 3/4 full)
+1. Vacuuming includes: saw, bench around/behind saw, floor
+1. Turn off saw light/laser if used
 
 ## Saw (Table) 
 
-Lead: XXX
+Lead: Renae Currie
 
 | Item  | Requirement | Notes  |
 | - | - | - |

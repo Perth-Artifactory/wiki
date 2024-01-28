@@ -2,7 +2,7 @@
 title: Medium - Misc
 description: 
 published: true
-date: 2024-01-28T07:17:03.135Z
+date: 2024-01-28T07:22:01.349Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -18,18 +18,11 @@ Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | M | If risk of particulates |
+| Ear protection                 | M | Blowing into cupped surfaces |
+| Gloves (general)               | M | If work holding requires compressed air hitting hand |
+| Enclosed shoes                 | Y/M/N | TODO |
+| Mask/Respirator (dust)         | M | Tool will make small particulates airborne, P2 if toxic |
 
 Pre:
 1. Check air pressure.

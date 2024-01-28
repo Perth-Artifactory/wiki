@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-01-27T15:49:46.614Z
+date: 2024-01-28T03:26:39.365Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -28,11 +28,12 @@ Lead: XXX
 Pre: 
 1. Check equipment prior to use (Blade sharpness, tension, and tracking)
 1. Ensure work area is clear
-1. Ensure tool is far enough from wall for depth of cut
+1. Ensure tool is far enough from wall for length of cut/material (so it doens't hit the wall)
 1. Use proper blade for material and cut type
-1. Turn off and unplug when changing blades
-1. Fencing positioning
+1. Check material for fixings (nails etc) using metal detector
 1. Table positioning
+1. Set blade guide height
+1. Fence positioning
 
 Using:
 1. Keep fingers away from blade path

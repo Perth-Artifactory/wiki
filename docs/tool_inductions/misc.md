@@ -2,7 +2,7 @@
 title: Medium - Misc
 description: 
 published: true
-date: 2024-01-28T07:13:47.631Z
+date: 2024-01-28T07:17:03.135Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -163,18 +163,7 @@ Lead: Fletcher Boyd
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Enclosed shoes                 | Y | Trip hazard |
 
 Pre:
 1. Check for defects, proper locks and anti-slip feet.
@@ -225,18 +214,7 @@ Lead: Lewis Yip
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Gloves (chemical)              | M | Dust on sand blasted stuff is toxic |
 
 Pre:
 1. Check condition of gun and hopper.
@@ -256,18 +234,7 @@ Lead: Lewis Yip, Fletcher Boyd
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Gloves (general)               | M | If moulding hot plastic around piece with hands (it's hot but not too hot) |
 
 Pre:
 1. Inspect seals, heating element and vacuum.
@@ -287,18 +254,7 @@ Lead: Tom White, Lewis Yip
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| N/A |  |  |
 
 Pre:
 1. Check cutter blade for sharpness.

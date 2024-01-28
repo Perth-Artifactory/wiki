@@ -2,7 +2,7 @@
 title: Medium - Metal
 description: 
 published: true
-date: 2024-01-27T15:50:11.012Z
+date: 2024-01-28T07:10:27.743Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -18,18 +18,11 @@ Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | Y | Flying swarf |
+| Ear protection                 | M | No reason not to but isn't loud |
+| Gloves (general)               | Y | Sharp material |
+| Enclosed shoes                 | Y | Sharp swarf |
+| Safety boots                   | M | Depending on weight of material |
 
 Pre:
 1. Check blade sharpness and tension
@@ -45,20 +38,19 @@ After:
 
 ## Bench Grinder 
 
+TODO
+
 Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
+| Eye protection (impact/splash) | Y | Sparks/grinding particulate |
+| Ear protection                 | M | Depending on material |
+| Gloves (general)               | M | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
+| Gloves (heat)                  | N | If held material is hot enough to require gloves it's being used improperly |
+| Enclosed shoes                 | Y | Sparks/particulate |
+| Safety boots                   | M |  |
 | Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
 | Long sleeves                   | Y/M/N |  |
 | Natural fibre clothing         | Y/M/N |  |
 
@@ -84,21 +76,18 @@ Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Face protection (impact/splash) | M | Situational depending on position/material |
+| Eye protection (EMR)           | Y | Shade 6+ |
+| Ear protection                 | Y | Compressed air noise |
+| Gloves (heat)                  | Y | Welding gloves |
+| Safety boots                   | Y |  |
+| Mask/Respirator (dust)         | N | Disposable P2 masks are flammable |
+| Mask/Respirator (vapours)      | M | Material dependant |
+| Long sleeves                   | Y | Radiation |
+| Natural fibre clothing         | Y | Sparks |
 
 Pre:
-1. Check gas supply and cutting tip condition
+1. Check air supply and cutting tip condition
 2. Secure material and make sure workspace is clear
 
 Using:
@@ -115,18 +104,14 @@ Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | Y | Sparks |
+| Ear protection                 | Y | Including others in the space |
+| Gloves (general)               | Y | Material is often sharp after cuts |
+| Gloves (heat)                  | M | Depending on cut/material. Use thermal camera if unsure |
+| Enclosed shoes                 | Y | Sparks |
+| Safety boots                   | M | Depending on size/weight of material |
+| Mask/Respirator (dust)         | M | Depending on tool area, blade, length of job |
+| Natural fibre clothing         | Y | Sparks |
 
 Pre:
 1. Check blade condition and interlock function
@@ -146,18 +131,15 @@ Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
+| Eye protection (EMR)           | Y | Shade 13 |
+| Ear protection                 | M | Depending on position, length of job |
+| Gloves (heat)                  | Y |  |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Depending on material |
 | Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Mask/Respirator (vapours)      | M | Material dependant |
+| Long sleeves                   | Y | Radiation |
+| Natural fibre clothing         | Y |  |
 
 Pre:
 1. Check gas, wire feed, and electrode

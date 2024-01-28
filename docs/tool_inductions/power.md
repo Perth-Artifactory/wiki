@@ -2,7 +2,7 @@
 title: Medium - Power tools
 description: 
 published: true
-date: 2024-01-27T15:47:38.839Z
+date: 2024-01-28T08:22:29.927Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -45,7 +45,7 @@ After:
 
 ### Air Nailer 
 
-Lead: Beau Scott
+Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -170,15 +170,11 @@ Lead: Fletcher Boyd
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
+| Eye protection (impact/splash) | Y | Flying chips |
 | Ear protection                 | Y/M/N | Include a sound rating if you can. |
 | Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
 | Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
+| Mask/Respirator (dust)         | M | P2 if material is toxic (MDF) |
 | Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
 | Long sleeves                   | Y/M/N |  |
 | Natural fibre clothing         | Y/M/N |  |

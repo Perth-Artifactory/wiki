@@ -11,6 +11,7 @@ dateCreated: 2024-01-05T11:13:28.530Z
 | Operator | Bandsaw (Metal) 🟡| Bench Grinder 🟡| Drill Press 🟡| Furnace 🔴| [Lathe (Metal)](/tools/lathe) 🔴| [Mill](/tools/milling_machine) 🔴| Plasma Cutter 🟡| [Router (CNC)](/tools/cnc/swarf/swarfomat) 🔴| Saw (Friction) 🟡| Welder (MIG) 🟡| Welder (Stick/SMAW) 🟡| 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Alasdair Penman | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | 
+| Alice Robinson-kinson | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
 | Anthony Parrella | ❌ | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | 
 | Aron Spencer | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | 
 | Beau Scott | ✅ | ✅ | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | 

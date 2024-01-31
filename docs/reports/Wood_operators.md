@@ -10,6 +10,7 @@ dateCreated: 2024-01-05T11:12:04.524Z
 
 | Operator | Bandsaw (Wood) 🟡| Drill Press 🟡| Fixed Belt Sander 🟡| Jointer 🟡| Lathe (Wood) 🔴| [Router (CNC)](/tools/cnc/swarf/swarfomat) 🔴| Router (Table) 🟡| Sander (Spindle) 🟡| Saw (Mitre) 🟡| Saw (Table) 🟡| Thicknesser 🟡| 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Alice Robinson-kinson | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | 
 | Anthony Parrella | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | 
 | Beau Scott | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 | Ben Connor | ✅ | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | 

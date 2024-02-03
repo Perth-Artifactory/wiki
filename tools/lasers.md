@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2023-11-12T04:46:25.743Z
+date: 2024-02-03T03:27:12.325Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -72,38 +72,6 @@ Below is a list of trainers (Artifactory volunteers who are able to train new op
 ### Operators
 
 [Operators List](/docs/reports/Laser_operators) - this is a list of the people who are trained to use each laser cutter.
-
-## Instructions for Use
-
-### LaserCut Software
-
-![lasercut21.png](/tools/lasers/lasercut21.png)
-
-The software which drives both the LG500 and LC1290 is called "LaserCut" and can be found on the desktop of the computers linked up to their respective cutting machine.
-
-[lasercut5.3_manual_v1.6.pdf](/tools/lasers/lasercut5.3_manual_v1.6.pdf)
-
- It's not a fantastic piece of documentation, but may be useful.
- 
- Also see [MPC6515 controller page](/docs/lasers/controller_mpc6515).
-
-**Please don't alter any of the machine settings without checking with a trainer first!**
-
-### File Format
-
-The LaserCut software accepts only **DXF** (Drawing eXchange Format) Files.
-
-Which can be created using most CAD programs out there, The most commonly used ones at the Artifactory are Inkscape and Aspire which are installed on most machines in the space.
-
-### Relative or Absolute Positioning
-
-![immediate_check_lcp.png](/tools/lasers/immediate_check_lcp.png)
-
-The machines can operate in either absolute positioning mode (The machine will cut the vectors in the position they are located on the outline of the bed in the software) or in relative positioning mode (The machine will cut the vectors starting at the current location of the cutting head).  
-  
-For most jobs it is easier to operate in *relative* positioning mode as it allows you to manually reposition the cut much faster by simply jogging the head. Absolute positioning mode is however preferable if you are using a jig to cut or engrave multiple parts. To switch between cutting modes you simply need to toggle the **Immediate** checkbox, if the checkbox is checked then the machine is operating in *relative* positioning mode, if it is not then the machine is operating in *absolute* positioning mode.  
-  
-**Note:** You will need to re-download your job after changing the positioning setting in order for it to take effect.
 
 ### Rules
 

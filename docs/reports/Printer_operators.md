@@ -14,6 +14,7 @@ dateCreated: 2024-01-05T11:39:29.055Z
 | Ben Connor | ✅ | ❌ | 
 | Fletcher Boyd | ✅ | ✅ | 
 | Iain Graham (Sylver) | ❌ | ✅ | 
+| James Sim (Felix) | ✅ | ❌ | 
 | Jason Kongchouy | ✅ | ✅ | 
 | Joshua Rospondek (spondy) | ✅ | ✅ | 
 | Kamil Seda | ❌ | ✅ | 

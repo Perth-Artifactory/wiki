@@ -2,7 +2,7 @@
 title: Big Red
 description: 
 published: true
-date: 2024-01-04T10:16:25.063Z
+date: 2024-02-05T14:45:10.594Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:56:59.372Z
@@ -16,7 +16,7 @@ Our larger and more powerful laser cutter. It's good for large pieces of materia
 
 ## Material
 
-Consult the [Laser Material Advice](/tools/lasers/materials) page for details on what can be cut with this machine\
+Consult the [Laser Material Advice](/tools/lasers/materials) page for details on what can be cut with this machine.
 
 ## Speeds
 

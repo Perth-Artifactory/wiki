@@ -14,6 +14,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Adam Mellor | ✅ | ❌ | ✅ | ❌ | 
 | Aiden Loh | ✅ | ❌ | ❌ | ❌ | 
 | Alexey Korolev (korolexa) | ❌ | ❌ | ❌ | ✅ | 
+| Alwyn Kyi | ❌ | ✅ | ❌ | ❌ | 
 | Andrew Bernsousa | ❌ | ❌ | ❌ | ✅ | 
 | Andrew Leitch (Andre) | ✅ | ❌ | ❌ | ❌ | 
 | Anna Anagno | ❌ | ❌ | ❌ | ✅ | 
@@ -58,6 +59,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Jason Kongchouy | ✅ | ❌ | ❌ | ❌ | 
 | Jayden Saw (Sandy) | ❌ | ❌ | ❌ | ✅ | 
 | Jean-michel Maujean (jeanmichel) | ❌ | ❌ | ❌ | ✅ | 
+| Jen Miller | ❌ | ✅ | ❌ | ❌ | 
 | Jeremy Randall (Jezman) | ❌ | ❌ | ❌ | ✅ | 
 | Jethro Van kins (Jet) | ✅ | ❌ | ❌ | ❌ | 
 | Jim Tuckwell | ❌ | ✅ | ✅ | ❌ | 

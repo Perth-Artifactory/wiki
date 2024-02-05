@@ -2,7 +2,7 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2024-02-05T14:41:47.623Z
+date: 2024-02-05T14:43:36.488Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -47,7 +47,7 @@ dateCreated: 2023-02-11T10:21:37.510Z
  * **Cut/Engrave your design**. Press `Start-Pause` and your laser job will begin. You must actively supervise the laser cutting for the duration of your job. If need be the laser can be interrupted in several ways:
    * The `Start-Pause` button will pause your job. This is good if you need to walk away from the machine. The job can be resumed by pressing the button again.
    * While the job is paused with the `Start-Pause` button it can be ended by pressing `Esc`
-   * The emergency stop will immediately shut down the laser. (but not auxillary equipment like the extractor, compressor, or chiller)
+   * The emergency stop will immediately shut down the laser. (but not auxiliary equipment like the extractor, compressor, or chiller)
  * **Remove your material**. Remove your design and discard of any scraps created.
 * **Turn the laser off** using either the green power button or the shortcut button on the side of the monitor.
 * **Pay for your job** using the bank details on the wall.

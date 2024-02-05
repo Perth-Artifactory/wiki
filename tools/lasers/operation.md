@@ -2,7 +2,7 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2024-02-05T14:41:02.273Z
+date: 2024-02-05T14:41:47.623Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -50,7 +50,7 @@ dateCreated: 2023-02-11T10:21:37.510Z
    * The emergency stop will immediately shut down the laser. (but not auxillary equipment like the extractor, compressor, or chiller)
  * **Remove your material**. Remove your design and discard of any scraps created.
 * **Turn the laser off** using either the green power button or the shortcut button on the side of the monitor.
-* Pay for your job using the bank details on the wall.
+* **Pay for your job** using the bank details on the wall.
 
 
 

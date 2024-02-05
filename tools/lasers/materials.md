@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2023-11-29T03:03:40.090Z
+date: 2024-02-05T14:48:26.700Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -76,7 +76,7 @@ Certain plastics are completely banned from use on the lasers due to their dange
 
 * **Material variations**: Apart from mirrored acrylic (see above) The primary safety concern with acrylic variants is when they have a UV coating on top. 
 * **Engraving finish**: Will clearly show the individual lines of an engrave unless the passes are quite light or very close together. Running an etch around the outside of engraved areas may provide a more visually distinctive line.
-* **Cleanup**: Deep engraves will leave a large amount of powder on the surface of the material. This can be removed using an air compressor and water. The top surface of the acrylic will typically be clear but the bottom may have some residue, particularily on thicker material. This can be somewhat negated by leaving the protective film on the bottom of the material.
+* **Cleanup**: Deep engraves will leave a large amount of powder on the surface of the material. This can be removed using an air compressor and water. The top surface of the acrylic will typically be clear but the bottom may have some residue, particularly on thicker material. This can be somewhat negated by leaving the protective film on the bottom of the material.
 * **Painting**: If you're painting the entire material then you're probably better off sourcing a piece that's already the colour you want. For stencil work great success can be had by selectively removing the adhesive paper from the top of the material, painting, then removing the rest. This can be achieved in a few ways (The first will give a more robust finish, the second a smoother surface):
   * Engraving the area you'd like to paint, cleaning the engrave, painting, then peeling the rest of the paper off. or
   * Etching the borders of your desired stencil, carefully peeling off the paper from the parts of the material you want to paint, then painting.
@@ -84,7 +84,7 @@ Certain plastics are completely banned from use on the lasers due to their dange
 
 ### Polyethylene (HDPE) ❌
 
-Polyethylene cuts poorly on laser cutters in part because it melts rather than vapourises. It poses a significant fire risk and has a high likelyhood of leaving a residue on the laser bed. It can be safely cut on the [CNC router](/tools/cnc/swarf/swarfomat) instead.
+Polyethylene cuts poorly on laser cutters in part because it melts rather than vapourises. It poses a significant fire risk and has a high likelihood of leaving a residue on the laser bed. It can be safely cut on the [CNC router](/tools/cnc/swarf/swarfomat) instead.
 
 Under heavy supervision by an experienced laser maintainer thin sheets of HDPE may be cut by utilising high airflow to prevent the material from rebonding behind the beam. This is primarily applicable to recycled plastic.
 
@@ -154,7 +154,7 @@ The lasers can't cut metal but they can be used to remove some surface finishes.
 
 ### Aluminium Composite Panel (ACP)
 
-Engraviing the coloured coating off of this material will result in clean edges but a dirty surface. Wipe with a cloth to clean up the engraved surface.
+Engraving the coloured coating off of this material will result in clean edges but a dirty surface. Wipe with a cloth to clean up the engraved surface.
 
 ### Painted Steel
 

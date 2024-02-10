@@ -18,6 +18,7 @@ dateCreated: 2024-01-05T11:39:29.055Z
 | Jason Kongchouy | ✅ | ✅ | 
 | Joshua Rospondek (spondy) | ✅ | ✅ | 
 | Kamil Seda | ❌ | ✅ | 
+| Li-aung Yip (Lewis) | ✅ | ❌ | 
 | Penny Wood | ✅ | ❌ | 
 | Renae Currie | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ✅ | ✅ | 

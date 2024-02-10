@@ -22,6 +22,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ashleigh Williams | ❌ | ❌ | ❌ | ✅ | 
 | Beau Scott | ✅ | ✅ | ✅ | ❌ | 
 | Ben Connor | ✅ | ❌ | ❌ | ❌ | 
+| Ben Dwyer | ❌ | ✅ | ❌ | ❌ | 
 | Ben Harris | ❌ | ❌ | ❌ | ✅ | 
 | Ben Jude (bjude) | ❌ | ❌ | ❌ | ✅ | 
 | Ben Moore | ❌ | ✅ | ❌ | ❌ | 
@@ -53,7 +54,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Ilke Dincer | ❌ | ✅ | ✅ | ❌ | 
 | Isaac Monteath | ❌ | ✅ | ✅ | ❌ | 
 | James Palmer (James Palmer) | ❌ | ❌ | ❌ | ✅ | 
-| James Sim (Felix) | ✅ | ❌ | ❌ | ❌ | 
+| James Sim (Felix) | ✅ | ✅ | ✅ | ❌ | 
 | Jamie Moir (Jamie ) | ❌ | ❌ | ❌ | ✅ | 
 | Jamieson Quin (Jamo) | ❌ | ❌ | ❌ | ✅ | 
 | Jason Kongchouy | ✅ | ❌ | ❌ | ❌ | 

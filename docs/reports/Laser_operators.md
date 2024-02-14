@@ -90,7 +90,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Mitchell Robertson (Mitch) | ❌ | ❌ | ❌ | ✅ | 
 | Narelle Fouche (Ladybug) | ✅ | ❌ | ✅ | ❌ | 
 | Nathan Dunn | ❌ | ❌ | ❌ | ✅ | 
-| Nathan Thompson | ✅ | ❌ | ❌ | ❌ | 
+| Nathan Thompson | ✅ | ✅ | ✅ | ❌ | 
 | Patrick Kent | ❌ | ❌ | ❌ | ✅ | 
 | Penny Wood | ✅ | ❌ | ❌ | ❌ | 
 | Peter Hillier (letsburn00) | ✅ | ❌ | ❌ | ❌ | 

@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2024-02-19T09:57:01.958Z
+date: 2024-02-19T13:39:55.310Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -48,7 +48,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 ## Front
 
 * Ensure roller door to car park is down and bolted. Check that the roller door stays down when pulling chain in either direction.
-* Turn off welding bay - GPO above bench
+* Turn off welding bay - GPO above bench and lights on wall
 
 ## Final
 
@@ -58,6 +58,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 # Recent changes
 
+* Clarify that welding lights aren't switched by the GPO
 * Electronics lab bench has been temporarily moved to the project area while repairs are performed
 * The rehearsal room door doesn't need to be checked anymore
 * The following lights can now be controlled via the kiosk: Courtyard, Pallet Rack, Design Lab, Women's Toilet, Social Area, Electronics lab

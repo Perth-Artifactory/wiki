@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2023-07-11T15:57:49.603Z
+date: 2024-02-19T09:55:36.911Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -39,7 +39,6 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 * 🏘️ Ladies Toilets light is off. Mens toilet light will turn off automatically.
 * 🏘️ Light above the social table is switched off (white button next to phone charger on table)
 * 🏘️ Lights under the pallet racking are off (Paddle switch above the power board tub)
-* Band room door is locked
 
 ## Electronics Lab
 
@@ -59,6 +58,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 # Recent changes
 
+* The rehearsal room door doesn't need to be checked anymore
 * The following lights can now be controlled via the kiosk: Courtyard, Pallet Rack, Design Lab, Women's Toilet, Social Area, Electronics lab
 * Rehearsal room aircon switch is no longer accessable to workshop members, use the kiosk
 * Electronics bench is on the kiosk

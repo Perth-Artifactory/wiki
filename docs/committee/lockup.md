@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2024-02-19T09:55:36.911Z
+date: 2024-02-19T09:57:01.958Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -42,7 +42,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 ## Electronics Lab
 
-* 🏘️ Turn off bench power using power control button on the red control panel
+* ~~🏘️ Turn off bench power using power control button on the red control panel~~ (room is being repaired)
 * 🏘️ Turn off room light.
 
 ## Front
@@ -58,6 +58,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 
 # Recent changes
 
+* Electronics lab bench has been temporarily moved to the project area while repairs are performed
 * The rehearsal room door doesn't need to be checked anymore
 * The following lights can now be controlled via the kiosk: Courtyard, Pallet Rack, Design Lab, Women's Toilet, Social Area, Electronics lab
 * Rehearsal room aircon switch is no longer accessable to workshop members, use the kiosk

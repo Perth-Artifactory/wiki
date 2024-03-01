@@ -2,11 +2,14 @@
 title: NoizeMaschin!!
 description: 
 published: true
-date: 2023-01-04T02:32:58.485Z
+date: 2024-03-01T00:52:58.879Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:46:01.726Z
 ---
+
+> This page has been preserved for historical interest only and is not maintained.
+{.is-warning}
 
 ### NoizeMaschin!!
 

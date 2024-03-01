@@ -73,6 +73,7 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Josh Foti | ❌ | ❌ | ❌ | ✅ | 
 | Joshua Rospondek (spondy) | ❌ | ✅ | ✅ | ❌ | 
 | Joshua Walters (Josh) | ❌ | ✅ | ✅ | ❌ | 
+| Justin Richards (ornea) | ✅ | ❌ | ❌ | ❌ | 
 | Kamil Seda | ❌ | ✅ | ✅ | ❌ | 
 | Kassandra Roderick | ❌ | ❌ | ❌ | ✅ | 
 | Kymberli Lim (Kym) | ❌ | ❌ | ❌ | ✅ | 

@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2024-01-17T16:52:58.358Z
+date: 2024-03-01T00:46:04.901Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -31,31 +31,16 @@ Subcommittee rules can be found on the respective subcommittee pages:
 
 Event survey form: [Artifactory Group/Event Report - Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdrpL35JPyWVSqmnJb8B55MWlCGP0xdfh2-pbqZUvxnLevH-A/viewform?c=0&w=1)
 
-New [RFID Key issued by Committee member form](https://docs.google.com/forms/d/e/1FAIpQLSfrYbEFv7-il0syFjUJaoN_gPXeIOqMfNvtY3ht-HOIF7v60g/viewform)
+Guides to Office Bearer roles:
 
-[Code of Conduct](/docs/committee/code_of_conduct) for The Perth Artifactory
+-   [Chair](/docs/committee/chairperson)
+-   [Vice Chair](/docs/committee/chairperson)
+-   [Secretary](/docs/committee/secretary)
+-   [Treasurer](/docs/committee/treasurer)
 
 ## Committee Members
 
-*See links of roles (e.g. secretary, treasurer) for a guide to that role.*
-
-Elected [2023-09-16](/minutes/AGM/2023-09-16)
-
-Office Bearers
-
--   [Chair](/docs/committee/chairperson): Beau Scott
--   [Vice Chair](/docs/committee/chairperson): Fletcher Boyd
--   [Secretary](/docs/committee/secretary): Lewis Yip
--   [Treasurer](/docs/committee/treasurer): Renae Currie
-
-Ordinary Committee Members
-
--   Deputy Secretary: Tegan Murphy
--   Deputy Treasurer: Ben Connor
--   Ordinary Committee Member: Johannes Chuah
--   Ordinary Committee Member: Joshua Rospondek
--   Ordinary Committee Member: Vacant
--   Ordinary Committee Member: Vacant
+See [2023-2024 Committee](https://wiki.artifactory.org.au/en/docs/committee/2023-2024_committee).
 
 ## Officers
 

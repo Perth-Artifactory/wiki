@@ -34,7 +34,6 @@ dateCreated: 2023-04-13T13:13:39.242Z
 | Claude Woodward | ✅ | ✅ | ✅ | ❌ | 
 | Constance Titterton | ❌ | ❌ | ❌ | ✅ | 
 | Daniel Macnish (dan) | ❌ | ❌ | ❌ | ✅ | 
-| Darren Lewis | ❌ | ❌ | ❌ | ✅ | 
 | David Reeve (DSJR) | ❌ | ❌ | ❌ | ✅ | 
 | David Skilton (PoshSpice) | ❌ | ❌ | ❌ | ✅ | 
 | Don Yeh | ✅ | ❌ | ❌ | ❌ | 

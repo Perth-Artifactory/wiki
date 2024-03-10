@@ -2,7 +2,7 @@
 title: Milling Machine Training
 description: 
 published: true
-date: 2023-01-04T02:41:55.196Z
+date: 2024-03-10T10:44:20.583Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:59:08.991Z
@@ -31,24 +31,22 @@ Training would typically cover:
 -   Typical work cycle including machine startup and shut down
 -   Feedback and discussion of next steps
 
-```{=html}
-<!-- -->
-```
-    ===== Overview of milling machines =====
-    *   In a lathe, the cutting tool stays still and the workpiece moves. In a mill it’s the other way around. The workpiece is securely fixed to the table and the tool is fastened in the spindle, (like in a drill press, but with some important differences).
-    * The tool can interact with the workpiece in a range of different ways, for example:
-      * Peripheral milling, where metal is removed alongside the cutter and the cutter moves in the x/y plane
-      * Facing, where metal is removed beneath the cutter and the cutter moves in the x/y plane
-      * Drilling / boring, where the tool moves in the z direction
-      * Slitting
-      * Even scraping!
-    * Some typical milling tools:
-      * End mill
-      * Facing cutter
-      * Drill bit
-      * Slitting saw
-      * Boring bar
-      * Fly cutter
+
+## Overview of milling machines 
+  In a lathe, the cutting tool stays still and the workpiece moves. In a mill it’s the other way around. The workpiece is securely fixed to the table and the tool is fastened in the spindle, (like in a drill press, but with some important differences):
+- The tool can interact with the workpiece in a range of different ways, for example:
+  - Peripheral milling, where metal is removed alongside the cutter and the cutter moves in the x/y plane
+  - Facing, where metal is removed beneath the cutter and the cutter moves in the x/y plane
+  - Drilling / boring, where the tool moves in the z direction
+  - Slitting
+  - Even scraping!
+- Some typical milling tools:
+  - End mill
+  - Facing cutter
+  - Drill bit
+  - Slitting saw
+  - Boring bar
+  - Fly cutter
 
 ## Anatomy of the milling machine
 
@@ -73,7 +71,8 @@ Training would typically cover:
     -   The table can be moved in x, y and z using the handwheels
     -   The quill can be lowered using the handle or the micro-feed wheel, but the head controls need to be correctly set to do it
 -   All linear motions can be powered (normally)
-    -   The table can be power-fed at variable speed in the x direction (and, when the mill is fully functional, the y direction). The speed is controlled by a VFD and the user adjusts it with a feed speed control knob.
+    - The table can be power-fed at variable speed in the x and y directions.
+    - The speed is controlled by a VFD and the user adjusts it with a feed speed control knob, this is non-linear and the x and y directions have different speeds.
     -   The table can be moved in the z direction but cuts cannot be made by such movements
     -   The quill can be power-fed, within limits. This topic is covered separately.
 -   All axes can be mechanically clamped to prevent motion.

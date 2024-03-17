@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2024-03-01T00:46:04.901Z
+date: 2024-03-17T10:35:25.169Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -47,7 +47,7 @@ See [2023-2024 Committee](https://wiki.artifactory.org.au/en/docs/committee/2023
 -   [Events Officer(s)](/docs/policies/officers): Johannes Chuah
 -   [IT Officer](/docs/policies/officers): Vacant
 -   [Membership Officer(s)](/docs/policies/officers): Fletcher Boyd
--   [Member Storage Officer](/docs/policies/officers): Beau Scott
+-   [Member Storage Officer](/docs/policies/officers): Vacant
 -   [Quartermaster(s)](/docs/policies/officers): Fletcher Boyd
 -   [Rehearsal Room Coordinator(s)](/docs/policies/officers): Johannes Chuah, Martin Gonzalez
 -   [The Ambassador](docs/policies/classes_of_membership) - Magnus Danger Magnus

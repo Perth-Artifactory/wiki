@@ -23,4 +23,4 @@ dateCreated: 2024-01-05T11:39:29.055Z
 | Renae Currie | ❌ | ✅ | 
 | Robert bruce Chambers (Bruce) | ✅ | ✅ | 
 | Tegan Murphy | ❌ | ✅ | 
-| Tom W | ✅ | ❌ | 
+| Thomas White | ✅ | ❌ | 

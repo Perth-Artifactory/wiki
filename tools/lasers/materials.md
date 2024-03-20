@@ -2,13 +2,13 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2024-03-20T16:39:18.468Z
+date: 2024-03-20T16:39:59.034Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
 ---
 
-If the material you wish to cut/engrave is not listed as safe on this list do not cut it without approval from a laser trainer first.
+If the material you wish to cut/engrave is not listed as safe on this list, do not cut it without approval from a laser trainer first.
 
 ## Wood
 

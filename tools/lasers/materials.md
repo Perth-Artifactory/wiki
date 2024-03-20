@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2024-03-20T15:26:46.005Z
+date: 2024-03-20T15:52:57.995Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -81,6 +81,62 @@ Certain plastics are completely banned from use on the lasers due to their dange
   * Engraving the area you'd like to paint, cleaning the engrave, painting, then peeling the rest of the paper off. or
   * Etching the borders of your desired stencil, carefully peeling off the paper from the parts of the material you want to paint, then painting.
 * **Cut edge properties**: Very clean.
+
+### Acrylic laminate (Trolase, Lasermark, Gravoply, etc)
+
+> There are many engraving laminates on the market. Read the following section carefully to confirm that your **exact** material is listed by name below. Do not rely solely on the advice of external suppliers and be wary of substitutions.
+{.is-warning}
+
+Acrylic laminate is known under a number of brand names e.g. Trotec Trolase, Rowmark Lasermark, Gravoply Laser, etc.
+
+The material has a thin top layer laminated to a thicker base layer. Lightly engraving the top layer allows the base layer colour to show through.
+
+#### Material variations
+
+The material is available in many thicknesses, colours, printed patterns, and finishes.
+
+The following materials are OK to cut:
+
+* Trotec Trolase
+* Rowmark Lasermark
+* Gravoply Laser
+
+Consult a laser trainer before cutting laminate materials that aren't on this list.
+
+We strongly recommend that you buy this material from the "laser engraving materials" section of a reputable supplier.
+
+Rotary engraving materials based on ABS will release toxic gasses when lasered. **Do not process ABS material in our laser cutters.** (See: [ABS](https://wiki.artifactory.org.au/tools/lasers/materials#abs).)
+
+Phenolic resin materials (brand name "Traffolyte" or "Gravostrat") release toxic gasses when lasered. **Do not process phenolic resin material in our laser cutters.** The dust from cutting or rotary engraving this material is also toxic.
+
+#### Engraving finish:
+
+Acrylic laminate material is specifically intended for high-resolution laser engraving, and will give excellent results.
+
+The sheet material comes with a layer of clear protective plastic film on the top surface, to protect the surface during shipping and handling. **Remove this clear plastic film before lasering the material.** Leaving the protective plastic film on will result in very poor quality engraving.
+
+The best way to engrave this material is to expose the base layer by engraving away the thin top layer, using the least power possible. You will need to do some testing to find the best settings for each variant of this material.
+
+For Big Red, good starting settings are 400 mm/sec, 10% power and 0.05mm scan gap.
+
+For very fine engravings, reduce the engraving speed (e.g. to 200 mm/sec) so the laser has more time to switch the beam on/off as the head moves over the fine engravings.
+
+#### Cleanup
+
+Wipe with isopropyl alcohol to remove dust and sticky residues. 
+
+To remove coloured residue from white base layers (i.e. red staining on red/white laminate), scrub with a toothbrush and plenty of isopropyl alcohol.
+
+#### Painting 
+
+Typically not required.
+
+#### Cut edge properties
+
+Very clean.
+
+For very clean (glass-like) edges, do 2 cutting passes at reduced power.
+
 
 ### Polyethylene (HDPE) ❌
 

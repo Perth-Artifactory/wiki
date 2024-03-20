@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2024-02-05T14:48:26.700Z
+date: 2024-03-20T15:26:46.005Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -135,7 +135,15 @@ Cuts easily but consider whether the cardboard has a non cuttable plastic coatin
 > Faux leather such as PU and vegan leather are not covered by this section
 {.is-info}
 
-Thin leather cuts well but can have a distinct burnt hair smell. Consider cutting outside of events.
+Vegetable tanned leather is OK to cut.
+
+You must be able to prove to us that the leather is vegetable tanned, i.e. by showing us a label on the material or its packaging, a reciept, or the product description on the website you bought it from.
+
+![veg_tanned_leather.png](/tools/lasers/veg_tanned_leather.png)
+
+Chrome tanned leather is not allowed to be used in our laser cutters at any time, regardless of whether it is trivalent chromium tanned or hexavalent chronium tanned.
+
+Thin leather cuts well but can have a distinct burnt hair smell. Consider warning people to expect the burnt hair smell before cutting leather in the lasers. Consider deferring jobs to outside events when people won't be around.
 
 ## Glass
 

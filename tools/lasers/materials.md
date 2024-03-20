@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2024-03-20T15:52:57.995Z
+date: 2024-03-20T16:37:01.843Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -164,7 +164,7 @@ PVC contains chlorine which is released when cutting on the lasers in the form o
 > The information below has been included for informational purposes only. This material presents a significant health risk and under no circumstances should be cut on the lasers at any time.
 {.is-warning}
 
-When burnt ABS releases a variety of gases including hydrogen cyanide which is toxic to people. It also prevents a significant fire risk. Users should **consider carefully** before putting 3D printed ABS in the [CNC router](/tools/cnc/swarf/swarfomat) as an alternative.
+When burnt ABS releases a variety of gases including hydrogen cyanide which is toxic to people. It also presents a significant fire risk. Users should **consider carefully** before putting 3D printed ABS in the [CNC router](/tools/cnc/swarf/swarfomat) as an alternative.
 
 ## Fabric
 

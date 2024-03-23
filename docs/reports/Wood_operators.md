@@ -10,11 +10,12 @@ dateCreated: 2024-01-05T11:12:04.524Z
 
 | Operator | Bandsaw (Wood) 🟡| Drill Press 🟡| Jointer 🟡| Lathe (Wood) 🔴| [Router (CNC)](/tools/cnc/swarf/swarfomat) 🔴| Router (Table) 🟡| Sander (Fixed Belt) 🟡| Sander (Spindle) 🟡| Saw (Mitre) 🟡| Saw (Table) 🟡| Thicknesser 🟡| 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Adam Gardner | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | 
 | Alice Robinson-kinson | ✅ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | 
 | Anthony Parrella | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ✅ | ❌ | ✅ | ❌ | ❌ | 
 | Beau Scott | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 | Ben Connor | ✅ | ✅ | ❌ | ✅ | ✅ | ❌ | ✅ | ❌ | ✅ | ❌ | ✅ | 
-| Ben Moore | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | 
+| Ben Moore | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | 
 | Charlie Watson | ❌ | ✅ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | 
 | Fletcher Boyd | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | 
 | Glenn Martin | ✅ | ✅ | ❌ | ❌ | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | 

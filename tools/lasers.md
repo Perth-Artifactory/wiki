@@ -2,7 +2,7 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2024-02-03T03:27:12.325Z
+date: 2024-03-23T12:15:06.933Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
@@ -67,7 +67,6 @@ Below is a list of trainers (Artifactory volunteers who are able to train new op
 | Steve Hodges   | ✓                | -          | Unavailable |
 | Glenn Martin   | ✓                | -          | Unavailable |
 | Blake Samuels  | ✓                | ✓          | Unavailable |
-| Beau Scott     | ✓                | ✓          | Unavailable |
 
 ### Operators
 

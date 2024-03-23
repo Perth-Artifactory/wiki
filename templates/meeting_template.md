@@ -1,8 +1,8 @@
 ---
-title: "yyyy-mm-dd"
+title: yyyy-mm-dd
 description: 
 published: true
-date: 2023-11-13T02:28:34.627Z
+date: 2024-03-23T12:14:14.869Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -23,7 +23,6 @@ The table of contents on the left side of the page forms the agenda of this meet
 ## Members Present
 
 * Present: REMOVE NOT PRESENT
-    * Beau Scott
     * Ben Connor
     * Fletcher Boyd
     * Johannes Chuah

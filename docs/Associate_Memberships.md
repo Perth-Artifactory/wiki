@@ -2,7 +2,7 @@
 title: Associate Memberships Panel
 description: 
 published: true
-date: 2023-01-08T10:42:28.439Z
+date: 2024-03-23T12:17:04.237Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-26T13:27:04.702Z
@@ -14,7 +14,6 @@ dateCreated: 2022-11-26T13:27:04.702Z
 
 | Name                  | Contact details on file in TidyHQ † |
 | --------------------- | ----------------------------------- |
-| Beau Scott            | Yes                                 |
 | Ben Connor            | Yes                                 |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*

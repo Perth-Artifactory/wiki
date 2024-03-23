@@ -2,7 +2,7 @@
 title: Infrastructure Subcommittee
 description: 
 published: true
-date: 2023-01-08T09:52:22.024Z
+date: 2024-03-23T12:16:05.560Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:03.316Z
@@ -19,8 +19,6 @@ Last updated: xxxx-xx-xx
 | Joshua Rospondek (Chair) | Yes                                 |
 | Ben Connor               | Yes                                 |
 | Fletcher Boyd            | Yes                                 |
-| Iain Graham              | Yes                                 |
-| Beau Scott               | Yes                                 |
 | Renae Currie             | Yes                                 |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*

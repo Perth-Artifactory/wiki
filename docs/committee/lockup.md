@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2024-02-19T13:39:55.310Z
+date: 2024-03-30T12:23:31.708Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -23,6 +23,13 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 * 🏘️ Shed power comes from machine room. (No need to lock shed)
 * 🏘️ Turn the courtyard lights off with the silver button below the roller door controls
 
+## Back Area
+
+* 🏘️ Lasers are turned off, computers can stay on.
+* 🏘️ Ladies Toilets light is off. Mens toilet light will turn off automatically.
+* 🏘️ Light above the social table is switched off (white button next to phone charger on table)
+* 🏘️ Lights under the pallet racking are off (Paddle switch above the power board tub)
+
 ## Machine Room
 
 * 🏘️ Press the silver button just inside the door
@@ -32,13 +39,6 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/c
 * 🏘️ Lights are off.
 * 3D printers are turned off unless currently printing a job.
 * Computers can stay on.
-
-## Main Area
-
-* 🏘️ Lasers are turned off, computers can stay on.
-* 🏘️ Ladies Toilets light is off. Mens toilet light will turn off automatically.
-* 🏘️ Light above the social table is switched off (white button next to phone charger on table)
-* 🏘️ Lights under the pallet racking are off (Paddle switch above the power board tub)
 
 ## Electronics Lab
 

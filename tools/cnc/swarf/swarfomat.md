@@ -2,7 +2,7 @@
 title: Swarf-O-Mat CNC Router
 description: 
 published: true
-date: 2024-04-01T08:17:20.432Z
+date: 2024-04-01T08:17:59.074Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:57.788Z
@@ -191,5 +191,5 @@ Instructions on how to change the settings through the touchpad are in the <embe
 
 ## Notes
 
-Details of Swarfomat's configuration are available on the [maintenance information page](/tools/ swarf-o-mat_maintenance_info).  
+Details of Swarfomat's configuration are available on the [maintenance information page](/tools/cnc/swarf/swarf-o-mat_maintenance_info).
 Information relating to the original build is available on the original [Project Page](/projects/swarf-o-mat).

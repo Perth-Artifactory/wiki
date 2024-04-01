@@ -2,7 +2,7 @@
 title: Swarf-O-Mat CNC Router
 description: 
 published: true
-date: 2024-04-01T08:12:05.551Z
+date: 2024-04-01T08:17:20.432Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:57.788Z
@@ -111,13 +111,15 @@ You can **not** use a lot of things, if it's not listed here and/or you're not s
 
 ## Instructions for Use
 
-<img src="/process_guide/vcarve_letter_t_animated.gif" class="align-right" /> Very important condition of use: **Use Swarf-o-mat with caution!**
+
+
+Very important condition of use: **Use Swarf-o-mat with caution!**
 
 This is a FRAGILE and awesome bit of equipment -- **RESPECT IT, BE CAREFUL!**
 
 If you're not 100% certain about what you're doing, DON'T! Get advice and take care.
 
-#### 1) Know what you want to make/do
+### 1) Know what you want to make/do
 
 If you're here, hopefully you already have plans.
 
@@ -127,7 +129,7 @@ If you're here, hopefully you already have plans.
 -   engrave
 -   carve (to a limited extent)
 
-=== 2) Plan and draw your project in VCarve ===
+### 2) Plan and draw your project in VCarve
 
 VCarve is the supported software for use with swarf-o-mat.
 
@@ -135,25 +137,25 @@ This software is installed on the computers available in the computer room in th
 
 Artifactory members can make a folder on the network that can be accessed by swarf-o-mat.
 
-Detailed instruction are provided on [VCarve Instructions](VCarve Instructions) page.
+Detailed instruction are provided on [Vcarve Instructions](/tools/cnc/swarf/vcarve_instructions) page.
 
-#### 3) Cut material with swarf-o-mat
+### 3) Cut material with swarf-o-mat
 
 **USE THE MACHINE WITH EXTREME CARE**
 
 If you are not sure what you are doing: **DON'T DO IT** -- get help and advice from one of the friendly swarf-o-mat operators.
 
-Detailed instruction are provided on [Swarf-O-Mat Usage Instructions](Swarf-O-Mat Usage Instructions) page.
+Detailed instructions are provided on [Swarf-O-Mat Usage Instructions](/tools/cnc/swarf/swarf-o-mat_usage_instructions) page.
 
 ## Quick and dirty notes on spindle speed control
 
 As of 20/6/21 Swarf-o-mat is configured for software control of spindle speed (including start/stop). Spindle speed can be set in three ways:
 
-#### Spindle control through Mach3 UI
+### Spindle control through Mach3 UI
 
 The spindle speed can be set through the Mach3 UI, in the lower right corner of the main (Program Run) screen: <img src="/tools/speed_control_picture.png" class="align-center" width="400" />
 
-#### Spindle control in g-code
+### Spindle control in g-code
 
 The spindle can be started or stopped, or speed controlled, with g-code commands, either entered through the Mach3 UI on the MDI page or embedded in your program:
 
@@ -163,7 +165,7 @@ The spindle can be started or stopped, or speed controlled, with g-code commands
 
 Once set, the spindle speed can be overridden through the Mach 3 UI
 
-#### Spindle control through VFD touch pad
+### Spindle control through VFD touch pad
 
 Should you want to return Swarfomat to spindle control through the touchpad, please change **only the VFD settings**. Do not mess with the Mach 3 setup. The relevant VFD settings are:
 
@@ -173,6 +175,8 @@ Should you want to return Swarfomat to spindle control through the touchpad, ple
 Instructions on how to change the settings through the touchpad are in the <embed src="/tools/huanyang_vfd.pdf" class="align-center" />.
 
 ## Documentation
+
+
 
 | Document                                                                                           | Notes                                               |
 |----------------------------------------------------------------------------------------------------|-----------------------------------------------------|

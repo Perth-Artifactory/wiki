@@ -2,7 +2,7 @@
 title: Swarf-O-Mat CNC Router
 description: 
 published: true
-date: 2024-01-08T03:14:42.769Z
+date: 2024-04-01T08:12:05.551Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:57.788Z
@@ -11,6 +11,8 @@ dateCreated: 2022-10-17T16:54:57.788Z
 # Swarf-O-Mat CNC Router
 
 > You need to be trained (and pass a test) before using our CNC router.
+>
+> CNC router training is currently only available to members.
 >
 > Only current, authorized trainers can deliver router training.
 {.is-warning}

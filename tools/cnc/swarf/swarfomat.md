@@ -2,7 +2,7 @@
 title: Swarf-O-Mat CNC Router
 description: 
 published: true
-date: 2024-04-01T08:17:59.074Z
+date: 2024-04-02T01:26:42.679Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:54:57.788Z
@@ -46,6 +46,8 @@ Refer to [Tool Usage Fees](/docs/policies/fees).
 
 ## Swarf-o-Mat Reference
 
+**Note:** These figures are conservative. Have cut pine successfully at 0.2mm per tooth, 60% stepover with 6mm end-mill. - *Penny W Apr/2024*
+
 | Material            | VFD Setting | Feed Rate (6mm Tool) | Pass Depth (mm) | Notes                                                       |
 |---------------------|-------------|----------------------|-----------------|-------------------------------------------------------------|
 | Aluminium           | 400         | 200mm/min            | 0.25            | Swarf will re-weld to sides of channels - keep job clean    |
@@ -62,6 +64,7 @@ Refer to [Tool Usage Fees](/docs/policies/fees).
 | X Axis Range                  | 600                                 |
 | Y Axis Range                  | 420                                 |
 | Z Axis Range                  | 70                                  |
+| Spindle max RPM               | 24,000 rpm                          |
 | Collet                        | ER11                                |
 | Driver Software               | Mach3                               |
 | Full Swarf-O-Mat Area         | 600mm x 460mm x 70mm (minus buffer) |

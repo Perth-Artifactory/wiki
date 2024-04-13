@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2023-11-30T03:40:51.878Z
+date: 2024-04-13T15:02:08.027Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -79,6 +79,12 @@ If you -
 - dispose of hazardous waste incorrectly,
 
 you will be liable for the the Association's reasonable costs incurred to dispose of the waste correctly.
+
+------------------------------------------------------------------------
+
+## Keyholder responsibilities
+
+Refer to [By-laws - Keyholder Responsibilities](https://wiki.artifactory.org.au/en/docs/policies/keyholder_responsibilities).
 
 ------------------------------------------------------------------------
 

@@ -52,7 +52,7 @@ Anyone with a Slack account can edit our wiki!
 
 * [Closing procedure](/docs/committee/lockup) for key-holders.
 
-* [Keyholder responsibilities](/docs/committee/keyholder_responsibilities).
+* [Keyholder responsibilities](/docs/policies/keyholder_responsibilities).
 
 * [Dangerous projects and tools policy](/testing/drafts/dangerous_projects_and_tools).
 

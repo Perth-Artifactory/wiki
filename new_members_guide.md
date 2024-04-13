@@ -72,7 +72,7 @@ Keyholders are expected to:
 * Continue to adhere to the requirements listed above
 * Maintain a keybond with the association appropriate to their membership class
 * Maintain accurate information within our membership system including a photo suitable for identification purposes, contact information, and emergency contact information.
-* Adhere to their [responsibilities as a keyholder](/docs/committee/keyholder_responsibilities)
+* Adhere to their [responsibilities as a keyholder](/docs/policies/keyholder_responsibilities)
 
 The underlying bylaw that governs keybonds can be found [here](https://wiki.artifactory.org.au/en/docs/policies/bylaws#rfid-keys-for-members)
 

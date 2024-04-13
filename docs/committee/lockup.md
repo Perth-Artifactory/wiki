@@ -10,7 +10,7 @@ dateCreated: 2022-10-17T16:47:01.779Z
 
 # Closing Procedure
 
-Following these steps is part of your [responsibilities as a keyholder.](/docs/committee/keyholder_responsibilities) If you cannot close up please contact the committee via [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y) on [Slack](https://perart.io/slack).
+Following these steps is part of your [responsibilities as a keyholder.](/docs/policies/keyholder_responsibilities) If you cannot close up please contact the committee via [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y) on [Slack](https://perart.io/slack).
 
 > Things marked with 🏘️ can also be turned off via the kiosk in the foyer.<br>In particular the "Leaving" button at the top will turn everything off and start a timer for the carpark lights to give you time to leave.
 {.is-info}

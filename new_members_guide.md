@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-04-23T01:57:25.187Z
+date: 2024-04-23T03:00:31.529Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -16,94 +16,85 @@ Please take a few minutes to read this New Members Guide to orientate yourself w
 
 ## Official stuff
 
-* [Membership Info](/docs/policies/classes_of_membership) - Details of what types of membership are available, benefits, etc.
-* It is a legal requirement for The Artifactory to maintain a register of members, with full name, email or address, and contact details.
-* Please keep your personal details up-to-date in TidyHQ.
-    * Your full name, email or address, and contact details - this is a legal requirement
-    * Emergency contact details
-* The Rules - [Constitution](/constitution) & [By-Laws](/committeerulings)
+* [Code of Conduct](/docs/committee/code_of_conduct)
+    * **Very important to read!** - Our expectations for how we treat each other, and how we treat the space.
+    
 * We're a fully volunteer organisation run by a [committee](/docs/committee/home).
     * You can contact the committee at any time via Slack or email - committee@artifactory.org.au.
+    
+* Please keep your personal details up-to-date in TidyHQ.
+    * Your full name, email or address, and contact details - this is a legal requirement
+    * Emergency contact details   
+
+* [Training](/docs/policies/training)
+    * Training is needed to use many of the tools in the space.
+    * **Please read the [Training](/docs/policies/training) policy for more details.**
+
+* [By-Laws](/docs/policies/bylaws)
+    * Policies regarding what you can (and can't) do in the space, things you have to ask permission before doing, and various administrative matters.
+
+* [Constitution](/constitution)
+    * Defines your legal rights and responsibilities as a member.
+    
 * The Perth Artifactory [Emergency Plan is available for viewing here](https://wiki.artifactory.org.au/lib/exe/fetch.php?media=events:artifactory_emergency_plan_-_june_2019.png) in addition to those displayed in every single room of the Artifactory. It shows the location of the first aid kits, Fire extinguishers/hose, switchboard, muster point and escape route.
+
 * Reporting injuries (or near misses) helps us keep everyone safe. Use [this form](https://cloud.artifactory.org.au/apps/forms/62rTWpZH4fr5di2H) to document the details while they're fresh in your mind.
+
+## Map
+
+[![floor_plan_thumbnail_2024-04-15.png](/floor_plan_thumbnail_2024-04-15.png)](/artifactory_floor_plan_2024-04-15.pdf)
+
+[Floor plan](/artifactory_floor_plan_2024-04-15.pdf)
+* Last updated 2024-04-15.
 
 ## The Space is Communal
 
 We are designated as a factory space.
 
-* Ensure access areas are kept clean, tools are safe
+* Ensure access areas are kept clean, tools are safe.
 * Ensure that your clothing is appropriate.
+* Refer [Code of Conduct](/docs/committee/code_of_conduct) regarding *Safe Use of Tools*.
 
 Keep it nice for everyone else:
 
-* **pick up your rubbish,**
-* wipe, sweep or vacuum your area after use,
-* put away the stuff you used,
-* vacuums and dustpan & brooms are in abundance.
 * **Leave the space cleaner than you found it.**
+* Pick up your rubbish.
+* Put away everything you used.
+* Clean the area you worked in - wipe, sweep, vacuum.
+* Help with the communal cleaning - empty the bins, do a bit of sweeping and vacuuming, do a bit of sorting...
 * Do not use power wood cutting tools inside, nor spray paints - the dust can affect electronics, furniture, and other member's breathing. Try to avoid use of resins or other volatiles inside as well. The exception here is locations specifically designated for this purpose.
+* Refer [Code of Conduct](/docs/committee/code_of_conduct) regarding *Respectful Behaviour*.
 
 ## Storage Space
 
-### Member Storage (Lockers and Tubs)
+Anything you want to keep must be in your storage space.
 
-Members are entitled (subject to availability) to a single committee authorised storage space provided it's left in a tidy and safe state. Ask in #welcome on Slack or contact storage@artifactory.org.au to get assigned a space.
+* [Individual member storage space](/docs/policies/storage#individual-member-storage-spaces)
+* [Sheet material racks](/docs/policies/storage#sheet-material-racks)
+* [Workspace Usage](/docs/policies/storage#workspace-usage)
+* Full terms and conditions: [Storage](/docs/policies/storage).
 
-**No guarantees are made to the security of your belongings on site.**
+Anything which is left in the space un-labelled will be either treated as [lost and found](/docs/policies/storage#lost-and-found) or  [disposed of](/docs/policies/storage#disposal-of-property).
 
-### Member Storage & Termination of Membership
+## Access to the space
 
-If you cancel your membership via resignation, termination etc your belongings will be stored for a period of one month. Once this period has expired the belongings will be claimed by the association and may be used or disposed of as the Management Committee sees fit.
+As a new member, your access to the space will initially be limited to the [events on our calendar](https://artifactory.org.au/events).
 
-### Additional Member Storage
+You may also be able to arrange with a key-holding member to attend the space with you, but there's no guarantee that a member will be available at any particular time.
 
-Members are entitled to request for additional storage on the pallet racking. Additional storage will be charged at a rate of \$60 per half a pallet rack per month and will be restricted to the upper racks. To date the committee has not authorised a storage space under this By-Law due to space constraints in the workshop.
+Refer: [Artifactory Access](/docs/committee/artifactory_access)
 
 ## 24/7 Access
 
-Members may request a 24/7 key to the workshop provided that they have:
+Members who meet our requirements may apply for a 24/7 key (RFID key) after an initial probation period.
 
-* Held their current membership for at least two weeks
-* Consistantly abided by our [Code of Conduct](/docs/committee/code_of_conduct)
-* No outstanding invoices
-* Demonstrated sound judgement regarding who can enter the space outside of events
-* Demonstrated an ability to work well in shared workshop environment (works unsupervised, undertakes tasks safely, cleans up after themselves, communicates issues as they arise)
-
-Once you've contacted the [Membership Officer](mailto:membership@artifactory.org.au) to request a key they will confirm the above requirements and put the application to the committee.
-
-Keyholders are expected to:
-
-* Continue to adhere to the requirements listed above
-* Maintain a keybond with the association appropriate to their membership class
-* Maintain accurate information within our membership system including a photo suitable for identification purposes, contact information, and emergency contact information.
-* Adhere to their [responsibilities as a keyholder](/docs/policies/keyholder_responsibilities)
-
-The underlying bylaw that governs keybonds can be found [here](https://wiki.artifactory.org.au/en/docs/policies/bylaws#rfid-keys-for-members)
-
-## Areas Directory
-
-| Tool                                | Description                                                           |
-| ----------------------------------- | --------------------------------------------------------------------- |
-| Material Racks    | The areas that have sheets of MDF/Ply etc for short term storage by members. |
-| Design Lab        | The Design Lab houses our design workstations as well as our 3D printers and vinyl cutter. |
-| Tool Room (front) | The front part of the machine room contains power tools, the drill press, drop saw, hydraulic press, and spindle sander. |
-| Tool Room (back)  | The back part of the machine room contains the CNC router, belt sander, table saw, bench grinder, and wood lathe. |
-| Welding Bay       | Next to the front roller door, but also includes the area directly inside the roller door. Contains welding, casting, and metal cutting equipment. |
-| Laser Area        | Where the Laser Cutters live. |
-| Stage             | The stage is at the front of the space and houses the Artifactory collection of A/V gear and interesting lighting. Also houses one of the space sound systems. |
-| Social Area       | The area with the couches just outside the Design Lab. Please don't work on projects on this table. |
-| Bar/Kitchen       | The bar and the kitchen. Includes a full coffee machine, dishwasher, fridges, and washing machine. |
-| Car Park          | The front bit outside, where the large bin is and where cars should go. No Project work or material storage here. |
-| Rear Courtyard    | Through the rear roller door to the outside courtyard, larger projects and spraying is permitted - try not to let it blow back inside the space. |
-| Project Area      | The big open bit in the middle of the space not covered by any of the previous areas. |
-| Electronics Lab   | The electronics area has a bunch of work bays for hacking on most anything that facilitates the flow of electrons including Soldering Stations, Oscilloscopes and lab power supplies. |
-| Upcycle Rack     | The area opposite the welding bay. Stuff(with in reason) gets donated here free for anyone to do stuff with. If you left your unlabelled project or thing around the Artifactory it may end up here. Contents from this bench routinely end up in the skip. |
-| Hack Rack         | The shelves immediately outside the Heavy Tool Roon. Contains a wide variety of potentially useful stuff. |
-| Rehearsal Room    | In between the CAD room and studio room, used by Artifactorians with Band Memberships. |
-| Shed              | Paints/Spray paints for communal use and anything labelled flammable. |
+Details:
+* [RFID keys for Members](https://wiki.artifactory.org.au/en/docs/policies/bylaws#rfid-keys-for-members)
+* [Keyholder Responsibilities](/docs/policies/keyholder_responsibilities)
 
 ## Heavy Tool Use                 
 
+* See: [Training](/docs/policies/training)
 * Heavy tools will be pointed out to you during your initial tour. We recommend using Slack (see below) to organise training.
 * No one can use Heavy Tools unless they have been inducted by an existing certified member. If you're not familiar with their safe operation, you could kill yourself, REALLY.
 * A list of certified users for some tools are available in the tools section of this wiki.
@@ -113,13 +104,14 @@ The underlying bylaw that governs keybonds can be found [here](https://wiki.arti
 
 ## Communal Materials
 
-* There are supplies of free wood and acrylic next to Big Red. The specific location will be shown to you during laser training or you can ask an existing member.
-* Items left on the *Upcycle* rack are free game.
-* The kitchen has a small quantity of cleaning products etc.
-* Filing Cabinet in the shed contains paints / spray paints for communal use unless otherwise labelled.
-* Stuff on the Hack Rack.
+* Crafting materials
+  * Laser scrap rack
+  * Upcycle rack
+  * Hack rack
+* Cleaning products: kitchen
+* Spray paint: filing cabinet in the back shed - unless labelled with someone's name.
 * Otherwise **check** with another member before you start using supplies. Many supplies belong to individual members.
-* If you find you are using a lot of a communal supply like Turpentine, Gaffer Tape, etc, you should **buy more** for the Artifactory.
+* If you find you are using a lot of a communal supply like superglue, turpentine, masking tape, etc, you should **buy more** for the Artifactory.
 
 ## Communications
 

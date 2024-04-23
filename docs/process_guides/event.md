@@ -2,7 +2,7 @@
 title: How to run an event
 description: 
 published: true
-date: 2024-04-23T15:43:14.428Z
+date: 2024-04-23T15:50:18.294Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:51:10.382Z
@@ -13,29 +13,64 @@ dateCreated: 2022-10-17T16:51:10.382Z
 -   Make sure the Committee and Event Officer know you are running an event/workshop. They can help you work out what you need to think about, who can help, practicalities, and any legalities for running the Bar. They are your organisational Friend!
 
 ## Planning
-Check date, theme, and space setup requirements with Event Officer.
 
-Things to think about and discuss with Event Manager - do you need:
+### Coordination
+
+  * Check date, theme, and space setup requirements with Event Officer.
+
+  * Enlist volunteers! Make your life easier, and more fun. Make sure they know clearly what they are going to be doing. Clear delegation lightens workloads and makes it all more community-fun.
+
+  * Submit names/phone numbers of those running the night to Event Manager. This is so the manager can help check on things if someone is suddenly unable to attend
+
+### Money
+
+  * Cash float / ticketing person? Do you need someone to be on the door collecting cash?
+
+### Logistics
+
+  * chairs and tables? Who is getting the space ready for the event BEFORE visitors arrive?
+
+### Audiovisual
 
   * video projectors? laser projectors?
-  * chairs and tables? Who is getting the space ready for the event BEFORE visitors arrive?
-  * Cash float / ticketing person? Do you need someone to be on the door collecting cash?
-  * Enlist volunteers! Make your life easier, and more fun. Make sure they know clearly what they are going to be doing. Clear delegation lightens workloads and makes it all more community-fun.
+  
+### Publicity
+
+### Liquor licensing
+
   * Bar staff & alcohol License? We need 14 days notice to get a License, and the licenses cost $50 - factor this into your budget. If you are operating between 7 and 10pm, we don't need a License under the Cultural Event Exemption. Licensed events require at least one bar staff with a Restricted Club Managers License and ideally all Bar Staff should have completed the Responsible Service Of Alcohol course.
   * You CAN run the bar (with an RSA-trained, card-carrying Bar Manager) without a licence between 6-10pm for under 75 people(additional toilets are need above 50 people) under the small cultural event Exemption rules - ie for events that have a purpose other than drinking. This is how //NoizeMaschin!!// and other events operate. The same alcohol service safety and duty of care apply implicitly.
   * Make sure you have FREE WATER available if serving booze - can be a jug of water on the bar with some cups.
-  * Submit names/phone numbers of those running the night to Event Manager. This is so the manager can help check on things if someone is suddenly unable to attend
+
+
 
 ## Weeks in advance
 
-  * LIQUOR LICENSE. Do NOT assume someone else is getting it for you.
-  * SECURITY. If your event is likely to attract a large group of viral-event Facebook randoms (eg a trance party or similar), you may need bouncers to keep them out. 
+### Coordination
+
+  * Prepare a run sheet and circulate it amongst your volunteers so everyone knows when setup time begins, who is getting what supplies when, doors opening, entertainment / talks schedule, and kick out / cleanup.
+
+### Money
+
+### Logistics
+
+### Audiovisual
+
+### Publicity
+
   * Advertise on:
     * Artifactory website
     * Facebook (see above - consider NON-PUBLIC event, only friends-of-friends, or by admin invite or approval)
     * Artifactory Google Calendar
     * Email - artifactory-core mailing list 
-  * Prepare a run sheet and circulate it amongst your volunteers so everyone knows when setup time begins, who is getting what supplies when, doors opening, entertainment / talks schedule, and kick out / cleanup.
+
+### Liquor licensing
+
+  * LIQUOR LICENSE. Do NOT assume someone else is getting it for you.
+
+### Security
+
+  * SECURITY. If your event is likely to attract a large group of viral-event Facebook randoms (eg a trance party or similar), you may need bouncers to keep them out. 
 
 ## Day of event - before
 
@@ -52,6 +87,22 @@ Things to think about and discuss with Event Manager - do you need:
   * Do you have all equipment you need? Check one last time!!
 
 
+### Coordination
+
+### Money
+
+### Logistics
+
+### Audiovisual
+
+### Publicity
+
+### Liquor Licensing
+
+### Security
+
+
+
 ## Day of event - during
 
   * During Welcome speech, Announce Rules Of The Space - entry fees, toilet location, fire exits, Artifactory being non-profit community club. If not running a bar, tell people how the Fridge works. Ask that people CLEAN UP before they leave - return tools, clean benches, stack chairs, etc
@@ -59,6 +110,20 @@ Things to think about and discuss with Event Manager - do you need:
   * Check visitors aren't messing with machines or people's projects.
   * If running a bar, make sure you adhere to time restrictions (unlicensed cultural events 7-10pm, licensed no later than 1am) and Responsible Service Of Alcohol rules. 
 
+
+### Coordination
+
+### Money
+
+### Logistics
+
+### Audiovisual
+
+### Publicity
+
+### Liquor Licensing
+
+### Security
 
 ## Day of event - after
 
@@ -73,6 +138,20 @@ Things to think about and discuss with Event Manager - do you need:
   * Check toilets for general operational cleanliness.
   * Do stock-take of fridges, note difference from start of event.
 
+### Coordination
+
+### Money
+
+### Logistics
+
+### Audiovisual
+
+### Publicity
+
+### Liquor Licensing
+
+### Security
+
 ## After event
 
   * Use photos to write Website and Facebook articles
@@ -80,3 +159,18 @@ Things to think about and discuss with Event Manager - do you need:
   * Write an operational & financial summary for artifactory-committee
   * Bask in glory of a well-run event!
   * Send thanks emails to guest speakers, volunteers, performers.
+  
+  
+### Coordination
+
+### Money
+
+### Logistics
+
+### Audiovisual
+
+### Publicity
+
+### Liquor Licensing
+
+### Security

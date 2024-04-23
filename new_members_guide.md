@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-04-23T03:07:11.516Z
+date: 2024-04-23T03:15:08.100Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -61,9 +61,13 @@ Keep it nice for everyone else:
 * Pick up your rubbish.
 * Put away everything you used.
 * Clean the area you worked in - wipe, sweep, vacuum.
-* Help with the communal cleaning - empty the bins, do a bit of sweeping and vacuuming, do a bit of sorting...
 * Do not use power wood cutting tools inside, nor spray paints - the dust can affect electronics, furniture, and other member's breathing. Try to avoid use of resins or other volatiles inside as well. The exception here is locations specifically designated for this purpose.
 * Refer [Code of Conduct](/docs/committee/code_of_conduct) regarding *Respectful Behaviour*.
+
+Everyone who helps you (training, assistance, advice, ...) is a member like you, volunteering their time for free. Please repay their kindness by:
+* Helping with the communal cleaning - empty the bins, vacuum the project area...
+* Tidying up the space - sort the hardware drawers, neaten the tool racks...
+* Volunteering to help with a project or event - ask any commitee member - there's always lots to do!
 
 ## Storage Space
 

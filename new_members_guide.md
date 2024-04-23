@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2023-10-14T05:35:29.682Z
+date: 2024-04-23T01:57:25.187Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -18,8 +18,12 @@ Please take a few minutes to read this New Members Guide to orientate yourself w
 
 * [Membership Info](/docs/policies/classes_of_membership) - Details of what types of membership are available, benefits, etc.
 * It is a legal requirement for The Artifactory to maintain a register of members, with full name, email or address, and contact details.
+* Please keep your personal details up-to-date in TidyHQ.
+    * Your full name, email or address, and contact details - this is a legal requirement
+    * Emergency contact details
 * The Rules - [Constitution](/constitution) & [By-Laws](/committeerulings)
-* [The Committee](/docs/committee/home)
+* We're a fully volunteer organisation run by a [committee](/docs/committee/home).
+    * You can contact the committee at any time via Slack or email - committee@artifactory.org.au.
 * The Perth Artifactory [Emergency Plan is available for viewing here](https://wiki.artifactory.org.au/lib/exe/fetch.php?media=events:artifactory_emergency_plan_-_june_2019.png) in addition to those displayed in every single room of the Artifactory. It shows the location of the first aid kits, Fire extinguishers/hose, switchboard, muster point and escape route.
 * Reporting injuries (or near misses) helps us keep everyone safe. Use [this form](https://cloud.artifactory.org.au/apps/forms/62rTWpZH4fr5di2H) to document the details while they're fresh in your mind.
 

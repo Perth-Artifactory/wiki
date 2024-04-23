@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-04-23T03:04:36.460Z
+date: 2024-04-23T03:06:35.806Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -111,7 +111,7 @@ Details:
 * Cleaning products: kitchen
 * Spray paint: filing cabinet in the back shed - unless labelled with someone's name.
 * Otherwise **check** with another member before you start using supplies. Many supplies belong to individual members.
-* If you find you are using a lot of a communal supply like superglue, turpentine, masking tape, etc, you should **buy more** for the Artifactory.
+* If you find you are using a lot of a communal supply like superglue, turpentine, masking tape, wood screws, etc, you should **buy more** for the Artifactory.
 
 ## Communications
 

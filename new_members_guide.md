@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-04-23T03:00:31.529Z
+date: 2024-04-23T03:04:36.460Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -23,8 +23,8 @@ Please take a few minutes to read this New Members Guide to orientate yourself w
     * You can contact the committee at any time via Slack or email - committee@artifactory.org.au.
     
 * Please keep your personal details up-to-date in TidyHQ.
-    * Your full name, email or address, and contact details - this is a legal requirement
-    * Emergency contact details   
+    * Your full name, email or address, and contact details - this is a legal requirement.
+    * Emergency contact details.
 
 * [Training](/docs/policies/training)
     * Training is needed to use many of the tools in the space.

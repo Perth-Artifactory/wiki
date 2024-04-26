@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-04-26T13:13:42.740Z
+date: 2024-04-26T13:15:10.368Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -126,6 +126,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
   
 </details>
 
+* Remove the lid if printing PLA on the Bambu Labs P1S
 * Start the print
 * Monitor the first layer for plate adhesion
 * Periodically check in on your print while in the workshop

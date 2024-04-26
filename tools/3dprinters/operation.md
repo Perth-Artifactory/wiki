@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-04-26T09:25:34.348Z
+date: 2024-04-26T11:30:15.220Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -169,4 +169,4 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
   
 </details>
 
-* Ensure the build plate and nozzle are clean for the next print
+* Ensure the build plate and nozzle are clean for the next print/user

@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-04-26T11:33:41.028Z
+date: 2024-04-26T13:13:42.740Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -75,6 +75,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
   
 </details>
 
+* Ensure that the printer is set up with the nozzle and bed you selected when setting up your print
 * Ensure there's no filament buildup on the nozzle
 * Ensure all filament has been removed from the build plate
 * Clean the build plate

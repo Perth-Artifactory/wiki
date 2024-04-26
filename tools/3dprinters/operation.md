@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-04-26T11:30:15.220Z
+date: 2024-04-26T11:33:41.028Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -30,7 +30,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 
 ## FDM / Filament
 
-* Determine the best configuration for your print in line with the [5 factors](/tools/3dprinters/5factors).
+* Determine the best configuration for your print in line with the [5 factors](/tools/3dprinters/factors).
 * Slice your print
 <details>
   <summary>Bambu Labs P1S</summary>

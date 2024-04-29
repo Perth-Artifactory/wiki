@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-04-29T09:15:06.414Z
+date: 2024-04-29T09:22:58.452Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -58,6 +58,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 </details>
 <details>
   <summary>Prusa Mk4</summary>
+  
   * Ensure that the **physical** printer `Mk4-1` TODO:printer name: is selected
   * Press TODO:button name:
   

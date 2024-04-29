@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-04-26T13:15:10.368Z
+date: 2024-04-29T09:15:06.414Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -123,6 +123,35 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 
   * If you used TODO:option name-unload: instead of TODO:option name-change: select Filament -> TODO:option name:
   * Follow the on screen instructions
+  
+</details>
+
+* Confirm that there is enough filament on the current spool for your job and take appropriate measures if not
+<details>
+  <summary>Bambu Labs P1S</summary>
+  
+  * Load a second spool of the same filament into another slot on the AMS
+  * Ensure that both spools are set to identical materials and colours
+  * Ensure "AMS filament backup" is enabled. It can be found under the AMS settings on the devices page of Bambu Studio
+  
+</details>
+<details>
+  <summary>Ender 3 V2 Neo</summary>
+  
+  * This printer is not capable of detecting when a spool runs out. If you think this might happen we suggest using a different printer.
+  
+</details>
+<details>
+  <summary>Prusa Mk4</summary>
+
+  * While this printer cannot automatically change to a second spool it will pause when it runs out of filament. When this happens simply load a second spool into the machine using the steps outlined above and resume the print.
+  
+</details>
+<details>
+  <summary>Prusa XL</summary>
+
+  * Load a roll of the same filament into an unused head
+  * After you've pressed print select the second spool and link it to the first material by selecting "Spool Join"
   
 </details>
 

@@ -2,7 +2,7 @@
 title: 3D Printers Subcommittee
 description: 
 published: true
-date: 2024-05-04T14:24:23.999Z
+date: 2024-05-04T14:31:17.734Z
 tags: official
 editor: markdown
 dateCreated: 2024-05-04T14:24:23.999Z
@@ -24,7 +24,7 @@ dateCreated: 2024-05-04T14:24:23.999Z
 
 ### Contact details
 
-The  Laser subcommittee can be contacted via the [#3d-printing](https://perthartifactory.slack.com/archives/CG05N75DZ) channel on Slack.
+The  3D Printers subcommittee can be contacted via the [#3d-printing](https://perthartifactory.slack.com/archives/CG05N75DZ) channel on Slack.
 
 
 ### Role

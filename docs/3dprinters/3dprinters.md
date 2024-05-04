@@ -2,7 +2,7 @@
 title: 3D Printers Subcommittee
 description: 
 published: true
-date: 2024-05-04T14:31:17.734Z
+date: 2024-05-04T14:33:20.791Z
 tags: official
 editor: markdown
 dateCreated: 2024-05-04T14:24:23.999Z
@@ -24,12 +24,11 @@ dateCreated: 2024-05-04T14:24:23.999Z
 
 ### Contact details
 
-The  3D Printers subcommittee can be contacted via the [#3d-printing](https://perthartifactory.slack.com/archives/CG05N75DZ) channel on Slack.
-
+The 3D Printers subcommittee can be contacted via the [#3d-printing](https://perthartifactory.slack.com/archives/CG05N75DZ) channel on Slack. Decisions are made via [Loomio](https://vote.artifactory.org.au/af-3d-printing/)
 
 ### Role
 
-The Perth Artifactory has a range of 3D printers. The 3d Printers Subcommittee is responsible for maintaining these in good working condition. To do this, it determines access and training requirements, and organises routine and corrective maintenance.
+The Perth Artifactory has a range of [3D printers](https://wiki.artifactory.org.au/en/tools/3dprinters). The 3d Printers Subcommittee is responsible for maintaining these in good working condition. To do this, it determines access and training requirements, and organises routine and corrective maintenance.
 
 ### Terms of Reference
 

@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-04-29T09:22:58.452Z
+date: 2024-05-13T06:16:41.905Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -45,7 +45,10 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 <details>
   <summary>Bambu Labs P1S</summary>
   
-  * Select TODO:button name
+  * Select *Print plate*/*Send*
+  * Ensure AMS mapping has been successful
+  * Check/uncheck *Bed Levelling* as appropriate
+  * Press *Send*
   
 </details>
 <details>
@@ -53,14 +56,14 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
   
   * Take the Micro SD card from the front left of the machine and plug it into the card reader attached to the slicing PC
   * Press the TODO:button name: button within PrusaSlicer and specify a filename
-  * Reinsert the Micro SD card in the printer, TODO:printer reboot?:
+  * Reinsert the Micro SD card in the printer
   
 </details>
 <details>
   <summary>Prusa Mk4</summary>
   
-  * Ensure that the **physical** printer `Mk4-1` TODO:printer name: is selected
-  * Press TODO:button name:
+  * Ensure that the **physical** printer ```Artifactory-Mk4-1` is selected
+  * Press *Send to printer* in the bottom right
   
 </details>
 <details>
@@ -71,8 +74,8 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 
   
   * Take the USB Drive from the right hand side of the printer control panel and plug it into the slicing PC
-  * Press the TODO:button name: button within PrusaSlicer and specify a filename
-  * Reinsert the USB Drive into the printer. There is no need to restart the printer.
+  * Press the *Export to SD card/Flash drive* button within PrusaSlicer and specify a filename
+  * Reinsert the USB Drive into the printer.
   
 </details>
 
@@ -98,7 +101,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 <details>
   <summary>Prusa Mk4, Prusa XL</summary>
 
-  * Select Filament -> TODO:option name:
+  * Select *Filament* -> *Change Filament*
   * Follow the on screen instructions
   
 </details>
@@ -108,7 +111,6 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
   <summary>Bambu Labs P1S</summary>
   
   * Place the filament into the AMS
-  * Push the grey tab away from you to back off the feeder
   * Push the filament into the feeder (aprox 100mm) and release the grey tab 
   * You've completed this step correctly if the AMS pulls the filament deeper into the machine
   
@@ -122,7 +124,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 <details>
   <summary>Prusa Mk4, Prusa XL</summary>
 
-  * If you used TODO:option name-unload: instead of TODO:option name-change: select Filament -> TODO:option name:
+  * If you used *Unload filament* instead of *Change filament select Filament -> *Change filament*
   * Follow the on screen instructions
   
 </details>
@@ -185,18 +187,18 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 <details>
   <summary>Prusa Mk4</summary>
 
-  * Lift the build plate off the bed by TODO:tabs:
+  * Lift the build plate off the bed by two front tabs
   * Lightly flex the bed to remove your part
-  * Reseat the build plate by TODO:seat markers:
+  * Reseat the build plate by seating the back slot with the two pins on the back of the bed
   
 </details>
 <details>
   <summary>Prusa XL</summary>
 
-  * Go to TODO:park head:
+  * Go to *Control* -> *Pick/Park Tool*
   * Lift the build plate off the bed by the two tabs at the front
   * Lightly flex the bed to remove your part
-  * Align the protrusion at the back of the plate with the two silver pins at the back center of the machine
+  * Reseat the build plate by seating the back slot with the two pins on the back of the bed
   * Bend the build plate gently and lower back down onto the machine starting from the back
   
 </details>

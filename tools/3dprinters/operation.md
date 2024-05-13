@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-05-13T06:21:20.328Z
+date: 2024-05-13T06:53:25.239Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -55,7 +55,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
   <summary>Ender 3 V2 Neo</summary>
   
   * Take the Micro SD card from the front left of the machine and plug it into the card reader attached to the slicing PC
-  * Press the TODO:button name: button within PrusaSlicer and specify a filename
+  * Press the *Export to SD card/Flash drive* button within PrusaSlicer and specify a filename
   * Reinsert the Micro SD card in the printer
   
 </details>
@@ -95,7 +95,12 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 <details>
   <summary>Ender 3 V2 Neo</summary>
   
-  * TODO
+  >   Be gentle! One of our trainers will show you how much force to use
+{.is-info}
+  
+  * Set the nozzle temperature to 250C
+  * Wait for the nozzle to hit 250C
+  * De-tension the extruder and remove the filament
   
 </details>
 <details>
@@ -118,7 +123,13 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 <details>
   <summary>Ender 3 V2 Neo</summary>
   
-  * TODO
+>   Be gentle! One of our trainers will show you how much force to use
+{.is-info}
+  
+  * Set the nozzle temperature to 250C
+  * Wait for the nozzle to hit 250C
+  * De-tension the extruder and push the filament through all the way through the filament path to the nozzle.
+  * Keep pushing until the filament coming out of the nozzle is the correct colour.
   
 </details>
 <details>
@@ -179,7 +190,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 <details>
   <summary>Ender 3 V2 Neo</summary>
   
-  * Lift the build plate off the bed by TODO:tabs:
+  * Lift the build plate off the bed using the two tabs at the front
   * Lightly flex the bed to remove your part
   * Reseat the build plate on the printer. There are no assistive pins/markers for this.
   

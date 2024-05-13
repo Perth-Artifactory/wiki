@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-05-13T06:16:41.905Z
+date: 2024-05-13T06:19:23.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -62,7 +62,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 <details>
   <summary>Prusa Mk4</summary>
   
-  * Ensure that the **physical** printer ```Artifactory-Mk4-1` is selected
+  * Ensure that the **physical** printer `Artifactory-Mk4-1` is selected
   * Press *Send to printer* in the bottom right
   
 </details>

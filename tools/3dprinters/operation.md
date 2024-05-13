@@ -2,7 +2,7 @@
 title: 3D Printer Operation Guide
 description: 
 published: true
-date: 2024-05-13T06:19:23.330Z
+date: 2024-05-13T06:21:20.328Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -124,7 +124,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 <details>
   <summary>Prusa Mk4, Prusa XL</summary>
 
-  * If you used *Unload filament* instead of *Change filament select Filament -> *Change filament*
+  * If you used *Unload filament* instead of *Change filament* select Filament -> *Change filament*
   * Follow the on screen instructions
   
 </details>

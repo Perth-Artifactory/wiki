@@ -2,7 +2,7 @@
 title: Tablesaw
 description: DeWalt DWE7491-XE 2000W 254mm (10") Table Saw
 published: true
-date: 2024-05-13T15:33:43.619Z
+date: 2024-05-13T15:54:32.713Z
 tags: tools, woodworking, todo
 editor: markdown
 dateCreated: 2022-10-17T17:02:14.571Z
@@ -15,7 +15,8 @@ You will need a helper to use the table saw with large pieces of material.
   
 **Important Note**: If you are using anything more than the included spanner to replace the blade, you have gone too far, stop and ask for help.
 
-<img src=/tools/dewalt_table_saw_dwe7491-xe-1.webp alt="DeWalt DWE7491-XE Table Saw" width="400"/>
+![DeWalt DWE7491-XE Table Saw](/tools/dewalt_table_saw_dwe7491-xe-1.webp =412x300)
+
 
 ## Approved Users
 

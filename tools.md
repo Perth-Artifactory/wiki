@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-14T14:41:09.061Z
+date: 2024-05-14T14:43:46.908Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -118,16 +118,21 @@ Most of all, be safe, have fun and build something amazing!
 		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
   ](/tools/other/lightbox)
 
-## 3D Printing
+## Laser Cutters
 - [Badge Maker
 		![photo-lightbox.png](/tools/badge-maker.png =80x)](/tools/other/badge-maker)
+## Machine Room
+- [Photo Lightbox
+		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
+  ](/tools/other/lightbox)
 
+## Courtyard
 - [Craft Supplies / Consumables](/craft-supply-boxes)
 
 - Knitting & Crocheting
 
 - Sewing
-
+## Back Shed
 - [Sewing Machine
 		![brother-ns50.png](/other/brother-ns50.png =x70)](/tools/other/brother-ns50)
 

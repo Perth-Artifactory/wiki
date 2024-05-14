@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-14T14:43:46.908Z
+date: 2024-05-14T14:45:41.516Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -122,6 +122,16 @@ Most of all, be safe, have fun and build something amazing!
 - [Badge Maker
 		![photo-lightbox.png](/tools/badge-maker.png =80x)](/tools/other/badge-maker)
 ## Machine Room
+- [Photo Lightbox
+		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
+  ](/tools/other/lightbox)
+  
+## Power Tools
+- [Photo Lightbox
+		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
+  ](/tools/other/lightbox)
+  
+## Hand Tools
 - [Photo Lightbox
 		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
   ](/tools/other/lightbox)

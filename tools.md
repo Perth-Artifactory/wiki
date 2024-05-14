@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-14T12:21:07.640Z
+date: 2024-05-14T14:26:15.033Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -11,11 +11,10 @@ dateCreated: 2024-05-14T12:21:07.640Z
 # Tool Overview
 The Perth Artifactory has a huge range of tools available for your use in a wide variety of disciplines. Tools range from a simple hammer to a Laser Cutter and Metal Lathe. 
 
-With such a wide range of capability, it is critical that you check out the [Training Guide](/docs/policies/training) ***before*** you start to use any of the tools. You can also review which tools you've been inducted on and are approved to use with the 
+Some tools carry a significant risk of injury if used incorrectly, so it's critical that you check out the [Training Guide](/docs/policies/training) ***before*** you start to use any of the tools. You can also review which tools you are approved to use with the [Training Tracker on Slack](https://perthartifactory.slack.com/archives/D06Q10XUCSE).
 
-
-We have a large range of tools available for members to use. All tools are free to use by members, with the exception of 3D printers, our laser cutter, & cnc router which have a small hourly charge to account for consumable use & maintenance.
-
+Some tools have a [small fee](/fees) for use to offset the tool operating costs. Members of Artifactory get discounted rates, so it's another great [reason to join](https://artifactory.org.au/pricing).
+ 
 Due to safety concerns, most tools require training or supervision to use. This process is explained in our [Tool Inductions](/policies/inductions) policy. **Before using any tool for the first time, you must read it's wiki page.** Make sure you understand how to use it, and ensure you are inducted if required.
 
 All tools are available on a first come, first serve basis. Most of the time the tool you want to use will be available, but if someone else is already using it, you are expected to share as per our [fair use policy](https://wiki.brisbanemaker.space/policies/fair-use#tool-sharing). All tools must remain on site and cannot be borrowed for any reason.

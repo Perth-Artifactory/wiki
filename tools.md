@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-14T14:37:33.933Z
+date: 2024-05-14T14:41:09.061Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -21,7 +21,7 @@ Even if you've used a tool before, it's a great idea to check out the tools wiki
 
 Most of all, be safe, have fun and build something amazing!
 
-## Digital Fabrication
+## Design Lab
 - [iMac Computers
 		![imac.png](/digitalfabrication/imac.png =x80)
 	](/tools/digifab/imacs)
@@ -62,7 +62,7 @@ Most of all, be safe, have fun and build something amazing!
 		![cricut.png](/digitalfabrication/cricut.png =x60)
 	](/tools/digifab/cricut)
 
-## Electronics
+## Rehearsal Room
 - [Induction Soldering Iron
 		![solder_station.png](/electronics/induction.png =x70)
 	](/tools/electronics/induction-soldering-iron)
@@ -95,7 +95,7 @@ Most of all, be safe, have fun and build something amazing!
 		![wire.png](/electronics/wire.png =x60)
 	](/tools/electronics/consumables)
   
-## Other Electronic Equipment
+## Electronics & 3D Printing
 - [A4 Colour Printing (Laser and Inkjet)
 		![a4-printer.png](/other/a4-printer.png =60x)
 	](/tools/other/printing)
@@ -118,7 +118,7 @@ Most of all, be safe, have fun and build something amazing!
 		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
   ](/tools/other/lightbox)
 
-## Craft
+## 3D Printing
 - [Badge Maker
 		![photo-lightbox.png](/tools/badge-maker.png =80x)](/tools/other/badge-maker)
 

@@ -2,7 +2,7 @@
 title: Filament report
 description: 
 published: true
-date: 2024-05-03T12:48:12.214Z
+date: 2024-05-15T03:42:04.493Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T08:12:17.216Z
@@ -134,3 +134,39 @@ dateCreated: 2024-05-01T08:12:17.216Z
 | Name                  |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
 |:----------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
 | [Black (Siddament)]() |        1 | 0g           | 0g                | <span style="color:#000000">■</span> | Tier 0 | ❌         |
+
+
+
+
+| Filament                                                                                                     | Weight Left   | Tier   | Spool cost   |
+|:-------------------------------------------------------------------------------------------------------------|:--------------|:-------|:-------------|
+| [Black - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-black-pla-1-75mm-1kg)              | 0             | 1      | $17.99       |
+| [Silver - PLA (Matte) (Siddament)](https://siddament.com.au/products/silver-pla-1-75mm-1kg)                  | 0             | 1      | $17.99       |
+| [Yellow - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-yellow-pla-1-75mm-1kg)            | 0             | 1      | $17.99       |
+| [Cyan - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-cyan-pla)                           | 0             | 1      | $17.99       |
+| [Brown - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-gold-pla)                          | 0             | 1      | $17.99       |
+| [Charcoal Black - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-charcoal-black-pla)       | 0             | 1      | $19.99       |
+| [Ash Grey - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-ash-grey-pla)                   | 0             | 1      | $19.99       |
+| [Fossil Grey - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-fossil-grey-pla)             | 0             | 1      | $19.99       |
+| [Muted White - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-muted-white-pla)             | 0             | 1      | $19.99       |
+| [Cotton White - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-cotton-white-pla)           | 0             | 1      | $19.99       |
+| [Army Blue - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-army-blue-pla)                 | 0             | 1      | $19.99       |
+| [Saphire Blue - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-saphire-blue-pla)           | 0             | 1      | $19.99       |
+| [Arctic Teal - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-arctic-teal-pla)             | 0             | 1      | $19.99       |
+| [Lavender Purple - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-lavender-purple-pla)     | 0             | 1      | $19.99       |
+| [Sakura Pink - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-sakura-pink-pla)             | 0             | 1      | $19.99       |
+| [Army Red - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-army-red-pla)                   | 0             | 1      | $19.99       |
+| [Lava Red - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-lava-red-pla)                   | 0             | 1      | $19.99       |
+| [Sunrise Orange - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-sunrise-orange-pla)       | 0             | 1      | $19.99       |
+| [Army Dark Green - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-army-dark-green-pla)     | 0             | 1      | $19.99       |
+| [Forest Green - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-forest-green-pla)           | 0             | 1      | $19.99       |
+| [Pastel Mint - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-pastel-mint-pla)             | 0             | 1      | $19.99       |
+| [Lime Green - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-lime-green-pla)               | 0             | 1      | $19.99       |
+| [Earth Brown - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-earth-brown-pla)             | 0             | 1      | $19.99       |
+| [Pastel Peanut - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-pastel-peanut-pla)         | 0             | 1      | $19.99       |
+| [Army Beige - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-army-beige-pla)               | 0             | 1      | $19.99       |
+| [Savannah Yellow - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-savannah-yellow-pla)     | 0             | 1      | $19.99       |
+| [Black - PETG (Siddament)](https://siddament.com.au/products/black-petg-1-75mm-1kg)                          | 0             | 0      | $16.99       |
+| [Grey - PETG (Siddament)](https://siddament.com.au/products/grey-petg-1-75mm-1kg)                            | 0             | 0      | $16.99       |
+| [Black TPU - TPU (Siddament)](https://siddament.com.au/products/black-tpu-1-75mm-1kg)                        | 0             | 0      | $24.99       |
+| [Black - ASA (Siddament)](https://siddament.com.au/products/black-asa-1-75mm-1kg)                            | 0             | 0      | $24.99       |

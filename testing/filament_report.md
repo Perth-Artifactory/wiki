@@ -2,7 +2,7 @@
 title: Filament report
 description: 
 published: true
-date: 2024-05-15T03:42:04.493Z
+date: 2024-05-16T04:28:40.833Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-01T08:12:17.216Z
@@ -10,8 +10,8 @@ dateCreated: 2024-05-01T08:12:17.216Z
 
 ## PLA
 
-* Spools: 15
-* Total weight: 11.41kg
+* Spools: 18
+* Total weight: 14.41kg
 
 | Name                                                                                                      |   Spools | Total left   | Individual left   | Colour                                 | Tier   | Stocked   |
 |:----------------------------------------------------------------------------------------------------------|---------:|:-------------|:------------------|:---------------------------------------|:-------|:----------|
@@ -19,17 +19,20 @@ dateCreated: 2024-05-01T08:12:17.216Z
 | [Orange (Bambu Labs)](https://au.store.bambulab.com/products/pla-basic-filament)                          |        1 | 700g         | 700g              | <span style="color:#FF6A13">■</span>   | Tier 1 | ❌         |
 | [Translucence Red (HobbyKing)](https://hobbyking.com/en_us/pla-3d-printer-filament-bright-red.html)       |        1 | 950g         | 950g              | <span style="color:#E40A1B">■</span>   | Tier 1 | ❌         |
 | [Orange (Cocoon Create)]()                                                                                |        1 | 450g         | 450g              | <span style="color:#BB6227">■</span>   | Tier 1 | ❌         |
-| [Glow Green PLA (Siddament)](https://siddament.com.au/products/glow-green-pla)                            |        1 | 920g         | 920g              | <span style="color:#84FF00">■</span>   | Tier 0 | ❌         |
+| [Glow Green PLA (Siddament)](https://siddament.com.au/products/glow-green-pla)                            |        1 | 920g         | 920g              | <span style="color:#84FF00">■</span>   | Tier 2 | ❌         |
 | [Solid Orange (3DFillies)]()                                                                              |        1 | 700g         | 700g              | <span style="color:#C45810">■</span>   | Tier 1 | ❌         |
 | [Galaxy Silver (Prusa)]()                                                                                 |        1 | 900g         | 900g              | <span style="color:#9F9B9B">■</span>   | Tier 2 | ❌         |
-| [Glow Blue PLA (Siddament)](https://siddament.com.au/products/glow-blue-pla)                              |        1 | 920g         | 920g              | <span style="color:#A0F1FF">■</span>   | Tier 0 | ❌         |
-| [Glow Yellow PLA (Siddament)](https://siddament.com.au/products/glow-yellow-pla)                          |        1 | 900g         | 900g              | <span style="color:#F5FF00">■</span>   | Tier 0 | ❌         |
+| [Glow Blue PLA (Siddament)](https://siddament.com.au/products/glow-blue-pla)                              |        1 | 920g         | 920g              | <span style="color:#A0F1FF">■</span>   | Tier 2 | ❌         |
+| [Glow Yellow PLA (Siddament)](https://siddament.com.au/products/glow-yellow-pla)                          |        1 | 900g         | 900g              | <span style="color:#F5FF00">■</span>   | Tier 2 | ❌         |
 | [Galaxy Black (Prusa)]()                                                                                  |        1 | 900g         | 900g              | <span style="color:#000000F7">■</span> | Tier 2 | ❌         |
 | [Translucence Yellow (HobbyKing)](https://hobbyking.com/en_us/pla-3d-printer-filament-bright-yellow.html) |        1 | 970g         | 970g              | <span style="color:#DFE40A">■</span>   | Tier 1 | ❌         |
 | [Vanilla White (Prusa)]()                                                                                 |        1 | 850g         | 850g              | <span style="color:#F0F9D0">■</span>   | Tier 2 | ❌         |
 | [Pineapple Yellow (Prusa)]()                                                                              |        1 | 900g         | 900g              | <span style="color:#E6DD06">■</span>   | Tier 2 | ❌         |
 | [Opal Green (Prusa)]()                                                                                    |        1 | 900g         | 900g              | <span style="color:#014628">■</span>   | Tier 2 | ❌         |
 | [Blue/Rose Silk (Shitament)]()                                                                            |        1 | 250g         | 250g              | <span style="color:#B737E6">■</span>   | Tier 2 | ❌         |
+| [Rainbow (OzFDM)](https://ozfdm.com.au/products/ozfdm-pla-rainbow-1-75mm-1kg)                             |        1 | 1.0kg        | 1.0kg             | <span style="color:#ffffff">■</span>   | Tier 2 | ❌         |
+| [Glow Orange PLA (Siddament)](https://siddament.com.au/products/glow-orange-pla)                          |        1 | 1.0kg        | 1.0kg             | <span style="color:#F7FF51">■</span>   | Tier 2 | ❌         |
+| [Glow Red PLA (Siddament)](https://siddament.com.au/products/glow-red-pla)                                |        1 | 1.0kg        | 1.0kg             | <span style="color:#EAB774">■</span>   | Tier 2 | ❌         |
 
 ## PLA Pro (Sparkle)
 
@@ -38,22 +41,26 @@ dateCreated: 2024-05-01T08:12:17.216Z
 
 | Name                                                                                   |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
 |:---------------------------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
-| [Galaxy Red (Siddament)](https://siddament.com.au/products/galaxy-red-pla-pro-sparkle) |        1 | 900g         | 900g              | <span style="color:#803A28">■</span> | Tier 0 | ❌         |
+| [Galaxy Red (Siddament)](https://siddament.com.au/products/galaxy-red-pla-pro-sparkle) |        1 | 900g         | 900g              | <span style="color:#803A28">■</span> | Tier 1 | ❌         |
 
 ## PLA (Dual-colour)
 
-* Spools: 9
-* Total weight: 8.83kg
+* Spools: 13
+* Total weight: 12.78kg
 
-| Name                                                                                     |   Spools | Total left   | Individual left                                       | Colour                               | Tier   | Stocked   |
-|:-----------------------------------------------------------------------------------------|---------:|:-------------|:------------------------------------------------------|:-------------------------------------|:-------|:----------|
-| [Black/Gold (InkStation)]()                                                              |        8 | 7.93kg       | 930g, 1.0kg, 1.0kg, 1.0kg, 1.0kg, 1.0kg, 1.0kg, 1.0kg | <span style="color:#EAC158">■</span> | Tier 2 | ❌         |
-| [Blue/Purple (Siddament)](https://siddament.com.au/products/dual-colour-pla-blue-purple) |        1 | 900g         | 900g                                                  | <span style="color:#FFFFFF">■</span> | Tier 0 | ❌         |
+| Name                                                                                                                                |   Spools | Total left   | Individual left                                       | Colour                               | Tier   | Stocked   |
+|:------------------------------------------------------------------------------------------------------------------------------------|---------:|:-------------|:------------------------------------------------------|:-------------------------------------|:-------|:----------|
+| [Black/Gold (InkStation)](https://www.inkstation.com.au/2102/pla-3d-filament-175mm-bicolour-black-gold-1kg-roll-p-24759.html#22553) |        8 | 7.93kg       | 930g, 1.0kg, 1.0kg, 1.0kg, 1.0kg, 1.0kg, 1.0kg, 1.0kg | <span style="color:#EAC158">■</span> | Tier 2 | ❌         |
+| [Blue/Purple (Siddament)](https://siddament.com.au/products/dual-colour-pla-blue-purple)                                            |        1 | 900g         | 900g                                                  | <span style="color:#FFFFFF">■</span> | Tier 2 | ❌         |
+| [Blue-Rose (OzFDM)](https://ozfdm.com.au/products/ozfdm-silk-fusion-pla-1-75mm-1kg?variant=46579744801050)                          |        1 | 950g         | 950g                                                  | <span style="color:#7C02FF">■</span> | Tier 2 | ❌         |
+| [Gold/Silver (Siddament)](https://siddament.com.au/products/dualcolour-pla-gold-silver-1-75mm-1kg)                                  |        1 | 1.0kg        | 1.0kg                                                 | <span style="color:#FFFFFF">■</span> | Tier 2 | ❌         |
+| [Blue/Silver (Siddament)](https://siddament.com.au/products/dual-colour-pla-blue-silver)                                            |        1 | 1.0kg        | 1.0kg                                                 | <span style="color:#FFFFFF">■</span> | Tier 2 | ❌         |
+| [Red/Blue (Siddament)](https://siddament.com.au/products/dualcolour-pla-rose-red-blue-1-75mm-1kg)                                   |        1 | 1.0kg        | 1.0kg                                                 | <span style="color:#FFFFFF">■</span> | Tier 2 | ❌         |
 
 ## PLA (Matte)
 
-* Spools: 14
-* Total weight: 11.5kg
+* Spools: 25
+* Total weight: 22.47kg
 
 | Name                                                                                         |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
 |:---------------------------------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
@@ -68,15 +75,28 @@ dateCreated: 2024-05-01T08:12:17.216Z
 | [Green (Siddament)](https://siddament.com.au/products/matte-green-pla-1-75mm-1kg)            |        1 | 900g         | 900g              | <span style="color:#E74C3C">■</span> | Tier 1 | ✅         |
 | [Red (Siddament)](https://siddament.com.au/products/matte-red-pla-1-75mm-1kg-1)              |        1 | 900g         | 900g              | <span style="color:#A5382C">■</span> | Tier 1 | ✅         |
 | [Purple (Siddament)](https://siddament.com.au/products/matte-purple-pla-1-75mm-1kg)          |        1 | 900g         | 900g              | <span style="color:#694482">■</span> | Tier 1 | ✅         |
+| [Turquoise (OzFDM)]()                                                                        |        1 | 970g         | 970g              | <span style="color:#26D7FF">■</span> | Tier 0 | ❌         |
+| [Pastel Peach (Siddament)](https://siddament.com.au/products/matte-pastel-peach-pla)         |        1 | 1.0kg        | 1.0kg             | <span style="color:#E3BD71">■</span> | Tier 1 | ✅         |
+| [Muted Red (Siddament)](https://siddament.com.au/products/matte-muted-red-pla)               |        1 | 1.0kg        | 1.0kg             | <span style="color:#C3490A">■</span> | Tier 1 | ✅         |
+| [Pastel Candy (Siddament)](https://siddament.com.au/products/matte-pastel-candy-pla)         |        1 | 1.0kg        | 1.0kg             | <span style="color:#D3BBCA">■</span> | Tier 1 | ✅         |
+| [Pastel Ice (Siddament)](https://siddament.com.au/products/matte-pastel-ice-pla)             |        1 | 1.0kg        | 1.0kg             | <span style="color:#A4C2D4">■</span> | Tier 1 | ✅         |
+| [Muted Blue (Siddament)](https://siddament.com.au/products/matte-muted-blue-pla)             |        1 | 1.0kg        | 1.0kg             | <span style="color:#596487">■</span> | Tier 1 | ✅         |
+| [Pastel Banana (Siddament)](https://siddament.com.au/products/matte-pastel-banana-pla)       |        1 | 1.0kg        | 1.0kg             | <span style="color:#F5CF6F">■</span> | Tier 1 | ✅         |
+| [Muted Green (Siddament)](https://siddament.com.au/products/matte-muted-green-pla)           |        1 | 1.0kg        | 1.0kg             | <span style="color:#656E5D">■</span> | Tier 1 | ✅         |
+| [Army Brown (Siddament)](https://siddament.com.au/products/matte-army-brown-pla)             |        1 | 1.0kg        | 1.0kg             | <span style="color:#6D6238">■</span> | Tier 1 | ✅         |
+| [Wood Brown (Siddament)](https://siddament.com.au/products/matte-wood-brown-pla)             |        1 | 1.0kg        | 1.0kg             | <span style="color:#AD7441">■</span> | Tier 1 | ✅         |
+| [Army Light Green (Siddament)](https://siddament.com.au/products/matte-army-light-green-pla) |        1 | 1.0kg        | 1.0kg             | <span style="color:#A78403">■</span> | Tier 1 | ✅         |
 
 ## PLA (Silk)
 
-* Spools: 1
-* Total weight: 300g
+* Spools: 3
+* Total weight: 2.3kg
 
-| Name                                                                  |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
-|:----------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
-| [Black (Siddament)](https://siddament.com.au/products/silk-black-pla) |        1 | 300g         | 300g              | <span style="color:#000203">■</span> | Tier 0 | ❌         |
+| Name                                                                    |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
+|:------------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
+| [Black (Siddament)](https://siddament.com.au/products/silk-black-pla)   |        1 | 300g         | 300g              | <span style="color:#000203">■</span> | Tier 1 | ❌         |
+| [Bronze (Siddament)](https://siddament.com.au/products/silk-bronze-pla) |        1 | 1.0kg        | 1.0kg             | <span style="color:#641501">■</span> | Tier 1 | ❌         |
+| [Chrome (Siddament)](https://siddament.com.au/products/silk-chrome-pla) |        1 | 1.0kg        | 1.0kg             | <span style="color:#384657">■</span> | Tier 1 | ❌         |
 
 ## PLA+
 
@@ -122,9 +142,9 @@ dateCreated: 2024-05-01T08:12:17.216Z
 * Spools: 1
 * Total weight: 990g
 
-| Name                                                                                       |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
-|:-------------------------------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
-| [V2 (Siddament)](https://siddament.com.au/products/p3d-asa-carbon-fiber-1-75mm-1kg-asa-cf) |        1 | 990g         | 990g              | <span style="color:#302D39">■</span> | Tier 0 | ❌         |
+| Name                                                                                               |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
+|:---------------------------------------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
+| [Black (V2) (Siddament)](https://siddament.com.au/products/p3d-asa-carbon-fiber-1-75mm-1kg-asa-cf) |        1 | 990g         | 990g              | <span style="color:#302D39">■</span> | Tier 0 | ❌         |
 
 ## ABS (GF)
 
@@ -135,38 +155,43 @@ dateCreated: 2024-05-01T08:12:17.216Z
 |:----------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
 | [Black (Siddament)]() |        1 | 0g           | 0g                | <span style="color:#000000">■</span> | Tier 0 | ❌         |
 
+## ABS
 
+* Spools: 8
+* Total weight: 8.0kg
 
+| Name                                                                                 |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
+|:-------------------------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
+| [Red (Siddament)](https://siddament.com.au/products/red-abs-1-75mm-1kg)              |        2 | 2.0kg        | 1.0kg, 1.0kg      | <span style="color:#83171D">■</span> | Tier 0 | ❌         |
+| [White (Siddament)](https://siddament.com.au/products/white-abs-1-75mm-1kg)          |        2 | 2.0kg        | 1.0kg, 1.0kg      | <span style="color:#F1F0EA">■</span> | Tier 0 | ❌         |
+| [Grey (Siddament)](https://siddament.com.au/products/grey-abs-1-75mm-1kg)            |        2 | 2.0kg        | 1.0kg, 1.0kg      | <span style="color:#C5C7C4">■</span> | Tier 0 | ❌         |
+| [Pastel Watermelon (Siddament)](https://siddament.com.au/products/pastel-watermelon) |        1 | 1.0kg        | 1.0kg             | <span style="color:#E93A3F">■</span> | Tier 0 | ❌         |
+| [Muted Purple (Siddament)](https://siddament.com.au/products/muted-purple-abs)       |        1 | 1.0kg        | 1.0kg             | <span style="color:#7C5577">■</span> | Tier 0 | ❌         |
 
-| Filament                                                                                                     | Weight Left   | Tier   | Spool cost   |
-|:-------------------------------------------------------------------------------------------------------------|:--------------|:-------|:-------------|
-| [Black - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-black-pla-1-75mm-1kg)              | 0             | 1      | $17.99       |
-| [Silver - PLA (Matte) (Siddament)](https://siddament.com.au/products/silver-pla-1-75mm-1kg)                  | 0             | 1      | $17.99       |
-| [Yellow - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-yellow-pla-1-75mm-1kg)            | 0             | 1      | $17.99       |
-| [Cyan - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-cyan-pla)                           | 0             | 1      | $17.99       |
-| [Brown - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-gold-pla)                          | 0             | 1      | $17.99       |
-| [Charcoal Black - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-charcoal-black-pla)       | 0             | 1      | $19.99       |
-| [Ash Grey - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-ash-grey-pla)                   | 0             | 1      | $19.99       |
-| [Fossil Grey - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-fossil-grey-pla)             | 0             | 1      | $19.99       |
-| [Muted White - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-muted-white-pla)             | 0             | 1      | $19.99       |
-| [Cotton White - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-cotton-white-pla)           | 0             | 1      | $19.99       |
-| [Army Blue - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-army-blue-pla)                 | 0             | 1      | $19.99       |
-| [Saphire Blue - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-saphire-blue-pla)           | 0             | 1      | $19.99       |
-| [Arctic Teal - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-arctic-teal-pla)             | 0             | 1      | $19.99       |
-| [Lavender Purple - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-lavender-purple-pla)     | 0             | 1      | $19.99       |
-| [Sakura Pink - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-sakura-pink-pla)             | 0             | 1      | $19.99       |
-| [Army Red - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-army-red-pla)                   | 0             | 1      | $19.99       |
-| [Lava Red - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-lava-red-pla)                   | 0             | 1      | $19.99       |
-| [Sunrise Orange - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-sunrise-orange-pla)       | 0             | 1      | $19.99       |
-| [Army Dark Green - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-army-dark-green-pla)     | 0             | 1      | $19.99       |
-| [Forest Green - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-forest-green-pla)           | 0             | 1      | $19.99       |
-| [Pastel Mint - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-pastel-mint-pla)             | 0             | 1      | $19.99       |
-| [Lime Green - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-lime-green-pla)               | 0             | 1      | $19.99       |
-| [Earth Brown - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-earth-brown-pla)             | 0             | 1      | $19.99       |
-| [Pastel Peanut - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-pastel-peanut-pla)         | 0             | 1      | $19.99       |
-| [Army Beige - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-army-beige-pla)               | 0             | 1      | $19.99       |
-| [Savannah Yellow - PLA (Matte) (Siddament)](https://siddament.com.au/products/matte-savannah-yellow-pla)     | 0             | 1      | $19.99       |
-| [Black - PETG (Siddament)](https://siddament.com.au/products/black-petg-1-75mm-1kg)                          | 0             | 0      | $16.99       |
-| [Grey - PETG (Siddament)](https://siddament.com.au/products/grey-petg-1-75mm-1kg)                            | 0             | 0      | $16.99       |
-| [Black TPU - TPU (Siddament)](https://siddament.com.au/products/black-tpu-1-75mm-1kg)                        | 0             | 0      | $24.99       |
-| [Black - ASA (Siddament)](https://siddament.com.au/products/black-asa-1-75mm-1kg)                            | 0             | 0      | $24.99       |
+## PLA (Tri-colour)
+
+* Spools: 1
+* Total weight: 1.0kg
+
+| Name                                                                                                            |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
+|:----------------------------------------------------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
+| [Gold/Silver/Copper (Siddament)](https://siddament.com.au/products/tricolour-pla-gold-silver-copper-1-75mm-1kg) |        1 | 1.0kg        | 1.0kg             | <span style="color:#FFFFFF">■</span> | Tier 0 | ❌         |
+
+## PETG
+
+* Spools: 4
+* Total weight: 4.0kg
+
+| Name                                                                          |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
+|:------------------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
+| [White (Siddament)](https://siddament.com.au/products/white-petg-1-75mm-1kg)  |        2 | 2.0kg        | 1.0kg, 1.0kg      | <span style="color:#F1F0EA">■</span> | Tier 0 | ✅         |
+| [Red (Siddament)](https://siddament.com.au/products/wine-red-petg-1-75mm-1kg) |        2 | 2.0kg        | 1.0kg, 1.0kg      | <span style="color:#BF3922">■</span> | Tier 0 | ✅         |
+
+## TPU
+
+* Spools: 1
+* Total weight: 1.0kg
+
+| Name                                                                                        |   Spools | Total left   | Individual left   | Colour                               | Tier   | Stocked   |
+|:--------------------------------------------------------------------------------------------|---------:|:-------------|:------------------|:-------------------------------------|:-------|:----------|
+| [Transparent TPU (Siddament)](https://siddament.com.au/products/transparent-tpu-1-75mm-1kg) |        1 | 1.0kg        | 1.0kg             | <span style="color:#FFFFFF">■</span> | Tier 0 | ✅         |

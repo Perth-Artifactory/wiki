@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2024-05-16T16:39:58.849Z
+date: 2024-05-16T16:40:29.473Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -42,6 +42,10 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | [Prusa XL-5T](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) | ✔️ Operational          | 360x360x360  |
 
 ### Filament compatibility
+
+> This section is still a work in progress!
+{.is-warning}
+
 
 |                              | P1S | Ender 3 | Mk4 | XL-5T |
 | ---------------------------- | --- | ------- | --- | ----- |

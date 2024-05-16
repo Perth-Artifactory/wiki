@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2024-05-16T16:40:29.473Z
+date: 2024-05-16T16:46:58.042Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -60,9 +60,9 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | HTPLA (CF)                   | ✅ | ❌ | ✅❌💨 | ✅❌💨 |
 | HTPLA (Metal Composite)      | ✅ | ❌ | ✅❌💨 | ✅❌💨 |
 | Nylon                        | 💨 | ❌ | ✅❌💨 | ✅❌💨 |
-| Nylon-CF                     | 💨 | ❌ | ✅❌💨 | ✅❌💨 |
+| Nylon (CF)                   | 💨 | ❌ | ✅❌💨 | ✅❌💨 |
 | PC-ABS (Sparkle)             | 💨 | ❌ | ✅❌💨 | ✅❌💨 |
-| PC-CF                        | 💨 | ❌ | ✅❌💨 | ✅❌💨 |
+| PC (CF)                      | 💨 | ❌ | ✅❌💨 | ✅❌💨 |
 | PETG                         | ✅ | ✅ | ✅❌💨 | ✅❌💨 |
 | PETG (CF)                    | ✅ | ❌ | ✅❌💨 | ✅❌💨 |
 | PETG (Matte)                 | ✅ | ✅ | ✅❌💨 | ✅❌💨 |

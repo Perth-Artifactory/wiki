@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T13:53:55.064Z
+date: 2024-05-17T14:42:42.547Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -43,11 +43,9 @@ Then for bonus points, add some electronic wizardry - all possible in the 3D pri
 
 ### Resin Printers
 
-[Anycubic Mono X]
 
-Our resin printers are primarily sliced using [Chitubox](https://www.chitubox.com/en)
 
-| Resin Printers      | Tool Image                                                              | Artifactory Guide            | Manufacturer                          | User Guide                                                    |
+| Model               | Tool Image                                                              | Artifactory Guide            | Manufacturer                          | User Guide                                                    |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Anycubic Mono X     | ![photonmonox_1.webp](/tools/images/photonmonox_1.webp =200x200)    | [:mag_right:](/tools/3dprinters) | [:factory:](https://bit.ly/3WLyEBH)   | [:book:](/tools/manuals/anycubic_photon_test.pdf)             |
 | Creality LD-002R    | ![crealty_ld-002r.jpg](/tools/images/crealty_ld-002r.jpg =200x200)  | [:mag_right:](/tools/3dprinters) | [:factory:](https://bit.ly/3WKxmH1)   | [:book:](/tools/manuals/crealty_ld-002r-3d-printer-manual.pdf)|

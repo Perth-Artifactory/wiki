@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-14T14:58:02.270Z
+date: 2024-05-17T11:13:04.201Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -11,17 +11,19 @@ dateCreated: 2024-05-14T12:21:07.640Z
 # Tool Overview
 The Perth Artifactory has a huge range of tools available for your use in a wide variety of disciplines. Tools range from a simple hammer to a Laser Cutter and Metal Lathe. 
 
-Some tools carry a significant risk of injury if used incorrectly (lost fingers or death), so it's critical that you check out the [Training Guide](/docs/policies/training) ***before*** you start to use any of the tools. 
+Some tools carry a significant risk of injury if used incorrectly (lost fingers or death), so you MUST check out the [Training Guide](/docs/policies/training) ***before*** you start to use any of the tools. Many of the tools also require an induction prior to use for your safety and to ensure the tools remain operational for all. 
 
 You can also review which tools you are approved to use with the [Training Tracker on Slack](https://perthartifactory.slack.com/archives/D06Q10XUCSE).
 
 Some tools have a [small fee](/docs/policies/fees) for use to offset the tool operating costs. Members of Artifactory get discounted rates, so it's another great [reason to join](https://artifactory.org.au/pricing).
  
-Even if you've used a tool before, it's a great idea to check out the tools wiki page below. Like everything at Artifactory, being reasonable is key. Tools are shared resources, so consider your fellow members if you are going to use it for a long time. Tools must be kept on site and in the event that something breaks (even if you accidentally broke it), please let one of the admins know so it can be repaired.
+We get it! We can't wait to dive into a project either, but even if you've used a tool before, it's a great idea to check out the guide for each specific tool. Don't forget, like most things at Artifactory, be reasonable. Tools are shared resources, so consider your fellow members if you are going to use it for a long time. Tools must be kept on site and in the event that something breaks (even if you accidentally broke it), please let one of the admins know so it can be repaired.
 
-Most of all, be safe, have fun and build something amazing!
+Most of all, be safe, have fun and share when you build something amazing!
 
 ## Design Lab
+
+
 - [iMac Computers
 		![imac.png](/digitalfabrication/imac.png =x80)
 	](/tools/digifab/imacs)

@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-01-28T06:29:05.336Z
+date: 2024-05-17T01:57:28.958Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -274,9 +274,9 @@ Using:
 After:
 1. 
 
-## Thicknesser 
+## Drum Sander  
 
-Lead: XXX
+Lead: Renae
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -304,3 +304,47 @@ Using:
 
 After:
 1. 
+
+  | Y | Falling swarf/piece |
+
+| Safety boots                   | M | Falling heavy piece |
+
+| Mask/Respirator (dust)         | M | P2 If material is toxic (MDF etc) |
+
+Pre:
+
+1. Use proper bit for material and ensure appropriate sharpness
+
+1. Ensure chuck is tight and key is back in holder
+
+1. Unlock table
+
+1. Set table to appropriate height based on bit length, material thickness, and depth of hole
+
+1. Confirm table is positioned so that bit will not interact when extended
+
+1. Lock table
+
+1. Consider pilot hole
+
+1. Clamp down material securely
+
+Using:
+
+1. Position yourself for leverage and control (consider which handle you should hold
+
+1. Keep hands clear of the bit
+
+1. Don't force the bit into the material
+
+1. Clear chips often
+
+1. Do not move material while in contact with bit
+
+After:
+
+1. Remove bit from machine (may be hot)
+
+1. Reset table to appropriate height for general use
+
+1. Vacuuming includes: table, table chanels, floor

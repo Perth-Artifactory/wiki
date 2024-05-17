@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T11:49:10.893Z
+date: 2024-05-17T11:59:43.143Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -29,47 +29,10 @@ The design lab is generally used for work design work that requires a computer. 
 - *Computer Placeholders*
 - *Computer Placeholders*
 
-- [iMac Computers
-		![imac.png](/digitalfabrication/imac.png =x80)
-	](/tools/digifab/imacs)
-  
-- [Laser Cutter (700x500 area)
-		![laser.png](/digitalfabrication/laser.png =60x)
-	](/tools/digifab/lasercutter)
-
-- [CNC Router (1200x750 area)
-		![laser.png](/digitalfabrication/cnc-xs.png =70x)
-	](/tools/digifab/cncrouter)
-
-- [3D Printer 1 (Flashforge Adventurer 3)
-		![adventurer_3.png](/digitalfabrication/adventurer_3.png =x60)
-  ](/tools/digifab/adventurer3)
-
-- [3D Printer 2 (Flashforge Adventurer 4)
-		![adventurer_4.png](/digitalfabrication/adventurer_4.png =x60)
-  ](/tools/digifab/adventurer4)
-
-- [3D Printer 3 (Flashforge Creator 3)
-		![creator3.png](/digitalfabrication/creator3.png =x60)
-  ](/tools/digifab/creator3)
-  
-- [Resin 3D Printer 1 (Elegoo Mars 2 Pro)
-  	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
-  ](/tools/digifab/elegoomars2pro)
-    
-- [Resin 3D Printer 2 (Creality LD-003) (NOT FUNCTIONAL - being setup currently)
-  	![creality_ld-003.png](/digitalfabrication/creality_ld-003.png =60x)
-  ](/tools/digifab/crealityld003)
-  
-- [3D Scanner
-		![pop2-3d-scanner.png](/digitalfabrication/revopoint-pop-2.png =x80)
-  ](/tools/digifab/revopointpop2)
-
-- [Cricut
-		![cricut.png](/digitalfabrication/cricut.png =x60)
-	](/tools/digifab/cricut)
 
 ## Rehearsal Room
+Planning on becoming the next AC/DC? They didn't just drink all day and smash out the concert. They rehearsed too (I guess?). You too can rehearse for a [low session fee] (/docs/policies/fees) or for free if you have a [Band Membership](/docs/policies/classes_of_membership)!
+
 - [Induction Soldering Iron
 		![solder_station.png](/electronics/induction.png =x70)
 	](/tools/electronics/induction-soldering-iron)
@@ -222,6 +185,47 @@ We are in the process of setting up a proper induction process so stay tuned!
 	](/tools/woodworking/benchgrinder)
 
 ## Other Tools
+
+
+- [iMac Computers
+		![imac.png](/digitalfabrication/imac.png =x80)
+	](/tools/digifab/imacs)
+  
+- [Laser Cutter (700x500 area)
+		![laser.png](/digitalfabrication/laser.png =60x)
+	](/tools/digifab/lasercutter)
+
+- [CNC Router (1200x750 area)
+		![laser.png](/digitalfabrication/cnc-xs.png =70x)
+	](/tools/digifab/cncrouter)
+
+- [3D Printer 1 (Flashforge Adventurer 3)
+		![adventurer_3.png](/digitalfabrication/adventurer_3.png =x60)
+  ](/tools/digifab/adventurer3)
+
+- [3D Printer 2 (Flashforge Adventurer 4)
+		![adventurer_4.png](/digitalfabrication/adventurer_4.png =x60)
+  ](/tools/digifab/adventurer4)
+
+- [3D Printer 3 (Flashforge Creator 3)
+		![creator3.png](/digitalfabrication/creator3.png =x60)
+  ](/tools/digifab/creator3)
+  
+- [Resin 3D Printer 1 (Elegoo Mars 2 Pro)
+  	![mars_2_pro.png](/digitalfabrication/mars_2_pro.png =40x)
+  ](/tools/digifab/elegoomars2pro)
+    
+- [Resin 3D Printer 2 (Creality LD-003) (NOT FUNCTIONAL - being setup currently)
+  	![creality_ld-003.png](/digitalfabrication/creality_ld-003.png =60x)
+  ](/tools/digifab/crealityld003)
+  
+- [3D Scanner
+		![pop2-3d-scanner.png](/digitalfabrication/revopoint-pop-2.png =x80)
+  ](/tools/digifab/revopointpop2)
+
+- [Cricut
+		![cricut.png](/digitalfabrication/cricut.png =x60)
+	](/tools/digifab/cricut)
 - [Hand Tools
 		![hammer.png](/other/hand-tools/hammer.png =x60)
   ](/tools/other/hand-tools)

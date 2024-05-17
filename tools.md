@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T16:19:22.737Z
+date: 2024-05-17T16:34:32.652Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -67,45 +67,45 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 
 ## Laser Cutters
 
-| Tool | Model | Tool Image | Artifactory Guide | OEM Website | OEM Manual |
-| ---- | ----- | ---------- | ----------------- | ----------- | ---------- |
-| Big Red | G.Weike LC1290 | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | [:mag_right:](/tools/lasers) | [:link:](https://www.gwklaser.com/) | N/A |
-| Middle Red | KH7050 | ![middle_red_photo.jpg](/tools/lasers/middle_red_photo.jpg =200x) | [:mag_right:](/tools/lasers) | | N/A |
+| Tool | Model | Tool Image | Where to find it | Artifactory Guide | OEM Website | OEM Manual |
+| ---- | ----- | ---------- | ---------------- | ----------------- | ----------- | ---------- |
+| 🔴 Big Red | G.Weike LC1290 | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | Lasers area | [:mag_right:](/tools/lasers) | [:link:](https://www.gwklaser.com/) | N/A |
+| 🔴 Middle Red | KH7050 | ![middle_red_photo.jpg](/tools/lasers/middle_red_photo.jpg =200x) | Lasers area | [:mag_right:](/tools/lasers) | | N/A |
 
 ## Machine Room
 
-| Tool | Model | Tool Image | Artifactory Guide | OEM Website | OEM Manual |
-| ---- | ----- | ---------- | ----------------- | ----------- | ---------- |
-| **General** | | | | | |
-| Drill Press | a | b | c | d | e |
-| **Woodworking** | | | | | |
-| Bandsaw (Wood) | a | b | c | d | e |
-| Wood Lathe #1 | a | b | c | d | e |
-| Wood Lathe #2 | a | b | c | d | e |
-| CNC Router | "Swarf-o-mat" | b | c | d | e |
-| Sander (Fixed Belt) | a | b | c | d | e |
-| Sander (Spindle) | a | b | c | d | e |
-| Saw (Mitre) | a | b | c | d | e |
-| **Metalworking** | | | | | |
-| Bench Grinder | a | b | c | d | e |
+| Tool | Model | Tool Image | Where to find it | Artifactory Guide | OEM Website | OEM Manual |
+| ---- | ----- | ---------- | ---------------- | ----------------- | ----------- | ---------- |
+| **General** | | | | | | f |
+| 🟡 Drill Press | a | b | Machine Room | d | e | f |
+| **Woodworking** | | | | | | f |
+| 🟡 Bandsaw (Wood) | a | b | Machine Room | d | e | f |
+| 🔴 Wood Lathe | Jepson | b | Machine Room | d | e | f |
+| 🔴 Wood Lathe | The other one | b | Machine Room | d | e | f |
+| 🔴 CNC Router | "Swarf-o-mat" | b | Machine Room | d | e | f |
+| 🟡 Sander (Fixed Belt) | a | b | Machine Room | d | e | f |
+| 🟡 Sander (Spindle) | a | b | Machine Room | d | e | f |
+| 🟡 Saw (Mitre) | a | b | Machine Room | d | e | f |
+| **Metalworking** | | | | | | f |
+| 🟡 Bench Grinder | a | b | Machine Room | d | e | f |
 
 ## Power Tools
 
-| Tool | Model | Tool Image | Artifactory Guide | OEM Website | OEM Manual |
-| ---- | ----- | ---------- | ----------------- | ----------- | ---------- |
-| Air Die Grinder | a | b | c | d | e |
-| Air Nailer | a | b | c | d | e |
-| Angle Grinder (7"+) | a | b | c | d | e |
-| Angle Grinder (<7") | a | b | c | d | e |
-| Cutoff Tool | a | b | c | d | e |
-| Portable Planer | a | b | c | d | e |
-| Router (Plunge) | a | b | c | d | e |
-| Router (Trim) | a | b | c | d | e |
-| Sander (Portable Belt) | a | b | c | d | e |
-| Saw (Circular) | a | b | c | d | e |
-| Saw (Jigsaw) | a | b | c | d | e |
-| Saw (Recip) | a | b | c | d | e |
-| Saw (Track) | a | b | c | d | e |
+| Tool | Model | Tool Image | Where to find it | Artifactory Guide | OEM Website | OEM Manual |
+| ---- | ----- | ---------- | ---------------- | ----------------- | ----------- | ---------- |
+| 🟡 Air Die Grinder | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🟡 Air Nailer | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🔴 Angle Grinder (7"+) | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🟡 Angle Grinder (<7") | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🟡 Cutoff Tool | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🟡 Portable Planer | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🔴 Router (Plunge) | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🟡 Router (Trim) | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🟡 Sander (Portable Belt) | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🟡 Saw (Circular) | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🟡 Saw (Jigsaw) | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🟡 Saw (Recip) | a | b | Machine Room - Tool Shelf | d | e | f |
+| 🔴 Saw (Track) | a | b | Machine Room - Tool Shelf | d | e | f |
 
 ## Hand Tools
 
@@ -117,30 +117,30 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 
 ## Other
 
-| Tool | Model | Tool Image | Artifactory Guide | OEM Website | OEM Manual |
-| ---- | ----- | ---------- | ----------------- | ----------- | ---------- |
+| Tool | Model | Tool Image | Where to find it | Artifactory Guide | OEM Website | OEM Manual |
+| ---- | ----- | ---------- | ---------------- | ----------------- | ----------- | ---------- |
 | **General** | | | | | |
-| Air Gun | a | b | c | d | e |
-| Air Paint Gun | a | b | c | d | e |
-| Car (Jacks) | a | b | c | d | e |
-| Car (Ramps) | a | b | c | d | e |
-| EWP | a | b | c | d | e |
-| Kiln | a | b | c | d | e |
-| Pressure Pot | a | b | c | d | e |
-| Sand Blaster | a | b | c | d | e |
-| Vacuum Former | a | b | c | d | e |
-| **Woodworking** | | | | | |
-| Jointer | a | b | c | d | e |
-| Router (Table) | a | b | c | d | e |
-| Saw (Table) | a | b | c | d | e |
-| Thicknesser | a | b | c | d | e |
-| **Metalworking** | | | | | |
-| Bandsaw (Metal) | a | b | c | d | e |
-| Furnace | a | b | c | d | e |
-| Lathe (Metal) | a | b | c | d | e |
-| Mill | a | b | c | d | e |
-| Plasma Cutter | a | b | c | d | e |
-| Saw (Friction) | a | b | c | d | e |
-| Welder (MIG) | a | b | c | d | e |
-| Welder (Stick/SMAW) | a | b | c | d | e |
+| 🟡 Air Gun | a | b | Machine room - Tool shelf - Top shelf | d | e | f |
+| 🟡 Air Paint Gun | a | b | Machine room - Tool shelf - Top shelf  | d | e | f |
+| 🟡 Car (Jacks) | a | b | Project Area - Pallet racking | d | e | f |
+| 🔴 Car (Ramps) | a | b | Project Area - Pallet racking | d | e | f |
+| 🟡 EWP | a | b | Project Area | d | e | f |
+| 🟡 Kiln | a | b | Project Area - Pallet racking | d | e | f |
+| 🟡 Pressure Pot | a | b | Back Shed | d | e | f |
+| 🟡 Sand Blaster | a | b | Project Area | d | e | f |
+| 🟡 Vacuum Former | a | b | 3D Printing Lab | d | e | f |
+| **Woodworking** | | | | | | |
+| 🟡 Jointer | a | b | Project Area | d | e | f |
+| 🟡 Router (Table) | a | b | Project Area | d | e | f |
+| 🟡 Saw (Table) | a | b | Project Area | d | e | f |
+| 🟡 Thicknesser | a | b | Project Area | d | e | f |
+| **Metalworking** | | | | | | |
+| 🟡 Bandsaw (Metal) | a | b | Metalworking Area - Welding Bench | d | e | f |
+| 🔴 Furnace | a | b | Metalworking Area - Welding Bench | d | e | f |
+| 🔴 Lathe (Metal) | a | b | Metalworking Area | d | e | f |
+| 🔴 Mill | a | b | Metalworking Area | d | e | f |
+| 🟡 Plasma Cutter | a | b | Metalworking Area - Welding Shelves | d | e | f |
+| 🟡 Saw (Friction) | a | b | Metalworking Area - Welding Shelves | d | e | f |
+| 🟡 Welder (MIG) | a | b | Metalworking Area - Welding Bench | d | e | f |
+| 🟡 Welder (Stick/SMAW) | a | b | Metalworking Area - Welding Bench | d | e | f |
 

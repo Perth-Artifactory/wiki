@@ -1,14 +1,14 @@
 ---
-title: Tools Overview
+title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T14:42:42.547Z
+date: 2024-05-17T15:48:05.144Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
 ---
 
-# Tool Overview
+# Tools
 The Perth Artifactory has a huge range of tools available for your use in a wide variety of disciplines. Tools range from a simple hammer to a Laser Cutter and Metal Lathe. 
 
 Some tools carry a significant risk of injury if used incorrectly (lost fingers or death), so you MUST check out the [Training Guide](/docs/policies/training) ***before*** you start to use any of the tools. Many of the tools also require an induction prior to use for your safety and to ensure the tools remain operational for all. 

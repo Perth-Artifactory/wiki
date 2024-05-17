@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T16:34:32.652Z
+date: 2024-05-17T16:36:37.188Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -113,7 +113,6 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 
 ## Back Shed
 
-## Ryobi Cordless Tools
 
 ## Other
 

@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2024-05-16T16:46:58.042Z
+date: 2024-05-17T14:47:03.340Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -78,5 +78,5 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | PLA Pro (Sparkle)            | ✅ | ❌ | ✅❌💨 | ✅❌💨 |
 | PLA+                         | ✅ | ✅ | ✅❌💨 | ✅❌💨 |
 | PLA-Support                  | ✅ | ❌ | ✅❌💨 | ✅❌💨 |
-| TPU                          | ✅ | ❌ | ✅❌💨 | ✅❌💨 |
+| TPU                          | ❌ | ❌ | ✅❌💨 | ✅❌💨 |
 | TRIBO i150                   | ✅ | ❌ | ✅❌💨 | ✅❌💨 |

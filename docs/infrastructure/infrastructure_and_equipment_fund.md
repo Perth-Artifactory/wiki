@@ -2,17 +2,13 @@
 title: Infrastructure and Equipment Fund
 description: 
 published: true
-date: 2024-05-14T07:25:32.605Z
+date: 2024-05-17T12:54:23.552Z
 tags: official
 editor: markdown
 dateCreated: 2024-05-13T04:06:39.802Z
 ---
 
 # Infrastructure and Equipment Fund
-
-> This page is currently in draft status, pending committee approval.
-{.is-warning}
-
 
 ## Purposes of the fund
 
@@ -83,4 +79,4 @@ If the Artifactory does not otherwise have enough money in its general funds to 
 ## History
 
 - April 2024: Definition of fund is discussed [at committee level](https://vote.artifactory.org.au/d/kJZ7N3lS/equipment-and-infrastructure-fund).
-- XXXXXX
+- 2024-05-17: Approved by online motion.

@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T11:59:43.143Z
+date: 2024-05-17T12:16:47.558Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -31,7 +31,10 @@ The design lab is generally used for work design work that requires a computer. 
 
 
 ## Rehearsal Room
-Planning on becoming the next AC/DC? They didn't just drink all day and smash out the concert. They rehearsed too (I guess?). You too can rehearse for a [low session fee] (/docs/policies/fees) or for free if you have a [Band Membership](/docs/policies/classes_of_membership)!
+Planning on becoming the next AC/DC? They didn't just drink all day and smash out the concert. They rehearsed too (I guess?). You too can rehearse for a [low fee per session](/docs/policies/fees) or for free if you have a [Band Membership](/docs/policies/classes_of_membership)!
+
+- *Equipment Placeholder*
+- *Equipment Placeholder*
 
 - [Induction Soldering Iron
 		![solder_station.png](/electronics/induction.png =x70)

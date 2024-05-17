@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T12:28:59.581Z
+date: 2024-05-17T12:42:03.514Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -36,60 +36,14 @@ Planning on becoming the next AC/DC? They didn't just drink all day and smash ou
 - *Equipment Placeholder*
 - *Equipment Placeholder*
 
-- [Induction Soldering Iron
-		![solder_station.png](/electronics/induction.png =x70)
-	](/tools/electronics/induction-soldering-iron)
-
-- [Soldering Iron / Hot Air
-		![solder_station.png](/electronics/solder_station.png =x60)
-	](/tools/electronics/soldering)
-
-- [Lab Power Supply
-			![lab_power_supply.png](/electronics/lab_power_supply.png =x60)
-  ](/tools/electronics/lab-supply)
-
-- [Oscilloscope
-		![fume-extractor.png](/electronics/rigol-ds1202z-e.png =x60)
-	](/tools/electronics/oscilloscope)
   
-- [kWeld Battery Spot Welder
-		![kweld.png](/electronics/kweld_battery_spot_welder.png =x60)
-	](/tools/electronics/kweld)
-  
-- [Digital Multimeters
-		![multimeters.png](/electronics/multimeters.png =x60)
-	](/tools/electronics/multimeters)
+## 3D Printing & Electronics Lab
+Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
+Then for bonus points, add some electronic wizardry - all possible in the 3D printing and Electronics Lab.
 
-- [Fume Extractor / Filter
-		![fume-extractor.png](/electronics/fume-extractor.png =x60)
-	](/tools/electronics/fume-extractor)
 
-- [Consumables
-		![wire.png](/electronics/wire.png =x60)
-	](/tools/electronics/consumables)
-  
-## Electronics & 3D Printing
-- [A4 Colour Printing (Laser and Inkjet)
-		![a4-printer.png](/other/a4-printer.png =60x)
-	](/tools/other/printing)
 
-- [Shipping Label Printer
-		![hero-printer.png](/tools/hero-printer.png =60x)
-	](/tools/other/label-printer)
 
-- [Thermal Camera (Flir One Pro - iOS)
-		![flir-one-pro.png](/tools/flir-one-pro.png =60x)
-	](/tools/other/flir-one-pro)
-
-- [Sony Mirrorless Camera
-		![sony-a5100.png](/tools/sony-a5100.png =60x)
-	](/tools/other/sony-mirrorless)
-
-- [Audio Recording Equipment](/tools/audio-recording)
-
-- [Photo Lightbox
-		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
-  ](/tools/other/lightbox)
 
 ## Laser Cutters
 - [Badge Maker
@@ -158,6 +112,60 @@ Planning on becoming the next AC/DC? They didn't just drink all day and smash ou
 We are in the process of setting up a proper induction process so stay tuned!
 > {.is-danger}
 
+- [A4 Colour Printing (Laser and Inkjet)
+		![a4-printer.png](/other/a4-printer.png =60x)
+	](/tools/other/printing)
+
+- [Shipping Label Printer
+		![hero-printer.png](/tools/hero-printer.png =60x)
+	](/tools/other/label-printer)
+
+- [Thermal Camera (Flir One Pro - iOS)
+		![flir-one-pro.png](/tools/flir-one-pro.png =60x)
+	](/tools/other/flir-one-pro)
+
+- [Sony Mirrorless Camera
+		![sony-a5100.png](/tools/sony-a5100.png =60x)
+	](/tools/other/sony-mirrorless)
+
+- [Audio Recording Equipment](/tools/audio-recording)
+
+- [Photo Lightbox
+		![photo-lightbox.png](/tools/photo-lightbox.png =60x)
+  ](/tools/other/lightbox)
+
+
+- [Induction Soldering Iron
+		![solder_station.png](/electronics/induction.png =x70)
+	](/tools/electronics/induction-soldering-iron)
+
+- [Soldering Iron / Hot Air
+		![solder_station.png](/electronics/solder_station.png =x60)
+	](/tools/electronics/soldering)
+
+- [Lab Power Supply
+			![lab_power_supply.png](/electronics/lab_power_supply.png =x60)
+  ](/tools/electronics/lab-supply)
+
+- [Oscilloscope
+		![fume-extractor.png](/electronics/rigol-ds1202z-e.png =x60)
+	](/tools/electronics/oscilloscope)
+  
+- [kWeld Battery Spot Welder
+		![kweld.png](/electronics/kweld_battery_spot_welder.png =x60)
+	](/tools/electronics/kweld)
+  
+- [Digital Multimeters
+		![multimeters.png](/electronics/multimeters.png =x60)
+	](/tools/electronics/multimeters)
+
+- [Fume Extractor / Filter
+		![fume-extractor.png](/electronics/fume-extractor.png =x60)
+	](/tools/electronics/fume-extractor)
+
+- [Consumables
+		![wire.png](/electronics/wire.png =x60)
+	](/tools/electronics/consumables)
 
 - [Mitre Saw
 		![makita-mitre-saw.png](/woodworking/makita-mitre-saw.png =60x)

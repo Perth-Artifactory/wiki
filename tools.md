@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T13:09:59.637Z
+date: 2024-05-17T13:13:20.107Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -47,9 +47,11 @@ Then for bonus points, add some electronic wizardry - all possible in the 3D pri
 
 Our resin printers are primarily sliced using [Chitubox](https://www.chitubox.com/en)
 
-| Resin Printers / Manufacturer Webpage                                              | Tool Image                                                    | Artifactory Page |
+| Resin Printers                                             | Tool Image                                                    | Artifactory Guide | Manufacturer Page | User Guide |
 |-------------------------------------------------------------------------------------------------------------------------------------------|
-| [Anycubic Mono X](https://www.anycubic.com/products/photon-mono-x-resin-printer)|  ![photonmonox_1.webp](/tools/images/photonmonox_1.webp =250x250)| asdas|
+| Anycubic Mono X|  ![photonmonox_1.webp](/tools/images/photonmonox_1.webp =250x250)| [:mag_right:](/tools/3dprinters) | (https://www.anycubic.com/products/photon-mono-x-resin-printer)
+
+asdas|
 ![DeWalt DWE7491-XE Table Saw](/tools/dewalt_table_saw_dwe7491-xe-1.webp =412x300)                                                                             | 192x120x245  |  sadsad  sadsadasd|  sadsad|
 | [Creality LD-002R](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer)                               | ✔️ Operational                                                                             | 120x65x165   | 25 \~ 50um   |
 | Elgaoo                                                                                                                     | ❌ Replacement power supply required                                                       | ?            | ?            |

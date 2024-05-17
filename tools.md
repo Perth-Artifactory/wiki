@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T12:42:03.514Z
+date: 2024-05-17T12:56:12.107Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -41,7 +41,29 @@ Planning on becoming the next AC/DC? They didn't just drink all day and smash ou
 Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
 Then for bonus points, add some electronic wizardry - all possible in the 3D printing and Electronics Lab.
 
+### Resin Printers
 
+[Anycubic Mono X]
+
+Our resin printers are primarily sliced using [Chitubox](https://www.chitubox.com/en)
+
+| Resin Printers                                                                                                                    | Status                                                                                     | Build volume | Layer height |
+|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------|--------------|
+| [Anycubic Mono X](https://www.anycubic.com/products/photon-mono-x-resin-printer)                                           | ![DeWalt DWE7491-XE Table Saw](/tools/dewalt_table_saw_dwe7491-xe-1.webp =412x300)                                                                             | 192x120x245  | 10 \~ 150um  |
+| [Creality LD-002R](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer)                               | ✔️ Operational                                                                             | 120x65x165   | 25 \~ 50um   |
+| Elgaoo                                                                                                                     | ❌ Replacement power supply required                                                       | ?            | ?            |
+
+## FDM
+
+Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com/en/page/prusaslicer_424/)
+
+| Printer                                                                                                   | Status                  | Build volume |
+| --------------------------------------------------------------------------------------------------------- | ----------------------- | -----------  |
+| [Bambu Labs P1S (2x AMS)](https://au.store.bambulab.com/products/p1s)                                     | ✔️ Operational          | 256x256x256  |
+| [Ender 3 V2 Neo #1](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ✔️ Operational          | 220x220x250  |
+| [Ender 3 V2 Neo #2](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ✔️ Operational          | 220x220x250  |
+| [Prusa Mk4](https://www.prusa3d.com/product/original-prusa-mk4-2/)                                        | ✔️ Operational          | 250x210x220  |
+| [Prusa XL-5T](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) | ✔️ Operational          | 360x360x360  |
 
 
 

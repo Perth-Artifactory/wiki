@@ -2,7 +2,7 @@
 title: Tools Overview
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-17T11:18:38.184Z
+date: 2024-05-17T11:49:10.893Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -25,7 +25,9 @@ Most of all, be safe, have fun and share when you build something amazing!
 The design lab is generally used for work design work that requires a computer. Examples include:
 * Designing items in modelling software such as Fusion360
 * Slicing files for 3D Printing
- 
+
+- *Computer Placeholders*
+- *Computer Placeholders*
 
 - [iMac Computers
 		![imac.png](/digitalfabrication/imac.png =x80)

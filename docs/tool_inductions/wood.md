@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-05-18T04:09:20.578Z
+date: 2024-05-18T09:01:33.821Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -280,11 +280,11 @@ Lead: Renae
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y | |
-| Ear protection                 | M | |
-| Gloves (general)               | M | |
+| Eye protection (impact/splash) | Y | Flying dust |
+| Ear protection                 | M | Depends on length of job |
+| Gloves (general)               | M |  |
 | Enclosed shoes                 | Y | |
-| Mask/Respirator (dust)         | M | Recomended for resin |
+| Mask/Respirator (dust)         | M | Recomended for resin, toxic timbers and clean up|
 
 
 | Allowed |
@@ -296,62 +296,65 @@ Lead: Renae
 
 | Prohibited |
 | - |
-| Maufactured boards (eg. MDF, Ply) |
+| Coated boards (eg. formply, laminate) |
 | Coated wood (eg. paint, oil, shellac) |
-| Sheok |
+| Sheoak |
 | Plastic |
 | Metal |
 
 Pre:
 
-1. check material is apropriate for use on this tool (eg, no Sheok)
+1. check material is apropriate for use on this tool (eg, no Sheoak)
 
-1. check any timber of unknown origen (eg, reclaimed timber) for nails or other metal with metal detector
+1. check any timber of unknown origin (eg, reclaimed timber) for nails or other metal with metal detector
 
-1. check for bits sticking out that may damage the belt or drum
+1. check for sharp edges sticking out from material that may damage the conveyor or drum sandpaper
 
-1. check material is aready of even thickness (run through thickneser if nesaserry)
+1. check material is already of even thickness by measuring four corners (run through thicknesser or other sander first if needed)
 
-1. check appropriate grit installed
+1. check appropriate grit installed on drum
 
-1. check tention and condition of the sand paper
+1. check tension and condition of the sand paper
 
-1. check condition of convyor
+1. check condition of conveyor
 
-1. run conveyor at full speed and check tracking. if not, stop using the tool, tag out and notify infrastructure sub-commitee
+1. run conveyor at full speed and check tracking. if not true, stop using the tool, tag out and notify infrastructure sub-committee
 
-1. slow down conveyor and check tention by placing hand on outfeed side and atempting to stop conveyor. if convyor can be stopped with hand presure it is too loose. stop using the tool, tag out and notify infrastructure sub-commitee
+1. slow down conveyor and check tension. if conveyor can be stopped with hand presure it is too loose. stop using the tool, tag out and notify infrastructure sub-committee
 
-1. turn machine off and hook up dust extraction
 
 
 Using:
 
 1. set depth of cut (open top and lower untill the drum contacts material but can still be spun by hand)
 
-1. ensure material is stble on convayer (bowing up/cupping down)
+1. raise drum 1/4 turn and remove material.
+
+1. ensure material is stable on conveyer (bowing up/cupping down)
+
+1. connect shop-vac for dust extraction. 
 
 1. start drum
 
-1. start convyer and adjust feed rate (30-40%)
+1. start conveyer and adjust feed rate (suggest start at 30-40%)
 
 1. turn on dust extraction
 
 1. feed stock through machine
 
-1. feed at angle to begin with, final passes with grain
+1. feed material at about 30 deg angle if possible to begin with, final passes with the grain
 
-1. lower drum, max 1/2 handle turn per pass
+1. lower drum, 1/4 to max 1/2 handle turn per pass
 
-1. repeate steps 6-9 till desired thickness reached
+1. repeat steps 6-9 until desired thickness reached
 
-1. after 30 mins of opperation tuen of machine and dust extraction for ~5mins. take this time to empty the dust extraction
+1. after every 30 mins of opperation turn off machine and dust extraction for min 5mins. Take this time to empty the shop vac.
 
 
 After:
 
-1. turn off drum and convyer
+1. turn off drum and conveyer
 
-1. vacume/blow out all dust, including in the drum head
+1. vacuum/blow out all dust, including in the drum head
 
 1. clean drum with sand paper cleaning stick

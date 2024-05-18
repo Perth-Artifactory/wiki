@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-05-17T01:57:28.958Z
+date: 2024-05-18T04:09:20.578Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -280,71 +280,78 @@ Lead: Renae
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | Y | |
+| Ear protection                 | M | |
+| Gloves (general)               | M | |
+| Enclosed shoes                 | Y | |
+| Mask/Respirator (dust)         | M | Recomended for resin |
 
-Pre:
-1. Check cutter for sharpness and alignment
-2. Prepare material - make sure it's flat on one side
 
-Using:
-1. Feed material in the direction of grain
-1. Adjust depth incrementally
-1. Keep hands away from cutters and feed rollers
+| Allowed |
+| - |
+| Wood (long grain)   |
+| Wood (end grain)    |
+| Resin (fully cured) |
 
-After:
-1. 
 
-  | Y | Falling swarf/piece |
-
-| Safety boots                   | M | Falling heavy piece |
-
-| Mask/Respirator (dust)         | M | P2 If material is toxic (MDF etc) |
+| Prohibited |
+| - |
+| Maufactured boards (eg. MDF, Ply) |
+| Coated wood (eg. paint, oil, shellac) |
+| Sheok |
+| Plastic |
+| Metal |
 
 Pre:
 
-1. Use proper bit for material and ensure appropriate sharpness
+1. check material is apropriate for use on this tool (eg, no Sheok)
 
-1. Ensure chuck is tight and key is back in holder
+1. check any timber of unknown origen (eg, reclaimed timber) for nails or other metal with metal detector
 
-1. Unlock table
+1. check for bits sticking out that may damage the belt or drum
 
-1. Set table to appropriate height based on bit length, material thickness, and depth of hole
+1. check material is aready of even thickness (run through thickneser if nesaserry)
 
-1. Confirm table is positioned so that bit will not interact when extended
+1. check appropriate grit installed
 
-1. Lock table
+1. check tention and condition of the sand paper
 
-1. Consider pilot hole
+1. check condition of convyor
 
-1. Clamp down material securely
+1. run conveyor at full speed and check tracking. if not, stop using the tool, tag out and notify infrastructure sub-commitee
+
+1. slow down conveyor and check tention by placing hand on outfeed side and atempting to stop conveyor. if convyor can be stopped with hand presure it is too loose. stop using the tool, tag out and notify infrastructure sub-commitee
+
+1. turn machine off and hook up dust extraction
+
 
 Using:
 
-1. Position yourself for leverage and control (consider which handle you should hold
+1. set depth of cut (open top and lower untill the drum contacts material but can still be spun by hand)
 
-1. Keep hands clear of the bit
+1. ensure material is stble on convayer (bowing up/cupping down)
 
-1. Don't force the bit into the material
+1. start drum
 
-1. Clear chips often
+1. start convyer and adjust feed rate (30-40%)
 
-1. Do not move material while in contact with bit
+1. turn on dust extraction
+
+1. feed stock through machine
+
+1. feed at angle to begin with, final passes with grain
+
+1. lower drum, max 1/2 handle turn per pass
+
+1. repeate steps 6-9 till desired thickness reached
+
+1. after 30 mins of opperation tuen of machine and dust extraction for ~5mins. take this time to empty the dust extraction
+
 
 After:
 
-1. Remove bit from machine (may be hot)
+1. turn off drum and convyer
 
-1. Reset table to appropriate height for general use
+1. vacume/blow out all dust, including in the drum head
 
-1. Vacuuming includes: table, table chanels, floor
+1. clean drum with sand paper cleaning stick

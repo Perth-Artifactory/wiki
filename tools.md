@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-18T02:21:00.402Z
+date: 2024-05-18T02:34:16.304Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -76,10 +76,10 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 
 ## Laser Cutters TEMP AG TESTING
 
-| Risk | Tool         | Artifactory Info |  Model & OEM Info          | Looks like | Usual located | Owned by|
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual located | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 | 🔴   | Big Red Laser| [:clipboard:](/tools/lasers/bigred),  [:dollar:](/docs/policies/fees),  |G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | Lasers area | :gift: |
-| 🔴   | Big Red Laser| [:clipboard:](/tools/lasers/bigred),[:dollar:](/docs/policies/fees)|G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | Lasers area | (/tools/lasers) |  
+| 🟡   | Free tool Example | [:clipboard:](/tools/lasers/bigred)|G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![mars-sample.jpg](/tools/images/mars-sample.jpg =200x) | Lasers area | ![aflogo_30px.webp](/aflogo_30px.webp)|  
 
 
 ## TEMP TESTING END

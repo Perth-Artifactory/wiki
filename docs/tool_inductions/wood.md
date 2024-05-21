@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-05-18T09:01:33.821Z
+date: 2024-05-21T05:48:50.059Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -298,39 +298,61 @@ Lead: Renae
 | - |
 | Coated boards (eg. formply, laminate) |
 | Coated wood (eg. paint, oil, shellac) |
+| Green or wet wood |
 | Sheoak |
 | Plastic |
 | Metal |
 
-Pre:
+Tool Familiarisation:
 
-1. check material is apropriate for use on this tool (eg, no Sheoak)
+1. Tool requires dust extraction, currently set up for connecting to shop vac. 
 
-1. check any timber of unknown origin (eg, reclaimed timber) for nails or other metal with metal detector
+1. Drum and belt are controlled separately. Show switches.
 
-1. check for sharp edges sticking out from material that may damage the conveyor or drum sandpaper
+1. Show height control handle 
 
-1. check material is already of even thickness by measuring four corners (run through thicknesser or other sander first if needed)
+1. Open drum cover by pressing black knob and lifting cover.
 
-1. check appropriate grit installed on drum
+1. THERE IS NO INTERLOCK on drum cover. Drum will spin if turned on with cover open.
 
-1. check tension and condition of the sand paper
+1. Maximum use period 30 minutes. Then 5 minutes cooldown for tool and shop-vac required.
 
-1. check condition of conveyor
 
-1. run conveyor at full speed and check tracking. if not true, stop using the tool, tag out and notify infrastructure sub-committee
+Pre-Start Checks - Material
 
-1. slow down conveyor and check tension. if conveyor can be stopped with hand presure it is too loose. stop using the tool, tag out and notify infrastructure sub-committee
+1. Check material is apropriate for use on this tool (eg, no Sheoak)
 
+1. Check any timber of unknown origin (eg, reclaimed timber) for nails or other metal with metal detector
+
+1. Check for sharp edges sticking out from material that may damage the conveyor or drum sandpaper
+
+1. Check material is already of even thickness by measuring four corners (run through thicknesser or other sander first if needed)
+
+
+Pre-Start Checks - Tool
+
+1. Check appropriate grit installed on drum
+
+1. Check tension and condition of the sand paper
+
+1. Check condition of conveyor
+
+1. Check conveyor tracking by running conveyor at full speed and check for sideways movement. Tracking only to be adjusted by trainers. 
+
+1. Check conveyor tension by slowing down conveyor. If conveyor can be stopped with hand presure it is too loose. Tension only to be adjusted by trainers.
+
+1. Turn machine and conveyor off.
 
 
 Using:
+
+1. ensure material is stable on conveyer (bowing up/cupping down)
 
 1. set depth of cut (open top and lower untill the drum contacts material but can still be spun by hand)
 
 1. raise drum 1/4 turn and remove material.
 
-1. ensure material is stable on conveyer (bowing up/cupping down)
+1. close cover
 
 1. connect shop-vac for dust extraction. 
 
@@ -342,19 +364,24 @@ Using:
 
 1. feed stock through machine
 
-1. feed material at about 30 deg angle if possible to begin with, final passes with the grain
+1. feed material at about 30 deg angle if possible to begin with, final passes with the grain (more effective material removal)
 
-1. lower drum, 1/4 to max 1/2 handle turn per pass
+1. lower drum between each pass, 1/4 to max 1/2 handle turn per pass
 
 1. repeat steps 6-9 until desired thickness reached
 
-1. after every 30 mins of opperation turn off machine and dust extraction for min 5mins. Take this time to empty the shop vac.
+1. after every 30 mins of operation, turn off machine and dust extraction for minimum 5mins. Take this time to empty the shop vac.
 
 
 After:
 
 1. turn off drum and conveyer
 
-1. vacuum/blow out all dust, including in the drum head
+1. vacuum/sweep/blow out all sawdust, including in the drum head
 
-1. clean drum with sand paper cleaning stick
+1. clean drum with sandpaper cleaning stick
+
+1. clean up stick residue from conveyor.
+
+1. Check shopvac and empty if more than 1/4 full. (fine dust, will effect performance and vacuum life more than normal sawdust.
+

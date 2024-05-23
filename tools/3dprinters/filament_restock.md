@@ -1,8 +1,8 @@
 ---
-title: Filament restock
+title: Filament Restock
 description: Which filament is out of stock and what's on the way
 published: true
-date: 2024-05-23T08:14:16.012Z
+date: 2024-05-23T08:17:29.551Z
 tags: official, external
 editor: markdown
 dateCreated: 2024-05-23T08:14:16.012Z

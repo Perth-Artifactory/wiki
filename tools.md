@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-18T02:36:11.206Z
+date: 2024-05-24T14:48:46.998Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -20,6 +20,16 @@ Some tools have a [small fee](/docs/policies/fees) for use to offset the tool op
 We get it! We can't wait to dive into a project either, but even if you've used a tool before, it's a great idea to check out the guide for each specific tool. Don't forget, like most things at Artifactory, be reasonable. Tools are shared resources, so consider your fellow members if you are going to use it for a long time. Tools must be kept on site and in the event that something breaks (even if you accidentally broke it), please let one of the admins know so it can be repaired.
 
 Most of all, be safe, have fun and share when you build something amazing!
+
+## Legend for Tool List
+**Risk:** Tools are graded as per the [Training Policy](/docs/policies/training). You must be trained on Yellow or Red tools prior to use.
+**Tool Name:** This is what we call the tool. You can call it by a pet name if you so desire whilst using it.
+**Artifactory Policy:** :clipboard: will take you to the specific Artifactory guide for that tool. It's generally the most important link.   :dollar: indicates that the tool has a charge for use. Click the note to find out the cost for use. 
+**Model & OEM Info:** The link icon (:link:) will take you to the manufacturers webpage. The (:book:) icon will take you to the manufacturers operations manual.
+**Looks Like:** Perhaps unsurprisingly, this will show you what the tool looks like.
+**Usual Location:** This is where the tool is normally located. It may not always be here, but it's a good place to start your search.
+**Owned by:** 
+
 
 ## Design Lab
 The design lab is generally used for work design work that requires a computer. Examples include:
@@ -76,7 +86,7 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 
 ## Laser Cutters TEMP AG TESTING
 
-| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual located | Owned by|
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 | 🔴   | Big Red Laser| [:clipboard:](/tools/lasers/bigred)       ,         [:dollar:](/docs/policies/fees)  |G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | Lasers area | :gift: |
 | 🟡   | Free tool Example | [:clipboard:](/tools/lasers/bigred)|G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![mars-sample.jpg](/tools/images/mars-sample.jpg =200x) | Lasers area | ![aflogo_30px.webp](/aflogo_30px.webp)|  

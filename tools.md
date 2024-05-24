@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-24T15:55:14.903Z
+date: 2024-05-24T15:56:00.656Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -22,7 +22,7 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Legend for Tool List
 **Risk:** Tools are graded as per the [Training Policy](/docs/policies/training). You must be trained on Yellow or Red tools prior to use.
 **Tool Name:** This is what we call the tool. You can call it by a pet name if you so desire whilst using it.
-**Artifactory Policy:** :clipboard: will take you to the specific Artifactory guide for that tool. It's generally the most important link.   :dollar: indicates that the tool has a charge for use. Click the note to find out the cost for use. 
+**Artifactory Policy:** The Clipboard icon (:clipboard:) will take you to the specific Artifactory guide for that tool. It's generally the most important link.  The dollar icon (:dollar:) indicates that the tool has a charge for use. Click the note to find out the cost for use. 
 **Model & OEM Info:** The link icon (:link:) will take you to the manufacturers webpage. The (:book:) icon will take you to the manufacturers operations manual.
 **Looks Like:** Perhaps unsurprisingly, this will show you what the tool looks like.
 **Usual Location:** This is where the tool is normally located. It may not always be here, but it's a good place to start your search.

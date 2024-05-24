@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-24T15:54:14.558Z
+date: 2024-05-24T15:55:14.903Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -11,9 +11,7 @@ dateCreated: 2024-05-14T12:21:07.640Z
 # Tools
 The Perth Artifactory has a huge range of tools available for your use in a wide variety of disciplines. Tools range from a simple hammer to a Laser Cutter and Metal Lathe. 
 
-Some tools carry a significant risk of injury if used incorrectly (permanent disability or death), so you MUST check out the [Training Policy](/docs/policies/training) ***before*** you start to use any of the tools. Most of the tools require an induction prior to use for your safety and to ensure the tools remain operational for all. 
-
-You can also review which tools you are approved to use with the [Training Tracker on Slack](https://perart.io/check_training).
+Some tools carry a significant risk of injury if used incorrectly (permanent disability or death), so you MUST check out the [Training Policy](/docs/policies/training) ***before*** you start to use any of the tools. Most of the tools require an induction prior to use for your safety and to ensure the tools remain operational for all. You can also review which tools you are approved to use with the [Training Tracker on Slack](https://perart.io/check_training).
 
 Some tools have a [small fee](/docs/policies/fees) for use to offset the tool operating costs. Members of Artifactory get discounted rates, so it's another great [reason to join](https://artifactory.org.au/pricing).
  
@@ -29,23 +27,6 @@ Most of all, be safe, have fun and share when you build something amazing!
 **Looks Like:** Perhaps unsurprisingly, this will show you what the tool looks like.
 **Usual Location:** This is where the tool is normally located. It may not always be here, but it's a good place to start your search.
 **Owned by:** The :gift: icon indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo exists. 
-
-
-## Design Lab
-The design lab is generally used for work design work that requires a computer. Examples include:
-* Designing items in modelling software such as Fusion360
-* Slicing files for 3D Printing
-
-- *Computer Placeholders*
-- *Computer Placeholders*
-
-
-## Rehearsal Room
-Planning on becoming the next AC/DC? They didn't just drink all day and smash out the concert. They rehearsed too (I guess?). You too can rehearse for a [low fee per session](/docs/policies/fees) or for free if you have a [Band Membership](/docs/policies/classes_of_membership)!
-
-- *Equipment Placeholder*
-- *Equipment Placeholder*
-
   
 ## 3D Printing & Electronics Lab
 Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
@@ -143,6 +124,13 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 ## Courtyard
 
 ## Back Shed
+
+## Design Lab
+The design lab is generally used for work design work that requires a computer. Examples include:
+
+
+## Rehearsal Room
+Planning on becoming the next AC/DC? They didn't just drink all day and smash out the concert. They rehearsed too (I guess?). You too can rehearse for a [low fee per session](/docs/policies/fees) or for free if you have a [Band Membership](/docs/policies/classes_of_membership)!
 
 
 ## Other

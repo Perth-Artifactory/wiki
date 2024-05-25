@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-24T15:59:30.184Z
+date: 2024-05-25T00:19:25.739Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -20,7 +20,9 @@ We get it! We can't wait to dive into a project either, but even if you've used 
 Most of all, be safe, have fun and share when you build something amazing!
 
 ## Legend for Tool List
-**Risk:** Tools are graded as per the [Training Policy](/docs/policies/training). You must be trained on Yellow or Red tools prior to use.
+|Column Name| Description|
+|----|
+**Risk:** | Tools are graded as per the [Training Policy](/docs/policies/training). You must be trained on Yellow or Red tools prior to use.
 **Tool Name:** This is what we call the tool. You can call it by a pet name if you so desire whilst using it.
 **Artifactory Policy:** The Clipboard icon (:clipboard:) will take you to the specific Artifactory guide for that tool. It's generally the most important link.  The dollar icon (:dollar:) indicates that the tool has a charge for use. Click the note to find out the cost for use. 
 **Model & OEM Info:** The link icon (:link:) will take you to the manufacturers webpage. The (:book:) icon will take you to the manufacturers operations manual.
@@ -70,7 +72,7 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 | 🔴   | Big Red Laser| [:clipboard:](/tools/lasers/bigred)       ,         [:dollar:](/docs/policies/fees)  |G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | Lasers area | :gift: |
-| 🟡   | Free tool Example | [:clipboard:](/tools/lasers/bigred)|G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![mars-sample.jpg](/tools/images/mars-sample.jpg =200x) | Lasers area | ![aflogo_28px.webp](/aflogo_30px.webp)|  
+| 🟡   | Free tool Example | [:clipboard:](/tools/lasers/bigred)|G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![mars-sample.jpg](/tools/images/mars-sample.jpg =200x) | Lasers area | ![aflogo_28px.webp](/aflogo_28px.png)|  
 
 
 ## TEMP TESTING END

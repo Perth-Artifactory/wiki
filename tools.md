@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-25T00:19:25.739Z
+date: 2024-05-25T00:25:08.287Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -20,21 +20,19 @@ We get it! We can't wait to dive into a project either, but even if you've used 
 Most of all, be safe, have fun and share when you build something amazing!
 
 ## Legend for Tool List
-|Column Name| Description|
-|----|
-**Risk:** | Tools are graded as per the [Training Policy](/docs/policies/training). You must be trained on Yellow or Red tools prior to use.
-**Tool Name:** This is what we call the tool. You can call it by a pet name if you so desire whilst using it.
-**Artifactory Policy:** The Clipboard icon (:clipboard:) will take you to the specific Artifactory guide for that tool. It's generally the most important link.  The dollar icon (:dollar:) indicates that the tool has a charge for use. Click the note to find out the cost for use. 
-**Model & OEM Info:** The link icon (:link:) will take you to the manufacturers webpage. The (:book:) icon will take you to the manufacturers operations manual.
-**Looks Like:** Perhaps unsurprisingly, this will show you what the tool looks like.
-**Usual Location:** This is where the tool is normally located. It may not always be here, but it's a good place to start your search.
-**Owned by:** The :gift: icon indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo exists. 
+| Column Name | Description |
+|-------------|-------------|
+|**Risk:** | Tools are graded as per the [Training Policy](/docs/policies/training). You must be trained on Yellow or Red tools prior to use.
+|**Tool Name:** | This is what we call the tool. You can call it by a pet name if you so desire whilst using it.
+|**Artifactory Policy:** | The Clipboard icon (:clipboard:) will take you to the specific Artifactory guide for that tool. It's generally the most important link.  
+| |The dollar icon (:dollar:) indicates that the tool has a charge for use. Click the note to find out the cost for use. 
+|**Model & OEM Info:** |The link icon (:link:) will take you to the manufacturers webpage. 
+| | The (:book:) icon will take you to the manufacturers operations manual.
+|**Looks Like:**| Perhaps unsurprisingly, this will show you what the tool looks like.
+|**Usual Location:**| This is where the tool is normally located. It may not always be here, but it's a good place to start your search.
+|**Owned by:**| The :gift: icon indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo exists. 
   
-## 3D Printing & Electronics Lab
-Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
-Then for bonus points, add some electronic wizardry - all possible in the 3D printing and Electronics Lab.
 
-### Resin Printers
 
 
 
@@ -164,3 +162,8 @@ Planning on becoming the next AC/DC? They didn't just drink all day and smash ou
 | 🟡 Welder (MIG) | a | b | Metalworking Area - Welding Bench | d | e | f |
 | 🟡 Welder (Stick/SMAW) | a | b | Metalworking Area - Welding Bench | d | e | f |
 
+## 3D Printing & Electronics Lab
+Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
+Then for bonus points, add some electronic wizardry - all possible in the 3D printing and Electronics Lab.
+
+### Resin Printers

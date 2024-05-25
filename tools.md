@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-25T00:25:08.287Z
+date: 2024-05-25T00:59:49.142Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -24,14 +24,15 @@ Most of all, be safe, have fun and share when you build something amazing!
 |-------------|-------------|
 |**Risk:** | Tools are graded as per the [Training Policy](/docs/policies/training). You must be trained on Yellow or Red tools prior to use.
 |**Tool Name:** | This is what we call the tool. You can call it by a pet name if you so desire whilst using it.
-|**Artifactory Policy:** | The Clipboard icon (:clipboard:) will take you to the specific Artifactory guide for that tool. It's generally the most important link.  
-| |The dollar icon (:dollar:) indicates that the tool has a charge for use. Click the note to find out the cost for use. 
-|**Model & OEM Info:** |The link icon (:link:) will take you to the manufacturers webpage. 
-| | The (:book:) icon will take you to the manufacturers operations manual.
+|**Artifactory Policy:** | The Clipboard icon (📋) will take you to the specific Artifactory guide for that tool. It's generally the most important link.  
+| | The dollar icon (💵) indicates that the tool has a charge for use. Click the note to find out the cost for use. 
+| | The broken face icon (😵) indicates that the tool is currently out of order/broken. 
+|**Model & OEM Info:** |The link icon (🔗) will take you to the manufacturers webpage. 
+| | The (📖) icon will take you to the manufacturers operations manual.
 |**Looks Like:**| Perhaps unsurprisingly, this will show you what the tool looks like.
 |**Usual Location:**| This is where the tool is normally located. It may not always be here, but it's a good place to start your search.
 |**Owned by:**| The :gift: icon indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo exists. 
-  
+  [:book:](/tools/manuals/prusa3d_manual_mk4_mk39_103_en.pdf)
 
 
 

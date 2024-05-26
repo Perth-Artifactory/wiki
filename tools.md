@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-26T13:50:48.936Z
+date: 2024-05-26T14:01:53.978Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -72,6 +72,7 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 | 🔴   | Big Red Laser| [:clipboard:](/tools/lasers/bigred)       ,         [:dollar:](/docs/policies/fees)  |G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | Lasers area | :gift: |
 | 🟡   | Free tool Example | [:clipboard:](/tools/lasers/bigred)|G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![mars-sample.jpg](/tools/images/mars-sample.jpg =200x) | Lasers area | ![aflogo_28px.webp](/aflogo_28px.png)|  
+|🟡|Makita corded 125mm angle grinder|[:clipboard:](/tools/lasers/bigred) [:dollar:](/docs/policies/fees)|TEST_MODEL_123 [:link:](https://www.prusa3d.com/product/original-prusa-mk4/)| [:book:](/tools/manuals/prusa3d_manual_mk4_mk39_103_en.pdf)
 
 
 ## TEMP TESTING END

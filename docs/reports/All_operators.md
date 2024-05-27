@@ -8,4 +8,3 @@ editor: markdown
 dateCreated: 2024-01-05T14:09:00.628Z
 ---
 
-You can now check your training [here](https://perart.io/check_training)!

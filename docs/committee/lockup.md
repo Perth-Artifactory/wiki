@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2024-03-30T12:23:31.708Z
+date: 2024-05-27T10:25:26.622Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -37,12 +37,11 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 ## Design Lab
 
 * 🏘️ Lights are off.
-* 3D printers are turned off unless currently printing a job.
 * Computers can stay on.
 
 ## Electronics Lab
 
-* ~~🏘️ Turn off bench power using power control button on the red control panel~~ (room is being repaired)
+* 🏘️ Turn off bench power using power control button on the red control panel
 * 🏘️ Turn off room light.
 
 ## Front
@@ -58,6 +57,8 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 # Recent changes
 
+* Electronics lab is back
+* 3D printers no longer need to be turned off
 * Clarify that welding lights aren't switched by the GPO
 * Electronics lab bench has been temporarily moved to the project area while repairs are performed
 * The rehearsal room door doesn't need to be checked anymore

@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-28T15:03:40.101Z
+date: 2024-05-28T15:11:08.684Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -71,7 +71,8 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 | 🔴   | Big Red Laser| [:clipboard:](/tools/lasers/bigred)       ,         [:dollar:](/docs/policies/fees)  |G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | Lasers area | :gift: |
-| 🟡   | Free tool Example | [:clipboard:](/tools/lasers/bigred)|G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![mars-sample.jpg](/tools/images/mars-sample.jpg =200x) | Lasers area | ![aflogo_28px.webp](/aflogo_28px.png)|  
+| 🟡   | Free tool Example | [:clipboard:](/tools/lasers/bigred)|G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![mars-sample.jpg](/tools/images/mars-sample.jpg =200x) | Lasers area | ![aflogo_28px.webp](/aflogo_28px.png)| 
+|🟡|Bosch jigsaw| :dizzy_face:|PST680EL [:link:](https://www.bosch-diy.com/au/en) [:book:](/tools/manuals/bosch_pst_680el.pdf)|![/tools/images/bosch_pst680el_s.jpeg](/tools/images/bosch_pst680el_s.jpeg =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 
@@ -85,12 +86,6 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 |🟡|Bosch jigsaw| |PST680EL [:link:](https://www.bosch-diy.com/au/en) [:book:](/tools/manuals/bosch_pst_680el.pdf)|![/tools/images/bosch_pst680el_s.jpeg](/tools/images/bosch_pst680el_s.jpeg =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
 
 
-
-
-
-
-[bosch_pst_680el.pdf](/tools/manuals/bosch_pst_680el.pdf)
-![bosch_pst680el_s.jpeg](/tools/images/bosch_pst680el_s.jpeg)
 
 
 

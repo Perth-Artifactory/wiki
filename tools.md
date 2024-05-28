@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-28T15:02:18.201Z
+date: 2024-05-28T15:03:40.101Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -81,8 +81,10 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 ## Corded Power Tools
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟡|Makita Jigsaw|[:clipboard:](/tools/lasers/bigred) [:dollar:](/docs/policies/fees) |4301BV [:link:](http://www.makita.com.au) [:book:](/tools/manuals/makita_jigsaw_4301bv.pdf)|![/tools/images/makita_4301bv_s.png](/tools/images/makita_4301bv_s.png =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Bosch jigsaw| |PST680EL [:book:](/tools/manuals/bosch_pst_680el.pdf)|![/tools/images/bosch_pst680el_s.jpeg](/tools/images/bosch_pst680el_s.jpeg =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Makita Jigsaw| |4301BV [:link:](http://www.makita.com.au) [:book:](/tools/manuals/makita_jigsaw_4301bv.pdf)|![/tools/images/makita_4301bv_s.png](/tools/images/makita_4301bv_s.png =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Bosch jigsaw| |PST680EL [:link:](https://www.bosch-diy.com/au/en) [:book:](/tools/manuals/bosch_pst_680el.pdf)|![/tools/images/bosch_pst680el_s.jpeg](/tools/images/bosch_pst680el_s.jpeg =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+
+
 
 
 

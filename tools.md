@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-28T15:11:08.684Z
+date: 2024-05-31T13:52:38.587Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -32,6 +32,12 @@ Most of all, be safe, have fun and share when you build something amazing!
 |**Looks Like:**| Perhaps unsurprisingly, this will show you what the tool looks like.
 |**Usual Location:**| This is where the tool is normally located. It may not always be here, but it's a good place to start your search.
 |**Owned by:**| The gift icon (:gift:) indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo exists. 
+
+## Lasers
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
+
+
   [:book:](/tools/manuals/prusa3d_manual_mk4_mk39_103_en.pdf)
 
 

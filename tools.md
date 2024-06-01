@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-01T12:29:13.692Z
+date: 2024-06-01T12:35:51.425Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -43,10 +43,10 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Metal Tools
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟡|Weldskill 100 welder|[:clipboard:] [:dollar:](/docs/policies/fees) |WeldSkill 100 [:link:](https://www.cigweld.com.au/product/weldskill-100-mig-portable-gasless-welding-machine/) [:book:](/tools/manuals/weldskill100.pdf)|![weldskill100_s.jpg](/tools/images/weldskill100_s.jpg =200x)|Welding bay|:gift:
-|🟡|Weldskill 180 welder|[:clipboard:] [:dollar:](/docs/policies/fees) |WeldSkill 180 [:link:](https://www.cigweld.com.au/product/weldskill-180/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill180_s.jpg](/tools/images/weldskill180_s.jpg =200x)|Welding bay|:gift:
-|🟡|140 welder stick|[:clipboard:] [:dollar:](/docs/policies/fees) |WeldSkill 140 [:link:](https://www.cigweld.com.au/product/weldskill-140/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill140_s.jpg](/tools/images/weldskill140_s.jpg =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Unimig Razorweld MTS210 3-in-1 welder|[:clipboard:] [:dollar:](/docs/policies/fees) |MTS210 [:link:](https://usaweld.com/products/htp_america_mts_210) [:book:](/tools/manuals/mts210.pdf)|![mts210.webp](/tools/images/mts210.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Weldskill 100 welder| [:dollar:](/docs/policies/fees) |WeldSkill 100 [:link:](https://www.cigweld.com.au/product/weldskill-100-mig-portable-gasless-welding-machine/) [:book:](/tools/manuals/weldskill100.pdf)|![weldskill100_s.jpg](/tools/images/weldskill100_s.jpg =200x)|Welding bay|:gift:
+|🟡|Weldskill 180 welder| [:dollar:](/docs/policies/fees) |WeldSkill 180 [:link:](https://www.cigweld.com.au/product/weldskill-180/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill180_s.jpg](/tools/images/weldskill180_s.jpg =200x)|Welding bay|:gift:
+|🟡|140 welder stick| [:dollar:](/docs/policies/fees) |WeldSkill 140 [:link:](https://www.cigweld.com.au/product/weldskill-140/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill140_s.jpg](/tools/images/weldskill140_s.jpg =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Unimig Razorweld MTS210 3-in-1 welder| [:dollar:](/docs/policies/fees) |MTS210 [:link:](https://usaweld.com/products/htp_america_mts_210) [:book:](/tools/manuals/mts210.pdf)|![mts210.webp](/tools/images/mts210.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 

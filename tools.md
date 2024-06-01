@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-01T12:48:44.875Z
+date: 2024-06-01T12:51:25.733Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -47,9 +47,11 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🟡|Weldskill 180 welder| [:dollar:](/docs/policies/fees) |WeldSkill 180 [:link:](https://www.cigweld.com.au/product/weldskill-180/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill180_s.jpg](/tools/images/weldskill180_s.jpg =200x)|Welding bay|:gift:
 |🟡|140 welder stick| [:dollar:](/docs/policies/fees) |WeldSkill 140 [:link:](https://www.cigweld.com.au/product/weldskill-140/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill140_s.jpg](/tools/images/weldskill140_s.jpg =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Unimig Razorweld MTS210 3-in-1 welder| [:dollar:](/docs/policies/fees) |MTS210 [:link:](https://usaweld.com/products/htp_america_mts_210) [:book:](/tools/manuals/mts210.pdf)|![mts210.webp](/tools/images/mts210.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Saber metal bandsaw| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
 
 
-.
+
+
 .
 .
 .

@@ -2,7 +2,7 @@
 title: Little Red
 description: 
 published: true
-date: 2023-01-04T03:14:26.785Z
+date: 2024-06-01T03:16:42.518Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:50.268Z
@@ -20,7 +20,7 @@ dateCreated: 2022-10-17T16:57:50.268Z
 
 Our smallest permanent laser cutter. It's good for detail work and engraving cylinders using the rotary tool. It's also a good laser cutter to learn on because it's smaller.
 
--   Model number: LC500
+-   Model number: LG500
 -   Link: <http://www.wklaser.com/pro_183.aspx>
 -   Nominal cut area: 500mm×300mm
 -   Honeycomb area is 485mm×285mm

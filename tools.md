@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-01T13:43:01.308Z
+date: 2024-06-01T13:47:58.749Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -73,8 +73,17 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🔴|CNC router| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
 
 ## 3D Printers (FDM)
-
-
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
+|🔴|Ender 3 v2 Neo FDM printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|V2 Neo [:link:](https://www.creality.com/products/ender-3-v2-neo-3d-printer) [:book:](/tools/manuals/v2neo.pdf)|![v2neo.webp](/tools/images/v2neo.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Ender 3 v2 Neo FDM printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|V2 Neo [:link:](https://www.creality.com/products/ender-3-v2-neo-3d-printer) [:book:](/tools/manuals/v2neo.pdf)|![v2neo.webp](/tools/images/v2neo.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Photon Mono 4k|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|Mono 4k [:link:](https://store.anycubic.com/products/photon-mono-4k) [:book:](/tools/manuals/mono4k.pdf)|![mono4k.webp](/tools/images/mono4k.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Bambu Labs P1S|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |P1S [:link:](https://au.store.bambulab.com/products/p1s) [:book:](/tools/manuals/https://wiki.bambulab.com/en/p1)|![p1s.webp](/tools/images/p1s.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Bambu Labs X1 Carbon|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |X1 Carbon [:link:](https://au.store.bambulab.com/products/x1-carbon-3d-printer) [:book:](/tools/manuals/https://wiki.bambulab.com/en/x1)|![x1carbon.webp](/tools/images/x1carbon.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Bambu Labs AMS|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/https://wiki.bambulab.com/en/ams)|![ams.webp](/tools/images/ams.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Bambu Labs AMS|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/https://wiki.bambulab.com/en/ams)|![ams.webp](/tools/images/ams.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Prusa MK4|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |MK4 [:link:](https://www.prusa3d.com/product/original-prusa-mk4-2/) [:book:](/tools/manuals/mk4.pdf)|![mk4.jpg](/tools/images/mk4.jpg =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Prusa XL-5T|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |XL-5T [:link:](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) [:book:](/tools/manuals/prusaxl.pdf)|![xl5th.jpg](/tools/images/xl5th.jpg =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 ## 3D Printers (Resin)

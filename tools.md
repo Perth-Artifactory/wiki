@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-01T13:47:58.749Z
+date: 2024-06-01T13:57:20.018Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -78,111 +78,30 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🔴|Ender 3 v2 Neo FDM printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|V2 Neo [:link:](https://www.creality.com/products/ender-3-v2-neo-3d-printer) [:book:](/tools/manuals/v2neo.pdf)|![v2neo.webp](/tools/images/v2neo.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🔴|Ender 3 v2 Neo FDM printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|V2 Neo [:link:](https://www.creality.com/products/ender-3-v2-neo-3d-printer) [:book:](/tools/manuals/v2neo.pdf)|![v2neo.webp](/tools/images/v2neo.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🔴|Photon Mono 4k|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|Mono 4k [:link:](https://store.anycubic.com/products/photon-mono-4k) [:book:](/tools/manuals/mono4k.pdf)|![mono4k.webp](/tools/images/mono4k.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Bambu Labs P1S|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |P1S [:link:](https://au.store.bambulab.com/products/p1s) [:book:](/tools/manuals/https://wiki.bambulab.com/en/p1)|![p1s.webp](/tools/images/p1s.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Bambu Labs X1 Carbon|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |X1 Carbon [:link:](https://au.store.bambulab.com/products/x1-carbon-3d-printer) [:book:](/tools/manuals/https://wiki.bambulab.com/en/x1)|![x1carbon.webp](/tools/images/x1carbon.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Bambu Labs AMS|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/https://wiki.bambulab.com/en/ams)|![ams.webp](/tools/images/ams.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Bambu Labs AMS|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/https://wiki.bambulab.com/en/ams)|![ams.webp](/tools/images/ams.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Bambu Labs P1S|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |P1S [:link:](https://au.store.bambulab.com/products/p1s) [:book:](/tools/manuals/p1s.pdf)|![p1s.webp](/tools/images/p1s.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Bambu Labs X1 Carbon|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |X1 Carbon [:link:](https://au.store.bambulab.com/products/x1-carbon-3d-printer) [:book:](/tools/manuals/x1carbon.pdf)|![x1carbon.webp](/tools/images/x1carbon.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Bambu Labs AMS|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Bambu Labs AMS|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🔴|Prusa MK4|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |MK4 [:link:](https://www.prusa3d.com/product/original-prusa-mk4-2/) [:book:](/tools/manuals/mk4.pdf)|![mk4.jpg](/tools/images/mk4.jpg =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🔴|Prusa XL-5T|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |XL-5T [:link:](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) [:book:](/tools/manuals/prusaxl.pdf)|![xl5th.jpg](/tools/images/xl5th.jpg =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 ## 3D Printers (Resin)
-
-
-
-
-
-
-
-
-
-
-| Model               | Tool Image                                                              | Artifactory Guide            | Manufacturer                          | User Guide                                                    |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Anycubic Mono X     | ![photonmonox_1.webp](/tools/images/photonmonox_1.webp =200x200)    | [:mag_right:](/tools/3dprinters) | [:factory:](https://bit.ly/3WLyEBH)   | [:book:](/tools/manuals/anycubic_photon_test.pdf)             |
-| Creality LD-002R    | ![crealty_ld-002r.jpg](/tools/images/crealty_ld-002r.jpg =200x200)  | [:mag_right:](/tools/3dprinters) | [:factory:](https://bit.ly/3WKxmH1)   | [:book:](/tools/manuals/crealty_ld-002r-3d-printer-manual.pdf)|
-| Elegoo TEST ONLY    | ![mars-sample.jpg](/tools/images/mars-sample.jpg)                   | [:mag_right:](/tools/3dprinters) | [:factory:](https://bit.ly/3WLyEBH)TBC | [:book:](/tools/manuals/anycubic_photon_test.pdf) TBC         |
-| [Creality LD-002R](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer)                               | ✔️ Operational                                                                             | 120x65x165   | 25 \~ 50um   |
-| Elegoo Saturn                                                                                                                     | ❌ Replacement power supply required                                                       | ?            | ?            |
-
-## FDM
-
-Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com/en/page/prusaslicer_424/)
-
-| Printer                                                                                                   | Status                  | Build volume |
-| --------------------------------------------------------------------------------------------------------- | ----------------------- | -----------  |
-| [Bambu Labs P1S (2x AMS)](https://au.store.bambulab.com/products/p1s)                                     | ✔️ Operational          | 256x256x256  |
-| [Ender 3 V2 Neo #1](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ✔️ Operational          | 220x220x250  |
-| [Ender 3 V2 Neo #2](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ✔️ Operational          | 220x220x250  |
-| [Prusa Mk4](https://www.prusa3d.com/product/original-prusa-mk4-2/)                                        | ✔️ Operational          | 250x210x220  |
-| [Prusa XL-5T](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) | ✔️ Operational          | 360x360x360  |
-
-## Laser Cutters
-
-| Tool | Model | Tool Image | Where to find it | Artifactory Guide | OEM Website | OEM Manual |
-| ---- | ----- | ---------- | ---------------- | ----------------- | ----------- | ---------- |
-| 🔴 Big Red | G.Weike LC1290 | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | Lasers area | [:mag_right:](/tools/lasers) | [:link:](https://www.gwklaser.com/) | N/A |
-| 🔴 Middle Red | KH7050 | ![middle_red_photo.jpg](/tools/lasers/middle_red_photo.jpg =200x) | Lasers area | [:mag_right:](/tools/lasers) | | N/A |
-
-
-
-## Corded Power Tools
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟡|Makita Jigsaw| |4301BV [:link:](http://www.makita.com.au) [:book:](/tools/manuals/4301bv.pdf)|![4301bv_s.webp](/tools/images/4301bv_s.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Bosch jigsaw| |PST680EL [:link:](https://www.bosch-diy.com/au/en) [:book:](/tools/manuals/pst_680EL.pdf)|![pst680el_s.jpeg](/tools/images/pst680el_s.jpeg =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Photon Mono X resin 3D printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |Photon Mono X [:link:](https://www.anycubic.com/products/photon-mono-x-resin-printer) [:book:](/tools/manuals/monox.pdf)|![monox.webp](/tools/images/monox.webp =200x)|Design lab|:gift:
+|🔴|Creality resin 3D printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |LD-002R [:link:](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer) [:book:](/tools/manuals/ld-002r.pdf)|![ld-002r.jpg](/tools/images/ld-002r.jpg =200x)|Design lab|:gift:
+|🔴|Elegoo Saturn|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|TBC [:link:](https://www.elegoo.com/en-au/products/elegoo-saturn-4k-mono-lcd-3d-printer) [:book:](/tools/manuals/saturn.pdf)|![saturn.webp](/tools/images/saturn.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Photon S resin 3D printer ???|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|Photon S()(/tools/manuals/)|![](/tools/images/ =200x)|Design lab|:gift:
+|🟢|Wash and cure station| |TBC|![](/tools/images/ =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 
 
 
-
-
-
-
-
-
-
-## Machine Room
-
-| Tool | Model | Tool Image | Where to find it | Artifactory Guide | OEM Website | OEM Manual |
-| ---- | ----- | ---------- | ---------------- | ----------------- | ----------- | ---------- |
-| **General** | | | | | | f |
-| 🟡 Drill Press | a | b | Machine Room | d | e | f |
-| **Woodworking** | | | | | | f |
-| 🟡 Bandsaw (Wood) | a | b | Machine Room | d | e | f |
-| 🔴 Wood Lathe | Jepson | b | Machine Room | d | e | f |
-| 🔴 Wood Lathe | The other one | b | Machine Room | d | e | f |
-| 🔴 CNC Router | "Swarf-o-mat" | b | Machine Room | d | e | f |
-| 🟡 Sander (Fixed Belt) | a | b | Machine Room | d | e | f |
-| 🟡 Sander (Spindle) | a | b | Machine Room | d | e | f |
-| 🟡 Saw (Mitre) | a | b | Machine Room | d | e | f |
-| **Metalworking** | | | | | | f |
-| 🟡 Bench Grinder | a | b | Machine Room | d | e | f |
-
-## Power Tools
-
-| Tool | Model | Tool Image | Where to find it | Artifactory Guide | OEM Website | OEM Manual |
-| ---- | ----- | ---------- | ---------------- | ----------------- | ----------- | ---------- |
-| 🟡 Air Die Grinder | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🟡 Air Nailer | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🔴 Angle Grinder (7"+) | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🟡 Angle Grinder (<7") | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🟡 Cutoff Tool | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🟡 Portable Planer | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🔴 Router (Plunge) | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🟡 Router (Trim) | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🟡 Sander (Portable Belt) | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🟡 Saw (Circular) | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🟡 Saw (Jigsaw) | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🟡 Saw (Recip) | a | b | Machine Room - Tool Shelf | d | e | f |
-| 🔴 Saw (Track) | a | b | Machine Room - Tool Shelf | d | e | f |
-
-## Hand Tools
-
-## Courtyard
-
-## Back Shed
+#
+#
+#TEMP INFO BELOW - MAY BE USED IF/WHERE WE SORT BY ROOM#
 
 ## Design Lab
 The design lab is generally used for work design work that requires a computer. Examples include:
@@ -192,37 +111,6 @@ The design lab is generally used for work design work that requires a computer. 
 Planning on becoming the next AC/DC? They didn't just drink all day and smash out the concert. They rehearsed too (I guess?). You too can rehearse for a [low fee per session](/docs/policies/fees) or for free if you have a [Band Membership](/docs/policies/classes_of_membership)!
 
 
-## Other
-
-| Tool | Model | Tool Image | Where to find it | Artifactory Guide | OEM Website | OEM Manual |
-| ---- | ----- | ---------- | ---------------- | ----------------- | ----------- | ---------- |
-| **General** | | | | | |
-| 🟡 Air Gun | a | b | Machine room - Tool shelf - Top shelf | d | e | f |
-| 🟡 Air Paint Gun | a | b | Machine room - Tool shelf - Top shelf  | d | e | f |
-| 🟡 Car (Jacks) | a | b | Project Area - Pallet racking | d | e | f |
-| 🔴 Car (Ramps) | a | b | Project Area - Pallet racking | d | e | f |
-| 🟡 EWP | a | b | Project Area | d | e | f |
-| 🟡 Kiln | a | b | Project Area - Pallet racking | d | e | f |
-| 🟡 Pressure Pot | a | b | Back Shed | d | e | f |
-| 🟡 Sand Blaster | a | b | Project Area | d | e | f |
-| 🟡 Vacuum Former | a | b | 3D Printing Lab | d | e | f |
-| **Woodworking** | | | | | | |
-| 🟡 Jointer | a | b | Project Area | d | e | f |
-| 🟡 Router (Table) | a | b | Project Area | d | e | f |
-| 🟡 Saw (Table) | a | b | Project Area | d | e | f |
-| 🟡 Thicknesser | a | b | Project Area | d | e | f |
-| **Metalworking** | | | | | | |
-| 🟡 Bandsaw (Metal) | a | b | Metalworking Area - Welding Bench | d | e | f |
-| 🔴 Furnace | a | b | Metalworking Area - Welding Bench | d | e | f |
-| 🔴 Lathe (Metal) | a | b | Metalworking Area | d | e | f |
-| 🔴 Mill | a | b | Metalworking Area | d | e | f |
-| 🟡 Plasma Cutter | a | b | Metalworking Area - Welding Shelves | d | e | f |
-| 🟡 Saw (Friction) | a | b | Metalworking Area - Welding Shelves | d | e | f |
-| 🟡 Welder (MIG) | a | b | Metalworking Area - Welding Bench | d | e | f |
-| 🟡 Welder (Stick/SMAW) | a | b | Metalworking Area - Welding Bench | d | e | f |
-
 ## 3D Printing & Electronics Lab
 Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
 Then for bonus points, add some electronic wizardry - all possible in the 3D printing and Electronics Lab.
-
-### Resin Printers

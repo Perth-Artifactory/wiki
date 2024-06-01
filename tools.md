@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-05-31T13:52:38.587Z
+date: 2024-06-01T12:02:01.808Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -36,9 +36,18 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Lasers
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
+|🔴|Big red laser cutter|[:clipboard:](/tools/lasers/bigred) [:dollar:](/docs/policies/fees) |G.Weike LC1290 [:link:](https://www.alibaba.com/product-detail/Gweike-LC-1290-laser-cutting-machine_1789944035.html) [:book:](/tools/manuals/lc1290_manual.pdf)|![lc1290_s.webp](/tools/images/lc1290_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png) 
+|🔴|Middle red laser cutter|[:clipboard:](tools/lasers/middlered) [:dollar:](/docs/policies/fees) |KH7050 [:link:](https://www.alibaba.com/product-detail/100w-150w-co2-laser-cutting-machine_1600806328809.html?spm=a2700.shop_plser.41413.2.520d1e073BoUrb) [:book:](/tools/manuals/kh5030.pdf)|![kh7050_s.webp](/tools/images/kh7050_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Little red laser cutter|[:clipboard:](/tools/lasers/littlered) [:dollar:](/docs/policies/fees) :dizzy_face:|G.Weike LG500 [:link:](https://www.gwklaser.com/co2/LG500.html) [:book:](/tools/manuals/lg500.pdf)|![lg500_s.jpg](/tools/images/lg500_s.jpg =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
 
 
-  [:book:](/tools/manuals/prusa3d_manual_mk4_mk39_103_en.pdf)
+
+
+
+
+
+
+
 
 
 

@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-01T12:55:05.414Z
+date: 2024-06-01T13:43:01.308Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -33,7 +33,7 @@ Most of all, be safe, have fun and share when you build something amazing!
 |**Usual Location:**| This is where the tool is normally located. It may not always be here, but it's a good place to start your search.
 |**Owned by:**| The gift icon (:gift:) indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo exists. 
 
-## Lasers
+## Laser Cutters / Engravers	
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🔴|Big red laser cutter|[:clipboard:](/tools/lasers/bigred) [:dollar:](/docs/policies/fees) |G.Weike LC1290 [:link:](https://www.alibaba.com/product-detail/Gweike-LC-1290-laser-cutting-machine_1789944035.html) [:book:](/tools/manuals/lc1290_manual.pdf)|![lc1290_s.webp](/tools/images/lc1290_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png) 
@@ -72,6 +72,12 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🟡|Ozito friction saw| :dizzy_face:|TBC|![](/tools/images/ =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
 |🔴|CNC router| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
 
+## 3D Printers (FDM)
+
+
+
+
+## 3D Printers (Resin)
 
 
 
@@ -111,24 +117,11 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 
 
 
-## Laser Cutters TEMP AG TESTING
-
-| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
-| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-| 🔴   | Big Red Laser| [:clipboard:](/tools/lasers/bigred)       ,         [:dollar:](/docs/policies/fees)  |G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg =200x) | Lasers area | :gift: |
-| 🟡   | Free tool Example | [:clipboard:](/tools/lasers/bigred)|G.Weike LC1290 [:link:](https://www.gwklaser.com/) [:book:](/tools/manuals/anycubic_photon_test.pdf) | ![mars-sample.jpg](/tools/images/mars-sample.jpg =200x) | Lasers area | ![aflogo_28px.webp](/aflogo_28px.png)| 
-|🟡|Bosch jigsaw| :dizzy_face:|PST680EL [:link:](https://www.bosch-diy.com/au/en) [:book:](/tools/manuals/bosch_pst_680el.pdf)|![/tools/images/bosch_pst680el_s.jpeg](/tools/images/bosch_pst680el_s.jpeg =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
-
-
-
-
-
-
 ## Corded Power Tools
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟡|Makita Jigsaw| |4301BV [:link:](http://www.makita.com.au) [:book:](/tools/manuals/makita_jigsaw_4301bv.pdf)|![/tools/images/makita_4301bv_s.png](/tools/images/makita_4301bv_s.png =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Bosch jigsaw| |PST680EL [:link:](https://www.bosch-diy.com/au/en) [:book:](/tools/manuals/bosch_pst_680el.pdf)|![/tools/images/bosch_pst680el_s.jpeg](/tools/images/bosch_pst680el_s.jpeg =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Makita Jigsaw| |4301BV [:link:](http://www.makita.com.au) [:book:](/tools/manuals/4301bv.pdf)|![4301bv_s.webp](/tools/images/4301bv_s.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Bosch jigsaw| |PST680EL [:link:](https://www.bosch-diy.com/au/en) [:book:](/tools/manuals/pst_680EL.pdf)|![pst680el_s.jpeg](/tools/images/pst680el_s.jpeg =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 

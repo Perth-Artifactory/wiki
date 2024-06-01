@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-01T12:51:25.733Z
+date: 2024-06-01T12:54:20.035Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -48,15 +48,35 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🟡|140 welder stick| [:dollar:](/docs/policies/fees) |WeldSkill 140 [:link:](https://www.cigweld.com.au/product/weldskill-140/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill140_s.jpg](/tools/images/weldskill140_s.jpg =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Unimig Razorweld MTS210 3-in-1 welder| [:dollar:](/docs/policies/fees) |MTS210 [:link:](https://usaweld.com/products/htp_america_mts_210) [:book:](/tools/manuals/mts210.pdf)|![mts210.webp](/tools/images/mts210.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Saber metal bandsaw| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Makita corded 125mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|:gift:
+|🟡|Black&Decker corded 100mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi cordless 115mm angle grinder (1)| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi cordless 115mm angle grinder (2)| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi corded 100mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Makita corded 230mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|:gift:
+|🟡|Metabo corded 100mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi friction saw| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ozito friction saw| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Plasma cutter| :dizzy_face:|TBC|![](/tools/images/ =200x)|Welding bay|:gift:
+|🔴|Mill| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
+|🔴|Metal lathe| |TBC|![](/tools/images/ =200x)|Metal machining area|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Shearer / press brake| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
+|🔴|Vicmarc Wood lathe| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
+|🟡|Kiln| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Forge| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Foundry| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Supatool bench grinder| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|:gift:
+|🟡|Linshall? bench grinder| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|:gift:
+|🟡|Carbatec drill press| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Jepson lathe| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|:gift:
+|🟡|Ozito friction saw| :dizzy_face:|TBC|![](/tools/images/ =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 
 
-.
-.
-.
-.
-.
+
+
+
 
 
 

@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-01T12:54:20.035Z
+date: 2024-06-01T12:55:05.414Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -70,7 +70,7 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🟡|Carbatec drill press| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)
 |🔴|Jepson lathe| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|:gift:
 |🟡|Ozito friction saw| :dizzy_face:|TBC|![](/tools/images/ =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
-
+|🔴|CNC router| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
 
 
 

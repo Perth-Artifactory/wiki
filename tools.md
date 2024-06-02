@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-02T03:03:45.678Z
+date: 2024-06-02T03:04:34.759Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -13,7 +13,7 @@ The Perth Artifactory has a huge range of tools available for your use in a wide
 
 Some tools carry a significant risk of injury if used incorrectly (permanent disability or death), so you MUST check out the [Training Policy](/docs/policies/training) ***before*** you start to use any of the tools. Most of the tools require an induction prior to use for your safety and to ensure the tools remain operational for all. You can also review which tools you are approved to use with the [Training Tracker on Slack](https://perart.io/check_training).
 
-Some tools have a [small fee](/docs/policies/fees) for use to offset the tool operating costs. Members of Artifactory get discounted rates, so it's another great [reason to join](https://artifactory.org.au/pricing).
+Some tools have a [usage fee](/docs/policies/fees) for use to offset the tool operating costs. Members of Artifactory get discounted rates, so it's another great [reason to join](https://artifactory.org.au/pricing).
  
 We get it! We can't wait to dive into a project either, but even if you've used a tool before, it's a great idea to check out the guide for each specific tool. Don't forget, like most things at Artifactory, be reasonable. Tools are shared resources, so consider your fellow members if you are going to use it for a long time. Tools must be kept on site and in the event that something breaks (even if you accidentally broke it), please let one of the admins know so it can be repaired.
 

@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-01T13:58:43.167Z
+date: 2024-06-02T03:03:45.678Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -22,7 +22,7 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Legend for Tool List
 | Column Name | Description |
 |-------------|-------------|
-|**Risk:** | Tools are graded as per the [Training Policy](/docs/policies/training). You must be trained on Yellow or Red tools prior to use.
+|**Risk:** | Tools are graded as per the [Training Policy](/docs/policies/training). You must be trained on Medium Risk 🟡 or High Risk 🔴 tools before you use them.
 |**Tool Name:** | This is what we call the tool. You can call it by a pet name if you so desire whilst using it.
 |**Artifactory Policy:** | The Clipboard icon (:clipboard:) will take you to the specific Artifactory guide for that tool. It's generally the most important link.  
 | | The dollar icon (:dollar:) indicates that the tool has a charge for use. Click the note to find out the cost for use. 
@@ -31,7 +31,7 @@ Most of all, be safe, have fun and share when you build something amazing!
 | | The (:book:) icon will take you to the manufacturers operations manual.
 |**Looks Like:**| Perhaps unsurprisingly, this will show you what the tool looks like.
 |**Usual Location:**| This is where the tool is normally located. It may not always be here, but it's a good place to start your search.
-|**Owned by:**| The gift icon (:gift:) indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo exists. 
+|**Owned by:**| The gift icon (:gift:) indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo ![aflogo_28px.webp](/aflogo_28px.png)  exists. 
 
 ## Laser Cutters / Engravers	
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|

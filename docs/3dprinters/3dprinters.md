@@ -2,7 +2,7 @@
 title: 3D Printers Subcommittee
 description: 
 published: true
-date: 2024-05-04T14:33:20.791Z
+date: 2024-06-02T17:04:32.597Z
 tags: official
 editor: markdown
 dateCreated: 2024-05-04T14:24:23.999Z
@@ -18,6 +18,7 @@ dateCreated: 2024-05-04T14:24:23.999Z
 | Sophie Murday                     | Yes                                 |
 | Tom White                         | Yes                                 |
 | Penny Wood                        | Yes                                 |
+| Ross Minney                       | Yes                                 |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
 {.is-info}
@@ -42,3 +43,4 @@ The Perth Artifactory has a range of [3D printers](https://wiki.artifactory.org.
 ### History
 
 * This subcommittee was created on [2024-05-04](/minutes/Committee/2024-05-04) with the initial members being Fletcher Boyd, Sophie Murday, Tom White, and Penny Wood.
+* Ross Minney was [appointed](https://vote.artifactory.org.au/p/UGFWkoyu/motion-add-ross-minney-to-the-3d-printer-subcommittee) 2024-04-07.

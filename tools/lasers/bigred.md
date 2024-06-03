@@ -2,7 +2,7 @@
 title: Big Red
 description: 
 published: true
-date: 2024-02-05T14:45:10.594Z
+date: 2024-06-03T07:07:30.565Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:56:59.372Z
@@ -13,6 +13,11 @@ dateCreated: 2022-10-17T16:56:59.372Z
 ![big_red_photo.jpg](/tools/lasers/big_red_photo.jpg)
 
 Our larger and more powerful laser cutter. It's good for large pieces of material, thick material and for cutting quickly.
+
+## Specifications
+
+* Nominal cut area: 1,200 × 900 mm
+* Honeycomb area: 1,165 × 862 mm
 
 ## Material
 

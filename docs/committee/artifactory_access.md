@@ -2,7 +2,7 @@
 title: Artifactory Access
 description: 
 published: true
-date: 2023-06-17T05:28:47.186Z
+date: 2024-06-03T09:55:22.539Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:47.883Z
@@ -16,9 +16,9 @@ The Perth Artifactory is a nonprofit organization run entirely by volunteers and
 
 If you have a Full or Concession membership then you can opt to sign up for a 24/7 access key. When doing so you will be required to pay a bond equal to three months of your membership fees. If you would like to get a 24/7 contact the [Treasurer](/mailto/treasurer@artifactory.org.au).
 
-## Casual Access:
+## Member Access:
 
-Casual visiting members who just want to use the tools for the day/night and members who have not paid for a key have a variety of methods to access the space.
+Members who have not paid for a key have a variety of methods to access the space.
 
 ### Webcams
 
@@ -34,3 +34,6 @@ Go to our [Slack team](https://perart.io/slack) ask if anyone will be in at the 
 
 * Our primary real time communication method is Slack and will yield the best results.
 * The #memberavailability channel or #general channel are the best places to ask.
+
+## Casual Access
+Casual visiting members who just want to use the tools for the day/night are limited to event times, other than by special arrangement.

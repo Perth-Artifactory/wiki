@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2024-06-05T16:11:03.073Z
+date: 2024-06-05T16:13:04.605Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -48,7 +48,7 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 {.is-warning}
 
 
-|                              | P1S | Ender 3 | Mk4 | XL-5T |
+|                              | X1/P1S | Ender 3 | Mk4 | XL-5T |
 | ---------------------------- | --- | ------- | --- | ----- |
 | ABS                          | 💨 | ❌ | ✅❌💨 | ✅❌💨 |
 | ABS (CF)                     | 💨 | ❌ | ✅❌💨 | ✅❌💨 |

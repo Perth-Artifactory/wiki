@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2024-05-17T14:47:03.340Z
+date: 2024-06-05T16:11:03.073Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -27,7 +27,7 @@ Our resin printers are primarily sliced using [Chitubox](https://www.chitubox.co
 |----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------|--------------|
 | [Anycubic Mono X](https://www.anycubic.com/products/photon-mono-x-resin-printer)                                           | ✔️ Operational                                                                             | 192x120x245  | 10 \~ 150um  |
 | [Creality LD-002R](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer)                               | ✔️ Operational                                                                             | 120x65x165   | 25 \~ 50um   |
-| Elgaoo                                                                                                                     | ❌ Replacement power supply required                                                       | ?            | ?            |
+| Elagoo                                                                                                                     | ❌ Replacement power supply required                                                       | ?            | ?            |
 
 ## FDM
 
@@ -36,6 +36,7 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | Printer                                                                                                   | Status                  | Build volume |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | -----------  |
 | [Bambu Labs P1S (2x AMS)](https://au.store.bambulab.com/products/p1s)                                     | ✔️ Operational          | 256x256x256  |
+| [Bambu Labs X1 (1x AMS)](https://au.store.bambulab.com/products/x1-carbon-3d-printer)                                     | ✔️ Operational          | 256x256x256  |
 | [Ender 3 V2 Neo #1](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ✔️ Operational          | 220x220x250  |
 | [Ender 3 V2 Neo #2](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ✔️ Operational          | 220x220x250  |
 | [Prusa Mk4](https://www.prusa3d.com/product/original-prusa-mk4-2/)                                        | ✔️ Operational          | 250x210x220  |

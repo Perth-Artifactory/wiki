@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2024-01-17T10:57:22.920Z
+date: 2024-06-08T08:04:48.747Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -145,23 +145,38 @@ Tool usage fees generally reflect the cost of consumables, operation, maintenanc
 ### 3D Printer - FDM
 
 Cost basis
-* Weight of part including supports, as printed. (Weigh using the digital scales in the Design Lab.)
+
+* Weight of part including supports/purging as outlined by the slicer. (Use slicer weight but not slicer cost).
+* When a print is cancelled a best effort estimation of filament used should be made using the benchtop scales in the room.
+* Filament is split into tiers based on material cost and equipment wear.
+    * The authoritative reference for filament categorisation is the [filament stock](/tools/3dprinters/filament_stock) page. 
+    * Filament categorisation is determined by the 3D Printers Subcommittee.
 
 Member rate
-* \$0.05 / gram, rounded up to the nearest \$1.00
+
+* Tier 1: $0.05 / gram
+* Tier 2: $0.10 / gram
+* Tier 3: $0.15 / gram
+* Tier 4: $0.20 / gram
+
+Rounded up to the nearest $1.00 at the end of the day.
 
 Day Pass rate
-* \$0.15 / gram, rounded up to the nearest \$1.00
 
+* Tier 1: $0.10 / gram
+* Tier 2: $0.20 / gram
+* Tier 3: $0.30 / gram
+* Tier 4: $0.40 / gram
 
-Inclusions
-* Filament
+Rounded up to the nearest $1.00 at the end of the day. $20 minimum.
 
-Exclusions
+Inclusions:
+
+* Filament (No BYO)
+
+Exclusions:
+
 * N/A
-
-Payment method
-* Bank transfer, referencing "3D PRINT" followed by your surname.
 
 ----------------------------------------------------------------
 

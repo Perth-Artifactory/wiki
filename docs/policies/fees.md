@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2024-06-08T08:04:48.747Z
+date: 2024-06-08T08:16:55.563Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -177,6 +177,10 @@ Inclusions:
 Exclusions:
 
 * N/A
+
+> **History:**
+>
+> The pricing for FDM 3D printing was revised on [2024-06-08](/minutes/Committee/2024-06-08) to include a tiered pricing system for different materials.
 
 ----------------------------------------------------------------
 

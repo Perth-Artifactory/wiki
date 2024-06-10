@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-04-23T03:15:08.100Z
+date: 2024-06-10T05:52:20.619Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -25,9 +25,12 @@ Please take a few minutes to read this New Members Guide to orientate yourself w
 * Please keep your personal details up-to-date in TidyHQ.
     * Your full name, email or address, and contact details - this is a legal requirement.
     * Emergency contact details.
+    
+* Your invoices are not paid automatically.
+    * Please set up a scheduled transfer from your bank account so you don't miss a membership invoice. The transfer description just needs to include your name, we'll do the rest.
 
 * [Training](/docs/policies/training)
-    * Training is needed to use many of the tools in the space.
+    * Training is needed to use most of the power tools in the space.
     * **Please read the [Training](/docs/policies/training) policy for more details.**
 
 * [By-Laws](/docs/policies/bylaws)
@@ -65,8 +68,9 @@ Keep it nice for everyone else:
 * Refer [Code of Conduct](/docs/committee/code_of_conduct) regarding *Respectful Behaviour*.
 
 Everyone who helps you (training, assistance, advice, ...) is a member like you, volunteering their time for free. Please repay their kindness by:
-* Helping with the communal cleaning - empty the bins, vacuum the project area...
-* Tidying up the space - sort the hardware drawers, neaten the tool racks...
+* Checking the whiteboard near the front of the space for things that haven't been done in a while
+* Helping with the communal cleaning - empty the bins, vacuum the project area
+* Tidying up the space - sort the hardware drawers, neaten the tool racks
 * Volunteering to help with a project or event - ask any commitee member - there's always lots to do!
 
 ## Storage Space
@@ -88,9 +92,9 @@ You may also be able to arrange with a key-holding member to attend the space wi
 
 Refer: [Artifactory Access](/docs/committee/artifactory_access)
 
-## 24/7 Access
+### 24/7 Access
 
-Members who meet our requirements may apply for a 24/7 key (RFID key) after an initial probation period.
+Members who meet our requirements may apply for a 24/7 electronic key after an initial probation period.
 
 Details:
 * [RFID keys for Members](https://wiki.artifactory.org.au/en/docs/policies/bylaws#rfid-keys-for-members)
@@ -100,10 +104,9 @@ Details:
 
 * See: [Training](/docs/policies/training)
 * Heavy tools will be pointed out to you during your initial tour. We recommend using Slack (see below) to organise training.
-* No one can use Heavy Tools unless they have been inducted by an existing certified member. If you're not familiar with their safe operation, you could kill yourself, REALLY.
-* A list of certified users for some tools are available in the tools section of this wiki.
-* Make sure you know where the First Aid Kit is, currently in the kitchen.
-* ALWAYS use safety gear - goggles, earplugs, masks as documented on their respective tool pages.
+* No one can use Heavy Tools unless they have been inducted by one of our trainers. If you're not familiar with their safe operation you may pose a significant risk to life and property.
+* Make sure you know where the First Aid Kit is.
+* Always use appropriate personal protective equipment (PPE). What equipment is appropriate for each tool is part of the tool induction.
 * Preferably only use Heavy Tools when someone else is in the building in case of serious accidents.
 
 ## Communal Materials
@@ -121,12 +124,12 @@ Details:
 
 [Slack](https://perart.io/slack) is the number one point of contact for anything and everything Artifactory.
 
-* If you would like to be **trained on a certain machine,** **reporting a fault** with the equipment or even need **input and advice** for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
+* If you would like to be **trained on a certain machine**, **report a fault** with the equipment, or even need **input and advice** for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
 
 ### Social Media
 
-* Twitter users, follow [@PerthArtifact](https://twitter.com/PerthArtifact) and tag your related posts with [#PerthArtifactory](https://twitter.com/search?q=#PerthArtifactory).
 * Facebook users, remember to check in and like us on [Facebook](https://facebook.com/perthartifactory).
+* Reviews on [Google Maps](https://maps.app.goo.gl/SB5iAEN4LBVAppt39) and Facebook are always appreciated.
 * Meetup users can also interact with our events on [Meetup](https://www.meetup.com/en-AU/Perth-Artifactory/)
 
 ## Tech Resources
@@ -134,8 +137,9 @@ Details:
 * Many devices in the space can be controlled from [here](https://control.artifactory.org.au) while connected to our wifi.
 * The Member Work directory can be accessed in a few different ways:
   * From any computer in the space (Typically mounted as either "filer" or "Member Work")
+  * By sending files to the user File Butler on Slack.
   * From your device when connected to the wifi. (You'll need to mount the filer SMB share, ask someone if you don't know how to do this)
   * From your device regardless of where you're connected via our Nextcloud instance. You can request access [here](https://cloud.artifactory.org.au/apps/forms/CRDidNysNjBwbwKN)
 * The label printer can be accessed from [this page](https://i.perart.io/label) when connected to the wifi.
-* You can ask to be shown on the [webcam feed](https://space.artifactory.org.au/) by filling out [this form](https://cloud.artifactory.org.au/apps/forms/CSNEkreDRn9GNgw3).
+* You can ask to be shown on the [webcam feed](https://space.artifactory.org.au/) by filling out [this form](https://cloud.artifactory.org.au/apps/forms/CSNEkreDRn9GNgw3) or asking Fletcher in person.
 * This wiki is editable by anyone with a Slack account. Sign in at the top.

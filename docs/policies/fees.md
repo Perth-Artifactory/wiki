@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2024-06-08T08:16:55.563Z
+date: 2024-06-10T03:30:54.940Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -169,6 +169,11 @@ Day Pass rate
 * Tier 4: $0.40 / gram
 
 Rounded up to the nearest $1.00 at the end of the day. $20 minimum.
+
+> "Tier 0" on the [filament stock](/tools/3dprinters/filament_stock) page represents filament that hasn't been assigned to a tier yet.
+> "Tier 5" represents filament that cannot be printed yet.
+{.is-info}
+
 
 Inclusions:
 

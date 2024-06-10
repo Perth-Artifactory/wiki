@@ -2,13 +2,13 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-06-10T09:32:04.951Z
+date: 2024-06-10T09:32:36.492Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
 ---
 
-> This page is intended for new members, if you're attending the space casually (Day Pass) check out the [New Visitors Guide]((/new_visitors_guide) instead!
+> This page is intended for new members, if you're attending the space casually (Day Pass) check out the [New Visitors Guide](/new_visitors_guide) instead!
 {.is-info}
 
 Welcome to the Artifactory!

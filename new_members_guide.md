@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-06-10T09:39:53.280Z
+date: 2024-06-10T13:29:56.736Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -42,7 +42,7 @@ Please take a few minutes to read this New Members Guide to orientate yourself w
 * [Constitution](/constitution)
     * Defines your legal rights and responsibilities as a member.
     
-* The Perth Artifactory [Emergency Plan is available for viewing here](https://wiki.artifactory.org.au/lib/exe/fetch.php?media=events:artifactory_emergency_plan_-_june_2019.png) in addition to those displayed in every single room of the Artifactory. It shows the location of the first aid kits, Fire extinguishers/hose, switchboard, muster point and escape route.
+* The Perth Artifactory Emergency Plan is available for viewing at the front of the Artifactory. It shows the location of the first aid kits, Fire extinguishers/hose, switchboard, muster point and escape route.
 
 * Reporting injuries (or near misses) helps us keep everyone safe. Use [this form](https://cloud.artifactory.org.au/apps/forms/62rTWpZH4fr5di2H) to document the details while they're fresh in your mind.
 

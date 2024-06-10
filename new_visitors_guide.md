@@ -2,13 +2,15 @@
 title: New Visitors Guide
 description: First time at the space? This page will help you get started
 published: true
-date: 2024-06-10T09:30:37.279Z
+date: 2024-06-10T09:37:53.149Z
 tags: official
 editor: markdown
 dateCreated: 2024-06-10T09:30:37.279Z
 ---
 
 > This page is intended for new Day Pass users, if you're a member check out the [New Members Guide](/new_members_guide) instead!
+>
+> Members enjoy a number of substantial benefits over Day Pass users including training on our most advanced tools, reduced usage fees, storage space, and more! If that sounds like your thing [sign up here](https://artifactory.org.au/pricing).
 {.is-info}
 
 Welcome to the Artifactory!

@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-06-10T07:32:49.641Z
+date: 2024-06-10T07:34:53.205Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -12,7 +12,7 @@ dateCreated: 2024-01-27T10:06:35.646Z
 
 These are tools in the wood category only. You may be thinking of the [power tool](/docs/tool_inductions/power) category instead.
 
-## Bandsaw (Wood) 
+## Bandsaw (Wood) ✔
 
 Lead: Renae Currie
 Signed off by: Renae, Fletcher
@@ -48,7 +48,7 @@ After:
 1. Dispose of off cuts (empty bin into skip if 3/4 full)
 1. Vacuuming includes: table, both compartments, tray, floor
 
-## Drill Press 
+## Drill Press ✔ 
 
 Lead: Renae Currie
 Signed off by: Renae, Fletcher
@@ -84,7 +84,7 @@ After:
 1. Reset table to appropriate height for general use
 1. Vacuuming includes: table, table chanels, floor
 
-## Fixed Belt Sander 
+## Fixed Belt Sander ✔ 
 
 Lead: Fletcher Boyd
 Signed off by, Fletcher, Renae
@@ -206,7 +206,7 @@ After:
 1. Vacuuming includes plate, bench, floor, and under spindle guard
 1. Return all spindles/guards etc to their respective holders
 
-## Saw (Mitre) 
+## Saw (Mitre) ✔ 
 
 Lead: XXX
 Signed off by: Renae, Fletcher

@@ -2,7 +2,7 @@
 title: New Visitors Guide
 description: First time at the space? This page will help you get started
 published: true
-date: 2024-06-10T09:37:53.149Z
+date: 2024-06-10T13:29:01.643Z
 tags: official
 editor: markdown
 dateCreated: 2024-06-10T09:30:37.279Z
@@ -44,7 +44,7 @@ Please take a few minutes to read this New Visitors Guide to orientate yourself 
 * [Constitution](/constitution)
     * If you're curious this is the overarching document that defines how we operate.
     
-* The Perth Artifactory [Emergency Plan is available for viewing here](https://wiki.artifactory.org.au/lib/exe/fetch.php?media=events:artifactory_emergency_plan_-_june_2019.png) in addition to those displayed in every single room of the Artifactory. It shows the location of the first aid kits, Fire extinguishers/hose, switchboard, muster point and escape route.
+* The Perth Artifactory Emergency Plan is displayed at the entrance of the Artifactory. It shows the location of the first aid kits, Fire extinguishers/hose, switchboard, muster point and escape route.
 
 * Reporting injuries (or near misses) helps us keep everyone safe. Use [this form](https://cloud.artifactory.org.au/apps/forms/62rTWpZH4fr5di2H) to document the details while they're fresh in your mind.
 

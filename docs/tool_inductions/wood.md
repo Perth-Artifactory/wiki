@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-05-21T05:48:50.059Z
+date: 2024-06-10T07:32:49.641Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -15,6 +15,7 @@ These are tools in the wood category only. You may be thinking of the [power too
 ## Bandsaw (Wood) 
 
 Lead: Renae Currie
+Signed off by: Renae, Fletcher
 
 | Item  | Req | Notes  |
 | - | - | - |
@@ -50,6 +51,7 @@ After:
 ## Drill Press 
 
 Lead: Renae Currie
+Signed off by: Renae, Fletcher
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -85,12 +87,13 @@ After:
 ## Fixed Belt Sander 
 
 Lead: Fletcher Boyd
+Signed off by, Fletcher, Renae
 
 | Item  | Requirement | Notes  |
 | - | - | - |
 | Eye protection (impact/splash) | Y | Dust |
 | Ear protection                 | M | Tool is over 85db, consider for long jobs (1hr+) |
-| Gloves (general)               | N | Moving parts TODO |
+| Gloves (general)               | N | Moving parts |
 | Enclosed shoes                 | Y |  |
 | Mask/Respirator (dust)         | M | P2 if material is toxic (MDF etc) |
 
@@ -118,93 +121,95 @@ After:
 ## Jointer 
 
 Lead: XXX
+Signed off by: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | Y |  |
+| Ear protection                 | Y |  |
+| Gloves (general)               | N | Spinning blades |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material weight dependant |
+| Mask/Respirator (dust)         | Y | Material toxicity dependant (MDF etc) |
 
 Pre:
 1. Check blades for sharpness and correct adjustment
 1. Ensure the workpiece is flat and free from loose knots
+1. Check material for fixings with metal detector
+1. Do not feed material in endgrain up
+1. Consider fixing small pieces to larger board
+1. Warn others around you and give them an opportunity to don appropriate PPE
 
 Using:
-1. Use push blocks for handling small pieces
 1. Move smoothly and keep your hands away from the blades
+1. Do not force material into machine
+1. Pass depth is dependant on material but is typically no more than 1 rotation
 
 After:
-1. Clean the machine after use to ensure it's ready for the next user
+1. Check blades for damage/material (disconnect first)
+1. Cleanup includes inside the machine, bench, and floor
 
 ## Router (Table) 
 
 Lead: XXX
+Signed off by: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | Y |  |
+| Ear protection                 | Y |  |
+| Gloves (general)               | N | Spinning bit |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material weight dependant |
+| Mask/Respirator (dust)         | M | Material toxicity dependant (MDF etc) |
 
 Pre:
-1. Confirm correct bit and router speed
+1. Check bit is appropriate for material (type) and intended cut (profile)
+1. Inspect bit for damage (Cutting edge, bent)
+1. Set router to appropriate height to appropriate depth of cut for material (hardness) and tool profile (bit)
+1. Set table fence if using
+1. Ensure work area is clear
 
 Using:
-1. 
+1. Use pushsticks for small pieces
+1. The material should be fed against the rotation of the bit, ie the opposite direction to if the bit was a wheel. For external cuts this is right to left. (Inverted from trim/plunge router). Right hand thumb rule can be used to determine bit rotation if unclear
+1. Consider climb cutting where appropriate (rough wood, may need deeper passes) - Advanced users only
 
 After:
-1. 
+1. Remove bit from router and return to case (may be hot)
+1. Cleanup includes table/router/floor
 
 ## Sander (Spindle) 
 
 Lead: XXX
+Signed off by: Fletcher, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | Y | Dust |
+| Ear protection                 | M | Recommended for long sessions |
+| Gloves (general)               | N | Spindle may catch gloves |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material weight dependant |
+| Mask/Respirator (dust)         | M | If sanding toxic material |
 
 Pre:
+1. Change spindle to appropriate diameter for work (including top/bottom pieces). Remember that spindle moves up and down.
 1. Check spindle for tightness and sanding sleeve for wear
 
 Using:
 1. Sand with gentle pressure and even motion
+1. Do not lift material up from the plate
 1. Keep fingers away from rotation
 
 After:
-1. 
+1. Vacuuming includes plate, bench, floor, and under spindle guard
+1. Return all spindles/guards etc to their respective holders
 
 ## Saw (Mitre) 
 
 Lead: XXX
+Signed off by: Renae, Fletcher
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -245,26 +250,21 @@ After:
 ## Saw (Table) 
 
 Lead: Renae Currie
+Signed off by: 
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
+| Eye protection (impact/splash) | Y |  |
+| Ear protection                 | Y |  |
 | Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material weight dependant |
+| Mask/Respirator (dust)         | M | P2 if cutting material that should not be inhaled (MDF etc) |
 
 Pre:
 1. Check blade for sharpness and correct height/angle
 1. Use rip fence or mitre gauge, not both
-1. Turn off and unplug when changing blades
+1. Unplug when changing blades
 
 Using:
 1. Stand to side, not directly behind blade
@@ -277,6 +277,7 @@ After:
 ## Drum Sander  
 
 Lead: Renae
+Signed off by: Renae, Tom
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -306,82 +307,50 @@ Lead: Renae
 Tool Familiarisation:
 
 1. Tool requires dust extraction, currently set up for connecting to shop vac. 
-
 1. Drum and belt are controlled separately. Show switches.
-
 1. Show height control handle 
-
 1. Open drum cover by pressing black knob and lifting cover.
-
 1. THERE IS NO INTERLOCK on drum cover. Drum will spin if turned on with cover open.
-
 1. Maximum use period 30 minutes. Then 5 minutes cooldown for tool and shop-vac required.
-
 
 Pre-Start Checks - Material
 
 1. Check material is apropriate for use on this tool (eg, no Sheoak)
-
 1. Check any timber of unknown origin (eg, reclaimed timber) for nails or other metal with metal detector
-
 1. Check for sharp edges sticking out from material that may damage the conveyor or drum sandpaper
-
 1. Check material is already of even thickness by measuring four corners (run through thicknesser or other sander first if needed)
 
 
 Pre-Start Checks - Tool
 
 1. Check appropriate grit installed on drum
-
 1. Check tension and condition of the sand paper
-
 1. Check condition of conveyor
-
 1. Check conveyor tracking by running conveyor at full speed and check for sideways movement. Tracking only to be adjusted by trainers. 
-
 1. Check conveyor tension by slowing down conveyor. If conveyor can be stopped with hand presure it is too loose. Tension only to be adjusted by trainers.
-
 1. Turn machine and conveyor off.
-
 
 Using:
 
 1. ensure material is stable on conveyer (bowing up/cupping down)
-
 1. set depth of cut (open top and lower untill the drum contacts material but can still be spun by hand)
-
 1. raise drum 1/4 turn and remove material.
-
 1. close cover
-
 1. connect shop-vac for dust extraction. 
-
 1. start drum
-
 1. start conveyer and adjust feed rate (suggest start at 30-40%)
-
 1. turn on dust extraction
-
 1. feed stock through machine
-
 1. feed material at about 30 deg angle if possible to begin with, final passes with the grain (more effective material removal)
-
 1. lower drum between each pass, 1/4 to max 1/2 handle turn per pass
-
 1. repeat steps 6-9 until desired thickness reached
-
 1. after every 30 mins of operation, turn off machine and dust extraction for minimum 5mins. Take this time to empty the shop vac.
-
 
 After:
 
 1. turn off drum and conveyer
-
 1. vacuum/sweep/blow out all sawdust, including in the drum head
-
 1. clean drum with sandpaper cleaning stick
-
 1. clean up stick residue from conveyor.
-
 1. Check shopvac and empty if more than 1/4 full. (fine dust, will effect performance and vacuum life more than normal sawdust.
 

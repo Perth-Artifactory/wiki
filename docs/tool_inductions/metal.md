@@ -2,7 +2,7 @@
 title: Medium - Metal
 description: 
 published: true
-date: 2024-01-28T07:10:27.743Z
+date: 2024-06-10T07:48:40.352Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -25,38 +25,41 @@ Lead: XXX
 | Safety boots                   | M | Depending on weight of material |
 
 Pre:
+1. Confirm material is appropriate for blade type (Metal hardness up to steel)
 1. Check blade sharpness and tension
-2. Ensure the work area is clear and all safety guards are in place
+1. Consider material orientation to reduce risk of movement
+1. Clamp piece using machine clamp
+1. Consider work holding when piece is cut
 
 Using:
-1. Use appropriate blade for the metal type and thickness being cut
-2. Ensure material is secure before cutting
+1. Ensure tool is completely spun up before contacting material
+1. Rest running blade on surface and adjust spring tension to achieve desired cut pressure
+1. Tool *should* turn off automatically when material is cut through. May not actuate where end of cut takes a long time
 
 After:
-1. Clean area of metal shavings
-2. Turn off and unplug when changing blades
+1. Piece may be hot
+1. Cleanup includes tray under saw, ground
 
 ## Bench Grinder 
 
 TODO
 
 Lead: XXX
+Signed off by: 
 
 | Item  | Requirement | Notes  |
 | - | - | - |
 | Eye protection (impact/splash) | Y | Sparks/grinding particulate |
 | Ear protection                 | M | Depending on material |
 | Gloves (general)               | M | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (heat)                  | N | If held material is hot enough to require gloves it's being used improperly |
+| Gloves (heat)                  | N | If held material is hot enough to require gloves it's being used improperly, use alternative tool or workholding method |
 | Enclosed shoes                 | Y | Sparks/particulate |
 | Safety boots                   | M |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Mask/Respirator (dust)         | M | Depends on material and wheel composition |
 
 Pre:
 1. Check condition of wheels for cracks or damage
-2. Ensure grindstone is the correct type for material
+2. Ensure grindstone appropriate for material type
 
 Using:
 1. Secure workpiece, use rests to support as needed
@@ -101,6 +104,7 @@ After:
 ## Saw (Friction) 
 
 Lead: XXX
+Signed off by: Fletcher, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -114,16 +118,19 @@ Lead: XXX
 | Natural fibre clothing         | Y | Sparks |
 
 Pre:
-1. Check blade condition and interlock function
-2. Secure materials and clear the work area
+1. Ensure material is appropriate for blade type (steel)
+1. Check blade condition
+1. Secure material in clamp
+1. Remove flammable material from spark path
+1. Warn people around you and give them time to don appropriate PPE
 
 Using:
-1. Wear appropriate PPE for heat and sparks
-2. Do not force the blade; let the saw do the cutting
+1. Do not force the blade; let the saw do the cutting
 
 After:
+1. Material will be hot
 1. Let the machine cool completely before cleaning
-2. Clean machine and work area
+1. Clean machine and work area
 
 ## Welder (MIG) 
 

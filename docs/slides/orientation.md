@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T11:38:02.106Z
+date: 2024-06-20T11:42:11.430Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -18,15 +18,11 @@ Our Constitution governs how the organisation operates, everything flows down fr
 
 ## Who makes decisions about the space?
 
-Each year a Management Committee is elected from our members. The Committee sets the overall direction of the organisation for the year and makes the practical day to day decisions that keep the space running.^[Perth Artifactory Inc Constitution, Part 5]
-
-::: aside
-test
-:::
+Each year a Management Committee is elected from our members. The Committee sets the overall direction of the organisation for the year and makes the practical day to day decisions that keep the space running. (Constitution Part 5)
 
 ## Your rights as a member
 
-When disputes arise in the space you're able to make use of our dispute resolution process.^[Perth Artifactory Inc Constitution, Part 4]
+When disputes arise in the space you're able to make use of our dispute resolution process. (Constitution Part 4)
 
 ## By-laws
 

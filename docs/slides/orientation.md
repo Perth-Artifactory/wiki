@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T11:43:50.462Z
+date: 2024-06-20T11:50:32.238Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -57,7 +57,7 @@ Many Artifactory attendees offer training, help and advice to members and visito
 * Checking the whiteboard near the front of the space for things that haven't been done in a while
 * Helping with the communal cleaning - empty the bins, vacuum the project area
 * Tidying up the space - sort the hardware drawers, neaten the tool racks
-* Volunteering to help with a project or event - ask any commitee member - there's always lots to do!
+* Volunteering to help with a project or event
 
 ## Cleaning up after yourself
 
@@ -119,11 +119,12 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 * Talking with the involved people, explaining the issues and building better understanding between attendees
 * Written formal warning for the specific incident
 * Temporary suspension of membership including restricted access to the premises and online platforms
+
+## 
+
 * Termination of membership
 * Barring from the Artifactory premises and online platforms
 * Reporting to any relevant authorities
-
-## 
 
 # Finance and Admin
 

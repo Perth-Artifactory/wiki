@@ -2,17 +2,17 @@
 title: Workshop Orientation
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T10:29:52.715Z
+date: 2024-06-20T10:42:21.322Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
 ---
 
-# Who are we?
+# Who are we? {data-background-image="https://artifactory.org.au/_astro/hero.CYlirp3c_2vxTl2.webp"}
 
-The Artifactory is a volunteer run shared workspace.
+The Artifactory is a not-for-profit shared workspace and community that's run entirely by volunteers
 
-# {data-background-image="https://artifactory.org.au/_astro/hero.CYlirp3c_2vxTl2.webp"}
+# 
 
 # Code of Conduct
 

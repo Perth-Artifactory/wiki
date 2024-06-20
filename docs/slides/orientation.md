@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T11:42:11.430Z
+date: 2024-06-20T11:43:50.462Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -51,6 +51,8 @@ Sometimes disagreements can be frustrating but that is no excuse for poor behavi
 ## Volunteers
 
 Many Artifactory attendees offer training, help and advice to members and visitors. We should be mindful that these people are volunteers and so must be treated with respect and allowed time to work on their own projects if they so wish. The best way to say thank you to our volunteers is by:
+
+##
 
 * Checking the whiteboard near the front of the space for things that haven't been done in a while
 * Helping with the communal cleaning - empty the bins, vacuum the project area

@@ -2,7 +2,7 @@
 title: Artifactory Access
 description: 
 published: true
-date: 2024-06-03T09:55:22.539Z
+date: 2024-06-20T10:21:58.968Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:47.883Z
@@ -14,7 +14,7 @@ The Perth Artifactory is a nonprofit organization run entirely by volunteers and
 
 ## Member RFID Key Access:
 
-If you have a Full or Concession membership then you can opt to sign up for a 24/7 access key. When doing so you will be required to pay a bond equal to three months of your membership fees. If you would like to get a 24/7 contact the [Treasurer](/mailto/treasurer@artifactory.org.au).
+If you have a Full or Concession membership and meet a list of [requirements](/docs/policies/bylaws#rfid-keys-for-members) then you can opt to apply for a 24/7 access key. When doing so you will be required to pay a bond equal to three months of your membership fees. If you would like to get a key contact the [Membership Officer](mailto:membership@artifactory.org.au).
 
 ## Member Access:
 
@@ -23,6 +23,10 @@ Members who have not paid for a key have a variety of methods to access the spac
 ### Webcams
 
 Check the webcams to see if there is already a key holding member who has opened up and come down. Some members have opted in to the presence list at the bottom of the page. If one of these members is in the space you can also usually message them on Slack to check how long they'll be sticking around. However, we require a keyholder to be present any time there are people in the workshop. This means that if the last keyholder wants to leave they'll let you know \~15 minutes beforehand to give you time to pack up.
+
+> In this context opening up the space means leaving the front door open. Keyholders are welcome to use the workshop without opening the space and are not obligated to do so.
+{.is-info}
+
 
 ### Regular Events
 

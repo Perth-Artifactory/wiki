@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:41:56.710Z
+date: 2024-06-20T12:44:14.985Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -28,7 +28,7 @@ When disputes arise in the space you're able to make use of our dispute resoluti
 
 The Management Committee sets out the day to day operation of the space through the use of by-laws. The full text can be found by searching `By-laws` on the wiki.
 
-# Code of Conduct {data-background-color="rgb(43, 4, 0)"}
+# Code of Conduct {data-background-color="rgb(0, 6, 43)"}
 
 Our code of conduct is the guiding document for your actions in the space. You can find it:
 
@@ -36,30 +36,30 @@ Our code of conduct is the guiding document for your actions in the space. You c
 * On our main website: artifactory.org.au
 * In the workshop just through the foyer door
 
-# Respectful Behaviour {data-background-color="rgb(43, 4, 0)"}
+# Respectful Behaviour {data-background-color="rgb(0, 6, 43)"}
 
 Treat one another with respect
 
-## Diversity and discrimination expectations {data-background-color="rgb(43, 4, 0)"}
+## Diversity and discrimination expectations {data-background-color="rgb(0, 6, 43)"}
 
 The Artifactory attendees come from a diverse variety of backgrounds. That diversity enriches our community and so we must work to ensure all members feel welcome and safe. Sexual harassment, bullying or discrimination will not be tolerated - both in person and online. Any behaviours that make attendees feel uncomfortable or unsafe are unacceptable and action will be taken to ensure a safe environment for all attendees.
 
-## Disagreements {data-background-color="rgb(43, 4, 0)"}
+## Disagreements {data-background-color="rgb(0, 6, 43)"}
 
 Sometimes disagreements can be frustrating but that is no excuse for poor behavior or poor manners. Disagreement, debate and constructive criticism can help develop ideas but it should never cross into personal attacks.
 
-## Volunteers {data-background-color="rgb(43, 4, 0)"}
+## Volunteers {data-background-color="rgb(0, 6, 43)"}
 
 Many Artifactory attendees offer training, help and advice to members and visitors. We should be mindful that these people are volunteers and so must be treated with respect and allowed time to work on their own projects if they so wish. The best way to say thank you to our volunteers is by:
 
-## {data-background-color="rgb(43, 4, 0)"}
+## {data-background-color="rgb(0, 6, 43)"}
 
 * Checking the whiteboard near the front of the space for things that haven't been done in a while
 * Helping with the communal cleaning - empty the bins, vacuum the project area
 * Tidying up the space - sort the hardware drawers, neaten the tool racks
 * Volunteering to help with a project or event
 
-## Cleaning up after yourself {data-background-color="rgb(43, 4, 0)"}
+## Cleaning up after yourself {data-background-color="rgb(0, 6, 43)"}
 
 Our workshop is a shared space with an abundance of communal work areas and tools. Leave the space clean and tidy for other attendees so that volunteers don’t have to spend time cleaning up after you.
 
@@ -68,11 +68,11 @@ Our workshop is a shared space with an abundance of communal work areas and tool
 * Put away everything you used.
 * Clean the area you worked in - wipe, sweep, vacuum.
 
-# Safe Use of Tools {data-background-color="rgb(43, 4, 0)"}
+# Safe Use of Tools {data-background-color="rgb(0, 6, 43)"}
 
 The safety of every member is very important
 
-## Work safely {data-background-color="rgb(43, 4, 0)"}
+## Work safely {data-background-color="rgb(0, 6, 43)"}
 
 Always follow established procedures, adhere to safety signage and wear appropriate protective equipment. Ask for help and training if you are unsure how to use our tools and follow that advice. Consider the risk to others around you and put up barriers, exclusion zones or signage as needed.
 
@@ -80,39 +80,39 @@ Always follow established procedures, adhere to safety signage and wear appropri
 * Ensure access areas are kept clean, tools are safe.
 * Ensure that your clothing is appropriate.
 
-## Working under the influence {data-background-color="rgb(43, 4, 0)"}
+## Working under the influence {data-background-color="rgb(0, 6, 43)"}
 
 Do not use tools while under the influence of alcohol, drugs, or other inhibiting substances.
 
-# Integrity {data-background-color="rgb(43, 4, 0)"}
+# Integrity {data-background-color="rgb(0, 6, 43)"}
 
 Always be honest
 
-## Report damage {data-background-color="rgb(43, 4, 0)"}
+## Report damage {data-background-color="rgb(0, 6, 43)"}
 
 Report any damage to tools including mistakes you make. It happens, we have all been there! If you come across damaged tools or low consumables, likewise report it.
 
-## Respect ownership {data-background-color="rgb(43, 4, 0)"}
+## Respect ownership {data-background-color="rgb(0, 6, 43)"}
 
 Respect the ownership of tools and materials. Do not remove Artifactory equipment from the premises unless you have permission. Ensure you have permission before using another member’s tools or materials.
 
-## Conflicts of interest {data-background-color="rgb(43, 4, 0)"}
+## Conflicts of interest {data-background-color="rgb(0, 6, 43)"}
 
 Report any conflicts of interest that may be applicable.
 
-# Complaints and Reporting {data-background-color="rgb(43, 4, 0)"}
+# Complaints and Reporting {data-background-color="rgb(0, 6, 43)"}
 
-## Who to contact {data-background-color="rgb(43, 4, 0)"}
+## Who to contact {data-background-color="rgb(0, 6, 43)"}
 
 * Talk to a committee member (see: committee members list)
 * Email the management committee: committee@artifactory.org.au
-* Email the executive committee (Chair, Deputy Chair, Secretary Treasurer): exec@artifactory.org.au
+* Email the executive committee (Chair, Deputy Chair, Secretary, Treasurer): exec@artifactory.org.au
 * Slack direct message to a committee member
 * Ask another Artifactory member to report the incident on your behalf
 
 We have processes in place to ensure confidentiality of reported incidents.
 
-## What will happen {data-background-color="rgb(43, 4, 0)"}
+## What will happen {data-background-color="rgb(0, 6, 43)"}
 
 All incidents are handled on a case-by-case basis. Depending on the incident, the response may include:
 
@@ -120,7 +120,7 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 * Written formal warning for the specific incident
 * Temporary suspension of membership including restricted access to the premises and online platforms
 
-## {data-background-color="rgb(43, 4, 0)"}
+## {data-background-color="rgb(0, 6, 43)"}
 
 * Termination of membership
 * Barring from the Artifactory premises and online platforms

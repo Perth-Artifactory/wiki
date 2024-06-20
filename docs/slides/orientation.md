@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:46:14.327Z
+date: 2024-06-20T12:47:23.412Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -146,7 +146,7 @@ It's your responsbility to update this information in TidyHQ when it changes.
 
 ## Resignation
 
-We operate on a month-to-month basis which means there's no penalty for deciding you'd like to cancel or pause your membership. If you want to do either of these please **let us know** rather than just disappearing.
+We operate on a month-to-month basis which means there's no penalty for deciding you'd like to cancel or pause your membership. If you want to do either of these please **let us know** rather than just disappearing. Remember it's always a volunteer following up on overdue invoices.
 
 # Reporting
 

@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:47:23.412Z
+date: 2024-06-20T12:51:38.463Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -11,6 +11,18 @@ dateCreated: 2023-03-18T08:36:44.279Z
 # Who are we? {data-background-image="https://artifactory.org.au/_astro/hero.CYlirp3c_2vxTl2.webp"}
 
 The Artifactory is a not-for-profit shared workspace and community that's run entirely by volunteers
+
+# What this will cover
+
+* Constitution and By-laws
+* Code of Conduct
+* Finance and admin info
+* Storing things in the space
+* Accessing the workshop
+* Training
+* Communual items
+* Communication
+* Tech resources
 
 # Our Constitution and bylaws
 
@@ -152,7 +164,7 @@ We operate on a month-to-month basis which means there's no penalty for deciding
 
 ## Injuries
 
-Reporting injuries and near misses helps us keep everyone safe
+Reporting injuries and near misses helps us change our facilities and processes to prevent future incidents.
 
 https://perart.io/injuryreport
 
@@ -190,7 +202,7 @@ You can store sheets of material opposite the laser scrap and outside the machin
 
 ## Short term storage
 
-If you need to leave a project in the work space (paint drying etc)
+If you need to leave a project in the workspace (paint drying etc)
 
 * You leave your property unattended at your own risk.
 * You may leave your property in the work space for up to three days.

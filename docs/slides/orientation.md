@@ -2,13 +2,15 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:52:02.677Z
+date: 2024-06-20T12:52:24.890Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
 ---
 
-# Who are we? {data-background-image="https://artifactory.org.au/_astro/hero.CYlirp3c_2vxTl2.webp"}
+# {data-background-image="https://artifactory.org.au/_astro/hero.CYlirp3c_2vxTl2.webp"}
+
+# Who are we? 
 
 The Artifactory is a not-for-profit shared workspace and community that's run entirely by volunteers
 

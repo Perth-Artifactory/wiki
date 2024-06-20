@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:51:38.463Z
+date: 2024-06-20T12:52:02.677Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -19,6 +19,9 @@ The Artifactory is a not-for-profit shared workspace and community that's run en
 * Finance and admin info
 * Storing things in the space
 * Accessing the workshop
+
+##
+
 * Training
 * Communual items
 * Communication

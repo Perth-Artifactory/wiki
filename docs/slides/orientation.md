@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T11:58:04.262Z
+date: 2024-06-20T12:00:32.814Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -255,6 +255,17 @@ Take a look in #training_and_inductions on Slack and put your hand up for an app
 Search for Training Tracker on Slack
 
 # Communal Materials
+
+## Crafting materials
+
+* Laser scrap rack - Flat pieces of material of useful size
+* Upcycle rack - Old pieces of equipment that can be taken apart for components
+* Hack rack - Fans, power supplies, scrap wood etc
+
+##
+
+* Cleaning products: kitchen
+Spray paint: filing cabinet in the back shed - unless labelled with someone's name.
 
 # Communication
 

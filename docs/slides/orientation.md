@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:07:53.793Z
+date: 2024-06-20T12:08:51.385Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -304,4 +304,10 @@ Your Member Work directory can be accessed in a few different ways:
 
 ## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
 
-## Wiki {data-background-iframe="https://wiki.artifactory.org.au"}
+## Wiki
+
+* Resources on facilities and tools
+* Governing documents
+* Meeting minutes
+
+wiki.artifactory.org.au

@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:08:51.385Z
+date: 2024-06-20T12:11:55.474Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -143,6 +143,10 @@ It's your responsbility to update this information in TidyHQ when it changes.
 * Your full name
 * Your contact information (email and physical address)
 * Your emergency contact information
+
+## Resignation
+
+We operate on a month-to-month basis which means there's no penalty for deciding you'd like to cancel or pause your membership. If you want to do either of these please **let us know** rather than just disappearing.
 
 # Reporting
 

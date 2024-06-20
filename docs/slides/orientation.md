@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:00:32.814Z
+date: 2024-06-20T12:02:40.864Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -264,10 +264,24 @@ Search for Training Tracker on Slack
 
 ##
 
-* Cleaning products: kitchen
-Spray paint: filing cabinet in the back shed - unless labelled with someone's name.
+* Cleaning products are in the kitchen
+* Spray paint is stored in the filing cabinet in the back shed - unless labelled with someone's name.
+
+## Check!
+
+For other areas of the space check with another member before you start using supplies. Many supplies belong to individual members.
+
+## 
+
+If you find you are using a lot of a communal supply (superglue, turpentine, masking tape, wood screws...), or you have used up the last of something, you should buy more for the space. The supplies you used were also donated by other members.
 
 # Communication
+
+## Slack
+
+Slack is the number one point of contact for anything and everything Artifactory.
+
+If you would like to be trained on a certain machine, report a fault with the equipment, or even need input and advice for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
 
 # Tech resources
 

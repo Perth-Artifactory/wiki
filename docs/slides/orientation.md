@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:15:57.114Z
+date: 2024-06-20T12:41:56.710Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -186,7 +186,7 @@ You can store sheets of material opposite the laser scrap and outside the machin
 
 ## Workspace Usage
 
-* When actively working on a project you can occupy up to three trestles provided the (or the space) isn't needed for an event
+* When actively working on a project you can occupy up to three trestles provided the trestles (or the space) aren't needed for an event
 
 ## Short term storage
 

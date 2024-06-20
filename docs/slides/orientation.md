@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:05:04.511Z
+date: 2024-06-20T12:07:05.083Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -211,10 +211,10 @@ Members who meet our requirements may apply for a 24/7 electronic key. These app
 * Don't act against the interests of the Association, (Follow the Code of Conduct)
 * Pay a bond ($135 concession, $225 full)
 * Have no outstanding invoices,
-* Demonstrate that you are competent to make decisions on who can enter the space
 
 ##
 
+* Demonstrate that you are competent to make decisions on who can enter the space
 * Demonstrate that you can:
   * Work unsupervised,
   * Undertake tasks safely,

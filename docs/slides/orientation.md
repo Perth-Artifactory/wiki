@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T11:50:32.238Z
+date: 2024-06-20T11:57:02.042Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -152,7 +152,7 @@ Reporting injuries and near misses helps us keep everyone safe
 
 https://perart.io/injuryreport
 
-![reporting form](https://perart.io/injuryreport/qr-code)
+![](https://perart.io/injuryreport/qr-code)
 
 ## Workshop cleanliness and tool repair
 
@@ -160,7 +160,7 @@ The workshop only works if people are held accountable for leaving the workshop 
 
 https://perart.io/workshopreport
 
-![reporting form](https://perart.io/workshopreport/qr-code)
+![](https://perart.io/workshopreport/qr-code)
 
 # Storage
 

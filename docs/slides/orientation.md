@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T11:57:02.042Z
+date: 2024-06-20T11:57:30.973Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -191,6 +191,9 @@ If you need to leave a project in the work space (paint drying etc)
 * You leave your property unattended at your own risk.
 * You may leave your property in the work space for up to three days.
 * You must prominently label your property with your name, contact details, and intended pickup date.
+
+##
+
 * Your property may occupy up to one trestle table's worth of work space.
 * Your property must be left in a safe and movable state, in case your property needs to be moved for a scheduled event.
 

@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:02:40.864Z
+date: 2024-06-20T12:02:59.090Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -282,6 +282,8 @@ If you find you are using a lot of a communal supply (superglue, turpentine, mas
 Slack is the number one point of contact for anything and everything Artifactory.
 
 If you would like to be trained on a certain machine, report a fault with the equipment, or even need input and advice for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
+
+artifactory.org.au/slack
 
 # Tech resources
 

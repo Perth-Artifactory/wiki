@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:02:59.090Z
+date: 2024-06-20T12:04:31.810Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -285,7 +285,19 @@ If you would like to be trained on a certain machine, report a fault with the eq
 
 artifactory.org.au/slack
 
+## Social Media
+
+You can find us on:
+
+* Facebook
+* Meetup (mirrored events)
+
 # Tech resources
 
-# Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
+Your Member Work directory can be accessed in a few different ways:
+* From any computer in the space (Typically mounted as either "filer" or "Member Work")
+* By sending files to the user File Butler on Slack.
+* From your device when connected to the wifi. 
+
+## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
 

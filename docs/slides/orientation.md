@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-20T12:52:24.890Z
+date: 2024-06-22T09:06:27.738Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -315,6 +315,10 @@ You can find us on:
 
 # Tech resources
 
+## Sharing pictures
+
+Pictures shared in `#it_photo-stream` on Slack will be saved for our Social Media team. Please share pictures of things you've made in the space.
+
 ## Member Work
 
 Your Member Work directory can be accessed in a few different ways:
@@ -332,3 +336,5 @@ Your Member Work directory can be accessed in a few different ways:
 * Meeting minutes
 
 wiki.artifactory.org.au
+
+# Questions?

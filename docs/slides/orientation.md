@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-22T09:06:27.738Z
+date: 2024-06-22T09:29:43.517Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -312,6 +312,12 @@ You can find us on:
 
 * Facebook
 * Meetup (mirrored events)
+
+## Events
+
+Upcoming events can be found on our public calendar. You can add this calendar to your phone if you like. (Events link in the navbar of the main site)
+
+https://artifactory.org.au/events
 
 # Tech resources
 

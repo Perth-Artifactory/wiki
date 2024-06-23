@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-06-23T09:38:13.356Z
+date: 2024-06-23T10:07:48.975Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -283,8 +283,8 @@ Signed off by: Renae, Tom
 | - | - | - |
 | Eye protection (impact/splash) | Y | Flying dust |
 | Ear protection                 | M | Depends on length of job |
-| Gloves (general)               | M |  |
-| Enclosed shoes                 | Y | |
+| Gloves (general)               | M | Hands don't go near moving parts, material may have splinters etc |
+| Enclosed shoes                 | Y | Dropped material |
 | Mask/Respirator (dust)         | M | Recomended for resin, toxic timbers and clean up|
 
 

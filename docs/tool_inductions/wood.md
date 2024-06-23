@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-06-10T07:34:53.205Z
+date: 2024-06-23T09:35:47.352Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -22,8 +22,8 @@ Signed off by: Renae, Fletcher
 | Eye protection (impact/splash) | Y | Flying chips |
 | Ear protection                 | M | Material dependant |
 | Gloves (general)               | N | Moving parts |
-| Enclosed shoes                 | Y | Falling off cuts |
-| Safety boots                   | M | Falling heavy off cuts |
+| Enclosed shoes                 | Y | Falling material and debris|
+| Safety boots                   | M | Falling material (heavy)|
 | Mask/Respirator (dust)         | M | P2 if material is toxic (MDF etc) |
 
 Pre: 

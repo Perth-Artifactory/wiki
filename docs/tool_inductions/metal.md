@@ -2,7 +2,7 @@
 title: Medium - Metal
 description: 
 published: true
-date: 2024-06-10T07:48:40.352Z
+date: 2024-06-24T12:18:31.650Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -14,13 +14,14 @@ These are tools in the metal category only. You may be thinking of the [power to
 
 ## Bandsaw (Metal)
 
-Lead: XXX
+Lead: Ben Connor (Doesn't know this yet)
+Signed off by: XXX, Fletcher
 
 | Item  | Requirement | Notes  |
 | - | - | - |
 | Eye protection (impact/splash) | Y | Flying swarf |
 | Ear protection                 | M | No reason not to but isn't loud |
-| Gloves (general)               | Y | Sharp material |
+| Gloves (general)               | M | Sharp material |
 | Enclosed shoes                 | Y | Sharp swarf |
 | Safety boots                   | M | Depending on weight of material |
 
@@ -29,9 +30,10 @@ Pre:
 1. Check blade sharpness and tension
 1. Consider material orientation to reduce risk of movement
 1. Clamp piece using machine clamp
-1. Consider work holding when piece is cut
+1. Consider work holding after piece is cut
 
 Using:
+1. Consider using cutting fluid
 1. Ensure tool is completely spun up before contacting material
 1. Rest running blade on surface and adjust spring tension to achieve desired cut pressure
 1. Tool *should* turn off automatically when material is cut through. May not actuate where end of cut takes a long time
@@ -76,6 +78,7 @@ This tool is in multiple categories. [Master](/docs/tool_inductions/wood#drill-p
 ## Plasma Cutter 
 
 Lead: XXX
+Signed off by: XXX, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -125,6 +128,7 @@ Pre:
 1. Warn people around you and give them time to don appropriate PPE
 
 Using:
+1. Spin blade up before contacting material
 1. Do not force the blade; let the saw do the cutting
 
 After:
@@ -135,6 +139,7 @@ After:
 ## Welder (MIG) 
 
 Lead: XXX
+Signed off by: XXX, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -163,6 +168,7 @@ After:
 ## Welder (Stick/SMAW) 
 
 Lead: XXX
+Signed off by: XXX, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |

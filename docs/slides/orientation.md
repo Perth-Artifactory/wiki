@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-22T09:31:11.747Z
+date: 2024-06-24T10:38:20.433Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -83,6 +83,7 @@ Our workshop is a shared space with an abundance of communal work areas and tool
 * Leave the space cleaner than you found it.
 * Pick up your rubbish.
 * Put away everything you used.
+* Food waste in the skip bin
 * Clean the area you worked in - wipe, sweep, vacuum.
 
 # Safe Use of Tools {data-background-color="rgb(0, 6, 43)"}

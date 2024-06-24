@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-06-23T10:07:48.975Z
+date: 2024-06-24T12:14:55.515Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -189,18 +189,18 @@ Signed off by: Fletcher, XXX
 | Eye protection (impact/splash) | Y | Dust |
 | Ear protection                 | M | Recommended for long sessions |
 | Gloves (general)               | N | Spindle may catch gloves |
-| Enclosed shoes                 | Y |  |
+| Enclosed shoes                 | Y | Falling work pieces |
 | Safety boots                   | M | Material weight dependant |
 | Mask/Respirator (dust)         | M | If sanding toxic material |
 
 Pre:
-1. Change spindle to appropriate diameter for work (including top/bottom pieces). Remember that spindle moves up and down.
+1. Change spindle to appropriate diameter for work (including top/bottom pieces). Remember that spindle moves up and down. (Put bottom guard in after drum to confirm correct size)
 1. Check spindle for tightness and sanding sleeve for wear
 
 Using:
 1. Sand with gentle pressure and even motion
 1. Do not lift material up from the plate
-1. Keep fingers away from rotation
+1. Keep fingers away from the spindle
 
 After:
 1. Vacuuming includes plate, bench, floor, and under spindle guard

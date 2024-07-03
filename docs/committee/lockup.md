@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2024-05-27T10:25:26.622Z
+date: 2024-07-03T01:26:08.807Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -36,7 +36,8 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 ## Design Lab
 
-* 🏘️ Lights are off.
+* 🏘️ Turn lights off.
+* 🏘 Turn aircon off with button above the light switch.
 * Computers can stay on.
 
 ## Electronics Lab
@@ -57,6 +58,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 # Recent changes
 
+* Document design aircon button
 * Electronics lab is back
 * 3D printers no longer need to be turned off
 * Clarify that welding lights aren't switched by the GPO

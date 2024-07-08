@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-08T14:12:14.902Z
+date: 2024-07-08T14:32:39.093Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -73,13 +73,6 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🔴|CNC router| |CNC router ("Swarf-o-mat")|![](/tools/images/ =200x)|Metal machining area|:gift:
 
 
-
-
-
-
-
-
-
 ## 3D Printers (FDM)
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
@@ -131,11 +124,18 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🟢|Electric Lamp| |Spectra Lite 990|![spectra990.webp](/tools/images/spectra990.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
 
 
-## Electronics Lab
+## Design Lab
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
+|🟡|Vacuformer| |Mayku Formbox|![formbox.webp](/tools/images/formbox.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Brother sewing machine| |JS1410|![js1410.webp](/tools/images/js1410.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Vinyl cutter| |Cutting Plotter 1351|![1351.webp](/tools/images/1351.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Wacom Intuos3 drawing tablet| |Wacom Intuos3|![intuos3.webp](/tools/images/intuos3.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 
 
+## Lasers Area
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 
 
 

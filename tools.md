@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-08T14:45:33.145Z
+date: 2024-07-08T14:45:46.303Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -145,7 +145,6 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🟡|Drum Sander| |PerformaX 16-32 Plus|![1632drum.webp](/tools/images/1632drum.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Cordless Planer| |Makita DKP181|![dkp181.webp](/tools/images/dkp181.webp =200x)|Centre Table|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Angle Grinder| |Bosch GWS 17-125 CIX|![17125.webp](/tools/images/17125.webp =200x)|Centre Table|![aflogo_28px.webp](/aflogo_28px.png)
-
 
 
 ## Shed

@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-06-02T03:04:34.759Z
+date: 2024-07-08T13:36:28.565Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -43,34 +43,42 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Metal Tools
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟡|Weldskill 100 welder| [:dollar:](/docs/policies/fees) |WeldSkill 100 [:link:](https://www.cigweld.com.au/product/weldskill-100-mig-portable-gasless-welding-machine/) [:book:](/tools/manuals/weldskill100.pdf)|![weldskill100_s.jpg](/tools/images/weldskill100_s.jpg =200x)|Welding bay|:gift:
-|🟡|Weldskill 180 welder| [:dollar:](/docs/policies/fees) |WeldSkill 180 [:link:](https://www.cigweld.com.au/product/weldskill-180/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill180_s.jpg](/tools/images/weldskill180_s.jpg =200x)|Welding bay|:gift:
-|🟡|140 welder stick| [:dollar:](/docs/policies/fees) |WeldSkill 140 [:link:](https://www.cigweld.com.au/product/weldskill-140/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill140_s.jpg](/tools/images/weldskill140_s.jpg =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Unimig Razorweld MTS210 3-in-1 welder| [:dollar:](/docs/policies/fees) |MTS210 [:link:](https://usaweld.com/products/htp_america_mts_210) [:book:](/tools/manuals/mts210.pdf)|![mts210.webp](/tools/images/mts210.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Saber metal bandsaw| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Makita corded 125mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|:gift:
-|🟡|Black&Decker corded 100mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Weldskill 100 welder| [:dollar:](/docs/policies/fees#welding-with-gas) |WeldSkill 100 [:link:](https://www.cigweld.com.au/product/weldskill-100-mig-portable-gasless-welding-machine/) [:book:](/tools/manuals/weldskill100.pdf)|![weldskill100_s.jpg](/tools/images/weldskill100_s.jpg =200x)|Welding bay|:gift:
+|🟡|Weldskill 180 welder| [:dollar:](/docs/policies/fees#welding-with-gas) |WeldSkill 180 [:link:](https://www.cigweld.com.au/product/weldskill-180/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill180_s.jpg](/tools/images/weldskill180_s.jpg =200x)|Welding bay|:gift:
+|🟡|140 welder stick| [:dollar:](/docs/policies/fees#welding-with-gas) |WeldSkill 140 [:link:](https://www.cigweld.com.au/product/weldskill-140/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill140_s.jpg](/tools/images/weldskill140_s.jpg =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Unimig Razorweld MTS210 3-in-1 welder| [:dollar:](/docs/policies/fees#welding-with-gas) |MTS210 [:link:](https://usaweld.com/products/htp_america_mts_210) [:book:](/tools/manuals/mts210.pdf)|![mts210.webp](/tools/images/mts210.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Saber metal bandsaw| |MCB115S2|![mcb115s2.webp](/tools/images/mcb115s2.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Makita corded 125mm angle grinder| |GA5021C|![ga5021c.webp](/tools/images/ga5021c.webp =200x)|Welding bay|:gift:
+|🟡|Black&Decker corded 100mm angle grinder| |DN10N|![dn10n.webp](/tools/images/dn10n.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Ryobi cordless 115mm angle grinder (1)| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Ryobi cordless 115mm angle grinder (2)| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Ryobi corded 100mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Makita corded 230mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|:gift:
-|🟡|Metabo corded 100mm angle grinder| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Ryobi friction saw| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Ozito friction saw| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Plasma cutter| :dizzy_face:|TBC|![](/tools/images/ =200x)|Welding bay|:gift:
-|🔴|Mill| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
-|🔴|Metal lathe| |TBC|![](/tools/images/ =200x)|Metal machining area|![aflogo_28px.webp](/aflogo_28px.png)
-|🟢|Shearer / press brake| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
-|🔴|Vicmarc Wood lathe| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
-|🟡|Kiln| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Forge| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Foundry| |TBC|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|Supatool bench grinder| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|:gift:
-|🟡|Linshall? bench grinder| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|:gift:
-|🟡|Carbatec drill press| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Jepson lathe| :dizzy_face:|TBC|![](/tools/images/ =200x)|Machine room|:gift:
-|🟡|Ozito friction saw| :dizzy_face:|TBC|![](/tools/images/ =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|CNC router| |TBC|![](/tools/images/ =200x)|Metal machining area|:gift:
+|🟡|Ryobi corded 100mm angle grinder| |EAG75100RG|![eag75100g.webp](/tools/images/eag75100g.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Makita corded 230mm angle grinder| |M9001|![m9001b.webp](/tools/images/m9001b.webp =200x)|Welding bay|:gift:
+|🟡|Metabo corded 100mm angle grinder| |EW6114S|![ew6114s.webp](/tools/images/ew6114s.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi friction saw| |ECO2437RG|![eco2437rg.webp](/tools/images/eco2437rg.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ozito (GMC) friction saw| |GMC MX355 B|![mx355b.webp](/tools/images/mx355b.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Plasma cutter| :dizzy_face:|CUT-40 MKIII|![cut40mkiii.webp](/tools/images/cut40mkiii.webp =200x)|Welding bay|:gift:
+|🔴|Mill| |BM70VE|![bm70ve.webp](/tools/images/bm70ve.webp =200x)|Metal machining area|:gift:
+|🔴|Metal lathe| |AL50G|![al50g.webp](/tools/images/al50g.webp =200x)|Metal machining area|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|HAFCO MetalMaster 3 in 1/ Shearer / press brake| |CM-300|![cm300.webp](/tools/images/cm300.webp =200x)|Metal machining area|:gift:
+|🔴|Vicmarc Wood lathe| |VL100|![vl100.webp](/tools/images/vl100.webp =200x)|Metal machining area|:gift:
+|🟡|Kiln| |Ward C4|![wardc4.webp](/tools/images/wardc4.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Forge| |N/A|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Foundry| |N/A|![](/tools/images/ =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Supatool bench grinder| |STP15151|![stp15151.webp](/tools/images/stp15151.webp =200x)|Machine room|:gift:
+|🟡|Carbatec Linishall bench grinder| |BG8|![bg8.webp](/tools/images/bg8.webp =200x)|Machine room|:gift:
+|🟡|Carbatec drill press| |230V 4.8A 1400 rpm|![](/tools/images/ =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Jepson lathe| |MC1100|![mc1100.webp](/tools/images/mc1100.webp =200x)|Machine room|:gift:
+|🟡|Ozito friction saw| |MCS-355|![mcs355.webp](/tools/images/mcs355.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|CNC router| |CNC router ("Swarf-o-mat")|![](/tools/images/ =200x)|Metal machining area|:gift:
+
+
+
+
+
+
+
+
 
 ## 3D Printers (FDM)
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
@@ -94,6 +102,35 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🔴|Elegoo Saturn|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|TBC [:link:](https://www.elegoo.com/en-au/products/elegoo-saturn-4k-mono-lcd-3d-printer) [:book:](/tools/manuals/saturn.pdf)|![saturn.webp](/tools/images/saturn.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🔴|Photon S resin 3D printer ???|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|Photon S()(/tools/manuals/)|![](/tools/images/ =200x)|Design lab|:gift:
 |🟢|Wash and cure station| |TBC|![](/tools/images/ =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+
+## Electronics Lab
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

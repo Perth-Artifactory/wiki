@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-08T14:36:05.657Z
+date: 2024-07-08T14:45:33.145Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -147,6 +147,16 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🟡|Angle Grinder| |Bosch GWS 17-125 CIX|![17125.webp](/tools/images/17125.webp =200x)|Centre Table|![aflogo_28px.webp](/aflogo_28px.png)
 
 
+
+## Shed
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
+|🟡|Bosch 254mm mitre saw| |PCM 1800|![pcm1800.webp](/tools/images/pcm1800.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Pressure pot| |N/A|![](/tools/images/ =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Tube bender| |TBC|![](/tools/images/ =200x)|Shed|:gift:
+|🟢|Ozito scroll saw| |SSB-407|![ssb407.webp](/tools/images/ssb407.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Compressor| |Fendi F3050L|![f3050l.webp](/tools/images/f3050l.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Electric chainsaw| |TBC|![](/tools/images/ =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 

@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-08T14:04:24.765Z
+date: 2024-07-08T14:10:37.234Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -97,17 +97,43 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## 3D Printers (Resin)
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🔴|Photon Mono X resin 3D printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |Photon Mono X [:link:](https://www.anycubic.com/products/photon-mono-x-resin-printer) [:book:](/tools/manuals/monox.pdf)|![monox.webp](/tools/images/monox.webp =200x)|Design lab|:gift:
-|🔴|Creality resin 3D printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |LD-002R [:link:](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer) [:book:](/tools/manuals/ld-002r.pdf)|![ld-002r.jpg](/tools/images/ld-002r.jpg =200x)|Design lab|:gift:
-|🔴|Elegoo Saturn|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|TBC [:link:](https://www.elegoo.com/en-au/products/elegoo-saturn-4k-mono-lcd-3d-printer) [:book:](/tools/manuals/saturn.pdf)|![saturn.webp](/tools/images/saturn.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Photon S resin 3D printer ???|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|Photon S()(/tools/manuals/)|![](/tools/images/ =200x)|Design lab|:gift:
+|🔴|Photon Mono X resin 3D printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin) |Photon Mono X [:link:](https://www.anycubic.com/products/photon-mono-x-resin-printer) [:book:](/tools/manuals/monox.pdf)|![monox.webp](/tools/images/monox.webp =200x)|Z Lab|:gift:
+|🔴|Creality resin 3D printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin) |LD-002R [:link:](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer) [:book:](/tools/manuals/ld-002r.pdf)|![ld-002r.jpg](/tools/images/ld-002r.jpg =200x)|Z Lab|:gift:
+|🔴|Elegoo Saturn|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin) :dizzy_face:|Saturn S [:link:](https://www.elegoo.com/en-au/products/elegoo-saturn-4k-mono-lcd-3d-printer) [:book:](/tools/manuals/saturn.pdf)|![saturn.webp](/tools/images/saturn.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Photon S resin 3D printer (TBC)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin) :dizzy_face:|Photon S()(/tools/manuals/)|![](/tools/images/ =200x)|Z Lab|:gift:
 |🟢|Wash and cure station| |Anycubic Wash and Cure 2.0|![anycubicwash.webp](/tools/images/anycubicwash.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
 
 ## Electronics Lab
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
+|🟢|Thermal Imaging Smartphone| |Flir Cat S60|![cats60.webp](/tools/images/cats60.webp =200x)|Z Lab|:gift:
+|🟡|Camera Microscope| |TBC / No markings on device|![](/tools/images/ =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Soldering and Desoldering Station| |Micron T2052|![t2052.webp](/tools/images/t2052.webp =200x)|Z Lab|:gift:
+|🟢|Digital Voltmeter| |HP 3455A|![3455a.webp](/tools/images/3455a.webp =200x)|Z Lab|:gift:
+|🟢|DC Power Supply| |Agilent 6632B|![6632b.webp](/tools/images/6632b.webp =200x)|Z Lab|:gift:
+|🟢|LCR Meter| |Leader LCR-745|![lcr745.webp](/tools/images/lcr745.webp =200x)|Z Lab|:gift:
+|🟢|Digital Multimeter| |Fluke 8012A|![8012a.webp](/tools/images/8012a.webp =200x)|Z Lab|:gift:
+|🟢|Dynamic Signal Analyzer| |HP 35665A|![35665a.webp](/tools/images/35665a.webp =200x)|Z Lab|:gift:
+|🟢|Programmable Synthesizer / Function Generator| |Phillips PM 5192|![pm5192.webp](/tools/images/pm5192.webp =200x)|Z Lab|:gift:
+|🟢|Digital Multimeter| |Fluke 8050A|![8050a.webp](/tools/images/8050a.webp =200x)|Z Lab|:gift:
+|🟢|Digital Multimeter| |Fluke 8050A|![8050a.webp](/tools/images/8050a.webp =200x)|Z Lab|:gift:
+|🟢|DC Power Supply| |Agilent 6654A|![6654a.webp](/tools/images/6654a.webp =200x)|Z Lab|:gift:
+|🟢|Universal Counter| |HP 5334B|![5334b.webp](/tools/images/5334b.webp =200x)|Z Lab|:gift:
+|🟢|Dual Display Multimeter| |Fluke 45|![fluke45.webp](/tools/images/fluke45.webp =200x)|Z Lab|:gift:
+|🟢|Function Generator| |HP 3312A|![3312a.webp](/tools/images/3312a.webp =200x)|Z Lab|:gift:
+|🟢|Oscilloscope| |Dick Smith Q1803|![q1803.webp](/tools/images/q1803.webp =200x)|Z Lab|:gift:
+|🟢|DC Power Supply| |HP 6268B|![6268b.webp](/tools/images/6268b.webp =200x)|Z Lab|:gift:
+|🔴|Reflow Oven (IR)| ||![](/tools/images/ =200x)|Z Lab|:gift:
+|🔴|Reflow Oven (Element)| ||![](/tools/images/ =200x)|Z Lab|:gift:
+|🔴|Pick and Place Machine| :dizzy_face:||![](/tools/images/ =200x)|Z Lab|:gift:
+|🔴|Hotplate| ||![](/tools/images/ =200x)|Z Lab|:gift:
+|🟢|Ultrasonic Cleaner| |CD-4821|![cd4821.webp](/tools/images/cd4821.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Electric Lamp| |Spectra Lite 990|![spectra990.webp](/tools/images/spectra990.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
 
 
+## Electronics Lab
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 
 
 

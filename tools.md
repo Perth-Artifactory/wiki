@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-08T13:38:48.905Z
+date: 2024-07-08T14:04:24.765Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -101,7 +101,7 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🔴|Creality resin 3D printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) |LD-002R [:link:](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer) [:book:](/tools/manuals/ld-002r.pdf)|![ld-002r.jpg](/tools/images/ld-002r.jpg =200x)|Design lab|:gift:
 |🔴|Elegoo Saturn|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|TBC [:link:](https://www.elegoo.com/en-au/products/elegoo-saturn-4k-mono-lcd-3d-printer) [:book:](/tools/manuals/saturn.pdf)|![saturn.webp](/tools/images/saturn.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🔴|Photon S resin 3D printer ???|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees) :dizzy_face:|Photon S()(/tools/manuals/)|![](/tools/images/ =200x)|Design lab|:gift:
-|🟢|Wash and cure station| |TBC|![](/tools/images/ =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Wash and cure station| |Anycubic Wash and Cure 2.0|![anycubicwash.webp](/tools/images/anycubicwash.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
 
 ## Electronics Lab
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|

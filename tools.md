@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-08T14:45:46.303Z
+date: 2024-07-08T14:46:11.797Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -147,7 +147,7 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🟡|Angle Grinder| |Bosch GWS 17-125 CIX|![17125.webp](/tools/images/17125.webp =200x)|Centre Table|![aflogo_28px.webp](/aflogo_28px.png)
 
 
-## Shed
+## Shed (Move to end)
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Bosch 254mm mitre saw| |PCM 1800|![pcm1800.webp](/tools/images/pcm1800.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
@@ -158,7 +158,9 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🔴|Electric chainsaw| |TBC|![](/tools/images/ =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
 
 
-
+## Shed
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 
 
 

@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-08T14:32:39.093Z
+date: 2024-07-08T14:34:51.441Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -136,7 +136,15 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Lasers Area
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-
+|🟡|Sand blaster| |TBC|![](/tools/images/ =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Mini spray booth| |N/A|![](/tools/images/ =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Dewalt table saw| |DWE-7491XE|![7491xe.webp](/tools/images/7491xe.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Jointer| :dizzy_face:|(Abright) Lurem C7|![](/tools/images/ =200x)|Lasers area|:gift:
+|🟡|Ryobi thicknesser| |TBC|![](/tools/images/ =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Router table| |Triton Router and Jigsaw Table Series 2000|![s2000.webp](/tools/images/s2000.webp =200x)|Lasers area|:gift:
+|🟡|Drum Sander| |PerformaX 16-32 Plus|![1632drum.webp](/tools/images/1632drum.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Cordless Planer| |Makita DKP181|![dkp181.webp](/tools/images/dkp181.webp =200x)|Centre Table|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Angle Grinder| |Bosch GWS 17-125 CIX|![17125.webp](/tools/images/17125.webp =200x)|Centre Table|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 

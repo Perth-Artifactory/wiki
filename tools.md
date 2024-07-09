@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-09T03:54:48.838Z
+date: 2024-07-09T03:57:52.771Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -158,14 +158,22 @@ Most of all, be safe, have fun and share when you build something amazing!
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Bosch 254mm mitre saw| |PCM 1800|![pcm1800.webp](/tools/images/pcm1800.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Compressor| |Fendi F3050L|![f3050l.webp](/tools/images/f3050l.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito scroll saw| |SSB-407|![ssb407.webp](/tools/images/ssb407.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Pressure pot| |N/A|![](/tools/images/ =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
 |🟢|Tube bender| |TBC|![](/tools/images/ =200x)|Shed|:gift:
-|🟢|Ozito scroll saw| |SSB-407|![ssb407.webp](/tools/images/ssb407.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
-|🟢|Compressor| |Fendi F3050L|![f3050l.webp](/tools/images/f3050l.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Electric chainsaw| |TBC|![](/tools/images/ =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)
 
 
-## Shed
+## Machine Room
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
+|🔴|Green wood lathe| |ELEKTRA-BECKUM HDM 1000|![hdm1000.webp](/tools/images/hdm1000.webp =200x)|Machine room|:gift:
+|🟡|Hafco bandsaw| |BP-255|![bp255.webp](/tools/images/bp255.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi Belt and Disc Sander| |rbds4601g|![rbds4601g.webp](/tools/images/rbds4601g.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|SCA 6,000kg Shop Press| |214467|![scashoppress.webp](/tools/images/scashoppress.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Spindle sander| |Triton Tsps450|![tsps450.webp](/tools/images/tsps450.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)
+
+## Corded Power Tools
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 
@@ -178,14 +186,33 @@ Most of all, be safe, have fun and share when you build something amazing!
 
 
 
+## Cordless Power Tools
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 
 
 
+## Air Tools
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 
 
 
+## Hand Tools
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 
 
+
+## Band Gear
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
+
+
+
+## Social Area
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 
 
 #

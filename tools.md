@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-09T02:50:44.319Z
+date: 2024-07-09T03:54:48.838Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -125,11 +125,16 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Design Lab
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟡|3d scanner (Pending)| |Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:]raptor.pdf|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|3d scanner (Pending)| |Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:]raptor.pdf|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|3d scanner (Pending)|[:clipboard:]asd [:dollar:]asd |Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:](/tools/manuals/raptor.pdf)|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
-|🟡|3d scanner (Pending)| |Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:]raptor.pdf|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|3d scanner (Pending)| |Creality Raptor [:link:]https://www.creality.com/products/creality-cr-scan-raptor [:book:]raptor.pdf|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|active studio monitor speaker| |Samson Resolv 80A|![](/tools/images/ =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|all-in-one inkjet printer| |Canon MP230 [:link:]https://www.canon.com.au/printers/pixma-mp230/support|![mp230.webp](/tools/images/mp230.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Apple iMac A1224 (2007)| :dizzy_face:|IMAC A1224|![a1224.webp](/tools/images/a1224.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟢|Brother sewing machine| |JS1410|![js1410.webp](/tools/images/js1410.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Computer| |Computer 1|![](/tools/images/ =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Computer| |Computer 2|![](/tools/images/ =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Computer| |Computer 3|![](/tools/images/ =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Computer| |Computer 4|![](/tools/images/ =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Mitsubishi 42" LCD| |TBC|![](/tools/images/ =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Vacuformer| |Mayku Formbox|![formbox.webp](/tools/images/formbox.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Vinyl cutter| |Cutting Plotter 1351|![1351.webp](/tools/images/1351.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟢|Wacom Intuos3 drawing tablet| |Wacom Intuos3|![intuos3.webp](/tools/images/intuos3.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)

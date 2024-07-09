@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-09T14:07:26.732Z
+date: 2024-07-09T15:15:23.463Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -227,7 +227,49 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Cordless Power Tools
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-
+|🟢|Bosch Electric Screwdriver| |D-70745|![d70745.webp](/tools/images/d70745.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Bosch Impact Wrench| |GDS 18V-300 (Serial: 908000030)|![gds18v_300.webp](/tools/images/gds18v_300.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Festool 160mm Cordless Track Saw| |HKC 55 EB Li-Basic|![hkc_55_eb_li_basic.webp](/tools/images/hkc_55_eb_li_basic.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|FESTOOL FS GUIDE RAIL 800MM| |491499|![491499.webp](/tools/images/491499.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|FESTOOL FS GUIDE RAIL 800MM| |491499|![491499.webp](/tools/images/491499.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Makita Planer| |DKP181|![dkp181.webp](/tools/images/dkp181.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito 12V Rotary Tool| |ZLRTS-012|![zlrts_012.webp](/tools/images/zlrts_012.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito Cordless Drill Driver| |CDR-014|![cdr_014.webp](/tools/images/cdr_014.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi 165mm Circular Saw| |R18CS|![r18cs.webp](/tools/images/r18cs.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi 3-inch cutoff tool| |RCT18C|![rct18c.webp](/tools/images/rct18c.webp =200x)|Machine room - tool rack|:gift:
+|🟢|Ryobi 6-Port Charger| |RC18627U|![rc18627u.webp](/tools/images/rc18627u.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi Angle Grinder| |R18AG4115|![r18ag4115.webp](/tools/images/r18ag4115.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi Angle Grinder| |R18AG4115|![r18ag4115.webp](/tools/images/r18ag4115.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi Angle Grinder| |R18AG7|![r18ag7.webp](/tools/images/r18ag7.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Battery Charger| |BCL14181H|![bcl14181h.webp](/tools/images/bcl14181h.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Battery Charger| |BCL1418H|![bcl1418h.webp](/tools/images/bcl1418h.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Battery Pack| |RB1840C|![rb1840c.webp](/tools/images/rb1840c.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Battery Pack| |RB18L25A|![rb18l25a.webp](/tools/images/rb18l25a.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Battery Pack| |RB18L50A|![rb18l50a.webp](/tools/images/rb18l50a.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Battery Pack| |RB18L50A|![rb18l50a.webp](/tools/images/rb18l50a.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Battery Pack| |RB18L50A|![rb18l50a.webp](/tools/images/rb18l50a.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Battery Pack| |RB18L50A|![rb18l50a.webp](/tools/images/rb18l50a.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi battery radio| |R18R|![r18r.webp](/tools/images/r18r.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi Brushless Circular Saw 184mm| |R18CS7|![r18cs7.webp](/tools/images/r18cs7.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi corded 190mm circular saw| |RCS1600|![rcs1600.webp](/tools/images/rcs1600.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Drill| |CID1802P|![cid1802p.webp](/tools/images/cid1802p.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Drill| |CID1802P|![cid1802p.webp](/tools/images/cid1802p.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Drill| |CID1802P|![cid1802p.webp](/tools/images/cid1802p.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Drill| |CID1802P|![cid1802p.webp](/tools/images/cid1802p.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Drill Driver| |R18DD3|![r18dd3.webp](/tools/images/r18dd3.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Drill Driver| |RCD1802|![rcd1802.webp](/tools/images/rcd1802.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Fan| |RPF180G|![](/tools/images/ =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Flashlight| |RA-C076-B|![](/tools/images/ =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Hand Vac| |R18HV|![r18hv.webp](/tools/images/r18hv.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Impact Driver| |R18ID1|![r18id1.webp](/tools/images/r18id1.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Impact Driver| |R18ID1|![r18id1.webp](/tools/images/r18id1.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Impact Driver| |R18ID1|![r18id1.webp](/tools/images/r18id1.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Impact Driver| |RID18C|![rid18c.webp](/tools/images/rid18c.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Impact Wrench| |R18IW|![r18iw.webp](/tools/images/r18iw.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Multi-Tool| |RMT1801|![rmt1801.webp](/tools/images/rmt1801.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi Reciprocating Saw| |R18RS7|![r18rs7.webp](/tools/images/r18rs7.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ryobi Screw Driver|[:clipboard:]d70745.webp |R4SDP|![r4sdp.webp](/tools/images/r4sdp.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi Trim Router| |R18TR2|![r18tr2.webp](/tools/images/r18tr2.webp =200x)|Machine room - tool rack|:gift:
 
 
 ## Air Tools

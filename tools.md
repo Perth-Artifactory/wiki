@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-09T02:23:10.844Z
+date: 2024-07-09T02:28:42.571Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -98,36 +98,37 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Electronics Lab
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟢|Thermal Imaging Smartphone| |Flir Cat S60|![cats60.webp](/tools/images/cats60.webp =200x)|Z Lab|:gift:
 |🟡|Camera Microscope| |TBC / No markings on device|![](/tools/images/ =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
-|🟢|Soldering and Desoldering Station| |Micron T2052|![t2052.webp](/tools/images/t2052.webp =200x)|Z Lab|:gift:
-|🟢|Digital Voltmeter| |HP 3455A|![3455a.webp](/tools/images/3455a.webp =200x)|Z Lab|:gift:
+|🟡|DC High Current Analogue Power Supply| |HP 6268B|![6268b.webp](/tools/images/6268b.webp =200x)|Z Lab|:gift:
 |🟢|DC Power Supply| |Agilent 6632B|![6632b.webp](/tools/images/6632b.webp =200x)|Z Lab|:gift:
-|🟢|LCR Meter| |Leader LCR-745|![lcr745.webp](/tools/images/lcr745.webp =200x)|Z Lab|:gift:
-|🟢|Digital Multimeter| |Fluke 8012A|![8012a.webp](/tools/images/8012a.webp =200x)|Z Lab|:gift:
-|🟢|Dynamic Signal Analyzer| |HP 35665A|![35665a.webp](/tools/images/35665a.webp =200x)|Z Lab|:gift:
-|🟢|Programmable Synthesizer / Function Generator| |Phillips PM 5192|![pm5192.webp](/tools/images/pm5192.webp =200x)|Z Lab|:gift:
-|🟢|Digital Multimeter| |Fluke 8050A|![8050a.webp](/tools/images/8050a.webp =200x)|Z Lab|:gift:
-|🟢|Digital Multimeter| |Fluke 8050A|![8050a.webp](/tools/images/8050a.webp =200x)|Z Lab|:gift:
 |🟢|DC Power Supply| |Agilent 6654A|![6654a.webp](/tools/images/6654a.webp =200x)|Z Lab|:gift:
-|🟢|Universal Counter| |HP 5334B|![5334b.webp](/tools/images/5334b.webp =200x)|Z Lab|:gift:
+|🟢|Digital Multimeter| |Fluke 8012A|![8012a.webp](/tools/images/8012a.webp =200x)|Z Lab|:gift:
+|🟢|Digital Multimeter| |Fluke 8050A|![8050a.webp](/tools/images/8050a.webp =200x)|Z Lab|:gift:
+|🟢|Digital Multimeter| |Fluke 8050A|![8050a.webp](/tools/images/8050a.webp =200x)|Z Lab|:gift:
+|🟡|Digital Voltmeter| |HP 3455A|![3455a.webp](/tools/images/3455a.webp =200x)|Z Lab|:gift:
 |🟢|Dual Display Multimeter| |Fluke 45|![fluke45.webp](/tools/images/fluke45.webp =200x)|Z Lab|:gift:
-|🟢|Function Generator| |HP 3312A|![3312a.webp](/tools/images/3312a.webp =200x)|Z Lab|:gift:
-|🟢|Oscilloscope| |Dick Smith Q1803|![q1803.webp](/tools/images/q1803.webp =200x)|Z Lab|:gift:
-|🟢|DC Power Supply| |HP 6268B|![6268b.webp](/tools/images/6268b.webp =200x)|Z Lab|:gift:
-|🔴|Reflow Oven (IR)| ||![](/tools/images/ =200x)|Z Lab|:gift:
-|🔴|Reflow Oven (Element)| ||![](/tools/images/ =200x)|Z Lab|:gift:
-|🔴|Pick and Place Machine| :dizzy_face:||![](/tools/images/ =200x)|Z Lab|:gift:
-|🔴|Hotplate| ||![](/tools/images/ =200x)|Z Lab|:gift:
-|🟢|Ultrasonic Cleaner| |CD-4821|![cd4821.webp](/tools/images/cd4821.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Dynamic Signal Analyzer| |HP 35665A|![35665a.webp](/tools/images/35665a.webp =200x)|Z Lab|:gift:
 |🟢|Electric Lamp| |Spectra Lite 990|![spectra990.webp](/tools/images/spectra990.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Function Generator| |HP 3312A|![3312a.webp](/tools/images/3312a.webp =200x)|Z Lab|:gift:
+|🔴|Hotplate| ||![](/tools/images/ =200x)|Z Lab|:gift:
+|🟢|LCR Meter| |Leader LCR-745|![lcr745.webp](/tools/images/lcr745.webp =200x)|Z Lab|:gift:
+|🟢|Oscilloscope| |Dick Smith Q1803|![q1803.webp](/tools/images/q1803.webp =200x)|Z Lab|:gift:
+|🔴|Pick and Place Machine| :dizzy_face:||![](/tools/images/ =200x)|Z Lab|:gift:
+|🟢|Programmable Synthesizer / Function Generator| |Phillips PM 5192|![pm5192.webp](/tools/images/pm5192.webp =200x)|Z Lab|:gift:
+|🔴|Reflow Oven (Element)| ||![](/tools/images/ =200x)|Z Lab|:gift:
+|🔴|Reflow Oven (IR)| ||![](/tools/images/ =200x)|Z Lab|:gift:
+|🟢|Soldering and Desoldering Station| |Micron T2052|![t2052.webp](/tools/images/t2052.webp =200x)|Z Lab|:gift:
+|🟢|Thermal Imaging Smartphone| |Flir Cat S60|![cats60.webp](/tools/images/cats60.webp =200x)|Z Lab|:gift:
+|🟢|Ultrasonic Cleaner| |CD-4821|![cd4821.webp](/tools/images/cd4821.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Universal Counter| |HP 5334B|![5334b.webp](/tools/images/5334b.webp =200x)|Z Lab|:gift:
 
 
 ## Design Lab
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟡|Vacuformer| |Mayku Formbox|![formbox.webp](/tools/images/formbox.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|3d scanner (Pending)| |Creality Raptor [:link:]https://www.creality.com/products/creality-cr-scan-raptor [:book:]raptor.pdf|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟢|Brother sewing machine| |JS1410|![js1410.webp](/tools/images/js1410.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Vacuformer| |Mayku Formbox|![formbox.webp](/tools/images/formbox.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Vinyl cutter| |Cutting Plotter 1351|![1351.webp](/tools/images/1351.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟢|Wacom Intuos3 drawing tablet| |Wacom Intuos3|![intuos3.webp](/tools/images/intuos3.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 

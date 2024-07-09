@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-09T04:46:55.894Z
+date: 2024-07-09T14:04:22.037Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -176,7 +176,45 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Corded Power Tools
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-
+|🟡|AEG Belt Sander| |HBS 1000 E|![hbs1000e.webp](/tools/images/hbs1000e.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|AEG Reciprocating Saw| |US 400 XE|![us400xe.webp](/tools/images/us400xe.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Bosch 185mm circular saw| |GKS 190|![gks190.webp](/tools/images/gks190.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Bosch 254mm Miter Saw| |PCM 1800|![pcm1800.webp](/tools/images/pcm1800.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Bosch Angle Grinder| |GWS 17-125 CIX|![gws_17_125_cix.webp](/tools/images/gws_17_125_cix.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Bosch Jigsaw| |N153|![](/tools/images/ =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Bosch jigsaw| |PST680EL [:link:]https://www.bosch-diy.com/au/en [:book:]pst_680EL.pdf|![pst680el_s.jpeg](/tools/images/pst680el_s.jpeg =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Bosch Random Orbit Sander| |PEX 300 AE|![pex_300_ae.webp](/tools/images/pex_300_ae.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Dotty's Crafts Glue Gun| |FL-138|![fl_138.webp](/tools/images/fl_138.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Dremel Rotary Tool| |3000|![dremel3000.webp](/tools/images/dremel3000.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|GMC 185mm circular saw| ||![](/tools/images/ =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|GMC Detail Sander| |KAT158|![kat158.webp](/tools/images/kat158.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Hitachi Belt Sander| |SB10T(B)|![sb10t_b.webp](/tools/images/sb10t_b.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|McMaster Planer| |PLX7-9282A|![plx7_9282a.webp](/tools/images/plx7_9282a.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Makita Circular Saw| |M3600|![m3600.webp](/tools/images/m3600.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Makita Drywall Screw Gun| |6827|![6827.webp](/tools/images/6827.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Makita Jigsaw| |4301BV [:link:]http://www.makita.com.au [:book:]4301bv.pdf|![4301bv_s.webp](/tools/images/4301bv_s.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Makita Plunge Router| |3600BR|![3600br.webp](/tools/images/3600br.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito 1/3 Sheet Orbital Sander| |OSG-120K|![osg_120k.webp](/tools/images/osg_120k.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito Glue Gun| |GGM-010|![ggm_010.webp](/tools/images/ggm_010.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito Glue Gun| |OZGG8A|![ozgg8a.webp](/tools/images/ozgg8a.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito Glue Gun Kit| |GGK-030|![ggk_030.webp](/tools/images/ggk_030.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito Glue Gun Kit| |GGK-030|![ggk_030.webp](/tools/images/ggk_030.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito Hammer Drill VSR| |HDR-3000|![hdr_3000.webp](/tools/images/hdr_3000.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito Heat Gun| |HGN-2100|![hgn2100.webp](/tools/images/hgn2100.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Ozito Orbital Sander| |OSG-101|![osg_101.webp](/tools/images/osg_101.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Ozito Plunge Router| |ROU-5000|![rou_5000.webp](/tools/images/rou_5000.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ozito Rotary Tool| |RTG-920VK|![rtg_920vk.webp](/tools/images/rtg_920vk.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Rockwell Multitool| |RD5511K.1|![rd5511k_1.webp](/tools/images/rd5511k_1.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Rockwell Palm Sander| |EX160PS|![](/tools/images/ =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Rockwell Reciprocating Saw| |RS3100|![](/tools/images/ =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi 254mm mitre saw| |EMS254RG|![ems254rg.webp](/tools/images/ems254rg.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi Biscuit Joiner| |EBJ720K|![ebj720k.webp](/tools/images/ebj720k.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Ryobi corded planer| |ERP6582RG|![erp6582rg.webp](/tools/images/erp6582rg.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|Sontax Glue Gun| |MGG000|![](/tools/images/ =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|Taurus Rotary Hobby Tool| |TTA-517|![tta_517.webp](/tools/images/tta_517.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|ToolPRO Rotary Tool Kit| |276 PCE|![276kit.webp](/tools/images/276kit.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|XU1 Drill Bit Sharpener| |XDS-010|![xds_010.webp](/tools/images/xds_010.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
+|🟢|XU1 Sheet Orbital Sander| |XOS-400|![xos_400.webp](/tools/images/xos_400.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)
 
 
 

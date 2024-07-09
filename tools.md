@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-09T02:28:42.571Z
+date: 2024-07-09T02:50:44.319Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -36,9 +36,9 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Laser Cutters / Engravers	
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🔴|Big red laser cutter|[:clipboard:](/tools/lasers/bigred) [:dollar:](/docs/policies/fees) |G.Weike LC1290 [:link:](https://www.alibaba.com/product-detail/Gweike-LC-1290-laser-cutting-machine_1789944035.html) [:book:](/tools/manuals/lc1290_manual.pdf)|![lc1290_s.webp](/tools/images/lc1290_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png) 
-|🔴|Middle red laser cutter|[:clipboard:](tools/lasers/middlered) [:dollar:](/docs/policies/fees) |KH7050 [:link:](https://www.alibaba.com/product-detail/100w-150w-co2-laser-cutting-machine_1600806328809.html?spm=a2700.shop_plser.41413.2.520d1e073BoUrb) [:book:](/tools/manuals/kh5030.pdf)|![kh7050_s.webp](/tools/images/kh7050_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
-|🔴|Little red laser cutter|[:clipboard:](/tools/lasers/littlered) [:dollar:](/docs/policies/fees) :dizzy_face:|G.Weike LG500 [:link:](https://www.gwklaser.com/co2/LG500.html) [:book:](/tools/manuals/lg500.pdf)|![lg500_s.jpg](/tools/images/lg500_s.jpg =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Big red laser cutter|[:clipboard:](/tools/lasers/bigred) [:dollar:](/docs/policies/fees#laser-cutter-big-red) |G.Weike LC1290 [:link:]() [:book:](/tools/manuals/lc1290_manual.pdf)|![lc1290_s.webp](/tools/images/lc1290_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Middle red laser cutter|[:clipboard:](tools/lasers/middlered) [:dollar:](/docs/policies/fees#laser-cutter-middle-red) |KH7050 [:link:]() [:book:](/tools/manuals/kh5030.pdf)|![kh7050_s.webp](/tools/images/kh7050_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
+|🔴|Little red laser cutter|[:clipboard:](/tools/lasers/littlered) [:dollar:](/docs/policies/fees) :dizzy_face:|G.Weike LG500 [:link:]() [:book:](/tools/manuals/lg500.pdf)|![lg500_s.jpg](/tools/images/lg500_s.jpg =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)
 
 ## Metal Tools
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
@@ -85,7 +85,6 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🔴|Prusa MK4|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |MK4 [:link:](https://www.prusa3d.com/product/original-prusa-mk4-2/) [:book:](/tools/manuals/mk4.pdf)|![mk4.jpg](/tools/images/mk4.jpg =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🔴|Prusa XL-5T|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |XL-5T [:link:](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) [:book:](/tools/manuals/prusaxl.pdf)|![xl5th.jpg](/tools/images/xl5th.jpg =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)
 
-
 ## 3D Printers (Resin)
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
@@ -126,7 +125,10 @@ Most of all, be safe, have fun and share when you build something amazing!
 ## Design Lab
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟡|3d scanner (Pending)| |Creality Raptor [:link:]https://www.creality.com/products/creality-cr-scan-raptor [:book:]raptor.pdf|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|3d scanner (Pending)| |Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:]raptor.pdf|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|3d scanner (Pending)| |Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:]raptor.pdf|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|3d scanner (Pending)|[:clipboard:]asd [:dollar:]asd |Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:](/tools/manuals/raptor.pdf)|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
+|🟡|3d scanner (Pending)| |Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:]raptor.pdf|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟢|Brother sewing machine| |JS1410|![js1410.webp](/tools/images/js1410.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Vacuformer| |Mayku Formbox|![formbox.webp](/tools/images/formbox.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)
 |🟡|Vinyl cutter| |Cutting Plotter 1351|![1351.webp](/tools/images/1351.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)

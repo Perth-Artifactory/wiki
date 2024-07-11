@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2024-07-11T12:28:27.724Z
+date: 2024-07-11T12:30:56.556Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -23,15 +23,14 @@ An up to date list of approved operators can be found [here](/docs/reports/Print
 
 Our resin printers are primarily sliced using [Chitubox](https://www.chitubox.com/en)
 
-| Printer                                                                                                                    | Status                                                                                     | Build volume | Layer height |
-|----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------|--------------|
-| [Anycubic Mono X](https://www.anycubic.com/products/photon-mono-x-resin-printer)                                           | ✔️ Operational                                                                             | 192x120x245  | 10 \~ 150um  |
-| [Phrozen Sonic Mega 8K](https://phrozen3d.com/products/sonic-mega-8k)                               | ✔️ Operational                                                                             | 120x65x165 330x185x400   | 10 \~ 300um   |
-
+| Printer  | Status   | Build volume | Layer height |
+| -------- | -------- | ------------ | ------------ |
+| [Anycubic Mono X](https://www.anycubic.com/products/photon-mono-x-resin-printer)  | ✔️ Operational | 192x120x245  | 10 \~ 150um  |
+| [Phrozen Sonic Mega 8K](https://phrozen3d.com/products/sonic-mega-8k)             | ✔️ Operational | 330x185x400  | 10 \~ 300um   |
 
 ## FDM
 
-Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com/en/page/prusaslicer_424/)
+Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com/en/page/prusaslicer_424/) or [Bambu Studio](https://bambulab.com/en/download/studio)
 
 | Printer                                                                                                   | Status                  | Build volume |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | -----------  |

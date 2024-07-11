@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2024-06-05T16:13:04.605Z
+date: 2024-07-11T12:28:27.724Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -26,8 +26,8 @@ Our resin printers are primarily sliced using [Chitubox](https://www.chitubox.co
 | Printer                                                                                                                    | Status                                                                                     | Build volume | Layer height |
 |----------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------|--------------|
 | [Anycubic Mono X](https://www.anycubic.com/products/photon-mono-x-resin-printer)                                           | ✔️ Operational                                                                             | 192x120x245  | 10 \~ 150um  |
-| [Creality LD-002R](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer)                               | ✔️ Operational                                                                             | 120x65x165   | 25 \~ 50um   |
-| Elagoo                                                                                                                     | ❌ Replacement power supply required                                                       | ?            | ?            |
+| [Phrozen Sonic Mega 8K](https://phrozen3d.com/products/sonic-mega-8k)                               | ✔️ Operational                                                                             | 120x65x165 330x185x400   | 10 \~ 300um   |
+
 
 ## FDM
 
@@ -36,9 +36,11 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | Printer                                                                                                   | Status                  | Build volume |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | -----------  |
 | [Bambu Labs P1S (2x AMS)](https://au.store.bambulab.com/products/p1s)                                     | ✔️ Operational          | 256x256x256  |
-| [Bambu Labs X1 (1x AMS)](https://au.store.bambulab.com/products/x1-carbon-3d-printer)                                     | ✔️ Operational          | 256x256x256  |
-| [Ender 3 V2 Neo #1](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ✔️ Operational          | 220x220x250  |
-| [Ender 3 V2 Neo #2](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ✔️ Operational          | 220x220x250  |
+| [Bambu Labs X1 (1x AMS)](https://au.store.bambulab.com/products/x1-carbon-3d-printer)                     | ✔️ Operational          | 256x256x256  |
+| [Bambu Labs A1 (1x AMS)](https://au.store.bambulab.com/products/a1)                                       | ✔️ Operational          | 256x256x256  |
+| [Bambu Labs A1 Mini](https://au.store.bambulab.com/products/a1-mini)                                      | ✔️ Operational          | 180x180x180  |
+| [Ender 3 V2 Neo #1](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ❌ Removed from service | 220x220x250  |
+| [Ender 3 V2 Neo #2](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ❌ Removed from service | 220x220x250  |
 | [Prusa Mk4](https://www.prusa3d.com/product/original-prusa-mk4-2/)                                        | ✔️ Operational          | 250x210x220  |
 | [Prusa XL-5T](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) | ✔️ Operational          | 360x360x360  |
 

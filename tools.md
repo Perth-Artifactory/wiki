@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-12T17:54:01.987Z
+date: 2024-07-12T17:57:45.926Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -346,8 +346,3 @@ What sort of Maker Space would we be if we didn't have a shed. Need we say more?
 |🟢|Ozito scroll saw| |SSB-407|![ssb407.webp](/tools/images/ssb407.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Pressure pot| |N/A|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Tube bender| |TBC|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Shed|:gift:|
-
-
-
-
-

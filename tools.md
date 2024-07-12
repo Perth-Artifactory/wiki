@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-12T14:51:44.332Z
+date: 2024-07-12T14:53:57.048Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -224,6 +224,7 @@ Batteries are great and all, but sometimes you need good old fashioned 240V to g
 |🟢|XU1 Sheet Orbital Sander||XOS-400|![xos_400.webp](/tools/images/xos_400.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Cordless Power Tools
+Welcome to future. Go on, check out a brushless battery power tool. You'll never look back!
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟢|Bosch Electric Screwdriver||D-70745|![d70745.webp](/tools/images/d70745.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -271,6 +272,7 @@ Batteries are great and all, but sometimes you need good old fashioned 240V to g
 
 
 ## Air Tools
+Woosh goes the sound of your dreams as they fly out of your mind and into reality!
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Air Paint Spray Gun||airgeneric|![airgeneric.webp](/tools/images/airgeneric.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -287,6 +289,7 @@ Batteries are great and all, but sometimes you need good old fashioned 240V to g
 
 
 ## Hand Tools
+There's no power here - It's all on you, your dexterity and imagination!
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟢|Bosch Drill and Screwdriver Bit Set with case||-|![UnknownTool.webp](/tools/images/UnknownTool.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -320,12 +323,14 @@ Planning on becoming the next AC/DC? They didn't just drink all day and smash ou
 
 
 ## Social Area
+Chill out and have a break, drink or snack in the break out space.
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟢|Multimedia speaker system||Edifier M2600B|![edifierm2600b.webp](/tools/images/edifierm2600b.webp =200x)|Social Area|:gift:|
 |🟢|Multitouch Monitor||Eboard EBLE65N [:book:](/tools/manuals/EBLE65N.pdf)|![eble65n.webp](/tools/images/eble65n.webp =200x)|Social Area|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Shed
+What sort of Maker Space would we be if we didn't have a shed. Need we say more?
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Bosch 254mm mitre saw||PCM 1800 [:book:](/tools/manuals/pcm1800.pdf)|![pcm1800.webp](/tools/images/pcm1800.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|

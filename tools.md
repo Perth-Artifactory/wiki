@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-12T14:40:45.032Z
+date: 2024-07-12T14:45:23.337Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -34,6 +34,7 @@ Most of all, be safe, have fun and share when you build something amazing!
 |**Owned by:**| The gift icon (:gift:) indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo ![aflogo_28px.webp](/aflogo_28px.png)  exists. 
 
 ## Laser Cutters / Engravers	
+The only thing that's would make Laser cutters better is if they were attached to sharks. 
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🔴|Big red laser cutter|[:clipboard:](/tools/lasers/bigred) [:dollar:](/docs/policies/fees#laser-cutter-big-red)|G.Weike LC1290 [:link:](https://www.alibaba.com/product-detail/Gweike-LC-1290-laser-cutting-machine_1789944035.html) [:book:](/tools/manuals/lc1290_manual.pdf)|![lc1290_s.webp](/tools/images/lc1290_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -41,6 +42,7 @@ Most of all, be safe, have fun and share when you build something amazing!
 |🔴|Little red laser cutter|[:clipboard:](/tools/lasers/littlered) [:dollar:](/docs/policies/fees) :dizzy_face:|G.Weike LG500 [:link:](https://www.gwklaser.com/co2/LG500.html) [:book:](/tools/manuals/lg500.pdf)|![lg500_s.jpg](/tools/images/lg500_s.jpg =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Metal Tools
+If you work hard, [you should play hard](https://www.youtube.com/watch?v=WjElZ-O9EpM&t=10s). There's nothing more exhilirating than bending steel to your will!
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Black & Decker Corded 100mm angle grinder||DN10N|![dn10n.webp](/tools/images/dn10n.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -74,6 +76,9 @@ Most of all, be safe, have fun and share when you build something amazing!
 
 
 ## 3D Printers (FDM)
+Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
+Then for bonus points, add some electronic wizardry - all possible in the 3D printing and Electronics Lab.
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🔴|Bambu Labs AMS (#1)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -290,6 +295,8 @@ The design lab has several computers, printers and scanners. It's often used to 
 
 
 ## Band Gear
+Planning on becoming the next AC/DC? They didn't just drink all day and smash out the concert. They rehearsed too (I guess?). You too can rehearse for a [low fee per session](/docs/policies/fees) or for free if you have a [Band Membership](/docs/policies/classes_of_membership)!
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟢|250W PA Speakers||Quest Engineering QS250 [:book:](/tools/manuals/QS250.pdf)|![qs250.webp](/tools/images/qs250.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -327,10 +334,3 @@ The design lab has several computers, printers and scanners. It's often used to 
 
 
 
-## Rehearsal Room
-Planning on becoming the next AC/DC? They didn't just drink all day and smash out the concert. They rehearsed too (I guess?). You too can rehearse for a [low fee per session](/docs/policies/fees) or for free if you have a [Band Membership](/docs/policies/classes_of_membership)!
-
-
-## 3D Printing & Electronics Lab
-Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
-Then for bonus points, add some electronic wizardry - all possible in the 3D printing and Electronics Lab.

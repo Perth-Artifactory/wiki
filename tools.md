@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-12T14:47:41.450Z
+date: 2024-07-12T14:51:44.332Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -158,7 +158,8 @@ The design lab has several computers, printers and scanners. It's often used to 
 |🟡|Vinyl cutter||Cutting Plotter 1351|![1351.webp](/tools/images/1351.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Wacom Intuos3 drawing tablet||Wacom Intuos3|![intuos3.webp](/tools/images/intuos3.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)|
 
-## Lasers Area
+## Large Tools
+Located in the centre of the space near the lasers, these large tools have a wide range of uses.
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Dewalt table saw||DWE-7491XE|![7491xe.webp](/tools/images/7491xe.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -169,6 +170,7 @@ The design lab has several computers, printers and scanners. It's often used to 
 |🟡|Sand blasting Cabinet||Supercheap Auto - ToolPRO 100 Litre 394020|![394020.webp](/tools/images/394020.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Machine Room
+Enter the machine room to craft wood (mostly) to your hearts content. Plus access a wide range of supporting tools like clamps, rulers, drill bits etc.
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🔴|Green wood lathe||ELEKTRA-BECKUM HDM 1000|![hdm1000.webp](/tools/images/hdm1000.webp =200x)|Machine room|:gift:|
@@ -178,6 +180,7 @@ The design lab has several computers, printers and scanners. It's often used to 
 |🟡|Spindle sander||Triton Tsps450 [:book:](/tools/manuals/TSPS450.PDF)|![tsps450.webp](/tools/images/tsps450.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Corded Power Tools
+Batteries are great and all, but sometimes you need good old fashioned 240V to get the job done... Or Battery tools weren't invented yet).
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|AEG Belt Sander||HBS 1000 E [:book:](/tools/manuals/HBS1000E.pdf)|![hbs1000e.webp](/tools/images/hbs1000e.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)|

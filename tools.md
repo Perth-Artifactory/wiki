@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-12T15:16:27.026Z
+date: 2024-07-12T15:18:19.349Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -181,6 +181,8 @@ Enter the machine room to craft wood (mostly) to your hearts content. Plus acces
 
 ## Corded Power Tools
 Batteries are great and all, but sometimes you need good old fashioned 240V to get the job done... Or Battery tools weren't invented yet).
+| Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
+| ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|AEG Belt Sander||HBS 1000 E [:book:](/tools/manuals/hbs1000e.pdf)|![hbs1000e.webp](/tools/images/hbs1000e.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|AEG Reciprocating Saw||US 400 XE [:book:](/tools/manuals/us400xe.pdf)|![us400xe.webp](/tools/images/us400xe.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Bosch 185mm circular saw||GKS 190 [:book:](/tools/manuals/gks190.pdf)|![gks190.webp](/tools/images/gks190.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)|

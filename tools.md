@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-12T17:45:29.951Z
+date: 2024-07-12T17:48:00.457Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -313,7 +313,7 @@ Planning on becoming the next AC/DC? They didn't just drink all day and smash ou
 
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
-|🟢|250W PA Speakers||Que|🟢|250W PA Speakers||Quest Engineering QS250 [:book:](/tools/manuals/qs250.pdf)|![qs250.webp](/tools/images/qs250.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|250W PA Speakers||Quest Engineering QS250 [:book:](/tools/manuals/qs250.pdf)|![qs250.webp](/tools/images/qs250.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|250W PA Speakers||Quest Engineering QS250 [:book:](/tools/manuals/qs250.pdf)|![qs250.webp](/tools/images/qs250.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Amplifier||Fender Frontman 212R [:book:](/tools/manuals/fender_frontman_212r.pdf)|![fender_frontman_212r.webp](/tools/images/fender_frontman_212r.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|analog mixer||Xenyx qx1002|![xenyx_qx1002.webp](/tools/images/xenyx_qx1002.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|

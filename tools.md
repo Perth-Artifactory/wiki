@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-12T14:45:23.337Z
+date: 2024-07-12T14:47:41.450Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -97,6 +97,7 @@ Then for bonus points, add some electronic wizardry - all possible in the 3D pri
 |🔴|Prusa XL-5T|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|XL-5T [:link:](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) [:book:](/tools/manuals/prusaxl.pdf)|![xl5th.jpg](/tools/images/xl5th.jpg =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## 3D Printers (Resin)
+Similar to FDM printers, but higher resolution, and much more mess. 
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🔴|Creality resin 3D printer|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin) :dizzy_face:|LD-002R [:link:](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer) [:book:](/tools/manuals/ld-002r.pdf)|![ld-002r.jpg](/tools/images/ld-002r.jpg =200x)|Z Lab|:gift:|
@@ -111,6 +112,7 @@ Then for bonus points, add some electronic wizardry - all possible in the 3D pri
 |🔴|Phrozen Sonic Mega 8K|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin)|Phrozen Sonic Mega 8K [:link:](https://phrozen3d.com/products/sonic-mega-8k)|![UnknownTool.webp](/tools/images/UnknownTool.webp =200x)|Z Lab|:gift:|
 
 ## Electronics Lab
+Interested in Electronics? This Lab is the place for you with a huge selection of diagnosis and fabrication tools to bring your electronic creation to life.
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Camera Microscope||TBC / No markings on device|![UnknownTool.webp](/tools/images/UnknownTool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|

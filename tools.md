@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-12T17:35:35.083Z
+date: 2024-07-12T17:45:29.951Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -34,14 +34,18 @@ Most of all, be safe, have fun and share when you build something amazing!
 |**Owned by:**| The gift icon (:gift:) indicates that this tool has been generously loaned by a member. Otherwise it is owned by the Artifactory where the AF Logo ![aflogo_28px.webp](/aflogo_28px.png)  exists. 
 
 ## Laser Cutters / Engravers	
-The only thing that's would make Laser cutters better is if they were attached to sharks. 
+
+The only thing that would make Laser cutters better is if they were attached to sharks!
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🔴|Big red laser cutter|[:clipboard:](/tools/lasers/bigred) [:dollar:](/docs/policies/fees#laser-cutter-big-red)|G.Weike LC1290 [:link:](https://www.alibaba.com/product-detail/gweike-lc-1290-laser-cutting-machine_1789944035.html) [:book:](/tools/manuals/lc1290_manual.pdf)|![lc1290_s.webp](/tools/images/lc1290_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)|
 |🔴|Middle red laser cutter|[:clipboard:](tools/lasers/middlered) [:dollar:](/docs/policies/fees#laser-cutter-middle-red)|KH7050 [:link:](https://www.alibaba.com/product-detail/100w-150w-co2-laser-cutting-machine_1600806328809.html?spm=a2700.shop_plser.41413.2.520d1e073bourb) [:book:](/tools/manuals/kh5030.pdf)|![kh7050_s.webp](/tools/images/kh7050_s.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Metal Tools
-If you work hard, [you should play hard](https://www.youtube.com/watch?v=WjElZ-O9EpM&t=10s). There's nothing more exhilirating than bending steel to your will!
+
+If you work hard, [you should play hard](https://www.youtube.com/watch?v=WjElZ-O9EpM&t=10s). There's nothing more exhilarating than bending steel to your will!
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Black & Decker Corded 100mm angle grinder||DN10N|![dn10n.webp](/tools/images/dn10n.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -74,7 +78,9 @@ If you work hard, [you should play hard](https://www.youtube.com/watch?v=WjElZ-O
 
 
 ## 3D Printers (FDM)
+
 Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
+
 Then for bonus points, add some electronic wizardry - all possible in the 3D printing and Electronics Lab.
 
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
@@ -94,6 +100,7 @@ Then for bonus points, add some electronic wizardry - all possible in the 3D pri
 
 ## 3D Printers (Resin)
 Similar to FDM printers, but higher resolution, and much more mess. 
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🔴|Anycubic Photon Mono X|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin)|Photon Mono X [:link:](https://www.anycubic.com/products/photon-mono-x-resin-printer) [:book:](/tools/manuals/monox.pdf)|![monox.webp](/tools/images/monox.webp =200x)|Z Lab|:gift:|
@@ -102,6 +109,7 @@ Similar to FDM printers, but higher resolution, and much more mess.
 
 ## Electronics Lab
 Interested in Electronics? This Lab is the place for you with a huge selection of diagnosis and fabrication tools to bring your electronic creation to life.
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Camera Microscope|||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -130,7 +138,9 @@ Interested in Electronics? This Lab is the place for you with a huge selection o
 
 
 ## Design Lab
+
 The design lab has several computers, printers and scanners. It's often used to design before you make!
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|3d scanner (Pending)||Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:](/tools/manuals/raptor.pdf)|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -146,7 +156,9 @@ The design lab has several computers, printers and scanners. It's often used to 
 |🟢|Wacom Intuos3 drawing tablet||Wacom Intuos3|![intuos3.webp](/tools/images/intuos3.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Large Tools
+
 Located in the centre of the space near the lasers, these large tools have a wide range of uses.
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Dewalt table saw||DWE-7491XE|![7491xe.webp](/tools/images/7491xe.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -157,7 +169,9 @@ Located in the centre of the space near the lasers, these large tools have a wid
 |🟡|Sand blasting Cabinet||Supercheap Auto - ToolPRO 100 Litre 394020|![394020.webp](/tools/images/394020.webp =200x)|Lasers area|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Machine Room
+
 Enter the machine room to craft wood (mostly) to your hearts content. Plus access a wide range of supporting tools like clamps, rulers, drill bits etc.
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🔴|Green wood lathe||ELEKTRA-BECKUM HDM 1000|![hdm1000.webp](/tools/images/hdm1000.webp =200x)|Machine room|:gift:|
@@ -167,7 +181,9 @@ Enter the machine room to craft wood (mostly) to your hearts content. Plus acces
 |🟡|Spindle sander||Triton Tsps450 [:book:](/tools/manuals/tsps450.pdf)|![tsps450.webp](/tools/images/tsps450.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Corded Power Tools
-Batteries are great and all, but sometimes you need good old fashioned 240V to get the job done... Or Battery tools weren't invented yet).
+
+Batteries are great and all, but sometimes you need good old fashioned 240 V to get the job done... Or Battery tools weren't invented yet.
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|AEG Belt Sander||HBS 1000 E [:book:](/tools/manuals/hbs1000e.pdf)|![hbs1000e.webp](/tools/images/hbs1000e.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -209,8 +225,11 @@ Batteries are great and all, but sometimes you need good old fashioned 240V to g
 |🟡|ToolPRO Rotary Tool Kit||276 PCE|![276kit.webp](/tools/images/276kit.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|XU1 Drill Bit Sharpener||XDS-010|![xds_010.webp](/tools/images/xds_010.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|XU1 Sheet Orbital Sander||XOS-400|![xos_400.webp](/tools/images/xos_400.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
+
 ## Cordless Power Tools
-Welcome to future. Go on, check out a brushless battery power tool. You'll never look back!
+
+Welcome to the future. Go on, check out a brushless battery power tool. You'll never look back!
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟢|Bosch Electric Screwdriver||D-70745|![d70745.webp](/tools/images/d70745.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -256,7 +275,9 @@ Welcome to future. Go on, check out a brushless battery power tool. You'll never
 |🟡|Ryobi Trim Router||R18TR2 [:book:](/tools/manuals/r18tr2.pdf)|![r18tr2.webp](/tools/images/r18tr2.webp =200x)|Machine room - tool rack|:gift:|
 
 ## Air Tools
+
 Woosh goes the sound of your dreams as they fly out of your mind and into reality!
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Air Paint Spray Gun||airgeneric|![airgeneric.webp](/tools/images/airgeneric.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -272,7 +293,9 @@ Woosh goes the sound of your dreams as they fly out of your mind and into realit
 
 
 ## Hand Tools
+
 There's no power here - It's all on you, your dexterity and imagination!
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟢|Bosch Drill and Screwdriver Bit Set with case||-|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -285,7 +308,9 @@ There's no power here - It's all on you, your dexterity and imagination!
 |🟡|Weller Wood Burning Kit||N/A|![woodburn.webp](/tools/images/woodburn.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Band Gear
+
 Planning on becoming the next AC/DC? They didn't just drink all day and smash out the concert. They rehearsed too (I guess?). You too can rehearse for a [low fee per session](/docs/policies/fees) or for free if you have a [Band Membership](/docs/policies/classes_of_membership)!
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟢|250W PA Speakers||Que|🟢|250W PA Speakers||Quest Engineering QS250 [:book:](/tools/manuals/qs250.pdf)|![qs250.webp](/tools/images/qs250.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -302,14 +327,18 @@ Planning on becoming the next AC/DC? They didn't just drink all day and smash ou
 |🟢|power amplifier||Crown XLS1000|![crown_xls1000.webp](/tools/images/crown_xls1000.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Social Area
+
 Chill out and have a break, drink or snack in the break out space.
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟢|Multimedia speaker system||Edifier M2600B|![edifierm2600b.webp](/tools/images/edifierm2600b.webp =200x)|Social Area|:gift:|
 |🟢|Multitouch Monitor||Eboard EBLE65N [:book:](/tools/manuals/eble65n.pdf)|![eble65n.webp](/tools/images/eble65n.webp =200x)|Social Area|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Shed
+
 What sort of Maker Space would we be if we didn't have a shed. Need we say more?
+
 | Risk | Tool         | Artifactory Policy |  Model & OEM Info          | Looks like | Usual location | Owned by|
 | ---- | ------------ | ---------------- | ----------------------- | -----------| ----------- | ---------- |
 |🟡|Bosch 254mm mitre saw||PCM 1800 [:book:](/tools/manuals/pcm1800.pdf)|![pcm1800.webp](/tools/images/pcm1800.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|

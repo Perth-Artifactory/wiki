@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-07-13T12:01:14.315Z
+date: 2024-07-13T12:46:16.706Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -74,6 +74,7 @@ Pre:
 1. Fence positioning
 
 Using:
+1. Saw is more powerful than previous saw - will go through things quicker so don't put your fingers inline with the blade while applying force
 1. Keep fingers away from blade path
 1. Use push sticks for narrow pieces
 1. Spin up completely before blade contacts material
@@ -84,6 +85,7 @@ After:
 1. Turn off using red button not estop
 1. Dispose of off cuts (empty bin into skip if 3/4 full)
 1. Vacuuming includes: table, both compartments, tray, floor
+1. Detension blade using quick tension lever
 
 ## Drill Press ✔ 
 

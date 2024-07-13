@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-13T11:01:40.389Z
+date: 2024-07-13T12:32:31.981Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -49,70 +49,69 @@ If you work hard, [you should play hard](https://www.youtube.com/watch?v=WjElZ-O
 | Risk | Tool | Artifactory Policy |  Model & OEM Info | Looks like | Usual location | Owned by |
 | ---- | ---- | ------------------ | ----------------- | ---------- | -------------- | -------- |
 |🟡|Black & Decker Corded 100mm angle grinder| |DN10N|![dn10n.webp](/tools/images/dn10n.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|Carbatec drill press| |230V 4.8A 1400 rpm|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Carbatec drill press| |230V 4.8A 1400 rpm|![carbatec.webp](/tools/images/carbatec.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Linishall industrial bench grinder| |BG8|![bg8.webp](/tools/images/bg8.webp =200x)|Machine room|:gift:|
-|🔴|CNC router|[:clipboard:](/tools/cnc/swarf/swarfomat) [:dollar:](/docs/policies/fees#cnc-router-swarf-o-mat)|CNC router ("Swarf-XL")|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room|:gift:|
-|🔴|Forge| [:dollar:]|N/A|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Foundry| [:dollar:]|N/A|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|CNC router|[:clipboard:](/tools/cnc/swarf/swarfomat) [:dollar:](/docs/policies/fees#cnc-router-swarf-o-mat) |CNC router ("Swarf-XL")|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room|:gift:|
+|🔴|Forge| [:dollar:] |N/A|![foundry.webp](/tools/images/foundry.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Foundry| [:dollar:] |N/A|![cm300.webp](/tools/images/cm300.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|HAFCO MetalMaster 3 in 1/ Shearer / press brake| |CM-300|![cm300.webp](/tools/images/cm300.webp =200x)|Metal machining area|:gift:|
 |🔴|Jepson lathe| |MC1100|![mc1100.webp](/tools/images/mc1100.webp =200x)|Machine room|:gift:|
-|🟡|Kiln| [:dollar:]|Ward C4|![wardc4.webp](/tools/images/wardc4.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Kiln| [:dollar:] |Ward C4|![wardc4.webp](/tools/images/wardc4.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Makita corded 125mm angle grinder| |GA5021C [:book:](/tools/manuals/ga5021c.pdf)|![ga5021c.webp](/tools/images/ga5021c.webp =200x)|Welding bay|:gift:|
 |🔴|Makita corded 230mm angle grinder| |M9001|![m9001b.webp](/tools/images/m9001b.webp =200x)|Welding bay|:gift:|
 |🟡|Metabo corded 100mm angle grinder| |EW6114S|![ew6114s.webp](/tools/images/ew6114s.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🔴|Metal lathe| |AL50G|![al50g.webp](/tools/images/al50g.webp =200x)|Metal machining area|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Mill|[:clipboard:](/tools/milling_machine) [:dollar:](/docs/policies/fees#metal-mill-turret-mill-bm70-ve)|BM70VE|![bm70ve.webp](/tools/images/bm70ve.webp =200x)|Metal machining area|:gift:|
+|🔴|Mill|[:clipboard:](/tools/milling_machine) [:dollar:](/docs/policies/fees#metal-mill-turret-mill-bm70-ve) |BM70VE|![bm70ve.webp](/tools/images/bm70ve.webp =200x)|Metal machining area|:gift:|
 |🟡|Ozito (GMC) friction saw| |GMC MX355 B|![mx355b.webp](/tools/images/mx355b.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ozito friction saw| |MCS-355|![mcs355.webp](/tools/images/mcs355.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Plasma cutter| |CUT-40 MKIII|![cut40mkiii.webp](/tools/images/cut40mkiii.webp =200x)|Welding bay|:gift:|
 |🟡|Ryobi corded 100mm angle grinder| |EAG75100RG|![eag75100g.webp](/tools/images/eag75100g.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|Ryobi cordless 115mm angle grinder #1| |TBC|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|Ryobi cordless 115mm angle grinder #2| |TBC|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Ryobi cordless 115mm angle grinder #1| |R18AG4115 [:link:](https://www.ryobi.com.au/products/angle-grinders/18v-one-115mm-angle-grinder-tool-only) [:book:](/tools/manuals/r18ag4115.pdf)|![r18ag4115.webp](/tools/images/r18ag4115.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Ryobi cordless 115mm angle grinder #2| |R18AG4115 [:link:](https://www.ryobi.com.au/products/angle-grinders/18v-one-115mm-angle-grinder-tool-only) [:book:](/tools/manuals/r18ag4115.pdf)|![r18ag4115.webp](/tools/images/r18ag4115.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ryobi friction saw| |ECO2437RG [:book:](/tools/manuals/eco2437.pdf)|![eco2437rg.webp](/tools/images/eco2437rg.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Saber metal bandsaw| |MCB115S2|![mcb115s2.webp](/tools/images/mcb115s2.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Stick Welder| |WeldSkill 140 [:link:](https://www.cigweld.com.au/product/weldskill-140/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill140_s.jpg](/tools/images/weldskill140_s.jpg =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Supatool bench grinder| |STP15151|![stp15151.webp](/tools/images/stp15151.webp =200x)|Machine room|:gift:|
-|🟡|Unimig Razorweld MTS210 3-in-1 welder| [:dollar:](/docs/policies/fees#welding-with-gas)|MTS210 [:link:](https://usaweld.com/products/htp_america_mts_210) [:book:](/tools/manuals/mts210.pdf)|![mts210.webp](/tools/images/mts210.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|Weldskill 100 welder| [:dollar:](/docs/policies/fees#welding-with-gas)|WeldSkill 100 [:link:](https://www.cigweld.com.au/product/weldskill-100-mig-portable-gasless-welding-machine/) [:book:](/tools/manuals/weldskill100.pdf)|![weldskill100_s.jpg](/tools/images/weldskill100_s.jpg =200x)|Welding bay|:gift:|
+|🟡|Unimig Razorweld MTS210 3-in-1 welder| [:dollar:](/docs/policies/fees#welding-with-gas) |MTS210 [:link:](https://usaweld.com/products/htp_america_mts_210) [:book:](/tools/manuals/mts210.pdf)|![mts210.webp](/tools/images/mts210.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Weldskill 100 welder| [:dollar:](/docs/policies/fees#welding-with-gas) |WeldSkill 100 [:link:](https://www.cigweld.com.au/product/weldskill-100-mig-portable-gasless-welding-machine/) [:book:](/tools/manuals/weldskill100.pdf)|![weldskill100_s.jpg](/tools/images/weldskill100_s.jpg =200x)|Welding bay|:gift:|
 |🟡|Weldskill 180 welder| |WeldSkill 180 [:link:](https://www.cigweld.com.au/product/weldskill-180/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill180_s.jpg](/tools/images/weldskill180_s.jpg =200x)|Welding bay|:gift:|
 
 
 ## 3D Printers (FDM)
 
-Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer!
-
+Want to dream something, wait a couple of hours and then see your creation magically appear? 3D Printing is your answer! 
 Then for bonus points, add some electronic wizardry - all possible in the 3D printing and Electronics Lab.
 
 | Risk | Tool | Artifactory Policy |  Model & OEM Info | Looks like | Usual location | Owned by |
 | ---- | ---- | ------------------ | ----------------- | ---------- | -------------- | -------- |
-|🔴|Bambu Labs AMS (#1)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Bambu Labs AMS (#2)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|:gift:|
-|🔴|Bambu Labs AMS (#3)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|:gift:|
-|🔴|Bambu Labs AMS (#4)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|:gift:|
-|🔴|Bambu Labs AMS (#5)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|:gift:|
-|🔴|Bambu Labs AMS-Lite (#1)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|AMS-Lite [:link:](https://au.store.bambulab.com/products/ams-lite)|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
-|🔴|Bambu Labs P1S|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|P1S [:link:](https://au.store.bambulab.com/products/p1s) [:book:](/tools/manuals/p1s.pdf)|![p1s.webp](/tools/images/p1s.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Bambu Labs X1|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|X1 [:link:](https://au.store.bambulab.com/products/x1-carbon-3d-printer) [:book:](/tools/manuals/x1carbon.pdf)|![x1carbon.webp](/tools/images/x1carbon.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Bambu Labs A1|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|A1 [:link:](https://au.store.bambulab.com/products/a1)|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
-|🔴|Bambu Labs A1-Mini|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|A1-Mini [:link:](https://au.store.bambulab.com/products/a1-mini)|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
-|🔴|Prusa MK4|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|MK4 [:link:](https://www.prusa3d.com/product/original-prusa-mk4-2/) [:book:](/tools/manuals/mk4.pdf)|![mk4.jpg](/tools/images/mk4.jpg =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Prusa XL-5T|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm)|XL-5T [:link:](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) [:book:](/tools/manuals/prusaxl.pdf)|![xl5th.jpg](/tools/images/xl5th.jpg =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Bambu Labs AMS (#1)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Bambu Labs AMS (#2)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|:gift:|
+|🔴|Bambu Labs AMS (#3)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|:gift:|
+|🔴|Bambu Labs AMS (#4)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|:gift:|
+|🔴|Bambu Labs AMS (#5)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |AMS [:link:](https://au.store.bambulab.com/products/ams-multicolor-printing) [:book:](/tools/manuals/ams.pdf)|![ams.webp](/tools/images/ams.webp =200x)|Z Lab|:gift:|
+|🔴|Bambu Labs AMS-Lite (#1)|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |AMS-Lite [:link:](https://au.store.bambulab.com/products/ams-lite)|![amslite.webp](/tools/images/amslite.webp =200x)|Z Lab|:gift:|
+|🔴|Bambu Labs P1S|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |P1S [:link:](https://au.store.bambulab.com/products/p1s) [:book:](/tools/manuals/p1s.pdf)|![p1s.webp](/tools/images/p1s.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Bambu Labs X1|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |X1 [:link:](https://au.store.bambulab.com/products/x1-carbon-3d-printer) [:book:](/tools/manuals/x1carbon.pdf)|![x1carbon.webp](/tools/images/x1carbon.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Bambu Labs A1|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |A1 [:link:](https://au.store.bambulab.com/products/a1)|![bambuA1.webp](/tools/images/bambua1.webp =200x)|Z Lab|:gift:|
+|🔴|Bambu Labs A1-Mini|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |A1-Mini [:link:](https://au.store.bambulab.com/products/a1-mini)|![bambua1mini.webp](/tools/images/bambua1mini.webp =200x)|Z Lab|:gift:|
+|🔴|Prusa MK4|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |MK4 [:link:](https://www.prusa3d.com/product/original-prusa-mk4-2/) [:book:](/tools/manuals/mk4.pdf)|![mk4.jpg](/tools/images/mk4.jpg =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Prusa XL-5T|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-fdm) |XL-5T [:link:](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) [:book:](/tools/manuals/prusaxl.pdf)|![xl5th.jpg](/tools/images/xl5th.jpg =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## 3D Printers (Resin)
 Similar to FDM printers, but higher resolution, and much more mess. 
 
 | Risk | Tool | Artifactory Policy |  Model & OEM Info | Looks like | Usual location | Owned by |
 | ---- | ---- | ------------------ | ----------------- | ---------- | -------------- | -------- |
-|🔴|Anycubic Photon Mono X|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin)|Photon Mono X [:link:](https://www.anycubic.com/products/photon-mono-x-resin-printer) [:book:](/tools/manuals/monox.pdf)|![monox.webp](/tools/images/monox.webp =200x)|Z Lab|:gift:|
+|🔴|Anycubic Photon Mono X|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin) |Photon Mono X [:link:](https://www.anycubic.com/products/photon-mono-x-resin-printer) [:book:](/tools/manuals/monox.pdf)|![monox.webp](/tools/images/monox.webp =200x)|Z Lab|:gift:|
 |🟡|Wash and cure station| |Anycubic Wash and Cure 2.0|![anycubicwash.webp](/tools/images/anycubicwash.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Phrozen Sonic Mega 8K|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin)|Phrozen Sonic Mega 8K [:link:](https://phrozen3d.com/products/sonic-mega-8k)|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
+|🔴|Phrozen Sonic Mega 8K|[:clipboard:](/tools/3dprinters) [:dollar:](/docs/policies/fees#h-3d-printer-resin) |Phrozen Sonic Mega 8K [:link:](https://phrozen3d.com/products/sonic-mega-8k) [:book:](/tools/manuals/phrozensonic.pdf)|![phrozensonicmega8k.webp](/tools/images/phrozensonicmega8k.webp =200x)|Z Lab|:gift:|
 
 ## Electronics Lab
 Interested in Electronics? This Lab is the place for you with a huge selection of diagnosis and fabrication tools to bring your electronic creation to life.
 
 | Risk | Tool | Artifactory Policy |  Model & OEM Info | Looks like | Usual location | Owned by |
 | ---- | ---- | ------------------ | ----------------- | ---------- | -------------- | -------- |
-|🟡|Camera Microscope| | |![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Camera Microscope| ||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|DC High Current Analogue Power Supply| |HP 6268B|![6268b.webp](/tools/images/6268b.webp =200x)|Z Lab|:gift:|
 |🟢|DC Power Supply| |Agilent 6632B|![6632b.webp](/tools/images/6632b.webp =200x)|Z Lab|:gift:|
 |🟢|DC Power Supply| |Agilent 6654A|![6654a.webp](/tools/images/6654a.webp =200x)|Z Lab|:gift:|
@@ -124,17 +123,17 @@ Interested in Electronics? This Lab is the place for you with a huge selection o
 |🔴|Dynamic Signal Analyzer| |HP 35665A|![35665a.webp](/tools/images/35665a.webp =200x)|Z Lab|:gift:|
 |🟢|Electric Lamp| |Spectra Lite 990|![spectra990.webp](/tools/images/spectra990.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Function Generator| |HP 3312A|![3312a.webp](/tools/images/3312a.webp =200x)|Z Lab|:gift:|
-|🟡|Hotplate| | |![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
+|🟡|Hotplate| ||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
 |🟢|LCR Meter| |Leader LCR-745|![lcr745.webp](/tools/images/lcr745.webp =200x)|Z Lab|:gift:|
 |🟢|Oscilloscope| |Dick Smith Q1803|![q1803.webp](/tools/images/q1803.webp =200x)|Z Lab|:gift:|
 |🟢|Programmable Synthesizer / Function Generator| |Phillips PM 5192|![pm5192.webp](/tools/images/pm5192.webp =200x)|Z Lab|:gift:|
-|🔴|Reflow Oven (Element)| | |![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Reflow Oven (IR)| | |![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
-|🟢|Soldering and Desoldering Station| :dizzy_face:|Micron T2052|![t2052.webp](/tools/images/t2052.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Reflow Oven (Element)| ||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Reflow Oven (IR)| ||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
+|🟢|Soldering and Desoldering Station|:dizzy_face:|Micron T2052|![t2052.webp](/tools/images/t2052.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Thermal Imaging Smartphone| |Flir Cat S60|![cats60.webp](/tools/images/cats60.webp =200x)|Z Lab|:gift:|
 |🟢|Ultrasonic Cleaner| |CD-4821|![cd4821.webp](/tools/images/cd4821.webp =200x)|Z Lab|:gift:|
 |🟢|Universal Counter| |HP 5334B|![5334b.webp](/tools/images/5334b.webp =200x)|Z Lab|:gift:|
-|🟡|Vacuformer| [:dollar:]|Mayku Formbox|![formbox.webp](/tools/images/formbox.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Vacuformer| [:dollar:] |Mayku Formbox|![formbox.webp](/tools/images/formbox.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 
 
 ## Design Lab
@@ -144,14 +143,14 @@ The design lab has several computers, printers and scanners. It's often used to 
 | Risk | Tool | Artifactory Policy |  Model & OEM Info | Looks like | Usual location | Owned by |
 | ---- | ---- | ------------------ | ----------------- | ---------- | -------------- | -------- |
 |🟡|3d scanner (Pending)| |Creality Raptor [:link:](https://www.creality.com/products/creality-cr-scan-raptor) [:book:](/tools/manuals/raptor.pdf)|![raptor.webp](/tools/images/raptor.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|active studio monitor speaker| |Samson Resolv 80A|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|active studio monitor speaker| |Samson Resolv 80A|![samsonresolv80a.webp](/tools/images/samsonresolv80a.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|all-in-one inkjet printer| |Canon MP230 [:link:](https://www.canon.com.au/printers/pixma-mp230/support) [:book:](/tools/manuals/mp230.pdf)|![mp230.webp](/tools/images/mp230.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Brother sewing machine| |JS1410|![js1410.webp](/tools/images/js1410.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Computer| |Computer 1|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Computer| |Computer 2|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Computer| |Computer 3|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Computer| |Computer 4|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Design Lab TV| |Ffalcon - FF55U64|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Computer| |Computer 1|![computer.webp](/tools/images/computer.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Computer| |Computer 2|![computer.webp](/tools/images/computer.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Computer| |Computer 3|![computer.webp](/tools/images/computer.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Computer| |Computer 4|![computer.webp](/tools/images/computer.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Design Lab TV| |Ffalcon - FF55U64|![ffalconff55u64.webp](/tools/images/ffalconff55u64.webp =200x)|Design Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Vinyl cutter| |Cutting Plotter 1351|![1351.webp](/tools/images/1351.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Wacom Intuos3 drawing tablet| |Wacom Intuos3|![intuos3.webp](/tools/images/intuos3.webp =200x)|Design lab|![aflogo_28px.webp](/aflogo_28px.png)|
 
@@ -178,7 +177,7 @@ Enter the machine room to craft wood (mostly) to your hearts content. Plus acces
 |🟡|Hafco bandsaw| |BP-255|![bp255.webp](/tools/images/bp255.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ryobi Belt and Disc Sander| |rbds4601g|![rbds4601g.webp](/tools/images/rbds4601g.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|SCA 6,000kg Shop Press| |214467|![scashoppress.webp](/tools/images/scashoppress.webp =200x)|Machine room|:gift:|
-|🟡|Spindle sander| |Triton Tsps450 [:book:](/tools/manuals/tsps450.pdf)|![tsps450.webp](/tools/images/tsps450.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Spindle sander||Triton Tsps450 [:book:](/tools/manuals/tsps450.pdf)|![tsps450.webp](/tools/images/tsps450.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Corded Power Tools
 
@@ -191,12 +190,12 @@ Batteries are great and all, but sometimes you need good old fashioned 240 V to 
 |🟡|Bosch 185mm circular saw| |GKS 190 [:book:](/tools/manuals/gks190.pdf)|![gks190.webp](/tools/images/gks190.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Bosch 254mm Miter Saw| |PCM 1800 [:book:](/tools/manuals/pcm1800.pdf)|![pcm1800.webp](/tools/images/pcm1800.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Bosch Angle Grinder| |GWS 17-125 CIX [:book:](/tools/manuals/gws_17_125_cix.pdf)|![gws_17_125_cix.webp](/tools/images/gws_17_125_cix.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|Bosch Jigsaw| |N153|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Bosch Jigsaw| |N153 (PST 650E?)|![pst650e.webp](/tools/images/pst650e.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Bosch jigsaw| |PST680EL [:link:](https://www.bosch-diy.com/au/en) [:book:](/tools/manuals/pst_680el.pdf)|![pst680el_s.jpeg](/tools/images/pst680el_s.jpeg =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Bosch Random Orbit Sander| |PEX 300 AE [:book:](/tools/manuals/pex_300_ae.pdf)|![pex_300_ae.webp](/tools/images/pex_300_ae.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Dotty's Crafts Glue Gun| |FL-138|![fl_138.webp](/tools/images/fl_138.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Dremel Rotary Tool| |3000 [:book:](/tools/manuals/dremel3000.pdf)|![dremel3000.webp](/tools/images/dremel3000.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|GMC 185mm circular saw| | |![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|GMC 185mm circular saw| ||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|GMC Detail Sander| |KAT158|![kat158.webp](/tools/images/kat158.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Hitachi Belt Sander| |SB10T(B) [:book:](/tools/manuals/sb10t.pdf)|![sb10t_b.webp](/tools/images/sb10t_b.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|McMaster Planer| |PLX7-9282A|![plx7_9282a.webp](/tools/images/plx7_9282a.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -215,12 +214,12 @@ Batteries are great and all, but sometimes you need good old fashioned 240 V to 
 |🔴|Ozito Plunge Router| |ROU-5000|![rou_5000.webp](/tools/images/rou_5000.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ozito Rotary Tool| |RTG-920VK [:book:](/tools/manuals/rtg920vk.pdf)|![rtg_920vk.webp](/tools/images/rtg_920vk.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Rockwell Multitool| |RD5511K.1|![rd5511k_1.webp](/tools/images/rd5511k_1.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Rockwell Palm Sander| |EX160PS|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Rockwell Palm Sander| |EX160PS [:book:](/tools/manuals/.)|![palmsander.webp](/tools/images/palmsander.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Rockwell Reciprocating Saw| |RS3100|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ryobi 254mm mitre saw| |EMS254RG [:book:](/tools/manuals/ems254rg.pdf)|![ems254rg.webp](/tools/images/ems254rg.webp =200x)|Machine room - corded|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ryobi Biscuit Joiner| |EBJ720K [:book:](/tools/manuals/ebj720k.pdf)|![ebj720k.webp](/tools/images/ebj720k.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ryobi corded planer| |ERP6582RG [:book:](/tools/manuals/erp6582rg.pdf)|![erp6582rg.webp](/tools/images/erp6582rg.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Sontax Glue Gun| |MGG000|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Sontax Glue Gun| |MGG000|![sontaxgluegun.webp](/tools/images/sontaxgluegun.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Taurus Rotary Hobby Tool| |TTA-517|![tta_517.webp](/tools/images/tta_517.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|ToolPRO Rotary Tool Kit| |276 PCE|![276kit.webp](/tools/images/276kit.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|XU1 Drill Bit Sharpener| |XDS-010|![xds_010.webp](/tools/images/xds_010.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -234,7 +233,7 @@ Welcome to the future. Go on, check out a brushless battery power tool. You'll n
 | ---- | ---- | ------------------ | ----------------- | ---------- | -------------- | -------- |
 |🟢|Bosch Electric Screwdriver| |D-70745|![d70745.webp](/tools/images/d70745.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Bosch Impact Wrench| |GDS 18V-300 (Serial: 908000030) [:book:](/tools/manuals/gds18v_300.pdf)|![gds18v_300.webp](/tools/images/gds18v_300.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Makita Guide Rail 1400mm| |194368-5|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Makita Guide Rail 1400mm| |194368-5|![194368.webp](/tools/images/194368.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Makita Planer| |DKP181 [:book:](/tools/manuals/dkp181.pdf)|![dkp181.webp](/tools/images/dkp181.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ozito 12V Rotary Tool| |ZLRTS-012 [:book:](/tools/manuals/zlrts_012.pdf)|![zlrts_012.webp](/tools/images/zlrts_012.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Ozito Cordless Drill Driver| |CDR-014 [:book:](/tools/manuals/cdr_014.pdf)|![cdr_014.webp](/tools/images/cdr_014.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -261,7 +260,7 @@ Welcome to the future. Go on, check out a brushless battery power tool. You'll n
 |🟢|Ryobi Drill| |CID1802P|![cid1802p.webp](/tools/images/cid1802p.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Ryobi Drill Driver| |R18DD3 [:book:](/tools/manuals/r18dd3.pdf)|![r18dd3.webp](/tools/images/r18dd3.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Ryobi Drill Driver| |RCD1802 [:book:](/tools/manuals/rcd1802.pdf)|![rcd1802.webp](/tools/images/rcd1802.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Ryobi Fan| |RPF180G|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Ryobi Fan| |RPF180G|![ryobifan.webp](/tools/images/ryobifan.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Ryobi Flashlight| |RA-C076-B|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Ryobi Hand Vac| |R18HV [:book:](/tools/manuals/r18hv.pdf)|![r18hv.webp](/tools/images/r18hv.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Ryobi Impact Driver| |R18ID1 [:book:](/tools/manuals/r18id1.pdf)|![r18id1.webp](/tools/images/r18id1.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -318,9 +317,9 @@ Planning on becoming the next AC/DC? They didn't just drink all day and smash ou
 |🟢|Amplifier| |Fender Frontman 212R [:book:](/tools/manuals/fender_frontman_212r.pdf)|![fender_frontman_212r.webp](/tools/images/fender_frontman_212r.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|analog mixer| |Xenyx qx1002|![xenyx_qx1002.webp](/tools/images/xenyx_qx1002.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|bass amplifier| |Hartke Systems 3500 [:book:](/tools/manuals/ha3500.pdf)|![ha3500.webp](/tools/images/ha3500.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|bass guitar speaker| |Yorkville 410B|![410b.webp](/tools/images/410b.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Electric Guitar (6 string)| |N/A|![guitar.webp](/tools/images/guitar.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟢|Electric Guitar (6 string)| |N/A|![guitar.webp](/tools/images/guitar.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|bass guitar speaker|:dizzy_face:|Yorkville 410B|![410b.webp](/tools/images/410b.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Electric Guitar (6 string)| |N/A|![guitar1.webp](/tools/images/guitar1.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟢|Electric Guitar (6 string)| |N/A|![guitar2.webp](/tools/images/guitar2.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Electric Guitar (Bass - 4 String)| |N/A|![bassguitar.webp](/tools/images/bassguitar.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|guitar amplifier| |Marshall Valvestate VS100|![marshall_valvestate_vs100.webp](/tools/images/marshall_valvestate_vs100.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|portable guitar amplifier| |Roland Cube 15|![roland_cube_15.webp](/tools/images/roland_cube_15.webp =200x)|Band room|![aflogo_28px.webp](/aflogo_28px.png)|
@@ -344,5 +343,5 @@ What sort of Maker Space would we be if we didn't have a shed. Need we say more?
 |🟡|Bosch 254mm mitre saw| |PCM 1800 [:book:](/tools/manuals/pcm1800.pdf)|![pcm1800.webp](/tools/images/pcm1800.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Compressor| |Fendi F3050L|![f3050l.webp](/tools/images/f3050l.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Ozito scroll saw| |SSB-407|![ssb407.webp](/tools/images/ssb407.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|Pressure pot| |N/A|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Pressure pot| |N/A|![pressurepot.webp](/tools/images/pressurepot.webp =200x)|Shed|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Tube bender| |TBC|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Shed|:gift:|

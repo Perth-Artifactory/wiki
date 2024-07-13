@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-06-24T12:14:55.515Z
+date: 2024-07-13T12:01:14.315Z
 tags: restricted
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -12,7 +12,7 @@ dateCreated: 2024-01-27T10:06:35.646Z
 
 These are tools in the wood category only. You may be thinking of the [power tool](/docs/tool_inductions/power) category instead.
 
-## Bandsaw (Wood) ✔
+## Bandsaw (Wood/Small) ✔
 
 Lead: Renae Currie
 Signed off by: Renae, Fletcher
@@ -34,6 +34,43 @@ Pre:
 1. Check material for fixings (nails etc) using metal detector
 1. Table positioning
 1. Set blade guide height
+1. Fence positioning
+
+Using:
+1. Keep fingers away from blade path
+1. Use push sticks for narrow pieces
+1. Spin up completely before blade contacts material
+1. Push gently, do not overload tool
+1. Do not clear material from blade/fence with fingers
+
+After:
+1. Turn off using red button not estop
+1. Dispose of off cuts (empty bin into skip if 3/4 full)
+1. Vacuuming includes: table, both compartments, tray, floor
+
+## Bandsaw (Wood/Large) ✔
+
+Lead: Renae Currie
+Signed off by: Renae, Fletcher
+
+| Item  | Req | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | Flying chips |
+| Ear protection                 | M | Material dependant |
+| Gloves (general)               | N | Moving parts |
+| Enclosed shoes                 | Y | Falling off-cuts|
+| Safety boots                   | M | Heavy materials and off-cuts|
+| Mask/Respirator (dust)         | M | P2 if material is toxic (MDF etc) |
+
+Pre: 
+1. Tension the blade with the quick tension lever
+1. Check equipment prior to use (Blade sharpness, tension, and tracking)
+1. Ensure work area is clear
+1. Ensure tool is far enough from wall for length of cut/material (so it doens't hit the wall)
+1. Use proper blade for material and cut type
+1. Check material for fixings (nails etc) using metal detector
+1. Table positioning
+1. Set blade guide height (No lock)
 1. Fence positioning
 
 Using:

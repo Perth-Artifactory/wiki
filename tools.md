@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-12T17:57:45.926Z
+date: 2024-07-13T09:27:29.125Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -70,7 +70,7 @@ If you work hard, [you should play hard](https://www.youtube.com/watch?v=WjElZ-O
 |🟡|Ryobi cordless 115mm angle grinder #2| |TBC|![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ryobi friction saw| |ECO2437RG [:book:](/tools/manuals/eco2437.pdf)|![eco2437rg.webp](/tools/images/eco2437rg.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Saber metal bandsaw| |MCB115S2|![mcb115s2.webp](/tools/images/mcb115s2.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|Stick Welder|(/docs/policies/fees#welding-with-gas)|WeldSkill 140 [:link:](https://www.cigweld.com.au/product/weldskill-140/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill140_s.jpg](/tools/images/weldskill140_s.jpg =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Stick Welder| |WeldSkill 140 [:link:](https://www.cigweld.com.au/product/weldskill-140/) [:book:](/tools/manuals/weldskill180.pdf)|![weldskill140_s.jpg](/tools/images/weldskill140_s.jpg =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Supatool bench grinder| |STP15151|![stp15151.webp](/tools/images/stp15151.webp =200x)|Machine room|:gift:|
 |🟡|Unimig Razorweld MTS210 3-in-1 welder| [:dollar:](/docs/policies/fees#welding-with-gas)|MTS210 [:link:](https://usaweld.com/products/htp_america_mts_210) [:book:](/tools/manuals/mts210.pdf)|![mts210.webp](/tools/images/mts210.webp =200x)|Welding bay|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Weldskill 100 welder| [:dollar:](/docs/policies/fees#welding-with-gas)|WeldSkill 100 [:link:](https://www.cigweld.com.au/product/weldskill-100-mig-portable-gasless-welding-machine/) [:book:](/tools/manuals/weldskill100.pdf)|![weldskill100_s.jpg](/tools/images/weldskill100_s.jpg =200x)|Welding bay|:gift:|
@@ -200,7 +200,7 @@ Batteries are great and all, but sometimes you need good old fashioned 240 V to 
 |🟢|GMC Detail Sander| |KAT158|![kat158.webp](/tools/images/kat158.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Hitachi Belt Sander| |SB10T(B) [:book:](/tools/manuals/sb10t.pdf)|![sb10t_b.webp](/tools/images/sb10t_b.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|McMaster Planer| |PLX7-9282A|![plx7_9282a.webp](/tools/images/plx7_9282a.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|Makita Circular Saw| |M3600|![m3600.webp](/tools/images/m3600.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Makita Plunge Router| |M3600|![m3600.webp](/tools/images/m3600.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Makita screwdriver| |6827 [:link:](https://www.makitatools.com/products/details/6827) [:book:](/tools/manuals/6827.pdf)|![6827.webp](/tools/images/6827.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Makita Jigsaw| |4301BV [:link:](http://www.makita.com.au) [:book:](/tools/manuals/4301bv.pdf)|![4301bv_s.webp](/tools/images/4301bv_s.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🔴|Makita Plunge Router| |3600BR [:book:](/tools/manuals/3600br.pdf)|![3600br.webp](/tools/images/3600br.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|

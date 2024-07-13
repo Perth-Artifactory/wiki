@@ -2,7 +2,7 @@
 title: Tools
 description: A list of links to all Tools available at the Perth Artifactory
 published: false
-date: 2024-07-13T12:56:53.515Z
+date: 2024-07-13T13:03:32.515Z
 tags: 
 editor: markdown
 dateCreated: 2024-05-14T12:21:07.640Z
@@ -111,7 +111,7 @@ Interested in Electronics? This Lab is the place for you with a huge selection o
 
 | Risk | Tool | Artifactory Policy |  Model & OEM Info | Looks like | Usual location | Owned by |
 | ---- | ---- | ------------------ | ----------------- | ---------- | -------------- | -------- |
-|🟡|Camera Microscope| ||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Camera Microscope| | |![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|DC High Current Analogue Power Supply| |HP 6268B|![6268b.webp](/tools/images/6268b.webp =200x)|Z Lab|:gift:|
 |🟢|DC Power Supply| |Agilent 6632B|![6632b.webp](/tools/images/6632b.webp =200x)|Z Lab|:gift:|
 |🟢|DC Power Supply| |Agilent 6654A|![6654a.webp](/tools/images/6654a.webp =200x)|Z Lab|:gift:|
@@ -123,12 +123,12 @@ Interested in Electronics? This Lab is the place for you with a huge selection o
 |🔴|Dynamic Signal Analyzer| |HP 35665A|![35665a.webp](/tools/images/35665a.webp =200x)|Z Lab|:gift:|
 |🟢|Electric Lamp| |Spectra Lite 990|![spectra990.webp](/tools/images/spectra990.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Function Generator| |HP 3312A|![3312a.webp](/tools/images/3312a.webp =200x)|Z Lab|:gift:|
-|🟡|Hotplate| ||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
+|🟡|Hotplate| | |![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
 |🟢|LCR Meter| |Leader LCR-745|![lcr745.webp](/tools/images/lcr745.webp =200x)|Z Lab|:gift:|
 |🟢|Oscilloscope| |Dick Smith Q1803|![q1803.webp](/tools/images/q1803.webp =200x)|Z Lab|:gift:|
 |🟢|Programmable Synthesizer / Function Generator| |Phillips PM 5192|![pm5192.webp](/tools/images/pm5192.webp =200x)|Z Lab|:gift:|
-|🔴|Reflow Oven (Element)| ||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
-|🔴|Reflow Oven (IR)| ||![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
+|🔴|Reflow Oven (Element)| | |![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
+|🔴|Reflow Oven (IR)| | |![UnknownTool.webp](/tools/images/unknowntool.webp =200x)|Z Lab|:gift:|
 |🟢|Soldering and Desoldering Station|:dizzy_face:|Micron T2052|![t2052.webp](/tools/images/t2052.webp =200x)|Z Lab|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Thermal Imaging Smartphone| |Flir Cat S60|![cats60.webp](/tools/images/cats60.webp =200x)|Z Lab|:gift:|
 |🟢|Ultrasonic Cleaner| |CD-4821|![cd4821.webp](/tools/images/cd4821.webp =200x)|Z Lab|:gift:|
@@ -177,7 +177,7 @@ Enter the machine room to craft wood (mostly) to your hearts content. Plus acces
 |🟡|Hafco bandsaw| |BP-255|![bp255.webp](/tools/images/bp255.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Ryobi Belt and Disc Sander| |rbds4601g|![rbds4601g.webp](/tools/images/rbds4601g.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|SCA 6,000kg Shop Press| |214467|![scashoppress.webp](/tools/images/scashoppress.webp =200x)|Machine room|:gift:|
-|🟡|Spindle sander||Triton Tsps450 [:book:](/tools/manuals/tsps450.pdf)|![tsps450.webp](/tools/images/tsps450.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|Spindle sander| |Triton Tsps450 [:book:](/tools/manuals/tsps450.pdf)|![tsps450.webp](/tools/images/tsps450.webp =200x)|Machine room|![aflogo_28px.webp](/aflogo_28px.png)|
 
 ## Corded Power Tools
 

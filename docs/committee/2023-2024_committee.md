@@ -2,7 +2,7 @@
 title: 2023 - 2024 Committee
 description: 
 published: true
-date: 2024-03-23T12:21:10.900Z
+date: 2024-07-14T01:40:30.718Z
 tags: official
 editor: markdown
 dateCreated: 2023-09-16T10:44:54.897Z
@@ -14,8 +14,8 @@ Elected [2023-09-16](/minutes/AGM/2023-09-16) unless otherwise stated
 
 Office Bearers
 
--   [Chair](/docs/committee/chairperson) -2024-03-17: Beau Scott
--   [Chair](/docs/committee/chairperson) 2024-03-17-: Johannes Chuah
+-   [Chair](/docs/committee/chairperson) up to 2024-03-17: Beau Scott
+-   [Chair](/docs/committee/chairperson) after 2024-03-17-: Johannes Chuah
 -   [Vice Chair](/docs/committee/chairperson): Fletcher Boyd
 -   [Secretary](/docs/committee/secretary): Lewis Yip
 -   [Treasurer](/docs/committee/treasurer): Renae Currie

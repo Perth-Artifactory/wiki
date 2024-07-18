@@ -2,7 +2,7 @@
 title: Untitled Page
 description: 
 published: true
-date: 2024-07-18T08:46:43.115Z
+date: 2024-07-18T08:48:21.330Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-18T08:46:43.115Z
@@ -34,6 +34,11 @@ dateCreated: 2024-07-18T08:46:43.115Z
 * Preparing lumbar - use of kilns, jointer, thicknesser
 * Staining and painting
 * Decorative work / carving
+
+<br/>
+<br/>
+<br/>
+
 
 # Lesson overview
 

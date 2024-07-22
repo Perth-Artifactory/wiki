@@ -2,7 +2,7 @@
 title: Swarf XL Usage Instructions
 description: User instructions for the Swarf XL CNC router
 published: true
-date: 2024-07-22T05:15:36.533Z
+date: 2024-07-22T05:16:16.521Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-22T04:59:37.567Z
@@ -34,7 +34,7 @@ dateCreated: 2024-07-22T04:59:37.567Z
 - Fire Extinguisher: Know the location of the nearest fire extinguisher and how to use it.
 ### 5.	Electrical Safety:
 - Do not open the machine electrical cabinet. 
-- Do not operate the machine if you become aware of any electrical hazard such as broken or fraying wires. Isolate the machine and tag it “out of service”.
+- Do not operate the machine if you become aware of any electrical hazard such as broken or fraying wires. Isolate the machine and tag it “out of service” using the tags provided near the mill.
 ### 6.	Emergency Procedures:
 - Injury: Report any injury, no matter how minor, to a member of the management committee and seek medical attention if needed.
 - Do not operate the machine if the machine appears damaged or does not operate properly. Isolate the machine and tag it “out of service”.

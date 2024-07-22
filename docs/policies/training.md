@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-06-10T05:34:10.974Z
+date: 2024-07-22T13:09:00.649Z
 tags: official
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -10,7 +10,10 @@ dateCreated: 2024-01-08T14:46:10.755Z
 
 # Training
 
-We classify our tools into three levels based on the potential risk to people and property. Tools are marked with coloured dots or labels to help you identify whether you can use them or not.
+We classify [our tools](/tools) into three levels based on the potential risk to people and property. You can check which category a tool is in by -
+
+* Checking the [full list of tools](/tools), or
+* Looking for coloured dots or labels on the tool itself.
 
 You can check whether you're an authorised operator for specific medium and high risk tools by using the [Training Tracker](https://perart.io/book_training) bot in Slack, or by checking the appropriate **[Authorised Operator List](/docs/reports/machine_operators)**.
 
@@ -41,3 +44,4 @@ Training on certain high risk tools has an attached cost. Casual attendees who p
 ## Revision history
 
 * This policy was endorsed by the committee on [2024-01-20](/minutes/Committee/2024-01-20), taking effect on 2024-01-27.
+* Added a reference to the [full list of tools](/tools).

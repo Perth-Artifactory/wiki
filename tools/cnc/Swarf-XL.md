@@ -2,7 +2,7 @@
 title: Swarf XL Usage Instructions
 description: User instructions for the Swarf XL CNC router
 published: true
-date: 2024-07-22T04:59:37.567Z
+date: 2024-07-22T05:00:16.737Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-22T04:59:37.567Z
@@ -10,8 +10,7 @@ dateCreated: 2024-07-22T04:59:37.567Z
 
 # Swarf XL Usage Instructions
 
-## IMPORTANT
-
+## Important Note
 ### Under no circumstances should you use this machine if you have not been trained by an Artifactory trainer, even if you have used similar machines before. Reading these instructions does not constitute training.
 
 

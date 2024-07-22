@@ -1,8 +1,8 @@
 ---
-title: 3D Printer Operation Guide
+title: 3D Printer Operation Checklist
 description: 
 published: true
-date: 2024-05-13T06:53:25.239Z
+date: 2024-07-22T05:58:28.874Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z

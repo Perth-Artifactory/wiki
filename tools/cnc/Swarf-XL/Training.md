@@ -1,8 +1,8 @@
 ---
-title: Swarf XL/Swarf XL Training
+title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-07-23T09:55:22.520Z
+date: 2024-07-23T09:58:20.170Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z

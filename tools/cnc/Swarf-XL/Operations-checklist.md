@@ -1,8 +1,8 @@
 ---
-title: Swarf XL / Swarf XL Operation Checklist
+title: Swarf XL Operation Checklist
 description: User instructions for the Swarf XL CNC router
 published: true
-date: 2024-07-23T09:56:24.780Z
+date: 2024-07-23T09:57:54.401Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-22T04:59:37.567Z

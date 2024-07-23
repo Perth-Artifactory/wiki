@@ -2,7 +2,7 @@
 title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-07-23T09:42:24.298Z
+date: 2024-07-23T09:47:51.629Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z
@@ -34,25 +34,25 @@ If you have relevant prior experience, you are free to skip CAD / CAM training. 
 CAD / CAM training using Fusion is video-based and self paced. There is excellent instructional content on Fusion available on Autodesk's website (as well as independent content on YouTube). In addition, we have produced a video that shows specifically how to prepare a job for our CNC router using Fusion.
 
 ### Downloading and installing Fusion
-The product you need to download and install is "Fusion for Personal Use"". (You will need to create an Autodesk account). Follow the link here [https://www.autodesk.com/au/products/fusion-360/overview?term=1-YEAR&tab=subscription] and scroll down about 80% of the way, then click "Get Autodesk Fusion for Personal Use" and follow the prompts.
+The product you need to download and install is "Fusion for Personal Use"". (You will need to create an Autodesk account). Follow the link [here](https://www.autodesk.com/au/products/fusion-360/overview?term=1-YEAR&tab=subscription) and scroll down about 80% of the way, then click "Get Autodesk Fusion for Personal Use" and follow the prompts.
 
 ### General Instructions for Fusion
 
 We recommend the following videos:
 
 From the Ïntroduction to Fusion series (around 25 minutes total):
-Introduction to Fusion https://help.autodesk.com/view/fusion360/ENU/courses/AP-GET-STARTED-OVERVIEW
-User Interface Overview https://help.autodesk.com/view/fusion360/ENU/courses/AP-USER-INTERFACE-OVERVIEW
-Set Preferences https://help.autodesk.com/view/fusion360/ENU/courses/AP-SET-PREFERENCES
-Adjust Display Settings https://help.autodesk.com/view/fusion360/ENU/courses/AP-ADJUST-DISPLAY-SETTINGS
+[Introduction to Fusion](https://help.autodesk.com/view/fusion360/ENU/courses/AP-GET-STARTED-OVERVIEW)
+[User Interface Overview](https://help.autodesk.com/view/fusion360/ENU/courses/AP-USER-INTERFACE-OVERVIEW)
+[Set Preferences](https://help.autodesk.com/view/fusion360/ENU/courses/AP-SET-PREFERENCES)
+[Adjust Display Settings](https://help.autodesk.com/view/fusion360/ENU/courses/AP-ADJUST-DISPLAY-SETTINGS)
 
 From the Getting Started with Modelling series (around 40 minutes total): 
-Components and Bodies https://help.autodesk.com/view/fusion360/ENU/courses/AP-BODIES-COMPONENTS-GS
-Sketching Basics Overview https://help.autodesk.com/view/fusion360/ENU/courses/AP-INTRO-SKETCH-BASICS-OVERVIEW
-Sketch Constraints https://help.autodesk.com/view/fusion360/ENU/courses/AP-INTRO-SKETCH-BASICS-CONSTRAINTS 
-Extrude Solid Bodies https://help.autodesk.com/view/fusion360/ENU/courses/AP-INTRO-SKETCH-BASICS-CONSTRAINTS
+[Components and Bodies](https://help.autodesk.com/view/fusion360/ENU/courses/AP-BODIES-COMPONENTS-GS)
+[Sketching Basics Overview](https://help.autodesk.com/view/fusion360/ENU/courses/AP-INTRO-SKETCH-BASICS-OVERVIEW)
+[Sketch Constraints](https://help.autodesk.com/view/fusion360/ENU/courses/AP-INTRO-SKETCH-BASICS-CONSTRAINTS) 
+[Extrude Solid Bodies](https://help.autodesk.com/view/fusion360/ENU/courses/AP-INTRO-SKETCH-BASICS-CONSTRAINTS)
 
-If you want to use Fusion and are having problems with the video instruction, please feel free to ask for help in #cnc-router.
+If you want to use Fusion and are having problems with the video instruction, please feel free to ask for help in [#cnc-router](.
 
 ### Specific instructions for using Fusion with Swarf XL
 *to come*

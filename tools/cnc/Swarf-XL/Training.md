@@ -2,7 +2,7 @@
 title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-07-23T09:58:20.170Z
+date: 2024-07-23T09:59:58.508Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z
@@ -67,6 +67,6 @@ Machine Operation training is conducted one-on-one and in person. The trainee sh
 - Having completed CAD / CAM training,  or
 - With simple project they have created as evidence of prior competency. Both the CAD design (in either Vectric or Fusion format) and the G-code are required. The project chosen should have simple fixturing anf be able to be completed in under 30 minutes of machining time.
 
-An outline of the material covered in Machine Operation training is here.
+An outline of the material covered in Machine Operation training is [here](/tools/cnc/Swarf-XL/Operations-checklist).
 
 Machine Operation training can be requested in #training-and-inductions.

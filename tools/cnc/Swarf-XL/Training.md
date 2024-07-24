@@ -2,7 +2,7 @@
 title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-07-23T09:59:58.508Z
+date: 2024-07-24T04:34:28.306Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z
@@ -25,7 +25,7 @@ CAM stands for Computer Aided Manufacturing. In this context, CAM involves gener
 ### Software Tools
 We teach two different CAD / CAM tools and workflows. Feel free to choose the one that best suits your needs: 
 - Aspire, a product of Vectric, is an excellent and easy to use 2d design program with good native CAM support for laser cutters and CNC routers. It is not free, but the Artifactory has a full Aspire license and the program can import vector files in a wide range of formats. Aspire suits CNC router users who want to make relatively simple parts (profiles cut out of sheet material for example) with limited time spent learning new software.
-- Fusion (formerly Fusion 360) is a product of Autodesk. Fusion is a very flexible and powerful 3D CAD / CAM application with a deep feature set and a mountain of on-line instructional content. There is a "Personal Use" version that is free and highly capable. Fusion suits users who want to make 3-dimensional parts, learn a more powerful design tool, and/or go beyond the basics of CNC machining. However it requires a larger investment of the user's time.   
+- Fusion (formerly Fusion 360) is a product of Autodesk. Fusion is a very flexible and powerful 3D CAD / CAM application with a deep feature set and a mountain of on-line instructional content. There is a "Personal Use" version that is free and highly capable. Fusion suits users who want to make 3-dimensional parts, learn a more powerful design tool, and/or go beyond the basics of CNC machining. However it requires a larger investment of time.   
 
 ### Prior Experience
 If you have relevant prior experience, you are free to skip CAD / CAM training. The trainer will take a look at your work as part of Machine Operation training (as they would do for any trainee) and ensure it is OK to use on the machine.

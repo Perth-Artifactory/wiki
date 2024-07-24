@@ -2,7 +2,7 @@
 title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-07-24T04:34:28.306Z
+date: 2024-07-24T04:35:46.645Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z
@@ -65,7 +65,7 @@ CAD / CAM training using Aspire can be requested in #training-and-inductions.
 ## Machine Operation
 Machine Operation training is conducted one-on-one and in person. The trainee should arrive for training either: 
 - Having completed CAD / CAM training,  or
-- With simple project they have created as evidence of prior competency. Both the CAD design (in either Vectric or Fusion format) and the G-code are required. The project chosen should have simple fixturing anf be able to be completed in under 30 minutes of machining time.
+- With simple project they have created as evidence of prior competency. Both the CAD design (in either Vectric or Fusion format) and the G-code are required. The project chosen should have simple fixturing and be able to be completed in under 30 minutes of machining time.
 
 An outline of the material covered in Machine Operation training is [here](/tools/cnc/Swarf-XL/Operations-checklist).
 

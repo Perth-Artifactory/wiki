@@ -2,7 +2,7 @@
 title: Constitution
 description: 
 published: true
-date: 2023-11-27T03:21:08.653Z
+date: 2024-07-26T09:28:07.355Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:18.038Z
@@ -20,7 +20,7 @@ Our constitution (rules of the Association) are available in PDF form as:
 
 ### Edition of 2023-03-04
 
-* The current revision of our constitution was adopted by special resolution at the general meeting held [2022-03-04](/minutes/SGM/2022-03-04).
+* The current revision of our constitution was adopted by special resolution at the general meeting held [2023-03-04](/minutes/SGM/2023-03-04).
 
 * That revision was then submitted to Consumer Protection for approval as required under s33 of the Act, *Certain other rule alterations to be approved by Commissioner*.
 

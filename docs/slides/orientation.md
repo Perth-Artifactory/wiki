@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-06-24T10:38:20.433Z
+date: 2024-07-31T11:34:43.614Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -148,7 +148,7 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 ## Membership dues
 
-Your membership dues are not paid automatically. Our preferred method of payment is via a scheduled bank transfer. (Bank details are on your memberhip invoices)
+Your membership dues are not paid automatically. Our preferred method of payment is via a scheduled bank transfer, on the monthly date of joining. (Bank details are on your memberhip invoices)
 
 ## Paying for tool usage
 

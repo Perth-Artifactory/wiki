@@ -2,7 +2,7 @@
 title: Officers
 description: 
 published: true
-date: 2023-09-14T04:20:09.665Z
+date: 2024-07-31T13:29:00.237Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:39.410Z
@@ -20,6 +20,12 @@ In these by-laws, unless the contrary intention appears, all terms are as define
 ## Register of current officers
 
 Refer to [Committee - Officers.](https://wiki.artifactory.org.au/docs/committee/home#officers)
+
+## Annual review
+
+Before the annual general meeting, the secretary must contact each current officer, and ask whether they intend to continue as an officer or not.
+
+At the first committee meeting after each annual general meeting, the committee must consider each officer appointment, and determine whether each appointment will continue or cease.
 
 ## Events Officer(s)
 
@@ -86,3 +92,7 @@ Defined at committee meeting 2018-10-27
 * Advocate for band members
 * Monitors "rehearsal AT artifactory.org.au"
 * Coordinate rehearsal room casual usage
+
+## History
+
+* 2024-07-31 - Amended to add an [annual review of all officer positions](https://vote.artifactory.org.au/d/AFOuYcfH/annual-review-of-office-holders-and-subcommittees).

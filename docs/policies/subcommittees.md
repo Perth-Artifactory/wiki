@@ -2,7 +2,7 @@
 title: Subcommittees
 description: 
 published: true
-date: 2023-07-02T09:29:09.665Z
+date: 2024-07-31T13:30:37.489Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:57.686Z
@@ -124,11 +124,13 @@ The subcommittee must provide the Association with the name and address of each 
 
 ## Annual review
 
+Before the annual general meeting, the secretary must contact each current subcommittee member, and ask whether they intend to continue as a subcommittee member or not.
+
 At the first committee meeting after each annual general meeting, the committee must consider each subcommittee, and determine -
 
-- Whether the subcommittee meets the minimum requirements to continue operating; and
-- If the subcommittee will continue or be disbanded.
-
+* Whether the subcommittee meets the minimum requirements to continue operating; and
+* If the subcommittee will continue or be disbanded; and
+* Whether each subcommittee member's appointment will continue or cease.
 
 ## Disbanding
 
@@ -143,3 +145,7 @@ A subcommittee is disbanded when any of the following takes place ---
     - For any other reason.
 
 All powers and duties delegated to a subcommittee are revoked when the subcommittee is disbanded.
+
+## History
+
+- 2024-07-31 - Added procedure for secretary to [contact each subcommittee member on an annual basis](https://vote.artifactory.org.au/d/AFOuYcfH/annual-review-of-office-holders-and-subcommittees).

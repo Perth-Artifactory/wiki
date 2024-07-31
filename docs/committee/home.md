@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2024-03-17T10:35:25.169Z
+date: 2024-07-31T13:45:29.509Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -24,12 +24,12 @@ The Artifactory is governed by its [constitution](/constitution) and any [by-law
 
 Subcommittee rules can be found on the respective subcommittee pages:
 
-* [Infrastructure Subcommittee](docs/infrastructure/infrastructurev2)
+* [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2)
 * [Lasers Subcommittee](/docs/lasers/lasers)
 * [Associate Memberships Panel](/docs/Associate_Memberships)
 * [IT Subcommittee](/docs/IT)
-
-Event survey form: [Artifactory Group/Event Report - Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSdrpL35JPyWVSqmnJb8B55MWlCGP0xdfh2-pbqZUvxnLevH-A/viewform?c=0&w=1)
+* [3D Printers](/docs/3dprinters/3dprinters)
+* [Promotions](/docs/promotions/promotions)
 
 Guides to Office Bearer roles:
 

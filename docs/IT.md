@@ -2,7 +2,7 @@
 title: IT Subcommittee
 description: 
 published: true
-date: 2023-08-13T15:41:11.326Z
+date: 2024-08-06T17:53:37.624Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-01T10:47:56.241Z
@@ -43,6 +43,6 @@ The IT Committee is tasked to ensure that these services and systems maintain op
 
 ## Documentation
 
-Our IT setup is currently documented on [Github](https://github.com/perth-artifactory/docs). Reach out to one of the subcommittee members or #hedlldesk on Slack if you're looking at setting something up etc.
+Our IT setup is currently documented on [Github](https://github.com/perth-artifactory/docs). Reach out to one of the subcommittee members or Slack [(as above)](#contact-details) if you're looking at setting something up etc.
 
 

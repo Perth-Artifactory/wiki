@@ -2,7 +2,7 @@
 title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-08-08T11:48:54.684Z
+date: 2024-08-08T11:50:27.207Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z
@@ -55,12 +55,15 @@ From the Getting Started with Modelling series (around 40 minutes total):
 If you want to use Fusion and are having problems with the video instruction, please feel free to ask for help in [#cnc-router](slack://channel?team=T0LQE2JNR&id=C07DDHBALCB).
 
 ### Specific instructions for using Fusion with Swarf XL
-*to come*
 
 It is recommended you download and install the assets below for Fusion. You can do this by selecting the "Manufacture" workspace and from the "Manage" section of the ribbon, selecting "Tool Library" and "Machine Library" in turn, then clicking the "import" icon and selecting the  file you just downloaded.
+
 [Swarf XL starter wood tools library for Fusion](/artifactory_-_swarf_xl_-_wood_1.tools)
 [Swarf XL / UCCNC post-processor for Fusion](/uccnc_swarfxl.cps)
 [Swarf XL machine profile for Fusion](/artifactory_swarf_xl.mch)
+
+*more to come*
+
 ## CAD / CAM using Aspire
 CAD / CAM training using Aspire is conducted one-on-one and in person. The trainer will introduce the software and walk through all operations necessary to produce the machine instructions (G-code file) for a simple project. The "standard project" is a wooden sign engraved with text of the trainee's choice. If you would like to do something different for your training project, discuss it with your trainer.     
 

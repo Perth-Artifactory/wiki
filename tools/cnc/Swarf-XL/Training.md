@@ -2,7 +2,7 @@
 title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-08-08T12:52:00.612Z
+date: 2024-08-08T12:54:03.796Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z
@@ -50,7 +50,7 @@ From the Getting Started with Modelling series (around 40 minutes total):
 [Components and Bodies](https://help.autodesk.com/view/fusion360/ENU/courses/AP-BODIES-COMPONENTS-GS)
 [Sketching Basics Overview](https://help.autodesk.com/view/fusion360/ENU/courses/AP-INTRO-SKETCH-BASICS-OVERVIEW)
 [Sketch Constraints](https://help.autodesk.com/view/fusion360/ENU/courses/AP-INTRO-SKETCH-BASICS-CONSTRAINTS) 
-[Extrude Solid Bodies](https://help.autodesk.com/view/fusion360/ENU/courses/AP-INTRO-SKETCH-BASICS-CONSTRAINTS)
+[Extrude Solid Bodies](https://www.autodesk.com/learn/ondemand/tutorial/extrude-solid-bodies)
 
 If you want to use Fusion and are having problems with the video instruction, please feel free to ask for help in [#cnc-router](slack://channel?team=T0LQE2JNR&id=C07DDHBALCB).
 

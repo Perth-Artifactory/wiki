@@ -2,8 +2,8 @@
 title: Medium - Power tools
 description: 
 published: true
-date: 2024-08-09T13:50:00.184Z
-tags: restricted-committee
+date: 2024-08-09T13:54:20.628Z
+tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
 ---

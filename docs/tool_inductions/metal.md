@@ -2,11 +2,16 @@
 title: Medium - Metal
 description: 
 published: true
-date: 2024-08-09T13:43:39.711Z
+date: 2024-08-09T13:49:35.017Z
 tags: restricted-committee, restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
 ---
+
+> Please do not share the contents of this page.
+> Unless marked as signed off the content is a work in progress. 
+{.is-warning}
+
 
 # Metal Inductions
 

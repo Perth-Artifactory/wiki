@@ -2,7 +2,7 @@
 title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-08-08T12:55:19.503Z
+date: 2024-08-09T13:06:12.072Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z
@@ -56,11 +56,15 @@ If you want to use Fusion and are having problems with the video instruction, pl
 
 ### Specific instructions for using Fusion with Swarf XL
 
-It is recommended you download and install the assets below for Fusion. You can do this by selecting the "Manufacture" workspace and from the "Manage" section of the ribbon, selecting "Tool Library" and "Machine Library" in turn, then clicking the "import" icon and selecting the  file you just downloaded.
+It is recommended you download and install the assets below for Fusion. You can do this by selecting the "Manufacture" workspace. Then: 
+- To install the tool library: Manage -> Tool Library. Then in the left panel, locate All -> Local -> Library. Right-click on the word "Library" and from the pop-up menu select "Import Tools" and selected the ".TOOLS" file from your download location.
+- To install the post processor: Manage -> Post Library. Then in the left panel, locate My Posts -> Local and then select the "Import" icon. Select the ".CPS" file from your download location.
+
+You should use the "Cloud" folder instead of "Local" if you intend using these assets on multiple machines.
 
 [Swarf XL starter wood tools library for Fusion](/artifactory_-_swarf_xl_-_wood_1.tools)
 [Swarf XL / UCCNC post-processor for Fusion](/uccnc_swarfxl.cps)
-[Swarf XL machine profile for Fusion](/artifactory_swarf_xl.mch)
+
 
 *more to come*
 

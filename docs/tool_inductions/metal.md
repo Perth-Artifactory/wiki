@@ -2,8 +2,8 @@
 title: Medium - Metal
 description: 
 published: true
-date: 2024-08-09T13:49:35.017Z
-tags: restricted-committee, restricted-officer
+date: 2024-08-09T13:53:47.598Z
+tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
 ---

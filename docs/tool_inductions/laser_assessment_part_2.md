@@ -1,9 +1,9 @@
 ---
-title: assessment_part_2
+title: Laser Assessment Part 2
 description: 
 published: true
-date: 2023-01-08T17:52:04.097Z
-tags: restricted, lasers
+date: 2024-08-09T13:52:51.332Z
+tags: lasers, restricted-officer
 editor: markdown
 dateCreated: 2022-12-12T17:06:54.067Z
 ---

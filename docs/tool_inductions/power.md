@@ -2,11 +2,15 @@
 title: Medium - Power tools
 description: 
 published: true
-date: 2024-01-28T08:22:29.927Z
-tags: restricted
+date: 2024-08-09T13:50:00.184Z
+tags: restricted-committee
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
 ---
+
+> Please do not share the contents of this page.
+> Unless marked as signed off the content is a work in progress. 
+{.is-warning}
 
 # Power tool inductions
 

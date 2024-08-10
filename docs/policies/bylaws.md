@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2024-04-13T15:02:08.027Z
+date: 2024-08-10T10:17:55.824Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -237,11 +237,7 @@ By funding a project in part or full the Artifactory retains the rights to utili
 
 ## Tool inductions
 
-Adopted at committee meeting 2019-12-07.
-
-The Infrastructure Subcommittee may gate dangerous tools behind a tool specific induction at their discretion and appoint trainers.
-
-A list of gated tools and appointed trainers must be made available on the wiki and on or near the tools themselves.
+Refer to [Training](/docs/policies/training).
 
 ------------------------------------------------------------------------
 

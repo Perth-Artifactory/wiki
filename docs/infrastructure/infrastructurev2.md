@@ -2,7 +2,7 @@
 title: Infrastructure Subcommittee
 description: 
 published: true
-date: 2024-03-23T12:16:05.560Z
+date: 2024-08-10T10:13:32.388Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:03.316Z
@@ -42,8 +42,6 @@ The Infrastructure subcommittee can be contacted via the [#infrastructure](https
 
 ## Terms of Reference
 
-*Last updated 2019.01.30*
-
 ### Scope and responsibilities
 
 The Infrastructure Subcommittee is responsible for coordinating the following:
@@ -52,6 +50,8 @@ The Infrastructure Subcommittee is responsible for coordinating the following:
 * Assistance for assigned Project Leads
 * Internal funding proposals for space builds and repair costs
 * Any other tasks assigned by the Management Committee provided that they are accepted by the subcommittee chair
+* Appoint tool trainers as required, except for tools where that function is delegated to another subcommittee.
+* Determine training requirements as required, except for tools where that function is delegated to another subcommittee.
 
 ### Coordination
 
@@ -84,3 +84,7 @@ This section may be modified by the subcommittee using the existing process for 
 ### Expected Duration
 
 Indefinite.
+
+## History
+
+* [2024-08-10](/minutes/Committee/2024-08-10) - Include the appointment of trainers and determining of training requirements in the Infrastructure Subcommittee terms of reference. (The Infrastructure Subcommittee already had this authority, but it was recorded in a separate bylaw.)

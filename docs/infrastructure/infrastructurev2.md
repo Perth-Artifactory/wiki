@@ -2,7 +2,7 @@
 title: Infrastructure Subcommittee
 description: 
 published: true
-date: 2024-08-10T10:13:32.388Z
+date: 2024-08-10T10:17:37.421Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:03.316Z
@@ -11,8 +11,6 @@ dateCreated: 2022-10-17T16:49:03.316Z
 # Infrastructure Subcommittee
 
 ## Members
-
-Last updated: xxxx-xx-xx
 
 | Name                     | Contact details on file in TidyHQ † |
 | ------------------------ | ----------------------------------- |
@@ -32,13 +30,7 @@ The Infrastructure subcommittee can be contacted via the [#infrastructure](https
 
 | Project                    | Lead     | Contact          | Impact                                                                                                                              |
 |----------------------------|----------|------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| Casting/Forging area       | Iain     | \#fireandforge   | Back left corner of the courtyard permanently claimed. No significant construction impact                                           |
-| CAD room rebuild           | Fletcher | \#infrastructure | CAD room unavailable for 3+ days, section of the project area requisitioned for the same amount of time                             |
-| Courtyard roofing upgrade  | Beau     | \#infrastructure | Drastic change to courtyard configuration, section of courtyard claimed for \~1 week during construction                            |
-| Extraction upgrade         | Josh     | \#infrastructure | Swarf offline for \~2 days, potential for lasers to be offline for \~1                                                              |
-| Shed upgrade               | Beau     | \#infrastructure | Courtyard 1/2 of courtyard requisitioned for construction 1-3 days. Some outside tool usage will be more difficult during this time |
-| Tool room revamp           | Josh     | \#infrastructure | Tool room unavailable for 1-2 days                                                                                                  |
-| Tool room lighting upgrade | Fletcher | \#infrastructure | \-                                                                                                                                  |
+| - | - | - | - |
 
 ## Terms of Reference
 
@@ -87,4 +79,4 @@ Indefinite.
 
 ## History
 
-* [2024-08-10](/minutes/Committee/2024-08-10) - Include the appointment of trainers and determining of training requirements in the Infrastructure Subcommittee terms of reference. (The Infrastructure Subcommittee already had this authority, but it was recorded in a separate bylaw.)
+* [2024-08-10](/minutes/Committee/2024-08-10) - Include the appointment of trainers and determining of training requirements in the Infrastructure Subcommittee terms of reference. (The Infrastructure Subcommittee has had this authority since [2019-12-07](/minutes/Committee/2019-12-07), but it was recorded in a separate bylaw.)

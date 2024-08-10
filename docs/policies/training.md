@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-07-22T13:09:00.649Z
+date: 2024-08-10T10:08:31.669Z
 tags: official
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -41,7 +41,35 @@ You can request training in the [#training-and-inductions](https://slack.com/app
 
 Training on certain high risk tools has an attached cost. Casual attendees who pay for training that is offered to members free of charge will have the training cost refunded if they join as a member within 7 days of completing their training.
 
+## Refresher training and training expiry
+
+Authorized operators may be required to undergo refresher training for a tool if -
+
+* It has been more than 12 months since they last used the tool, or
+* The tool has changed significantly since their last training, or
+* The operating procedures for the tool have changed significantly since their last training.
+
+The authority which sets the training requirements for the tool will determine if and when refresher training is required, on a risk assessment basis.
+
+If an authorized operator needs refresher training, a reasonable notice period will be provided before their authorization expires.
+
+
+## Trainer appointments and training requirements
+
+Trainers are appointed, and training requirements are determined, by the following groups:
+
+* Laser cutters: [Lasers Subcommittee](/docs/lasers/lasers)
+* 3D printers: [3D Printers Subcommittee](/docs/3dprinters/3dprinters)
+* All other tools: [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2)
+
+## Conflicts of interest for trainers
+
+Trainers must disclose actual or potential conflicts of interest regarding their relationships with trainees.
+
+Where an actual or potential conflict of interest exists, the outcome of the training must be endorsed by a third party.
+
 ## Revision history
 
 * This policy was endorsed by the committee on [2024-01-20](/minutes/Committee/2024-01-20), taking effect on 2024-01-27.
 * Added a reference to the [full list of tools](/tools).
+* [2024-08-10](/minutes/Committee/2024-08-10) - Added section regarding *Refresher training and training expiry*, *Trainer appointments and training requirements*, and *Conflicts of interest for trainers*.

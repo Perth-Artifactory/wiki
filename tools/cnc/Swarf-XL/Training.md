@@ -2,7 +2,7 @@
 title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-08-09T13:06:12.072Z
+date: 2024-08-10T13:24:46.352Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z
@@ -64,7 +64,6 @@ You should use the "Cloud" folder instead of "Local" if you intend using these a
 
 [Swarf XL starter wood tools library for Fusion](/artifactory_-_swarf_xl_-_wood_1.tools)
 [Swarf XL / UCCNC post-processor for Fusion](/uccnc_swarfxl.cps)
-
 
 *more to come*
 

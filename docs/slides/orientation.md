@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-07-31T11:34:43.614Z
+date: 2024-08-10T13:43:54.426Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -275,6 +275,18 @@ Take a look in #training_and_inductions on Slack and put your hand up for an app
 ## How to check your existing training
 
 Search for Training Tracker on Slack
+
+## Training refreshers and training expiry
+
+(Added 2024-08-10)
+
+You may need refresher training if -
+
+* You haven't used a specific tool for 12 months, or
+* The tool changes significantly, or
+* The safe work procedure for the tool has changed.
+
+We'll let you know if you need refresher training.
 
 # Communal Materials
 

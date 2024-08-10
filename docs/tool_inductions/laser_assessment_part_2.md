@@ -2,11 +2,16 @@
 title: Laser Assessment Part 2
 description: 
 published: true
-date: 2024-08-09T13:52:51.332Z
+date: 2024-08-10T16:02:16.594Z
 tags: lasers, restricted-officer
 editor: markdown
 dateCreated: 2022-12-12T17:06:54.067Z
 ---
+
+> This page is for use by laser trainers only.
+> Please do not share the contents of this page.
+{.is-warning}
+
 
 ## The following competencies must be met to sign off on part 2 of laser training
 

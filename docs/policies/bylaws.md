@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2024-08-10T10:17:55.824Z
+date: 2024-08-10T15:57:57.438Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -12,53 +12,37 @@ dateCreated: 2022-10-27T14:21:12.439Z
 
 This page lists by-laws which the committee has made, as allowed for by the [Constitution](/constitution), §65 *By-laws*.
 
-------------------------------------------------------------------------
+| Topic | Bylaw |
+| ----- | ----- |
+| Asynchronous online-only motions (online committee voting) | [Administration - Asynchronous online-only motions](https://wiki.artifactory.org.au/docs/policies/administration#asynchronous-online-only-motions) |
+| Automotive projects | [Automotive Projects](/docs/policies/automotive-projects)	|
+| Car park | [Storage - Car Park](/docs/policies/storage#car-park) |
+| Casual Makers (Day Pass) | [Fees - Workshop usage fees](/docs/policies/fees#workshop-usage-fees) |
+| Ceasing membership + the member's projects | [Storage - Direction to remove property](/docs/policies/storage#direction-to-remove-property)
+| Duties delegated by the secretary | [Administration - duties delegated by the secretary](/docs/policies/administration#duties-delegated-by-the-secretary) |
+| Events and workshops | [Administration - Events and workshops](/docs/policies/administration#events-and-workshops) |
+| Expense Approvals | [Administration - Artifactory Expenses](/docs/policies/administration#artifactory-expenses) |
+| Hazardous Waste | See below |
+| Intellectual / physical property | See below |
+| Keyholder responsibilities | [Keyholder responsibilities](/docs/policies/keyholder_responsibilities) |
+| Lost and found | [Storage - Lost and found](/docs/policies/storage#lost-and-found) |
+| Material racks | [Storage - Sheet material racks](/docs/policies/storage#sheet-material-racks)
+| Member storage | [Storage - Member storage entitlements](/docs/policies/storage#member-storage-entitlements) |
+| Member storage - additional storage | [Storage - Additional storage](/docs/policies/storage#additional-storage) |
+| Minors (children) in the space | See below |
+| Money donations | See below |
+| Never Never (historical donations) | See below |
+| Physical keys + safe access | See below |
+| Rehearsal room - casual usage | See below |
+| RFID keys for members | See below |
+| RFID keys for non-members | See below |
+| Subcommittees | [Subcommittees](/docs/policies/subcommittees) |
+| Tool usage fees | [Fees - Tool usage fees](/docs/policies/fees#tool-usage-fees) |
+| Training (tool inductions) | [Training](/docs/policies/training) |
+| Training fees | [Fees - Tool usage fees](/docs/policies/fees#training-fees) |
+| Workspace usage | [Storage - Workspace usage](/docs/policies/storage#workspace-usage) |
 
-## Artifactory Expenses
 
-Refer to [By-laws - Administration](/docs/policies/administration). 
-
-------------------------------------------------------------------------
-
-## Asynchronous online-only motions
-
-Refer to [By-laws - Administration](/docs/policies/administration).
-
-------------------------------------------------------------------------
-
-## Automotive projects
-
-Refer to [By-laws - Automotive Projects](/docs/policies/automotive-projects).
-
-------------------------------------------------------------------------
-
-## Car Park
-
-Refer to [By-laws - Storage](/docs/policies/storage).
-
-------------------------------------------------------------------------
-
-## Casual Makers
-
-Refer to [By-laws - Fees](/docs/policies/fees).
-
-------------------------------------------------------------------------
-
-## Ceasing Membership + The Members Projects
-
-Refer to [By-laws - Storage](/docs/policies/storage).
-
-------------------------------------------------------------------------
-
-## Duties Delegated by the Secretary
-
-Refer to [By-laws - Administration](/docs/policies/administration).
-
-------------------------------------------------------------------------
-
-## Events and Workshops
-
-Refer to [By-laws - Administration](/docs/policies/administration).
 
 ------------------------------------------------------------------------
 
@@ -80,29 +64,7 @@ If you -
 
 you will be liable for the the Association's reasonable costs incurred to dispose of the waste correctly.
 
-------------------------------------------------------------------------
 
-## Keyholder responsibilities
-
-Refer to [By-laws - Keyholder Responsibilities](https://wiki.artifactory.org.au/en/docs/policies/keyholder_responsibilities).
-
-------------------------------------------------------------------------
-
-## Material Racks
-
-Refer to [By-laws - Storage](/docs/policies/storage).
-
-------------------------------------------------------------------------
-
-## Member Storage
-
-Refer to [By-laws - Storage](/docs/policies/storage).
-
-------------------------------------------------------------------------
-
-## Member Storage - Additional
-
-Refer to [By-laws - Storage](/docs/policies/storage).
 
 ------------------------------------------------------------------------
 
@@ -212,38 +174,6 @@ Defined at committee meeting 2018-09-01.
   * it is to facilitate the running of a regular workshop (after it has been run a couple of times)
   * approved by 3 committee members
   * on the condition that keys are only to be used for the workshop (not general admittance) unless they are member
-
-------------------------------------------------------------------------
-
-## Subcommittee Rules
-
-Refer to [By-laws - Subcommittees](/docs/policies/subcommittees).
-
-------------------------------------------------------------------------
-
-## Tool Usage Fees
-
-Refer to [By-laws - Fees](/docs/policies/fees).
-
-------------------------------------------------------------------------
-
-## Intellectual/Physical Property
-
-Adopted at committee meeting 2019-11-02.
-
-By funding a project in part or full the Artifactory retains the rights to utilise/modify/repurpose/decommission all aspects of the project. Any equipment implemented as part of the project that is made redundant by this is to remain the property the Artifactory.
-
-------------------------------------------------------------------------
-
-## Tool inductions
-
-Refer to [Training](/docs/policies/training).
-
-------------------------------------------------------------------------
-
-## Workspace Usage
-
-Refer to [By-laws - Storage](/docs/policies/storage).
 
 ------------------------------------------------------------------------
 

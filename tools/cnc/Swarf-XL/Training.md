@@ -2,7 +2,7 @@
 title: Swarf XL Training
 description: How to get training for Swarf XL
 published: true
-date: 2024-08-10T13:28:47.744Z
+date: 2024-08-19T05:04:51.736Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-23T09:07:49.480Z
@@ -71,6 +71,11 @@ You should use the "Cloud" folder instead of "Local" if you intend using these a
 CAD / CAM training using Aspire is conducted one-on-one and in person. The trainer will introduce the software and walk through all operations necessary to produce the machine instructions (G-code file) for a simple project. The "standard project" is a wooden sign engraved with text of the trainee's choice. If you would like to do something different for your training project, discuss it with your trainer.     
 
 CAD / CAM training using Aspire can be requested in #training-and-inductions.
+
+### Specific instructions for using Aspire with Swarf XL
+
+* The recommended tool database for Aspire can be found here: 
+* Select `Stepcraft UCCNC ATC Arcs(mm)(*.txt)` as the post processor.
 
 ## Machine Operation
 Machine Operation training is conducted one-on-one and in person. The trainee should arrive for training either: 

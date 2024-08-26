@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2024-07-11T12:30:56.556Z
+date: 2024-08-26T07:51:11.891Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -37,11 +37,13 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | [Bambu Labs P1S (2x AMS)](https://au.store.bambulab.com/products/p1s)                                     | ✔️ Operational          | 256x256x256  |
 | [Bambu Labs X1 (1x AMS)](https://au.store.bambulab.com/products/x1-carbon-3d-printer)                     | ✔️ Operational          | 256x256x256  |
 | [Bambu Labs A1 (1x AMS)](https://au.store.bambulab.com/products/a1)                                       | ✔️ Operational          | 256x256x256  |
-| [Bambu Labs A1 Mini](https://au.store.bambulab.com/products/a1-mini)                                      | ✔️ Operational          | 180x180x180  |
+| [Bambu Labs A1 Mini #1](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  |
+| [Bambu Labs A1 Mini #2](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  |
 | [Ender 3 V2 Neo #1](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ❌ Removed from service | 220x220x250  |
 | [Ender 3 V2 Neo #2](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ❌ Removed from service | 220x220x250  |
 | [Prusa Mk4](https://www.prusa3d.com/product/original-prusa-mk4-2/)                                        | ✔️ Operational          | 250x210x220  |
 | [Prusa XL-5T](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) | ✔️ Operational          | 360x360x360  |
+| [Voron Trident](https://vorondesign.com/voron_trident)                                                    | ❌ AF prints only       | 350x340x250  |
 
 ### Filament compatibility
 

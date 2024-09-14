@@ -2,7 +2,7 @@
 title: Promotions Subcommittee
 description: 
 published: true
-date: 2023-01-08T10:46:46.590Z
+date: 2024-09-14T07:35:13.834Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:51:50.764Z
@@ -14,7 +14,7 @@ dateCreated: 2022-10-17T16:51:50.764Z
 
 | Name                  | Contact details on file in TidyHQ † |
 | --------------------- | ----------------------------------- |
-| Phoebe-Jean Harris    | Yes                                 |
+| Penny Wood            | Yes                                 |
 | Johannes Chuah        | Yes                                 |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
@@ -73,3 +73,8 @@ This section may be modified by the subcommittee using the existing process for 
 ### Expected Duration
 
 Indefinite.
+
+## History
+
+* Phoebe-Jean Harris was excused from the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
+* Penny Wood was excused from the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).

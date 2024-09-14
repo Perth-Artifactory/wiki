@@ -2,7 +2,7 @@
 title: IT Subcommittee
 description: 
 published: true
-date: 2024-08-06T17:53:37.624Z
+date: 2024-09-14T07:28:35.984Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-01T10:47:56.241Z
@@ -16,7 +16,6 @@ dateCreated: 2022-11-01T10:47:56.241Z
 | -------------------------------------------- | ----------------------------------- |
 | Nick Bannon                                  | Yes                                 |
 | Blake Samuels                                | Yes                                 |
-| Vincent Dalstra                              | Yes                                 |
 | Fletcher Boyd                                | Yes                                 |
 | Thomas White (appointed 2023-07-28)          | Yes                                 |
 
@@ -45,4 +44,7 @@ The IT Committee is tasked to ensure that these services and systems maintain op
 
 Our IT setup is currently documented on [Github](https://github.com/perth-artifactory/docs). Reach out to one of the subcommittee members or Slack [(as above)](#contact-details) if you're looking at setting something up etc.
 
+## History
+
+* Vincent Dalstra was excused from the IT subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
 

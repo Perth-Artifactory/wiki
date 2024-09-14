@@ -2,7 +2,7 @@
 title: Associate Memberships Panel
 description: 
 published: true
-date: 2024-03-23T12:17:04.237Z
+date: 2024-09-14T07:30:48.590Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-26T13:27:04.702Z
@@ -15,6 +15,8 @@ dateCreated: 2022-11-26T13:27:04.702Z
 | Name                  | Contact details on file in TidyHQ † |
 | --------------------- | ----------------------------------- |
 | Ben Connor            | Yes                                 |
+| Johannes Chuah        | Yes                                 |
+| Renae Currie          | Yes                                 |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
 {.is-info}
@@ -41,3 +43,7 @@ The Associate Memberships Panel can be contacted via email at apply@artifactory.
 ## Notes
 
 This panel was previous referred to as the Sponsored Memberships Committee / Sponsored Memberships Panel
+
+## History
+
+* Renae Currie and Johannes Chuah were appointed to the Associate Memberships Panel on [2024-09-14](/minutes/Committee/2024-09-14).

@@ -2,7 +2,7 @@
 title: Laser subcommittee page
 description: 
 published: true
-date: 2023-01-17T13:31:51.841Z
+date: 2024-09-14T07:29:39.720Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:14.656Z
@@ -16,10 +16,7 @@ dateCreated: 2022-10-17T16:49:14.656Z
 | --------------------------------- | ----------------------------------- |
 | Blake Samuels (Chair)             | Yes                                 |
 | Fletcher Boyd                     | Yes                                 |
-| Glenn Martin                      | Yes                                 |
-| Kamil Seda                        | Yes                                 |
 | Nick Bannon                       | Yes                                 |
-| Bruce Chambers (appt. 2023-01-11) | Yes                                 |
 | Lewis Yip (appt. 2023-01-17)      | Yes                                 |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
@@ -158,3 +155,8 @@ The Perth Artifactory has three Laser Cutters/Engravers. The Laser Subcommittee 
 -   Tools:
     -   Small green spanners: X belt tensioner nuts, Z-belts-tensioner nuts
     -   Hex/allen keys \~2mm, \~3mm?
+
+## History
+
+* Bruce Chambers and Glenn Martin resigned from the Lasers subcommittee effective [2024-09-14](/minutes/Committee/2024-09-14).
+* Kamil Seda was excused from the Lasers subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).

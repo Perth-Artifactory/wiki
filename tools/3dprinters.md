@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2024-08-26T08:04:28.781Z
+date: 2024-09-18T10:16:12.581Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -39,6 +39,7 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | [Bambu Labs A1 (1x AMS)](https://au.store.bambulab.com/products/a1)                                       | ✔️ Operational          | 256x256x256  | FDM/Bambu-Open     |
 | [Bambu Labs A1 Mini #1](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
 | [Bambu Labs A1 Mini #2](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
+| [Bambu Labs A1 Mini #3](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
 | [Ender 3 V2 Neo #1](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ❌ Removed from service | 220x220x250  | FDM/Ender          |
 | [Ender 3 V2 Neo #2](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ❌ Removed from service | 220x220x250  | FDM/Ender          |
 | [Prusa Mk4](https://www.prusa3d.com/product/original-prusa-mk4-2/)                                        | ✔️ Operational          | 250x210x220  | FDM/Prusa Mk4      |

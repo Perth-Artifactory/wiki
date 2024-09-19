@@ -2,7 +2,7 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2024-09-19T12:39:00.158Z
+date: 2024-09-19T12:48:24.681Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -52,6 +52,8 @@ dateCreated: 2023-02-11T10:21:37.510Z
    * The `Start-Pause` button will pause your job. This is good if you need to walk away from the machine. The job can be resumed by pressing the button again.
    * While the job is paused with the `Start-Pause` button it can be ended by pressing `Esc`
    * The emergency stop will immediately shut down the laser. (but not auxiliary equipment like the extractor, compressor, or chiller)
+ * **Continue to supervise the laser** Whenever the laser cutter is running it must be supervised by someone with a `Laser (CO₂)` or `Laser (Babysitter)` induction.
+ * **Finish the job and record the job time** Once your job is finished the laser will give you a total cut time. Use this in combination with the instructions on the wall to pay for your tool usage. You can add the cut times for the day together and round at the end rather than rounding after each cut.
  * **Remove your material**. Remove your design and discard of any scraps created.
 * **Turn the laser off** using either the green power button or the shortcut button on the side of the monitor.
 * **Pay for your job** using the bank details on the wall.

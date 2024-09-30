@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2024-08-10T15:57:57.438Z
+date: 2024-09-30T08:13:36.109Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -135,7 +135,7 @@ The rehearsal room can be used on a casual basis:
 
 ## RFID Keys for Members
 
-Last modified at the committee meeting 2021-01-10.
+Last modified by online motion, documented at committee meeting 2024-10-26.
 
 * All members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
   * Has held their current membership for at least two weeks,
@@ -150,7 +150,7 @@ Last modified at the committee meeting 2021-01-10.
     * Communicate any issues to committee.
 * 24/7 access may be revoked at the discretion of the committee should any of the above no longer be true.
 * When a member moves to a different membership class the bond amount shall be the lesser of the classes
-* Members requesting keys after 10/01/2021 must submit a head/shoulders photo suitable for identification purposes. The Secretary or Treasurer may rule that a provided picture does not meet these requirements at their discretion.
+* Members requesting keys must submit a head/shoulders photo suitable for identification purposes. The Secretary or Treasurer may rule that a provided picture does not meet these requirements at their discretion.
 * The member must maintain accurate personal and emergency contact details in the Artifactory's member management system (e.g. TidyHQ) at all times.
 * The Chair, Treasurer and any two other committee members may waive the bond if it is considered beneficial to the Artifactory to do so. The decision must be documented at the next regular committee meeting.
 * Bond amounts are as follows:

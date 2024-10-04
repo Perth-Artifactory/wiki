@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2024-06-10T03:32:05.642Z
+date: 2024-10-04T04:04:56.031Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -59,7 +59,7 @@ Member rate:
 Day Pass:
 * If attending a workshop event - included in the fee for the event unless otherwise noted
 * Visiting for a tour during an Open Day or other event - Nil
-* Otherwise, the Day Pass rate - \$15 / day.
+* Otherwise, the Day Pass rate - \$20 / day.
 
 Inclusions:
 * Use of the communal areas.
@@ -72,10 +72,11 @@ Exclusions:
 * Use of the rehearsal room.
 
 Payment method:
-* EFTPOS machine at the bar - self service
+* EFTPOS machine at the bar - self service. (Write your name on the back of the reciept.)
 
 Note: The Day Pass rate is reviewed during each Annual General Meeting.
-The Day Pass rate was set to \$15 at the AGM held on 2021-09-18.
+- The Day Pass rate was set to \$15 at the AGM held on [2021-09-18](/minutes/AGM/2021-09-18).
+- The Day Pass rate was increased to \$20 at the AGM held on [2024-09-14](/minutes/AGM/2024-09-14).
 
 ------------------------------------------------------------------------
 

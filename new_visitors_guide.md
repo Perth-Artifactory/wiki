@@ -2,7 +2,7 @@
 title: New Visitors Guide
 description: First time at the space? This page will help you get started
 published: true
-date: 2024-06-10T13:29:01.643Z
+date: 2024-10-06T07:05:23.256Z
 tags: official
 editor: markdown
 dateCreated: 2024-06-10T09:30:37.279Z
@@ -29,7 +29,7 @@ Please take a few minutes to read this New Visitors Guide to orientate yourself 
     * Please sign up as a visitor [here](https://perart.io/visitor). That page will collect some important information like your emergency contact details. It's also how we track tool inductions!
     
 * Day Passes can be paid for at the bar
-    * In most cases it costs $15 to attend the space for the day though some events are cheaper. If you're not sure check with an event host!
+    * In most cases it costs $20 to attend the space for the day though some events are cheaper. If you're not sure check with an event host!
     * Please write your name and "day pass" on the merchant receipt and put it in the red box next to the EFTPOS.
 
 * [Training](/docs/policies/training)

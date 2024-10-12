@@ -2,7 +2,7 @@
 title: 3D printer training
 description: 
 published: true
-date: 2024-10-12T09:13:09.228Z
+date: 2024-10-12T09:25:27.545Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-10-12T09:08:23.214Z
@@ -22,6 +22,12 @@ Generic PLA only.
 * PLA only at this level of induction.
 * PETG separate induction.
 * ABS, ASA, etc currently off limits.
+* No BYO filament.
+  * Risk of mislabelled filaments (e.g. PLA vs PVC)
+  * Health and safety.
+  * Unknown abrasive content.
+  * Unknown quality.
+  * If you want something non standard - just ask.
 
 Explain filament storage shelves.
 
@@ -50,10 +56,33 @@ Support.
 * Explain why support needed.
 * Overhang angles, bridge distances.
 * Part orientation.
+  * Lay on face
 * Demo use axlotl.
   * Auto support.
   * Manual painted support. Left to paint support enforcement, right to paint support blocker.
 
+Colour painting.
+* Painting, fill painting.
+* Multicolour printers require a purge tower and a purge for each filament change.
+* Dramatic increase in time for each material change and purge.
+
+Scaling
+
+Rotation
+
+Auto arrange
+
+Payment
+* Show how to get amount of filament from slicer. Total including model, support, purging, tower.
+* Go to wiki.
+* Search for "Fees".
+* Explain tiers.
+  * Show tier sticker on a physical roll
+* Explain payment method.
+* Payment due at end of day.
+
+Feel free to download Bambu studio at home and have a play.
+Don't bring in pre sliced models.
 
 
 Payment.

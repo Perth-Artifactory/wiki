@@ -2,7 +2,7 @@
 title: 3D printer training
 description: 
 published: true
-date: 2024-10-12T09:08:23.214Z
+date: 2024-10-12T09:10:58.013Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-10-12T09:08:23.214Z
@@ -45,6 +45,11 @@ Explain various adjustment settings.
 * Wall loops - afffects strength - by experimentation and experience.
 * Infill - affects strength - by experimentation and experience.
 * Top and bottom shells - leave at default.
+
+Support.
+* Explain why support needed.
+* Overhang angles, bridge distances.
+* Part orientation.
 * 
 
 

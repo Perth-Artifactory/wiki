@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2024-07-03T01:26:08.807Z
+date: 2024-10-12T07:56:24.514Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -28,7 +28,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 * 🏘️ Lasers are turned off, computers can stay on.
 * 🏘️ Ladies Toilets light is off. Mens toilet light will turn off automatically.
 * 🏘️ Light above the social table is switched off (white button next to phone charger on table)
-* 🏘️ Lights under the pallet racking are off (Paddle switch above the power board tub)
+* 🏘️ Light under the social table turns on with events and turns off with the leaving button, no manual override
 
 ## Machine Room
 
@@ -58,6 +58,8 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 # Recent changes
 
+* Add under table light
+* Remove pallet light
 * Document design aircon button
 * Electronics lab is back
 * 3D printers no longer need to be turned off

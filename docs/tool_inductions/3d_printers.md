@@ -2,7 +2,7 @@
 title: 3D printer training
 description: 
 published: true
-date: 2024-10-12T09:10:58.013Z
+date: 2024-10-12T09:13:09.228Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-10-12T09:08:23.214Z
@@ -50,7 +50,10 @@ Support.
 * Explain why support needed.
 * Overhang angles, bridge distances.
 * Part orientation.
-* 
+* Demo use axlotl.
+  * Auto support.
+  * Manual painted support. Left to paint support enforcement, right to paint support blocker.
+
 
 
 Payment.

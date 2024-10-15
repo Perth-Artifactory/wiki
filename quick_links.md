@@ -2,7 +2,7 @@
 title: Quick Links
 description: Quick links to resources for volunteers
 published: true
-date: 2024-10-15T03:18:32.167Z
+date: 2024-10-15T03:19:29.621Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-08T04:38:31.518Z
@@ -11,6 +11,8 @@ dateCreated: 2024-08-08T04:38:31.518Z
 # Fees
 
 See [Fees](/docs/policies/fees) for full list
+
+Tool usage fees need to be paid using bank transfer. [Bank details](/docs/committee/bank_details).
 
 * Quick links
   * [3D Printing - FDM](/docs/policies/fees#h-3d-printer-fdm)

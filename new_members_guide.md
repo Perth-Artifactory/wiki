@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-06-10T13:29:56.736Z
+date: 2024-10-15T03:21:36.430Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -111,6 +111,21 @@ Details:
 * Make sure you know where the First Aid Kit is.
 * Always use appropriate personal protective equipment (PPE). What equipment is appropriate for each tool is part of the tool induction.
 * Preferably only use Heavy Tools when someone else is in the building in case of serious accidents.
+
+## Fees
+
+See [Fees](/docs/policies/fees) for full list.
+
+Tool usage fees need to be paid using bank transfer. [Bank details](/docs/committee/bank_details).
+
+Tool usage fees are payable at the end of the day when you use the tool.
+
+* Selected quick links:
+  * [3D Printing - FDM](/docs/policies/fees#h-3d-printer-fdm)
+  * [CNC router](/docs/policies/fees#cnc-router-swarf-o-mat)
+  * [Laser - Big Red](/docs/policies/fees#laser-cutter-big-red)
+  * [Laser - Middle Red](/docs/policies/fees#laser-cutter-middle-red)
+
 
 ## Communal Materials
 

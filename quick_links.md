@@ -2,7 +2,7 @@
 title: Quick Links
 description: Quick links to resources for volunteers
 published: true
-date: 2024-10-15T03:20:47.724Z
+date: 2024-10-15T03:21:03.661Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-08T04:38:31.518Z
@@ -16,7 +16,7 @@ Tool usage fees need to be paid using bank transfer. [Bank details](/docs/commit
 
 Tool usage fees are payable at the end of the day when you use the tool.
 
-* Quick links
+* Selected quick links:
   * [3D Printing - FDM](/docs/policies/fees#h-3d-printer-fdm)
   * [CNC router](/docs/policies/fees#cnc-router-swarf-o-mat)
   * [Laser - Big Red](/docs/policies/fees#laser-cutter-big-red)

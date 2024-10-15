@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2024-10-04T04:04:56.031Z
+date: 2024-10-15T03:23:40.920Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -260,28 +260,6 @@ Payment method
 ----------------------------------------------------------------
 
 ### Laser cutter - Middle Red
-
-Cost basis
-* Machine run time, as reported on the machine's display after completion of a job.
-
-Member rate
-* \$0.10 / minute, rounded up to the nearest \$1.00
-
-Day Pass rate
-* \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
-
-Inclusions
-* N/A
-
-Exclusions
-* N/A
-
-Payment method
-* Bank transfer, referencing "LASER" followed by your surname.
-
-----------------------------------------------------------------
-
-### Laser cutter - Little Red
 
 Cost basis
 * Machine run time, as reported on the machine's display after completion of a job.

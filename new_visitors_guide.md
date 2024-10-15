@@ -2,7 +2,7 @@
 title: New Visitors Guide
 description: First time at the space? This page will help you get started
 published: true
-date: 2024-10-06T07:05:23.256Z
+date: 2024-10-15T03:22:03.469Z
 tags: official
 editor: markdown
 dateCreated: 2024-06-10T09:30:37.279Z
@@ -97,6 +97,20 @@ In some circumstances you may be able to arrange access outside of this with a k
 * No one can use Heavy Tools unless they have been inducted by one of our trainers. If you're not familiar with their safe operation you may pose a significant risk to life and property.
 * Make sure you know where the First Aid Kit is.
 * Always use appropriate personal protective equipment (PPE). What equipment is appropriate for each tool is part of the tool induction.
+
+## Fees
+
+See [Fees](/docs/policies/fees) for full list.
+
+Tool usage fees need to be paid using bank transfer. [Bank details](/docs/committee/bank_details).
+
+Tool usage fees are payable at the end of the day when you use the tool.
+
+* Selected quick links:
+  * [3D Printing - FDM](/docs/policies/fees#h-3d-printer-fdm)
+  * [CNC router](/docs/policies/fees#cnc-router-swarf-o-mat)
+  * [Laser - Big Red](/docs/policies/fees#laser-cutter-big-red)
+  * [Laser - Middle Red](/docs/policies/fees#laser-cutter-middle-red)
 
 ## Communal Materials
 

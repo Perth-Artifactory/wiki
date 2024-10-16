@@ -2,11 +2,14 @@
 title: vendingmachine
 description: 
 published: true
-date: 2024-02-26T12:54:21.213Z
+date: 2024-10-16T10:52:05.113Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:57:38.590Z
 ---
+
+> This project page is out of date and does not reflect the current state of the vending machine. (It now works)
+{.is-info}
 
 # Vending Machine
 

@@ -2,11 +2,14 @@
 title: BollART: The Sonic Bollard
 description: 
 published: true
-date: 2024-10-16T10:20:19.416Z
+date: 2024-10-16T10:46:42.765Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:55:21.494Z
 ---
+
+> This project is no longer active, the page has been preserved as a historical record.
+{.is-info}
 
 # BollART: The Sonic Bollard
 

@@ -2,11 +2,14 @@
 title: Die Fliegende Tanzenfunke
 description: 
 published: true
-date: 2023-01-04T02:33:54.406Z
+date: 2024-10-16T10:47:46.957Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:47:49.411Z
 ---
+
+> This project is no longer active, the page has been preserved as a historical record.
+{.is-info}
 
 ## Die Fliegende Tanzenfunke
 

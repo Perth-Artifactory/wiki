@@ -1,14 +1,17 @@
 ---
-title: Swarf-O-Mat original project page (out of date)
+title: Swarf-O-Mat
 description: 
 published: true
-date: 2023-01-04T02:38:54.906Z
+date: 2024-10-16T10:53:06.699Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:56:20.657Z
 ---
 
-# Swarf-O-Mat original project page (out of date)
+> This project is no longer active, the page has been preserved as a historical record. The machine has been replaced by Swarf XL.
+{.is-info}
+
+# Swarf-O-Mat
 
 # News
 

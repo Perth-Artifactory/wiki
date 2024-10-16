@@ -2,11 +2,14 @@
 title: Giant Robot
 description: 
 published: true
-date: 2023-01-04T02:35:02.141Z
+date: 2024-10-16T10:48:01.760Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:50:55.220Z
 ---
+
+> This project is no longer active, the page has been preserved as a historical record.
+{.is-info}
 
 # Giant Robot
 

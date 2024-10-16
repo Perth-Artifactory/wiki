@@ -2,17 +2,7 @@
 title: BollART: The Sonic Bollard
 description: 
 published: true
-date: 2023-01-04T02:38:10.100Z
-tags: 
-editor: markdown
-dateCreated: 2022-10-19T07:55:21.494Z
----
-
----
-title: BollART: The Sonic Bollard
-description: 
-published: true
-date: 2022-11-17T09:29:16.394Z
+date: 2024-10-16T10:20:19.416Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:55:21.494Z
@@ -38,7 +28,7 @@ a \$5000 cheque-carrot. Also Art. Also Blinky.
 
 Do who want a BollART of your own? Do you want to display BollART?
 
-**Contact:** [EMAIL US](skot@vellocet.com?Subject=Sonic%20BollART)
+**Contact:** email removed
 
 # Liner Notes
 

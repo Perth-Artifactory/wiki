@@ -2,11 +2,14 @@
 title: Marble Machine
 description: 
 published: true
-date: 2023-01-04T02:36:18.852Z
+date: 2024-10-16T10:49:25.149Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:52:49.994Z
 ---
+
+> This project is no longer active, the page has been preserved as a historical record.
+{.is-info}
 
 # Marble Machine
 

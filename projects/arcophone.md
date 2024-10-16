@@ -2,11 +2,14 @@
 title: Arcophone
 description: 
 published: true
-date: 2023-01-04T02:33:26.967Z
+date: 2024-10-16T10:45:11.365Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:47:01.914Z
 ---
+
+> This project is no longer active, the page has been preserved as a historical record.
+{.is-info}
 
 # Arcophone
 

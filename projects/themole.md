@@ -2,11 +2,14 @@
 title: THE MOLE
 description: 
 published: true
-date: 2023-01-04T02:39:13.553Z
+date: 2024-10-16T10:51:31.724Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:56:49.888Z
 ---
+
+> This project is no longer active, the page has been preserved as a historical record.
+{.is-info}
 
 ### THE MOLE
 

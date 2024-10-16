@@ -2,7 +2,7 @@
 title: How to start
 description: 
 published: true
-date: 2024-10-16T09:17:03.380Z
+date: 2024-10-16T09:19:47.331Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
@@ -10,21 +10,21 @@ dateCreated: 2024-10-16T09:17:03.380Z
 
 So you reckon this artifactory place sounds kinda cool, here's how we recommend getting involved.
 
-1. Have a think about a project you might like to complete or an area you're interested in
+## 1. Have a think about a project you might like to complete or an area you're interested in
 
 This doesn't have to be super fleshed out, it just gives us a good starting point when you visit.
 
-2. Organise your first visit to the space
+## 2. Organise your first visit to the space
 
 https://artifactory.org.au/first_visit
 
 This page has some great resources on when your first visit should be and what you need to do beforehand.
 
-3. Visit!
+## 3. Visit!
 
 Come check out the workshop, chat with our volunteers, and see if the space is a good fit for you.
 
-4. Decide whether you want to join
+## 4. Decide whether you want to join
 
 This is the first actual decision you need to make. You can either use the space as a casual attendee (Day Pass) or join our community as a member. Here are some of the key differences:
 
@@ -44,12 +44,12 @@ This is the first actual decision you need to make. You can either use the space
 
 It's okay to start as a day pass user and then move over to a membership once you realise we're the right fit for you.
 
-5. Read the new member/visitor guide
+## 5. Read the new member/visitor guide
 
 * If you decided to join us as a member read our new member guide: 
 * If you want to start off with a Day Pass read our new visitor guide: 
 
-6. Join Slack
+## 6. Join Slack
 
 If you haven't already now is the time to join Slack, our online communication platform. Everyone is welcome on Slack, it's not members only.
 
@@ -57,20 +57,20 @@ If you decided to sign up as a member an Artifactory logo should appear next to 
 
 https://artifactory.org.au/slack
 
-7. Read our training/induction policy
+## 7. Read our training/induction policy
 
 https://wiki.artifactory.org.au/en/docs/policies/training
 
 This doument will give you a good idea of what tools need specific inductions.
 
-8. Decide which tools you need for your project
+## 8. Decide which tools you need for your project
 
 We've found it's usually helpful to make a list of all the tools you're going to need to use to complete your project.
 
 * Day pass users can get some limited advice by asking in the relevant Slack channel, if you're not sure which channel is appropriate just ask in #general.
 * Members can get in depth answers using the same channels or by organising a time to sit down with one of our volunteers. Remember to check whether your name has an Artifactory logo next to it, this is how we know you're a member.
 
-9. Book a new member induction (Members only)
+## 9. Book a new member induction (Members only)
 
 Our new member induction goes into the nitty gritty of what it means to be a member of our community and is mandatory for all members. It is not the same as a tour of the space.
 
@@ -78,17 +78,17 @@ Take a look in #training-and-inductions for upcoming days where new member induc
 
 Once you've found a time slot that suits reply to the message letting us know you'll be attending.
 
-10. Book inductions on the tools you need for your project
+## 10. Book inductions on the tools you need for your project
 
 Use the instructions from the previous step to book inductions on the tools you need.
 
-11. Start attending events and working on your project
+## 11. Start attending events and working on your project
 
 https://artifactory.org.au/events
 
 Check our event calendar for upcoming events that suit your schedule. It's usually fine to work on projects not related to the event in question. (Woodworking can still be done during Metal Monday for example)
 
-12. Work towards 24/7 access (Members only)
+## 12. Work towards 24/7 access (Members only)
 
 A key comes with a lot of trust attached. The best way to earn that trust is to demonstrate that you're a responsible member of our community. This can be done by:
 
@@ -99,7 +99,7 @@ A key comes with a lot of trust attached. The best way to earn that trust is to 
 
 Once you feel you've met our requirements (covered in the new member induction) reach out to membership@artifactory.org.au or a committee member in the space.
 
-13. Get involved in the Artifactory itself
+## 13. Get involved in the Artifactory itself
 
 * Help run an event - Post in #events-and-promotions if you have a new event idea
 * Attend our laser maintenance nights - Keep an eye on #lasers for this event, it typically runs every 6 weeks.

@@ -2,11 +2,14 @@
 title: Steam Ostrich
 description: 
 published: true
-date: 2023-01-04T02:38:34.970Z
+date: 2024-10-16T10:49:59.353Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-19T07:55:51.865Z
 ---
+
+> This project is no longer active, the page has been preserved as a historical record.
+{.is-info}
 
 ## Steam Ostrich
 

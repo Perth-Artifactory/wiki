@@ -2,7 +2,7 @@
 title: How to start
 description: 
 published: true
-date: 2024-10-24T08:17:50.784Z
+date: 2024-10-24T08:20:25.795Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
@@ -14,7 +14,7 @@ So you reckon this artifactory place sounds kinda cool, here's how we recommend 
 
 This doesn't have to be super fleshed out, it just gives us a good starting point when you visit. If you've already found something that takes your fancy this step is done!
 
-If you're really not sure we recommend picking an overall area for your first project and exploring resources on YouTube from there. Adding "beginner AREA project" to the following areas may prove fruitful:
+If you're really not sure we recommend picking an overall area for your first project and exploring resources on YouTube from there. Adding "beginner project" to the following areas may prove fruitful:
 
 * Woodworking
 * Metalworking

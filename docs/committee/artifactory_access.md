@@ -2,7 +2,7 @@
 title: Artifactory Access
 description: 
 published: true
-date: 2024-06-20T10:21:58.968Z
+date: 2024-10-24T08:16:57.391Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:47.883Z
@@ -33,6 +33,12 @@ Check the webcams to see if there is already a key holding member who has opened
 Come down on one of our regular scheduled events. You're welcome to attend the events but you can also just go off and do your own thing or use what you need to.
 
 ### Organise with a member
+
+> Your success organising access with a member is going to vary greatly depending on:
+> What you want to do - Is it loud tools that need supervision from the keyholder?
+> Your relationship with the keyholder in question - Have they met you before?
+{.is-warning}
+
 
 Go to our [Slack team](https://perart.io/slack) ask if anyone will be in at the space on a particular day or time.
 

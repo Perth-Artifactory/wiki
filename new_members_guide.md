@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-10-15T03:21:36.430Z
+date: 2024-10-24T08:10:54.425Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -91,7 +91,7 @@ Anything which is left in the space un-labelled will be either treated as [lost 
 
 As a new member, your access to the space will initially be limited to the [events on our calendar](https://artifactory.org.au/events).
 
-You may also be able to arrange with a key-holding member to attend the space with you, but there's no guarantee that a member will be available at any particular time.
+You may also be able to arrange with a key-holding member to attend the space with you, but there's no guarantee that a member will be available at any particular time. This will depend greatly on the times you want to access the space, what you want to do, and your relationship with the keyholder in question.
 
 Refer: [Artifactory Access](/docs/committee/artifactory_access)
 

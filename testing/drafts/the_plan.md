@@ -2,7 +2,7 @@
 title: How to start
 description: 
 published: true
-date: 2024-10-24T08:22:33.413Z
+date: 2024-10-24T08:23:13.161Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
@@ -110,7 +110,7 @@ A key comes with a lot of trust attached. The best way to earn that trust is to 
 
 * Attending events - Feel free to reach out to our membership officer (Fletcher) on Slack if you're a bit nervous getting started.
 * Completing tool inductions - One of the best ways for us to get to know you is to see how you use tools close up.
-* Helping out around the space - Finding things to do is typically covered in your new member induction, ask someone in the space next time you're in if this didn't happen. (In short, check the whiteboard) While you'll be doing some things already to meet your volunteer obligations when receiving training we always appreciate any extra time you're able to contribute.
+* Helping out around the space - Finding things to do is typically covered in your new member induction, ask someone in the space next time you're in if this didn't (In short, check the whiteboard). While you'll be doing some things already to meet your volunteer obligations when receiving training we always appreciate any extra time you're able to contribute.
 * Working on projects in a safe and respectful manner.
 
 Once you feel you've met our requirements (covered in the new member induction) reach out to membership@artifactory.org.au or a committee member in the space.

@@ -2,7 +2,7 @@
 title: How to start
 description: 
 published: true
-date: 2024-10-24T08:23:13.161Z
+date: 2024-10-25T01:07:06.068Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
@@ -72,7 +72,7 @@ https://artifactory.org.au/slack
 
 ## 7. Read our training/induction policy
 
-[This doument](/docs/policies/training) will give you a good idea of what tools need specific inductions.
+[This document](/docs/policies/training) will give you a good idea of what tools need specific inductions.
 
 We require a 1:1 time committment for training and inductions you receive in the space. This means that if a volunteer spends an hour helping you we expect you to spend *at least* an hour helping out around the space with things like communal cleaning.
 

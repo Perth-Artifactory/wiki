@@ -2,7 +2,7 @@
 title: Software list
 description: 
 published: true
-date: 2024-10-26T11:37:21.218Z
+date: 2024-10-26T11:49:35.961Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-26T11:37:21.218Z
@@ -12,20 +12,23 @@ This is the list of software you can expect to be installed on the computers in 
 
 ## Design Lab
 
-### Slicers
+### 3D Slicers
 
 * Bambu Studio - Slicing for Bambu Labs printers
 * Chitubox - Slicing for Resin printers
 * PrusaSlicer - Slicing for Prusa/Voron printers
 
-### Design Software
+### 3D Modelling
 
-* Adobe Illustrator - Vector editor
-* Fusion 360 - 3D modelling
-* Inkscape - Vector editor
-* LibreCAD - Vector editor
-* Meshmixer - 3D modelling
-* Vectric Aspire - Vector editor
+* Fusion 360 - Creation of engineering mdoels, CAM software for CNC routing
+* Meshmixer - Modification of existing STLs
+
+### Vector Design
+
+* Adobe Illustrator - Art-y vector design
+* Inkscape - Art-y vector design
+* LibreCAD - Engineering vector design
+* Vectric Aspire - Engineering vector design, CAM software for CNC routing
 
 ### Programming
 
@@ -44,4 +47,4 @@ Software listed under Design Lab +
 ## Lasers
 
 * Lightburn - Laser control
-* Vectric Aspire - Vector editor
+* Vectric Aspire - Engineering vector design

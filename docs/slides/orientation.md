@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-08-10T13:43:54.426Z
+date: 2024-10-26T09:21:32.272Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -229,7 +229,7 @@ You may also be able to arrange with a key-holding member to attend the space wi
 
 Members who meet our requirements may apply for a 24/7 electronic key. These applications should be made to membership@artifactory.org.au. The key requirements are fairly strict but aren't burdensome:
 
-* Hold your membership for at least two weeks,
+* Hold your membership for at least two weeks, (Bare minimum for application to be considered)
 * Don't act against the interests of the Association, (Follow the Code of Conduct)
 * Pay a bond ($135 concession, $225 full)
 * Have no outstanding invoices,
@@ -293,8 +293,8 @@ We'll let you know if you need refresher training.
 ## Crafting materials
 
 * Laser scrap rack - Flat pieces of material of useful size
-* Upcycle rack - Old pieces of equipment that can be taken apart for components
 * Hack rack - Fans, power supplies, scrap wood etc
+* Upcycle rack - Old pieces of equipment that can be taken apart for components
 
 ##
 
@@ -343,8 +343,8 @@ Pictures shared in `#it_photo-stream` on Slack will be saved for our Social Medi
 Your Member Work directory can be accessed in a few different ways:
 
 * From any computer in the space (Typically mounted as either "filer" or "Member Work")
-* By sending files to the user File Butler on Slack.
 * From your device when connected to the wifi. 
+* By sending files to the user File Butler on Slack.
 
 ## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
 

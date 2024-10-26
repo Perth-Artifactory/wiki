@@ -2,49 +2,61 @@
 title: Software list
 description: 
 published: true
-date: 2024-10-26T11:49:35.961Z
+date: 2024-10-26T13:18:18.668Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-26T11:37:21.218Z
 ---
 
+## Software
+
 This is the list of software you can expect to be installed on the computers in various locations.
 
-## Design Lab
+### Design Lab
 
-### 3D Slicers
+#### 3D Slicers
 
 * Bambu Studio - Slicing for Bambu Labs printers
 * Chitubox - Slicing for Resin printers
 * PrusaSlicer - Slicing for Prusa/Voron printers
 
-### 3D Modelling
+#### 3D Modelling
 
 * Fusion 360 - Creation of engineering mdoels, CAM software for CNC routing
 * Meshmixer - Modification of existing STLs
 
-### Vector Design
+#### Vector Design
 
 * Adobe Illustrator - Art-y vector design
 * Inkscape - Art-y vector design
 * LibreCAD - Engineering vector design
 * Vectric Aspire - Engineering vector design, CAM software for CNC routing
 
-### Programming
+#### Programming
 
 * Arduino IDE - Programming for Arduino/ESP boards
 
-## Design Lab - Drawing tablet
+### Design Lab - Drawing tablet
 
 Software listed under Design Lab +
 
 * Krita - Sketch design
 
-## Machine Room
+### Machine Room
 
 * UCCNC - CNC router control software
 
-## Lasers
+### Lasers
 
 * Lightburn - Laser control
 * Vectric Aspire - Engineering vector design
+
+## OS
+
+Workstations in the space primarily run Windows 10.
+
+### OS Specifics
+
+* Mount `\\filer\shared` as `Z`
+* Mount `\\filer\shared\Member Work` as `M`
+* Enable dark mode

@@ -2,7 +2,7 @@
 title: How to start
 description: 
 published: true
-date: 2024-10-27T16:40:15.292Z
+date: 2024-10-27T16:40:25.195Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
@@ -38,8 +38,6 @@ Our first visit guide has some great information on when your first visit should
 
 | [Read our first visit guide](https://artifactory.org.au/first_visit) |
 | -- |
-
- has some great resources on when your first visit should be and what you need to do beforehand.
 
 ## 3. Read our Code of Conduct
 

@@ -2,7 +2,7 @@
 title: How to start
 description: 
 published: true
-date: 2024-10-25T01:07:06.068Z
+date: 2024-10-27T16:08:21.158Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
@@ -25,6 +25,9 @@ If you're really not sure we recommend picking an overall area for your first pr
 
 These aren't all the areas the Artifactory has to offer but they're some great starting points.
 
+> Large projects with **tight deadlines** (like a van fitout) do not typically make good first projects. Please discuss these with us first as we are typically unable to adjust our training/access policies to accomodate the quick turnaround required
+{.is-warning}
+
 ## 2. Organise your first visit to the space
 
 [This page](https://artifactory.org.au/first_visit) has some great resources on when your first visit should be and what you need to do beforehand.
@@ -39,21 +42,24 @@ This is the first actual decision you need to make. You can either use the space
 
 |                                                                       | Day Pass | Member |
 | -                                                                     | -------- | ------ |
-| Access to events                                                      | Y        | Y      |
-| Training on our smaller tools                                         | Y        | Y      |
-| Training on our more complex and larger tools                         | N        | Y      |
-| Priority access for inductions and training                           | N        | Y      |
-| Assistance with project planning                                      | N        | Y      |
-| Onsite storage                                                        | N        | Y      |
-| Apply for 24/7 access                                                 | N        | Y      |
-| Reduced tool usage fees                                               | N        | Y      |
-| The knowledge that you're supporting a community that supports makers | N        | Y      |
+| Access to events                                                      | ✅       | ✅    |
+| Training on our smaller tools                                         | ✅       | ✅    |
+| Training on our more complex and larger tools                         | ❌       | ✅    |
+| Priority access for inductions and training                           | ❌       | ✅    |
+| Assistance with project planning                                      | ❌       | ✅    |
+| Onsite storage                                                        | ❌       | ✅    |
+| Apply for 24/7 access                                                 | ❌       | ✅    |
+| Reduced tool usage fees                                               | ❌       | ✅    |
+| The knowledge that you're supporting a community that supports makers | ❌       | ✅    |
 
 And a few things to keep in mind when deciding:
 
 * Many areas of the space are set up with members as the priority.
-* We are a community first. If you have a tight deadline and plan to smash out a single project then leave we may not be suitable. We will not adjust our induction or access policies based on your deadline.
+* We are a community first. You'll get the most out of the space if you treat us as such rather than purely a workshop for hire.
 * It's okay to start as a day pass user and then move over to a membership once you realise we're the right fit for you. 
+
+| [Sign up as a member](https://artifactory.org.au/pricing) |
+| -- |
 
 ## 5. Read the new member/visitor guide
 
@@ -108,18 +114,18 @@ Check our event calendar for upcoming events that suit your schedule. It's usual
 
 A key comes with a lot of trust attached. The best way to earn that trust is to demonstrate that you're a responsible member of our community. This can be done by:
 
-* Attending events - Feel free to reach out to our membership officer (Fletcher) on Slack if you're a bit nervous getting started.
-* Completing tool inductions - One of the best ways for us to get to know you is to see how you use tools close up.
-* Helping out around the space - Finding things to do is typically covered in your new member induction, ask someone in the space next time you're in if this didn't (In short, check the whiteboard). While you'll be doing some things already to meet your volunteer obligations when receiving training we always appreciate any extra time you're able to contribute.
-* Working on projects in a safe and respectful manner.
+* **Attending events** - Feel free to reach out to our membership officer (Fletcher) on Slack if you're a bit nervous getting started.
+* **Completing tool inductions** - One of the best ways for us to get to know you is to see how you use tools close up.
+* **Helping out around the space** - Finding things to do is typically covered in your new member induction, ask someone in the space next time you're in if this didn't happen (In short, check the whiteboard). While you'll be doing some things already to meet your volunteer obligations when receiving training we always appreciate any extra time you're able to contribute.
+* **Working on projects in a safe and respectful manner** - Meeting the requirement that you work safely and clean up after yourself is best done through action!
 
 Once you feel you've met our requirements (covered in the new member induction) reach out to membership@artifactory.org.au or a committee member in the space.
 
 ## 13. Get involved in running the Artifactory itself
 
-* Help run an event - Post in #events-and-promotions if you have a new event idea.
-* Contribute towards our fundraising efforts - From time to time we'll ask for help making things that will be used to fundraise for the space. Keep an eye out in #general or ask a committee member for upcoming opportunities
-* Attend our laser maintenance nights - Keep an eye on #lasers for this event, it typically runs every 6 weeks.
-* Get involved in an infrastructure build - Keep an eye out for volunteer callouts for larger projects in #general or ask a member of our Infrastructure team about things that need to be done. Sometimes we have projects that need an extra set of hands, sometimes we need people with particular skills. The infra folk will help direct you as appropriate.
-* Become a tool trainer - Our standard for trainers is quite high, we will typically approach you if we think you'd be a good fit and we see you around the space frequently.
-* Join one of our subcommittees - Membership of these groups are largely by invitation. We'll reach out if we think you're a good fit and see you around the space frequently.
+* **Help run an event** - Post in #events-and-promotions if you have a new event idea.
+* **Contribute towards our fundraising efforts** - From time to time we'll ask for help making things that will be used to fundraise for the space. Keep an eye out in #general or ask a committee member for upcoming opportunities
+* **Attend our laser maintenance nights** - Keep an eye on #lasers for this event, it typically runs every 6 weeks.
+* **Get involved in an infrastructure build** - Keep an eye out for volunteer callouts for larger projects in #general or ask a member of our Infrastructure team about things that need to be done. Sometimes we have projects that need an extra set of hands, sometimes we need people with particular skills. The infra folk will help direct you as appropriate.
+* **Become a tool trainer** - Our standard for trainers is quite high, we will typically approach you if we think you'd be a good fit and we see you around the space frequently.
+* **Join one of our subcommittees** - Membership of these groups are largely by invitation. We'll reach out if we think you're a good fit and see you around the space frequently.

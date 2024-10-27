@@ -1,14 +1,12 @@
 ---
 title: How to start
-description: 
+description: So you reckon this Artifactory place sounds kinda cool, here's how we recommend getting started!
 published: true
-date: 2024-10-27T16:43:10.211Z
+date: 2024-10-27T16:45:18.127Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
 ---
-
-So you reckon this Artifactory place sounds kinda cool, here's how we recommend getting started!
 
 ## 1. Have a think about a project you might like to complete or an area you're interested in
 

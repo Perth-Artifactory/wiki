@@ -2,7 +2,7 @@
 title: How to start
 description: 
 published: true
-date: 2024-10-27T16:40:25.195Z
+date: 2024-10-27T16:41:16.959Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
@@ -87,6 +87,9 @@ And a few things to keep in mind when deciding:
 
 * If you've decided to join us as a member read our [New Member Guide](/new_members_guide) - It's okay if some things don't make sense yet, we'll go over the contents of this document in your initial induction.
 * If you want to start off with a Day Pass read our [New Visitor Guide](/new_visitors_guide)
+
+| [Read the new members guide](/new_members_guide) | [Read the new visitor guide](/new_visitors_guide)
+| -- |
 
 ## 7. Join Slack
 

@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T07:40:33.056Z
+date: 2024-10-30T07:43:38.007Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -14,7 +14,7 @@ dateCreated: 2024-10-30T07:25:49.816Z
 
 This is a self paced introduction to our community and workshop. If you have questions, jot them down and ask one of our volunteers afterwards.
 
-You can navigate these slides using the {{< kbd Ctrl+S >}}.
+You can navigate these slides using the <kbd>Ctrl+S</kbd>.
 
 # Who are we? 
 

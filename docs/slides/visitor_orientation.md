@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T07:43:38.007Z
+date: 2024-10-30T08:05:46.058Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -14,42 +14,11 @@ dateCreated: 2024-10-30T07:25:49.816Z
 
 This is a self paced introduction to our community and workshop. If you have questions, jot them down and ask one of our volunteers afterwards.
 
-You can navigate these slides using the <kbd>Ctrl+S</kbd>.
+You can navigate these slides using the <kbd>spacebar</kbd>.
 
 # Who are we? 
 
-The Artifactory is a not-for-profit shared workspace and community that's run entirely by volunteers
-
-# What this will cover
-
-* Constitution and By-laws
-* Code of Conduct
-* Finance and admin info
-* Storing things in the space
-* Accessing the workshop
-
-##
-
-* Training
-* Communual items
-* Communication
-* Tech resources
-
-# Our Constitution and bylaws
-
-Our Constitution governs how the organisation operates, everything flows down from this document. The full document can be found by searching `Constitution` on the wiki.
-
-## Who makes decisions about the space?
-
-Each year a Management Committee is elected from our members. The Committee sets the overall direction of the organisation for the year and makes the practical day to day decisions that keep the space running. (Constitution Part 5)
-
-## Your rights as a member
-
-When disputes arise in the space you're able to make use of our dispute resolution process. (Constitution Part 4)
-
-## By-laws
-
-The Management Committee sets out the day to day operation of the space through the use of by-laws. The full text can be found by searching `By-laws` on the wiki.
+The Artifactory is a not-for-profit shared workspace and community that's run entirely by volunteers.
 
 # Code of Conduct {data-background-color="rgb(0, 6, 43)"}
 
@@ -59,13 +28,15 @@ Our code of conduct is the guiding document for your actions in the space. You c
 * On our main website: artifactory.org.au
 * In the workshop just through the foyer door
 
+The following slides will go through a condensed version of the code as it applies to you.
+
 # Respectful Behaviour {data-background-color="rgb(0, 6, 43)"}
 
 Treat one another with respect
 
 ## Diversity and discrimination expectations {data-background-color="rgb(0, 6, 43)"}
 
-The Artifactory attendees come from a diverse variety of backgrounds. That diversity enriches our community and so we must work to ensure all members feel welcome and safe. Sexual harassment, bullying or discrimination will not be tolerated - both in person and online. Any behaviours that make attendees feel uncomfortable or unsafe are unacceptable and action will be taken to ensure a safe environment for all attendees.
+Artifactory attendees come from a diverse variety of backgrounds. That diversity enriches our community and so we must work to ensure all members feel welcome and safe. Sexual harassment, bullying or discrimination will not be tolerated - both in person and online. Any behaviours that make attendees feel uncomfortable or unsafe are unacceptable and action will be taken to ensure a safe environment for all attendees.
 
 ## Disagreements {data-background-color="rgb(0, 6, 43)"}
 
@@ -89,7 +60,7 @@ Our workshop is a shared space with an abundance of communal work areas and tool
 * Leave the space cleaner than you found it.
 * Pick up your rubbish.
 * Put away everything you used.
-* Food waste in the skip bin
+* Food waste in the skip bin in the carpark
 * Clean the area you worked in - wipe, sweep, vacuum.
 
 # Safe Use of Tools {data-background-color="rgb(0, 6, 43)"}
@@ -120,10 +91,6 @@ Report any damage to tools including mistakes you make. It happens, we have all 
 
 Respect the ownership of tools and materials. Do not remove Artifactory equipment from the premises unless you have permission. Ensure you have permission before using another member’s tools or materials.
 
-## Conflicts of interest {data-background-color="rgb(0, 6, 43)"}
-
-Report any conflicts of interest that may be applicable.
-
 # Complaints and Reporting {data-background-color="rgb(0, 6, 43)"}
 
 ## Who to contact {data-background-color="rgb(0, 6, 43)"}
@@ -152,11 +119,9 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 # Finance and Admin
 
-## Membership dues
-
-Your membership dues are not paid automatically. Our preferred method of payment is via a scheduled bank transfer, on the monthly date of joining. (Bank details are on your memberhip invoices)
-
 ## Paying for tool usage
+
+Some of our tools have usage fees attached. (Covered during the induction for the tools in question)
 
 Please use the bank account rather than the EFTPOS when paying for tool usage. This helps us keep track of how much each tool is used.
 
@@ -168,86 +133,23 @@ It's your responsbility to update this information in TidyHQ when it changes.
 * Your contact information (email and physical address)
 * Your emergency contact information
 
-## Resignation
-
-We operate on a month-to-month basis which means there's no penalty for deciding you'd like to cancel or pause your membership. If you want to do either of these please **let us know** rather than just disappearing. Remember it's always a volunteer following up on overdue invoices.
-
 # Reporting
 
 ## Injuries
 
+If you hurt (or nearly hurt) yourself in the workshop let our volunteers know so we can help. We will also get you to fill out an incident report.
+
 Reporting injuries and near misses helps us change our facilities and processes to prevent future incidents.
-
-https://perart.io/injuryreport
-
-![](https://perart.io/injuryreport/qr-code)
-
-## Workshop cleanliness and tool repair
-
-The workshop only works if people are held accountable for leaving the workshop a mess.
-
-https://perart.io/workshopreport
-
-![](https://perart.io/workshopreport/qr-code)
 
 # Storage
 
-The what, where, when, and how of leaving things in the space
-
-## Individual member storage space
-
-Members can request a personal storage locker (subject to availability)
-
-Contact storage@artifactory.org.au
-
-## Sheet material racks
-
-You can store sheets of material opposite the laser scrap and outside the machine room in the racks. Check the signs on each rack for:
-
-* How your material must be labelled
-* How long it can be stored
-* How much you can store
-
-## Workspace Usage
-
-* When actively working on a project you can occupy up to three trestles provided the trestles (or the space) aren't needed for an event
-
-## Short term storage
-
-If you need to leave a project in the workspace (paint drying etc)
-
-* You leave your property unattended at your own risk.
-* You may leave your property in the work space for up to three days.
-* You must prominently label your property with your name, contact details, and intended pickup date.
-
-##
-
-* Your property may occupy up to one trestle table's worth of work space.
-* Your property must be left in a safe and movable state, in case your property needs to be moved for a scheduled event.
+Day Pass users cannot store projects in the space. Please plan ahead if doing projects that involve paint drying etc. If you're going to take up more than one tables worth of space chat with one of our volunteers.
 
 # Access
 
-As a new member, your access to the space will initially be limited to the events on our calendar.
+As a day pass user you can access the workshop during events. Check the calendar for upcoming events.
 
-You may also be able to arrange with a key-holding member to attend the space with you, but there's no guarantee that a member will be available at any particular time and these arrangements should not be relied upon.
-
-## 24/7 Access
-
-Members who meet our requirements may apply for a 24/7 electronic key. These applications should be made to membership@artifactory.org.au. The key requirements are fairly strict but aren't burdensome:
-
-* Hold your membership for at least two weeks, (Bare minimum for application to be considered)
-* Don't act against the interests of the Association, (Follow the Code of Conduct)
-* Pay a bond ($135 concession, $225 full)
-* Have no outstanding invoices,
-
-##
-
-* Demonstrate that you are competent to make decisions on who can enter the space
-* Demonstrate that you can:
-  * Work unsupervised,
-  * Undertake tasks safely,
-  * Clean your work area, and
-  * Communicate any issues to committee.
+artifactory.org.au/events
 
 # Training
 
@@ -269,14 +171,14 @@ These tools can easily hurt you, others, or the tool. To use these tools you mus
 
 ## High risk {data-background-color="rgb(120, 8, 2)"}
 
-These tools can cause serious injury, are easy to damage, or both. An induction is required before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere. Only specific people are authorised to train on specific high risk tools.
+These tools can cause serious injury, are easy to damage, or both. An induction is required before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere. Only specific people are authorised to train on specific high risk tools. Many of these tools are available only to **members**.
 
 * 3D Printers
 * Large equipment (Mill, CNC router, laser cutters etc)
 
 ## How to get training
 
-Take a look in #training_and_inductions on Slack and put your hand up for an applicable induction slot
+Take a look in #training_and_inductions on Slack and put your hand up for an applicable induction slot.
 
 ## How to check your existing training
 
@@ -299,17 +201,11 @@ We'll let you know if you need refresher training.
 ## Crafting materials
 
 * Laser scrap rack - Flat pieces of material of useful size
-* Hack rack - Fans, power supplies, scrap wood etc
 * Upcycle rack - Old pieces of equipment that can be taken apart for components
-
-##
-
-* Cleaning products are in the kitchen
-* Spray paint is stored in the filing cabinet in the back shed - unless labelled with someone's name.
 
 ## Check!
 
-For other areas of the space check with another member before you start using supplies. Many supplies belong to individual members.
+For other areas of the space check with a volunteer before you start using supplies. Many supplies belong to individual members.
 
 ## 
 
@@ -325,13 +221,6 @@ If you would like to be trained on a certain machine, report a fault with the eq
 
 artifactory.org.au/slack
 
-## Social Media
-
-You can find us on:
-
-* Facebook
-* Meetup (mirrored events)
-
 ## Events
 
 Upcoming events can be found on our public calendar. You can add this calendar to your phone if you like. (Events link in the navbar of the main site)
@@ -340,10 +229,6 @@ https://artifactory.org.au/events
 
 # Tech resources
 
-## Sharing pictures
-
-Pictures shared in `#it_photo-stream` on Slack will be saved for our Social Media team. Please share pictures of things you've made in the space.
-
 ## Member Work
 
 Your Member Work directory can be accessed in a few different ways:
@@ -351,8 +236,6 @@ Your Member Work directory can be accessed in a few different ways:
 * From any computer in the space (Typically mounted as either "filer" or "Member Work")
 * From your device when connected to the wifi. 
 * By sending files to the user File Butler on Slack.
-
-## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
 
 ## Wiki
 
@@ -363,3 +246,5 @@ Your Member Work directory can be accessed in a few different ways:
 wiki.artifactory.org.au
 
 # Questions?
+
+Ask one of our volunteers! 

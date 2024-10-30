@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:12:39.838Z
+date: 2024-10-30T08:19:52.429Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -68,9 +68,11 @@ The safety of every member is very important
 
 ## Work safely {data-background-color="rgb(0, 6, 43)"}
 
-Always follow established procedures, adhere to safety signage and wear appropriate protective equipment. Ask for help and training if you are unsure how to use our tools and follow that advice. Consider the risk to others around you and put up barriers, exclusion zones or signage as needed.
-
 * Most of our equipment and power tools require an induction before they can be used. This is covered in more detail later on.
+* Always follow our established safety procedures.
+* Only use tools you are authorised to use.
+* Follow the safety/operational requirements we set out in tool inductions.
+* Ask for help with tools you're not confident using, even after you've been signed off.
 * Ensure access areas are kept clean, tools are safe.
 * Ensure that your clothing is appropriate.
 

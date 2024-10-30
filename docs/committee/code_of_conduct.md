@@ -2,7 +2,7 @@
 title: Code Of Conduct
 description: 
 published: true
-date: 2023-07-02T09:26:39.175Z
+date: 2024-10-30T15:31:33.355Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-19T08:03:29.574Z
@@ -18,7 +18,7 @@ We must all work to foster a collaborative, inclusive, safe and creative environ
 
 The Artifactory attendees come from a diverse variety of backgrounds. That diversity enriches our community and so we must work to ensure all members feel welcome and safe. Sexual harassment, bullying or discrimination will not be tolerated - both in person and online. Any behaviours that make attendees feel uncomfortable or unsafe are unacceptable and action will be taken to ensure a safe environment for all attendees.
 
-Sometimes disagreements can be frustrating but that is no excuse for poor behavior or poor manners. Disagreement, debate and constructive criticism can help develop ideas but it should never cross into personal attacks.
+Sometimes disagreements can be frustrating but that is no excuse for poor behaviour or poor manners. Disagreement, debate and constructive criticism can help develop ideas but it should never cross into personal attacks.
 
 Many Artifactory attendees offer training, help and advice to members and visitors. We should be mindful that these people are volunteers and so must be treated with respect and allowed time to work on their own projects if they so wish.
 

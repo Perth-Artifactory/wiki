@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T14:52:37.591Z
+date: 2024-10-30T15:05:10.684Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -146,7 +146,9 @@ Reporting injuries and near misses helps us change our facilities and processes 
 
 # Storage
 
-Day Pass users cannot store projects in the space. Please plan ahead if doing projects that involve paint drying etc. If you're going to take up more than one tables worth of space chat with one of our volunteers.
+Day Pass users cannot store projects in the space.
+
+Please plan ahead if doing projects that involve paint drying etc. If you're going to take up more than one tables worth of space chat with one of our volunteers.
 
 # Access
 

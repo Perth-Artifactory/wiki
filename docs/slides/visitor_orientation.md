@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:19:52.429Z
+date: 2024-10-30T08:21:08.517Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -73,7 +73,7 @@ The safety of every member is very important
 * Only use tools you are authorised to use.
 * Follow the safety/operational requirements we set out in tool inductions.
 * Ask for help with tools you're not confident using, even after you've been signed off.
-* Ensure access areas are kept clean, tools are safe.
+* Ensure access areas are kept clean and tools are stored safely.
 * Ensure that your clothing is appropriate.
 
 ## Working under the influence {data-background-color="rgb(0, 6, 43)"}

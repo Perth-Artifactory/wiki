@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T15:05:10.684Z
+date: 2024-10-30T15:08:04.344Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -179,7 +179,7 @@ These tools can easily hurt you, others, or the tool. To use these tools you mus
 These tools can cause serious injury, are easy to damage, or both. An induction is required before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere. **Many of these tools are available only to members**. eg:
 
 * 3D Printers
-* Large equipment (Mill, CNC router, laser cutters etc)
+* Large equipment (Mill, CNC Router, Lathes etc)
 
 ## How to tell which category tools are in
 

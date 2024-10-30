@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:31:57.326Z
+date: 2024-10-30T08:34:31.196Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -92,6 +92,8 @@ Report any damage to tools including mistakes you make. It happens, we have all 
 Respect the ownership of tools and materials. Do not remove Artifactory equipment from the premises. Ensure you have permission before using tools or material owned by our members.
 
 # Complaints and Reporting {data-background-color="rgb(0, 6, 43)"}
+
+If you feel that any part of our Code of Conduct have been violated here are the steps to take.
 
 ## Who to contact {data-background-color="rgb(0, 6, 43)"}
 

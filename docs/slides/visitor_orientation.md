@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:41:35.301Z
+date: 2024-10-30T08:43:55.206Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -162,30 +162,30 @@ Tools and equipment are split into three categories:
 
 ## Low risk {data-background-color="rgb(0, 82, 22)"}
 
-You can self assess your competency on these tools and use them if you feel comfortable. Feel free to have a go and if you're not sure you can always ask for help. Even though these tools are low risk you should still be vigilant about safety.
-
-eg.
+You can self assess your competency on these tools and use them if you feel comfortable. Feel free to have a go and if you're not sure you can always ask for help. Even though these tools are low risk you should still be vigilant about safety. eg:
 
 * Hand tools (screwdrivers etc)
 * Some power tools (Drills, vibrating sanders etc)
 
 ## Medium risk {data-background-color="rgb(179, 173, 4)"}
 
-These tools can easily hurt you, others, or the tool. To use these tools you must either complete a short induction with one of our authorised trainers or demonstrate to them that you can use this tool safely.
-
-eg.
+These tools can easily hurt you, others, or the tool. To use these tools you must either complete a short induction with one of our authorised trainers or demonstrate to them that you can use this tool safely. eg:
 
 * Most power tools (Circular saws, routers etc)
 * Some equipment (Sand blaster, belt sander etc)
 
 ## High risk {data-background-color="rgb(120, 8, 2)"}
 
-These tools can cause serious injury, are easy to damage, or both. An induction is required before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere. Only specific people are authorised to train on specific high risk tools. **Many of these tools are available only to members**.
-
-eg.
+These tools can cause serious injury, are easy to damage, or both. An induction is required before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere. **Many of these tools are available only to members**. eg:
 
 * 3D Printers
 * Large equipment (Mill, CNC router, laser cutters etc)
+
+## How to tell which category tools are in
+
+Most of our tools will include a coloured dot indicating their category. A full list of our tools can be found here:
+
+TODO: Tool QR
 
 ## How to get training
 

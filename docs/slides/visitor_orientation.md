@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T09:30:19.489Z
+date: 2024-10-30T09:30:32.865Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -261,6 +261,8 @@ You're done with the slides, it's almost time to get making! Let our volunteers 
 * The location of the laser scrap and upcycle racks
 * The category labels we use for tools
 * Your event host
+
+asdf
 
 # Questions?
 

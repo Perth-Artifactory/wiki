@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:05:46.058Z
+date: 2024-10-30T08:07:17.053Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -118,6 +118,12 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 * Reporting to any relevant authorities
 
 # Finance and Admin
+
+## Paying for your day pass
+
+Day Passes can be paid for at the bar. In most cases it costs $20 to attend the space for the day though some events are cheaper. If you're not sure check with an event host!
+
+Please write your name and "day pass" on the merchant receipt and put it in the red box next to the EFTPOS.
 
 ## Paying for tool usage
 

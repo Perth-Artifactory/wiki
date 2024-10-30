@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:10:04.775Z
+date: 2024-10-30T08:10:48.712Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -51,7 +51,6 @@ Many Artifactory attendees offer training, help and advice to members and visito
 * Checking the whiteboard near the front of the space for things that haven't been done in a while
 * Helping with the communal cleaning - empty the bins, vacuum the project area
 * Tidying up the space - sort the hardware drawers, neaten the tool racks
-* Volunteering to help with a project or event
 
 ## Cleaning up after yourself {data-background-color="rgb(0, 6, 43)"}
 

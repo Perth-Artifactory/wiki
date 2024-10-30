@@ -2,21 +2,19 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T09:30:55.101Z
+date: 2024-10-30T09:46:42.724Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
 ---
 
-# {data-background-image="https://artifactory.org.au/_astro/hero.CYlirp3c_2vxTl2.webp"}
-
 #
 
 This is a self paced introduction to our community and workshop. If you have questions, jot them down and ask one of our volunteers afterwards.
 
-You can navigate these slides using the <kbd>spacebar</kbd>.
+You can progress through these slides using the <kbd>spacebar</kbd>.
 
-# Who are we? 
+# Who are we?
 
 The Artifactory is a not-for-profit shared workspace and community that's run entirely by volunteers.
 

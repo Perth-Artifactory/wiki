@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:21:08.517Z
+date: 2024-10-30T08:22:51.358Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -90,7 +90,7 @@ Report any damage to tools including mistakes you make. It happens, we have all 
 
 ## Respect ownership {data-background-color="rgb(0, 6, 43)"}
 
-Respect the ownership of tools and materials. Do not remove Artifactory equipment from the premises unless you have permission. Ensure you have permission before using another member’s tools or materials.
+Respect the ownership of tools and materials. Do not remove Artifactory equipment from the premises. Ensure you have permission before using tools or material owned by our members.
 
 # Complaints and Reporting {data-background-color="rgb(0, 6, 43)"}
 
@@ -100,7 +100,7 @@ Respect the ownership of tools and materials. Do not remove Artifactory equipmen
 * Email the management committee: committee@artifactory.org.au
 * Email the executive committee (Chair, Deputy Chair, Secretary, Treasurer): exec@artifactory.org.au
 * Slack direct message to a committee member
-* Ask another Artifactory member to report the incident on your behalf
+* Ask an Artifactory member to report the incident on your behalf
 
 We have processes in place to ensure confidentiality of reported incidents.
 

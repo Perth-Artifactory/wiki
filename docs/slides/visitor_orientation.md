@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:35:45.306Z
+date: 2024-10-30T08:38:07.903Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -111,13 +111,8 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 * Talking with the involved people, explaining the issues and building better understanding between attendees
 * Written formal warning for the specific incident
-* Temporary suspension of membership including restricted access to the premises and online platforms
-
-## {data-background-color="rgb(0, 6, 43)"}
-
-* Termination of membership
-* Barring from the Artifactory premises and online platforms
-* Reporting to any relevant authorities
+* Suspension/termination of membership including restricted access to the premises and online platforms
+* Reporting to relevant authorities/regulators
 
 # Finance and Admin
 

@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T15:08:04.344Z
+date: 2024-10-30T15:15:51.180Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -136,11 +136,9 @@ It's your responsbility to update this information in TidyHQ when it changes.
 
 TidyHQ is the system you used when you signed up as a visitor.
 
-# Reporting
+# Reporting Injuries
 
-## Injuries
-
-If you hurt (or nearly hurt) yourself in the workshop let our volunteers know so we can help. We will also get you to fill out an incident report.
+If you've hurt (or nearly hurt) yourself in the workshop let our volunteers know so we can help. We will also get you to fill out an incident report.
 
 Reporting injuries and near misses helps us change our facilities and processes to prevent future incidents.
 

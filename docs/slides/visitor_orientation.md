@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T15:15:51.180Z
+date: 2024-10-30T15:30:33.428Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -38,7 +38,7 @@ Artifactory attendees come from a diverse variety of backgrounds. That diversity
 
 ## Disagreements {data-background-color="rgb(0, 6, 43)"}
 
-Sometimes disagreements can be frustrating but that is no excuse for poor behavior or poor manners. Disagreement, debate and constructive criticism can help develop ideas but it should never cross into personal attacks.
+Sometimes disagreements can be frustrating but that is no excuse for poor behaviour or poor manners. Disagreement, debate and constructive criticism can help develop ideas but it should never cross into personal attacks.
 
 ## Volunteers {data-background-color="rgb(0, 6, 43)"}
 

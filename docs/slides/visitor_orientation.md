@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:45:54.072Z
+date: 2024-10-30T09:30:19.489Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -240,11 +240,7 @@ artifactory.org.au/events
 
 ## Member Work
 
-Your Member Work directory can be accessed in a few different ways:
-
-* From any computer in the space (Typically mounted as either "filer" or "Member Work")
-* From your device when connected to the wifi. 
-* By sending files to the user File Butler on Slack.
+You can create a folder in our "Member Work" network server (despite the name). It's connectable from all of our workstations.
 
 ## Wiki
 
@@ -253,6 +249,18 @@ Your Member Work directory can be accessed in a few different ways:
 * Meeting minutes
 
 wiki.artifactory.org.au
+
+# 
+
+You're done with the slides, it's almost time to get making! Let our volunteers know you're finished. The next step is for a volunteer to show you:
+
+* Our emergency exits, first aid equipment, AED, and fire exstinguishers
+* The toilets
+* How to get cold water
+* Which fridge can be used for your lunch/dinner
+* The location of the laser scrap and upcycle racks
+* The category labels we use for tools
+* Your event host
 
 # Questions?
 

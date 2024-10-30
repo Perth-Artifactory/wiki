@@ -2,7 +2,7 @@
 title: How to start
 description: So you reckon this Artifactory place sounds kinda cool, here's how we recommend getting started!
 published: true
-date: 2024-10-30T06:58:46.277Z
+date: 2024-10-30T06:59:33.017Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
@@ -78,7 +78,7 @@ And a few things to keep in mind when deciding:
 * We are a community first. You'll get the most out of the space if you treat us as such rather than purely a workshop for hire.
 * It's okay to start as a day pass user and then move over to a membership once you realise we're the right fit for you. 
 
-| [Sign up as a member](https://artifactory.org.au/pricing) | [Sign up as a visitor](https://perart.io/visitor)
+| [Sign up as a member](https://artifactory.org.au/pricing) | [Sign up as a Day Pass user](https://perart.io/visitor)
 | -- |
 
 ## 6. Read the new member/visitor guide

@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T14:50:41.991Z
+date: 2024-10-30T14:52:37.591Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -189,9 +189,13 @@ TODO: Tool QR
 
 Take a look in #training_and_inductions on Slack and put your hand up for an applicable induction slot.
 
+TODO: channel qr
+
 ## How to check your existing training
 
 Search for Training Tracker on Slack
+
+TODO: QR (already in shlink
 
 ## Training refreshers and training expiry
 

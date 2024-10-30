@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:22:51.358Z
+date: 2024-10-30T08:28:15.525Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -28,7 +28,7 @@ Our code of conduct is the guiding document for your actions in the space. You c
 * On our main website: artifactory.org.au
 * In the workshop just through the foyer door
 
-The following slides will go through a condensed version of the code as it applies to you.
+The following blue slides will go through a condensed version of the code as it applies to you.
 
 # Respectful Behaviour {data-background-color="rgb(0, 6, 43)"}
 

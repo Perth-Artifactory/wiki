@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:10:48.712Z
+date: 2024-10-30T08:11:37.802Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -59,7 +59,7 @@ Our workshop is a shared space with an abundance of communal work areas and tool
 * Leave the space cleaner than you found it.
 * Pick up your rubbish.
 * Put away everything you used.
-* Food waste in the skip bin in the carpark
+* Put Food waste in the carpark skip bin.
 * Clean the area you worked in - wipe, sweep, vacuum.
 
 # Safe Use of Tools {data-background-color="rgb(0, 6, 43)"}

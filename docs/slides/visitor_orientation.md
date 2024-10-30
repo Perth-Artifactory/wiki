@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T14:50:22.104Z
+date: 2024-10-30T14:50:41.991Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -214,7 +214,7 @@ For other areas of the space check with a volunteer before you start using suppl
 
 ## 
 
-If you find you are using a lot of a communal supply (superglue, turpentine, masking tape, wood screws...), or you have used up the last of something, you should buy more for the space. The supplies you used were also donated by other members.
+If you find you are using a lot of a communal supply (superglue, turpentine, masking tape, wood screws...), or you have used up the last of something, you should buy more for the space. The supplies you used were also donated by other people in our community.
 
 # Communication
 

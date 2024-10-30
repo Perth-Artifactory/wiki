@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:43:55.206Z
+date: 2024-10-30T08:45:54.072Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -183,7 +183,7 @@ These tools can cause serious injury, are easy to damage, or both. An induction 
 
 ## How to tell which category tools are in
 
-Most of our tools will include a coloured dot indicating their category. A full list of our tools can be found here:
+Most of our tools will include a coloured dot indicating their category. A full list of our tools can also be found here:
 
 TODO: Tool QR
 
@@ -197,15 +197,13 @@ Search for Training Tracker on Slack
 
 ## Training refreshers and training expiry
 
-(Added 2024-08-10)
-
 You may need refresher training if -
 
 * You haven't used a specific tool for 12 months, or
 * The tool changes significantly, or
 * The safe work procedure for the tool has changed.
 
-We'll let you know if you need refresher training.
+We'll typically let you know via TidyHQ if you need refresher training.
 
 # Communal Materials
 
@@ -236,7 +234,7 @@ artifactory.org.au/slack
 
 Upcoming events can be found on our public calendar. You can add this calendar to your phone if you like. (Events link in the navbar of the main site)
 
-https://artifactory.org.au/events
+artifactory.org.au/events
 
 # Tech resources
 

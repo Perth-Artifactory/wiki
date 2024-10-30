@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:07:17.053Z
+date: 2024-10-30T08:07:42.931Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -138,6 +138,8 @@ It's your responsbility to update this information in TidyHQ when it changes.
 * Your full name
 * Your contact information (email and physical address)
 * Your emergency contact information
+
+TidyHQ is the system you used when you signed up as a visitor.
 
 # Reporting
 

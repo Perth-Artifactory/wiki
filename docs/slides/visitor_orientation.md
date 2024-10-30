@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:34:31.196Z
+date: 2024-10-30T08:35:45.306Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -93,7 +93,7 @@ Respect the ownership of tools and materials. Do not remove Artifactory equipmen
 
 # Complaints and Reporting {data-background-color="rgb(0, 6, 43)"}
 
-If you feel that any part of our Code of Conduct have been violated here are the steps to take.
+If you feel that any part of our Code of Conduct have been violated please report it. You can do so through a number of different avenues:
 
 ## Who to contact {data-background-color="rgb(0, 6, 43)"}
 
@@ -101,7 +101,7 @@ If you feel that any part of our Code of Conduct have been violated here are the
 * Email the management committee: committee@artifactory.org.au
 * Email the executive committee (Chair, Deputy Chair, Secretary, Treasurer): exec@artifactory.org.au
 * Slack direct message to a committee member
-* Ask an Artifactory member to report the incident on your behalf
+* Ask an event host or volunteer to help you report the incident
 
 We have processes in place to ensure confidentiality of reported incidents.
 

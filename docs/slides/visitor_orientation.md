@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:07:42.931Z
+date: 2024-10-30T08:10:04.775Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -44,7 +44,7 @@ Sometimes disagreements can be frustrating but that is no excuse for poor behavi
 
 ## Volunteers {data-background-color="rgb(0, 6, 43)"}
 
-Many Artifactory attendees offer training, help and advice to members and visitors. We should be mindful that these people are volunteers and so must be treated with respect and allowed time to work on their own projects if they so wish. The best way to say thank you to our volunteers is by:
+Many Artifactory attendees offer training, help and advice to members and visitors. Please be mindful that these people are volunteers and so must be treated with respect and allowed time to work on their own projects if they so wish. The best way to say thank you to our volunteers is by:
 
 ## {data-background-color="rgb(0, 6, 43)"}
 

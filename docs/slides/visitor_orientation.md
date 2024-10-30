@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T09:46:42.724Z
+date: 2024-10-30T14:50:22.104Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -210,8 +210,6 @@ We'll typically let you know via TidyHQ if you need refresher training.
 * Laser scrap rack - Flat pieces of material of useful size
 * Upcycle rack - Old pieces of equipment that can be taken apart for components
 
-## Check!
-
 For other areas of the space check with a volunteer before you start using supplies. Many supplies belong to individual members.
 
 ## 
@@ -236,7 +234,7 @@ artifactory.org.au/events
 
 # Tech resources
 
-## Member Work
+## Network Storage
 
 You can create a folder in our "Member Work" network server (despite the name). It's connectable from all of our workstations.
 

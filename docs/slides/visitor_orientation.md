@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T08:28:15.525Z
+date: 2024-10-30T08:31:57.326Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -69,7 +69,6 @@ The safety of every member is very important
 ## Work safely {data-background-color="rgb(0, 6, 43)"}
 
 * Most of our equipment and power tools require an induction before they can be used. This is covered in more detail later on.
-* Always follow our established safety procedures.
 * Only use tools you are authorised to use.
 * Follow the safety/operational requirements we set out in tool inductions.
 * Ask for help with tools you're not confident using, even after you've been signed off.

@@ -2,7 +2,7 @@
 title: New Visitors Guide
 description: First time at the space? This page will help you get started
 published: true
-date: 2024-10-15T03:22:03.469Z
+date: 2024-10-30T07:09:38.196Z
 tags: official
 editor: markdown
 dateCreated: 2024-06-10T09:30:37.279Z
@@ -88,8 +88,6 @@ Anything which is left in the space un-labelled will be either treated as [lost 
 
 As a day pass user, your access to the space is limited to the [events on our calendar](https://artifactory.org.au/events).
 
-In some circumstances you may be able to arrange access outside of this with a keyholder but this is rare.
-
 ## Heavy Tool Use                 
 
 * See: [Training](/docs/policies/training)
@@ -135,9 +133,4 @@ Tool usage fees are payable at the end of the day when you use the tool.
 
 ## Tech Resources
 
-* Many devices in the space can be controlled from [here](https://control.artifactory.org.au) while connected to our wifi.
-* The Member Work directory can be accessed in a few different ways:
-  * From any computer in the space (Typically mounted as either "filer" or "Member Work")
-  * By sending files to the user File Butler on Slack.
-  * From your device when connected to the wifi. (You'll need to mount the filer SMB share, ask someone if you don't know how to do this)
-* This wiki is editable by anyone with a Slack account. Sign in at the top.
+* You can create a folder in our "Member Work" network server (despite the name). It's connectable from all of our workstations.

@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T15:31:01.146Z
+date: 2024-11-02T09:02:00.299Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -53,6 +53,8 @@ Our code of conduct is the guiding document for your actions in the space. You c
 * On our main website: artifactory.org.au
 * In the workshop just through the foyer door
 
+The following blue slides will go through a condensed version of the code as it applies to you.
+
 # Respectful Behaviour {data-background-color="rgb(0, 6, 43)"}
 
 Treat one another with respect
@@ -83,7 +85,7 @@ Our workshop is a shared space with an abundance of communal work areas and tool
 * Leave the space cleaner than you found it.
 * Pick up your rubbish.
 * Put away everything you used.
-* Food waste in the skip bin
+* Put food waste in the carpark skip bin.
 * Clean the area you worked in - wipe, sweep, vacuum.
 
 # Safe Use of Tools {data-background-color="rgb(0, 6, 43)"}
@@ -92,10 +94,11 @@ The safety of every member is very important
 
 ## Work safely {data-background-color="rgb(0, 6, 43)"}
 
-Always follow established procedures, adhere to safety signage and wear appropriate protective equipment. Ask for help and training if you are unsure how to use our tools and follow that advice. Consider the risk to others around you and put up barriers, exclusion zones or signage as needed.
-
-* Most of our equipment and power tools require an induction before they can be used. We'll discuss the training and induction process later on.
-* Ensure access areas are kept clean, tools are safe.
+* Most of our equipment and power tools require an induction before they can be used. This is covered in more detail later on.
+* Only use tools you are authorised to use.
+* Follow the safety/operational requirements we set out in tool inductions.
+* Ask for help with tools you're not confident using, even after you've been signed off.
+* Ensure access areas are kept clean and tools are stored safely.
 * Ensure that your clothing is appropriate.
 
 ## Working under the influence {data-background-color="rgb(0, 6, 43)"}
@@ -112,11 +115,7 @@ Report any damage to tools including mistakes you make. It happens, we have all 
 
 ## Respect ownership {data-background-color="rgb(0, 6, 43)"}
 
-Respect the ownership of tools and materials. Do not remove Artifactory equipment from the premises unless you have permission. Ensure you have permission before using another member’s tools or materials.
-
-## Conflicts of interest {data-background-color="rgb(0, 6, 43)"}
-
-Report any conflicts of interest that may be applicable.
+Respect the ownership of tools and materials. Do not remove Artifactory equipment from the premises. Ensure you have permission before using tools or material owned by our members.
 
 # Complaints and Reporting {data-background-color="rgb(0, 6, 43)"}
 
@@ -136,13 +135,8 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 * Talking with the involved people, explaining the issues and building better understanding between attendees
 * Written formal warning for the specific incident
-* Temporary suspension of membership including restricted access to the premises and online platforms
-
-## {data-background-color="rgb(0, 6, 43)"}
-
-* Termination of membership
-* Barring from the Artifactory premises and online platforms
-* Reporting to any relevant authorities
+* Suspension/termination of membership including restricted access to the premises and online platforms
+* Reporting to relevant authorities/regulators
 
 # Finance and Admin
 
@@ -151,6 +145,8 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 Your membership dues are not paid automatically. Our preferred method of payment is via a scheduled bank transfer, on the monthly date of joining. (Bank details are on your memberhip invoices)
 
 ## Paying for tool usage
+
+Some of our tools have usage fees attached. (Covered during the induction for the tools in question)
 
 Please use the bank account rather than the EFTPOS when paying for tool usage. This helps us keep track of how much each tool is used.
 
@@ -161,6 +157,8 @@ It's your responsbility to update this information in TidyHQ when it changes.
 * Your full name
 * Your contact information (email and physical address)
 * Your emergency contact information
+
+TidyHQ is the system where you signed up as a member.
 
 ## Resignation
 
@@ -268,13 +266,23 @@ These tools can cause serious injury, are easy to damage, or both. An induction 
 * 3D Printers
 * Large equipment (Mill, CNC router, laser cutters etc)
 
+## How to tell which category tools are in
+
+Most of our tools will include a coloured dot indicating their category. A full list of our tools can also be found here:
+
+TODO: Tool QR
+
 ## How to get training
 
 Take a look in #training_and_inductions on Slack and put your hand up for an applicable induction slot
 
+TODO: channel qr
+
 ## How to check your existing training
 
 Search for Training Tracker on Slack
+
+TODO: QR (already in shlink
 
 ## Training refreshers and training expiry
 
@@ -330,13 +338,9 @@ You can find us on:
 
 Upcoming events can be found on our public calendar. You can add this calendar to your phone if you like. (Events link in the navbar of the main site)
 
-https://artifactory.org.au/events
+artifactory.org.au/events
 
 # Tech resources
-
-## Sharing pictures
-
-Pictures shared in `#it_photo-stream` on Slack will be saved for our Social Media team. Please share pictures of things you've made in the space.
 
 ## Member Work
 
@@ -347,6 +351,10 @@ Your Member Work directory can be accessed in a few different ways:
 * By sending files to the user File Butler on Slack.
 
 ## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
+
+## Sharing pictures
+
+Pictures shared in `#it_photo-stream` on Slack will be saved for our Social Media team. Please share pictures of things you've made in the space.
 
 ## Wiki
 

@@ -2,11 +2,15 @@
 title: How to start
 description: So you reckon this Artifactory place sounds kinda cool, here's how we recommend getting started!
 published: true
-date: 2024-10-30T07:00:13.983Z
+date: 2024-11-03T13:40:42.032Z
 tags: 
 editor: markdown
 dateCreated: 2024-10-16T09:17:03.380Z
 ---
+
+> This page is a draft and may change!
+{.is-danger}
+
 
 ## 1. Have a think about a project you might like to complete or an area you're interested in
 

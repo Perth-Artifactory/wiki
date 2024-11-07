@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2024-09-30T08:13:36.109Z
+date: 2024-11-07T09:46:56.165Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -135,13 +135,14 @@ The rehearsal room can be used on a casual basis:
 
 ## RFID Keys for Members
 
-Last modified by online motion, documented at committee meeting 2024-10-26.
+Last modified by online motion, documented at committee meeting 2024-11-16.
 
 * All members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
   * Has held their current membership for at least two weeks,
   * Has not acted against the interests of the Association, 
   * Pays a bond appropriate to their membership class,
   * Has no outstanding invoices,
+  * Pays their membership invoices via bank transfer (not card),
   * Is competent to make decisions on who can enter the space, and
   * Has demonstrated an ability to -
     * Work unsupervised,

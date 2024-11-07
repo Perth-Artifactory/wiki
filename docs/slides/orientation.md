@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-11-02T09:02:00.299Z
+date: 2024-11-07T09:48:17.230Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -230,7 +230,7 @@ Members who meet our requirements may apply for a 24/7 electronic key. These app
 * Hold your membership for at least two weeks, (Bare minimum for application to be considered)
 * Don't act against the interests of the Association, (Follow the Code of Conduct)
 * Pay a bond ($135 concession, $225 full)
-* Have no outstanding invoices,
+* Have no outstanding invoices and pay via bank transfer
 
 ##
 

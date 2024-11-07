@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2024-07-31T13:45:29.509Z
+date: 2024-11-07T09:56:39.565Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -40,7 +40,7 @@ Guides to Office Bearer roles:
 
 ## Committee Members
 
-See [2023-2024 Committee](https://wiki.artifactory.org.au/en/docs/committee/2023-2024_committee).
+See [2024-2025_committee](/docs/committee/2024-2025_committee)
 
 ## Officers
 
@@ -57,9 +57,8 @@ See [2023-2024 Committee](https://wiki.artifactory.org.au/en/docs/committee/2023
 See [Events / Workshops](/events/start) for more details. The "#" Denotes run by non-members.
 
 -   Tech
-    -   ADUG - (Coordinators: Richard Harrington, Scott Hollows**\#**)
     -   Arduino U - (Coordinators: Blake, Stewart)
-    -   Open Source Hackers (Coordinators: Stephen Price**\#**, Nick Bannon, Damon Perry)
+    -   Open Source Hackers (Coordinators: Nick Bannon)
 -   Games
     -   ARTIfrag (Coordinator: Fletcher)
     -   Board Games Afternoon (Coordinator: Lewis)
@@ -67,11 +66,11 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
     -   Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft)
 -   Music
     -   DIY Synth (Coordinator: Nathan T, Andrew F**\#** aka WAMod)
-    -   Mostly Modular Synth (Coordinators: Hugh, Jon**\#**)
 -   General
     -   General Hacking Day (Coordinator: Committee)
     -   Open Day (Coordinator: Fletcher)
-    -   Talkshop Wednesday (Coordinator: Committee)
+    -   Talkshop Wednesday (Coordinator: Fletcher, Renae, Lewis)
+    -   Women's Woodworking (Coordinator: Renae, Penny)
 
 ## Records
 

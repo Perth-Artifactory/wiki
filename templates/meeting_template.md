@@ -1,8 +1,8 @@
 ---
-title: "yyyy-mm-dd"
+title: yyyy-mm-dd
 description: 
 published: true
-date: 2024-03-23T12:14:14.869Z
+date: 2024-11-15T12:40:44.036Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -104,26 +104,45 @@ The Treasurer's Disclaimer: The numbers below have been calculated in a quick wa
 >
 > This section requires manual preparation before the meeting.
 >
-> Login to our online banking (NAB) and report on the balance of our 3 main bank accounts.
+> Login to our online banking (NAB) and report on the balance of our 3 main bank accounts as at the end date of the previous month
 {.is-info}
 
-| Account                       | Balance     |
+| Account - as at End of Month                      | Balance     |
 | ----------------------------- | ----------- |
 | Operations                    | $xxx,xxx.xx |
-| Sale Program                  | $xxx,xxx.xx |
-| Sponsored Student Memberships | $xxx,xxx.xx |
+| Sponsored Memberships | $xxx,xxx.xx |
+| Secure Account                 | $xxx,xxx.xx |
 |                               |             |
 | TOTAL                         | $xxx,xxx.xx |
 
-### Expenses for Approval
+### Income/Expenditure
 
-* EXPENSES
+* Insert table from TidyHQ
+
+### Expense Report
+
+| Date       | Cost      | Supplier                      | Item                               | Category                                                     | Authorisation |
+| ---------- | --------- | ----------------------------- | ---------------------------------- | ------------------------------------------------------------ | ------------- |
 
 | Motion Text | Moved by    | Seconded by       | Status            |
 | ----------- | ----------- | ----------------- | ----------------- |
-| MOTION TEXT | MOVER       | SECONDER          | Accepted/Rejected |
+| Accept Expenses as reported above | MOVER       | SECONDER          | Accepted/Rejected |
 
 ### Due invoices
+
+Total Due - 
+Total Overdue -
+
+### Infrasructure Fund
+
+| Total in Fund                              | $x,xxx.xx |
+| ------------------------------------------ | ---------- |
+| Donations Received                         | $xx        |
+| Donation Matching                          | $xx       |
+| ------------------------------------------ | ---------- |
+| Expense                        | - x,xxx.xx |
+
+
 
 ## Membership Report
 

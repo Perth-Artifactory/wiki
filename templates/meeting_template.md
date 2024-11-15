@@ -2,7 +2,7 @@
 title: yyyy-mm-dd
 description: 
 published: true
-date: 2024-11-15T12:40:44.036Z
+date: 2024-11-15T12:41:21.742Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -271,7 +271,7 @@ News and discussions on events.
 * General Hacking Day (Coordinator: Committee) -
 * Open Day (Coordinator: Fletcher) -
 * Metal Monday (Coordinator: Ben) -
-* Wednesday Woodworking (Coordinator: Renae) - 
+* Wednesday Woodworking (Coordinators: Renae/Penny) - 
 * Start Making! Beginner's Day (Coordinator: Fletcher) -
 * Work on the Workshop (Coordinator: Lewis) -
 

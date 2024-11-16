@@ -2,7 +2,7 @@
 title: Laptop Docks
 description: 
 published: true
-date: 2024-11-16T13:22:55.744Z
+date: 2024-11-16T13:23:17.082Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-16T12:03:07.382Z
@@ -27,3 +27,5 @@ The dock does support up to 90W charging over USB-C but will not provide chargin
 
 ### When finished with the dock:
 The screens do not reliably switch back to the PC input. Use the input select button to change the screens back to the original settings for using the PC (left VGA (Analog) and right DVI)
+
+## Dell Dock

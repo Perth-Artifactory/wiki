@@ -2,7 +2,7 @@
 title: Laptop Docks
 description: 
 published: true
-date: 2024-11-16T13:22:03.543Z
+date: 2024-11-16T13:22:55.744Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-16T12:03:07.382Z
@@ -20,10 +20,10 @@ As there is still a PC in place sharing those screens, the dock does not have a 
 
 The dock does support up to 90W charging over USB-C but will not provide charging when using the USB-C to A adaptor on the end of the cable
 
-To use the dock:
+### To use the dock:
 1.	Install DisplayLink software
 2.	Plug laptop into dock
 3.	Set left screen to DVI and right screen to VGA (Analog)
 
-When finished with the dock:
+### When finished with the dock:
 The screens do not reliably switch back to the PC input. Use the input select button to change the screens back to the original settings for using the PC (left VGA (Analog) and right DVI)

@@ -1,5 +1,5 @@
 ---
-title: yyyy-mm-dd
+title: "yyyy-mm-dd"
 description: 
 published: true
 date: 2024-11-15T12:41:21.742Z
@@ -84,6 +84,15 @@ Previous meeting's minutes: [PPPP-PP-PP](/minutes/Committee/PPPP-PP-PP)
 
 * CORRESPONDENCE
 
+### Documents Executed
+
+> **Note to the Secretary (delete after reading)**
+>
+> Record any documents that the Association has executed since the last committee meeting.
+>
+> Note the requirements of s66 of the Constitution regarding who can execute documents on behalf of the Association.
+{.is-info}
+
 ## Incident Reports
 
 * INCIDENTS - note any that are reported and discuss if needed
@@ -107,11 +116,11 @@ The Treasurer's Disclaimer: The numbers below have been calculated in a quick wa
 > Login to our online banking (NAB) and report on the balance of our 3 main bank accounts as at the end date of the previous month
 {.is-info}
 
-| Account - as at End of Month                      | Balance     |
+| Account - as at End of Month  | Balance     |
 | ----------------------------- | ----------- |
 | Operations                    | $xxx,xxx.xx |
-| Sponsored Memberships | $xxx,xxx.xx |
-| Secure Account                 | $xxx,xxx.xx |
+| Sponsored Memberships         | $xxx,xxx.xx |
+| Secure Account                | $xxx,xxx.xx |
 |                               |             |
 | TOTAL                         | $xxx,xxx.xx |
 
@@ -133,14 +142,14 @@ The Treasurer's Disclaimer: The numbers below have been calculated in a quick wa
 Total Due - 
 Total Overdue -
 
-### Infrasructure Fund
+### Infrastructure Fund
 
-| Total in Fund                              | $x,xxx.xx |
-| ------------------------------------------ | ---------- |
-| Donations Received                         | $xx        |
-| Donation Matching                          | $xx       |
-| ------------------------------------------ | ---------- |
-| Expense                        | - x,xxx.xx |
+| Total in Fund                              |  $ xx,xxx.xx |
+| ------------------------------------------ | ------------ |
+| Donations Received                         |  $ xx,xxx.xx |
+| Donation Matching                          |  $ xx,xxx.xx |
+| ------------------------------------------ | ------------ |
+| Expense                                    | -$ xx,xxx.xx |
 
 
 
@@ -148,20 +157,30 @@ Total Overdue -
 
 ### Current Status
 
+> **Note to the secretary (delete after reading)**
+>
+> Populate using information from [Artifactory Reports - Membership Numbers](https://reports.tele.artifactory.org.au/pages/member_count.html).
+{.is-info}
+
+| Class      | This month | Prev month | Diff |
+| ---------- | ---------- | ---------- | ---- |
+| Full       | xxx        | xxx        | +xx  |
+| Concession | xxx        | xxx        | +xx  |
+| Band       | xxx        | xxx        | +xx  |
+| **TOTAL**  | xxx        | xxx        | +xx  |
+
 ### New Memberships for approval
 
 > **Note to the secretary (delete after reading)**
 >
-> This section requires manual preparation before the meeting.
+> Populate using information from [Artifactory Reports - Members awaiting approval](https://reports.tele.artifactory.org.au/pages/awaiting_approval.html).
 >
-> Go through the #committee-bank channel and check for any new memberships that we haven't approved yet.
->
-> Add a motion to the below table for each such member, e.g. "Approve Full Membership for Jane Citizen".
+> After the meeting, go into TidyHQ and mark the members as approved.
 {.is-info}
 
 | Motion Text | Moved by    | Seconded by       | Status            |
 | ----------- | ----------- | ----------------- | ----------------- |
-| MOTION TEXT | MOVER       | SECONDER          | Accepted/Rejected |
+| Accept the membership applications listed above | MOVER       | SECONDER          | Accepted/Rejected |
 
 ## Officer Reports
 
@@ -254,7 +273,7 @@ News and discussions on events.
 
 ### Social
 
-* Talkshop Wednesday (Coordinator: Fletcher, Renae, Phoebe) -
+* Talkshop Wednesday (Coordinator: Fletcher, Renae, Lewis) -
 * Board Game Afternoon (Coordinator: Lewis) - 
 
 ### Cosplay and Craft
@@ -264,7 +283,6 @@ News and discussions on events.
 ### Music
 
 * DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits*) -
-* Noizemaschin!! (Coordinators: Stuart*, Tim*, Skot*, Stewbags*) -
 
 ### General
 
@@ -272,8 +290,6 @@ News and discussions on events.
 * Open Day (Coordinator: Fletcher) -
 * Metal Monday (Coordinator: Ben) -
 * Wednesday Woodworking (Coordinators: Renae/Penny) - 
-* Start Making! Beginner's Day (Coordinator: Fletcher) -
-* Work on the Workshop (Coordinator: Lewis) -
 
 ### Other
 

@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-08-09T13:54:31.059Z
+date: 2024-11-16T11:07:04.826Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -67,7 +67,6 @@ Signed off by: Renae, Fletcher
 | Mask/Respirator (dust)         | M | P2 if material is toxic (MDF etc) |
 
 Pre: 
-1. Tension the blade with the quick tension lever
 1. Check equipment prior to use (Blade sharpness, tension, and tracking)
 1. Ensure work area is clear
 1. Ensure tool is far enough from wall for length of cut/material (so it doens't hit the wall)
@@ -89,7 +88,7 @@ After:
 1. Turn off using red button not estop
 1. Dispose of off cuts (empty bin into skip if 3/4 full)
 1. Vacuuming includes: table, both compartments, tray, floor
-1. Detension blade using quick tension lever
+
 
 ## Drill Press ✔ 
 
@@ -282,6 +281,7 @@ Using:
 1. Turn on saw vacuum
 1. Spin up saw completely before cutting
 1. Cut in one smooth motion, do not push saw hard into material
+1. Release trigger and allow saw blade to spin down before raising from material 
 1. Once saw is in top posiiton ensure guard has locked back into place before moving hands/material
 
 After:

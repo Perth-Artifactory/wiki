@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-08-10T10:08:31.669Z
+date: 2024-11-16T11:56:35.403Z
 tags: official
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -15,7 +15,7 @@ We classify [our tools](/tools) into three levels based on the potential risk to
 * Checking the [full list of tools](/tools), or
 * Looking for coloured dots or labels on the tool itself.
 
-You can check whether you're an authorised operator for specific medium and high risk tools by using the [Training Tracker](https://perart.io/book_training) bot in Slack, or by checking the appropriate **[Authorised Operator List](/docs/reports/machine_operators)**.
+You can check whether you're an authorised operator for specific medium and high risk tools by using the [Training Tracker](https://perart.io/book_training) bot in Slack.
 
 If we notice you using a tool inappropriately, we’ll still ask you to pause your job and help you identify a safer method.
 
@@ -73,3 +73,4 @@ Where an actual or potential conflict of interest exists, the outcome of the tra
 * This policy was endorsed by the committee on [2024-01-20](/minutes/Committee/2024-01-20), taking effect on 2024-01-27.
 * Added a reference to the [full list of tools](/tools).
 * [2024-08-10](/minutes/Committee/2024-08-10) - Added section regarding *Refresher training and training expiry*, *Trainer appointments and training requirements*, and *Conflicts of interest for trainers*.
+* 2024-11-16: Removed reference to "Authorized Operator Lists". These are no longer maintained on the wiki. Training status is now looked up via the Training Tracker bot on Slack.

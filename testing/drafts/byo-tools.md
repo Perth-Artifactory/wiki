@@ -2,7 +2,7 @@
 title: BYO Tools Policy
 description: 
 published: true
-date: 2024-11-16T12:02:53.064Z
+date: 2024-11-16T12:05:09.500Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-16T12:02:53.064Z
@@ -30,7 +30,7 @@ Casual / Day Pass users are not allowed to BYO tools.
 
 * For a member to BYO a Medium Risk 🟡 or High Risk 🔴 tool of a type covered by an [Artifactory tool induction](/docs/policies/training), the member must be an Artifactory authorised operator for that same type of tool.
 * The member must justify why the tool needs to be BYO instead of using the equivalent Artifactory tool.
-  * This justification can be approved by an trainer authorised to train on the relevant tool in question.
+  * This justification can be approved by any trainer who is authorised to train on the equivalent Artifactory tool.
 * Tools that we would classify as a Medium or High Risk tool, but which are **not** covered by an Artifactory tool induction, cannot be used without approval from a member of the [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2).
 * Mains-powered tools must have been tested and tagged within the last 6 months.
 

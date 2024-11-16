@@ -2,7 +2,7 @@
 title: Laptop Docks
 description: 
 published: true
-date: 2024-11-16T12:03:07.382Z
+date: 2024-11-16T12:27:25.581Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-16T12:03:07.382Z
@@ -25,5 +25,4 @@ To use the dock:
 3.	Set left screen to DVI and right screen to VGA (Analog)
 
 When finished with the dock:
-1.	Unplug laptop
-2.	Set left screen to VGA (Analog) and right screen to DVI
+The screens do not reliably switch back to the PC input. Use the input select button to change the screens back to the original settings for using the PC (left VGA (Analog) and right DVI)

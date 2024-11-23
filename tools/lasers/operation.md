@@ -2,7 +2,7 @@
 title: Laser Operation Checklist
 description: How to use our laser cutters (Big Red and Middle Red)
 published: true
-date: 2024-09-19T12:48:24.681Z
+date: 2024-11-23T06:40:58.437Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:21:37.510Z
@@ -22,6 +22,7 @@ dateCreated: 2023-02-11T10:21:37.510Z
   * **Check that the extraction system turned on**. The lasers use a large air extractor that is connected to the internals of the machine. Fumes are pulled out of the machine through slots located inside the cutting bay. Put your hand over these slots and check for slight air movement. Extraction is located:
     * Big Red: At the back of the bed
     * Middle Red: On the front left of the cutting bay underneath the bed
+  * **Check the air assist**. Put your hand under the head to confirm that the air is flowing correctly through the head and not through a hole in the air line.
 * **Set your job up in [LightBurn](/tools/lasers/lightburn)**
 * **Place your material on the bed**
   * **Make sure that your material will fit under the head**. Because the laser bed can move up and down it's possible for the bed to be raised to a point where your material will not fit. To lower the bed press the `Z/U` button to open the menu and hold the **right arrow** until the bed is low enough.
@@ -46,7 +47,6 @@ dateCreated: 2023-02-11T10:21:37.510Z
       * The laser origin point has been changed. The `Job Origin` setting can be used to change the origin back.
  * **Check the temperature on the chiller**. There is a display on the front of the chiller. It is safe to operate when the chiller is displaying 26C or lower. If the temperature is above this limit wait a few minutes and check again.
  * **Familiarise yourself with the location of your fire suppression equipment**. Identify your closest water spray bottle, fire blanket, and fire extinguisher.
- * **Check the air assist**. Put your hand under the head to confirm that the air is flowing correctly through the head and not through a hole in the air line.
  * **Close the lid**
  * **Cut/Engrave your design**. Press `Start-Pause` and your laser job will begin. You must actively supervise the laser cutting for the duration of your job. If need be the laser can be interrupted in several ways:
    * The `Start-Pause` button will pause your job. This is good if you need to walk away from the machine. The job can be resumed by pressing the button again.

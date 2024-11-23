@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-11-12T16:59:55.307Z
+date: 2024-11-23T07:03:52.400Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -142,7 +142,7 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 ## Membership dues
 
-Your membership dues are not paid automatically. Our preferred method of payment is via a scheduled bank transfer, on the monthly date of joining. (Bank details are on your memberhip invoices)
+Your membership dues are not paid automatically. Our preferred method of payment is via a scheduled bank transfer, on the monthly date of joining. (Bank details are on your membership invoices)
 
 ## Paying for tool usage
 
@@ -261,7 +261,7 @@ These tools can easily hurt you, others, or the tool. To use these tools you mus
 
 ## High risk {data-background-color="rgb(120, 8, 2)"}
 
-These tools can cause serious injury, are easy to damage, or both. An induction is required before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere. Only specific people are authorised to train on specific high risk tools.
+These tools can cause serious injury, are easy to damage, or both. An induction is required before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere.
 
 * 3D Printers
 * Large equipment (Mill, CNC router, laser cutters etc)

@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-11-16T11:56:35.403Z
+date: 2024-11-23T06:44:06.938Z
 tags: official
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -39,7 +39,7 @@ You can request training in the [#training-and-inductions](https://slack.com/app
 
 ### Costs
 
-Training on certain high risk tools has an attached cost. Casual attendees who pay for training that is offered to members free of charge will have the training cost refunded if they join as a member within 7 days of completing their training.
+Training on certain high risk tools has an [attached cost](/docs/policies/fees#training-fees). Casual attendees who pay for training that is offered to members free of charge will have the training cost refunded if they join as a member within 7 days of completing their training.
 
 ## Refresher training and training expiry
 

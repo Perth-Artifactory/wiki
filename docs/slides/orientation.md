@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-11-23T07:03:52.400Z
+date: 2024-11-28T06:07:02.024Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -166,21 +166,23 @@ We operate on a month-to-month basis which means there's no penalty for deciding
 
 # Reporting
 
+## Where to report
+
+Most things are reported/requested via a form system built into Slack. Further slides will just list the form name.
+
+![taiga_form.png](/taiga_form.png)
+
 ## Injuries
 
 Reporting injuries and near misses helps us change our facilities and processes to prevent future incidents.
 
-https://perart.io/injuryreport
-
-![](https://perart.io/injuryreport/qr-code)
+Form: Injury/Near Miss Report
 
 ## Workshop cleanliness and tool repair
 
 The workshop only works if people are held accountable for leaving the workshop a mess.
 
-https://perart.io/workshopreport
-
-![](https://perart.io/workshopreport/qr-code)
+Form: Workshop Cleanliness and Tool Damage
 
 # Storage
 
@@ -190,7 +192,7 @@ The what, where, when, and how of leaving things in the space
 
 Members can request a personal storage locker (subject to availability)
 
-Contact storage@artifactory.org.au
+Form: Request a locker
 
 ## Sheet material racks
 
@@ -225,7 +227,9 @@ You may also be able to arrange with a key-holding member to attend the space wi
 
 ## 24/7 Access
 
-Members who meet our requirements may apply for a 24/7 electronic key. These applications should be made to membership@artifactory.org.au. The key requirements are fairly strict but aren't burdensome:
+Members who meet our requirements may apply for a 24/7 electronic key. The key requirements are fairly strict but aren't burdensome:
+
+Form: Apply for a key
 
 * Hold your membership for at least two weeks, (Bare minimum for application to be considered)
 * Don't act against the interests of the Association, (Follow the Code of Conduct)

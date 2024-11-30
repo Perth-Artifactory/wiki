@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-11-28T06:07:02.024Z
+date: 2024-11-30T03:07:57.611Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -170,8 +170,7 @@ We operate on a month-to-month basis which means there's no penalty for deciding
 
 Most things are reported/requested via a form system built into Slack. Further slides will just list the form name.
 
-![taiga_form.png](/taiga_form.png)
-
+![](https://wiki.artifactory.org.au/taiga_form.png)
 ## Injuries
 
 Reporting injuries and near misses helps us change our facilities and processes to prevent future incidents.

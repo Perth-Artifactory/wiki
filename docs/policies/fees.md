@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2024-10-15T03:23:40.920Z
+date: 2024-12-01T11:48:42.977Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -120,12 +120,12 @@ The following tool and equipment training attracts *training fees* to cover the 
 
 | Tool | Training fee - non member |
 | ---- | ---- | ---- |
-| Resin 3D printer | $15 |
-| FDM 3D printer | $15 |
+| Resin 3D printer | Unavailable |
+| FDM 3D printer | Unavailable |
 | Laser Cutter - initial training ("first session") | $15 |
 | Laser Cutter - competency assessment ("second session") | No additional fee |
-| Metal mill (turret mill) | No additional fee |
-| Metal lathe | No additional fee |
+| Metal mill (turret mill) | Unavailable |
+| Metal lathe | Unavailable |
 
 ------------------------------------------------------------------------
 

@@ -2,7 +2,7 @@
 title: 3D Printer Operation Checklist
 description: 
 published: true
-date: 2024-07-22T05:58:28.874Z
+date: 2024-12-04T12:01:24.981Z
 tags: 
 editor: markdown
 dateCreated: 2024-04-26T08:01:22.593Z
@@ -30,7 +30,6 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
 
 ## FDM / Filament
 
-* Determine the best configuration for your print in line with the [5 factors](/tools/3dprinters/factors).
 * Slice your print
 <details>
   <summary>Bambu Labs P1S</summary>

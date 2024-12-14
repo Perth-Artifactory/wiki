@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2024-12-01T11:48:42.977Z
+date: 2024-12-14T08:18:59.685Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -243,7 +243,7 @@ Cost basis
 * Machine run time, as reported on the machine's display after completion of a job.
 
 Member rate
-* \$0.20 / minute, rounded up to the nearest \$1.00
+* \$0.20 / minute, rounded up to the nearest \$2.00
 
 Day Pass rate
 * \$5.00 / 10 min, (\$0.50 / min), rounded up to the nearest \$5.00
@@ -256,6 +256,9 @@ Exclusions
 
 Payment method
 * Bank transfer, referencing "LASER" followed by your surname.
+
+History
+* 2024-12-14: [Minimum fee for members increased from \$1.00 to \$2.00.](https://vote.artifactory.org.au/p/htMr34jb)
 
 ----------------------------------------------------------------
 

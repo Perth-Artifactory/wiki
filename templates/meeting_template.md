@@ -260,6 +260,13 @@ Updates from subcommittees - discussions or requests for action.
 * REPORT ITEM
   * DETAILS
 
+### 3D Printers Subcommittee
+
+* REPORT ITEM
+  * DETAILS
+* REPORT ITEM
+  * DETAILS
+
 ## Event/Workshop Coordinator Reports
 
 News and discussions on events.

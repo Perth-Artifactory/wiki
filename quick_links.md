@@ -2,7 +2,7 @@
 title: Quick Links
 description: Quick links to resources for volunteers
 published: true
-date: 2024-10-15T03:21:03.661Z
+date: 2024-12-21T03:33:09.961Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-08T04:38:31.518Z
@@ -25,5 +25,7 @@ Tool usage fees are payable at the end of the day when you use the tool.
 # Training materials
 
 [New member induction - slide show](https://slides.artifactory.org.au/orientation#/title-slide)
+
+[Visitor Orientation - slide show](https://slides.artifactory.org.au/visitor_orientation#/title-slide)
 
 [Laser training - Big Red - slide show](https://slides.artifactory.org.au/machine_big-red#/title-slide)

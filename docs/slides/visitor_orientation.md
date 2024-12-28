@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-10-30T15:30:33.428Z
+date: 2024-12-28T05:52:03.024Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -254,7 +254,7 @@ wiki.artifactory.org.au
 
 You're done with the slides, it's almost time to get making! Let our volunteers know you're finished. The next step is for a volunteer to show you:
 
-* Our emergency exits, first aid equipment, AED, and fire exstinguishers
+* Our emergency exits, first aid equipment, AED, and fire extinguishers
 * The toilets
 * How to get cold water
 * Which fridge can be used for your lunch/dinner

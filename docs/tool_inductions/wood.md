@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-12-07T08:37:56.925Z
+date: 2024-12-28T05:56:39.968Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -363,3 +363,48 @@ After:
 1. clean up stick residue from conveyor.
 1. Check shopvac and empty if more than 1/4 full. (fine dust, will effect performance and vacuum life more than normal sawdust.
 
+## Thicknesser (Large)
+
+Lead: ???
+Signed off by: ???, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | Chips/dust |
+| Ear protection                 | Y |  |
+| Gloves (general)               | M | User choice |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material weight dependant |
+| Mask/Respirator (dust)         | M | P2 if cutting material that should not be inhaled |
+
+Pre:
+1. 
+
+Using:
+1. 
+
+After:
+1. 
+
+## Thicknesser (Small)
+
+Lead: ???
+Signed off by: ???, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | Chips/dust |
+| Ear protection                 | Y |  |
+| Gloves (general)               | M | User choice |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material weight dependant |
+| Mask/Respirator (dust)         | M | P2 if cutting material that should not be inhaled |
+
+Pre:
+1. 
+
+Using:
+1. 
+
+After:
+1. 

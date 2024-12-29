@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2024-12-29T03:40:48.456Z
+date: 2024-12-29T03:45:50.567Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -74,7 +74,7 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 * Liquids with the ability to cause harm when exposed to skin or eyes
 * Materials that react in a highly exothermic manner when exposed to water (e.g. alkali metals like elemental sodium/potassium)
 * Bromine and other volatile toxic liquids
-* Large quantities of gases (Where the quantity is high enough to adversly affect breathing)
+* Large quantities of gases (Where the quantity is high enough to adversely affect breathing)
 
 ### Mechanical/Gravity
 

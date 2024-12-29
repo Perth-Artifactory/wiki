@@ -1,82 +1,106 @@
 ---
-title: Dangerous projects and tools policy
+title: Dangerous projects policy
 description: 
 published: true
-date: 2024-12-29T02:13:33.575Z
+date: 2024-12-29T03:40:48.456Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
 ---
 
-(This is a draft.)
+> This document is a draft!
+{.is-warning}
 
-| Hazard | Examples |
-| --- | --- |
-| Mechanical | Projectiles<br><br>Rotating equipment<br><br>Stored mechanical energy - springs |
-| Gravity | Suspended loads<br><br>Working at heights |
-| Chemicals | Flammable, combustible, or explosive materials<br><br>Toxins<br><br>Chemical reactions, highly reactive substances |
-| Electricity | “High voltage” (anything exceeding extra-low voltage: “50 V a.c. or 120 V ripple-free d.c.”)<br><br>High current<br><br>Stored electrical energy - capacitors, inductors |
-| Pressure | Pressure vessels<br><br>Liquids or gases under pressure<br><br>Pneumatics, hydraulics |
-| Temperature | Hot works<br><br>Open flames<br><br>High temperature processes (furnaces, ovens…)<br><br>Molten materials<br><br>Cold materials (e.g. liquid nitrogen) |
-| Radiation | Lasers<br><br>Focused or high-intensity light sources<br><br>UV<br><br>Microwaves<br><br>Radioactive materials<br><br>Ionizing radiation |
-| Noise |     |
-| Biological |     |
-
-# Dangerous tools
-
-Some tools at the Artifactory, such as the laser cutters and the mill, are inherently dangerous.
-
-You must be trained, deemed competent, and authorised before you use these tools.
-
-If you are bringing your own tools to the Artifactory, you must assess if the tools could pose a risk to people or property.
-
-# Our priorities
-
-Our priorities are:
-
-|     |     |
-| --- | --- |
-| People | The health and safety of people is our top priority. |
-| Property | Protecting our property and premises. |
-| Community | Protecting our reputation in the community - i.e. our social license to operate. |
-
-*(Editor's note: Usually the acronym would be “HSEC” and would include environment.)*
-
-# Dangerous projects
-
-**Dangerous projects must be approved by the committee.**
+**Dangerous projects must be approved by at least two members of the committee.**
 
 Before you work on a project at the Artifactory, you must assess if your project could:
 
--   Kill, injure, or otherwise impact on the **health and safety of any person**.
--   Damage **property,** **premises, or the environment**.
--   Damage the Artifactory's **reputation in the community**.
+* Kill, injure, or otherwise impact on the **health and safety of any person**.
+* Damage **property**, **premises**, or the **environment**.
+* Damage the Artifactory's **reputation in the community** - i.e. our social license to operate.
 
 You must demonstrate to the committee that:
 
--   You have the appropriate skills, knowledge, and qualifications to both a) safely, and b) legally, work on the project.
--   You have identified hazards, and implemented controls, to achieve an acceptable level of risk.
+* You have the appropriate skills, knowledge, and qualifications to both a) safely, and b) legally, work on the project.
+* You have identified hazards, and implemented controls, to achieve an acceptable level of risk.
 
 The committee may require you to submit a formal risk assessment, in writing, before approving your project.
 
-## Risk management
+## What projects do we consider dangerous?
 
-Training is beyond scope of this policy.
+Danger comes in many forms, a **non-exhaustive** list has been included below to help you gauge and understand what we consider dangerous. If you are unsure whether your project is considered dangerous please reach out via #general on Slack or via [email](mailto:committee@artifactory.org.au).
 
-However some things to consider below.
+### Electrical
 
-### Untrained personnel
+* Voltages over 50V AC or 120V ripple-free DC[^1]
+* Current exceeding 10A
+* Intentional electrical arcing
+* Stored electrical energy (capacitors, inductors) with the potential to discharge into people
+* Welding batteries (e.g. spot welding lithium-ion batteries)
 
-The Artifactory is a shared space
+*Note: Commerical devices are excluded from this category provided that you aren't modifying the device or wiring it yourself.*
 
-### Dangerous things generally
+[^1]: Anything greater than AS3000 extra low voltage
 
-### Electricity - high voltage / high current
+### Pressurised gases/liquids
 
-# Prohibited projects
+* Any system over 20 PSI where fittings are not commercially crimped or vessels are not certified for the expected pressure.
+* Any system over 145 PSI
+
+### Temperature
+
+* Expected temperatures of solids are less than -20°C or greater than 200°C
+* Expected temperatures of liquids are less than -50°C or greater than 100°C
+
+*Note: These limits do not apply to 3D printers*
+
+### Fire
+
+* Flammable gases
+* Open flames
+
+### Radiation
+
+* Lasers greater than Class 3R[^2]
+* Artificial UV light less than 300nm
+* Microwave radiation outside of a properly functioning microwave appliance
+* Radioactive material
+* Ionising radiation
+
+[^2]: [ARPNSA | How is the hazard of a laser rated](https://www.arpansa.gov.au/understanding-radiation/what-is-radiation/non-ionising-radiation/laser#how-is-the-hazard-of-a-laser-rated)
+
+### Chemical
+
+* Liquids with the ability to cause harm when exposed to skin or eyes
+* Materials that react in a highly exothermic manner when exposed to water (e.g. alkali metals like elemental sodium/potassium)
+* Bromine and other volatile toxic liquids
+* Large quantities of gases (Where the quantity is high enough to adversly affect breathing)
+
+### Mechanical/Gravity
+
+* Suspended loads with the potential to fall on people or cause crush injuries
+* Springs with the potential to cause injury
+* Exposed fast moving parts
+* Projectiles
+
+### Noise
+
+* Hazardous noise [^3]
+
+[^3]: [Worksafe | Hazardous noise](https://www.worksafe.wa.gov.au/noise)
+
+### Weapons
+
+* Weapons classed as restricted in Western Australia[^4]
+
+[^4]: [WA Police | Weapons](https://www.wa.gov.au/organisation/western-australia-police-force/weapons)
+
+## Prohibited projects
 
 The following types of projects are absolutely prohibited:
 
--   Weapons
--   Drugs
--   [Fractal burning / Lichtenburg burning](https://www.woodturner.org/Woodturner/Woodturner/Resources/Safety-Materials/Safety-Fractal-Burning-Lichtenburg-Burning.aspx#:~:text=Fractal%20burning%20has%20killed%20and%20could%20kill%20you.&text=The%20American%20Association%20of%20Woodturners,in%20all%20of%20its%20publications.).
+* Weapons classed as prohibited within Western Australia[^4]
+* Drugs
+* Fractal burning / Lichtenburg burning[^5]
+
+[^5]: [American Association of Woodturners | Fractal / Lichtenberg Burning](https://www.woodturner.org/Woodturner/Woodturner/Resources/Safety-Materials/Safety-Fractal-Burning-Lichtenburg-Burning.aspx)

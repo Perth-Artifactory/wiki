@@ -107,6 +107,7 @@ jobs:
         extra_dictionary_limit: 20
         extra_dictionaries:
           cspell:software-terms/dict/softwareTerms.txt
+        only_check_changed_files: 0
 
   comment-push:
     name: Report (Push)

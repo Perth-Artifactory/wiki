@@ -1,0 +1,5 @@
+# URLs
+(?:\b(?:https?|ftp|file)://)[-A-Za-z0-9+&@#/*%?=~_|!:,.;]+[-A-Za-z0-9+&@#/*%=~_|]
+
+# Slack deep links
+slack://[a-zA-Z0-9?&=]+

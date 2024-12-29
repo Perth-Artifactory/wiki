@@ -107,7 +107,6 @@ jobs:
         extra_dictionary_limit: 20
         extra_dictionaries:
           cspell:software-terms/dict/softwareTerms.txt
-          cspell:en_GB/dict/wordsEnGb.txt
 
   comment-push:
     name: Report (Push)
@@ -124,44 +123,3 @@ jobs:
         checkout: true
         spell_check_this: check-spelling/spell-check-this@prerelease
         task: ${{ needs.spelling.outputs.followup }}
-
-  comment-pr:
-    name: Report (PR)
-    # If you workflow isn't running on pull_request*, you can remove this job
-    runs-on: ubuntu-latest
-    needs: spelling
-    permissions:
-      contents: read
-      pull-requests: write
-    if: (success() || failure()) && needs.spelling.outputs.followup && contains(github.event_name, 'pull_request')
-    steps:
-    - name: comment
-      uses: check-spelling/check-spelling@main
-      with:
-        checkout: true
-        spell_check_this: check-spelling/spell-check-this@prerelease
-        task: ${{ needs.spelling.outputs.followup }}
-        experimental_apply_changes_via_bot: 1
-
-  update:
-    name: Update PR
-    permissions:
-      contents: write
-      pull-requests: write
-      actions: read
-    runs-on: ubuntu-latest
-    if: ${{
-        github.event_name == 'issue_comment' &&
-        github.event.issue.pull_request &&
-        contains(github.event.comment.body, '@check-spelling-bot apply')
-      }}
-    concurrency:
-      group: spelling-update-${{ github.event.issue.number }}
-      cancel-in-progress: false
-    steps:
-    - name: apply spelling updates
-      uses: check-spelling/check-spelling@main
-      with:
-        experimental_apply_changes_via_bot: 1
-        checkout: true
-        ssh_key: "${{ secrets.CHECK_SPELLING }}"

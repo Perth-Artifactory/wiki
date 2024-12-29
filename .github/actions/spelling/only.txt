@@ -1,0 +1,2 @@
+# Skip all files that aren't markdown
+*.md

@@ -2,7 +2,7 @@
 title: Infrastructure Subcommittee
 description: 
 published: true
-date: 2024-08-10T10:17:37.421Z
+date: 2024-12-29T17:48:42.694Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:49:03.316Z
@@ -61,7 +61,7 @@ The Infrastructure Subcommittee may request funds from the Management Committee.
 
 The Management Committee authorises the subcommittee to waive tool usage fees when working on projects that are inline with the responsibilities of the subcommittee.
 
-The subcommittee may requisition space within The Artifactory provided that any subcommittee materials do not interfere with scheduled events or the activites of Artifactory Members. This requisition must be upheld at the next meeting of the Management Committee in order to continue. It is the responsibility of the subcommittee chair to notify the Secretary that a requisition has taken place.
+The subcommittee may requisition space within The Artifactory provided that any subcommittee materials do not interfere with scheduled events or the activities of Artifactory Members. This requisition must be upheld at the next meeting of the Management Committee in order to continue. It is the responsibility of the subcommittee chair to notify the Secretary that a requisition has taken place.
 
 ### Tools and Procedures for Communication
 

@@ -14,16 +14,16 @@ dateCreated: 2022-10-17T16:55:35.109Z
 
 ## Specifications
 
--   100,000 count multimeter
--   True-RMS voltage and current, including AC+DC
--   Frequency measurement to 1MHz
--   VDC: Range 0 to 1000V; resolution 1µV to 0.01V
--   VAC: range 0 to 750V; resolution 1µV to 0.01V
--   ADC: range 0 - 10A; resolution 0.1µA to 10mA
--   AAC: range 15µA - 10A; resolution 0.1µA to 10mA (True RMS, AC coupled, 20Hz to 20kHz)
--   Frequency: range 5Hz to 1MHz; resolution 0.01z to 1kHz
--   Resistance 0Ω - 100MΩ; resolution 1mΩ to 100kΩ
--   dB readout (600Ω reference): range -34 ± 60; resolution 0.01 dB to 0.1 dB
+- 100,000 count multimeter
+- True-RMS voltage and current, including AC+DC
+- Frequency measurement to 1MHz
+- VDC: Range 0 to 1000V; resolution 1µV to 0.01V
+- VAC: range 0 to 750V; resolution 1µV to 0.01V
+- ADC: range 0 - 10A; resolution 0.1µA to 10mA
+- AAC: range 15µA - 10A; resolution 0.1µA to 10mA (True RMS, AC coupled, 20Hz to 20kHz)
+- Frequency: range 5Hz to 1MHz; resolution 0.01z to 1kHz
+- Resistance 0Ω - 100MΩ; resolution 1mΩ to 100kΩ
+- dB readout (600Ω reference): range -34 ± 60; resolution 0.01 dB to 0.1 dB
 
 ## Manuals
 

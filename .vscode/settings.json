@@ -1,0 +1,30 @@
+{
+    "cSpell.caseSensitive": true,
+    "cSpell.customDictionaries": {
+        "af-specific": {
+            "name": "af-specific",
+            "path": "${workspaceRoot}/.github/actions/spelling/allow/af-specific.txt",
+            "description": "Words specific to the Artifactory/Perth",
+            "addWords": true
+        },
+        "names": {
+            "name": "names",
+            "path": "${workspaceRoot}/.github/actions/spelling/allow/names.txt",
+            "description": "Names of people",
+            "addWords": true
+        },
+        "unknown-but-okay": {
+            "name": "unknown-but-okay",
+            "path": "${workspaceRoot}/.github/actions/spelling/allow/unknown.txt",
+            "description": "Unknown words that can't be changed for some reason",
+            "addWords": true
+        },
+    },
+    "cSpell.enabledFileTypes": {
+        "md": true,
+        "*": false
+    },
+    "cSpell.dictionaries": [
+        "lorem-ipsum"
+    ]
+}

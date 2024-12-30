@@ -44,7 +44,7 @@ Please email Sam if you want to perform a musical work (sam AT samgillies DOT co
 
 Every 3 months the Artifactory kindly allows a panel-selected Audio Artist 3 months membership, with guaranteed NM performance slots. The Artist is to build whacky things or engage with the Artifactory in some way, and demonstrate their inventions at NoizeMaschin.
 
--   [Chistopher de Groot](/User/Chistopher.de.Groot) - February / March 2012
+-   [Christopher de Groot](/User/Christopher.de.Groot) - February / March 2012
 -   [Nathan Thompson](/User/Nathan.Thompson) - April / May / June 2012
 -   Mace Francis - September / October / December 2012
 -   Jared “Thaddaeus The Exile” - January / February / March 2013
@@ -85,15 +85,15 @@ Line up:
 
 Jiah: The Table Guy feat. Adam Brown - A special performance of this compelling performance art set in a longer-than-usual NM slot! See a table created in real time and hear the sounds of this creation put to compelling musical use!
 
-Chris Arnold: The Mystery Producer - Yet more sound poetry from a Noizemaschin favourite!
+Chris Arnold: The Mystery Producer - Yet more sound poetry from a NoizeMaschin favourite!
 
 Stuart James - Laptop experimenter plays with the boundary of noise and ambient sound
 
-Henry Anderson - Plays his Noizemaschin!! \#9 set at Noizemaschin!! \#10, we all pretend like we don't notice...
+Henry Anderson - Plays his NoizeMaschin!! \#9 set at NoizeMaschin!! \#10, we all pretend like we don't notice...
 
 Jack Moriarty - Test driving the latest experiments in sound-object-based music. If symptoms persist see your doctor.
 
-I.n0jaQ - Noizemaschin!! artist in residence makes compelling sound for your listening pleasure!
+I.n0jaQ - NoizeMaschin!! artist in residence makes compelling sound for your listening pleasure!
 
 Cycle\~ 440 - Piano and laptop duo make sweet melodious noise for your ears
 
@@ -127,7 +127,7 @@ Prev NM#8: <http://www.facebook.com/events/315783448442496/> Next NM#10: <http:/
 
 #### NM8
 
-Free of gimmicks, the February edition of Noizemaschin!! offers up plenty of sustenance for the noise junky and casual surveyor of experimentalism alike!
+Free of gimmicks, the February edition of NoizeMaschin!! offers up plenty of sustenance for the noise junky and casual surveyor of experimentalism alike!
 
 \$10 entry as rent for the not-for-profit space.
 
@@ -251,7 +251,7 @@ Round 4. Ding ding. NoizeMaschin!! continues its war against organised audio and
 
 Lineup:
 
-Michael Terren - Perth indie royalty returns to perform another mind-melting Noizemaschin!! set.
+Michael Terren - Perth indie royalty returns to perform another mind-melting NoizeMaschin!! set.
 
 Mitchell Mollison - Fresh from supporting Candied Limbs, Mitchell Mollison creates some joyous experimental sounds for your ears.
 
@@ -259,7 +259,7 @@ Sam Gillies - Presents another laptop solo creation comprised of scraps of raw d
 
 Stuart James - Decibel laptop virtuoso creates extreme sounds for an extreme concert.
 
-Stew Bags - Unleashes his first Noizemaschin!! set.
+Stew Bags - Unleashes his first NoizeMaschin!! set.
 
 Kucka - A performance of delicate ambient sounds, industrial glitches and captivating vocal layering structured with heavy bass and erratic beats.
 
@@ -323,7 +323,7 @@ Brown - Brown perform a set of improvised, droney, noisy sound, featuring home m
 
 Ben Hamblin - Electro-acoustic noise from one of Perth's classical refugee's...
 
-Nik Payne - Following from his Hmmm Dpt outing last Noizemaschin, Nik Payne, the caped crusader, unleashes a 4-track droning noise soundscape assault on the patrons of the Artifactory.
+Nik Payne - Following from his Hmmm Dpt outing last NoizeMaschin, Nik Payne, the caped crusader, unleashes a 4-track droning noise soundscape assault on the patrons of the Artifactory.
 
 Stuart James - Decibel instrumentalist and laptop performer adds yet another performance to his busy schedule!
 

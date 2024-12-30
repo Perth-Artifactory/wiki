@@ -8,8 +8,8 @@ editor: markdown
 dateCreated: 2024-10-12T09:08:23.214Z
 ---
 
-open bambu
-bambu - new project
+Open Bambu Studio
+Bambu - new project
 new project will have blank settings.
 
 dropdown list of machines.
@@ -48,7 +48,7 @@ Layer heights, strength, normal, draft.
 Explain various adjustment settings.
 * Layer height - 0.2 initial, adjust subsequent layer heights as wanted. No less than 0.10mm (risk of clogging). 0.12mm generally minimum recommended. Printing at less than 0.10mm will result in loss of printing privileges.
 * Line width - don't adjust.
-* Wall loops - afffects strength - by experimentation and experience.
+* Wall loops - affects strength - by experimentation and experience.
 * Infill - affects strength - by experimentation and experience.
 * Top and bottom shells - leave at default.
 
@@ -57,7 +57,7 @@ Support.
 * Overhang angles, bridge distances.
 * Part orientation.
   * Lay on face
-* Demo use axlotl.
+* Demo use axolotl.
   * Auto support.
   * Manual painted support. Left to paint support enforcement, right to paint support blocker.
 
@@ -90,6 +90,6 @@ Explain filament tiers.
 Explain payment process.
 Emphasise bank transfer, no EFTPOS.
 
-Nozzles - 0.4 only. Changeout only by authorisation.
+Nozzles - 0.4 only. Change out only by authorisation.
 
 Emphasise whiteboard tasks.

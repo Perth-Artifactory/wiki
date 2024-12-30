@@ -48,6 +48,6 @@ This is the shared online workspace for all members of the [Perth Artifactory](h
 -   [Committee](/committee/) - The committee runs the Artifactory on behalf of the members. Minutes, issues, members - all here.
 -   [Subcommittee Zone](/subcommittee/) - Various subcommittees exist to improve our infrastructure, run events, etc. More info on all that here.
 -   [Constitution](Constitution)
--   [By-laws](/committee/committeerulings#by-laws/) - Committee ruling that supplement the consitution
+-   [By-laws](/committee/committeerulings#by-laws/) - Committee ruling that supplement the constitution
 -   [Branding](/branding/) - Artifactory desktops, logos, shirts etc etc
 -   [Annual Reports](Annual Reports) - Reports presented at the AGM each year.

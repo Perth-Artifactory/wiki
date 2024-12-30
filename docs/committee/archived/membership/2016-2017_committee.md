@@ -52,7 +52,7 @@ Other appointed roles:
       *EVENT COORDINATORS (9/7/16)
         *Open Day: 
         *Arduino: 
-        *Noizemaschin!!:
+        *NoizeMaschin!!:
         *ADUG:
         *DIY Synth:
     * Band Room Coordinator:

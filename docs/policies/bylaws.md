@@ -283,8 +283,8 @@ Funding proposals should include the following:
 PEOPLE
 
 * **Project Lead**: Member who is undertaking or co-ordinating the project works.
-* **Committee Correspondant**: Committee Member tasked with ensuring the committee is updated at regular meetings (This may be the same Member as Project Lead).
-* **Specialist Correspondant**: The Committee may appoint another member who is known to have skills within the area of the project to verify viability if the committee cannot determine this within their own skillset
+* **Committee Correspondent**: Committee Member tasked with ensuring the committee is updated at regular meetings (This may be the same Member as Project Lead).
+* **Specialist Correspondent**: The Committee may appoint another member who is known to have skills within the area of the project to verify viability if the committee cannot determine this within their own skillset
 
 OVERVIEW
 
@@ -293,5 +293,5 @@ OVERVIEW
 * **Scope of Work**: Details on what work will be done and what impact that will have on the Artifactory. (Should include expected disruptions to normal Artifactory operations)
 * **Timeframe to completion**: Include expected completion date and/or milestones
 * **Deliverables**: Completed project as defined by the scope of works
-  * Sufficient documentation to allow a competant member to administor the system
+  * Sufficient documentation to allow a competent member to administer the system
   * Suitable documentation and training to allow another skilled member to maintain the system in the event that Project Lead ceases to be a member

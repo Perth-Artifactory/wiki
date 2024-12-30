@@ -13,6 +13,12 @@
             "description": "Names of people",
             "addWords": true
         },
+        "unknown-but-okay": {
+            "name": "unknown-but-okay",
+            "path": "${workspaceRoot}/.github/actions/spelling/allow/unknown.txt",
+            "description": "Unknown words that can't be changed for some reason",
+            "addWords": true
+        },
     },
     "cSpell.enabledFileTypes": {
         "md": true,

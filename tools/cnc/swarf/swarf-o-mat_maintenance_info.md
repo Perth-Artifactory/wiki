@@ -189,5 +189,5 @@ Swarfomat uses a 1.5kW water-cooled spindle controlled by a Huanyang HY01D523B<e
 
 ### Cooling
 
-The spindle is cooled by a xxxxxx chiller. The chiller must be running whenever the spindle is running.  
+The spindle is cooled by an industrial chiller. The chiller must be running whenever the spindle is running.  
 A future project will provide an enable signal from the chiller to prevent the spindle from being started when the chiller is off.

@@ -12,7 +12,7 @@ dateCreated: 2023-03-01T15:54:50.097Z
 
 Some of the devices around the workshop have migrated to an electronic control system. While a manual override is possible the intention is that attendees utilise Artifactory workstations, the foyer kiosk, or their personal devices to control things. In many cases the devices are automated and don't need to be interacted with.
 
-You can access the [control panel](https://control.artifactory.org.au) when connected to the wifi or from the kiosk in the foyer. (It's a Home Assistant instance)
+You can access the [control panel](https://control.artifactory.org.au) when connected to the WiFi or from the kiosk in the foyer. (It's a Home Assistant instance)
 
 ## Areas
 

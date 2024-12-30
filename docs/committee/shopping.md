@@ -59,7 +59,7 @@ Salvage (Steel, Wood, Building Materials):
 Resins, Silicones, Moulding Supplies:
 
 -   <https://www.kirkside.com.au/> - Osborne Park
--   Whitworths Marine & Leisure - 33 Oxford Close, Leederville WA 6007 - Fibreglas and Epoxy, stainless and marine hardware
+-   Whitworths Marine & Leisure - 33 Oxford Close, Leederville WA 6007 - Fibreglass and Epoxy, stainless and marine hardware
 
 Costumes:
 

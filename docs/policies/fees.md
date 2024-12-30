@@ -72,7 +72,7 @@ Exclusions:
 * Use of the rehearsal room.
 
 Payment method:
-* EFTPOS machine at the bar - self service. (Write your name on the back of the reciept.)
+* EFTPOS machine at the bar - self service. (Write your name on the back of the receipt.)
 
 Note: The Day Pass rate is reviewed during each Annual General Meeting.
 - The Day Pass rate was set to \$15 at the AGM held on [2021-09-18](/minutes/AGM/2021-09-18).

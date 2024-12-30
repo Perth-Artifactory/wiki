@@ -192,7 +192,7 @@ Pre:
 2. Wear appropriate PPE.
 
 Using:
-1. Maintain a consistant distance and angle to work.
+1. Maintain a consistent distance and angle to work.
 2. Protect areas not intended for blasting.
 
 After:

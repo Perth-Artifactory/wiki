@@ -25,7 +25,7 @@ The machine works by running a motor that rotates and drops cans from the machin
 
 The plan is to have the machine dispense drinks based on member's RFID or NFC tags. The machine will connect to the member info database to check their preferred drink, authorise dispensing, and notify when something is dispensed. 
 
-All the dispensing needs to happen on the machine, rather than controlled remotely over wifi as that wouldn't be reliable enough.
+All the dispensing needs to happen on the machine, rather than controlled remotely over WiFi as that wouldn't be reliable enough.
 
 High-level there's a number of subcomponents connected to a microcontroller. The plan is to use an ESP32, plus connect things via i2c.
 

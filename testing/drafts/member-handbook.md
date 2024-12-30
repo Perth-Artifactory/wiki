@@ -152,12 +152,12 @@ Tool usage fees are payable at the end of the day when you use the tool.
 
 ## Tech Resources
 
-* Many devices in the space can be controlled from [here](https://control.artifactory.org.au) while connected to our wifi.
+* Many devices in the space can be controlled from [here](https://control.artifactory.org.au) while connected to our WiFi.
 * The Member Work directory can be accessed in a few different ways:
   * From any computer in the space (Typically mounted as either "filer" or "Member Work")
   * By sending files to the user File Butler on Slack.
-  * From your device when connected to the wifi. (You'll need to mount the filer SMB share, ask someone if you don't know how to do this)
+  * From your device when connected to the WiFi. (You'll need to mount the filer SMB share, ask someone if you don't know how to do this)
   * From your device regardless of where you're connected via our Nextcloud instance. You can request access [here](https://cloud.artifactory.org.au/apps/forms/CRDidNysNjBwbwKN)
-* The label printer can be accessed from [this page](https://i.perart.io/label) when connected to the wifi.
+* The label printer can be accessed from [this page](https://i.perart.io/label) when connected to the WiFi.
 * You can ask to be shown on the [webcam feed](https://space.artifactory.org.au/) by filling out [this form](https://cloud.artifactory.org.au/apps/forms/CSNEkreDRn9GNgw3) or asking Fletcher in person.
 * This wiki is editable by anyone with a Slack account. Sign in at the top.

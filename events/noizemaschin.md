@@ -21,53 +21,47 @@ Our format is designed to give many performers exposure and maximise variety for
 
 Organisers:
 
--   General: [SKoT McDonald](/User/SKoT) (Artifactory & FXpansion)
--   Music curator is Sam Gillies (WAAPA & RTR-FM Difficult Listening).
+- General: [SKoT McDonald](/User/SKoT) (Artifactory & FXpansion)
+- Music curator is Sam Gillies (WAAPA & RTR-FM Difficult Listening).
 
-Please email Sam if you want to perform a musical work (sam AT samgillies DOT com), otherwise write to skot AT vellocet DOT com or info@artifactory.org.au.
+Please email Sam if you want to perform a musical work (`Sam - email removed`), otherwise write to `SKoT - email removed` or `Artifactory - email removed`.
 
--   2011
-    -   NoizeMaschin!!#1 - 19:30pm Tuesday 19th July 2011 [FB](http://www.facebook.com/events/134692066610462/)
-    -   NoizeMaschin!!#2 - 19:30pm Tuesday 23rd August 2011 [FB](http://www.facebook.com/events/182185155176045/)
-    -   NoizeMaschin!!#3 - 22:00pm Thursday 15th September 2011 [FB](http://www.facebook.com/events/123129467781604/)
-    -   NoizeMaschin!!#4 - 19:30pm Tuesday 11th October 2011 [FB](http://www.facebook.com/event.php?eid=188735584526022)
-    -   NoizeMaschin!!#5 - 19:30pm Tuesday 22nd November 2011 [FB](http://www.facebook.com/events/126221407475868/)
-    -   NoizeMaschin!!#6 - 19:30pm Tuesday 20th December 2011 [FB](http://www.facebook.com/events/259131404122898/)
--   2012
-    -   NoizeMaschin!!#7 - 19:30pm Tuesday 17th January 2012 [FB](http://www.facebook.com/events/110041745779455/)
-    -   NoizeMaschin!!#8 - 19:30pm Tuesday 28th February 2012 [FB](http://www.facebook.com/events/315783448442496/)
-    -   NoizeMaschin!!#9 - 19:30pm Tuesday 27th March 2012 [FB](http://www.facebook.com/events/344456662237952/)
-    -   NoizeMaschin!!#10 - 19:30pm Tuesday 19th April 2012 [FB](http://www.facebook.com/events/244662988956736/)
-    -   NoizeMaschin!!#11 - 19:30pm Tuesday 22nd May 2012 [FB](http://www.facebook.com/events/264515586969136/)
+- 2011
+  - NoizeMaschin!!#1 - 19:30pm Tuesday 19th July 2011 [FB](http://www.facebook.com/events/134692066610462/)
+  - NoizeMaschin!!#2 - 19:30pm Tuesday 23rd August 2011 [FB](http://www.facebook.com/events/182185155176045/)
+  - NoizeMaschin!!#3 - 22:00pm Thursday 15th September 2011 [FB](http://www.facebook.com/events/123129467781604/)
+  - NoizeMaschin!!#4 - 19:30pm Tuesday 11th October 2011 [FB](http://www.facebook.com/event.php?eid=188735584526022)
+  - NoizeMaschin!!#5 - 19:30pm Tuesday 22nd November 2011 [FB](http://www.facebook.com/events/126221407475868/)
+  - NoizeMaschin!!#6 - 19:30pm Tuesday 20th December 2011 [FB](http://www.facebook.com/events/259131404122898/)
+- 2012
+  - NoizeMaschin!!#7 - 19:30pm Tuesday 17th January 2012 [FB](http://www.facebook.com/events/110041745779455/)
+  - NoizeMaschin!!#8 - 19:30pm Tuesday 28th February 2012 [FB](http://www.facebook.com/events/315783448442496/)
+  - NoizeMaschin!!#9 - 19:30pm Tuesday 27th March 2012 [FB](http://www.facebook.com/events/344456662237952/)
+  - NoizeMaschin!!#10 - 19:30pm Tuesday 19th April 2012 [FB](http://www.facebook.com/events/244662988956736/)
+  - NoizeMaschin!!#11 - 19:30pm Tuesday 22nd May 2012 [FB](http://www.facebook.com/events/264515586969136/)
 
 ### Resident Artists
 
 Every 3 months the Artifactory kindly allows a panel-selected Audio Artist 3 months membership, with guaranteed NM performance slots. The Artist is to build whacky things or engage with the Artifactory in some way, and demonstrate their inventions at NoizeMaschin.
 
--   [Christopher de Groot](/User/Christopher.de.Groot) - February / March 2012
--   [Nathan Thompson](/User/Nathan.Thompson) - April / May / June 2012
--   Mace Francis - September / October / December 2012
--   Jared “Thaddaeus The Exile” - January / February / March 2013
--   D-JEONG - August / September / October 2013
--   The Intensoband - November / December / January 2014
--   Vanessa Mazza - March / April / July 2014
-
-```{=html}
-<!-- -->
-```
-    * 
-    * Jean-Michel Maujean - February / March / ***** 2015
-    * Jean-Paul Bertino-Clarke with Pablo Mathilda support APRIL ******TBC
-    * 
-    * Claude Woodward - Winter 2017
-    * sami blue bird - Spring 2017
-    * Justin Barwick - Summer 2017-18
-    * Eduardo Cossio - Autumn 2018
-    * Rodrigo Kendrick - Winter 2018
-    * Gabbi Fusco - Spring 2018
-    * Gracie Smith - Summer 18/19
-    * Furchick - Autumn 2019
-    * none - Winter 2019
+- [Christopher de Groot](/User/Christopher.de.Groot) - February / March 2012
+- [Nathan Thompson](/User/Nathan.Thompson) - April / May / June 2012
+- Mace Francis - September / October / December 2012
+- Jared “Thaddaeus The Exile” - January / February / March 2013
+- D-JEONG - August / September / October 2013
+- The Intensoband - November / December / January 2014
+- Vanessa Mazza - March / April / July 2014
+- Jean-Michel Maujean - February / March / ***** 2015
+- Jean-Paul Bertino-Clarke with Pablo Mathilda support APRIL ******TBC
+- Claude Woodward - Winter 2017
+- Sami blue bird - Spring 2017
+- Justin Barwick - Summer 2017-18
+- Eduardo Cossio - Autumn 2018
+- Rodrigo Kendrick - Winter 2018
+- Gabbi Fusco - Spring 2018
+- Gracie Smith - Summer 18/19
+- Furchick - Autumn 2019
+- none - Winter 2019
 
 ### Archives
 
@@ -111,11 +105,11 @@ Quickquickquick feat. Mark Kaminski - Improvised musical goodness from a duo uti
 
 Ourobonic Plague - Member of Hip-Hop collective The Community brings combines elements of southern rap, drone, and various aspects of electronic music, into some kind of semi-cohesive noise-beat piece
 
-Trilby Temperley and Samanta Ray - Dubbed out duophonic experiments in voice and theremin
+Trilby Temperley and Samantha Ray - Dubbed out duophonic experiments in voice and theremin
 
 Henry Andersen - Indie dreamboat and critical observer of musical subcultures takes to the stage
 
-K Wilson - The multi-instrumentalist explores his interest in ambient, minimal textures and improvisation ahead of his album release on the Twiceremoved Records label
+K Wilson - The multi-instrumentalist explores his interest in ambient, minimal textures and improvisation ahead of his album release on the Twice Removed Records label
 
 Stewbags - Brings some Max/MSP granular love to the gathered masses...
 
@@ -143,7 +137,7 @@ Malcolm Riddoch - Electro-acoustic feedback makes a welcome return in the sound-
 
 Leafy Suburbs - Another of Lyndon Blue's many aliases, this one promises to be a little bit louder than his previous incarnations.
 
-Christopher de Groot - Rejoins the Artifactory family in a solo capacity with a new-found focus into preparted vinyl and turntablism.
+Christopher de Groot - Rejoins the Artifactory family in a solo capacity with a new-found focus into pre-parted vinyl and turntablism.
 
 Sam Gillies - He might finally be leaving the ambient focus of last last year, which can only mean more aggressive sounds from a laptop set!
 
@@ -187,7 +181,7 @@ The perfect antidote to the sweetness of Xmas, NoizeMaschin!! gets all festive a
 
 \$10 entry. Bar d'Factory drinks & earplugs available.
 
-We have performers threatening to send seasonal tunes thru the distortion matrix, chainsaw tunes with santa hats, and much much more!
+We have performers threatening to send seasonal tunes thru the distortion matrix, chainsaw tunes with Santa hats, and much much more!
 
 More Info: <http://noizemaschin.artifactory.org.au/>
 
@@ -209,7 +203,7 @@ Sam Gillies - Reinterprets Reich with a special phasing examination of popular y
 
 Dr Vellocet versus Dean Martin and his Holiday Ultra Lounge - Says it all.
 
-ALSO: Check out The Artifactory Bandcamp! Containing free downloads of the previous NoizeNaschin!! evenings! <http://theartifactory.bandcamp.com/>
+ALSO: Check out The Artifactory Bandcamp! Containing free downloads of the previous NoizeMaschin!! evenings! <http://theartifactory.bandcamp.com/>
 
 Prev: NM!!#5 <http://www.facebook.com/event.php?eid=126221407475868> Next: NM!!#7 <https://www.facebook.com/events/110041745779455/>
 
@@ -267,13 +261,13 @@ Andrew Nonlinear Circuits - Local analogue synth guru makes some noises with ext
 
 The Aural Pleasurings of Doctor Vellocet and his Beatz of Destruction - As described, Doctor Vellocet offers up the latest creations from his mad scientist beat laboratory.
 
-This month's Noisemaschin is earlier in the month to allow students some gig-free lead up time to exams.
+This month's NoizeMaschin is earlier in the month to allow students some gig-free lead up time to exams.
 
 #### NM3
 
 <http://noizemaschin.artifactory.org.au/> Previous Event (NM#2): <http://www.facebook.com/event.php?eid=182185155176045> Next Event (NM#4): <https://www.facebook.com/event.php?eid=188735584526022>
 
-In a special TURA supported event, NoizeMaschin!! \#3 is offically part of the Totally Huge New Music Festival! Another round of audio mayhem featuring Australian practitioners of all things noisey is set to hit the warehouse climes of The Artifactory, featuring visiting artist Anthony Pateras!
+In a special TURA supported event, NoizeMaschin!! \#3 is officially part of the Totally Huge New Music Festival! Another round of audio mayhem featuring Australian practitioners of all things noise-y is set to hit the warehouse climes of The Artifactory, featuring visiting artist Anthony Pateras!
 
 Format: 6-8 performers, each allowed 5-10 minute sets, with overlap / jam sessions interspersed.
 
@@ -319,7 +313,7 @@ Last Tape - Sam Gillies (Bass Guitar) Hayley-Jane Ayres (Violin) and Oliver Kell
 
 Mitchell Mollison - Returns to the 'Maschin' with something completely different...
 
-Brown - Brown perform a set of improvised, droney, noisy sound, featuring home made instruments, bent toys, analog synths, recycled/rubbish instruments, horns, drums and audio loops.
+Brown - Brown perform a set of improvised, drone-y, noisy sound, featuring home made instruments, bent toys, analog synths, recycled/rubbish instruments, horns, drums and audio loops.
 
 Ben Hamblin - Electro-acoustic noise from one of Perth's classical refugee's...
 
@@ -327,7 +321,7 @@ Nik Payne - Following from his Hmmm Dpt outing last NoizeMaschin, Nik Payne, the
 
 Stuart James - Decibel instrumentalist and laptop performer adds yet another performance to his busy schedule!
 
-Video Whackiness provided by Andrew Nonlinearcircuit's Video Synthesizer (<http://youtu.be/GeHzg8Iwc7g>), and Vector Laser show by Wayne Osborn!
+Video whackiness provided by Andrew Nonlinearcircuit's Video Synthesizer (<http://youtu.be/GeHzg8Iwc7g>), and Vector Laser show by Wayne Osborn!
 
 #### NM1
 
@@ -357,7 +351,7 @@ Michael Terren - The figurehead of the Perth indie culture shakes his image and 
 
 Salamander - Fusing laptop electronics with analogue fx processing and live instrumentation (Tibetan singing bowls, trumpet), Salamander will be digging their teeth into a host of new soundworlds, with drums set to 500bpm.
 
-Henry Anderson - Former Dyonysis frontman-come-laptop fanatic, intellectual heavy-weight and sexual prodigy does a set so inconceivably cool, it will be perceived as noise to all but the greatest connoisseurs.
+Henry Anderson - Former Dyonysis front-man-come-laptop fanatic, intellectual heavy-weight and sexual prodigy does a set so inconceivably cool, it will be perceived as noise to all but the greatest connoisseurs.
 
 I.n0jaQ - I.n0jaQ will be dusting off 1950s tube radios, 60s tape reverbs, 70s preset rhythm boxes, 80s educational machines and 90s found electronics. The unmistakable warm tone of last century's analogue circuitry intensely over-driven to timeless noise brutality levels.
 

@@ -83,7 +83,7 @@ dateCreated: 2022-10-17T16:51:10.382Z
   * Do you need a float for tickets and bar? Organize!
   * Make sure Artifactory sign is switched on, and any roadside signs are put out.
   * If running an door-entry-fee-desk, make sure you have a cash float, ink & stamps, and someone sitting with all the above all the time.
-  * Check that there are clear and obvious fire escape paths through the furniture. You may want to have teh main roller door unlocked (but still down) just in case.
+  * Check that there are clear and obvious fire escape paths through the furniture. You may want to have the main roller door unlocked (but still down) just in case.
   * Do you have all equipment you need? Check one last time!!
 
 

@@ -29,7 +29,7 @@ EEPROMs are chips that can store data even when they have no power. Your Arduino
 ```{=html}
 <!-- -->
 ```
--    Examples on Arduino (if you have teh IDE installed, these will be in your Files \| Examples \| EEPROM menu)
+-    Examples on Arduino (if you have the IDE installed, these will be in your Files \| Examples \| EEPROM menu)
     -   Clearing an EEPROM: <http://arduino.cc/en/Tutorial/EEPROMClear>
     -   Reading from you EEPROM: <http://arduino.cc/en/Tutorial/EEPROMRead>
     -   Writing to your EEPROM: <http://arduino.cc/en/Tutorial/EEPROMWrite>

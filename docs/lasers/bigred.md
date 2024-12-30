@@ -22,7 +22,7 @@ Details on this page have been moved from the primary [Big Red](/tools/lasers/bi
 | Laser type                 | CO2 10.6μm laser  |
 | Laser tube                 | SPT-TR130 (130W)  |
 | Laser tube working current | 25 - 30mA         |
-| Lens                       | China PVD Znse Lens 20mm / 63.5 (2.5 inch) ([cloudray](https://www.cloudraylaser.com/products/china-pvd-znse-focusing-lens-for-co2-laser?variant=43422450184)) 
+| Lens                       | China PVD Znse Lens 20mm / 63.5 (2.5 inch) ([Cloudray](https://www.cloudraylaser.com/products/china-pvd-znse-focusing-lens-for-co2-laser?variant=43422450184)) 
 
 ## Computer
 

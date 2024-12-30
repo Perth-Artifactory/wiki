@@ -9,7 +9,7 @@ dateCreated: 2024-11-07T10:23:57.605Z
 ---
 
 ## Systems
-The physical computer exluding peripherals
+The physical computer excluding peripherals
 
 * Model: N/A if not prebuilt
 * CPU: Includes socket, cores, speed

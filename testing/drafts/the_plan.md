@@ -43,7 +43,7 @@ Our first visit guide has some great information on when your first visit should
 
 ## 3. Read our Code of Conduct
 
-Our code of conduct lets you know how we expect you to behave in our community and gives you an idea of how you can expect to be treated. We do not tolerate bullying, harrassment, or discrimination in any form.
+Our code of conduct lets you know how we expect you to behave in our community and gives you an idea of how you can expect to be treated. We do not tolerate bullying, harassment, or discrimination in any form.
 
 | [Read our Code of Conduct](/docs/committee/code_of_conduct) |
 | -- |

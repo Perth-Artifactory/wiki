@@ -8,17 +8,12 @@ editor: markdown
 dateCreated: 2023-01-28T05:57:04.060Z
 ---
 
-# LaserCut Operation Guide
-
 > LaserCut is not used by any machine currently in use at the Artifactory. This page has been kept as a reference only.
 {.is-warning}
-
 
 LaserCut is the software previously used to control [Big Red](/tools/lasers/bigred) and [Little Red](/tools/lasers/littlered).
 
 The official [manual for LaserCut](/tools/lasers/lasercut5.3_manual_v1.6.pdf) is available for reference.
-
-
 
 ## Basic operation
 
@@ -66,7 +61,3 @@ To repeat only certain layers uncheck the checkbox next to the layers you do not
 ### Setting the laser origin
 
 Open the laser origin window by selecting Laser -> Set Laser Origin. By default the top left of the design is used for the laser origin, this window allows you to set any of the 9 standard origin points or a custom defined point. It's your responsibility to make sure you set the origin point back to the top left after you've finished your job so the next operator doesn't get an unpleasant surprise.
-
-### Rotary Engraver
-
-It's possible to engrave on the side of round material up to XXmm in length and XXmm in diameter. Ask a laser trainer for an induction on this attachment.

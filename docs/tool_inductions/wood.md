@@ -118,7 +118,7 @@ Using:
 1. Move left/right as appropriate (explain center line on disc)
 1. Do not angle material away from you on the belt (catches)
 1. Consider how material is held and what happens if material catches
-1. If material catches, do not try and retreive with machine on
+1. If material catches, do not try and retrieve with machine on
 
 After:
 1. Turn off dust extractor with red button not estop

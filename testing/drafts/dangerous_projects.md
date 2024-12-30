@@ -87,7 +87,7 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 
 * Hazardous noise [^3]
 
-[^3]: [Worksafe | Hazardous noise](https://www.worksafe.wa.gov.au/noise)
+[^3]: [WorkSafe | Hazardous noise](https://www.worksafe.wa.gov.au/noise)
 
 ### Weapons
 

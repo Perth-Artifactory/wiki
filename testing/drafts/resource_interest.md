@@ -27,9 +27,9 @@ This is a rough guide as to which documents/pages/guides are useful for which ca
 | Sheet racks                   | ❌         | ❌                 | ❌      | ✅     | ✅        | ❌          | ✅        |
 | Workspace usage               | ❌         | ❌                 | ❌      | ✅     | ✅        | ❌          | ✅        |
 | Storage by-laws               | ❌         | ❌                 | ❌      | ❌     | ❌        | ❌          | ✅        |
-| Event clanendar               | ✅         | ✅                 | ✅      | ✅     | ✅        | ✅          | ✅        |
+| Event calendar               | ✅         | ✅                 | ✅      | ✅     | ✅        | ✅          | ✅        |
 | AF access explainer           | ❌         | ❌                 | ✅      | ✅     | ❌        | ❌          | ❌        |
 | RFID keys for members by-law  | ❌         | ❌                 | ❌      | ✅     | ❌        | ❌          | ✅        |
-| Keyholder responsibiliites    | ❌         | ❌                 | ❌      | ✅     | ❌        | ❌          | ✅        |
+| Keyholder responsibilities    | ❌         | ❌                 | ❌      | ✅     | ❌        | ❌          | ✅        |
 | Fees list                     | ❌         | ✅                 | ✅      | ✅     | ❌        | ✅          | ✅        |
 | Bank details                  | ❌         | ❌                 | ❌      | ✅     | ❌        | ❌          | ❌        |

@@ -17,5 +17,8 @@
     "cSpell.enabledFileTypes": {
         "md": true,
         "*": false
-    }
+    },
+    "cSpell.dictionaries": [
+        "lorem-ipsum"
+    ]
 }

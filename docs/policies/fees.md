@@ -148,7 +148,7 @@ Tool usage fees generally reflect the cost of consumables, operation, maintenanc
 Cost basis
 
 * Weight of part including supports/purging as outlined by the slicer. (Use slicer weight but not slicer cost).
-* When a print is cancelled a best effort estimation of filament used should be made using the benchtop scales in the room.
+* When a print is cancelled a best effort estimation of filament used should be made using the bench top scales in the room.
 * Filament is split into tiers based on material cost and equipment wear.
     * The authoritative reference for filament categorisation is the [filament stock](/tools/3dprinters/filament_stock) page. 
     * Filament categorisation is determined by the 3D Printers Subcommittee.

@@ -33,7 +33,7 @@ Signed off by: Renae, Fletcher
 Pre: 
 1. Check equipment prior to use (Blade sharpness, tension, and tracking)
 1. Ensure work area is clear
-1. Ensure tool is far enough from wall for length of cut/material (so it doens't hit the wall)
+1. Ensure tool is far enough from wall for length of cut/material (so it doesn't hit the wall)
 1. Use proper blade for material and cut type
 1. Check material for fixings (nails etc) using metal detector
 1. Table positioning
@@ -90,7 +90,7 @@ Using:
 After:
 1. Remove bit from machine (may be hot)
 1. Reset table to appropriate height for general use
-1. Vacuuming includes: table, table chanels, floor
+1. Vacuuming includes: table, table channels, floor
 
 ## Fixed Belt Sander ✔ 
 

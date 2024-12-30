@@ -33,7 +33,7 @@ Membership of a sub-committee does not give individuals the freedom to act unila
 
 ## Documentation
 
-The subcommitee should maintain public documentation for all things within their terms of reference.
+The subcommittee should maintain public documentation for all things within their terms of reference.
 
 Sub-committees should nominate a secretary to be responsible for minuting and reporting.
 

@@ -76,7 +76,7 @@ Everyone who helps you (training, assistance, advice, ...) is a member or day pa
 * Checking the whiteboard near the front of the space for things that haven't been done in a while
 * Helping with the communal cleaning - empty the bins, vacuum the project area
 * Tidying up the space - sort the hardware drawers, neaten the tool racks
-* Volunteering to help with a project or event - ask any commitee member - there's always lots to do!
+* Volunteering to help with a project or event - ask any committee member - there's always lots to do!
 
 ## Storage Space
 

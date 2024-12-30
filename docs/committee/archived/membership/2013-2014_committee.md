@@ -22,6 +22,6 @@ Committee:
 - Deputy Secretary and Events Manager: SKoT McDonald (SM)
 - Deputy Treasurer and Membership Officer: Tim Gilchrist (TG)
 - OCM: Brett Downing (BD)
-- OCM and Infrastructure Subcomittee Tsar: Anton Lord (AL)
+- OCM and Infrastructure Subcommittee Tsar: Anton Lord (AL)
 - OCM: Warren Creemers (WC)
 - OCM: Brendan Ragan (BR)

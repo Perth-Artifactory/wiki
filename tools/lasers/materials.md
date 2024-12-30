@@ -33,7 +33,7 @@ Thicknesses:
 
 ### Plywood
 
-> Marine Plywood, particularily over 3mm thick, does not cut well on the lasers and may present a fire risk.
+> Marine Plywood, particularly over 3mm thick, does not cut well on the lasers and may present a fire risk.
 {.is-warning}
 
 Plywood is made up of multiple layers of offset wood glued together. This has some advantages and disadvantages. The easiest source is Bunnings.
@@ -178,7 +178,7 @@ Synthetic fabrics are likely to melt rather than burn. This can result in signif
 
 ## Paper / Cardboard
 
-> Corrigated cardboard presents a significant fire risk and should be supervised by an experienced laser maintainer.
+> Corrugated cardboard presents a significant fire risk and should be supervised by an experienced laser maintainer.
 {.is-warning}
 
 Cuts easily but consider whether the cardboard has a non cuttable plastic coating on it. 
@@ -193,11 +193,11 @@ Cuts easily but consider whether the cardboard has a non cuttable plastic coatin
 
 Vegetable tanned leather is OK to process in our laser cutters.
 
-You must be able to prove to us that the leather is vegetable tanned, i.e. by showing us a label on the material or its packaging, a reciept, or the product description on the website you bought it from.
+You must be able to prove to us that the leather is vegetable tanned, i.e. by showing us a label on the material or its packaging, a receipt, or the product description on the website you bought it from.
 
 ![veg_tanned_leather.png](/tools/lasers/veg_tanned_leather.png)
 
-Chrome tanned leather is not allowed to be processed in our laser cutters at any time, regardless of whether it is trivalent chromium tanned or hexavalent chronium tanned.
+Chrome tanned leather is not allowed to be processed in our laser cutters at any time, regardless of whether it is trivalent chromium tanned or hexavalent chromium tanned.
 
 Thin leather cuts well but can have a distinct burnt hair smell. Consider warning people to expect the burnt hair smell before cutting leather in the lasers. If lots of people are in the space (who might be affected by the smell), consider doing your leather processing job another time.
 

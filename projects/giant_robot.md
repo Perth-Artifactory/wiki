@@ -18,4 +18,4 @@ dateCreated: 2022-10-19T07:50:55.220Z
 -   What: A Wearable, Retro-styled Giant Robot outfit. With suspender-hoiked Robot Trousers for the operator.
 -   Who: Jenna
 -   Materials: Aluminium Foil, Random electronics, air ducting (limbs)
--   Meme: Giant Robot is our Techno-Tiki Overlord, blasting fog and with red glowing eyes; it admonishes Artifacers who don't Keep Their Parts Well Lubricated at the Bar d'Factory, and to Fear Its Wrath unless great quantities of weird Gadgets and Stuff are made at the Artifactory.
+-   Meme: Giant Robot is our Techno-Tiki Overlord, blasting fog and with red glowing eyes; it admonishes Artificers who don't Keep Their Parts Well Lubricated at the Bar d'Factory, and to Fear Its Wrath unless great quantities of weird Gadgets and Stuff are made at the Artifactory.

@@ -136,7 +136,7 @@ The Perth Artifactory has three Laser Cutters/Engravers. The Laser Subcommittee 
     -   Short X? belt loop, \~300mm "CNFULO 300-3M Q12 AA 036/037/038/039"
     -   Used/missing: Short Y? belt loop, \~384mm "CNFULO 384-3M Q12 AA 116/117/118/119"
     -   Roll of unlooped belt, \~200cm remaining "CNFULO 3M-15 Q12 AA 065/066/067/068/069 0574-63781858"
-        -   Ningo Fulong Synchronous Belt Co.,Ltd. Adress：. Tel: +86 -0574 -63781858. Email：, fulong@timingbelt.cn. WebSite：, <http://www.timingbelt.cn>
+        -   Ningo Fulong Synchronous Belt Co.,Ltd. Address：. Tel: +86 -0574 -63781858. Email：, fulong@timingbelt.cn. WebSite：, <http://www.timingbelt.cn>
 -   High Voltage Cable Qty: 4m?
 -   Grey silicone insulation tube 30cm, 2m lengths
 -   Spare hour meter plus [Laser Cutter Hour Meter Interface](/Projects/LaserHourMeter) for LG500

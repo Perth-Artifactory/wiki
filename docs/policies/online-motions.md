@@ -65,7 +65,7 @@ An online motion closes as soon as one of the following events occurs -
 | The committee member who raised the motion decides to withdraw it. | The motion lapses. |
 | Any committee member vetoes the motion. | The motion fails. At least 72 hours must pass before the matter can be considered as part of another online motion. |
 | A scheduled committee meeting starts. | All outstanding online motions lapse. |
-| The voting period expires. | If at least two-thirds of the commitee members (rounded up) have participated in the vote, and there were no "nay" votes, the motion passes. Otherwise, the motion fails. |
+| The voting period expires. | If at least two-thirds of the committee members (rounded up) have participated in the vote, and there were no "nay" votes, the motion passes. Otherwise, the motion fails. |
 
 ## Recording the results of online motions
 
@@ -82,7 +82,7 @@ The first version of this by-law regarding asynchronous online motions was adopt
 The by-law was re-drafted in July 2023 and adopted at the committee meeting of [2023-07-22](/minutes/Committee/2023-07-22).
 
 The main changes were:
-- Add a requirement that all committee members must recieve written notice when a motion is raised.
+- Add a requirement that all committee members must receive written notice when a motion is raised.
 - Allow votes to close after 72 hours, and define what happens when some committee members have not voted.
 - Separate the concepts of a veto (immediately ends the vote) vs. voting "nay".
 - Clarify when motions lapse relative to a scheduled committee meeting. ("convened" vs "starts")

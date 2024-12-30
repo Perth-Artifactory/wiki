@@ -44,7 +44,7 @@ Please email Sam if you want to perform a musical work (sam AT samgillies DOT co
 
 Every 3 months the Artifactory kindly allows a panel-selected Audio Artist 3 months membership, with guaranteed NM performance slots. The Artist is to build whacky things or engage with the Artifactory in some way, and demonstrate their inventions at NoizeMaschin.
 
--   [Chistopher de Groot](/User/Chistopher.de.Groot) - February / March 2012
+-   [Christopher de Groot](/User/Christopher.de.Groot) - February / March 2012
 -   [Nathan Thompson](/User/Nathan.Thompson) - April / May / June 2012
 -   Mace Francis - September / October / December 2012
 -   Jared “Thaddaeus The Exile” - January / February / March 2013

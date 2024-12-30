@@ -115,7 +115,7 @@ You can follow these guides on any of our 3D printers. When steps deviate betwee
   <summary>Bambu Labs P1S</summary>
   
   * Place the filament into the AMS
-  * Push the filament into the feeder (aprox 100mm) and release the grey tab 
+  * Push the filament into the feeder (approximately 100mm) and release the grey tab 
   * You've completed this step correctly if the AMS pulls the filament deeper into the machine
   
 </details>

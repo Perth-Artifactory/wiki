@@ -324,7 +324,7 @@ Tool Familiarisation:
 
 Pre-Start Checks - Material
 
-1. Check material is apropriate for use on this tool (eg, no Sheoak)
+1. Check material is appropriate for use on this tool (eg, no Sheoak)
 1. Check any timber of unknown origin (eg, reclaimed timber) for nails or other metal with metal detector
 1. Check for sharp edges sticking out from material that may damage the conveyor or drum sandpaper
 1. Check material is already of even thickness by measuring four corners (run through thicknesser or other sander first if needed)

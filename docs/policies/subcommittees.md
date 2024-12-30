@@ -83,7 +83,7 @@ A person may be appointed to, or removed from, a subcommittee ---
 
 ## Operation
 
-A member of a subcommitee may require any action of a subcommittee to be approved by a motion of the subcommittee.
+A member of a subcommittee may require any action of a subcommittee to be approved by a motion of the subcommittee.
 
 A motion of a subcommittee is carried if a majority of the members of the subcommittee vote in favour of the motion.
 
@@ -97,7 +97,7 @@ A subcommittee may otherwise meet and conduct business in any way its members se
 
 ## Record keeping
 
-The subcommitee must maintain a public web page which records ---
+The subcommittee must maintain a public web page which records ---
 
 - The name of the subcommittee.
 - The terms of reference of the subcommittee, and the powers and duties currently delegated to the subcommittee.
@@ -136,7 +136,7 @@ At the first committee meeting after each annual general meeting, the committee 
 
 A subcommittee is disbanded when any of the following takes place ---
 
-- There are less than two subcommitee members.
+- There are less than two subcommittee members.
 - The subcommittee does not include a committee member.
 - The subcommittee reports to the committee that they have resolved to disband.
 - The committee decides to disband the subcommittee ---

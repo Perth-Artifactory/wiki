@@ -17,7 +17,7 @@ dateCreated: 2022-10-19T07:56:20.657Z
 
 <img src="/projects/swarfomat_jarrahdeck.jpg" class="align-left" width="400" height="300" alt="swarfomat_jarrahdeck.jpg" />
 
--   **Aug 2012** - Emergency stop switch added to console, custom console made, X, Y limit switches added, wires and pipes inserted into a "caterpiller track" cable guide along y axis.
+-   **Aug 2012** - Emergency stop switch added to console, custom console made, X, Y limit switches added, wires and pipes inserted into a "caterpillar track" cable guide along y axis.
 -   **Sept 2011** - An LED lighting ring has been added around the "Business End".
 -   **July 2010** - Swarfomat has been re-decked in jarrah, which is much harder and hence more resistant to compression resulting from clamping down your jobs. The deck has been reflattened, with a final 1/20mm polishing pass that should result in far less Z-axis errors that previously. We've also started work on an acrylic Vacuum Table for holding down engraving jobs (see pictures below). The swarf extraction ducting system is also now "hands free" at last - you can finally load up your job and walk away (in theory) - no more following the cutting head with the vacuum cleaner!
 

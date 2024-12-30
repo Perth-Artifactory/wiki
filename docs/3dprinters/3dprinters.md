@@ -38,7 +38,7 @@ The 3D Printers Subcommittee is in charge of:
 * 3D printers, and
 * 3D scanners.
 
-The 3D Printers subcommitee will:
+The 3D Printers subcommittee will:
 
 1. Control modifications and upgrades to the 3D printers, balancing usability for general users vs. capability upgrades for enthusiasts.
 2. Make recommendations to the main committee regarding maintenance, operation, upgrading, training and charging.

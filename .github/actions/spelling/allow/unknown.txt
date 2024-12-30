@@ -21,6 +21,7 @@ duino
 duophonic
 Dyonysis
 Fliegende
+anglegrinder
 HACKME
 Hoverboard
 hoverboardblowhere
@@ -30,8 +31,10 @@ hoverboardjennaride
 hoverboardjeremyride
 infrastructurev
 kidz
+bcl
 Ffalcon
 ffalconff
+bpcannington
 maschin
 Monome
 musicalcoildriver
@@ -46,6 +49,7 @@ quadrophonic
 Quickquickquick
 rama
 soundworlds
+deconstruction
 springtar
 THNMF
 trainingchannel
@@ -74,3 +78,7 @@ xls
 XX
 XXXX
 zlrts
+drillpress
+drillsharpener
+EMAS
+EMBS

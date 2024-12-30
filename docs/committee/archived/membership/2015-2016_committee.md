@@ -44,7 +44,7 @@ Other appointed roles:
       *EVENT COORDINATORS (9/7/16)
         *Open Day - Steve
         *Arduino U - Tim
-        *Noizemaschin!! - Stuart/Tim/Meg/J-M/SkotM
+        *NoizeMaschin!! - Stuart/Tim/Meg/J-M/SkotM
         *ADUG - Nick/Richard Harrington
         *DIY Synth - Tim/Steve
     * Band Room Coordinator - Meg Travers (MT)

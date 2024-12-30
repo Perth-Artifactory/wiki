@@ -13,5 +13,9 @@
             "description": "Names of people",
             "addWords": true
         },
+    },
+    "cSpell.enabledFileTypes": {
+        "md": true,
+        "*": false
     }
 }

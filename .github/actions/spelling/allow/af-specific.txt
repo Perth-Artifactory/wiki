@@ -246,7 +246,8 @@ Vocus
 Voron
 VPS
 WAMOD
-Wangarra VOIP
+Wangarra
+VOIP
 Wanneroo
 WAPAA
 Watercorp

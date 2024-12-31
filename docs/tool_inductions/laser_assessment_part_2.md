@@ -34,8 +34,8 @@ dateCreated: 2022-12-12T17:06:54.067Z
   * Blanket (General use vs laser specific)
   * Extinguisher
 * Chlorine response
-  * <5 seconds - emergency stop, evac courtyard near vent
-  * >5 seconds - emergency stop, evac back half of space, alert in person committee or 000.
+  * <5 seconds - emergency stop, evacuate courtyard near vent
+  * >5 seconds - emergency stop, evacuate back half of space, alert in person committee or 000.
 * Supervision requirements
   * If leaving the machine for longer than getting a drink from the fridge, pause it.
 * Appropriate material and how to find it.

@@ -357,7 +357,7 @@ artifactory.org.au/events
 Your Member Work directory can be accessed in a few different ways:
 
 * From any computer in the space (Typically mounted as either "filer" or "Member Work")
-* From your device when connected to the wifi. 
+* From your device when connected to the WiFi. 
 * By sending files to the user File Butler on Slack.
 
 ## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}

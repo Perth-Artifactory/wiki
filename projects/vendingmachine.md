@@ -25,7 +25,7 @@ The machine works by running a motor that rotates and drops cans from the machin
 
 The plan is to have the machine dispense drinks based on member's RFID or NFC tags. The machine will connect to the member info database to check their preferred drink, authorise dispensing, and notify when something is dispensed. 
 
-All the dispensing needs to happen on the machine, rather than controlled remotely over wifi as that wouldn't be reliable enough.
+All the dispensing needs to happen on the machine, rather than controlled remotely over WiFi as that wouldn't be reliable enough.
 
 High-level there's a number of subcomponents connected to a microcontroller. The plan is to use an ESP32, plus connect things via i2c.
 
@@ -60,9 +60,9 @@ This will be coded up in ESPHome. I have used this for several other projects an
 
 ### Buttons
 
-Currently the machine uses microswitches for each button press, and there's no illumiation of each button.
+Currently the machine uses microswitches for each button press, and there's no illumination of each button.
 
-The plan would be to add some lighting to this, and illuminate whichever drink type is requested (or read from the database). The buttons and lights would be run using a button mesh type of arrangement, rather than have a GPIO for each buitton.
+The plan would be to add some lighting to this, and illuminate whichever drink type is requested (or read from the database). The buttons and lights would be run using a button mesh type of arrangement, rather than have a GPIO for each button.
 
 ### Can fill sensors
 

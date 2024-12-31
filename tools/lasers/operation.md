@@ -79,7 +79,7 @@ These instructions assume that you pressed the emergency stop button.
     * Move the head to a position that makes it easy to work on.
     * Undo the brass knob.
     * Lower the lens assemble by 20mm.
-    * Tighten the brassh knob.
+    * Tighten the brass knob.
     * Inspect the head and probe assembly for damage and report to Slack.
     * If no damage is visible you should be safe to use the machine again.
   * If the head/probe is still not clear then report the issue to #lasers on Slack and place an out of order sign on the lid of the machine. Out of order signs can be found on the shelf behind Big Red's PC.

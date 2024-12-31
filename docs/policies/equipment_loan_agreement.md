@@ -77,7 +77,7 @@ Written records must be made of:
   * does not increase the footprint of the equipment, and
   * does not incur increased financial obligations for the Association
 * The equipment owner will be subject to the equipment usage fee, if any.
-  * If there are multiple rates of equipment usage fee deliniated by membership class the equipment owner will always be subject to the lowest applicable rate.
+  * If there are multiple rates of equipment usage fee delineated by membership class the equipment owner will always be subject to the lowest applicable rate.
 * The equipment owner may end the loan by providing written notice to the Management Committee.
   * The notice must be at least 14 days for hand/power tools and at least 28 days for other equipment, unless a suitable replacement is already available.
   * The notice period may be waived by a member of the Infrastructure Subcommittee or the Management Committee.

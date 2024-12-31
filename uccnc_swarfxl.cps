@@ -774,7 +774,7 @@ function onSection() {
       }
       writeBlock(sOutput.format(spindleSpeed), mFormat.format(tool.clockwise ? 3 : 4));
     } else {
-      writeBlock(mFormat.format(3)); // signal active for uccnc
+      writeBlock(mFormat.format(3)); // signal active for UCCNC
     }
   }
 

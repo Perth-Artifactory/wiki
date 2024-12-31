@@ -115,7 +115,7 @@ All workshops and themed evenings are open to the public, anyone can join as a "
 -   RepRap / 3D printer Night \[DIY 3D printers and CNC bots\] (fortnightly)
 -   Classic Computing Night \[Preserving ye olde architectures\] (fortnightly, no longer active)
 -   Wine & Design \[Design + planning discussion with wine\] (fortnightly, Wednesday Nights - learn to use CAD/CAM software & CNC machines)
--   General Hacking Day \[Every saturday\]
+-   General Hacking Day \[Every Saturday\]
 -   Sunday Crafternoon \[Non-tech crafts afternoon\]
     -   Specific examples include Cyberpunk costume making sessions, Steampunk props making sessions
 -   Music Technology Nights \[Software synthesis, DIY instruments\]

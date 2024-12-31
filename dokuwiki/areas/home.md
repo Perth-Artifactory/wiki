@@ -18,7 +18,7 @@ This is always subject to change, as the space evolves and mutates the list of a
     The front part of the toolroom, this is the place where you go when you want to make a mess (Well, one of them at least), the heavy tool room is where we keep the manual machine tools and handheld power tools.
 -   **Tool Shed** various wood working tools can be found here.
 -   **[Laser Area](/areas/LaserArea)**  
-    Where the [start](/tools/lasercutters/start) live, this is where you go when you just need to obliterated something with a beam of collimated light, it also houses all the various supplies for lasercutting including our stock of laser-cuttable plastics.
+    Where the [start](/tools/lasercutters/start) live, this is where you go when you just need to obliterated something with a beam of collimated light, it also houses all the various supplies for laser cutting including our stock of laser-cuttable plastics.
 -   \*\*[Stage](/areas/Stage) \*\*  
     The stage is at the front of the space and houses the Artifactory collection of A/V gear and interesting lighting. Also houses the space sound system.
 -   \*\*[Electronics Benches](/areas/ElectronicsBenches) \*\*  

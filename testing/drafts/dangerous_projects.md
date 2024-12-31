@@ -38,7 +38,7 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 * Stored electrical energy (capacitors, inductors) with the potential to discharge into people
 * Welding batteries (e.g. spot welding lithium-ion batteries)
 
-*Note: Commerical devices are excluded from this category provided that you aren't modifying the device or wiring it yourself.*
+*Note:Commercial devices are excluded from this category provided that you aren't modifying the device or wiring it yourself.*
 
 [^1]: Anything greater than AS3000 extra low voltage
 
@@ -87,7 +87,7 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 
 * Hazardous noise [^3]
 
-[^3]: [Worksafe | Hazardous noise](https://www.worksafe.wa.gov.au/noise)
+[^3]: [WorkSafe | Hazardous noise](https://www.worksafe.wa.gov.au/noise)
 
 ### Weapons
 

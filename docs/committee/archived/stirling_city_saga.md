@@ -118,16 +118,16 @@ Events
 -   2013:04:25 - We submit best planning approval ever. Geoff Wyber impressed, says he will "Fast Track" it, but we will have to wait at least a week for it to clear Stirling City admin.
 -   2013:04:16 - SKoT emails Geoff to confirm inspection happened, and requests Justina's contact details.
 -   2013:04:12 - Geoff + Justina visit artifactory for building compliance inspection, will send us report "next week", we should wait for report.
--   2013:04:11 - SKoT gets thru to Beth finally by phone - Sarah is away until monday, they will ring early next week to tee up a meeting.
+-   2013:04:11 - SKoT gets thru to Beth finally by phone - Sarah is away until Monday, they will ring early next week to tee up a meeting.
 -   2013:04:11 - SKoT sends redux of situation to general membership.
--   2013:04:10 - Jan responds with much useful advice on current situation (fwd'ed to committee)
+-   2013:04:10 - Jan responds with much useful advice on current situation (forwarded to committee)
 -   2013:04:10-10:00am - SKoT makes flurry of phone calls and emails to Building Surveyors and Planning Consultants, receives some useful advice and contacts (Added Ray Barron as possible building compliance surveyor, also the name of Geoff Wyber's supervisor). Rang Geoff to work out more exactly we need compliance guy todo. Geoff now talking about revisiting with one of their surveyors... will ring back with a time.
 -   2013:04:08-10:30am - SKoT emails "received!" to Geoff Wyber, and also mentions meeting with Sarah Janali & Beth Jasas.
 -   2013:04:08-10:00am - SKoT receives long awaited formal TODO list from Geoff Wyber. SKoT emails scanned copy to committee, cc'ing Jan Iverach for advice.
 -   2013:04:08-8:20am - SKoT writes additional email to Beth outlining zoning difficulties, asking for her advice / pondering, and whether CoS has incubator / shared workshop support strategy.
--   2013:04:08-7:00am - SKoT replies to Beth Jasas, suggesting wednesday afternoon (enough time for a clean up).
+-   2013:04:08-7:00am - SKoT replies to Beth Jasas, suggesting Wednesday afternoon (enough time for a clean up).
 -   2013:04:05 - Beth Jasas writes to SKoT, "keen to set up a meeting" with her & Sarah Janali (new person!) of Cultural Diversity Dept. Yay!
--   2013:03:28-11:30am - SKoT writes email reminder note to Geoff Wyber, confirming key points of phone conversation in tracked, written media. (fwd'ed to committee)
+-   2013:03:28-11:30am - SKoT writes email reminder note to Geoff Wyber, confirming key points of phone conversation in tracked, written media. (forwarded to committee)
 -   2013:03:27- SKoT pings Anton to check over WIKI to make sure we have full Anton-Brain-Dump as high-quality ammunition, Anton says he'll attack it over Easter weekend.
 -   2013:03:27-16:03pm - SKoT emails "summary" & introduction letter to Peter Jaggard, via stirling@stirling.wa.gov.au.
 -   2013:03:27-15:16pm - SKoT rang Geoff Wyber. Geoff said he was "just writing to us, what a coincidence". Indeed. He is sending letter to SKoT's home address with planning approval docs, Geoff will also scan and email to SKoT. Found out Peter Jaggard is from Health, direct number is 93458911, he works part time, and has our "File". Geoff suggested we hire a private surveyor to see what we need to do for public building approval. SKoT asked about whether we could run events in the meantime whilst approval was pending, Geoff wasn't concrete on issue (too many council departments in the mix, I think) but suggested we maybe shouldn't in case something went wrong and we were caught without approval. SKoT asked if we could get on with Public Building approval doc, Geoff said Peter would probably bounce it back to Zoning, which ideally would like to have public building approval. Argh, circular! SKoT ensures Geoff has Skot@vellocet.com, and will use SKoT's home address for correspondence.

@@ -128,7 +128,7 @@ Please use the bank account rather than the EFTPOS when paying for tool usage. T
 
 ## Keep your contact details up to date
 
-It's your responsbility to update this information in TidyHQ when it changes.
+It's your responsibility to update this information in TidyHQ when it changes.
 
 * Your full name
 * Your contact information (email and physical address)
@@ -195,7 +195,7 @@ TODO: channel qr
 
 Search for Training Tracker on Slack
 
-TODO: QR (already in shlink
+TODO: QR (already in Shlink
 
 ## Training refreshers and training expiry
 

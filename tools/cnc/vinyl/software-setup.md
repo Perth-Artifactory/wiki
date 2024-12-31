@@ -14,7 +14,7 @@ dateCreated: 2024-02-10T09:28:18.376Z
 > Normal users do not need the information on this page.
 {.is-info}
 
-1. Install inkscape.
+1. Install Inkscape.
 
         winget install Inkscape.Inkscape
     

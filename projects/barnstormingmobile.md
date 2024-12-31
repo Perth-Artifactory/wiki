@@ -18,7 +18,7 @@ dateCreated: 2022-10-19T07:47:49.411Z
 ##### Who
 
 -   Michel Ludwig ("Baron von Sturmstommer")
--   [SKoT McDonald](/user/skot) ("Kaptain Velloschet")
+-   [SKoT McDonald](/user/skot) ("Kaptain Vellocet")
 
 ##### What
 

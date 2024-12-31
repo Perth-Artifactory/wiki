@@ -127,7 +127,7 @@ The control box is connected to:
 
 #### Controller and Breakout Board
 
-Intrepretation of G-code commands (e.g. movement instructions) handling of signal inputs (e.g. limit switches and emergency stop) are done by the controller and breakout board. The controller handles all logic while the breakout board provides optical isolation of digital inputs and outputs for protection of the controller. The controller is a <embed src="/tools/uc300eth_manual.pdf" class="align-center" /> and the breakout board is a <embed src="/tools/ucbb_manual.pdf" class="align-center" /> dual-port breakout board.
+Interpretation of G-code commands (e.g. movement instructions) handling of signal inputs (e.g. limit switches and emergency stop) are done by the controller and breakout board. The controller handles all logic while the breakout board provides optical isolation of digital inputs and outputs for protection of the controller. The controller is a <embed src="/tools/uc300eth_manual.pdf" class="align-center" /> and the breakout board is a <embed src="/tools/ucbb_manual.pdf" class="align-center" /> dual-port breakout board.
 
 Stepper motor outputs, limit switch and e-stop inputs, and the 'run' signal for the spindle are wired through the breakout board. Note that the UCBB inputs are extremely flexible and will handle basic mechanical switches, NPN and PNP proximity switches and differential inputs, depending on how they are wired (read the instructions!) The analog speed signal for the spindle is wired directly to the controller.
 
@@ -189,5 +189,5 @@ Swarfomat uses a 1.5kW water-cooled spindle controlled by a Huanyang HY01D523B<e
 
 ### Cooling
 
-The spindle is cooled by a xxxxxx chiller. The chiller must be running whenever the spindle is running.  
+The spindle is cooled by an industrial chiller. The chiller must be running whenever the spindle is running.  
 A future project will provide an enable signal from the chiller to prevent the spindle from being started when the chiller is off.

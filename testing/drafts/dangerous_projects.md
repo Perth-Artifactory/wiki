@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2024-12-31T15:21:15.854Z
+date: 2024-12-31T15:31:39.142Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -100,6 +100,7 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 The following types of projects are absolutely prohibited:
 
 * Prohibited weapons and firearms as defined in relevant legislation[^4][^6]
+* Accessories for prohibited weapons and firearms
 * Drugs
 * Fractal burning / Lichtenburg burning[^5]
 

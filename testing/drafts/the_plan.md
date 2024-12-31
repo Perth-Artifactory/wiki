@@ -107,7 +107,7 @@ If you decided to sign up as a member an Artifactory logo should appear next to 
 
 Our training policy will give you a good idea of what tools need specific inductions.
 
-We require a 1:1 time committment for training and inductions you receive in the space. This means that if a volunteer spends an hour helping you we expect you to spend *at least* an hour helping out around the space with things like communal cleaning.
+We require a 1:1 time commitment for training and inductions you receive in the space. This means that if a volunteer spends an hour helping you we expect you to spend *at least* an hour helping out around the space with things like communal cleaning.
 
 > If you have a disability that should be considered during training or when meeting your corresponding volunteering obligations please reach out to our membership officer (Fletcher) to discuss. We will **always** work with you to ensure you are adequately supported.
 {.is-info}

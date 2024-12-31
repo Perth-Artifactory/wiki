@@ -60,7 +60,7 @@ This will be coded up in ESPHome. I have used this for several other projects an
 
 ### Buttons
 
-Currently the machine uses microswitches for each button press, and there's no illumiation of each button.
+Currently the machine uses microswitches for each button press, and there's no illumination of each button.
 
 The plan would be to add some lighting to this, and illuminate whichever drink type is requested (or read from the database). The buttons and lights would be run using a button mesh type of arrangement, rather than have a GPIO for each button.
 

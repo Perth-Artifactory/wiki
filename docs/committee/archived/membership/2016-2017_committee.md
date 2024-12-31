@@ -32,7 +32,7 @@ Elected 3rd September 2016
 ```{=html}
 <!-- -->
 ```
--   OCM: Jason Kongchoy (JK)
+-   OCM: Jason Kongchouy (JK)
 -   OCM: Hugh Frazer (HF)
 -   OCM: Tanner Perham (TP)
 -   OCM: Russel Clarke (RC)

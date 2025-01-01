@@ -88,7 +88,7 @@ A user of PerthArtifact has been created on as many social media sites as possib
 
 -   Facebook <https://www.facebook.com/perthartifactory> (no passwords, administered by committee members)
 -   Twitter <https://twitter.com/PerthArtifact>
--   Google, username - promotions AT artifactory.org.au, which has been used for Flickr, Youtube,
+-   Google, username - promotions AT artifactory.org.au, which has been used for Flickr, YouTube,
 
 ### Executed Documents
 

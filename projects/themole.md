@@ -31,7 +31,7 @@ We set about to create a prop that was large enough to be a convincing transport
 ##### THE CHALLENGES
 
 -   Transportability - Yanchep National Park is 50km north of the Artifactory. The Mole would have to fit into a small moving van being hired for the event.
--   Flat-pack-ability - The entrance tunnel to the cave allowed items with maximum dimensions of 2.0 x 0.8m to be admitted. This thing was going to have to flat-pack Ikea style.
+-   Flat-pack-ability - The entrance tunnel to the cave allowed items with maximum dimensions of 2.0 x 0.8m to be admitted. This thing was going to have to flat-pack IKEA style.
 -   Quick to assemble - On the day of the ball, we had to transport the props from perth, unload, and setup in a few hours before the performers arrived to start work-shopping the final stage show in the space. We could allow no more than an hour for complete re-assembly of The Mole.
 
 ##### THE REALITY:

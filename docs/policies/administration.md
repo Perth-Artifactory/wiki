@@ -57,5 +57,5 @@ Last modified at the committee meeting 30-01-2019.
   * does not conflict with another event/workshop unless the Event Coordinators of the other Workshop sees no conflict
   * will not conflict with persons using noisy tools
   * will not hinder a band using the Rehearsal room.
-  * must be added to the google calendar
+  * must be added to the Google calendar
 * The Chair and any three other committee members reserve the right to waive the above rules if it is considered beneficial to the Artifactory to do so. The decision must be documented at the next regular committee meeting

@@ -39,7 +39,7 @@ Doug and [Tim](/user/timbo) were chatting about the upcoming school holidays, an
 <img src="/projects/hoverboardbuild1.jpg" class="align-right" width="200" />
 
 1.  Cut a large disc from one sheet of plywood (we used some string, a pencil and a jigsaw).
-2.  Make a hole somewhere in the top for the air to go in (a holesaw would be sensible, we used the jigsaw again)
+2.  Make a hole somewhere in the top for the air to go in (a hole saw would be sensible, we used the jigsaw again)
 3.  Cut a ring the same size as the disc from another sheet of plywood, about 5cm wide.
 4.  Do a pizza run because none of you had breakfast (Good parents should always put making before regular mealtimes).
 5.  Tape two lengths of pond liner together.
@@ -51,7 +51,7 @@ Doug and [Tim](/user/timbo) were chatting about the upcoming school holidays, an
 11. Apply hot pink spraypaint and gold flames.
 12. Smile broadly, apply air and start hovering!
 
-I'd suggest reading the Scitech instructable, thinking and maybe asking google rather than following the instructions above, but see how you go.
+I'd suggest reading the Scitech instructable, thinking and maybe asking Google rather than following the instructions above, but see how you go.
 
 ## Results
 

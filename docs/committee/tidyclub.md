@@ -50,7 +50,7 @@ If an anticipated invoice isn't in your spam filter / junk folder please let the
 
 #### How do I log in to TidyHQ?
 
-To log in requires your email address used with your Artifactory account signup and password. If you haven't logged in before, use the forgotten password option to reset your password - <https://artifactory.tidyhq.com/> . Should you use an email address not associated with an Artifactory account TidyHQ will reject your password reset attempt. In that case contact the Secretary to workout what email address you did use with your account. secretary@artifactory.org.au
+To log in requires your email address used with your Artifactory account sign up and password. If you haven't logged in before, use the forgotten password option to reset your password - <https://artifactory.tidyhq.com/> . Should you use an email address not associated with an Artifactory account TidyHQ will reject your password reset attempt. In that case contact the Secretary to workout what email address you did use with your account. secretary@artifactory.org.au
 
 #### I want to join the Artifactory?
 

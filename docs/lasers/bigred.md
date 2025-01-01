@@ -47,7 +47,7 @@ We do not have a user manual for the LC1290 specifically. [operational_manual_of
 
 The controller is MPC6515: [laser_cutter_manual_bigred_mpc6515_20140701113449_50485.pdf](/tools/lasers/laser_cutter_manual_bigred_mpc6515_20140701113449_50485.pdf)
 
-The power supply (including screen) is HY-Z from cloudray: [hy-z_series_laser_power_supply_user_manual.pdf](/tools/lasers/hy-z_series_laser_power_supply_user_manual.pdf)
+The power supply (including screen) is HY-Z from Cloudray: [hy-z_series_laser_power_supply_user_manual.pdf](/tools/lasers/hy-z_series_laser_power_supply_user_manual.pdf)
 
 ## From old Maintenance page
 

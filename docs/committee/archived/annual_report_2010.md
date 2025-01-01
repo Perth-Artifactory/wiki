@@ -67,4 +67,4 @@ Outline of Annual Report to be given at the AGM on the 11th of September 2010
         2.  Rube Goldberg competition
         3.  crafternoons
         4.  sun fair
-        5.  swancon
+        5.  SwanCon

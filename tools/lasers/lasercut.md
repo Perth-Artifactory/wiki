@@ -52,11 +52,11 @@ You have completed the basic version of setting up a job on LaserCut.
 
 ### Repeat specific layers
 
-To the right of each layer definition is a text field (`1` by default). This defines the number of times a particular layer will be cut. The feature is particularily useful when a full cut would require running the laser below 3-5mm/s. In this instance you may be better off running particular layers twice to reduce the risk of fire.
+To the right of each layer definition is a text field (`1` by default). This defines the number of times a particular layer will be cut. The feature is particularly useful when a full cut would require running the laser below 3-5mm/s. In this instance you may be better off running particular layers twice to reduce the risk of fire.
 
 ### Repeat specific layers after a job has finished
 
-To repeat only certain layers uncheck the checkbox next to the layers you do not wish to cut. This is preferrable to deleting the vectors directly for a few reasons but mainly because the disabled layers are still included when calculating the origin point for immediate mode.
+To repeat only certain layers uncheck the checkbox next to the layers you do not wish to cut. This is preferable to deleting the vectors directly for a few reasons but mainly because the disabled layers are still included when calculating the origin point for immediate mode.
 
 ### Setting the laser origin
 

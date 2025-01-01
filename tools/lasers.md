@@ -14,7 +14,6 @@ The Perth Artifactory has 2 laser cutters available for use. For details on each
 
 * [Big Red](/tools/lasers/bigred)
 * [Middle Red](/tools/lasers/middlered)
-* ~~[Little Red](/tools/lasers/littlered)~~
 
 The laser cutters use high intensity collimated infrared light to cut and engrave various materials. The most common materials cut on our laser cutters are woods and acrylic.
 

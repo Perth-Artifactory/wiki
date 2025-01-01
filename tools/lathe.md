@@ -102,7 +102,7 @@ Local suppliers include:
 
 ## Resources
 
-The [Blondihacks Lathe Skills series on Youtube](https://www.youtube.com/playlist?list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN) is a great place to learn about working on a small lathe.
+The [Blondihacks Lathe Skills series on YouTube](https://www.youtube.com/playlist?list=PLY67-4BrEae9Ad91LPRIhcLJM9fO-HJyN) is a great place to learn about working on a small lathe.
 
 ## Specifications
 

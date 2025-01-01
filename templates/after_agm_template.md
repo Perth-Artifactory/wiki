@@ -64,7 +64,7 @@ List of which committee Member(s) is on which Subcommittee
 -   Subcommittee Y - who
 -   Subcommittee Z - who
 
-| Reaffirm XX, YY, ZZ Subcommitteess. Moved By | MOVER             |
+| Reaffirm XX, YY, ZZ Subcommittees. Moved By | MOVER             |
 |----------------------------------------------|-------------------|
 | Seconded By                                  | SECONDER          |
 | Status                                       | Accepted/Rejected |

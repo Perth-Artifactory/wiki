@@ -221,7 +221,7 @@ Batteries are great and all, but sometimes you need good old fashioned 240 V to 
 |🟡|Ryobi corded planer| |ERP6582RG [:book:](/tools/manuals/erp6582rg.pdf)|![erp6582rg.webp](/tools/images/erp6582rg.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|Sontax Glue Gun| |MGG000|![sontaxgluegun.webp](/tools/images/sontaxgluegun.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟡|Taurus Rotary Hobby Tool| |TTA-517|![tta_517.webp](/tools/images/tta_517.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
-|🟡|ToolPRO Rotary Tool Kit| |276 PCE|![276kit.webp](/tools/images/276kit.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
+|🟡|ToolPRO Rotary Tool Kit| |276 Piece|![276kit.webp](/tools/images/276kit.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|XU1 Drill Bit Sharpener| |XDS-010|![xds_010.webp](/tools/images/xds_010.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 |🟢|XU1 Sheet Orbital Sander| |XOS-400|![xos_400.webp](/tools/images/xos_400.webp =200x)|Machine room - tool rack|![aflogo_28px.webp](/aflogo_28px.png)|
 

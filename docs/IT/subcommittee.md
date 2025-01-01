@@ -42,7 +42,7 @@ The IT Committee is tasked to ensure that these services and systems maintain op
 
 ## Documentation
 
-Our IT setup is currently documented on [Github](https://github.com/perth-artifactory/docs). Reach out to one of the subcommittee members or Slack [(as above)](#contact-details) if you're looking at setting something up etc.
+Our IT setup is currently documented on [GitHub](https://github.com/perth-artifactory/docs). Reach out to one of the subcommittee members or Slack [(as above)](#contact-details) if you're looking at setting something up etc.
 
 ## History
 

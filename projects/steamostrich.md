@@ -15,7 +15,7 @@ dateCreated: 2022-10-19T07:55:51.865Z
 
 ##### Who
 
-Doctor Vellocet, aka [SKoT McDonald](/user/skot), reowned electrostolic-gizmologist and devil-may-care adventuring-type-person.
+Doctor Vellocet, aka [SKoT McDonald](/user/skot), renowned electrostolic-gizmologist and devil-may-care adventuring-type-person.
 
 ##### What
 

@@ -10,7 +10,7 @@ dateCreated: 2022-10-17T16:57:50.268Z
 
 # Little Red
 
-> This machine is currently out of service.
+> This machine has been decommissioned
 {.is-warning}
 
 

@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2024-12-29T03:45:50.567Z
+date: 2024-12-31T15:31:39.142Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -71,7 +71,7 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 
 ### Chemical
 
-* Liquids with the ability to cause harm when exposed to skin or eyes
+* Substances with the ability to cause harm when exposed to skin or eyes
 * Materials that react in a highly exothermic manner when exposed to water (e.g. alkali metals like elemental sodium/potassium)
 * Bromine and other volatile toxic liquids
 * Large quantities of gases (Where the quantity is high enough to adversely affect breathing)
@@ -91,7 +91,7 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 
 ### Weapons
 
-* Weapons classed as restricted in Western Australia[^4]
+* Controlled weapons or edged weapons as defined in relevant legislation[^4]
 
 [^4]: [WA Police | Weapons](https://www.wa.gov.au/organisation/western-australia-police-force/weapons)
 
@@ -99,8 +99,10 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 
 The following types of projects are absolutely prohibited:
 
-* Weapons classed as prohibited within Western Australia[^4]
+* Prohibited weapons and firearms as defined in relevant legislation[^4][^6]
+* Accessories for prohibited weapons and firearms
 * Drugs
 * Fractal burning / Lichtenburg burning[^5]
 
 [^5]: [American Association of Woodturners | Fractal / Lichtenberg Burning](https://www.woodturner.org/Woodturner/Woodturner/Resources/Safety-Materials/Safety-Fractal-Burning-Lichtenburg-Burning.aspx)
+[^6]: [Firearms Act 2024](https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/wa/consol_act/fa2024102/)

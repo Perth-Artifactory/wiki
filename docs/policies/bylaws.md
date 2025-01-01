@@ -62,7 +62,7 @@ If you -
 - leave hazardous waste on the premises, or
 - dispose of hazardous waste incorrectly,
 
-you will be liable for the the Association's reasonable costs incurred to dispose of the waste correctly.
+you will be liable for the Association's reasonable costs incurred to dispose of the waste correctly.
 
 
 

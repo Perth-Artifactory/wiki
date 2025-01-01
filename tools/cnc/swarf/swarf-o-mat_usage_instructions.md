@@ -18,7 +18,7 @@ Repeat:
 
 **Under NO circumstances should you use this machine if you have not been trained** by an official trainer.
 
-The list of trainers can be found on the the [swarfomat](swarfomat) page.
+The list of trainers can be found on the [swarfomat](swarfomat) page.
 
 Very important condition of use: **Use Swarf-o-mat with caution!**
 

@@ -44,7 +44,7 @@ The Arcophone has, in at least one of its incarnations performed at
 
 - 12 voices provided by automotive ignition coils & [musicalcoildriver](musicalcoildriver) circuits
 - MIDI in optoisolator
-- Arduino Mega clone clone running our MIDI processing and spark trigger signal synthesizer software.
+- Arduino Mega clone running our MIDI processing and spark trigger signal synthesizer software.
 - One ATX power supply
 
 ### Software

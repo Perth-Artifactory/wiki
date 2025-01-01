@@ -177,6 +177,7 @@ Hayley
 Hayleye
 Helenzilla
 Hemsley
+Herve
 Hindmarsh
 Hoggn
 Hopshed
@@ -254,7 +255,6 @@ Laurndet
 Legg
 Leitch
 lem
-Trichet
 letsburn
 Liezil
 Lindebringhs
@@ -429,6 +429,7 @@ Tiwi
 Travers
 Trent
 Trethowan
+Trichet
 Trushin
 Tseng
 Tuckfield

@@ -219,7 +219,7 @@ Larra
 Latky
 Laurndet
 Legg
-letsburn00
+letsburn
 Liezil
 Lindebringhs
 Linishall
@@ -276,7 +276,7 @@ ornea
 Ourobonic
 Oyarzun
 Pannell
-Paré
+Par
 Parfit
 Parikh
 Parisella

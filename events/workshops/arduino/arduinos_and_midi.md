@@ -67,7 +67,7 @@ Prerequisites on your Computer:
        * opto-isolation on MIDI In
        * MIDI Out provides ground, MIDI In does not!
      * Arduino gotchas
-       * On smaller Arduinos with only one serial port, MIDI is transmitted / received over the same serial port used to program the Arduino. It also means you can't use the Serial Monitor for watching any debug messages from the Arduino on your computer. Argh. You CANNOT have a MIDI device attached at same time as re-programming your Arduino! Luckily the sparkfun MIDI breakout board has a little "program/run" switch. Make sure you switch it to "PGM" when downloading new code to your Arduino, and "RUN" when you want to use your Arduino.      
+       * On smaller Arduinos with only one serial port, MIDI is transmitted / received over the same serial port used to program the Arduino. It also means you can't use the Serial Monitor for watching any debug messages from the Arduino on your computer. Argh. You CANNOT have a MIDI device attached at same time as re-programming your Arduino! Luckily the SparkFun MIDI breakout board has a little "program/run" switch. Make sure you switch it to "PGM" when downloading new code to your Arduino, and "RUN" when you want to use your Arduino.      
 
 ## Practical
 

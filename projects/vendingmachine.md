@@ -55,7 +55,7 @@ Ben and I have removed the existing front panel. The plan is to replace this wit
 
 Lead: Penny
 
-This will be coded up in ESPHome. I have used this for several other projects and it's quite straighforward, allowing future maintainance and extension.
+This will be coded up in ESPHome. I have used this for several other projects and it's quite straightforward, allowing future maintainance and extension.
 
 
 ### Buttons

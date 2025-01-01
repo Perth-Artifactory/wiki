@@ -71,7 +71,7 @@ This is the first actual decision you need to make. You can either use the space
 | Training on our more complex and larger tools                                              | ❌       | ✅    |
 | Priority access for inductions and training                                                | ❌       | ✅    |
 | Assistance with project planning                                                           | ❌       | ✅    |
-| Onsite storage                                                                             | ❌       | ✅    |
+| On site storage                                                                             | ❌       | ✅    |
 | Apply for 24/7 access                                                                      | ❌       | ✅    |
 | Reduced tool usage fees                                                                    | ❌       | ✅    |
 | The knowledge that you're supporting a community that supports the mental health of makers | ❌       | ✅    |

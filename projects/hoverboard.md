@@ -48,7 +48,7 @@ Doug and [Tim](/user/timbo) were chatting about the upcoming school holidays, an
 8.  Fasten disc to ring (from the top) using screws and minions.
 9.  Cut a small disc of wood from the leftover plywood, and screw that to the bottom centre, so the pond liner tents up towards the middle.
 10. Make some holes in the pond liner around the centre disc for the air to escape.
-11. Apply hot pink spraypaint and gold flames.
+11. Apply hot pink spray paint and gold flames.
 12. Smile broadly, apply air and start hovering!
 
 I'd suggest reading the Scitech instructable, thinking and maybe asking Google rather than following the instructions above, but see how you go.

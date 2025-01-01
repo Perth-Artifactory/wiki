@@ -136,7 +136,7 @@ Tool usage fees are payable at the end of the day when you use the tool.
 * Cleaning products: kitchen
 * Spray paint: filing cabinet in the back shed - unless labelled with someone's name.
 * Otherwise **check** with another member before you start using supplies. Many supplies belong to individual members.
-* If you find you are using a lot of a communal supply (superglue, turpentine, masking tape, wood screws...), or you have used up the last of something, you should **buy more** for the Artifactory.
+* If you find you are using a lot of a communal supply (super glue, turpentine, masking tape, wood screws...), or you have used up the last of something, you should **buy more** for the Artifactory.
 
 ## Communications
 

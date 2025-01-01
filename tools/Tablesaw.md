@@ -1,5 +1,5 @@
 ---
-title: Tablesaw
+title: table saw
 description: DeWalt DWE7491-XE 2000W 254mm (10") Table Saw
 published: true
 date: 2024-05-13T15:54:32.713Z
@@ -20,7 +20,7 @@ You will need a helper to use the table saw with large pieces of material.
 
 ## Approved Users
 
-This tool is approved for use by any member that has completed the Tablesaw induction.
+This tool is approved for use by any member that has completed the table saw induction.
 
 ## Attachments
 

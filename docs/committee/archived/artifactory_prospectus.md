@@ -175,6 +175,6 @@ In progress / ongoing:
 -   “Geeking My Ride” - making cars smarter with extra electronics & computers.
 -   Computer-designed & carved decorative wood- & metal- work
 -   Vintage computer restoration
--   DIY analogue music synthesizers & theramins
+-   DIY analogue music synthesizers & Theramins
 -   RFID controlled tool access
 -   Son Of Swarfomat (CNC robotic tool)

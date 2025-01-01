@@ -32,7 +32,7 @@ FIXME
 #### Step 2
 
 <img src="/tools/toolphotos/ems254l/bladechange/dropsaw-bladechange2.jpg" class="align-left" width="300" alt="dropsaw-bladechange2.jpg" /> Move the blade guard aside to expose the blade mount. Remove the blade retaining bolt, washer and finally the blade itself.  
-*Note that the blade retention bolt is left-hand-threaded; i.e. **opposite** to normal (so it's lefty-tighty righty-loosey!). A memory aid: If a foolish person was to hold the bolt while it is spinning, it would tighten it up - one needs to turn the bolt head the "other" way to loosen. *
+*Note that the blade retention bolt is left-hand-threaded; i.e. **opposite** to normal (so it's lefty-tighty righty-loosy!). A memory aid: If a foolish person was to hold the bolt while it is spinning, it would tighten it up - one needs to turn the bolt head the "other" way to loosen. *
 
 #### Step 4
 
@@ -45,7 +45,7 @@ FIXME
 #### Step 6
 
 <img src="/tools/toolphotos/ems254l/bladechange/dropsaw-bladechange6.jpg" class="align-left" width="300" alt="dropsaw-bladechange6.jpg" /> Put the blade retention bolt back in and reassemble the blade guard cover.  
-*Remember the blade retention bolt is threaded **opposite** to normal (lefty-tighty righty-loosey)*
+*Remember the blade retention bolt is threaded **opposite** to normal (lefty-tighty righty-loosy)*
 
 ## Specifications
 

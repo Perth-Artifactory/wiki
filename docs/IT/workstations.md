@@ -11,7 +11,7 @@ dateCreated: 2024-11-07T10:23:57.605Z
 ## Systems
 The physical computer excluding peripherals
 
-* Model: N/A if not prebuilt
+* Model: N/A if not pre-built
 * CPU: Includes socket, cores, speed
 * RAM: Includes speed/stick configuration
 * PCIe support: HL/FH = Half Length / Full Height; FL/FH = Full Length / Full Height
@@ -24,7 +24,7 @@ The physical computer excluding peripherals
 | 241122-003   | DESKTOP-1MV4JH5           | Dell Optiplex 9020   | Intel Core i7 4790 - 3.6GHz (4 Core)  | 8Gb (2x4Gb) DDR3 1600MHz   | Integrated Graphics Intel(R) HD Graphics 4600 | Dell 00V62H             | 1xPCIe 3.0 x16 HL/FH 4xPCIe 2.0 x1 HL/FH                                                           | 1GbE Only            | 1xVGA, 2xDisplay Port                            | 447Gb SATA III SSD |
 | 241122-004   | DESKTOP-11R0KD4           | N/A                  | Intel Core i5 6500 - 3.2GHz (4 Core)  | 8Gb (2x4Gb) DDR4 2400MHz   | Intel HD Graphics 530                         | Lenovo BC30 U3E1        | 1xPCIe 3.0 x16 HL/FH 1xPCIe 2.0 x4 HL/FH 2xPCIe 2.0 x1 HL/FH                                       | 1GbE + BT            | 1xVGA, 2xDisplay Port                            | 447Gb SATA III SSD |
 | 241122-005   | DESKTOP-00X               | Dell Optiplex 9020   | Intel Core i7 4790 - 3.6GHz (4 Core)  | 8Gb (2x4Gb) DDR3 1600MHz   | Integrated Graphics Intel(R) HD Graphics 4600 | Dell 00V62H             | 1xPCIe 3.0 x16 HL/FH 4xPCIe 2.0 x1 HL/FH                                                           | 1GbE Only            | 1xVGA, 2xDisplay Port                            | 447Gb SATA III SSD |
-| 241122-006   | DESKTOP-4UEVDCF           | Dell Precition T1650 | Intel Core i7 3770 - 3.4GHz (4 Core)  | 8Gb (4x2Gb) DDR3 1600MHz   | 1023MB NVIDIA Quadro 2000                     | Dell 0X9M3X             | 1xPCIe 3.0 x16 HL/FH 1xPCIe 2.0 x1 HL/FH                                                           | 1GbE Only            | 1xVGA, 2xDisplay Port                            | 256Gb SATA III SSD |
+| 241122-006   | DESKTOP-4UEVDCF           | Dell Precision T1650 | Intel Core i7 3770 - 3.4GHz (4 Core)  | 8Gb (4x2Gb) DDR3 1600MHz   | 1023MB NVIDIA Quadro 2000                     | Dell 0X9M3X             | 1xPCIe 3.0 x16 HL/FH 1xPCIe 2.0 x1 HL/FH                                                           | 1GbE Only            | 1xVGA, 2xDisplay Port                            | 256Gb SATA III SSD |
 | 241122-007   | ARTIFACTORY-CAD           | N/A                  | Intel Core i7 7700K - 4.2GHz (4 Core) | 32Gb (2x16Gb) DDR4 2133MHz | NVIDIA GeForce GTX 1060 6GB                   | Gigabyte Z270MX-Gaming5 | 1xPCIe 3.0 x 16(16) FL/FH 1xPCIe 3.0 x 16(x8) FL/FH 1xPCIe 3.0 x 16(x4) FL/FH 1xPCIe 3.0 x 1 FL/FH | 1GbE Only            | 4xDisplay Port, 1xHDMI 1.4, 1xHDMI 2.0b, 1xDVI-D | 476Gb M.2 NVMe SSD |
 
 ## Workstations

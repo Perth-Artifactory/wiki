@@ -24,7 +24,7 @@ dateCreated: 2022-10-17T16:49:14.656Z
 
 ### Contact details
 
-The  Laser subcommittee can be contacted via the [#lasers](https://perthartifactory.slack.com/archives/CB9S94S2E) channel on Slack.
+The Laser subcommittee can be contacted via the [#lasers](https://perthartifactory.slack.com/archives/CB9S94S2E) channel on Slack.
 
 ### Role
 
@@ -145,13 +145,13 @@ The Perth Artifactory has three Laser Cutters/Engravers. The Laser Subcommittee 
 -   2\* Leadshine 3ND583 Microstep driver x or y driver
 -   2\* 100W, 100 ohm green test load resistors
 -   \~50mA analogue milliammeter
--   2\* 10600nm OD4+ dark laser safety googles in cases
+-   2\* 10600nm OD4+ dark laser safety goggles in cases
 -   1 microfibre cloth
 
 ### Maintenance notes
 
 -   To access and clean lens, turn nozzle tube's collar clockwise, looking down, to loosen and release
-    -   "Lefty-loosey", the visible front of the collar spins left, the rear spins right
+    -   "Lefty-loosy", the visible front of the collar spins left, the rear spins right
 -   Tools:
     -   Small green spanners: X belt tensioner nuts, Z-belts-tensioner nuts
     -   Hex/allen keys \~2mm, \~3mm?

@@ -117,7 +117,7 @@ Tool usage fees are payable at the end of the day when you use the tool.
   * Upcycle rack
 * Cleaning products: kitchen
 * Otherwise **check** with a member before you start using supplies. Many supplies belong to individual members.
-* If you find you are using a lot of a communal supply (superglue, turpentine, masking tape, wood screws...), or you have used up the last of something, you should **buy more** for the Artifactory.
+* If you find you are using a lot of a communal supply (super glue, turpentine, masking tape, wood screws...), or you have used up the last of something, you should **buy more** for the Artifactory.
 
 ## Communications
 

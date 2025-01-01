@@ -30,12 +30,12 @@ You can access the [control panel](https://control.artifactory.org.au) when conn
 
 | What                    | Automations | Manual | Override |
 |-------------------------|-------------|--------|----------|
-| Bar                     | **Turns on** when a google calendar event starts<br>**Turns off** when the event ends | Home Assistant | Button on the relay behind the left side of the bar |
-| Foyer                   | **Turns on** when a google calendar event starts<br>**Turns off** when the event ends | Home Assistant | Button on the relay on the top of the wall (near the GPO) |
-| Robot (Electronics Lab) | **Turns on** when a google calendar event starts<br>**Turns off** when the event ends | Home Assistant | Button on the relay inside the body |
+| Bar                     | **Turns on** when a Google calendar event starts<br>**Turns off** when the event ends | Home Assistant | Button on the relay behind the left side of the bar |
+| Foyer                   | **Turns on** when a Google calendar event starts<br>**Turns off** when the event ends | Home Assistant | Button on the relay on the top of the wall (near the GPO) |
+| Robot (Electronics Lab) | **Turns on** when a Google calendar event starts<br>**Turns off** when the event ends | Home Assistant | Button on the relay inside the body |
 | Battlestar Galactica    | Turns on with the bar | | |
-| Blimp                   | **Turns on** when a google calendar event starts | Home Assistant | None, Hardwired |
-| Pallet rack lighting | **Turns on** when a google calendar event starts | Home Assistant | Paddle switch above the power board tub |
+| Blimp                   | **Turns on** when a Google calendar event starts | Home Assistant | None, Hardwired |
+| Pallet rack lighting | **Turns on** when a Google calendar event starts | Home Assistant | Paddle switch above the power board tub |
 
 ## Aircon
 

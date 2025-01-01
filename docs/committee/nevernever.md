@@ -24,8 +24,8 @@ As of January 2016 the Treasurer has committee approval to reduce Never-Never ba
 | Item                                                          |
 | Opening                                                       |
 | Key cutting                                                   |
-| Lasercutter Port Fees                                         |
-| Lasercutter Customs Fees                                      |
+| Laser cutter Port Fees                                         |
+| Laser cutter Customs Fees                                      |
 | Acrylic Stock Purchase                                        |
 | Reimbursement from LC Cash Box 2013-11-23                     |
 | Reimbursement from LC Cash Box 2014-01-29                     |

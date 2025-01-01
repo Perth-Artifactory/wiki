@@ -50,7 +50,7 @@ Once you've opened the Home tab of the Taiga app you should see a list of tasks 
 
 The onboarding process for ongoing volunteers is fairly simple:
 
-* [Sign up to our Taiga instance](https://tasks.artifactory.org.au/register). Preferrably with the same email address you use for TidyHQ though this is not a requirement.
+* [Sign up to our Taiga instance](https://tasks.artifactory.org.au/register). Preferably with the same email address you use for TidyHQ though this is not a requirement.
 * Reach out to #it or the relevant/appropriate subcommittees to get access to the boards you need.
 * Start putting your hand up for items or have them delegated to you.
 

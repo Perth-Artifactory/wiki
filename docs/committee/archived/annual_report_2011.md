@@ -22,10 +22,9 @@ dateCreated: 2022-10-17T16:45:20.416Z
 | Deputy Secretary   | Simon Kirkby      |
 | Treasurer          | Jason Muirhead    |
 | Deputy Treasurer   | Peter Dreisiger   |
-| OCM's              |                   |
-| Antony Lord        |                   |
-| Nick Bannon        |                   |
-| Brendan Ragan      |                   |
+| OCM                | Antony Lord       |
+| OCM                | Nick Bannon       |
+| OCM                | Brendan Ragan     |
 
 ## Major Changes
 
@@ -43,7 +42,7 @@ With the acquisition of the space proper, we will gain access to the storeroom l
 
 #### AudioVault Events
 
-We've recently had AudioVault Events, the company behind Perth's silent disco's take up residence in one of the Artifactorys' incubator offices. The AVE guys are members of the space and are very keen to work with other members on performance technology projects.
+We've recently had AudioVault Events, the company behind Perth's silent disco's take up residence in one of the Artifactory's incubator offices. The AVE guys are members of the space and are very keen to work with other members on performance technology projects.
 
 ## Outreach
 

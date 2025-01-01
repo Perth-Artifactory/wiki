@@ -68,7 +68,7 @@ Training would typically cover:
 ## Control of the milling machine
 
 -   All the linear motions can be done manually
-    -   The table can be moved in x, y and z using the handwheels
+    -   The table can be moved in x, y and z using the hand wheels
     -   The quill can be lowered using the handle or the micro-feed wheel, but the head controls need to be correctly set to do it
 -   All linear motions can be powered (normally)
     - The table can be power-fed at variable speed in the x and y directions.

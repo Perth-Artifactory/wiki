@@ -40,7 +40,7 @@ The product you need to download and install is "Fusion for Personal Use"". (You
 
 We recommend the following videos:
 
-From the Ïntroduction to Fusion series (around 25 minutes total):
+From the Introduction to Fusion series (around 25 minutes total):
 [Introduction to Fusion](https://help.autodesk.com/view/fusion360/ENU/courses/AP-GET-STARTED-OVERVIEW)
 [User Interface Overview](https://help.autodesk.com/view/fusion360/ENU/courses/AP-USER-INTERFACE-OVERVIEW)
 [Set Preferences](https://help.autodesk.com/view/fusion360/ENU/courses/AP-SET-PREFERENCES)

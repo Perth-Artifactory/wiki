@@ -13,7 +13,7 @@ dateCreated: 2022-10-19T07:46:01.726Z
 
 ### NoizeMaschin!!
 
-FOR UP TO DATE NOIZEMASHIN!! - <http://www.noizemaschin.com/>
+FOR UP TO DATE NoizeMaschin!! - <http://www.noizemaschin.com/>
 
 An evening of experimental music and video, tending towards Noise. We have a warehouse in an industrial area - so no noise restrictions! woohoo...
 
@@ -349,7 +349,7 @@ hmmm dpt - New Noise-Dance project is ready for some dope ass gigs!
 
 Michael Terren - The figurehead of the Perth indie culture shakes his image and rattles his fans with something appropriately loud, noisy and aggressive.
 
-Salamander - Fusing laptop electronics with analogue fx processing and live instrumentation (Tibetan singing bowls, trumpet), Salamander will be digging their teeth into a host of new soundworlds, with drums set to 500bpm.
+Salamander - Fusing laptop electronics with analogue fx processing and live instrumentation (Tibetan singing bowls, trumpet), Salamander will be digging their teeth into a host of new soundworlds, with drums set to 500 BPM.
 
 Henry Anderson - Former Dyonysis front-man-come-laptop fanatic, intellectual heavy-weight and sexual prodigy does a set so inconceivably cool, it will be perceived as noise to all but the greatest connoisseurs.
 

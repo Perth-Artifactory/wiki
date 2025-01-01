@@ -67,9 +67,9 @@ By a committee of volunteer members elected by the members, for the members! And
 \* Men's Sheds \[Crafts/Health, Midland (check)\]
 
 -   SIMILAR: Shared workshop facility. “Making Stuff” focus.
--   DIFFERENT: Unisex fo \* cus. Mental health focus. Older target group. Much less technical.
+-   DIFFERENT: Unisex focus. Mental health focus. Older target group. Much less technical.
 
-\* Remida \[Arts, North Perth\]
+\* REmida \[Arts, North Perth\]
 
 -   SIMILAR: Artistic/Creative materials use focus. Recycling interest.
 -   DIFFERENT: Restricted workshop, Much less technical. Strong school-age outreach.
@@ -119,7 +119,7 @@ All workshops and themed evenings are open to the public, anyone can join as a "
 -   Sunday Crafternoon \[Non-tech crafts afternoon\]
     -   Specific examples include Cyberpunk costume making sessions, Steampunk props making sessions
 -   Music Technology Nights \[Software synthesis, DIY instruments\]
--   Arduino University \[Fortnightly, Wednesdsay Nights\] (Microcontroller programming & use – wearable computing, art installations, robotics, process control, more)
+-   Arduino University \[Fortnightly, Wednesday Nights\] (Microcontroller programming & use – wearable computing, art installations, robotics, process control, more)
 
 ### Events
 
@@ -175,6 +175,6 @@ In progress / ongoing:
 -   “Geeking My Ride” - making cars smarter with extra electronics & computers.
 -   Computer-designed & carved decorative wood- & metal- work
 -   Vintage computer restoration
--   DIY analogue music synthesizers & theramins
+-   DIY analogue music synthesizers & Theramins
 -   RFID controlled tool access
 -   Son Of Swarfomat (CNC robotic tool)

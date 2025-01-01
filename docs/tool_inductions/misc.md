@@ -46,7 +46,7 @@ Lead: XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y | Risk of overspray blowing back into face |
+| Eye protection (impact/splash) | Y | Risk of over spray blowing back into face |
 | Enclosed shoes                 | Y/M/N |  |
 | Mask/Respirator (vapours)      | M | Dependant on ventilation |
 

@@ -49,7 +49,7 @@ Steel:
 
 Non Ferrous Metals:
 
--   [Capral Aluminium](https://www.capral.com.au/) - plenty ofaluminium and other metals, lot's of off-cuts at the front counter
+-   [Capral Aluminium](https://www.capral.com.au/) - plenty of aluminium and other metals, lot's of off-cuts at the front counter
 
 Salvage (Steel, Wood, Building Materials):
 

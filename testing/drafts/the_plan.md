@@ -31,7 +31,7 @@ These aren't all the areas the Artifactory has to offer but they're some great s
 
 If you're still not sure that's okay too! We can help you spitball ideas.
 
-> Large projects with **tight deadlines** (like a van fitout) do not typically make good first projects. Please discuss these with us first as we are typically unable to adjust our training/access policies to accomodate the quick turnaround required.
+> Large projects with **tight deadlines** (like a van fit out) do not typically make good first projects. Please discuss these with us first as we are typically unable to adjust our training/access policies to accommodate the quick turnaround required.
 {.is-warning}
 
 ## 2. Organise your first visit to the space
@@ -71,7 +71,7 @@ This is the first actual decision you need to make. You can either use the space
 | Training on our more complex and larger tools                                              | ❌       | ✅    |
 | Priority access for inductions and training                                                | ❌       | ✅    |
 | Assistance with project planning                                                           | ❌       | ✅    |
-| Onsite storage                                                                             | ❌       | ✅    |
+| On site storage                                                                             | ❌       | ✅    |
 | Apply for 24/7 access                                                                      | ❌       | ✅    |
 | Reduced tool usage fees                                                                    | ❌       | ✅    |
 | The knowledge that you're supporting a community that supports the mental health of makers | ❌       | ✅    |
@@ -94,7 +94,7 @@ Our new members guide will get you acquainted with various aspects of the space.
 
 ## 7. Join Slack
 
-If you haven't already now is the time to join Slack, our online communication platform. Everyone is welcome on Slack, it's not members only. We **strongly recommend** setting your name on Slack to the name you want to be referred to in person rather than an online/screen name. If you're comfortable doing so you should set a profile picture of yourself — this will help people put a face to your messages and kickstarts people recognising you in the workshop.
+If you haven't already now is the time to join Slack, our online communication platform. Everyone is welcome on Slack, it's not members only. We **strongly recommend** setting your name on Slack to the name you want to be referred to in person rather than an online/screen name. If you're comfortable doing so you should set a profile picture of yourself — this will help people put a face to your messages and kick starts people recognising you in the workshop.
 
 If you decided to sign up as a member an Artifactory logo should appear next to your name within an hour of you joining. Ask in #general if this hasn't happened after 24 hours.
 
@@ -166,6 +166,6 @@ Once you feel you've met our requirements (covered in the new member induction) 
 * **Help run an event** - Post in #events-and-promotions if you have a new event idea.
 * **Contribute towards our fundraising efforts** - From time to time we'll ask for help making things that will be used to fundraise for the space. Keep an eye out in #general or ask a committee member for upcoming opportunities
 * **Attend our laser maintenance nights** - Keep an eye on #lasers for this event, it typically runs every 6 weeks.
-* **Get involved in an infrastructure build** - Keep an eye out for volunteer callouts for larger projects in #general or ask a member of our Infrastructure team about things that need to be done. Sometimes we have projects that need an extra set of hands, sometimes we need people with particular skills. The infra folk will help direct you as appropriate.
+* **Get involved in an infrastructure build** - Keep an eye out for volunteer call outs for larger projects in #general or ask a member of our Infrastructure team about things that need to be done. Sometimes we have projects that need an extra set of hands, sometimes we need people with particular skills. The infra folk will help direct you as appropriate.
 * **Become a tool trainer** - Our standard for trainers is quite high, we will typically approach you if we think you'd be a good fit and we see you around the space frequently.
 * **Join one of our subcommittees** - Membership of these groups are largely by invitation. We'll reach out if we think you're a good fit and see you around the space frequently.

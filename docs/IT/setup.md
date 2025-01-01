@@ -22,7 +22,7 @@ This is the list of software you can expect to be installed on the computers in 
 
 #### 3D Modelling
 
-* Fusion 360 - Creation of engineering mdoels, CAM software for CNC routing
+* Fusion 360 - Creation of engineering models, CAM software for CNC routing
 * [Meshmixer](https://meshmixer.com/download.html) - Modification of existing STLs
 
 #### Vector Design

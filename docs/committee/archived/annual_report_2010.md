@@ -47,7 +47,7 @@ Outline of Annual Report to be given at the AGM on the 11th of September 2010
     2.  member-based
         1.  Swarf-o-mat!
         2.  new CNC machines
-        3.  Reprap version 2 'Mendel' available
+        3.  RepRap version 2 'Mendel' available
         4.  Stratosphere Project?
         5.  coil driver kits
         6.  garden-net
@@ -57,7 +57,7 @@ Outline of Annual Report to be given at the AGM on the 11th of September 2010
 5.  Events
     1.  Regular
         1.  Theme Nights
-            1.  Reprap
+            1.  RepRap
             2.  Wine and Design Wednesday
             3.  Retro-computing
             4.  Music?
@@ -67,4 +67,4 @@ Outline of Annual Report to be given at the AGM on the 11th of September 2010
         2.  Rube Goldberg competition
         3.  crafternoons
         4.  sun fair
-        5.  swancon
+        5.  SwanCon

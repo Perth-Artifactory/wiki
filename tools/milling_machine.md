@@ -109,7 +109,7 @@ Breakage of or damage to the machine or accessories is generally expected to be 
 * No body part should be placed anywhere near a moving tool.  
 * Take care when handling tooling, particularly when fitting tools to or removing them from the spindle.  
 * Take care when lifting work holding accessories such as vises, as many are heavy. Ensure they are securely fastened to the table when in use.  
-* Be aware of hazards that may inadvertently be created when working with powered feeds. This includes crushing and being struck with the handles of manual handwheels that have not properly disengaged.  
+* Be aware of hazards that may inadvertently be created when working with powered feeds. This includes crushing and being struck with the handles of manual hand wheels that have not properly disengaged.  
 * Do not open the electrical cabinet without a good reason, and do not attempt to disable its interlock.  
 * Clean up any spills to avoid creating a slip hazard.  
 * Do not machine materials that are hazardous when inhaled. If in doubt, consult the relevant MSDS.  
@@ -178,7 +178,7 @@ Ben has a range of other measuring instruments that can be used by arrangement.
 
 ## Resources
 
-The [Blondihacks Mill Skills series on Youtube](https://www.youtube.com/playlist?list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ) is a great place to learn about using a milling machine. Episode 12 in particular is helpful in getting to know the DRO.
+The [Blondihacks Mill Skills series on YouTube](https://www.youtube.com/playlist?list=PLY67-4BrEae9m8v20LNARIRl9Pd9bdFRZ) is a great place to learn about using a milling machine. Episode 12 in particular is helpful in getting to know the DRO.
 
 [Adam's Bits](https://www.endmill.com.au/end-mills/) is Australian-based and sells carbide end mills in a range of sizes.
 

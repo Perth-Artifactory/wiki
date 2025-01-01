@@ -355,7 +355,7 @@ Pre-Start Checks - Tool
 1. Check tension and condition of the sand paper
 1. Check condition of conveyor
 1. Check conveyor tracking by running conveyor at full speed and check for sideways movement. Tracking only to be adjusted by trainers.
-1. Check conveyor tension by slowing down conveyor. If conveyor can be stopped with hand presure it is too loose. Tension only to be adjusted by trainers.
+1. Check conveyor tension by slowing down conveyor. If conveyor can be stopped with hand pressure it is too loose. Tension only to be adjusted by trainers.
 1. Turn machine and conveyor off.
 
 Using:

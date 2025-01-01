@@ -52,11 +52,11 @@ You have completed the basic version of setting up a job on LightBurn.
 
 ### Repeat specific layers
 
-The layer field `Number of passes` can be used to control how many times a layer is repeated. The feature is particularily useful when a full cut would require running the laser below 3-5mm/s. In this instance you may be better off running particular layers twice to reduce the risk of fire.
+The layer field `Number of passes` can be used to control how many times a layer is repeated. The feature is particularly useful when a full cut would require running the laser below 3-5mm/s. In this instance you may be better off running particular layers twice to reduce the risk of fire.
 
 ### Repeat specific layers after a job has finished
 
-To repeat only certain layers uncheck the green output toggle next to the layers you do not wish to cut. This is preferrable to deleting the vectors directly for a few reasons but mainly because the disabled layers are still included when calculating the origin point in the User Origin and Current Position modes.
+To repeat only certain layers uncheck the green output toggle next to the layers you do not wish to cut. This is preferable to deleting the vectors directly for a few reasons but mainly because the disabled layers are still included when calculating the origin point in the User Origin and Current Position modes.
 
 ### Setting the laser origin
 

@@ -80,7 +80,7 @@ Such events will be marked in the booking calendar as either -
 
 > (Informative)
 >
-> There is a [publicly viewable calendar](https://space.artifactory.org.au/bands.html) that shows both a) rehearsal room bookings and b) events occuring in the space. This calendar can be used to coordinate band room bookings and how they interact with other scheduled events.
+> There is a [publicly viewable calendar](https://space.artifactory.org.au/bands.html) that shows both a) rehearsal room bookings and b) events occurring in the space. This calendar can be used to coordinate band room bookings and how they interact with other scheduled events.
 {.is-info}
 
 A "quiet band" is broadly defined as:

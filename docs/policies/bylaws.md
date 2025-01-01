@@ -62,7 +62,7 @@ If you -
 - leave hazardous waste on the premises, or
 - dispose of hazardous waste incorrectly,
 
-you will be liable for the the Association's reasonable costs incurred to dispose of the waste correctly.
+you will be liable for the Association's reasonable costs incurred to dispose of the waste correctly.
 
 
 
@@ -236,7 +236,7 @@ Can be left in the following areas provided that the supervising guardian can se
 
 ### Definitions
 
-* Active use: Power tools, spray paint, hot works, or other dangerous activities are occuring. Members or attendees using either the courtyard or project area may change the status of the area to Active Use at their discretion to reflect any issues that may be caused by an unsupervised minor in that area. (Painting miniatures, wet paint etc)
+* Active use: Power tools, spray paint, hot works, or other dangerous activities are occurring. Members or attendees using either the courtyard or project area may change the status of the area to Active Use at their discretion to reflect any issues that may be caused by an unsupervised minor in that area. (Painting miniatures, wet paint etc)
 * Passive use: Where none of the above apply
 * Actively supervised: The guardian must be physically present in the area and able to intervene to enforce their responsibilities as guardian
 
@@ -284,7 +284,7 @@ PEOPLE
 
 * **Project Lead**: Member who is undertaking or co-ordinating the project works.
 * **Committee Correspondent**: Committee Member tasked with ensuring the committee is updated at regular meetings (This may be the same Member as Project Lead).
-* **Specialist Correspondent**: The Committee may appoint another member who is known to have skills within the area of the project to verify viability if the committee cannot determine this within their own skillset
+* **Specialist Correspondent**: The Committee may appoint another member who is known to have skills within the area of the project to verify viability if the committee cannot determine this within their own skill set
 
 OVERVIEW
 

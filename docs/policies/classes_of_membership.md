@@ -74,7 +74,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Tool usage fees** | The "**day pass** rates" listed under [Tool Usage Fees](/docs/policies/fees). |
 | **Can store property at the space** | No |
 | **Use of rehearsal room** | Yes - three bookings per month. Additional bookings subject to availability. |
-| **Fees to attend Artifactory-run events and workshops** | Free entry for band members to Modsynth building nights held on the Artifactory premises. Otherwise, the non-member rate for the event. |
+| **Fees to attend Artifactory-run events and workshops** | Free entry for band members to ModSynth building nights held on the Artifactory premises. Otherwise, the non-member rate for the event. |
 | **Eligible for 24/7 access** | A single key per band used only for accessing the space when a rehearsal is booked. Issue of keys is subject to our [by-laws](/docs/policies/bylaws). Secondary keys may be issued at the discretion of the Management Committee. |
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | Six band memberships. |

@@ -27,7 +27,7 @@ Sound Absorption Panels are great for killing acoustic reflections, killing ambi
 -   Attach short sides to braces. Use set-square to ensure 90 degrees.
 -   Staple calico along one long side and stretch over to other side. Staple to other side. Do not over-stretch - will bend pine, and rip calico. Taut, but not trampoline-worthy. Best to do corners with tension, then mid points, then quarters, then eighths.
 -   Flip frame over to make "Calico bathtub" (calico on bottom)
--   Insert insulation Batt. Use gloves, as rockwool is ichy. Not dangerous these days, but irritating.
+-   Insert insulation Batt. Use gloves, as Rockwool is itchy. Not dangerous these days, but irritating.
 -   Fold calico over top of Batt, and staple opposite side, leaving 1-2cm as a hem-flap fold hem over, and staple.
 -   Now stretch calico over short-ends of frame - just 1cm or so - and staple down.
 -   Finally, fold calico at frame vertices into "hospital corners" (like you are wrapping xmas present) and staple down. This isn't just to be OCD / Neat - will stop calico catching on stuff.

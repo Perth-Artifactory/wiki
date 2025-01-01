@@ -325,7 +325,7 @@ For other areas of the space check with another member before you start using su
 
 ## 
 
-If you find you are using a lot of a communal supply (superglue, turpentine, masking tape, wood screws...), or you have used up the last of something, you should buy more for the space. The supplies you used were also donated by other members.
+If you find you are using a lot of a communal supply (super glue, turpentine, masking tape, wood screws...), or you have used up the last of something, you should buy more for the space. The supplies you used were also donated by other members.
 
 # Communication
 

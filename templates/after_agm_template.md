@@ -64,7 +64,7 @@ List of which committee Member(s) is on which Subcommittee
 -   Subcommittee Y - who
 -   Subcommittee Z - who
 
-| Reaffirm XX, YY, ZZ Subcommitteess. Moved By | MOVER             |
+| Reaffirm XX, YY, ZZ Subcommittees. Moved By | MOVER             |
 |----------------------------------------------|-------------------|
 | Seconded By                                  | SECONDER          |
 | Status                                       | Accepted/Rejected |
@@ -90,7 +90,7 @@ Defer review on action items until next meeting???????????
 
 Change Passwords/codes/access to committee stuff and things etc etc etc. **Who**
 
--   Google Group/Facebook/Slack/Google Suite/Safe/The many IT thingys/TidyHQ
+-   Google Group/Facebook/Slack/Google Suite/Safe/The many IT thingies/TidyHQ
 
 ## Next Meeting
 

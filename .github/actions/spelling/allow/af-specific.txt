@@ -463,6 +463,7 @@ Microstep
 microstepping
 microswitches
 mida
+BBQs
 uccnc
 wahackon
 usb
@@ -472,6 +473,18 @@ toolpath
 Midalia
 milldred
 milli
+GPIOs
+GST
+HDDs
+meetup
+OGMs
+Shandong
+spruiking
+synthesisers
+thingies
+TMc
+wyber
+xenyx
 youtube
 zlab
 triluminarium

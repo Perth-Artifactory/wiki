@@ -67,7 +67,7 @@ By a committee of volunteer members elected by the members, for the members! And
 \* Men's Sheds \[Crafts/Health, Midland (check)\]
 
 -   SIMILAR: Shared workshop facility. “Making Stuff” focus.
--   DIFFERENT: Unisex fo \* cus. Mental health focus. Older target group. Much less technical.
+-   DIFFERENT: Unisex focus. Mental health focus. Older target group. Much less technical.
 
 \* REmida \[Arts, North Perth\]
 

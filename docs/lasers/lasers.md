@@ -145,7 +145,7 @@ The Perth Artifactory has three Laser Cutters/Engravers. The Laser Subcommittee 
 -   2\* Leadshine 3ND583 Microstep driver x or y driver
 -   2\* 100W, 100 ohm green test load resistors
 -   \~50mA analogue milliammeter
--   2\* 10600nm OD4+ dark laser safety googles in cases
+-   2\* 10600nm OD4+ dark laser safety goggles in cases
 -   1 microfibre cloth
 
 ### Maintenance notes

@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2024-12-28T05:56:39.968Z
+date: 2025-01-01T06:10:45.198Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -355,7 +355,7 @@ Pre-Start Checks - Tool
 1. Check tension and condition of the sand paper
 1. Check condition of conveyor
 1. Check conveyor tracking by running conveyor at full speed and check for sideways movement. Tracking only to be adjusted by trainers.
-1. Check conveyor tension by slowing down conveyor. If conveyor can be stopped with hand pressure it is too loose. Tension only to be adjusted by trainers.
+1. Check conveyor tension by slowing down conveyor. If conveyor can be stopped with hand presure it is too loose. Tension only to be adjusted by trainers.
 1. Turn machine and conveyor off.
 
 Using:
@@ -420,6 +420,7 @@ Signed off by: ???, ???
 | Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled |
 
 Pre:
+1.
 1.
 
 Using:

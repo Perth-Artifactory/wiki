@@ -12,7 +12,6 @@ dateCreated: 2022-12-12T17:06:54.067Z
 > Please do not share the contents of this page.
 {.is-warning}
 
-
 ## The following competencies must be met to sign off on part 2 of laser training
 
 * Check air assist/extraction

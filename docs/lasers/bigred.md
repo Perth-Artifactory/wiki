@@ -8,37 +8,37 @@ editor: markdown
 dateCreated: 2024-01-04T10:16:43.769Z
 ---
 
-# Big Red - Maintenance
-
 Details on this page have been moved from the primary [Big Red](/tools/lasers/bigred) page as they're not really applicable to operators.
 
 ## Specs
 
-| -------------------------- | ----------------- |
-| Make/Model                 | [G.Weike LC1290](https://web.archive.org/web/20150319072633/http://www.wklaser.com/pro_190.aspx) |
-| Controller                 | [MPC6515](/tools/lasers/controller_mpc6515) |
-| Nominal cut area           | 1,200 × 900 mm    |
-| Honeycomb area             | 1,165 × 862 mm    |
-| Laser type                 | CO2 10.6μm laser  |
-| Laser tube                 | SPT-TR130 (130W)  |
-| Laser tube working current | 25 - 30mA         |
-| Lens                       | China PVD Znse Lens 20mm / 63.5 (2.5 inch) ([Cloudray](https://www.cloudraylaser.com/products/china-pvd-znse-focusing-lens-for-co2-laser?variant=43422450184)) 
+|                            |                                                                                                                                                                |
+|----------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Make/Model                 | [G.Weike LC1290](https://web.archive.org/web/20150319072633/http://www.wklaser.com/pro_190.aspx)                                                               |
+| Controller                 | [MPC6515](/tools/lasers/controller_mpc6515)                                                                                                                    |
+| Nominal cut area           | 1,200 × 900 mm                                                                                                                                                 |
+| Honeycomb area             | 1,165 × 862 mm                                                                                                                                                 |
+| Laser type                 | CO2 10.6μm laser                                                                                                                                               |
+| Laser tube                 | SPT-TR130 (130W)                                                                                                                                               |
+| Laser tube working current | 25 - 30mA                                                                                                                                                      |
+| Lens                       | China PVD Znse Lens 20mm / 63.5 (2.5 inch) ([Cloudray](https://www.cloudraylaser.com/products/china-pvd-znse-focusing-lens-for-co2-laser?variant=43422450184)) |
 
 ## Computer
 
--   Dell 03nvj6 (service tag 1nz282s)
--   Intel Core 2 Duo e7500
--   DDR3 4gb (2x2)
--   AMD Radeon R7 250
+- Dell 03nvj6 (service tag 1nz282s)
+- Intel Core 2 Duo e7500
+- DDR3 4gb (2x2)
+- AMD Radeon R7 250
 
 ## Laser Tube History
 
--   2021-now [SPT-TR130](https://www.sptlaser.net/co2-laser-tube/tr-series) (purchased: [aliexpress](https://www.aliexpress.com/item/33026988722.html))
--   2018--2021 100W CO2 laser tube (donated along with Middle Red)
--   2017?--2018 [Reci](http://www.recilaser.com/en/productInfo/fc9181e93b448cac013b44f8a3e20e65.htm) 130W W6 CO2 laser tube, max 26mA)
+- 2021-now [SPT-TR130](https://www.sptlaser.net/co2-laser-tube/tr-series) (purchased: [aliexpress](https://www.aliexpress.com/item/33026988722.html))
+- 2018--2021 100W CO2 laser tube (donated along with Middle Red)
+- 2017?--2018 [Reci](http://www.recilaser.com/en/productInfo/fc9181e93b448cac013b44f8a3e20e65.htm) 130W W6 CO2 laser tube, max 26mA)
 
 ## Settings
 
+|                   |              |
 |-------------------|--------------|
 | X Axis Pulse Unit | 0.0048000000 |
 | Y Axis Pulse Unit | 0.0048000000 |
@@ -65,4 +65,4 @@ See `\\filer\Resources\Laser\laser-Alignment-target\` for laser alignment target
 
 ### Documents
 
-1.  <embed src="/tools/lasercutters/hy-z_series_laser_power_supply_user_manual.pdf" class="align-center" />
+- [hy-z_series_laser_power_supply_user_manual.pdf](/tools/lasercutters/hy-z_series_laser_power_supply_user_manual.pdf)

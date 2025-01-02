@@ -75,6 +75,7 @@ authorises
 Autobarn
 Autodesk
 automagically
+Automations
 AUTONAVx
 Autoranging
 AUTOSCALE

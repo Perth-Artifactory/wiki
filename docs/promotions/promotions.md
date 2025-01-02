@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-10-17T16:51:50.764Z
 ---
 
-# Promotions Subcommittee
-
 ## Members
 
 | Name                  | Contact details on file in TidyHQ † |
@@ -30,7 +28,7 @@ The Promotions subcommittee can be contacted the [#events-and-promotions](https:
 
 ## Terms of Reference
 
-*Last updated 2018.12.22*
+Last updated 2018.12.22
 
 ### Scope and responsibilities
 
@@ -38,13 +36,13 @@ The Promotions Subcommittee is responsible for coordinating the following:
 
 * Project Leads for external events ran by The Artifactory
 * The construction and maintenance of promotional displays
-* The production and stocking of merchandise 
- * Awareness of upcoming events applicable to the space and related proposals to the Management Committee
+* The production and stocking of merchandise
+  * Awareness of upcoming events applicable to the space and related proposals to the Management Committee
 * Any other tasks assigned by the Management Committee
 
 ### Coordination
 
-The group will be loosely co-ordinated by the subcommittee chair. Individual events will be co-ordinated by a designated Project Lead or another method determined by the subcommittee.
+The group will be loosely coordinated by the subcommittee chair. Individual events will be coordinated by a designated Project Lead or another method determined by the subcommittee.
 
 ### Membership
 

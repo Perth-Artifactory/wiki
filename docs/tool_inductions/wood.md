@@ -12,8 +12,6 @@ dateCreated: 2024-01-27T10:06:35.646Z
 > Unless marked as signed off the content is a work in progress.
 {.is-warning}
 
-# Wood inductions
-
 These are tools in the wood category only. You may be thinking of the [power tool](/docs/tool_inductions/power) category instead.
 
 ## Bandsaw (Wood/Large) ✔

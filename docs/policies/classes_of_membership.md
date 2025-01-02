@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-10-27T14:21:21.933Z
 ---
 
-# Classes of membership
-
 This page defines the classes of membership made by the committee, and some of the by-laws applying to those classes of membership, as allowed for by -
 
 * s8 of the [Constitution](/constitution) regarding *Classes of membership*; and
@@ -142,6 +140,7 @@ A re-drafting of this bylaw was proposed on [2023-07-16](https://vote.artifactor
 The current version of this bylaw was [approved by the committee on 2023-11-25](/minutes/Committee/2023-11-25#membership-class-changes).
 
 Redrafted.
+
 * Standardise the description of each class of membership to a common template.
 * Clarify what is meant by "communal areas".
 * Clarify that discounts on Artifactory-run events may be specific to the event.

@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2024-05-13T04:06:39.802Z
 ---
 
-# Infrastructure and Equipment Fund
-
 ## Purposes of the fund
 
 - To maintain the existing equipment and infrastructure of the Artifactory.
@@ -17,7 +15,7 @@ dateCreated: 2024-05-13T04:06:39.802Z
 
 ## Definitions
 
-For purposes of this document: 
+For purposes of this document:
 
 - “Infrastructure” means items that are tangible, provide an enduring benefit to the members of the Artifactory, and are not equipment.
 - “Equipment” means items that directly facilitate making things, are intended for use by the Artifactory’s members and casual users, and are not consumables.
@@ -34,9 +32,7 @@ To make your [tax-deductible donation](https://wiki.artifactory.org.au/en/docs/d
     Account: `329 833 366`
     Description: `Infrastructure Fund`
 
-2. Donate online at https://perart.io/donate_matched
-
-3. Contact us at treasurer@artifactory.org.au
+2. [Contact us via email](mailto:treasurer@artifactory.org.au)
 
 ## Typical uses of the fund
 

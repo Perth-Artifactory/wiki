@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-12-01T03:40:13.647Z
 ---
 
-# Equipment loan agreement
-
 ## Scope
 
 This document is intended to cover loans of equipment by an individual (“equipment owner”) to the Association (Perth Artifactory Inc., "The Association").
@@ -47,8 +45,8 @@ Written records must be made of:
 
 ## Artifactory obligations
 
-* The Association is not liable for damages to the equipment. 
-  * The Association will endeavour to identify who caused damage to the equipment. 
+* The Association is not liable for damages to the equipment.
+  * The Association will endeavour to identify who caused damage to the equipment.
   * The Association will attempt to investigate and correct any systematic causes for damage to the equipment.
   * The Management Committee may hold members liable for damage to the equipment, where it is determined that the damage was due to the negligence of a member.
     * This determination will be made by the Management Committee, assisted by the Infrastructure Subcommittee.

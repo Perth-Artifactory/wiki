@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2023-01-08T05:52:26.820Z
 ---
 
-# Guidance for subcommittees
-
 This page gives guidance for how subcommittees should be run.
 
 Refer to the [subcommittees by-law](/docs/policies/subcommittees) for mandatory requirements.
@@ -44,4 +42,3 @@ The subcommittee should be ready and willing to report the current status of any
 * Their own members.
 * A main committee member.
 * The main committee at each committee meeting.
-

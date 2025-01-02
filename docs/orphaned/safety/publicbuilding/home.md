@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-10-17T16:50:33.507Z
 ---
 
-# Public Building Regulations
-
 This pages covers some background on the legislation and the requirements of the regulations, provided by the council.
 
 ## Legislation Background

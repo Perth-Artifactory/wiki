@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-11-26T13:27:04.702Z
 ---
 
-# Associate Memberships Panel
-
 ## Members
 
 | Name                  | Contact details on file in TidyHQ † |
@@ -23,8 +21,7 @@ dateCreated: 2022-11-26T13:27:04.702Z
 
 ## Contact details
 
-The Associate Memberships Panel can be contacted via email at apply@artifactory.org.au .
-
+The Associate Memberships Panel can be contacted via [email](mailto:apply@artifactory.org.au)
 
 ## Role
 

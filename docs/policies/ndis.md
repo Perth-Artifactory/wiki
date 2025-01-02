@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2023-11-17T08:48:43.901Z
 ---
 
-# Our Interaction with the NDIS
-
 The National Disability Insurance Scheme (NDIS) plays a crucial role in assisting people with disabilities achieve equitable access to our community and facilities. For any queries regarding items on this page please [contact us](mailto:info@artifactory.org.au).
 
 Here's a breakdown of how we interact with the various components of the NDIS, including Participants and Providers.

@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-10-27T14:21:39.410Z
 ---
 
-# Officers
-
 This page lists the subsidiary offices that the committee has created, as allowed for by the [Constitution](/constitution) -
 
 * §49 *Subcommittees and subsidiary offices*
@@ -51,7 +49,7 @@ Defined at committee meeting 2018-09-29
 
 Defined at committee meeting 2018-10-27
 
-* Point of contact for new members and monitor info@artifactory.org.au
+* Point of contact for new members and monitor the [enquiries inbox](mailto:info@artifactory.org.au)
 * Able to add RFID access
 * Maintain checklists for space/workshop inductions
 * Responsible for coordinating open days

@@ -9,11 +9,8 @@ dateCreated: 2024-01-27T15:17:00.618Z
 ---
 
 > Please do not share the contents of this page.
-> Unless marked as signed off the content is a work in progress. 
+> Unless marked as signed off the content is a work in progress.
 {.is-warning}
-
-
-# Metal Inductions
 
 These are tools in the metal category only. You may be thinking of the [power tool](/docs/tool_inductions/power) category instead.
 
@@ -31,6 +28,7 @@ Signed off by: XXX, Fletcher
 | Safety boots                   | M | Depending on weight of material |
 
 Pre:
+
 1. Confirm material is appropriate for blade type (Metal hardness up to steel)
 1. Check blade sharpness and tension
 1. Consider material orientation to reduce risk of movement
@@ -38,21 +36,23 @@ Pre:
 1. Consider work holding after piece is cut
 
 Using:
+
 1. Consider using cutting fluid
 1. Ensure tool is completely spun up before contacting material
 1. Rest running blade on surface and adjust spring tension to achieve desired cut pressure
 1. Tool *should* turn off automatically when material is cut through. May not actuate where end of cut takes a long time
 
 After:
+
 1. Piece may be hot
 1. Cleanup includes tray under saw, ground
 
-## Bench Grinder 
+## Bench Grinder
 
 TODO
 
 Lead: XXX
-Signed off by: 
+Signed off by:
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -65,22 +65,25 @@ Signed off by:
 | Mask/Respirator (dust)         | M | Depends on material and wheel composition |
 
 Pre:
+
 1. Check condition of wheels for cracks or damage
 2. Ensure grindstone appropriate for material type
 
 Using:
+
 1. Secure workpiece, use rests to support as needed
 2. Stand to side of wheel when starting grinder
 
 After:
+
 1. Let wheels stop completely before leaving
 2. Clean area of any grinding dust
 
-## Drill Press 
+## Drill Press
 
 This tool is in multiple categories. [Master](/docs/tool_inductions/wood#drill-press)
 
-## Plasma Cutter 
+## Plasma Cutter
 
 Lead: XXX
 Signed off by: XXX, XXX
@@ -98,18 +101,21 @@ Signed off by: XXX, XXX
 | Natural fibre clothing         | Y | Sparks |
 
 Pre:
+
 1. Check air supply and cutting tip condition
 2. Secure material and make sure workspace is clear
 
 Using:
+
 1. Keep the cutting tip at the correct distance from the workpiece
 2. Make sure cut speeds maintain the arc fully through the cut
 
 After:
+
 1. Let the torch cool down before putting it away
 2. Clean up any cutting debris
 
-## Saw (Friction) 
+## Saw (Friction)
 
 Lead: XXX
 Signed off by: Fletcher, XXX
@@ -126,6 +132,7 @@ Signed off by: Fletcher, XXX
 | Natural fibre clothing         | Y | Sparks |
 
 Pre:
+
 1. Ensure material is appropriate for blade type (steel)
 1. Check blade condition
 1. Secure material in clamp
@@ -133,15 +140,17 @@ Pre:
 1. Warn people around you and give them time to don appropriate PPE
 
 Using:
+
 1. Spin blade up before contacting material
 1. Do not force the blade; let the saw do the cutting
 
 After:
+
 1. Material will be hot
 1. Let the machine cool completely before cleaning
 1. Clean machine and work area
 
-## Welder (MIG) 
+## Welder (MIG)
 
 Lead: XXX
 Signed off by: XXX, XXX
@@ -159,18 +168,21 @@ Signed off by: XXX, XXX
 | Natural fibre clothing         | Y |  |
 
 Pre:
+
 1. Check gas, wire feed, and electrode
 2. Prepare material surfaces to be clean and free of dust or rust
 
 Using:
+
 1. Use appropriate weld settings for material and thickness
 2. Use correct welding patterns
 
 After:
+
 1. Allow materials to cool before handling
 2. Clean welder and work area of metal fragments and dust
 
-## Welder (Stick/SMAW) 
+## Welder (Stick/SMAW)
 
 Lead: XXX
 Signed off by: XXX, XXX
@@ -191,13 +203,16 @@ Signed off by: XXX, XXX
 | Natural fibre clothing         | Y/M/N |  |
 
 Pre:
+
 1. Inspect electrode, cable, and welder settings
 2. Ensure work area and material surfaces are clean
 
 Using:
+
 1. Maintain appropriate arc length and angle
 2. Keep welding helmet down while welding
 
 After:
+
 1. Allow materials to cool before handling
-2. Clean up slag and spatter, and keep the welding area clean and neat 
+2. Clean up slag and spatter, and keep the welding area clean and neat

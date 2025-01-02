@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-10-17T16:49:03.316Z
 ---
 
-# Infrastructure Subcommittee
-
 ## Members
 
 | Name                     | Contact details on file in TidyHQ † |
@@ -28,9 +26,7 @@ The Infrastructure subcommittee can be contacted via the [#infrastructure](https
 
 ## Active Projects
 
-| Project                    | Lead     | Contact          | Impact                                                                                                                              |
-|----------------------------|----------|------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| - | - | - | - |
+Projects are tracked via [Taiga](https://tasks.artifactory.org.au/project/infrastructure)
 
 ## Terms of Reference
 
@@ -47,7 +43,7 @@ The Infrastructure Subcommittee is responsible for coordinating the following:
 
 ### Coordination
 
-The group will be loosely co-ordinated by the subcommittee chair. Individual projects will be co-ordinated by a designated Project Lead or another method determined by the subcommittee.
+The group will be loosely coordinated by the subcommittee chair. Individual projects will be coordinated by a designated Project Lead or another method determined by the subcommittee.
 
 ### Membership
 

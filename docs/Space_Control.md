@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2023-03-01T15:54:50.097Z
 ---
 
-# How to control the space
-
 Some of the devices around the workshop have migrated to an electronic control system. While a manual override is possible the intention is that attendees utilise Artifactory workstations, the foyer kiosk, or their personal devices to control things. In many cases the devices are automated and don't need to be interacted with.
 
 You can access the [control panel](https://control.artifactory.org.au) when connected to the WiFi or from the kiosk in the foyer. (It's a Home Assistant instance)
@@ -24,7 +22,7 @@ You can access the [control panel](https://control.artifactory.org.au) when conn
 | Mill / Lathe | None | Silver button on the side of the mill wall/shield or via Home Assistant | None (silver button has no external requirements) |
 | Machine room | Front and back switches will both toggle the entire room. Switch will turn on automatically when door is opened. | Silver buttons next to the door or behind bandsaw. Alternatively via Home Assistant | None (silver buttons has no external requirements) |
 | Social area light | Turns on with scheduled event | White button on social table next to phone charger | None, hardwired |
-| Workshop lights | Turns on after a key is scanned on the front door | Light switch on side of switchboard inside front door | None (light switch has no external requirements)
+| Workshop lights | Turns on after a key is scanned on the front door | Light switch on side of switchboard inside front door | None (light switch has no external requirements) |
 
 ## Decorations
 

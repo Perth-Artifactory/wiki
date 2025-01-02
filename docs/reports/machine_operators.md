@@ -25,10 +25,10 @@ Only high risk (red) tools are listed in brackets here. Each list includes a num
 
 ## Authorised operator lists
 
- * [Laser operators](/docs/reports/Laser_operators) ([Big Red](/tools/lasers/bigred), [Middle Red](/tools/lasers/middlered))
- * [Woodworking Operators](/docs/reports/Wood_operators) (Wood Lathe, [CNC Router](/tools/cnc/swarf/swarfomat), Track Saw, Plunge Router)
- * [Metalworking Operators](/docs/reports/Metal_operators) ([Metal Lathe](/tools/lathe), [Mill](/tools/milling_machine), [CNC Router](/tools/cnc/swarf/swarfomat), Furnace)
- * [Power Tool Operators](/docs/reports/Power_operators) (7"+ Angle Grinders)
- * [3D Printer Operators](/docs/reports/Printer_operators) ([Resin Printers](/tools/3dprinters/home#resin), [FDM Printers](/tools/3dprinters/home#fdm-filament))
- * [Misc Operators](/docs/reports/Misc_operators) - Things that don't fit in other categories
- * [Combined list](/docs/reports/All_operators) (Every operator)
+* [Laser operators](/docs/reports/Laser_operators) ([Big Red](/tools/lasers/bigred), [Middle Red](/tools/lasers/middlered))
+* [Woodworking Operators](/docs/reports/Wood_operators) (Wood Lathe, [CNC Router](/tools/cnc/swarf/swarfomat), Track Saw, Plunge Router)
+* [Metalworking Operators](/docs/reports/Metal_operators) ([Metal Lathe](/tools/lathe), [Mill](/tools/milling_machine), [CNC Router](/tools/cnc/swarf/swarfomat), Furnace)
+* [Power Tool Operators](/docs/reports/Power_operators) (7"+ Angle Grinders)
+* [3D Printer Operators](/docs/reports/Printer_operators) ([Resin Printers](/tools/3dprinters/home#resin), [FDM Printers](/tools/3dprinters/home#fdm-filament))
+* [Misc Operators](/docs/reports/Misc_operators) - Things that don't fit in other categories
+* [Combined list](/docs/reports/All_operators) (Every operator)

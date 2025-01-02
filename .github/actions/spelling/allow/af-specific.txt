@@ -92,6 +92,7 @@ Batsocks
 Battlestar
 Bayswater
 bbq
+BBQs
 BDSM
 BECKUM
 Behringer
@@ -176,6 +177,7 @@ cosplay
 cosplayer
 cosplayers
 Costco
+costumery
 cowparade
 crafternoon
 Crafternoon
@@ -319,6 +321,7 @@ google
 googlegroups
 Govhack
 gpio
+GPIOs
 GPO
 GPOs
 GPT
@@ -328,6 +331,7 @@ Gravoply
 Gravostrat
 GSM
 GSPA
+GST
 GSuite
 GTX
 Guthire
@@ -336,6 +340,7 @@ hackerspace
 Hackerspaces
 handover
 hdd
+HDDs
 HDMI
 HDPE
 HDrive
@@ -408,6 +413,7 @@ lasered
 laserfood
 lasering
 Lasermark
+Lawley
 lbm
 LDA
 LDIFs
@@ -447,6 +453,7 @@ Maylands
 MCWlaser
 Mediawiki
 Meeples
+meetup
 Meetup
 meetups
 memberavailability
@@ -463,37 +470,13 @@ Microstep
 microstepping
 microswitches
 mida
-BBQs
-uccnc
-wahackon
-usb
-wifi
-trilobites
-toolpath
 Midalia
 milldred
 milli
-GPIOs
-GST
-HDDs
-meetup
-OGMs
-Shandong
-spruiking
-synthesisers
-thingies
-TMc
-wyber
-xenyx
-youtube
-zlab
-triluminarium
-Thunderbirds
 Minecraft
 Mirrabooka
 mnt
 Modix
-tighty
 MOhm
 MOMA
 monox
@@ -551,6 +534,7 @@ Officeworks
 offlined
 offsite
 ogm
+OGMs
 omc
 Openfiler
 Optiplex
@@ -605,6 +589,7 @@ Powerpoint
 Pozible
 PPCA
 ppe
+preggers
 Pressurised
 prioritise
 prioritised
@@ -676,6 +661,7 @@ SEEED
 SEO
 SGM
 Shackspace
+Shandong
 SHANDONG
 Shapenerd
 Shirtz
@@ -710,6 +696,7 @@ Spiegeltent
 spikelights
 spoilboard
 Spoolman
+spruiking
 SPST
 Squirtz
 ssh
@@ -750,6 +737,7 @@ swarfxl
 SWinc
 Symbiotica
 synthesiser
+synthesisers
 TAFE
 tagine
 Taiko
@@ -762,9 +750,14 @@ Telstra
 Tevo
 Theramins
 thicknesser
+thingies
 Thingiverse
+Thunderbirds
 Tidyspace
+tighty
 timeframe
+TMc
+toolpath
 toolpost
 touchpad
 TPG
@@ -774,10 +767,13 @@ Traffolyte
 transgender
 Trautonium
 trialing
+trilobites
+triluminarium
 Trolase
 Trotec
 TURA
 Ubiquiti
+uccnc
 UHT
 umming
 underutilised
@@ -791,6 +787,7 @@ unswipeable
 upcycle
 upcycleables
 upskill
+usb
 Userify
 utilisation
 UVC
@@ -817,6 +814,7 @@ VPS
 WAAPA
 Wacom
 WAFreenet
+wahackon
 WAHC
 WAHCKon
 walkaround
@@ -846,6 +844,7 @@ whiteboard
 Whiteboards
 Whitworths
 WIAB
+wifi
 Willeton
 winedesign
 winget
@@ -861,6 +860,8 @@ WorkSafe
 workshopping
 workspaces
 WOTT
+wyber
+xenyx
 Xenyx
 XLR
 xos
@@ -868,4 +869,6 @@ Xpansion
 XPress
 Yanchep
 Yongli
+youtube
+zlab
 Znse

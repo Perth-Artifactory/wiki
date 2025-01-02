@@ -8,21 +8,23 @@ editor: markdown
 dateCreated: 2022-10-19T07:25:43.512Z
 ---
 
-# 2021 - 2022 Committee
+## Committee Members
 
-Elected 18th of September 2021 Office Bearers
+Elected [2021-09-18](/minutes/AGM/2021-09-18) and appointed to roles [post AGM](/minutes/Committee/2021-09-18)
 
--   [Chair](Chairperson): Beau Daley
--   Deputy Chair: Fletcher Boyd
--   [Secretary](Secretary): Phoebe-Jean Harris
--   [Treasurer](Treasurer): Vincent Dalstra
+### Office Bearers
 
-Ordinary Committee Members
+- [Chair](/docs/committee/chairperson): Beau Daley
+- Deputy Chair: Fletcher Boyd
+- [Secretary](/docs/committee/secretary): Phoebe-Jean Harris
+- [Treasurer](/docs/committee/treasurer): Vincent Dalstra
 
--   Deputy Secretary: Vacant
--   Deputy Treasurer: Ben Connor
--   Ordinary Committee Member: Iain Graham
--   Ordinary Committee Member: Johannes Chuah
--   Ordinary Committee Member: Jason Kongchouy
--   Ordinary Committee Member: Joshua Rospondek
--   Ordinary Committee Member: Jeremiah Finch (resigned: 2022/XX/XX)
+### Ordinary Committee Members
+
+- Deputy Secretary: Vacant
+- Deputy Treasurer: Ben Connor
+- Ordinary Committee Member: Iain Graham
+- Ordinary Committee Member: Johannes Chuah
+- Ordinary Committee Member: Jason Kongchouy
+- Ordinary Committee Member: Joshua Rospondek
+- Ordinary Committee Member: Jeremiah Finch (resigned: 2022-02-08)

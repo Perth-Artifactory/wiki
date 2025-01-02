@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-10-17T16:47:23.072Z
 ---
 
-# The Never Never
-
 The NeverNever is a record of approved items for the Artifactory that have purchased by members for things bought for the Artifactory but never ever ever likely to get repaid nor is entitled to.
 
 As of January 2016 the Treasurer has committee approval to reduce Never-Never balances in exchange for membership given the bank account has a healthy balance.

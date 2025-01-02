@@ -8,9 +8,9 @@ editor: markdown
 dateCreated: 2022-10-19T07:24:54.010Z
 ---
 
-# 2014 - 2015 Committee
+## Committee Members
 
-Elected 13th September 2014
+Elected [2014-09-31](/minutes/AGM/2014-09-13)
 
 - Chair: Jenna Downing (JD)
 - Secretary: Nick Bannon (NB)

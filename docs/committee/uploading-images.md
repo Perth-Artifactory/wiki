@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-08-27T05:25:09.850Z
 ---
 
-# Why
+## Why
 
 The Artifactory Photo Archival Program has been developed with the intention of widening the scope of community engagement and fostering an environment of shared creativity through visual narratives. This program allows members to share photos of their projects, events or simply candid shots that best represent their "Artifactory" experience. The main idea behind this is to provide a platform that facilitates the display of a diverse range of ideas and creations, all born within our creative hub.
 
@@ -40,4 +40,4 @@ Pick the method that is most convenient for you, none of these options create wo
 
 ### Other ways
 
-Do you use iCloud, Dropbox, or another method for photo storage? Contact it@artifactory.org.au and we'll organise a solution that works for you.
+Do you use iCloud, Dropbox, or another method for photo storage? Contact [IT](mailto:it@artifactory.org.au) and we'll organise a solution that works for you.

@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2024-05-04T14:24:23.999Z
 ---
 
-# 3D Printers Subcommittee
-
 ### Members
 
 | Name                              | Contact details on file in TidyHQ † |
@@ -25,7 +23,7 @@ dateCreated: 2024-05-04T14:24:23.999Z
 
 ### Contact details
 
-The 3D Printers subcommittee can be contacted via the [#3d-printing](https://perthartifactory.slack.com/archives/CG05N75DZ) channel on Slack. Decisions are made via [Loomio](https://vote.artifactory.org.au/af-3d-printing/)
+The 3D Printers subcommittee can be contacted via the [#3d-printing](https://perthartifactory.slack.com/archives/CG05N75DZ) channel on Slack. Decisions are made via [Loomio](https://vote.artifactory.org.au/af-3d-printing/) and progress on projects is tracked via [Taiga](https://tasks.artifactory.org.au/project/3d).
 
 ### Role
 
@@ -34,7 +32,7 @@ The Perth Artifactory has a range of [3D printers](https://wiki.artifactory.org.
 ### Terms of Reference
 
 The 3D Printers Subcommittee is in charge of:
- 
+
 * 3D printers, and
 * 3D scanners.
 

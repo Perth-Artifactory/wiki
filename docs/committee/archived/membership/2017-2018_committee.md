@@ -8,17 +8,20 @@ editor: markdown
 dateCreated: 2022-10-19T07:25:25.645Z
 ---
 
-# 2017 - 2018 Committee
+## Committee Members
 
-Elected 30th of September 2017
+Elected [2017-09-30](/minutes/AGM/2017-09-30)
 
--   Chair: Lawrence Dixon - “Lemming” (LEM)
--   Deputy Chair: Melanie McCarthy (Mel)
--   Secretary: Blake Samuels (Blake)
--   Treasurer: Stuart McDonald (StM)
--   Deputy Treasurer: Tim Gilchrist (TG)
--   Deputy Secretary: Hugh Frazer
--   OCM: Jean-Michel Maujean (JMM)
--   OCM: James Sim (Felix)
--   OCM: Steve (SH)
--   OCM: Tanner Perham (TP)
+- Chair: Lawrence Dixon - “Lemming” (LEM)
+- Deputy Chair: Melanie McCarthy (Mel)
+- Secretary: Blake Samuels (Blake)
+- Treasurer: Stuart McDonald (StM)
+
+---
+
+- Deputy Treasurer: Tim Gilchrist (TG)
+- Deputy Secretary: Hugh Frazer
+- OCM: Jean-Michel Maujean (JMM)
+- OCM: James Sim (Felix)
+- OCM: Steve (SH)
+- OCM: Tanner Perham (TP)

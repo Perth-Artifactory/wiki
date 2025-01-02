@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
 ---
 
-# Closing Procedure
-
 Following these steps is part of your [responsibilities as a keyholder.](/docs/policies/keyholder_responsibilities) If you cannot close up please contact the committee via [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y) on [Slack](https://perart.io/slack).
 
 > Things marked with 🏘️ can also be turned off via the kiosk in the foyer.<br>In particular the "Leaving" button at the top will turn everything off and start a timer for the carpark lights to give you time to leave.
@@ -56,7 +54,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 * 🏘️ Turn off overhead lights using the block of 3 switches next to the door.
 * Close the front door behind you and make sure it locked.
 
-# Recent changes
+## Recent changes
 
 * Add under table light
 * Remove pallet light
@@ -67,7 +65,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 * Electronics lab bench has been temporarily moved to the project area while repairs are performed
 * The rehearsal room door doesn't need to be checked anymore
 * The following lights can now be controlled via the kiosk: Courtyard, Pallet Rack, Design Lab, Women's Toilet, Social Area, Electronics lab
-* Rehearsal room aircon switch is no longer accessable to workshop members, use the kiosk
+* Rehearsal room aircon switch is no longer accessible to workshop members, use the kiosk
 * Electronics bench is on the kiosk
 * Lights above the lasers are now turned on using the same switches as the ceiling lights
 * Machine room and mill/lathe can now be turned off via the foyer kiosk

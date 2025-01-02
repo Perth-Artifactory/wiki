@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2023-09-16T10:44:54.897Z
 ---
 
-# 2024 - 2025 Committee
-
 Elected [2024-09-14](/minutes/AGM/2024-09-14) unless otherwise stated
 
 Office Bearers

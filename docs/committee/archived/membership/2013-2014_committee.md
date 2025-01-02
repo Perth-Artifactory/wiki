@@ -8,7 +8,9 @@ editor: markdown
 dateCreated: 2022-10-19T07:24:45.277Z
 ---
 
-# 2013 - 2014 Committee
+## Committee Members
+
+Elected [2013-09-21](/minutes/AGM/2013-09-21)
 
 Executive Committee:
 

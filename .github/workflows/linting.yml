@@ -43,7 +43,7 @@ jobs:
       - uses: errata-ai/vale-action@v2.1.1
         with:
           vale_flags: "--glob=*.md"
-          filter_mode: added
+          filter_mode: file
           reporter: github-check
   spelling:
     name: Check spelling

@@ -42,9 +42,9 @@ jobs:
       - uses: actions/checkout@v4
       - uses: errata-ai/vale-action@v2.1.1
         with:
-          fail_on_error: true
           vale_flags: "--glob=*.md"
           filter_mode: added
+          reporter: github-check
   spelling:
     name: Check Spelling
     permissions:

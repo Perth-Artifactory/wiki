@@ -1,4 +1,4 @@
-name: Check spelling and formatting
+name: Check spelling, grammar, formatting
 
 on:
   push:
@@ -19,7 +19,7 @@ on:
 
 jobs:
   checkmarkdown:
-    name: Check Markdown
+    name: Check markdown formatting
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v4
@@ -36,7 +36,7 @@ jobs:
         globs: ${{ steps.changed-files.outputs.all_changed_files }}
         separator: ","
   vale:
-    name: Vale
+    name: Check against MS Style Guide
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -46,7 +46,7 @@ jobs:
           filter_mode: added
           reporter: github-check
   spelling:
-    name: Check Spelling
+    name: Check spelling
     permissions:
       contents: read
       pull-requests: read

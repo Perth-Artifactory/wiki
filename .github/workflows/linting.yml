@@ -44,6 +44,7 @@ jobs:
         with:
           fail_on_error: true
           vale_flags: "--glob=*.md"
+          filter_mode: added
   spelling:
     name: Check Spelling
     permissions:

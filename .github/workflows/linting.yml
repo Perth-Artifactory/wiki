@@ -1,4 +1,4 @@
-name: Check spelling, grammar, formatting
+name: Linting
 
 on:
   push:
@@ -75,7 +75,7 @@ jobs:
           cspell:lorem-ipsum/dictionary.txt
 
   comment-push:
-    name: Submit report
+    name: Submit spelling report
     # If your workflow isn't running on push, you can remove this job
     runs-on: ubuntu-latest
     needs: spelling

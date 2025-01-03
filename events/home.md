@@ -8,10 +8,8 @@ editor: markdown
 dateCreated: 2022-10-19T07:45:51.284Z
 ---
 
-> This page has not been updated in some time and is likely out of date
+> This page has not been updated in some time and is out of date
 {.is-warning}
-
-# Events
 
 To keep up to date with the FULL events list and notifications for upcoming ones do subscribe to the Artifactory [Facebook Page](https://www.facebook.com/perthartifactory/). And keep an eye on the [Google Events Calendar](https://calendar.google.com/calendar/embed?showCalendars=0&height=600&wkst=1&bgcolor=%23ffffff&src=q9bs8ul7umfnm4m02eq535114o@group.calendar.google.com&color=%234E5D6C&ctz=Australia/Perth%22&pli=1)
 

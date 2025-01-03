@@ -63,6 +63,7 @@ Burgay
 Burge
 Burmas
 Byrne
+Callum
 Cappel
 Carlsen
 Carmischael
@@ -257,6 +258,7 @@ Leitch
 lem
 letsburn
 Liezil
+Lindberg
 Lindebringhs
 Linishall
 Lirio
@@ -280,6 +282,7 @@ Mantovani
 Marchant
 Marinescu
 Matsumoto
+Matteo
 Mattner
 mattr
 Maujean
@@ -315,6 +318,7 @@ Navin
 Neilsen
 Niall
 NICKB
+Niel
 Nik
 Noorbakhsh
 Nottle
@@ -382,6 +386,7 @@ Scaffedi
 Seb
 Seda
 Servis
+Shae
 Sharda
 Shatteredworld
 Sheh
@@ -415,6 +420,7 @@ Suraweera
 surry
 Sylvain
 Sylver
+Taran
 Tarant
 Tegan
 Temperley

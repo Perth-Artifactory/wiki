@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2025-01-04T05:52:17.057Z
+date: 2025-01-04T05:54:30.830Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -16,7 +16,7 @@ dateCreated: 2022-11-04T18:58:58.150Z
 > Add `material containing asbestos` to the prohibited list
 > Rename `Chemical` to `Chemical/Material`
 > Add `Concentrated acids, bases, and oxidizing agents. This includes but is not limited to: sodium hydroxide, concentrated hydrochloric and sulfuric acid, potassium permanganate, chlorine gas.` as a subset of `substances withthe ability to cause harm`
-> Add `Toxic substances, including heavy metals such as mercury` as a subset of `substances withthe ability to cause harm`
+> Add `Toxic substances, including heavy metals such as mercury` as a subset of `substances with the ability to cause harm`
 {.is-info}
 
 **Dangerous projects must be approved by at least two members of the committee.**

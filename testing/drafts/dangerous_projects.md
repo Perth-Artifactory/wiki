@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2024-12-31T15:31:39.142Z
+date: 2025-01-04T04:45:28.196Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -10,6 +10,10 @@ dateCreated: 2022-11-04T18:58:58.150Z
 
 > This document is a draft!
 {.is-warning}
+
+> Since this policy was posted to Loomio the following changes have been proposed (and accepted into the draft)<br>
+> Amend the line `Drugs` to read `Drugs and drug paraphernalia`
+{.is-info}
 
 **Dangerous projects must be approved by at least two members of the committee.**
 

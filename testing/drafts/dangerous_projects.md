@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2025-01-04T04:45:28.196Z
+date: 2025-01-04T05:52:17.057Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -13,6 +13,10 @@ dateCreated: 2022-11-04T18:58:58.150Z
 
 > Since this policy was posted to Loomio the following changes have been proposed (and accepted into the draft)<br>
 > Amend the line `Drugs` to read `Drugs and drug paraphernalia`
+> Add `material containing asbestos` to the prohibited list
+> Rename `Chemical` to `Chemical/Material`
+> Add `Concentrated acids, bases, and oxidizing agents. This includes but is not limited to: sodium hydroxide, concentrated hydrochloric and sulfuric acid, potassium permanganate, chlorine gas.` as a subset of `substances withthe ability to cause harm`
+> Add `Toxic substances, including heavy metals such as mercury` as a subset of `substances withthe ability to cause harm`
 {.is-info}
 
 **Dangerous projects must be approved by at least two members of the committee.**

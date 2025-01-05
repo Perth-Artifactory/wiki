@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2025-01-04T05:54:47.989Z
+date: 2025-01-05T05:44:41.168Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -17,9 +17,10 @@ dateCreated: 2022-11-04T18:58:58.150Z
 > Rename `Chemical` to `Chemical/Material`
 > Add `Concentrated acids, bases, and oxidizing agents. This includes but is not limited to: sodium hydroxide, concentrated hydrochloric and sulfuric acid, potassium permanganate, chlorine gas.` as a subset of `substances with the ability to cause harm`
 > Add `Toxic substances, including heavy metals such as mercury` as a subset of `substances with the ability to cause harm`
+> Add note to top of policy that reads "This policy only covers projects you work on in our workshop. Tool use is covered under our Training policy"
+> Replace welding batteries line with `Self assembled battery packs (e.g. spot welding lithium-ion batteries)`
+> Add `Lithium polymer (LiPo) batteries` under Electrical
 {.is-info}
-
-**Dangerous projects must be approved by at least two members of the committee.**
 
 Before you work on a project at the Artifactory, you must assess if your project could:
 
@@ -33,6 +34,8 @@ You must demonstrate to the committee that:
 * You have identified hazards, and implemented controls, to achieve an acceptable level of risk.
 
 The committee may require you to submit a formal risk assessment, in writing, before approving your project.
+
+**Dangerous projects must be approved by at least two members of the committee.**
 
 ## What projects do we consider dangerous?
 

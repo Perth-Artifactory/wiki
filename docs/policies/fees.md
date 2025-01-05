@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2024-12-14T08:18:59.685Z
+date: 2025-01-05T10:09:47.675Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -227,7 +227,7 @@ Payment method
 
 ----
 
-### CNC Router ("Swarf-o-mat")
+### CNC Router
 
 Cost basis
 

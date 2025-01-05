@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2025-01-05T05:44:41.168Z
+date: 2025-01-05T05:45:30.736Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -19,7 +19,7 @@ dateCreated: 2022-11-04T18:58:58.150Z
 > Add `Toxic substances, including heavy metals such as mercury` as a subset of `substances with the ability to cause harm`
 > Add note to top of policy that reads "This policy only covers projects you work on in our workshop. Tool use is covered under our Training policy"
 > Replace welding batteries line with `Self assembled battery packs (e.g. spot welding lithium-ion batteries)`
-> Add `Lithium polymer (LiPo) batteries` under Electrical
+> Add `Lithium polymer (LiPo) batteries other than those in unmodified commercial devices` under Electrical
 {.is-info}
 
 Before you work on a project at the Artifactory, you must assess if your project could:

@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2025-01-05T05:45:30.736Z
+date: 2025-01-05T05:47:44.275Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -11,7 +11,7 @@ dateCreated: 2022-11-04T18:58:58.150Z
 > This document is a draft!
 {.is-warning}
 
-> Since this policy was posted to Loomio the following changes have been proposed (and accepted into the draft)<br>
+> Since this policy was posted to Loomio the following changes have been proposed (and accepted into the draft). They will be actioned before the proposal progresses.<br>
 > Amend the line `Drugs` to read `Drugs and drug paraphernalia`
 > Add `material containing asbestos` to the prohibited list
 > Rename `Chemical` to `Chemical/Material`

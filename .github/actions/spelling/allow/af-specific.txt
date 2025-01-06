@@ -159,6 +159,7 @@ clubtraining
 cnc
 CNC'ed
 CNCs
+Cockburn
 collabs
 colourblindness
 Commercial
@@ -180,6 +181,7 @@ cosplayer
 cosplayers
 Costco
 costumery
+Cowle
 cowparade
 crafternoon
 Crafternoon
@@ -440,6 +442,7 @@ limboload
 linux
 livestream
 lockdown
+Loftus
 Logitech
 Loomio
 loosy

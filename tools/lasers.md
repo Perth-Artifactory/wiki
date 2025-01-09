@@ -2,66 +2,46 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2024-03-23T12:15:45.011Z
+date: 2025-01-09T16:28:14.664Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
 ---
 
-# Laser Cutters
-
-The Perth Artifactory has 2 laser cutters available for use. For details on each machine see these pages:
+You can use laser cutters to cut a variety of materials[materials](/tools/lasers/materials) with a high degree of accuracy. The Artifactory currently has two laser cutters in operation:
 
 * [Big Red](/tools/lasers/bigred)
 * [Middle Red](/tools/lasers/middlered)
 
-The laser cutters use high intensity collimated infrared light to cut and engrave various materials. The most common materials cut on our laser cutters are woods and acrylic.
+## Training
 
-All operators must be trained before using the machines. An operator must be watching the laser cutter at all times while it is cutting.
+You must be signed off by one of our laser trainers before you can cut unsupervised. Laser training is split over two sessions and is suitable for all experience levels. In the first session we'll get you comfortable using the machine, and familiarise you with our material and fire safety procedures. Your second session is an assessment. A trainer will watch you go through the cutting process from start to finish and ask you some questions to confirm you understand how to use the machine safely. 
 
-## Safety
+Training is typically booked through the [#training-and-inductions](https://perart.io/Straining) channel on [Slack](https://artifactory.org.au/slack).
 
-The laser cutters are dangerous tools. The main hazards:
+### Trainers
 
-|                                                                 |      |
-| --------------------------------------------------------------- | ---- |
-| ![ionising_radiation.svg](/resources/hazards/fire.png)          | There is a constant risk of fire when cutting most materials. Supervise the laser at all times. |
-| ![ionising_radiation.svg](/resources/hazards/crush.svg)         | There is the risk of a crush injury when raising and lowering the bed. Keep your hands out of the machine when changing the bed height or focusing the laser. |
-| ![ionising_radiation.svg](/resources/hazards/laser.png)         | The lasers in these machines are capable of producing intense, collimated beams of light that can cause significant injury. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
-| ![ionising_radiation.svg](/resources/hazards/visible_light.svg) | When vaporised some material will release a bright light. Use your own judgement as to whether the light is too bright to look at directly. |
-| ![ionising_radiation.svg](/resources/hazards/high_voltage.svg)  | The laser cutters operate at approximately 30,000V. Do not attempt to remove panels or bypass interlocks unless trained and authorised to do so. |
+These volunteers are able to train laser operators
+
+| Trainer Name   | Session 1        | Assessment | Availability                                            |
+| -------------- | ---------------- | - | ------------------------------------------------------- |
+| Nick Bannon    | ✓                | X | By request |
+| Fletcher Boyd  | ✓                | ✓ | #training-and-inductions on Slack, Slack DMs (for NDIS and accessable variations) |
+| Johannes Chuah | ✓                | X | By request |
+| Lewis Yip      | ✓                | ✓ | #training-and-inductions on Slack |
+| Blake Samuels  | ✓                | X | Unavailable |
 
 ## Usage Costs
 
-To cover the cost of maintenance and consumables the laser cutters have fees per minute of operation. When a laser cutter job finishes, the display shows the time it took. This is the time to be charged. The laser cutter software on the PC can give an estimate of cut time before you start a job. It tends to under estimate though especially for engraving.
+To cover the cost of maintenance, consumables, and power the laser cutters have a [usage fee](/docs/policies/fees#laser-cutter-big-red) attached. Our control software will give you a rough estimate of the time it will take to complete your job.
 
-![big_red_laser_time_readout.jpg](/tools/lasers/big_red_laser_time_readout.jpg)
 
-Refer to [Tool Usage Fees](/docs/policies/fees) for the current fees.
-
-## Training
-
-All users must be trained on the laser cutters before using them.
-
-Training consists of two parts -
-
-* Part 1: a session to explain how to use the laser cutter including supervised jobs done by the trainee.
-
-* Part 2: a test to ensure the operator is safe to use the laser cutter.
-
-A user must be trained and tested on each laser cutter separately, since they are all different in certain aspects.
 
 ### Trainers
 
 Below is a list of trainers (Artifactory volunteers who are able to train new operators). Training can be organised by posting a message to the [\#lasers](https://perthartifactory.slack.com/archives/CB9S94S2E) channel on Slack.
 
-| Trainer Name   | Big Red (LC1290) | Middle Red (KH7050) | Availability                                            |
-| -------------- | ---------------- | ------------------- | ------------------------------------------------------- |
-| Nick Bannon    | ✓                | ✓                   | Third Tuesday of the month from 6pm (Confirm beforehand) |
-| Fletcher Boyd  | ✓                | ✓                   | #lasers on Slack, Slack DMs (for NDIS and accessable variations)  |
-| Johannes Chuah | ✓                |                     | By request  |
-| Lewis Yip      | ✓                | -                   | General Hacking Saturdays (Confirm beforehand), Metal Mondays (Confirm beforehand), #lasers on Slack |
-| Blake Samuels  | ✓                | ✓          | Unavailable |
+
 
 ### Operators
 

@@ -2,13 +2,13 @@
 title: Laser Cutters
 description: 
 published: true
-date: 2025-01-09T16:31:46.526Z
+date: 2025-01-09T16:32:18.135Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:57:18.915Z
 ---
 
-You can use laser cutters to cut a variety of materials[materials](/tools/lasers/materials) with a high degree of accuracy. The Artifactory currently has two laser cutters in operation:
+You can use laser cutters to cut a variety of [materials](/tools/lasers/materials) with a high degree of accuracy. The Artifactory currently has two laser cutters in operation:
 
 ## Big Red
 

@@ -2,7 +2,7 @@
 title: Perth Artifactory
 description: Welcome to the wiki!
 published: true
-date: 2023-01-08T14:47:11.784Z
+date: 2025-01-11T08:58:06.409Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-06T13:21:41.820Z
@@ -32,15 +32,9 @@ Anyone with a Slack account can edit our wiki!
 ## General information
 
 * [Code of Conduct](/docs/committee/code_of_conduct) for all participants in the Artifactory.
-
 * [Access to the Artifactory](/docs/committee/artifactory_access) - including casual access, and 24/7 access for members.
-
 * [Shopping](/docs/committee/shopping) - recommended suppliers for materials and services - including those who offer special rates for Artifactory members!
-
 * Tools - see the "Tools" section in the navigation menu
-
-> Help wanted to update the tools section - please contact us in the [#tools-and-fabrication](https://perthartifactory.slack.com/archives/CDSFY9E7N) channel on Slack!
-{.is-info}
 
 ## For visitors and members-to-be
 
@@ -49,14 +43,9 @@ Anyone with a Slack account can edit our wiki!
 ## For members
 
 * [New Members Guide](new_members_guide).
-
 * [Closing procedure](/docs/committee/lockup) for key-holders.
-
 * [Keyholder responsibilities](/docs/policies/keyholder_responsibilities).
-
 * [Dangerous projects and tools policy](/testing/drafts/dangerous_projects_and_tools).
-
-
 
 ## Governance
 
@@ -70,12 +59,3 @@ Anyone with a Slack account can edit our wiki!
   * [Lasers](/docs/lasers/lasers)
   * [Promotions](/docs/promotions/promotions)
 * [Minutes](/minutes/home) from general meetings, committee meetings, and subcommittee meetings.
-
-## Contents may have shifted in transit...
-
-> We're in the process of migrating data from our old wiki to here.
->
-> If you see an issue drop a message in #it on Slack.
->
-> A read only copy of the old wiki can be found [here](https://archive.wiki.artifactory.org.au).
-{.is-info}

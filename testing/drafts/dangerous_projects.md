@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2025-01-11T07:51:33.419Z
+date: 2025-01-11T07:53:24.213Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -14,6 +14,8 @@ dateCreated: 2022-11-04T18:58:58.150Z
 > Since this policy was posted to Loomio the following changes have been proposed (and accepted into the draft). They will be actioned before the proposal progresses.<br>
 > **Changes already implemented, see version history for original version**
 {.is-info}
+
+----
 
 > This policy only covers projects you work on in our workshop. Tool use is covered under our [Training policy](/docs/policies/training)
 {.is-info}

@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-01-11T09:56:27.999Z
+date: 2025-01-11T13:46:04.327Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -45,9 +45,11 @@ People doing van fitout projects generally want to use the space very intensivel
 
 These people usually need a lot of volunteer time for tool inductions, but they usually don't contribute back to our community, and they leave as soon as their fitout project is done.
 
+## People that will need more assistance planning out and completing a project
 
+This level of assistance is typically only provided to members (not day pass users).
 
 ## Dangerous projects
 
-
+Projects covered under our dangerous projects policy can only be completed by members.
 

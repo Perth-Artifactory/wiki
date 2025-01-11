@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2025-01-05T05:47:44.275Z
+date: 2025-01-11T07:51:33.419Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -12,14 +12,10 @@ dateCreated: 2022-11-04T18:58:58.150Z
 {.is-warning}
 
 > Since this policy was posted to Loomio the following changes have been proposed (and accepted into the draft). They will be actioned before the proposal progresses.<br>
-> Amend the line `Drugs` to read `Drugs and drug paraphernalia`
-> Add `material containing asbestos` to the prohibited list
-> Rename `Chemical` to `Chemical/Material`
-> Add `Concentrated acids, bases, and oxidizing agents. This includes but is not limited to: sodium hydroxide, concentrated hydrochloric and sulfuric acid, potassium permanganate, chlorine gas.` as a subset of `substances with the ability to cause harm`
-> Add `Toxic substances, including heavy metals such as mercury` as a subset of `substances with the ability to cause harm`
-> Add note to top of policy that reads "This policy only covers projects you work on in our workshop. Tool use is covered under our Training policy"
-> Replace welding batteries line with `Self assembled battery packs (e.g. spot welding lithium-ion batteries)`
-> Add `Lithium polymer (LiPo) batteries other than those in unmodified commercial devices` under Electrical
+> **Changes already implemented, see version history for original version**
+{.is-info}
+
+> This policy only covers projects you work on in our workshop. Tool use is covered under our [Training policy](/docs/policies/training)
 {.is-info}
 
 Before you work on a project at the Artifactory, you must assess if your project could:
@@ -47,7 +43,7 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 * Current exceeding 10A
 * Intentional electrical arcing
 * Stored electrical energy (capacitors, inductors) with the potential to discharge into people
-* Welding batteries (e.g. spot welding lithium-ion batteries)
+* Self assembled battery packs (e.g. spot welding lithium-ion batteries)
 
 *Note:Commercial devices are excluded from this category provided that you aren't modifying the device or wiring it yourself.*
 
@@ -80,9 +76,11 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 
 [^2]: [ARPNSA | How is the hazard of a laser rated](https://www.arpansa.gov.au/understanding-radiation/what-is-radiation/non-ionising-radiation/laser#how-is-the-hazard-of-a-laser-rated)
 
-### Chemical
+### Chemical/Material
 
-* Substances with the ability to cause harm when exposed to skin or eyes
+* Substances with the ability to cause harm when exposed to skin or eyes including:
+  * Concentrated acids, bases, and oxidizing agents. For example: sodium hydroxide, concentrated hydrochloric and sulfuric acid, potassium permanganate, chlorine gas.
+  * Heavy metals such as mercury
 * Materials that react in a highly exothermic manner when exposed to water (e.g. alkali metals like elemental sodium/potassium)
 * Bromine and other volatile toxic liquids
 * Large quantities of gases (Where the quantity is high enough to adversely affect breathing)
@@ -112,7 +110,8 @@ The following types of projects are absolutely prohibited:
 
 * Prohibited weapons and firearms as defined in relevant legislation[^4][^6]
 * Accessories for prohibited weapons and firearms
-* Drugs
+* Drugs and drug paraphernalia
+* Material containing asbestos
 * Fractal burning / Lichtenburg burning[^5]
 
 [^5]: [American Association of Woodturners | Fractal / Lichtenberg Burning](https://www.woodturner.org/Woodturner/Woodturner/Resources/Safety-Materials/Safety-Fractal-Burning-Lichtenburg-Burning.aspx)

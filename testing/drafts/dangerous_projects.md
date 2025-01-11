@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2025-01-11T08:06:11.936Z
+date: 2025-01-11T08:08:31.632Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -49,7 +49,7 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 
 *Note:Commercial devices are excluded from this category provided that you aren't modifying the device or wiring it yourself.*
 
-[^1]: Voltages where the work is classed as Electrical Work under [4A.iii](https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_47829.htm/$FILE/Electricity%20(Licensing)%20Regulations%201991%20-%20%5B07-ac0-01%5D.html?OpenElement#:~:text=nominal%20pressure%20exceeding-,50%C2%A0volts%20alternating%20current%20or%20120%C2%A0volts%20ripple%20free%20direct%20current,-%3B%20and) of the WA Electricity (Licensing) Regulations 1991
+[^1]: Voltages where the work is classed as Electrical Work under [§4A.iii](https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_47829.htm/$FILE/Electricity%20(Licensing)%20Regulations%201991%20-%20%5B07-ac0-01%5D.html?OpenElement#:~:text=nominal%20pressure%20exceeding-,50%C2%A0volts%20alternating%20current%20or%20120%C2%A0volts%20ripple%20free%20direct%20current,-%3B%20and) of the WA Electricity (Licensing) Regulations 1991
 
 ### Pressurised gases/liquids
 

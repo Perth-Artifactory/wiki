@@ -24,7 +24,7 @@ Subcommittee rules can be found on the respective subcommittee pages:
 * [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2)
 * [Lasers Subcommittee](/docs/lasers/lasers)
 * [Associate Memberships Panel](/docs/Associate_Memberships)
-* [IT Subcommittee](/docs/IT)
+* [IT Subcommittee](/docs/IT/subcommittee)
 * [3D Printers](/docs/3dprinters/3dprinters)
 * [Promotions](/docs/promotions/promotions)
 

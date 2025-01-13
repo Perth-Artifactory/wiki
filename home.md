@@ -2,7 +2,7 @@
 title: Perth Artifactory
 description: Welcome to the wiki!
 published: true
-date: 2025-01-11T08:58:06.409Z
+date: 2025-01-13T13:41:46.447Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-06T13:21:41.820Z
@@ -55,7 +55,7 @@ Anyone with a Slack account can edit our wiki!
 * Subcommittees -
   * [Associate Memberships](/docs/Associate_Memberships)
   * [Infrastructure](/docs/infrastructure/infrastructurev2)
-  * [IT](/docs/IT)
+  * [IT](/docs/IT/subcommittee)
   * [Lasers](/docs/lasers/lasers)
   * [Promotions](/docs/promotions/promotions)
 * [Minutes](/minutes/home) from general meetings, committee meetings, and subcommittee meetings.

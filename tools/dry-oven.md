@@ -2,14 +2,14 @@
 title: Dry Oven
 description: 
 published: true
-date: 2025-01-23T14:04:55.465Z
+date: 2025-01-23T14:08:01.275Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-21T06:34:56.318Z
 ---
 
 # Dry Oven
-![dry_oven_exterior.jpg](/tools/images/dry_oven_exterior.jpg)
+![dry_oven_exterior.jpg](/tools/images/dry_oven_exterior_small.jpg)
 
 ## Quick use instructions
 

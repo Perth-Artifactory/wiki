@@ -2,7 +2,7 @@
 title: Dry Oven
 description: 
 published: true
-date: 2025-01-23T14:00:37.294Z
+date: 2025-01-23T14:04:55.465Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-21T06:34:56.318Z
@@ -24,21 +24,23 @@ After a short delay:
 - The oven will heat to the temperature setpoint and hold for the set time.
 - After the set time has elapsed, the oven will display the stop message ("srop") and cool.
 
-4. Press and hold reset + left to disengage stop message:
+4. Press and hold reset + left at the same time to disengage stop message:
 ![dry_oven_reset_button.jpg](/tools/images/dry_oven_reset_button.jpg) + ![dry_oven_left_button.jpg](/tools/images/dry_oven_left_button.jpg)
 
 ### To adjust setpoints
 1. Observe the control panel:
 ![dry_oven_controller.jpg](/tools/images/dry_oven_controller.jpg)
 
-2. Press the reset button once to adjust temperature setpoint.
-- The letters SP will be displayed on the top row in RED.
+2. Press the reset button once to adjust temperature setpoint: 
+![dry_oven_reset_button.jpg](/tools/images/dry_oven_reset_button.jpg)
+- The letters "sp" will be displayed on the top row in RED.
 - The temperature setpoint will be displayed on the bottom row in GREEN.
-- Use the left, up, and down buttons to adjust the setpoint.
+- Use the left, up, and down buttons to select a digit and adjust the setpoint:
+![dry_oven_left_button.jpg](/tools/images/dry_oven_left_button.jpg) + ![dry_oven_up_button.jpg](/tools/images/dry_oven_up_button.jpg) + ![dry_oven_down_button.jpg](/tools/images/dry_oven_down_button.jpg)
 
 3. Press the reset button a second time to adjust the set time.
 - The letters "sr" will be displayed on the top row in RED.
-- The set time in minutes will be displayed on the bottom row in GREEN.
-- As before, use the left, up, and down buttons to adjust the setpoint.
+- The set time in **minutes** will be displayed on the bottom row in GREEN.
+- Use the left, up, and down buttons, as before, to adjust the setpoint.
 
-4. Press the rest button a third time to return to the initial display mode.
+4. Press the reset button a third time to return to the initial display mode.

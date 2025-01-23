@@ -2,7 +2,7 @@
 title: Dry Oven
 description: 
 published: true
-date: 2025-01-23T14:31:37.843Z
+date: 2025-01-23T15:17:00.848Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-21T06:34:56.318Z
@@ -22,7 +22,7 @@ After a short delay:
 - The temperature probe reading will be displayed on the top row in RED.
 - The temperature setpoint will be displayed on the bottom row in GREEN.
 - The oven will heat to the temperature setpoint and hold for the set time.
-- After the set time has elapsed, the oven will display the stop message ("srop") and cool.
+- After the set time has elapsed, the oven will display the stop message `srop`^(sic)^ and cool.
 
 4. Press and hold reset + left at the same time to disengage stop message:
 ![dry_oven_reset_button.jpg](/tools/images/dry_oven_reset_button.jpg) + ![dry_oven_left_button.jpg](/tools/images/dry_oven_left_button.jpg)
@@ -33,13 +33,13 @@ After a short delay:
 
 2. Press the reset button once to adjust temperature setpoint: 
 ![dry_oven_reset_button.jpg](/tools/images/dry_oven_reset_button.jpg)
-- The letters "sp" will be displayed on the top row in RED.
+- The letters `sp` will be displayed on the top row in RED.
 - The temperature setpoint will be displayed on the bottom row in GREEN.
 - Use the left, up, and down buttons to select a digit and adjust the setpoint:
 ![dry_oven_left_button.jpg](/tools/images/dry_oven_left_button.jpg) + ![dry_oven_up_button.jpg](/tools/images/dry_oven_up_button.jpg) + ![dry_oven_down_button.jpg](/tools/images/dry_oven_down_button.jpg)
 
 3. Press the reset button a second time to adjust the set time.
-- The letters "sr" will be displayed on the top row in RED.
+- The letters `sr` will be displayed on the top row in RED.
 - The set time in **minutes** will be displayed on the bottom row in GREEN.
 - Use the left, up, and down buttons, as before, to adjust the setpoint.
 

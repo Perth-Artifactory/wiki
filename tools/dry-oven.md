@@ -2,7 +2,7 @@
 title: Dry Oven
 description: 
 published: true
-date: 2025-01-23T14:30:01.428Z
+date: 2025-01-23T14:31:37.843Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-21T06:34:56.318Z
@@ -47,6 +47,6 @@ After a short delay:
 
 ## Misc
 
-The oven heats quickly until it gets to within approx one degree of the setpoint. The controller may take several minutes to complete the final degree. Be aware if precision timing is an issue.    
-The dry oven temperature probe may be off by up to 3 degrees C, based on comparison with a multimeter probe. Be aware if precision temperatures are an issue.   
+The oven heats quickly until it gets to ~one degree of the setpoint. This final degree may take several minutes to complete. Be aware if precision timing is an issue.    
+The dry oven temperature probe may be off by up to 3 degrees (based on comparison with a multimeter probe). Be aware if precision temperatures are an issue.   
 The controller also has a “lock” mode which has been seen after button mashing. Try to avoid button mashing.

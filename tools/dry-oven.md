@@ -2,30 +2,29 @@
 title: Dry Oven
 description: 
 published: true
-date: 2025-01-23T15:17:00.848Z
+date: 2025-01-25T10:32:15.318Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-21T06:34:56.318Z
 ---
 
 # Dry Oven
+
+The dry oven is used to dehydrate medium sized objects like wood or multiple rolls of acrylic. It can also be used in colder environments to accelerate the curing of resin and paint.
+
 ![dry_oven_exterior.jpg](/tools/images/dry_oven_exterior_small.jpg)
 
-## Quick use instructions
+## Operating instructions
 
-1. Position the dry oven where it has space for the fan to vent hot air at the rear.
-2. Ensure the dry oven is plugged in and powered on at the wall.
-3. Switch the oven power switch to ON. 
-**The oven will begin heating immediately**
-
-After a short delay:
+1. **Position the dry oven where it has space to vent hot air**: Hot air cycled out the metal pipe on the back of the machine under the fan.
+1. **Turn on the dry oven**: Use the large power switch underneath the control panel to turn on the machine. :warning: **The oven will begin heating immediately**.
 - The temperature probe reading will be displayed on the top row in RED.
 - The temperature setpoint will be displayed on the bottom row in GREEN.
-- The oven will heat to the temperature setpoint and hold for the set time.
-- After the set time has elapsed, the oven will display the stop message `srop`^(sic)^ and cool.
-
-4. Press and hold reset + left at the same time to disengage stop message:
+3. **Set the desired temperature and run time**: Use the setpoint instructions below if you need to alter the amount of time the oven runs for or how hot it gets.
+1. **Wait for the heating cycle to complete**: The oven will heat to the temperature setpoint and hold for the set time. After the set time has elapsed, the oven will display the stop message `srop`^(sic)^ and cool.
+1. **Reset the machine**: Press and hold reset + left at the same time to disengage stop message:
 ![dry_oven_reset_button.jpg](/tools/images/dry_oven_reset_button.jpg) + ![dry_oven_left_button.jpg](/tools/images/dry_oven_left_button.jpg)
+1. **Turn off the machine**:
 
 ### To adjust setpoints
 1. Observe the control panel:
@@ -47,6 +46,6 @@ After a short delay:
 
 ## Misc
 
-The oven heats quickly until it gets to ~one degree of the setpoint. This final degree may take several minutes to complete. Be aware if precision timing is an issue.    
-The dry oven temperature probe may be off by up to 3 degrees (based on comparison with a multimeter probe). Be aware if precision temperatures are an issue.   
-The controller also has a “lock” mode which has been seen after button mashing. Try to avoid button mashing.
+* **The last degree of heating is slow**: The oven heats quickly until it gets to ~one degree of the setpoint. This final degree may take several minutes to complete. Be aware if precision timing is an issue.    
+* **The temperature probe may be inaccurate**: The dry oven temperature probe may be off by up to 3 degrees (based on comparison with a multimeter probe). Be aware if precision temperatures are an issue.
+* **Avoid button mashing**: The controller also has a “lock” mode which has been seen after button mashing. Try to avoid button mashing.

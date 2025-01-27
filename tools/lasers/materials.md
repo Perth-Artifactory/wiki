@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2024-03-20T16:39:59.034Z
+date: 2025-01-27T11:15:37.572Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -14,7 +14,7 @@ If the material you wish to cut/engrave is not listed as safe on this list, do n
 
 ### MDF
 
-Medium-Density Fibreboard (MDF) typically cuts quite well on the lasers with one notable exception. The easiest source is Bunnings.
+Medium-Density Fibreboard (MDF) typically cuts quite well on the lasers with the exception of material that has absorbed moisture. The easiest source is Bunnings.
 
 Considerations:
 * **Material variations**: Melamine coated MDF cuts well on the laser.
@@ -211,6 +211,13 @@ Can be etched and (sometimes) scored. Plan for failure and bring extra material.
 ## EVA Foam
 
 Cuts great, may need to use engraving passes if doing partial cuts on Big Red because getting the power low enough otherwise is difficult.
+
+## Door mats
+
+> Coir presents a fire risk if the laser power is set too high. Heavily supervise the laser when doing your initial material tests
+{.is-warning}
+
+[Doormats made of Coir (coconut) fibre](https://www.bunnings.com.au/40-x-60cm-outdoor-coir-mat_p4490455) engrave well on the laser provided you don't engrave deep enough to hit the bottom rubber layer. On Big Red a fill pass of 600mm/s at 30% power will likely work well.
 
 ## Metal
 

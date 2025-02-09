@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-02-09T09:49:01.041Z
+date: 2025-02-09T09:51:07.709Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -52,6 +52,10 @@ We've found most small business owners are looking for a cheap or free facility 
 e.g.
 
 * "I want to learn how to use tools"
+* "I'm interested in electronics"
+* "Do you run electronics courses?"
+
+Learning at the Artifactory is self-guided.
 
 ## Automotive projects
 

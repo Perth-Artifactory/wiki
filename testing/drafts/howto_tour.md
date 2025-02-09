@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-02-09T10:00:09.997Z
+date: 2025-02-09T10:05:59.255Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -32,8 +32,6 @@ e.g.
 * "I want to laser cut things for my Etsy store"
 * "I'm looking for a space to mass produce candles for my business"
 * "I need a place to do risky experiments for my work"
-
-We're a community shed and our space is primarily for people to come together and meet others while working on their projects.
 
 Commercial activity tends to use more space, machine time, volunteer time, safety assessment, and resources than we can reasonably accomodate.
 

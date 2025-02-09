@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-02-09T03:56:45.911Z
+date: 2025-02-09T09:49:01.041Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -55,15 +55,29 @@ e.g.
 
 ## Automotive projects
 
+e.g.
+
+* "I want to service my car"
+* "I want to work on my suspension system"
+
+Automotive projects are not routinely supported at the space.
+
+* The space has no facility to dispose of dangerous goods, e.g. used oil.
+* Anything that involves someone being under a car (e.g. jack stands) is a high risk activity for us.
+
+People whose sole interest is automotive projects should instead be referred to [DIY Garage](https://www.diygaragewa.com.au/), who have that as their core business, and are much better equipped for it.
+
 ## Vehicle fit outs (van lifers, etc.)
 
 e.g.
 
 * "I want to use the space while I'm fitting out my camper van"
 
+
+
 People doing van fitout projects generally want to use the space very intensively for a short time (e.g. 1 month).
 
-These people usually need a lot of volunteer time for tool inductions, but they usually don't contribute back to our community, and they leave as soon as their fitout project is done.
+These people usually need a lot of volunteer time for tool inductions, but don't contribute back to our community, and they leave as soon as their fitout project is done.
 
 ## People that will need more assistance planning out and completing a project
 

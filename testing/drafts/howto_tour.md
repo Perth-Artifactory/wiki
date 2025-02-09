@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-02-09T09:51:07.709Z
+date: 2025-02-09T10:00:09.997Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -55,7 +55,8 @@ e.g.
 * "I'm interested in electronics"
 * "Do you run electronics courses?"
 
-Learning at the Artifactory is self-guided.
+
+
 
 ## Automotive projects
 

@@ -2,7 +2,7 @@
 title: Dangerous projects policy
 description: 
 published: true
-date: 2025-01-11T08:08:31.632Z
+date: 2025-02-12T07:09:43.308Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-04T18:58:58.150Z
@@ -10,10 +10,6 @@ dateCreated: 2022-11-04T18:58:58.150Z
 
 > This document is a draft!
 {.is-warning}
-
-> Since this policy was posted to Loomio the following changes have been proposed (and accepted into the draft). They will be actioned before the proposal progresses.<br>
-> **Changes already implemented, see version history for original version**
-{.is-info}
 
 ----
 
@@ -33,7 +29,7 @@ You must demonstrate to the committee that:
 
 The committee may require you to submit a formal risk assessment, in writing, before approving your project.
 
-**Dangerous projects must be approved by at least two members of the committee.**
+**Dangerous projects must be approved by at least two members of the committee or other designated people.**
 
 ## What projects do we consider dangerous?
 
@@ -118,3 +114,7 @@ The following types of projects are absolutely prohibited:
 
 [^5]: [American Association of Woodturners | Fractal / Lichtenberg Burning](https://www.woodturner.org/Woodturner/Woodturner/Resources/Safety-Materials/Safety-Fractal-Burning-Lichtenburg-Burning.aspx)
 [^6]: [Firearms Act 2024](https://www.austlii.edu.au/cgi-bin/viewdb/au/legis/wa/consol_act/fa2024102/)
+
+## Designated people
+
+The following people may approve projects (alongside members of the committee). Please do not contact these people directly unless directed.

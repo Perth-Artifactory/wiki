@@ -2,7 +2,7 @@
 title: Dangerous Projects
 description: 
 published: true
-date: 2025-02-17T10:40:34.528Z
+date: 2025-02-17T12:31:50.826Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:32.249Z
@@ -24,7 +24,7 @@ You must demonstrate to the committee that:
 
 The committee may require you to submit a formal risk assessment, in writing, before approving your project.
 
-**Dangerous projects must be approved by at least two members of the committee or delegated approvers**
+**Dangerous projects must be approved by at least two committee members or [delegated approvers](https://wiki.artifactory.org.au/en/docs/policies/dangerous_projects#delegated-approvers).**
 
 ## What projects do we consider dangerous?
 
@@ -118,3 +118,8 @@ The following people may approve projects (alongside members of the committee). 
 * Doug Bateman
 * Steve Hodges
 * Stewart Greenhill
+
+## History
+
+* This policy was fully revised [2025-02-15](https://wiki.artifactory.org.au/en/minutes/Committee/2025-02-15).
+

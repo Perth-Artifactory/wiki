@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2024-11-07T09:46:56.165Z
+date: 2025-02-17T10:41:56.138Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -17,6 +17,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Car park                                                   | [Storage - Car Park](/docs/policies/storage#car-park)                                                                                              |
 | Casual Makers (Day Pass)                                   | [Fees - Workshop usage fees](/docs/policies/fees#workshop-usage-fees)                                                                              |
 | Ceasing membership + the member's projects                 | [Storage - Direction to remove property](/docs/policies/storage#direction-to-remove-property)                                                      |
+| Dangerous projects                                                     | [Dangerous Projects](/docs/policies/dangerous_projects)
 | Duties delegated by the secretary                          | [Administration - duties delegated by the secretary](/docs/policies/administration#duties-delegated-by-the-secretary)                              |
 | Events and workshops                                       | [Administration - Events and workshops](/docs/policies/administration#events-and-workshops)                                                        |
 | Expense Approvals                                          | [Administration - Artifactory Expenses](/docs/policies/administration#artifactory-expenses)                                                        |

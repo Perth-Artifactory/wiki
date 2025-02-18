@@ -2,7 +2,7 @@
 title: Dangerous Projects
 description: 
 published: true
-date: 2025-02-17T12:31:50.826Z
+date: 2025-02-18T03:32:38.985Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:32.249Z
@@ -25,6 +25,9 @@ You must demonstrate to the committee that:
 The committee may require you to submit a formal risk assessment, in writing, before approving your project.
 
 **Dangerous projects must be approved by at least two committee members or [delegated approvers](https://wiki.artifactory.org.au/en/docs/policies/dangerous_projects#delegated-approvers).**
+
+> Dangerous projects will not typically be approved for Day Pass users (casual attendees), due to the amount of volunteer effort required to manage these projects.
+{.is-info}
 
 ## What projects do we consider dangerous?
 

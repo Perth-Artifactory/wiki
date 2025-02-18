@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2024-11-07T09:56:39.565Z
+date: 2025-02-18T03:35:54.547Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -48,6 +48,7 @@ See [2024-2025_committee](/docs/committee/2024-2025_committee)
 * [Quartermaster(s)](/docs/policies/officers): Fletcher Boyd
 * [Rehearsal Room Coordinator(s)](/docs/policies/officers): Johannes Chuah, Martin Gonzalez
 * [The Ambassador](docs/policies/classes_of_membership) - Magnus Danger Magnus
+* [Dangerous projects](/docs/policies/dangerous_projects) - See [Dangerous projects](/docs/policies/dangerous_projects) - delegated approvers.
 
 ## Events and Workshop Coordinators
 

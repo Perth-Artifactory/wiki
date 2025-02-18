@@ -2,7 +2,7 @@
 title: Dangerous Projects
 description: 
 published: true
-date: 2025-02-18T03:32:38.985Z
+date: 2025-02-18T03:34:39.791Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:32.249Z
@@ -124,5 +124,7 @@ The following people may approve projects (alongside members of the committee). 
 
 ## History
 
-* This policy was fully revised [2025-02-15](https://wiki.artifactory.org.au/en/minutes/Committee/2025-02-15).
+* [2025-02-15](https://wiki.artifactory.org.au/en/minutes/Committee/2025-02-15):
+  * Previous "Dangerous projects and tools" policy replaced by "Dangerous projects" policy.
+  * Blake Samuels, Doug Bateman, Steve Hodges, and Stewart Greenhill appointed as delegated approvers for dangerous projects.
 

@@ -2,7 +2,7 @@
 title: Dangerous Projects
 description: 
 published: true
-date: 2025-02-18T03:34:39.791Z
+date: 2025-02-20T04:15:52.219Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:32.249Z
@@ -35,13 +35,15 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 
 ### Electrical
 
+> Commercial devices are excluded from this category provided that you aren't modifying the device or wiring it yourself.
+{.is-info}
+
+
 * Voltages over 50V AC or 120V ripple-free DC[^1]
 * Current exceeding 10A
 * Intentional electrical arcing
 * Stored electrical energy (capacitors, inductors) with the potential to discharge into people
 * Self assembled battery packs (e.g. spot welding lithium-ion batteries)
-
-*Note:Commercial devices are excluded from this category provided that you aren't modifying the device or wiring it yourself.*
 
 [^1]: Voltages where the work is classed as Electrical Work under [§4A.iii](https://www.legislation.wa.gov.au/legislation/prod/filestore.nsf/FileURL/mrdoc_47829.htm/$FILE/Electricity%20(Licensing)%20Regulations%201991%20-%20%5B07-ac0-01%5D.html?OpenElement#:~:text=nominal%20pressure%20exceeding-,50%C2%A0volts%20alternating%20current%20or%20120%C2%A0volts%20ripple%20free%20direct%20current,-%3B%20and) of the WA Electricity (Licensing) Regulations 1991
 
@@ -52,10 +54,11 @@ Danger comes in many forms, a **non-exhaustive** list has been included below to
 
 ### Temperature
 
-* Expected temperatures of solids are less than -20°C or greater than 200°C
-* Expected temperatures of liquids are less than -50°C or greater than 100°C
+> 3D printer builds are excluded from this category
+{.is-info}
 
-*Note: These limits do not apply to 3D printers*
+* Expected temperatures of solids less than -20°C or greater than 200°C
+* Expected temperatures of liquids less than -50°C or greater than 100°C
 
 ### Fire
 

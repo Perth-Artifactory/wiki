@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2025-01-17T03:50:53.868Z
+date: 2025-02-22T03:45:09.231Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -34,17 +34,15 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 
 | Printer                                                                                                   | Status                  | Build volume | Training Category  |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | ------------ | ------------------ |
-| [Bambu Labs P1S (2x AMS)](https://au.store.bambulab.com/products/p1s)                                     | ✔️ Operational          | 256x256x256  | FDM/Bambu-Enclosed |
-| [Bambu Labs X1 (1x AMS)](https://au.store.bambulab.com/products/x1-carbon-3d-printer)                     | ✔️ Operational          | 256x256x256  | FDM/Bambu-Enclosed |
+| [Bambu Labs P1S #1 (2x AMS)](https://au.store.bambulab.com/products/p1s)                                  | ✔️ Operational          | 256x256x256  | FDM/Bambu-Enclosed |
+| [Bambu Labs P1S #2 (1x AMS)](https://au.store.bambulab.com/products/p1s)                                  | ✔️ Operational          | 256x256x256  | FDM/Bambu-Enclosed |
+| [Bambu Labs X1 (1x AMS)](https://au.store.bambulab.com/products/x1-carbon-3d-printer)                     | ❌ Out of service       | 256x256x256  | FDM/Bambu-Enclosed |
 | [Bambu Labs A1 (1x AMS)](https://au.store.bambulab.com/products/a1)                                       | ✔️ Operational          | 256x256x256  | FDM/Bambu-Open     |
 | [Bambu Labs A1 Mini #1](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
 | [Bambu Labs A1 Mini #2](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
 | [Bambu Labs A1 Mini #3](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
-| [Ender 3 V2 Neo #1](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ❌ Removed from service | 220x220x250  | FDM/Ender          |
-| [Ender 3 V2 Neo #2](https://www.creality.com/products/ender-3-v2-neo-3d-printer)                          | ❌ Removed from service | 220x220x250  | FDM/Ender          |
 | [Prusa Mk4](https://www.prusa3d.com/product/original-prusa-mk4-2/)                                        | ✔️ Operational          | 250x210x220  | FDM/Prusa Mk4      |
 | [Prusa XL-5T](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) | ❌️ Out of service       | 360x360x360  | FDM/Prusa XL       |
-| [Voron Trident](https://vorondesign.com/voron_trident)                                                    | ❌ AF prints only       | 350x340x250  | FDM/Trident        |
 
 ### Filament compatibility
 

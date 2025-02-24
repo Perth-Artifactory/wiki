@@ -2,7 +2,7 @@
 title: Dangerous Projects
 description: 
 published: true
-date: 2025-02-20T04:15:52.219Z
+date: 2025-02-24T16:08:58.805Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:32.249Z
@@ -13,7 +13,7 @@ dateCreated: 2022-10-17T16:46:32.249Z
 
 Before you work on a project at the Artifactory, you must assess if your project could:
 
-* Kill, injure, or otherwise impact on the **health and safety of any person**.
+* Kill, injure, or otherwise impact the **health and safety of any person**.
 * Damage **property**, **premises**, or the **environment**.
 * Damage the Artifactory's **reputation in the community** - i.e. our social license to operate.
 

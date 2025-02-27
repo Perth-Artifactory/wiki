@@ -2,7 +2,7 @@
 title: 3D Printers Subcommittee
 description: 
 published: true
-date: 2024-08-10T10:10:50.622Z
+date: 2025-02-27T08:53:35.197Z
 tags: official
 editor: markdown
 dateCreated: 2024-05-04T14:24:23.999Z
@@ -48,5 +48,5 @@ The 3D Printers subcommittee will:
 ### History
 
 * This subcommittee was created on [2024-05-04](/minutes/Committee/2024-05-04) with the initial members being Fletcher Boyd, Sophie Murday, Tom White, and Penny Wood.
-* Ross Minney was [appointed](https://vote.artifactory.org.au/p/UGFWkoyu/motion-add-ross-minney-to-the-3d-printer-subcommittee) 2024-04-07.
+* Ross Minney was appointed via online motion on 2024-05-07 (documented [2024-06-08](/minutes/Committee/2024-06-08)).
 * [2024-08-10](/minutes/Committee/2024-08-10) - The 3D Printing subcommittee is now also responsible for 3D scanners.

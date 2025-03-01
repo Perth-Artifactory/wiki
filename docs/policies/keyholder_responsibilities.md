@@ -2,7 +2,7 @@
 title: Keyholder Responsibilities
 description: 
 published: true
-date: 2024-04-13T14:54:18.293Z
+date: 2025-03-01T05:45:21.673Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:51.979Z
@@ -11,7 +11,13 @@ dateCreated: 2022-10-17T16:46:51.979Z
 > Having a key to access Artifactory is a wonderful thing, and while we try and place as little onus on our members as possible, there are some responsibilities that must come with holding one of these keys.
 {.is-info}
 
-The committee can be contacted via email using [committee@artifactory.org.au](mailto:committee@artifactory.org.au) or [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y) on [Slack](https://space.artifactory.org.au/slack).
+The committee can be contacted via:
+
+* Phone: [6181 2883](tel:+61861812883)
+* Slack: [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y)
+* Email: [committee@artifactory.org.au](mailto:committee@artifactory.org.au)
+
+----
 
 - If you’re the last one to leave, you are responsible for making sure the space is secure as per the [closure procedure](/docs/committee/lockup).
 - If you are leaving and there are other people in the space you must make sure there is another keyholder still in the space. If not you will need to ask them to leave as well and then make the space secure.
@@ -28,6 +34,7 @@ The committee can be contacted via email using [committee@artifactory.org.au](ma
 
 ## History
 
+- 2025-03-01 Phone number added and contact information formatted to better imply method priority
 - Revised [2024-04-13](/minutes/Committee/2024-04-13) -
   - Deleted suggestion that front door(s) should be closed when alone in the space.
   - Added responsibilities related to leaving the front door(s) open.

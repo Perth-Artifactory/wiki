@@ -17,8 +17,6 @@ This is the [by-law](/docs/policies/bylaws) governing subcommittees.
 
 By-laws are made by the committee, as allowed for rule 65 of the [Constitution](/constitution) regarding *By-laws*.
 
-Also refer to additional [guidance for subcommittees](/docs/policies/subcommittee_guidance).
-
 ## Background (informative)
 
 Subcommittees allow normal members (and even non-members) to participate in running the Artifactory.
@@ -27,7 +25,7 @@ A well run subcommittee ---
 
 * Takes load off the management committee; and
 * Allows the Artifactory to benefit from specialist experience; and
-* Is open to scrutiny and observation by interested members (as is the management committee); and
+* Is open to scrutiny and observation by interested members; and
 * Is run in a friendly and collegial way.
 
 ## Objects of this by-law
@@ -82,14 +80,14 @@ A subcommittee may otherwise meet and conduct business in any way its members se
 
 ## Record keeping
 
-The subcommittee must maintain a public web page which records ---
+The subcommittee must maintain a page on the wiki which records ---
 
 * The name of the subcommittee.
 * The terms of reference of the subcommittee, and the powers and duties currently delegated to the subcommittee.
-* The full name of each member of the subcommittee.
+* The name of each member of the subcommittee.
 * The contact details for the subcommittee.
 
-The subcommittee must ensure that minutes are taken and kept of each meeting of the subcommittee. The minutes must be published on a public web page.
+The subcommittee must ensure that minutes are taken and kept of each meeting of the subcommittee.
 
 The subcommittee must make a record of ---
 

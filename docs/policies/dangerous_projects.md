@@ -130,4 +130,3 @@ The following people may approve projects (alongside members of the committee). 
 * [2025-02-15](https://wiki.artifactory.org.au/en/minutes/Committee/2025-02-15):
   * Previous "Dangerous projects and tools" policy replaced by "Dangerous projects" policy.
   * Blake Samuels, Doug Bateman, Steve Hodges, and Stewart Greenhill appointed as delegated approvers for dangerous projects.
-

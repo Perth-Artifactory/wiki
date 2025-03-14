@@ -43,14 +43,13 @@ Defined at committee meeting 2018-09-29
 * Maintain and enforce privacy and security policies across all areas of responsibility
 * Oversee the IT Subcommittee and provide vision and top level decision making (This also applies to dispute resolution within the IT Subcommittee and future expansion and use of equipment)
 * Work with interested parties to promote and coordinate IT "Projects" with the assistance of the IT Subcommittee
-* Act with the best interest/level of service of the Artifactory Members in mind
 
 ## Membership Officer(s)
 
 Defined at committee meeting 2018-10-27
 
 * Point of contact for new members and monitor the [enquiries inbox](mailto:info@artifactory.org.au)
-* Able to add RFID access
+* Can manage application for 24/7 access
 * Maintain checklists for space/workshop inductions
 * Responsible for coordinating open days
 
@@ -58,37 +57,33 @@ Defined at committee meeting 2018-10-27
 
 Defined at committee meeting 2019-05-25
 
-* The Member Storage Officer is responsible for:
-  * Creating a register in the wiki of all Member Storage areas within the Artifactory and keeping it current as defined by the Main Committee.
-  * Ensuring all Member storage are identified and labelled.
-  * Creating a register in the wiki of the allocation of storage space to members and keeping it current.
-  * Maintaining & keeping a wait list in the wiki for those wanting storage for Member Storage Areas.
-  * Assist the Committee in allocating storage space to members
-  * Ensuring storage spaces are cleared prior to making them available for reallocation.
-  * Conducting audits of the Member material racks & Member Storage to ensure stored material is as per the bylaws. Removes and disposes of material as defined in the bylaws via the Hackme Bench where appropriate.
-  * The Member Storage officer will initiate the process of deallocation of storage space after an audit, checking of membership status of the owner and time since membership ceased
-* The Member Storage Officer is NOT responsible for allocating storage outside the specific "Member Storage" by-law
+* Maintain the register of all Member Storage areas within the Artifactory.
+* Ensuring all Member Storage are identified and labelled.
+* Maintain a wait list for Member Storage requests if required
+* Assist the Committee in allocating storage space to members
+* Ensuring storage spaces are cleared prior to making them available for reallocation.
+* Conducting audits of the Member material racks & Member Storage to ensure material storage is consistent with applicable by-laws.
 
 ## Quartermaster(s)
 
 Defined at committee meeting 2018-10-27
 
-* Coordinate member stocking of the Bar/Kitchen/Toilets
+* Coordinate member stocking of the bar, kitchen, toilets, and other communal supplies stocked by the organisation
 * Field stocking requests from members
 
 ## Resource Officer(s)
 
 Defined at committee meeting 2019-10-02
 
-* Open and administer trade accounts on behalf of The Artifactory provided that they do not include a line of credit
-* Communicate with suppliers and commercial donors on behalf of The Artifactory.
+* Open and administer trade accounts on behalf of the Artifactory provided that they do not include a line of credit
+* Communicate with suppliers and commercial donors on behalf of the Artifactory.
 
 ## Rehearsal Room Coordinator(s)
 
 Defined at committee meeting 2018-10-27
 
 * Advocate for band members
-* Monitors "rehearsal AT artifactory.org.au"
+* Monitor the [rehearsal inbox](mailto:rehearsal@artifactory.org.au)
 * Coordinate rehearsal room casual usage
 
 ## History

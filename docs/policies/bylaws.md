@@ -29,9 +29,8 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Member storage                                             | [Storage - Member storage entitlements](/docs/policies/storage#member-storage-entitlements)                                                        |
 | Member storage - additional storage                        | [Storage - Additional storage](/docs/policies/storage#additional-storage)                                                                          |
 | Minors (children) in the space                             | See below                                                                                                                                          |
-| Money donations                                            | See below                                                                                                                                          |
 | Never Never (historical donations)                         | See below                                                                                                                                          |
-| Physical keys + safe access                                | See below                                                                                                                                          |
+| Physical keys                                              | See below                                                                                                                                          |
 | Rehearsal room - casual usage                              | See below                                                                                                                                          |
 | RFID keys for members                                      | See below                                                                                                                                          |
 | RFID keys for non-members                                  | See below                                                                                                                                          |
@@ -63,55 +62,21 @@ you will be liable for the Association's reasonable costs incurred to dispose of
 
 ------------------------------------------------------------------------
 
-## Money Donations
-
-Last modified at the committee meeting 2020-01-11.
-
-- Any money received by the Artifactory as a donation must go into the "Perth Artifactory - Donations" account.
-- Types of money donations may be "General Donations", "Sponsoring a Member Donation", "Event/Workshop Support Donation", "Specified Equipment/Venue enhancements"
-- If the donor wishes to remain anonymous (meaning not thanked publicly), it shall be recorded in TidyHQ and the Secretary informed.
-
-### General Donations (not specified)
-
-- Shall only be used for the Equipment/Venue Enhancements or held until direction for use is given by the Committee. (This allows the Treasurer to draw funds from general donations for equipment and venue enhancements as approved as by the Committee.)
-
-### Donations for Specified Equipment/Venue Enhancement
-
-- Shall be used for the purpose of the Specified Equipment/Venue enhancements.
-- If the Committee is satisfied that cause of the donation has completed the purpose, leftover monies can be treated as a general donation.
-
-### Member Sponsorship Donations
-
-- Funds can only be used to Sponsor Associate Memberships if the Membership Classification allows it.
-- The process as to who receives the sponsored membership is through a committee selected member panel who will choose sponsored members from a publicly advertised process on the Artifactory website.
-- If any panel member has a close connection to an individual applying, they must excuse themselves from the selection panel.
-- The Artifactory Committee as part of the constitution still has to accept the nominated Associate Membership like any membership.
-
-### Donations to support a particular event or workshop
-
-- Shall be used for the purpose of supporting the event/workshop
-- Cannot be treated as a donation if an individual or group that runs the event/workshop benefits financially from the event/workshop.
-- If the Committee is satisfied that cause of the donation has completed the purpose, leftover monies can be treated as a general donation
-
-------------------------------------------------------------------------
-
 ## NeverNever
 
 Defined at committee meeting 2019-08-24.
 
 - That the Artifactory acknowledges the NeverNever as unallocated membership paid in-advance and is non-refundable.
 - The Treasurer has Committee approval to reduce NeverNever balances in exchange for membership when the bank account has a healthy balance and the owner of the NeverNever gives consent.
-- That the NeverNever cannot be added to, except at a Committee Meeting.
+- That the NeverNever cannot be added to.
 
 ------------------------------------------------------------------------
 
-## Physical Keys + Safe Access
+## Physical Keys
 
 Defined at committee meeting 2018-09-29.
 
-- A record of who has Physical Keys + Safe Access to the Artifactory shall be maintained in TidyHQ by the Secretary.
-- The Safe Combination must be updated as a minimum within one month after of any AGM by the Treasurer and the Combination must be provided to the new Committee
-- The Committee allows the Office Bearers of the Association to give selected Artifactory members the safe access code if it is to assist with functioning of the Artifactory and to assist Office Bearers perform their function. Should any person be granted access, the Secretary must be informed. (Reasoning - is to allow for cash to be made secure when no Committee member is present for events that make significant cash, or allow a member to assist with giving out new RFID keys, etc)
+- A record of who has physical keys to the Artifactory shall be maintained in the membership database by the Secretary.
 
 ------------------------------------------------------------------------
 
@@ -128,11 +93,12 @@ The rehearsal room can be used on a casual basis:
 
 ------------------------------------------------------------------------
 
-## RFID Keys for Members
+## 24/7 Access
 
 Last modified by online motion, documented at committee meeting 2024-11-16.
 
-- All members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
+- Separate to the application process detailed below the committee may grant 24/7 access to anyone performing a task on behalf of the organisation for the purpose of performing that task. (eg. external event hosts)
+- All ordinary and sponsored members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
   - Has held their current membership for at least two weeks,
   - Has not acted against the interests of the Association,
   - Pays a bond appropriate to their membership class,
@@ -157,19 +123,6 @@ Last modified by online motion, documented at committee meeting 2024-11-16.
 | Concession Membership            | $135 |
 | Band Membership                  | $100 |
 | Sponsored Student Membership     | $135 |
-| Resident Artist - NoizeMaschin!! | $0   |
-| The Ambassador!                  | $0   |
-
-------------------------------------------------------------------------
-
-## RFID Keys for Non-members
-
-Defined at committee meeting 2018-09-01.
-
-- RFID Keys are allowed to be given to non-members IF
-  - it is to facilitate the running of a regular workshop (after it has been run a couple of times)
-  - approved by 3 committee members
-  - on the condition that keys are only to be used for the workshop (not general admittance) unless they are member
 
 ------------------------------------------------------------------------
 

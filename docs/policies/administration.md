@@ -20,7 +20,7 @@ In these by-laws, unless the contrary intention appears, all terms are as define
 
 Last modified at the committee meeting 2020-03-14.
 
-The Committee allows the Treasurer to pay/reimburse for the following expenses without needing to seek committee approval. The Treasurer may defer reimbursements until a meeting of the Management Committee at their discretion.
+The Treasurer is authorised to reimburse/pay for the following expenses without seeking committee approval. The Treasurer may refer a particular payment to the Management Committee for approval at their discretion.
 
 * Lease, variable outgoings, and building bonds
 * Bank and merchant fees

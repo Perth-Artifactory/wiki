@@ -22,7 +22,7 @@ Last modified at the committee meeting 2020-03-14.
 
 The Treasurer is authorised to reimburse/pay for the following expenses without seeking committee approval. The Treasurer may refer a particular payment to the Management Committee for approval at their discretion.
 
-* Lease, variable outgoings, and building bonds
+* Lease and variable outgoings
 * Bank and merchant fees
 * Utilities (eg. internet, welding gas, rubbish disposal, and electricity)
 * Fees associated with maintaining the membership database (eg. TidyHQ)

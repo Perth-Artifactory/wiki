@@ -49,7 +49,7 @@ Defined at committee meeting 2018-09-29
 Defined at committee meeting 2018-10-27
 
 * Point of contact for new members and monitor the [enquiries inbox](mailto:info@artifactory.org.au)
-* Can manage application for 24/7 access
+* Can manage applications for, and the provisioning of, 24/7 access
 * Maintain checklists for space/workshop inductions
 * Responsible for coordinating open days
 

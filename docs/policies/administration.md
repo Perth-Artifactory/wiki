@@ -48,7 +48,7 @@ Refer to [Asynchronous online-only motions](/docs/policies/online-motions).
 Defined at committee meeting 30-01-2019.
 
 * The Office bearers, Deputy Treasurer, Deputy Secretary, and Membership Officers are authorised to accept written notices of resignation under section 10 of the constitution.
-* The Treasurer, Deputy Treasurer, Deputy Secretary and Membership Officers are authorised to assist the Secretary maintain the register of members under section 13 and clause 30.4 of the constitution.
+* The Office bearers, Deputy Treasurer, Deputy Secretary, and Membership Officers are authorised to assist the Secretary maintain the register of members under section 13 and clause 30.4 of the constitution.
 
 ------------------------------------------------------------------------
 

@@ -52,7 +52,7 @@ Defined at committee meeting 30-01-2019.
 
 ------------------------------------------------------------------------
 
-## Events and Workshops
+## Event Authorisations
 
 Last modified at the committee meeting 30-01-2019.
 

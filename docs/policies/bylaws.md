@@ -131,63 +131,37 @@ Last modified by online motion, documented at committee meeting 2024-11-16.
 
 Adopted at committee meeting 2021-01-10.
 
-While persons under the age of 18 can attend the space there are certain restrictions in place to protect everyone involved.
+Our space is a collaborative workshop, not a child care service. Minors (people under the age of 18) are welcome to attend and participate in the space, provided they are supervised by a responsible guardian. 
 
-It is the responsibility of the guardian to ensure that the supervised child is:
+The guardian must ensure that the minor –
 
-- following all appropriate safety requirements
-- not endangered by the tool use of members and attendees.
-- not interfering with members and attendees
+* Complies with our policies and procedures (e.g. the Training policy and Code of Conduct).
+* Follows all appropriate safety requirements (e.g. wears appropriate PPE).
+* Is not endangered by activities occurring in the space.
+* Does not interfere with members and attendees.
+* Does not consume alcohol.
 
-Please note: regardless of any alcohol supply laws guardians can not provide alcohol to minors on Artifactory property.
+Different levels of supervision are required based on the area and the activities occurring in the area.
 
-### Minors under the age of 13
+* For _General supervision_, the guardian must be –
+  * present in the space, and
+  * able to see the minor, and
+  * generally aware of what the minor is doing.
 
-Must be actively supervised in the following areas:
-
-- Rehearsal Room
-- Electronics Lab
-- Machining Bay
-- Welding Bay
-- Project Area - Active use
-- Machine Room
-- Laser Area
-- Rear Courtyard - Active use
-
-Can be left in the following areas provided that the supervising guardian can see the child:
-
-- Social Area
-- Design Lab
-- Project Area - Passive use
-- Rear Courtyard - Passive use
-- Kitchen
-
-### Minors 13 and over
-
-Must be actively supervised in the following areas:
-
-- Machining Bay
-- Welding Bay
-- Machine Room
-
-Can be left in the following areas provided that the supervising guardian can see the teen:
-
-- Laser Area
-- Electronics Lab
-- Rehearsal Room
-- Social Area
-- Design Lab
-- Project Area - Passive use
-- Project Area - Active use
-- Rear Courtyard - Passive use
-- Rear Courtyard - Active use
-- Kitchen
-
-### Definitions
-
-- Active use: Power tools, spray paint, hot works, or other dangerous activities are occurring. Members or attendees using either the courtyard or project area may change the status of the area to Active Use at their discretion to reflect any issues that may be caused by an unsupervised minor in that area. (Painting miniatures, wet paint etc)
-- Passive use: Where none of the above apply
-- Actively supervised: The guardian must be physically present in the area and able to intervene to enforce their responsibilities as guardian
+* For _Active supervision_, the guardian must be –
+  * in the same area as the minor, and
+  * actively aware of what the minor is doing, and
+  * ready to physically intervene if required.
+        
+* Any attendee can temporarily declare that an area is an _active supervision area_, based on the presence of –
+  * Hazardous conditions or activities, e.g. power tools, spray painting, hot works.
+  * Something easy to damage, e.g. wet paint, delicate parts.
+        
+|   | Minors – Under 13 years | Minors – Under 18 years |
+| - | ----------------------- | ----------------------- |
+| **Low risk areas** <ul><li>Social Area</li><li>Design Lab</li><li>Kitchen</li><li>Project area</li><li>Rear Courtyard</li></ul> | General supervision | General supervision |
+| **Medium risk areas** <ul><li>Rehearsal room</li><li>Electronics / 3D printing lab</li><li>Laser area</li></ul> | Active Supervision | General supervision | 
+| **High risk areas** <ul><li>Machining bay</li><li>Welding bay</li><li>Machine room</li><li>Any area temporarily declared to be an active supervision area.</li></ul> | Active Supervision | Active Supervision |
 
 ------------------------------------------------------------------------
 

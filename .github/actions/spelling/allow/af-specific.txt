@@ -22,6 +22,7 @@ Airbnb
 Aircam
 aircon
 airgeneric
+Aldi
 Alibre
 aliexpress
 Aliexpress
@@ -75,11 +76,13 @@ authorises
 Autobarn
 Autodesk
 automagically
+automations
 Automations
 AUTONAVx
 Autoranging
 AUTOSCALE
 backline
+backpay
 Balcatta
 bambu
 Bambu
@@ -124,6 +127,7 @@ Bunnings
 Burswood
 Busselton
 busybee
+BWS
 Byford
 caffeinated
 campervan
@@ -154,6 +158,7 @@ chinesium
 Chitubox
 Cigweld
 Cintiq
+Claremont
 Cloudray
 clubtraining
 cnc
@@ -181,6 +186,7 @@ cosplayer
 cosplayers
 Costco
 costumery
+covid
 Cowle
 cowparade
 crafternoon
@@ -214,6 +220,7 @@ detension
 dewalt
 dgr
 DGRs
+Dianella
 Dimattina
 Dirtymerkins
 discolouration
@@ -227,6 +234,7 @@ dokuwiki
 doofs
 doorbot
 Doubleview
+downlights
 dprinters
 DRO
 Dropbox
@@ -305,6 +313,7 @@ Freenet
 Freenode
 Freetronics
 Fremantle
+Fridgie
 fundathon
 fundraised
 fundraiser
@@ -355,6 +364,7 @@ HEPS
 Hisense
 Hiwin
 Homewrecker
+Hotend
 hotmail
 HOWTO
 hpgl
@@ -402,6 +412,7 @@ keyring
 keyswitch
 kinda
 Kinect
+Kmart
 Kool
 Krita
 Labelmaker
@@ -440,6 +451,7 @@ lightburn
 Lilypad
 limboload
 linux
+Liquorland
 livestream
 lockdown
 Loftus
@@ -483,12 +495,14 @@ Minecraft
 Mirrabooka
 mnt
 Modix
+Modsynth
 MOhm
 MOMA
 monox
 Motorsport
 MPD
 MSDS
+MSY
 Mulford
 Mulfords
 multicolour
@@ -496,6 +510,7 @@ multimeters
 multitool
 multitouch
 musos
+Myelec
 Myer
 nanos
 NBN
@@ -674,6 +689,7 @@ Shirtz
 Shlink
 Showgrounds
 Showtools
+Siddament
 Silphco
 Sketchup
 Skype
@@ -698,12 +714,14 @@ spam
 Sparkco
 sparkie
 sparkleshare
+speedbump
 Spiegeltent
 spikelights
 spoilboard
 Spoolman
 spruiking
 SPST
+Spudshed
 Squirtz
 ssh
 stakeholders
@@ -722,6 +740,7 @@ STLs
 Stormwater
 Stratco
 styalised
+Subiaco
 submixer
 subwoofer
 sundowners
@@ -749,6 +768,7 @@ tagine
 Taiko
 Talkshop
 Tanzenfunke
+Taobao
 Taubmans
 techno
 teleconferencing
@@ -878,15 +898,3 @@ Yongli
 youtube
 zlab
 Znse
-Aldi
-backpay
-BWS
-Dianella
-Fridgie
-Hotend
-Kmart
-Liquorland
-MSY
-Siddament
-speedbump
-downlights

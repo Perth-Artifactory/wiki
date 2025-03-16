@@ -87,7 +87,7 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Eligibility criteria** | A tertiary student, over 18 years of age, who is not a past or current member of the Association, and who submits an application [in the prescribed form](https://artifactory.org.au/free_membership). |
 | **Special rules for this class of membership** | Applications for this class of membership must be selected and approved by the [Associate Memberships Panel](/docs/Associate_Memberships), subject to the merits of the application. |
 |  | A person can only hold this membership once. |
-|  | A person can hold this class of membership for a number of months determined  by the Associate Memberships Panel, up to a maximum of three months. |
+|  | A person can hold this class of membership for a number of months determined by the Associate Memberships Panel, up to a maximum of three months. |
 | **Type of membership (ordinary or associate)** | Associate. |
 | **Membership fee** | **Free, for the member.** Paid for out of the Member Sponsorship Donations fund, at the same rate as a Concession membership. |
 | **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |

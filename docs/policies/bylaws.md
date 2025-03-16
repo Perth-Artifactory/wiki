@@ -76,6 +76,7 @@ Defined at committee meeting 2019-08-24.
 
 Defined at committee meeting 2018-09-29.
 
+- Physical keys are issued at the discretion of the Management Committee to assist with emergency access to the workshop.
 - A record of who has physical keys to the Artifactory shall be maintained in the membership database by the Secretary.
 
 ------------------------------------------------------------------------

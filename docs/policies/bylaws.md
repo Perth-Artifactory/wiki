@@ -29,7 +29,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Member storage                                             | [Storage - Member storage entitlements](/docs/policies/storage#member-storage-entitlements)                                                        |
 | Member storage - additional storage                        | [Storage - Additional storage](/docs/policies/storage#additional-storage)                                                                          |
 | Minors (children) in the space                             | See below                                                                                                                                          |
-| Never Never (historical donations)                         | See below                                                                                                                                          |
+| NeverNever (historical donations)                         | See below                                                                                                                                          |
 | Physical keys                                              | See below                                                                                                                                          |
 | Rehearsal room - casual usage                              | See below                                                                                                                                          |
 | RFID keys for members                                      | See below                                                                                                                                          |
@@ -131,31 +131,31 @@ Last modified by online motion, documented at committee meeting 2024-11-16.
 
 Adopted at committee meeting 2021-01-10.
 
-Our space is a collaborative workshop, not a child care service. Minors (people under the age of 18) are welcome to attend and participate in the space, provided they are supervised by a responsible guardian. 
+Our space is a collaborative workshop, not a child care service. Minors (people under the age of 18) are welcome to attend and participate in the space, provided they are supervised by a responsible guardian.
 
 The guardian must ensure that the minor –
 
-* Complies with our policies and procedures (e.g. the Training policy and Code of Conduct).
-* Follows all appropriate safety requirements (e.g. wears appropriate PPE).
-* Is not endangered by activities occurring in the space.
-* Does not interfere with members and attendees.
-* Does not consume alcohol.
+- Complies with our policies and procedures (e.g. the Training policy and Code of Conduct).
+- Follows all appropriate safety requirements (e.g. wears appropriate PPE).
+- Is not endangered by activities occurring in the space.
+- Does not interfere with members and attendees.
+- Does not consume alcohol.
 
 Different levels of supervision are required based on the area and the activities occurring in the area.
 
-* For _General supervision_, the guardian must be –
-  * present in the space, and
-  * able to see the minor, and
-  * generally aware of what the minor is doing.
+- For *General supervision*, the guardian must be –
+  - present in the space, and
+  - able to see the minor, and
+  - generally aware of what the minor is doing.
 
-* For _Active supervision_, the guardian must be –
-  * in the same area as the minor, and
-  * actively aware of what the minor is doing, and
-  * ready to physically intervene if required.
+- For *Active supervision*, the guardian must be –
+  - in the same area as the minor, and
+  - actively aware of what the minor is doing, and
+  - ready to physically intervene if required.
         
-* Any attendee can temporarily declare that an area is an _active supervision area_, based on the presence of –
-  * Hazardous conditions or activities, e.g. power tools, spray painting, hot works.
-  * Something easy to damage, e.g. wet paint, delicate parts.
+- Any attendee can temporarily declare that an area is an *active supervision area*, based on the presence of –
+  - Hazardous conditions or activities, e.g. power tools, spray painting, hot works.
+  - Something easy to damage, e.g. wet paint, delicate parts.
         
 |   | Minors – Under 13 years | Minors – Under 18 years |
 | - | ----------------------- | ----------------------- |

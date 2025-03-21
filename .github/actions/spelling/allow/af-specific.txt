@@ -33,6 +33,8 @@ Amnet
 ams
 amslite
 Ankur
+Mindarie
+Skadis
 anodised
 anonymised
 Ansible

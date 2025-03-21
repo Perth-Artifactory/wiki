@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-02-09T10:05:59.255Z
+date: 2025-03-21T06:02:29.433Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -25,7 +25,27 @@ Make a decision regarding how hard you want to sell membership etc.
 
 # Specific things we need to set expectations about
 
-## Commercial use
+
+## Automotive projects
+
+> Refer to the [Automotive Projects](/docs/policies/automotive-projects) bylaw.
+{.is-info}
+
+
+e.g.
+
+* "I want to service my car"
+* "I want to work on my suspension system"
+
+Automotive projects are not routinely supported at the space.
+
+* The space has no facility to dispose of dangerous goods, e.g. used oil.
+* Anything that involves someone being under a car (e.g. jack stands) is a high risk activity for us.
+
+People whose sole interest is automotive projects should instead be referred to [DIY Garage](https://www.diygaragewa.com.au/), who have that as their core business, and are much better equipped for it.
+
+
+## Commercial use of the space
 
 e.g.
 
@@ -44,6 +64,46 @@ For that reason, all commercial activities using the space facilities need to be
 We've found most small business owners are looking for a cheap or free facility to produce their products (instead of renting their own space or buying their own tools), and aren't interested in engaging with us once they find out there are strings attached to commercial use of the Artifactory.
 
 
+## Consulting services
+
+e.g.
+
+* "I need help designing a product for sale"
+* "Do you have any mechanical engineers who can advise me on a project?"
+
+Artifactory members are not a source of free engineering consultancy services.
+
+
+
+## Dangerous projects
+
+> Refer to the [Dangerous Projects](/docs/policies/dangerous_projects) policy.
+{.is-info}
+
+Dangerous Projects can only be done by members.
+
+
+
+
+
+## Vehicle fit outs (van lifers, etc.)
+
+e.g.
+
+* "I want to build a camper van"
+
+
+People doing van fitout projects generally want to use the space very intensively for a short time (e.g. 1 month).
+
+These people usually need a lot of volunteer time for tool inductions, but don't contribute back to our community, and they leave as soon as their fitout project is done.
+
+## People that will need more assistance planning out and completing a project
+
+e.g.
+
+* "I want to build a coffee table, but I don't know any woodworking yet"
+
+This level of assistance is typically only provided to members (not day pass users).
 
 ## People who don't (yet) have an actual project in mind
 
@@ -54,39 +114,4 @@ e.g.
 * "Do you run electronics courses?"
 
 
-
-
-## Automotive projects
-
-e.g.
-
-* "I want to service my car"
-* "I want to work on my suspension system"
-
-Automotive projects are not routinely supported at the space.
-
-* The space has no facility to dispose of dangerous goods, e.g. used oil.
-* Anything that involves someone being under a car (e.g. jack stands) is a high risk activity for us.
-
-People whose sole interest is automotive projects should instead be referred to [DIY Garage](https://www.diygaragewa.com.au/), who have that as their core business, and are much better equipped for it.
-
-## Vehicle fit outs (van lifers, etc.)
-
-e.g.
-
-* "I want to use the space while I'm fitting out my camper van"
-
-
-
-People doing van fitout projects generally want to use the space very intensively for a short time (e.g. 1 month).
-
-These people usually need a lot of volunteer time for tool inductions, but don't contribute back to our community, and they leave as soon as their fitout project is done.
-
-## People that will need more assistance planning out and completing a project
-
-This level of assistance is typically only provided to members (not day pass users).
-
-## Dangerous projects
-
-Projects covered under our dangerous projects policy can only be completed by members.
 

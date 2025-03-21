@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-03-21T06:02:29.433Z
+date: 2025-03-21T06:05:57.402Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -80,7 +80,7 @@ Artifactory members are not a source of free engineering consultancy services.
 > Refer to the [Dangerous Projects](/docs/policies/dangerous_projects) policy.
 {.is-info}
 
-Dangerous Projects can only be done by members.
+Dangerous Projects require approval, and can only be done by members.
 
 
 
@@ -92,6 +92,7 @@ e.g.
 
 * "I want to build a camper van"
 
+Vehicle fit outs can only be done by members, who have held their membership for at least 6 months.
 
 People doing van fitout projects generally want to use the space very intensively for a short time (e.g. 1 month).
 

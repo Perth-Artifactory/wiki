@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-03-21T06:05:57.402Z
+date: 2025-03-21T12:39:37.750Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -59,7 +59,7 @@ For that reason, all commercial activities using the space facilities need to be
 
 * How the activity can be run to avoid impacting the primary use of the space
 * How the safety risks associated with the activity will be managed
-* How the profits from the commerical activity will be shared with the space
+* How the profits from the commercial activity will be shared with the space
 
 We've found most small business owners are looking for a cheap or free facility to produce their products (instead of renting their own space or buying their own tools), and aren't interested in engaging with us once they find out there are strings attached to commercial use of the Artifactory.
 

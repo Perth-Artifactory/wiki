@@ -2,7 +2,7 @@
 title: Officers
 description: 
 published: true
-date: 2024-07-31T13:29:00.237Z
+date: 2025-03-26T02:13:15.413Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:39.410Z
@@ -37,7 +37,7 @@ Defined at committee meeting 2018-10-27
 
 ## IT Officer
 
-Defined at committee meeting 2018-09-29
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 * Maintain the operational integrity of mission critical systems to level determined by the Management Committee
 * Maintain and enforce privacy and security policies across all areas of responsibility
@@ -46,7 +46,7 @@ Defined at committee meeting 2018-09-29
 
 ## Membership Officer(s)
 
-Defined at committee meeting 2018-10-27
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 * Point of contact for new members and monitor the [enquiries inbox](mailto:info@artifactory.org.au)
 * Can manage applications for, and the provisioning of, 24/7 access
@@ -55,7 +55,7 @@ Defined at committee meeting 2018-10-27
 
 ## Member Storage Officer
 
-Defined at committee meeting 2019-05-25
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 * Maintain the register of all Member Storage areas within the Artifactory.
 * Ensuring all Member Storage are identified and labelled.
@@ -66,7 +66,7 @@ Defined at committee meeting 2019-05-25
 
 ## Quartermaster(s)
 
-Defined at committee meeting 2018-10-27
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 * Coordinate member stocking of the bar, kitchen, toilets, and other communal supplies stocked by the organisation
 * Field stocking requests from members
@@ -88,4 +88,5 @@ Defined at committee meeting 2018-10-27
 
 ## History
 
+* 2025-03-22 - Bulk roll updates
 * 2024-07-31 - Amended to add an [annual review of all officer positions](https://vote.artifactory.org.au/d/AFOuYcfH/annual-review-of-office-holders-and-subcommittees).

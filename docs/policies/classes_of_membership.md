@@ -15,10 +15,9 @@ This page defines the classes of membership made by the committee, and some of t
 
 ## Classes of ordinary membership
 
-&nbsp;
-
 ### Full Membership
 
+|      |      |
 | ---- | ---- |
 | **Eligibility criteria** | Any person over 18 years of age. |
 | **Special rules for this class of membership** | N/A |
@@ -35,10 +34,9 @@ This page defines the classes of membership made by the committee, and some of t
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | No limit. |
 
-&nbsp;
-
 ### Concession Membership
 
+|      |      |
 | ---- | ---- |
 | **Eligibility criteria** | Any person over 18 years of age, who a) is a student, or b) is retired, or c) holds any type of [concession/health care card issued by Services Australia](https://www.servicesaustralia.gov.au/concession-and-health-care-cards?context=60091), or d) is otherwise deemed eligible for concession membership by the committee. |
 | **Special rules for this class of membership** | N/A |
@@ -55,16 +53,15 @@ This page defines the classes of membership made by the committee, and some of t
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | No limit. |
 
-&nbsp;
-
 ### Band Membership
 
 Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by bands with band membership of the Perth Artifactory. Use of Artifactory tools/equipment etc is encouraged, but charged at the day pass rates.
 
+|      |      |
 | ---- | ---- |
 | **Eligibility criteria** | Any person over 18 years of age, who represents a band. (The *nominated contact person* for the band.) All members of the band must be over the age of 18 or supervised by a parent/guardian as per our [by-laws](/docs/policies/bylaws#minors-in-the-space). |
 | **Special rules for this class of membership** | N/A |
-| **Type of membership (ordinary or associate)** | The *nominated contact person* in the band is an *ordinary member* with voting rights as per our constitution. |
+| **Type of membership (ordinary or associate)** | The *nominated contact person* in the band is an *ordinary member* |
 | **Membership fee** | $100 per month, payable monthly. |
 | **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |
 | **Use of the indoor and outdoor workshop areas** | Social use (Day Pass required for projects) |
@@ -75,25 +72,22 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Fees to attend Artifactory-run events and workshops** | Free entry for band members to ModSynth building nights held on the Artifactory premises. Otherwise, the non-member rate for the event. |
 | **Eligible for 24/7 access** | A single key per band used only for accessing the space when a rehearsal is booked. Issue of keys is subject to our [by-laws](/docs/policies/bylaws). Secondary keys may be issued at the discretion of the Management Committee. |
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
-| **Maximum number of members in this class of membership** | Six band memberships. |
+| **Maximum number of members in this class of membership** | 2 |
 
 * Band membership entitles each band to the following:
-  * 3 rehearsal slots/month;
+  * 4 rehearsal slots/month;
   * Extra bookings may be made if a slot is free, no earlier than 48 hours in advance of the time you are booking
-
-&nbsp;
 
 ## Classes of associate membership
 
-&nbsp;
-
 ### Associate Membership - Sponsored Student Membership
 
+|      |      |
 | ---- | ---- |
 | **Eligibility criteria** | A tertiary student, over 18 years of age, who is not a past or current member of the Association, and who submits an application [in the prescribed form](https://artifactory.org.au/free_membership). |
 | **Special rules for this class of membership** | Applications for this class of membership must be selected and approved by the [Associate Memberships Panel](/docs/Associate_Memberships), subject to the merits of the application. |
 |  | A person can only hold this membership once. |
-| | A person can hold this class of membership for a number of months determined  by the Associate Memberships Panel, up to a maximum of three months. |
+|  | A person can hold this class of membership for a number of months determined by the Associate Memberships Panel, up to a maximum of three months. |
 | **Type of membership (ordinary or associate)** | Associate. |
 | **Membership fee** | **Free, for the member.** Paid for out of the Member Sponsorship Donations fund, at the same rate as a Concession membership. |
 | **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |
@@ -107,12 +101,11 @@ Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | As determined by the current state of the Sponsored Membership Donations fund. |
 
-&nbsp;
-
 ### Associate Membership - The Ambassador!
 
 Description: The Ambassador is appointed by committee and required to promote the Artifactory.
 
+|      |      |
 | ---- | ---- |
 | **Eligibility criteria** | A person, over 18 years of age, appointed by the committee. |
 | **Special rules for this class of membership** | N/A |
@@ -128,8 +121,6 @@ Description: The Ambassador is appointed by committee and required to promote th
 | **Eligible for 24/7 access** | As determined by the committee |
 | **Amount of bond for 24/7 access** | As determined by the committee |
 | **Maximum number of members in this class of membership** | As determined by the committee |
-
-&nbsp;
 
 ## Revision history
 

@@ -127,7 +127,7 @@ The following tool and equipment training attracts *training fees* to cover the 
 * If you join up as a member, we will refund the training fee below, for any training sessions you have completed in the previous 7 days.
 
 | Tool                                                    | Training fee - non member |
-|---------------------------------------------------------|---------------------------|--|
+|---------------------------------------------------------|---------------------------|
 | Resin 3D printer                                        | Unavailable               |
 | FDM 3D printer                                          | Unavailable               |
 | Laser Cutter - initial training ("first session")       | $15                       |

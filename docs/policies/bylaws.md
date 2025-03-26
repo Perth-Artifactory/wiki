@@ -17,7 +17,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Car park                                                   | [Storage - Car Park](/docs/policies/storage#car-park)                                                                                              |
 | Casual Makers (Day Pass)                                   | [Fees - Workshop usage fees](/docs/policies/fees#workshop-usage-fees)                                                                              |
 | Ceasing membership + the member's projects                 | [Storage - Direction to remove property](/docs/policies/storage#direction-to-remove-property)                                                      |
-| Dangerous projects                                                     | [Dangerous Projects](/docs/policies/dangerous_projects)
+| Dangerous projects                                         | [Dangerous Projects](/docs/policies/dangerous_projects)                                                                                            |
 | Duties delegated by the secretary                          | [Administration - duties delegated by the secretary](/docs/policies/administration#duties-delegated-by-the-secretary)                              |
 | Events and workshops                                       | [Administration - Events and workshops](/docs/policies/administration#events-and-workshops)                                                        |
 | Expense Approvals                                          | [Administration - Artifactory Expenses](/docs/policies/administration#artifactory-expenses)                                                        |
@@ -29,9 +29,8 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Member storage                                             | [Storage - Member storage entitlements](/docs/policies/storage#member-storage-entitlements)                                                        |
 | Member storage - additional storage                        | [Storage - Additional storage](/docs/policies/storage#additional-storage)                                                                          |
 | Minors (children) in the space                             | See below                                                                                                                                          |
-| Money donations                                            | See below                                                                                                                                          |
-| Never Never (historical donations)                         | See below                                                                                                                                          |
-| Physical keys + safe access                                | See below                                                                                                                                          |
+| NeverNever (historical donations)                          | See below                                                                                                                                          |
+| Physical keys                                              | See below                                                                                                                                          |
 | Rehearsal room - casual usage                              | See below                                                                                                                                          |
 | RFID keys for members                                      | See below                                                                                                                                          |
 | RFID keys for non-members                                  | See below                                                                                                                                          |
@@ -63,55 +62,22 @@ you will be liable for the Association's reasonable costs incurred to dispose of
 
 ------------------------------------------------------------------------
 
-## Money Donations
-
-Last modified at the committee meeting 2020-01-11.
-
-- Any money received by the Artifactory as a donation must go into the "Perth Artifactory - Donations" account.
-- Types of money donations may be "General Donations", "Sponsoring a Member Donation", "Event/Workshop Support Donation", "Specified Equipment/Venue enhancements"
-- If the donor wishes to remain anonymous (meaning not thanked publicly), it shall be recorded in TidyHQ and the Secretary informed.
-
-### General Donations (not specified)
-
-- Shall only be used for the Equipment/Venue Enhancements or held until direction for use is given by the Committee. (This allows the Treasurer to draw funds from general donations for equipment and venue enhancements as approved as by the Committee.)
-
-### Donations for Specified Equipment/Venue Enhancement
-
-- Shall be used for the purpose of the Specified Equipment/Venue enhancements.
-- If the Committee is satisfied that cause of the donation has completed the purpose, leftover monies can be treated as a general donation.
-
-### Member Sponsorship Donations
-
-- Funds can only be used to Sponsor Associate Memberships if the Membership Classification allows it.
-- The process as to who receives the sponsored membership is through a committee selected member panel who will choose sponsored members from a publicly advertised process on the Artifactory website.
-- If any panel member has a close connection to an individual applying, they must excuse themselves from the selection panel.
-- The Artifactory Committee as part of the constitution still has to accept the nominated Associate Membership like any membership.
-
-### Donations to support a particular event or workshop
-
-- Shall be used for the purpose of supporting the event/workshop
-- Cannot be treated as a donation if an individual or group that runs the event/workshop benefits financially from the event/workshop.
-- If the Committee is satisfied that cause of the donation has completed the purpose, leftover monies can be treated as a general donation
-
-------------------------------------------------------------------------
-
 ## NeverNever
 
 Defined at committee meeting 2019-08-24.
 
 - That the Artifactory acknowledges the NeverNever as unallocated membership paid in-advance and is non-refundable.
 - The Treasurer has Committee approval to reduce NeverNever balances in exchange for membership when the bank account has a healthy balance and the owner of the NeverNever gives consent.
-- That the NeverNever cannot be added to, except at a Committee Meeting.
+- That the NeverNever cannot be added to.
 
 ------------------------------------------------------------------------
 
-## Physical Keys + Safe Access
+## Physical Keys
 
 Defined at committee meeting 2018-09-29.
 
-- A record of who has Physical Keys + Safe Access to the Artifactory shall be maintained in TidyHQ by the Secretary.
-- The Safe Combination must be updated as a minimum within one month after of any AGM by the Treasurer and the Combination must be provided to the new Committee
-- The Committee allows the Office Bearers of the Association to give selected Artifactory members the safe access code if it is to assist with functioning of the Artifactory and to assist Office Bearers perform their function. Should any person be granted access, the Secretary must be informed. (Reasoning - is to allow for cash to be made secure when no Committee member is present for events that make significant cash, or allow a member to assist with giving out new RFID keys, etc)
+- Physical keys are issued at the discretion of the Management Committee to assist with emergency access to the workshop.
+- A record of who has physical keys to the Artifactory shall be maintained in the membership database by the Secretary.
 
 ------------------------------------------------------------------------
 
@@ -128,11 +94,12 @@ The rehearsal room can be used on a casual basis:
 
 ------------------------------------------------------------------------
 
-## RFID Keys for Members
+## 24/7 Access
 
 Last modified by online motion, documented at committee meeting 2024-11-16.
 
-- All members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
+- Separate to the application process detailed below the committee may grant 24/7 access to anyone performing a task on behalf of the organisation for the purpose of performing that task. (eg. external event hosts)
+- All ordinary and sponsored members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
   - Has held their current membership for at least two weeks,
   - Has not acted against the interests of the Association,
   - Pays a bond appropriate to their membership class,
@@ -157,19 +124,6 @@ Last modified by online motion, documented at committee meeting 2024-11-16.
 | Concession Membership            | $135 |
 | Band Membership                  | $100 |
 | Sponsored Student Membership     | $135 |
-| Resident Artist - NoizeMaschin!! | $0   |
-| The Ambassador!                  | $0   |
-
-------------------------------------------------------------------------
-
-## RFID Keys for Non-members
-
-Defined at committee meeting 2018-09-01.
-
-- RFID Keys are allowed to be given to non-members IF
-  - it is to facilitate the running of a regular workshop (after it has been run a couple of times)
-  - approved by 3 committee members
-  - on the condition that keys are only to be used for the workshop (not general admittance) unless they are member
 
 ------------------------------------------------------------------------
 
@@ -177,63 +131,37 @@ Defined at committee meeting 2018-09-01.
 
 Adopted at committee meeting 2021-01-10.
 
-While persons under the age of 18 can attend the space there are certain restrictions in place to protect everyone involved.
+Our space is a collaborative workshop, not a child care service. Minors (people under the age of 18) are welcome to attend and participate in the space, provided they are supervised by a responsible guardian.
 
-It is the responsibility of the guardian to ensure that the supervised child is:
+The guardian must ensure that the minor –
 
-- following all appropriate safety requirements
-- not endangered by the tool use of members and attendees.
-- not interfering with members and attendees
+- Complies with our policies and procedures (e.g. the Training policy and Code of Conduct).
+- Follows all appropriate safety requirements (e.g. wears appropriate PPE).
+- Is not endangered by activities occurring in the space.
+- Does not interfere with members and attendees.
+- Does not consume alcohol.
 
-Please note: regardless of any alcohol supply laws guardians can not provide alcohol to minors on Artifactory property.
+Different levels of supervision are required based on the area and the activities occurring in the area.
 
-### Minors under the age of 13
+- For *General supervision*, the guardian must be –
+  - present in the space, and
+  - able to see the minor, and
+  - generally aware of what the minor is doing.
 
-Must be actively supervised in the following areas:
-
-- Rehearsal Room
-- Electronics Lab
-- Machining Bay
-- Welding Bay
-- Project Area - Active use
-- Machine Room
-- Laser Area
-- Rear Courtyard - Active use
-
-Can be left in the following areas provided that the supervising guardian can see the child:
-
-- Social Area
-- Design Lab
-- Project Area - Passive use
-- Rear Courtyard - Passive use
-- Kitchen
-
-### Minors 13 and over
-
-Must be actively supervised in the following areas:
-
-- Machining Bay
-- Welding Bay
-- Machine Room
-
-Can be left in the following areas provided that the supervising guardian can see the teen:
-
-- Laser Area
-- Electronics Lab
-- Rehearsal Room
-- Social Area
-- Design Lab
-- Project Area - Passive use
-- Project Area - Active use
-- Rear Courtyard - Passive use
-- Rear Courtyard - Active use
-- Kitchen
-
-### Definitions
-
-- Active use: Power tools, spray paint, hot works, or other dangerous activities are occurring. Members or attendees using either the courtyard or project area may change the status of the area to Active Use at their discretion to reflect any issues that may be caused by an unsupervised minor in that area. (Painting miniatures, wet paint etc)
-- Passive use: Where none of the above apply
-- Actively supervised: The guardian must be physically present in the area and able to intervene to enforce their responsibilities as guardian
+- For *Active supervision*, the guardian must be –
+  - in the same area as the minor, and
+  - actively aware of what the minor is doing, and
+  - ready to physically intervene if required.
+        
+- Any attendee can temporarily declare that an area is an *active supervision area*, based on the presence of –
+  - Hazardous conditions or activities, e.g. power tools, spray painting, hot works.
+  - Something easy to damage, e.g. wet paint, delicate parts.
+        
+|   | Minors – Under 13 years | Minors – Under 18 years |
+| - | ----------------------- | ----------------------- |
+| **Low risk areas** <ul><li>Social Area</li><li>Design Lab</li><li>Kitchen</li><li>Project area</li><li>Rear Courtyard</li></ul> | General supervision | General supervision |
+| **Medium risk areas** <ul><li>Rehearsal room</li><li>Electronics / 3D printing lab</li><li>Laser area</li></ul> | Active Supervision | General supervision | 
+| **High risk areas** <ul><li>Machining bay</li><li>Welding bay</li><li>Machine room</li><li>Any area temporarily declared to be an active supervision area.</li></ul> | Active Supervision | Active Supervision |
 
 ------------------------------------------------------------------------
 

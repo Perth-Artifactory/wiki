@@ -2,7 +2,7 @@
 title: Keyholder Responsibilities
 description: 
 published: true
-date: 2025-03-01T05:45:21.673Z
+date: 2025-03-26T08:54:57.165Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:51.979Z
@@ -28,7 +28,7 @@ The committee can be contacted via:
   - You are responsible for ensuring that people you let in comply with our policies and procedures.
   - You are expected to conduct yourself as if you are the face of the Artifactory. (Be polite/welcoming).
   - If you are not prepared to take on this responsibility do not leave the doors open.
-- If you are working alone, ensure you assess what you are doing and only undertake tasks you are comfortable doing alone. Consider deferring risky jobs to a time when other people will be around to help.
+- If you are working alone, ensure you assess what you are doing and only undertake tasks you are comfortable doing alone. If a job would be safer with a second set of hands defer it until others are around to help.
 - Every key holder must maintain accurate personal and emergency contact details in TidyHQ at all times.
 - The committee reserves the right to revoke your key at any time for any reason. You will be notified by email or other communications method as they see fit.
 

@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2025-03-26T08:01:59.894Z
+date: 2025-03-26T08:37:46.249Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -97,7 +97,7 @@ The rehearsal room can be used on a casual basis:
 
 Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
-- Separate to the application process detailed below the committee may grant 24/7 access to anyone performing a task on behalf of the organisation for the purpose of performing that task. (eg. external event hosts)
+- Separate to the application process detailed below the committee may grant 24/7 access to anyone performing a task on behalf of the organisation for the purpose of performing that task. (eg. external event hosts, contractors)
 - All ordinary and sponsored members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
   - Has held their current membership for at least two weeks,
   - Has not acted against the interests of the Association,

@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2025-02-17T10:41:56.138Z
+date: 2025-03-26T01:59:48.558Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -64,7 +64,7 @@ you will be liable for the Association's reasonable costs incurred to dispose of
 
 ## NeverNever
 
-Defined at committee meeting 2019-08-24.
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 - That the Artifactory acknowledges the NeverNever as unallocated membership paid in-advance and is non-refundable.
 - The Treasurer has Committee approval to reduce NeverNever balances in exchange for membership when the bank account has a healthy balance and the owner of the NeverNever gives consent.
@@ -74,7 +74,7 @@ Defined at committee meeting 2019-08-24.
 
 ## Physical Keys
 
-Defined at committee meeting 2018-09-29.
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 - Physical keys are issued at the discretion of the Management Committee to assist with emergency access to the workshop.
 - A record of who has physical keys to the Artifactory shall be maintained in the membership database by the Secretary.
@@ -96,7 +96,7 @@ The rehearsal room can be used on a casual basis:
 
 ## 24/7 Access
 
-Last modified by online motion, documented at committee meeting 2024-11-16.
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 - Separate to the application process detailed below the committee may grant 24/7 access to anyone performing a task on behalf of the organisation for the purpose of performing that task. (eg. external event hosts)
 - All ordinary and sponsored members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
@@ -129,7 +129,7 @@ Last modified by online motion, documented at committee meeting 2024-11-16.
 
 ## Minors in the space
 
-Adopted at committee meeting 2021-01-10.
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 Our space is a collaborative workshop, not a child care service. Minors (people under the age of 18) are welcome to attend and participate in the space, provided they are supervised by a responsible guardian.
 

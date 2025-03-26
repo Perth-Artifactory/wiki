@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-11-30T03:12:46.204Z
+date: 2025-03-14T11:16:59.743Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -35,15 +35,11 @@ Our Constitution governs how the organisation operates, everything flows down fr
 
 ## Who makes decisions about the space?
 
-Each year a Management Committee is elected from our members. The Committee sets the overall direction of the organisation for the year and makes the practical day to day decisions that keep the space running. (Constitution Part 5)
-
-## Your rights as a member
-
-When disputes arise in the space you're able to make use of our dispute resolution process. (Constitution Part 4)
+Each year a Management Committee is elected from our members. The Committee sets the overall direction of the organisation for the year and makes the practical day to day decisions that keep the space running.
 
 ## By-laws
 
-The Management Committee sets out the day to day operation of the space through the use of by-laws. The full text can be found by searching `By-laws` on the wiki.
+The Management Committee sets out the day to day operation of the space through the use of by-laws. The ones applicable to you as a new member are covered in the following slides. The full text can be found by searching `By-laws` on the wiki.
 
 # Code of Conduct {data-background-color="rgb(0, 6, 43)"}
 
@@ -296,8 +292,6 @@ perart.io/check_training
 
 ## Training refreshers and training expiry
 
-(Added 2024-08-10)
-
 You may need refresher training if -
 
 * You haven't used a specific tool for 12 months, or
@@ -361,10 +355,6 @@ Your Member Work directory can be accessed in a few different ways:
 * By sending files to the user File Butler on Slack.
 
 ## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
-
-## Sharing pictures
-
-Pictures shared in `#it_photo-stream` on Slack will be saved for our Social Media team. Please share pictures of things you've made in the space.
 
 ## Wiki
 

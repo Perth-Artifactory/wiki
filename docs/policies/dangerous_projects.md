@@ -2,7 +2,7 @@
 title: Dangerous Projects
 description: 
 published: true
-date: 2025-02-24T16:08:58.805Z
+date: 2025-03-21T06:14:46.996Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:32.249Z
@@ -125,8 +125,21 @@ The following people may approve projects (alongside members of the committee). 
 * Steve Hodges
 * Stewart Greenhill
 
+## Record keeping
+
+Approved dangerous projects must be recorded in a place that is visible to all committee members and delegated approvers (e.g. [a Slack channel](https://perart.io/Sdanger).)
+
+The record must include -
+
+- What the dangerous project is, and who is doing it.
+- Who has approved the dangerous project.
+- Details of relevant risk assessments.
+- Details of agreed risk control measures.
+
 ## History
 
 * [2025-02-15](https://wiki.artifactory.org.au/en/minutes/Committee/2025-02-15):
   * Previous "Dangerous projects and tools" policy replaced by "Dangerous projects" policy.
   * Blake Samuels, Doug Bateman, Steve Hodges, and Stewart Greenhill appointed as delegated approvers for dangerous projects.
+* [2025-02-22](https://vote.artifactory.org.au/d/LlwCkaI4/revisions-to-our-dangerous-projects-and-tools-policy/22):
+  * Record keeping requirements added.

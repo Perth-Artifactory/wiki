@@ -2,16 +2,11 @@
 title: Subcommittees
 description: 
 published: true
-date: 2024-07-31T13:30:37.489Z
+date: 2025-03-26T03:40:03.564Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:57.686Z
 ---
-
-> History:
->
-> The current version of these subcommittee by-laws was approved on [2023-01-07](/minutes/Committee/2023-01-07) and took effect from 2023-01-31.
-{.is-info}
 
 This is the [by-law](/docs/policies/bylaws) governing subcommittees.
 
@@ -129,4 +124,6 @@ All powers and duties delegated to a subcommittee are revoked when the subcommit
 
 ## History
 
+* [2025-03-22](/minutes/Committee/2025-03-22) - Minor changes
 * 2024-07-31 - Added procedure for secretary to [contact each subcommittee member on an annual basis](https://vote.artifactory.org.au/d/AFOuYcfH/annual-review-of-office-holders-and-subcommittees).
+* [2023-01-07](/minutes/Committee/2023-01-07) - Initial version

@@ -17,7 +17,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Car park                                                   | [Storage - Car Park](/docs/policies/storage#car-park)                                                                                              |
 | Casual Makers (Day Pass)                                   | [Fees - Workshop usage fees](/docs/policies/fees#workshop-usage-fees)                                                                              |
 | Ceasing membership + the member's projects                 | [Storage - Direction to remove property](/docs/policies/storage#direction-to-remove-property)                                                      |
-| Dangerous projects                                                     | [Dangerous Projects](/docs/policies/dangerous_projects)
+| Dangerous projects                                         | [Dangerous Projects](/docs/policies/dangerous_projects)                                                                                            |
 | Duties delegated by the secretary                          | [Administration - duties delegated by the secretary](/docs/policies/administration#duties-delegated-by-the-secretary)                              |
 | Events and workshops                                       | [Administration - Events and workshops](/docs/policies/administration#events-and-workshops)                                                        |
 | Expense Approvals                                          | [Administration - Artifactory Expenses](/docs/policies/administration#artifactory-expenses)                                                        |
@@ -29,7 +29,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Member storage                                             | [Storage - Member storage entitlements](/docs/policies/storage#member-storage-entitlements)                                                        |
 | Member storage - additional storage                        | [Storage - Additional storage](/docs/policies/storage#additional-storage)                                                                          |
 | Minors (children) in the space                             | See below                                                                                                                                          |
-| NeverNever (historical donations)                         | See below                                                                                                                                          |
+| NeverNever (historical donations)                          | See below                                                                                                                                          |
 | Physical keys                                              | See below                                                                                                                                          |
 | Rehearsal room - casual usage                              | See below                                                                                                                                          |
 | RFID keys for members                                      | See below                                                                                                                                          |

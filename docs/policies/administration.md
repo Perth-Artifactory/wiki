@@ -2,7 +2,7 @@
 title: Administration
 description: 
 published: true
-date: 2023-07-22T14:08:30.054Z
+date: 2025-03-26T01:58:36.953Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:03.205Z
@@ -18,7 +18,7 @@ In these by-laws, unless the contrary intention appears, all terms are as define
 
 ## Artifactory Expenses
 
-Last modified at the committee meeting 2020-03-14.
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 The Treasurer is authorised to reimburse/pay for the following expenses without seeking committee approval. The Treasurer may refer a particular payment to the Management Committee for approval at their discretion.
 
@@ -45,7 +45,7 @@ Refer to [Asynchronous online-only motions](/docs/policies/online-motions).
 
 ## Duties Delegated by the Secretary
 
-Defined at committee meeting 30-01-2019.
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 * The Office bearers, Deputy Treasurer, Deputy Secretary, and Membership Officers are authorised to accept written notices of resignation under section 10 of the constitution.
 * The Office bearers, Deputy Treasurer, Deputy Secretary, and Membership Officers are authorised to assist the Secretary maintain the register of members under section 13 and clause 30.4 of the constitution.
@@ -54,7 +54,7 @@ Defined at committee meeting 30-01-2019.
 
 ## Event Authorisations
 
-Last modified at the committee meeting 30-01-2019.
+Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
 
 * Any committee member may authorise a new workshop or event if it:
   * will bring in the day pass minimum rate per attendee (excluding members)

@@ -2,7 +2,7 @@
 title: Classes of membership
 description: 
 published: true
-date: 2023-11-30T03:27:27.987Z
+date: 2025-03-26T02:01:59.167Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:21.933Z
@@ -123,6 +123,12 @@ Description: The Ambassador is appointed by committee and required to promote th
 | **Maximum number of members in this class of membership** | As determined by the committee |
 
 ## Revision history
+
+### 2025-03-22
+
+* The maximum number of bands was changed from 6 to 2
+* Rehearsal room slots were changed from 3 to 4
+* A clarification on band voting rights was removed
 
 ### 2023-11-30
 

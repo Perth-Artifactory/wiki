@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2025-03-26T01:59:48.558Z
+date: 2025-03-26T08:01:59.894Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -12,6 +12,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 
 | Topic                                                      | Bylaw                                                                                                                                              |
 |------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------|
+| 24/7 Access                                                | See below                                                                                                                                          |
 | Asynchronous online-only motions (online committee voting) | [Administration - Asynchronous online-only motions](https://wiki.artifactory.org.au/docs/policies/administration#asynchronous-online-only-motions) |
 | Automotive projects                                        | [Automotive Projects](/docs/policies/automotive-projects)                                                                                          |
 | Car park                                                   | [Storage - Car Park](/docs/policies/storage#car-park)                                                                                              |
@@ -32,8 +33,6 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | NeverNever (historical donations)                          | See below                                                                                                                                          |
 | Physical keys                                              | See below                                                                                                                                          |
 | Rehearsal room - casual usage                              | See below                                                                                                                                          |
-| RFID keys for members                                      | See below                                                                                                                                          |
-| RFID keys for non-members                                  | See below                                                                                                                                          |
 | Subcommittees                                              | [Subcommittees](/docs/policies/subcommittees)                                                                                                      |
 | Tool usage fees                                            | [Fees - Tool usage fees](/docs/policies/fees#tool-usage-fees)                                                                                      |
 | Training (tool inductions)                                 | [Training](/docs/policies/training)                                                                                                                |

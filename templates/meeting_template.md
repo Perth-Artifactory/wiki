@@ -1,8 +1,8 @@
 ---
-title: "yyyy-mm-dd"
+title: yyyy-mm-dd
 description: 
 published: true
-date: 2024-11-15T12:41:21.742Z
+date: 2025-03-28T06:56:32.519Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:52:53.978Z
@@ -276,27 +276,27 @@ News and discussions on events.
 ### Tech
 
 * Arduino U - (Coordinators: Blake, Stewart) -
-* Open Source Hackers / Perth Linux Users Group (Coordinators: Niall Navin, Nick Bannon) -
 
 ### Social
 
-* Talkshop Wednesday (Coordinator: Fletcher, Renae, Lewis) -
+* Talkshop Wednesday (Coordinator: Fletcher, Lewis) - 
+* Saturday Lunch (Coordinator: Fletcher, Lewis) - 
 * Board Game Afternoon (Coordinator: Lewis) - 
 
 ### Cosplay and Craft
 
-* Leathercraft Workshops (Coordinator: Andrew L aka Western Leathercraft*) -
+* N/A
 
 ### Music
 
-* DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits*) -
+* DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits) -
 
 ### General
 
 * General Hacking Day (Coordinator: Committee) -
 * Open Day (Coordinator: Fletcher) -
-* Metal Monday (Coordinator: Ben) -
-* Wednesday Woodworking (Coordinators: Renae/Penny) - 
+* Metal Monday (Coordinator: Ben, Lewis) -
+* Wednesday Woodworking (Coordinators: Renae, Penny) - 
 
 ### Other
 

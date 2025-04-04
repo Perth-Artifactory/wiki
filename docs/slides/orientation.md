@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-03-14T11:16:59.743Z
+date: 2025-04-04T13:26:32.890Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -343,6 +343,12 @@ You can find us on:
 Upcoming events can be found on our public calendar. You can add this calendar to your phone if you like. (Events link in the navbar of the main site)
 
 artifactory.org.au/events
+
+## Event RSVPs
+
+Some event hosts will ask that you RSVP for certain events. Most of these event RSVPs are posted in #event_rsvps
+
+![event_rsvp.png](/event_rsvp.png)
 
 # Tech resources
 

@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-04-04T13:26:32.890Z
+date: 2025-04-04T13:29:22.397Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -348,7 +348,7 @@ artifactory.org.au/events
 
 Some event hosts will ask that you RSVP for certain events. Most of these event RSVPs are posted in #event_rsvps
 
-![event_rsvp.png](/event_rsvp.png)
+![](https://wiki.artifactory.org.au/event_rsvp.png)
 
 # Tech resources
 

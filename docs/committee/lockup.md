@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2024-10-12T07:56:24.514Z
+date: 2025-04-07T08:55:12.176Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -18,7 +18,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 * Roller door to backyard is down, controller is to the right of the door. (No need to manually lock)
 * Door to the left of bar is locked and bolted
 * Outdoor power points (smaller switches) to left of roller door are turned off.
-* 🏘️ Shed power comes from machine room. (No need to lock shed)
+* 🏘️ Shed power comes from machine room. (No need to lock shed with a padlock but should be bolted)
 * 🏘️ Turn the courtyard lights off with the silver button below the roller door controls
 
 ## Back Area

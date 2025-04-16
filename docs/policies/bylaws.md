@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2025-03-26T08:37:46.249Z
+date: 2025-04-16T03:18:20.409Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -37,6 +37,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Tool usage fees                                            | [Fees - Tool usage fees](/docs/policies/fees#tool-usage-fees)                                                                                      |
 | Training (tool inductions)                                 | [Training](/docs/policies/training)                                                                                                                |
 | Training fees                                              | [Fees - Tool usage fees](/docs/policies/fees#training-fees)                                                                                        |
+| Vehicle fitouts                                            | [Vehicle fitouts](/docs/policies/vehicle_fitouts)                                                                                                  |
 | Workspace usage                                            | [Storage - Workspace usage](/docs/policies/storage#workspace-usage)                                                                                |
 
 ------------------------------------------------------------------------

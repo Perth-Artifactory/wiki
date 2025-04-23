@@ -2,7 +2,7 @@
 title: Artifactory Access
 description: 
 published: true
-date: 2025-04-23T18:07:22.485Z
+date: 2025-04-23T18:08:27.859Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:47.883Z
@@ -43,7 +43,7 @@ Check [the webcams](https://space.artifactory.org.au/) to see if there is alread
 
 ### Regular Events
 
-Come down on one of our regular scheduled events.
+Come down on one of our [regular scheduled events](https://artifactory.org.au/events).
 
 You're welcome to attend the events but you can also just go off and do your own thing or use what you need to.
 
@@ -62,4 +62,4 @@ Go to our [Slack team](https://perart.io/slack) ask if anyone will be in at the 
 
 ## Day Pass (casual users)
 
-Casual visiting members who just want to use the tools for the day/night are limited to event times, other than by special arrangement.
+Casual visiting members who just want to use the tools for the day/night are limited to [scheduled event times](https://artifactory.org.au/events), other than by special arrangement.

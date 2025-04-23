@@ -2,7 +2,7 @@
 title: Keyholder Responsibilities
 description: 
 published: true
-date: 2025-04-23T17:41:25.839Z
+date: 2025-04-23T17:45:15.567Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:51.979Z
@@ -19,8 +19,6 @@ Before you can get a 24/7 access key, you need to -
 * Apply using the Taiga form in Slack. (`Submit a form` > `Apply for a key`)
 
 ![taiga_form.png](/taiga_form.png)
-
-
 
 ## Contacting the committee
 

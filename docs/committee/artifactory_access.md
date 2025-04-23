@@ -2,7 +2,7 @@
 title: Artifactory Access
 description: 
 published: true
-date: 2024-10-24T08:16:57.391Z
+date: 2025-04-23T17:57:35.103Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:47.883Z
@@ -12,7 +12,12 @@ The Perth Artifactory is a nonprofit organization run entirely by volunteers and
 
 ## Member RFID Key Access
 
-If you have a Full or Concession membership and meet a list of [requirements](/docs/policies/bylaws#rfid-keys-for-members) then you can opt to apply for a 24/7 access key. When doing so you will be required to pay a bond equal to three months of your membership fees. If you would like to get a key contact the [Membership Officer](mailto:membership@artifactory.org.au).
+If you have a Full or Concession membership and meet a list of [requirements](/docs/policies/bylaws#rfid-keys-for-members) then you can opt to apply for a 24/7 access key. 
+When doing so you will be required to pay a bond equal to three months of your membership fees.
+You can apply for a key by submitting the appropriate form via Taiga on Slack (`Submit a form` > `Apply for a key`).
+
+![taiga_form.png](/taiga_form.png)
+
 
 ## Member Access
 

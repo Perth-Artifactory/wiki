@@ -2,7 +2,7 @@
 title: Keyholder Responsibilities
 description: 
 published: true
-date: 2025-03-26T08:54:57.165Z
+date: 2025-04-23T17:41:25.839Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:51.979Z
@@ -11,13 +11,26 @@ dateCreated: 2022-10-17T16:46:51.979Z
 > Having a key to access Artifactory is a wonderful thing, and while we try and place as little onus on our members as possible, there are some responsibilities that must come with holding one of these keys.
 {.is-info}
 
+## Applying for a key
+
+Before you can get a 24/7 access key, you need to -
+
+* Meet the [application requirements for 24/7 access](https://wiki.artifactory.org.au/en/docs/policies/bylaws#h-247-access)
+* Apply using the Taiga form in Slack. (`Submit a form` > `Apply for a key`)
+
+![taiga_form.png](/taiga_form.png)
+
+
+
+## Contacting the committee
+
 The committee can be contacted via:
 
 * Phone: [6181 2883](tel:+61861812883)
 * Slack: [\#general](slack://channel?team=T0LQE2JNR&id=C0LQBEQ2Y)
 * Email: [committee@artifactory.org.au](mailto:committee@artifactory.org.au)
 
-----
+## Responsibilities
 
 - If you’re the last one to leave, you are responsible for making sure the space is secure as per the [closure procedure](/docs/committee/lockup).
 - If you are leaving and there are other people in the space you must make sure there is another keyholder still in the space. If not you will need to ask them to leave as well and then make the space secure.

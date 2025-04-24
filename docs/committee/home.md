@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2025-04-24T00:46:47.896Z
+date: 2025-04-24T00:47:01.726Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -69,7 +69,7 @@ See [Events / Workshops](/events/start) for more details. The "#" Denotes run by
 * General
   * General Hacking Day (Coordinator: Committee)
   * Open Day (Coordinator: Fletcher)
-  * Talkshop Wednesday (Coordinator: Fletcher, Renae, Lewis)
+  * Talkshop Wednesday (Coordinator: Fletcher, Lewis)
   * Women's Woodworking (Coordinator: Renae, Penny)
 
 ## Records

@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-04-04T13:29:22.397Z
+date: 2025-04-24T01:07:33.265Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -370,4 +370,15 @@ Your Member Work directory can be accessed in a few different ways:
 
 wiki.artifactory.org.au
 
-# Questions?
+# Questions / Walk-around
+
+Walk around and look at -
+
+* First aid cabinet
+* Kitchen - member fridge **(name & date your items!)** vs. bar fridge
+* Back shed - flammable goods storage
+* Laser scrap rack
+* Hack rack
+* Upcycle rack
+* "To-do" whiteboard at front of space
+* AED in front carpark

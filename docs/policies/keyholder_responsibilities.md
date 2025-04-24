@@ -2,7 +2,7 @@
 title: Keyholder Responsibilities
 description: 
 published: true
-date: 2025-04-23T17:45:15.567Z
+date: 2025-04-24T01:10:54.957Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:51.979Z
@@ -45,6 +45,7 @@ The committee can be contacted via:
 
 ## History
 
+- 2025-04-24 Added references to existing list of keyholder application requirements and application method.
 - 2025-03-01 Phone number added and contact information formatted to better imply method priority
 - Revised [2024-04-13](/minutes/Committee/2024-04-13) -
   - Deleted suggestion that front door(s) should be closed when alone in the space.

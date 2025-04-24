@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2025-02-18T03:36:27.368Z
+date: 2025-04-24T00:46:47.896Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -51,7 +51,7 @@ See [2024-2025_committee](/docs/committee/2024-2025_committee)
 
 ## Other delegated authorities
 
-* [Dangerous projects](/docs/policies/dangerous_projects) - See [Dangerous projects](/docs/policies/dangerous_projects) - delegated approvers.
+* [Dangerous projects](/docs/policies/dangerous_projects) - See Dangerous projects - [delegated approvers](https://wiki.artifactory.org.au/docs/policies/dangerous_projects#delegated-approvers).
 
 ## Events and Workshop Coordinators
 

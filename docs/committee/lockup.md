@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2025-04-07T08:55:12.176Z
+date: 2025-04-24T00:58:35.565Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -15,6 +15,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 ## Outdoor Area
 
+* All equipment either brought inside (e.g. tools) or appropriately covered (e.g. BBQ).
 * Roller door to backyard is down, controller is to the right of the door. (No need to manually lock)
 * Door to the left of bar is locked and bolted
 * Outdoor power points (smaller switches) to left of roller door are turned off.
@@ -45,7 +46,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 ## Front
 
-* Ensure roller door to car park is down and bolted. Check that the roller door stays down when pulling chain in either direction.
+* Ensure roller door to car park is down and bolted. **Check that the roller door stays down when pulling chain in either direction.**
 * Turn off welding bay - GPO above bench and lights on wall
 
 ## Final
@@ -56,6 +57,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 ## Recent changes
 
+* Add note to outdoors area regarding equipment left outside or uncovered.
 * Add under table light
 * Remove pallet light
 * Document design aircon button

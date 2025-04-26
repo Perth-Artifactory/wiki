@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2025-04-26T12:51:47.316Z
+date: 2025-04-26T12:53:44.914Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -245,7 +245,8 @@ Slight success can be had when engraving designs but the lasers are not a suitab
 
 ## Laserable rubber (for rubber stamps)
 
-Use specifically laserable rubber, preferably "low odour" laserable rubber. [Pulse Laser Systems](https://pulselasersystems.com.au/product/low-odour-rubber-stamp-sheet-with-adhesive/) is one supplier of this product.
+Use specifically **laserable** rubber, preferably "low odour" laserable rubber.
+* [Pulse Laser Systems](https://pulselasersystems.com.au/product/low-odour-rubber-stamp-sheet-with-adhesive/) is one supplier of this product.
 
 Try the following settings:
 
@@ -259,5 +260,7 @@ Try the following settings:
   * Power: 100%
 
 Remember that the stamped image is **mirrored left to right** and the **inverse of what is engraved**.
+
+![laser_engraved_rubber_stamp.jpg](/tools/lasers/laser_engraved_rubber_stamp.jpg)
 
 

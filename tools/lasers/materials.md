@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2025-01-27T11:15:37.572Z
+date: 2025-04-26T12:51:47.316Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -242,3 +242,22 @@ Engraves well.
 ### Rusty Iron/Steel
 
 Slight success can be had when engraving designs but the lasers are not a suitable tool for bulk rust removal. Consider the sand blaster or angle grinder instead.
+
+## Laserable rubber (for rubber stamps)
+
+Use specifically laserable rubber, preferably "low odour" laserable rubber. [Pulse Laser Systems](https://pulselasersystems.com.au/product/low-odour-rubber-stamp-sheet-with-adhesive/) is one supplier of this product.
+
+Try the following settings:
+
+* Fill engrave
+  * Speed: 100mm/sec
+  * Power: 30% max, 10% min
+  * Scan gap: 0.100 mm
+  * Ramp - under advanced settings - 0.75mm. (This gives the stamp image some angled support material.)
+* Cut out
+  * Speed: 40 mm/sec
+  * Power: 100%
+
+Remember that the stamped image is **mirrored left to right** and the **inverse of what is engraved**.
+
+

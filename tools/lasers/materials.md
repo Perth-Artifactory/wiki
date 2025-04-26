@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2025-04-26T12:53:44.914Z
+date: 2025-04-26T12:54:05.847Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -248,7 +248,7 @@ Slight success can be had when engraving designs but the lasers are not a suitab
 Use specifically **laserable** rubber, preferably "low odour" laserable rubber.
 * [Pulse Laser Systems](https://pulselasersystems.com.au/product/low-odour-rubber-stamp-sheet-with-adhesive/) is one supplier of this product.
 
-Try the following settings:
+If using Big Red, try the following settings:
 
 * Fill engrave
   * Speed: 100mm/sec

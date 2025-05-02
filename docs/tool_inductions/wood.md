@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2025-05-02T12:16:02.104Z
+date: 2025-05-02T13:28:45.498Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -29,7 +29,9 @@ Signed off by: Renae
 | Mask/Respirator (dust)         | M   | P2 if material is toxic (MDF etc) |
 
 Materials: 
-Dry wood or acrylic only. Saw can be set up for green wood or aluminium with approval from infra by installing an old (aluminium) or personal blade, and completing detailed clean up.
+Dry wood or acrylic only. 
+Metal detector must be used on timber unless freshly purchased from Bunnings etc.
+Saw can be set up for green wood or aluminium with approval from infra by installing an old (aluminium) or personal blade, and completing detailed clean up.
 
 Consumables: General purpose 10mm 8TPI blade installed.
 Report to infra if blade is blunt
@@ -64,7 +66,7 @@ After:
 1. Ensure blade comes to a complete stop before clearing waste or leaving machine
 1. Turn off dust extractor with red button not estop
 1. Dispose of off cuts (empty bin into skip if 3/4 full)
-1. Vacuuming includes: table, both compartments, bottom bearings, floor
+1. Check blade is clean (not clogged or covered in resin etc.)
 
 Advanced operations. 
 Specific training required for resawing thick pieces, adjusting guide bearings or changing/replacing blade.
@@ -133,7 +135,7 @@ Signed off by, , Renae
 Material: No Metal. Coated, waxed or dirty material may damage belt/disc. Users are expected to purchase replacement belt or disc if this occurs.
 
 Consumables:
-Discs and belts of various grits are available for use. Training required for changing belts. Coarse belt and mid-grit disc to be left on tool after use.
+Discs and belts of various grits are available for use. Training required for changing belts. Coarse belt and mid-grit disc to be left on tool after use. Replacement belts in office. Report to infra if belt becomes damaged or excessively worn so new spare can be purchased
 
 Pre:
 
@@ -242,13 +244,16 @@ Signed off by: Fletcher, XXX
 | Safety boots                   | M           | Material weight dependant     |
 | Mask/Respirator (dust)         | M           | If sanding toxic material     |
 
-Material: Coated, waxed or dirty material may damage be
-sleeves. Users are expected to purchase replacement sleeve if this occurs.
+Material: Coated, waxed or dirty material may damage
+sleeves. Users are expected to report and purchase replacement sleeve if this occurs.
+
+Consumables: Medium grit sleeves are provided. Spares in office - report if damaged or worn so new spare can be purchased. Coarse or fine sleeves not provided but may be used.
 
 Pre:
 
 1. Change spindle to appropriate diameter for work (including top/bottom pieces). Remember that spindle moves up and down. (Put bottom guard in after drum to confirm correct size)
-1. Check spindle for tightness and sanding sleeve for wear
+1. Check spindle for tightness and sanding sleeve for wear.
+#new# Consider dust management. Use outside and/or connect dust extraction
 
 Using:
 
@@ -275,7 +280,16 @@ Signed off by: Renae, Fletcher
 | Safety boots                   | M           | Long/heavy pieces                     |
 | Mask/Respirator (dust)         | M           | P2 if material is toxic (MDF)         |
 
-Materials: wood or acrylic only. Saw may be permitted to be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+Materials: 
+Wood or acrylic only. 
+Metal detector must be used on timber unless freshly purchased from Bunnings etc.
+Saw may be permitted to be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+
+Consumables: 
+General Purpose crosscut blade installed. 
+Report to infra if damaged or blunt.
+Personal blades may be used with permission 
+Any blade change to be reported to infra and logged
 
 
 Pre:
@@ -305,9 +319,14 @@ Using:
 After:
 
 1. Turn off saw vacuum
+1. Return saw to 90 degree position
 1. Dispose of off cuts (empty bin into skip if 3/4 full)
 1. Vacuuming includes: saw, bench around/behind saw, floor
 1. Turn off saw light/laser if used
+
+Advanced Operations:
+
+Additional training required to change or replace blade.
 
 ## Saw (Table)
 
@@ -323,20 +342,49 @@ Signed off by:
 | Safety boots                   | M           | Material weight dependant                                                          |
 | Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled (MDF etc)                        |
 
+Materials: 
+Wood and acrylic only. 
+Metal detector must be used on timber unless freshly purchased from Bunnings etc.
+In certain circumstances saw may be allowed to be set up for aluminium (approval from Infra required) by installing appropriate personal blade, and completing detailed clean up.
+
+Consumables: General purpose wood blade installed.
+Specific training required to change or replace blade.
+Personal blades may be used with permission 
+Any blade change to be reported to infra and logged
+
 Pre:
 
-1. Check blade for sharpness and correct height/angle
-1. Use rip fence or mitre gauge, not both
-1. Unplug when changing blades
+1. Set up in appropriate position - consider kickback and safety of bystanders
+1. Check blade for sharpness
+1. Check riving knife is installed (CRUCIAL)
+1. Check blade and fence are square
+1. Consider dust management - connect dust extractor if appropriate
+1. Material must have stable/flat base and at least one straight side. (unless jig is used)
 
 Using:
 
-1. Stand to side, not directly behind blade
-1. Never freehand a cut
+1. Set blade height and angle 
+1. Use rip fence or mitre guide, not both
+1. Never freehand a cut.
+1. Feed material through smoothly - do not put hands in line of blade.
+1. Consider kickback - keep area in line with blade clear.
 1. Use push sticks for thin/narrow pieces
+1. Ensure blade comes to a complete stop before removing material or waste.
 
 After:
-1.
+1. Disconnect from power
+1. Lower blade and re-centre fence guide.
+1. Clean all waste and sawdust from machine via vacuum or air-gun.
+1. Be aware thin offuts may be stuck in dust outlet - check and clear.
+1. Return mitre guide and pushsticks to correct position.
+1. Sweep and clean up floor of dust and offcuts.
+1. Do not leave long pieces sticking out from bins - put in skip.
+
+Advanced operations:
+Specific training required to change blade.
+Resawing - supplementary fence and featherboards may be required
+Plunge cuts - removal of riving knife would be required - immediate replacement crucial.
+
 
 ## Drum Sander  
 
@@ -366,14 +414,19 @@ Signed off by: Renae, Tom
 | Plastic                               |
 | Metal                                 |
 
+Consumables: 120 grit paper installed. 
+Report if damaged/torn
+Alternative grit paper may be installed with approprite training
+
+
 Tool Familiarisation:
 
-1. Tool requires dust extraction, currently set up for connecting to shop vac.
+1. Tool requires dust extraction, or shop vac
 1. Drum and belt are controlled separately. Show switches.
 1. Show height control handle
 1. Open drum cover by pressing black knob and lifting cover.
 1. ⚠️THERE IS NO INTERLOCK on drum cover. Drum will spin if turned on with cover open.
-1. Maximum use period 30 minutes. Then 5 minutes cooldown for tool and shop-vac required.
+1. Maximum use period 30 minutes if using shop-vac. Then 5 minutes cooldown for tool and shop-vac required.
 
 Pre-Start Checks - Material
 
@@ -415,6 +468,11 @@ After:
 1. clean up stick residue from conveyor.
 1. Check shop vac and empty if more than 1/4 full. (fine dust, will effect performance and vacuum life more than normal sawdust.
 
+Advanced Operations.
+Replacement of drum wrap apparently a giant pain. Men's shed gate this tool for that reason. 
+Let Tool Lead know if required for ny reason.
+No one has actually done this yet. 
+
 ## Thicknesser (Large)
 
 Lead: ???
@@ -429,16 +487,38 @@ Signed off by: ???, ???
 | Safety boots                   | M           | Material weight dependant                         |
 | Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled |
 
+Material:
+Dry timber only (no composites) - must be checked with metal detector
+Must have at least one flat side.
+No coating that may gum blades.
+
+Consumables:
+Blades may be rotated or replaced as required by infra.
+Users expected to report any damage or issues
+
 Pre:
-1.
+1. Consider safe placement (noisy machine requiring 3 phase power)
+1. Raise infeed and outfeed arms to correct height and tighten bolts.
+1. Connect dust extractor
+1. Run machine briefly to check it sounds right.
 
 Using:
-1.
+1. Gradually raise table as you feed material through - until contact is made
+1. Allow rollers to feed material - do not force or thrust
+1. Raise table slightly after each pass
+1. Be guided by sound as to how far to raise for each pass.
+1. Support long material to reduce snipe.
 
 After:
-1.
+1. Disconnect dust extractor and empty bag if over half full
+1. Clean all dust and chips from machine and floor.
+1. Return infeed/ouutfeed supports to lowered position.
 
-## Thicknesser (Small)
+Advanced operations
+Material with no flat side may be processed by use of feed plate and shims.
+Replacing/rotating blades - refer infra
+
+## Thicknesser (Small) - On loan from Tom
 
 Lead: ???
 Signed off by: ???, ???
@@ -452,12 +532,32 @@ Signed off by: ???, ???
 | Safety boots                   | M           | Material weight dependant                         |
 | Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled |
 
+Material:
+Dry timber only (no composites) - must be checked with metal detector
+Must have at least one flat side.
+No coating that may gum blades.
+
+Consumables:
+Blades may be sharpened or replaced as required by infra.
+Users expected to report any damage or issues
+
 Pre:
-1.
-1.
+1. Consider safe placement (noise/mess)
+1. Consider dust extraction.
+1. Run machine briefly to check it sounds right.
 
 Using:
-1.
+1. Gradually raise table as you feed material through - until contact is made
+1. Allow rollers to feed material - do not force or thrust
+1. Raise table slightly after each pass
+1. Be guided by sound as to how far to raise for each pass.
+1. Support long material to reduce snipe.
 
 After:
-1.
+1. Disconnect dust extractor and empty bag if over half full
+1. Clean all dust and chips from machine and floor.
+
+
+Advanced operations
+Material with no flat side may be processed by use of feed plate and shims.
+Replacing/sharpening blades - refer infra

@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2025-05-02T11:24:29.572Z
+date: 2025-05-02T11:35:37.508Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -14,10 +14,10 @@ dateCreated: 2024-01-27T10:06:35.646Z
 
 These are tools in the wood category only. You may be thinking of the [power tool](/docs/tool_inductions/power) category instead.
 
-## Bandsaw (Wood/Large) ✔
+## Bandsaw (Wood/Large) 
 
 Lead: Renae Currie
-Signed off by: Renae, Fletcher
+Signed off by: Renae
 
 | Item                           | Req | Notes                             |
 |--------------------------------|-----|-----------------------------------|
@@ -58,10 +58,12 @@ After:
 1. Dispose of off cuts (empty bin into skip if 3/4 full)
 1. Vacuuming includes: table, both compartments, tray, floor
 
-## Drill Press ✔
+51Advanced operations. Specific training required for resawing thick pieces or changing/replacing blade.
+
+## Drill Press 
 
 Lead: Renae Currie
-Signed off by: Renae, Fletcher
+Signed off by: Renae
 
 | Item                           | Requirement | Notes                             |
 |--------------------------------|-------------|-----------------------------------|
@@ -71,6 +73,9 @@ Signed off by: Renae, Fletcher
 | Enclosed shoes                 | Y           | Falling swarf/piece               |
 | Safety boots                   | M           | Falling heavy piece               |
 | Mask/Respirator (dust)         | M           | P2 If material is toxic (MDF etc) |
+
+Materials - metal, wood (including composites) acrylic
+No concrete or similar material.
 
 Pre:
 
@@ -97,6 +102,8 @@ After:
 1. Reset table to appropriate height for general use
 1. Vacuuming includes: table, table channels, floor
 
+Advanced operation: additional training required for changing speed. Belts must be reset to original position.
+
 ## Fixed Belt Sander ✔
 
 Lead: Fletcher Boyd
@@ -109,6 +116,8 @@ Signed off by, Fletcher, Renae
 | Gloves (general)               | N           | Moving parts                                     |
 | Enclosed shoes                 | Y           |                                                  |
 | Mask/Respirator (dust)         | M           | P2 if material is toxic (MDF etc)                |
+
+110Material: Coated, waxed or dirty material may damage belt/disc. Users are expected to purchase replacement belt or disc if this occurs.
 
 Pre:
 
@@ -133,6 +142,8 @@ After:
 1. Clean belt/disc if material building is noticeable (would you need to clean it if you started using the machine now)
 1. Remove chair if used
 1. Vacuuming includes: table, belt, under guard, floor
+
+Advanced operations- specific training required before replacing belts. 
 
 ## Jointer
 

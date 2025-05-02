@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2025-05-02T11:40:59.553Z
+date: 2025-05-02T12:16:02.104Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -28,7 +28,14 @@ Signed off by: Renae
 | Safety boots                   | M   | Heavy materials and off-cuts      |
 | Mask/Respirator (dust)         | M   | P2 if material is toxic (MDF etc) |
 
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+Materials: 
+Dry wood or acrylic only. Saw can be set up for green wood or aluminium with approval from infra by installing an old (aluminium) or personal blade, and completing detailed clean up.
+
+Consumables: General purpose 10mm 8TPI blade installed.
+Report to infra if blade is blunt
+Spares kept in office.
+Other blades may be used (detail, resawing or green wood blades) but are not provided by the space. Renae has some that may be used by arrangement
+Specific training required to replace or change blade
 
 Pre:
 
@@ -44,7 +51,7 @@ Pre:
 
 Using:
 
-1. Saw is more powerful than previous saw - will go through things quicker so don't put your fingers inline with the blade while applying force
+1. Saw is more powerful than previous saw - will go through things quicker so don't put your fingers inline with the blade while applying force Also takes longer to spin up and stop.
 1. Keep fingers away from blade path
 1. Use push sticks for narrow pieces
 1. Spin up completely before blade contacts material
@@ -54,11 +61,15 @@ Using:
 After:
 
 1. Turn off using red button
+1. Ensure blade comes to a complete stop before clearing waste or leaving machine
 1. Turn off dust extractor with red button not estop
 1. Dispose of off cuts (empty bin into skip if 3/4 full)
-1. Vacuuming includes: table, both compartments, tray, floor
+1. Vacuuming includes: table, both compartments, bottom bearings, floor
 
-51Advanced operations. Specific training required for resawing thick pieces or changing/replacing blade.
+Advanced operations. 
+Specific training required for resawing thick pieces, adjusting guide bearings or changing/replacing blade.
+Changing/replacing blade - note - bearings will need to be adjusted.
+Resawing - will cause excessive wear to standard blade. Users may be required to purchase resaw blade or contribute to cost or extra wear on blade. Refer to Renae. Additional height fence may be needed for safe support. 
 
 ## Drill Press 
 
@@ -74,8 +85,10 @@ Signed off by: Renae
 | Safety boots                   | M           | Falling heavy piece               |
 | Mask/Respirator (dust)         | M           | P2 If material is toxic (MDF etc) |
 
-Materials - metal, wood (including composites) acrylic
+Materials - metal, wood (including composites), acrylic
 No concrete or similar material.
+
+Consumables: Standard set of drill bits in kit. Must report any damage or bluntness. Holesaws and forstner bits may be used. Do not return blunt or damaged bits to toolbox - report and/or discard as appropriate. We do have a drill bit sharpener.
 
 Pre:
 
@@ -117,7 +130,10 @@ Signed off by, , Renae
 | Enclosed shoes                 | Y           |                                                  |
 | Mask/Respirator (dust)         | M           | P2 if material is toxic (MDF etc)                |
 
-110Material: Coated, waxed or dirty material may damage belt/disc. Users are expected to purchase replacement belt or disc if this occurs.
+Material: No Metal. Coated, waxed or dirty material may damage belt/disc. Users are expected to purchase replacement belt or disc if this occurs.
+
+Consumables:
+Discs and belts of various grits are available for use. Training required for changing belts. Coarse belt and mid-grit disc to be left on tool after use.
 
 Pre:
 

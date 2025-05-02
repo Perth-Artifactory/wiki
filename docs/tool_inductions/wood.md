@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2025-05-02T13:28:45.498Z
+date: 2025-05-02T13:33:22.981Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -163,7 +163,7 @@ After:
 
 Advanced operations- specific training required before replacing belts. 
 
-## Jointer
+## Jointer - Too scary. supervised use only
 
 Lead: XXX
 Signed off by: XXX

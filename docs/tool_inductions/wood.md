@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2025-05-02T11:35:37.508Z
+date: 2025-05-02T11:39:38.019Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -28,7 +28,7 @@ Signed off by: Renae
 | Safety boots                   | M   | Heavy materials and off-cuts      |
 | Mask/Respirator (dust)         | M   | P2 if material is toxic (MDF etc) |
 
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval by installing an old or personal blade, and completing detailed clean up.
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
 
 Pre:
 
@@ -107,7 +107,7 @@ Advanced operation: additional training required for changing speed. Belts must 
 ## Fixed Belt Sander ✔
 
 Lead: Fletcher Boyd
-Signed off by, Fletcher, Renae
+Signed off by, , Renae
 
 | Item                           | Requirement | Notes                                            |
 |--------------------------------|-------------|--------------------------------------------------|
@@ -226,6 +226,9 @@ Signed off by: Fletcher, XXX
 | Safety boots                   | M           | Material weight dependant     |
 | Mask/Respirator (dust)         | M           | If sanding toxic material     |
 
+Material: Coated, waxed or dirty material may damage be
+sleeves. Users are expected to purchase replacement sleeve if this occurs.
+
 Pre:
 
 1. Change spindle to appropriate diameter for work (including top/bottom pieces). Remember that spindle moves up and down. (Put bottom guard in after drum to confirm correct size)
@@ -255,6 +258,20 @@ Signed off by: Renae, Fletcher
 | Enclosed shoes                 | Y           | Risk of falling off cuts              |
 | Safety boots                   | M           | Long/heavy pieces                     |
 | Mask/Respirator (dust)         | M           | P2 if material is toxic (MDF)         |
+
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing deta
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean u
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clea
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed cl
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from by installing an old or personal blade, and completing detailed clean up.
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed c
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+
 
 Pre:
 

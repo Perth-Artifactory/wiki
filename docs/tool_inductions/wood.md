@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2025-05-02T11:39:38.019Z
+date: 2025-05-02T11:40:59.553Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -259,18 +259,7 @@ Signed off by: Renae, Fletcher
 | Safety boots                   | M           | Long/heavy pieces                     |
 | Mask/Respirator (dust)         | M           | P2 if material is toxic (MDF)         |
 
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing deta
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean u
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clea
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed cl
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from by installing an old or personal blade, and completing detailed clean up.
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed c
-Materials: wood or acrylic only. Saw can be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+Materials: wood or acrylic only. Saw may be permitted to be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
 
 
 Pre:

@@ -2,7 +2,7 @@
 title: Medium - Wood
 description: 
 published: true
-date: 2025-01-01T06:10:45.198Z
+date: 2025-05-02T11:24:29.572Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -27,6 +27,8 @@ Signed off by: Renae, Fletcher
 | Enclosed shoes                 | Y   | Falling off-cuts                  |
 | Safety boots                   | M   | Heavy materials and off-cuts      |
 | Mask/Respirator (dust)         | M   | P2 if material is toxic (MDF etc) |
+
+Materials: wood or acrylic only. Saw can be set up for aluminium with approval by installing an old or personal blade, and completing detailed clean up.
 
 Pre:
 

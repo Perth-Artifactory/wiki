@@ -1,8 +1,8 @@
 ---
-title: Medium - Metal
+title: Metal
 description: 
 published: true
-date: 2024-08-09T13:53:47.598Z
+date: 2025-05-04T15:53:14.594Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -11,8 +11,6 @@ dateCreated: 2024-01-27T15:17:00.618Z
 > Please do not share the contents of this page.
 > Unless marked as signed off the content is a work in progress.
 {.is-warning}
-
-These are tools in the metal category only. You may be thinking of the [power tool](/docs/tool_inductions/power) category instead.
 
 ## Bandsaw (Metal)
 

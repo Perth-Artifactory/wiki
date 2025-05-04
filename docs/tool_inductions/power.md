@@ -1,8 +1,8 @@
 ---
-title: Medium - Power tools
+title: Power Tools
 description: 
 published: true
-date: 2024-08-09T13:54:20.628Z
+date: 2025-05-04T15:54:10.769Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -11,8 +11,6 @@ dateCreated: 2024-01-27T15:35:54.682Z
 > Please do not share the contents of this page.
 > Unless marked as signed off the content is a work in progress.
 {.is-warning}
-
-Fixed machines are covered here: [Metal](/docs/tool_inductions/metal), [Wood](/docs/tool_inductions/wood)
 
 ## Air Die Grinder
 

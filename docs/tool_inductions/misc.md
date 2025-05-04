@@ -1,8 +1,8 @@
 ---
-title: Medium - Misc
+title: Misc Tools
 description: 
 published: true
-date: 2024-08-09T13:54:08.954Z
+date: 2025-05-04T15:53:42.708Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z

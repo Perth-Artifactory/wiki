@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-04T15:54:35.744Z
+date: 2025-05-04T16:05:29.207Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -161,7 +161,7 @@ After:
 
 Advanced operations- specific training required before replacing belts. 
 
-## Jointer - Too scary. supervised use only
+## Jointer - (No training)
 
 Lead: XXX
 Signed off by: XXX
@@ -251,7 +251,7 @@ Pre:
 
 1. Change spindle to appropriate diameter for work (including top/bottom pieces). Remember that spindle moves up and down. (Put bottom guard in after drum to confirm correct size)
 1. Check spindle for tightness and sanding sleeve for wear.
-#new# Consider dust management. Use outside and/or connect dust extraction
+1. Consider dust management. Use outside and/or connect dust extraction
 
 Using:
 

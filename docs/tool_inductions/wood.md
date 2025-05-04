@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-04T16:38:23.825Z
+date: 2025-05-04T16:45:11.742Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -499,12 +499,14 @@ Blades may be rotated or replaced as required by infra.
 Users expected to report any damage or issues
 
 Pre:
+
 1. Consider safe placement (noisy machine requiring 3 phase power)
 1. Raise infeed and outfeed arms to correct height and tighten bolts.
 1. Connect dust extractor
 1. Run machine briefly to check it sounds right.
 
 Using:
+
 1. Gradually raise table as you feed material through - until contact is made
 1. Allow rollers to feed material - do not force or thrust
 1. Raise table slightly after each pass
@@ -512,6 +514,7 @@ Using:
 1. Support long material to reduce snipe.
 
 After:
+
 1. Disconnect dust extractor and empty bag if over half full
 1. Clean all dust and chips from machine and floor.
 1. Return infeed/ouutfeed supports to lowered position.
@@ -544,11 +547,13 @@ Blades may be sharpened or replaced as required by infra.
 Users expected to report any damage or issues
 
 Pre:
+
 1. Consider safe placement (noise/mess)
 1. Consider dust extraction.
 1. Run machine briefly to check it sounds right.
 
 Using:
+
 1. Gradually raise table as you feed material through - until contact is made
 1. Allow rollers to feed material - do not force or thrust
 1. Raise table slightly after each pass
@@ -556,9 +561,9 @@ Using:
 1. Support long material to reduce snipe.
 
 After:
+
 1. Disconnect dust extractor and empty bag if over half full
 1. Clean all dust and chips from machine and floor.
-
 
 Advanced operations
 Material with no flat side may be processed by use of feed plate and shims.

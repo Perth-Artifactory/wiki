@@ -1,8 +1,8 @@
 ---
-title: Medium - Wood
+title: Wood
 description: 
 published: true
-date: 2025-05-02T13:33:22.981Z
+date: 2025-05-04T15:54:35.744Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -11,8 +11,6 @@ dateCreated: 2024-01-27T10:06:35.646Z
 > Please do not share the contents of this page.
 > Unless marked as signed off the content is a work in progress.
 {.is-warning}
-
-These are tools in the wood category only. You may be thinking of the [power tool](/docs/tool_inductions/power) category instead.
 
 ## Bandsaw (Wood/Large) 
 

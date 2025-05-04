@@ -1,8 +1,8 @@
 ---
-title: 3D printer training
+title: 3D Printers
 description: 
 published: true
-date: 2024-10-12T09:25:27.545Z
+date: 2025-05-04T15:52:13.213Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-10-12T09:08:23.214Z

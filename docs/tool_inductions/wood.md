@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-04T16:05:29.207Z
+date: 2025-05-04T16:38:23.825Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -12,7 +12,7 @@ dateCreated: 2024-01-27T10:06:35.646Z
 > Unless marked as signed off the content is a work in progress.
 {.is-warning}
 
-## Bandsaw (Wood/Large) 
+## Bandsaw (Wood) 
 
 Lead: Renae Currie
 Signed off by: Renae
@@ -74,7 +74,7 @@ Resawing - will cause excessive wear to standard blade. Users may be required to
 ## Drill Press 
 
 Lead: Renae Currie
-Signed off by: Renae
+Signed off by: Renae, Fletcher
 
 | Item                           | Requirement | Notes                             |
 |--------------------------------|-------------|-----------------------------------|
@@ -120,7 +120,7 @@ Advanced operation: additional training required for changing speed. Belts must 
 ## Fixed Belt Sander ✔
 
 Lead: Fletcher Boyd
-Signed off by, , Renae
+Signed off by: Fletcher, Renae
 
 | Item                           | Requirement | Notes                                            |
 |--------------------------------|-------------|--------------------------------------------------|
@@ -162,6 +162,10 @@ After:
 Advanced operations- specific training required before replacing belts. 
 
 ## Jointer - (No training)
+
+> No training is offered for this tool
+{.is-danger}
+
 
 Lead: XXX
 Signed off by: XXX
@@ -329,7 +333,7 @@ Additional training required to change or replace blade.
 ## Saw (Table)
 
 Lead: Renae Currie
-Signed off by:
+Signed off by: XXX, XXX
 
 | Item                           | Requirement | Notes                                                                              |
 |--------------------------------|-------------|------------------------------------------------------------------------------------|

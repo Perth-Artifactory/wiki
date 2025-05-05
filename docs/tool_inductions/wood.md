@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-04T16:45:11.742Z
+date: 2025-05-05T11:45:39.640Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -27,15 +27,21 @@ Signed off by: Renae
 | Mask/Respirator (dust)         | M   | P2 if material is toxic (MDF etc) |
 
 Materials: 
-Dry wood or acrylic only. 
-Metal detector must be used on timber unless freshly purchased from Bunnings etc.
-Saw can be set up for green wood or aluminium with approval from infra by installing an old (aluminium) or personal blade, and completing detailed clean up.
+* Dry wood (Must be metal detected unless freshly purchased from Bunnings etc.
+* Acrylic
+* Green wood (With approval from infra - old/personal blade and detailed cleanup)
+* Aluminium (With approval from infra - old/personal blade and detailed cleanup)
 
-Consumables: General purpose 10mm 8TPI blade installed.
-Report to infra if blade is blunt
-Spares kept in office.
-Other blades may be used (detail, resawing or green wood blades) but are not provided by the space. Renae has some that may be used by arrangement
-Specific training required to replace or change blade
+Consumables:
+
+* General purpose 10mm 8TPI blade installed.
+
+Notes:
+
+* Report to infra if blade is blunt
+* Spares kept in office.
+* Other blades may be used (detail, resawing or green wood blades) but are not provided by the space. Renae has some that may be used by arrangement
+* Specific training required to replace or change blade
 
 Pre:
 
@@ -66,10 +72,11 @@ After:
 1. Dispose of off cuts (empty bin into skip if 3/4 full)
 1. Check blade is clean (not clogged or covered in resin etc.)
 
-Advanced operations. 
-Specific training required for resawing thick pieces, adjusting guide bearings or changing/replacing blade.
-Changing/replacing blade - note - bearings will need to be adjusted.
-Resawing - will cause excessive wear to standard blade. Users may be required to purchase resaw blade or contribute to cost or extra wear on blade. Refer to Renae. Additional height fence may be needed for safe support. 
+Advanced operations:
+
+* Specific training required for resawing thick pieces, adjusting guide bearings or changing/replacing blade.
+* Changing/replacing blade - note - bearings will need to be adjusted.
+* Resawing - will cause excessive wear to standard blade. Users may be required to purchase resaw blade or contribute to cost or extra wear on blade. Refer to Renae. Additional height fence may be needed for safe support. 
 
 ## Drill Press 
 
@@ -85,7 +92,12 @@ Signed off by: Renae, Fletcher
 | Safety boots                   | M           | Falling heavy piece               |
 | Mask/Respirator (dust)         | M           | P2 If material is toxic (MDF etc) |
 
-Materials - metal, wood (including composites), acrylic
+Materials:
+
+* Metal
+* Wood (including composites)
+* Acrylic
+
 No concrete or similar material.
 
 Consumables: Standard set of drill bits in kit. Must report any damage or bluntness. Holesaws and forstner bits may be used. Do not return blunt or damaged bits to toolbox - report and/or discard as appropriate. We do have a drill bit sharpener.
@@ -130,7 +142,12 @@ Signed off by: Fletcher, Renae
 | Enclosed shoes                 | Y           |                                                  |
 | Mask/Respirator (dust)         | M           | P2 if material is toxic (MDF etc)                |
 
-Material: No Metal. Coated, waxed or dirty material may damage belt/disc. Users are expected to purchase replacement belt or disc if this occurs.
+Material: 
+
+* Wood
+* Coated, waxed or dirty material may damage belt/disc. Users are expected to purchase replacement belt or disc if this occurs.
+
+No metal/plastic etc
 
 Consumables:
 Discs and belts of various grits are available for use. Training required for changing belts. Coarse belt and mid-grit disc to be left on tool after use. Replacement belts in office. Report to infra if belt becomes damaged or excessively worn so new spare can be purchased
@@ -246,8 +263,9 @@ Signed off by: Fletcher, XXX
 | Safety boots                   | M           | Material weight dependant     |
 | Mask/Respirator (dust)         | M           | If sanding toxic material     |
 
-Material: Coated, waxed or dirty material may damage
-sleeves. Users are expected to report and purchase replacement sleeve if this occurs.
+Material:
+
+* Wood (Coated, waxed or dirty material may damage sleeves. Users are expected to report and purchase replacement sleeve if this occurs.)
 
 Consumables: Medium grit sleeves are provided. Spares in office - report if damaged or worn so new spare can be purchased. Coarse or fine sleeves not provided but may be used.
 

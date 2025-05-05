@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-05T11:45:39.640Z
+date: 2025-05-05T11:48:28.779Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -27,7 +27,7 @@ Signed off by: Renae
 | Mask/Respirator (dust)         | M   | P2 if material is toxic (MDF etc) |
 
 Materials: 
-* Dry wood (Must be metal detected unless freshly purchased from Bunnings etc.
+* Dry wood (Must be metal detected unless freshly purchased from Bunnings etc)
 * Acrylic
 * Green wood (With approval from infra - old/personal blade and detailed cleanup)
 * Aluminium (With approval from infra - old/personal blade and detailed cleanup)
@@ -300,10 +300,11 @@ Signed off by: Renae, Fletcher
 | Safety boots                   | M           | Long/heavy pieces                     |
 | Mask/Respirator (dust)         | M           | P2 if material is toxic (MDF)         |
 
-Materials: 
-Wood or acrylic only. 
-Metal detector must be used on timber unless freshly purchased from Bunnings etc.
-Saw may be permitted to be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up.
+Materials:
+
+* Wood (Must be metal detected unless freshly purchased from Bunnings etc)
+* Acrylic
+* Aluminium (Saw may be permitted to be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up)
 
 Consumables: 
 General Purpose crosscut blade installed. 
@@ -363,9 +364,9 @@ Signed off by: XXX, XXX
 | Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled (MDF etc)                        |
 
 Materials: 
-Wood and acrylic only. 
-Metal detector must be used on timber unless freshly purchased from Bunnings etc.
-In certain circumstances saw may be allowed to be set up for aluminium (approval from Infra required) by installing appropriate personal blade, and completing detailed clean up.
+* Wood (Must be metal detected unless freshly purchased from Bunnings etc)
+* Acrylic
+* Aluminium (Saw may be permitted to be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up)
 
 Consumables: General purpose wood blade installed.
 Specific training required to change or replace blade.

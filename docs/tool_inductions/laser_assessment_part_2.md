@@ -2,7 +2,7 @@
 title: Lasers
 description: 
 published: true
-date: 2025-05-04T15:52:44.153Z
+date: 2025-05-05T11:33:54.371Z
 tags: lasers, restricted-officer
 editor: markdown
 dateCreated: 2022-12-12T17:06:54.067Z
@@ -12,7 +12,13 @@ dateCreated: 2022-12-12T17:06:54.067Z
 > Please do not share the contents of this page.
 {.is-warning}
 
-## The following competencies must be met to sign off on part 2 of laser training
+## CO~2~
+
+### Initial session
+
+Step through the [operation guide](https://wiki.artifactory.org.au/en/tools/lasers/operation) with the trainee and explain the reasoning behind each step. (The separate training operation guide has been deprecated)
+
+### Competency check
 
 * Check air assist/extraction
 * Z-Probe safety
@@ -22,10 +28,9 @@ dateCreated: 2022-12-12T17:06:54.067Z
   * Not over material
   * Shutdown procedure
     * Emergency stop
-    * Unplug machine
     * Put sign on machine
     * Alert laser people (space or slack)
-* LaserCut/Lightburn competency is not assessed though if not demonstrated suggest to the trainee that they should probably undergo more training.
+* Lightburn competency is not assessed though if not demonstrated suggest to the trainee that they should probably undergo more training.
 * Chiller temp
 * Fire response
   * Spray
@@ -33,8 +38,9 @@ dateCreated: 2022-12-12T17:06:54.067Z
   * Blanket (General use vs laser specific)
   * Extinguisher
 * Chlorine response
-  * <5 seconds - emergency stop, evacuate courtyard near vent
-  * >5 seconds - emergency stop, evacuate back half of space, alert in person committee or 000.
+  * How to recongise
+  * Less than 5 seconds - emergency stop, evacuate courtyard near vent
+  * Greater than 5 seconds - emergency stop, evacuate back half of space, alert in person committee, + consider 000 if attendee has breathing difficulties. (No 000 if no injury)
 * Supervision requirements
   * If leaving the machine for longer than getting a drink from the fridge, pause it.
 * Appropriate material and how to find it.

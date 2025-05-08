@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-05T11:48:28.779Z
+date: 2025-05-08T04:27:34.939Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -542,14 +542,16 @@ Advanced operations
 Material with no flat side may be processed by use of feed plate and shims.
 Replacing/rotating blades - refer infra
 
-## Thicknesser (Small) - On loan from Tom
+## Thicknesser (Ryobi)
+
+On loan from tom
 
 Lead: ???
 Signed off by: ???, ???
 
 | Item                           | Requirement | Notes                                             |
 |--------------------------------|-------------|---------------------------------------------------|
-| Eye protection (impact/splash) | Y           | Chips/dust                                        |
+| Eye protection (impact)        | Y           | Chips/dust                                        |
 | Ear protection                 | Y           |                                                   |
 | Gloves (general)               | M           | User choice                                       |
 | Enclosed shoes                 | Y           |                                                   |
@@ -587,3 +589,55 @@ After:
 Advanced operations
 Material with no flat side may be processed by use of feed plate and shims.
 Replacing/sharpening blades - refer infra
+
+## Thicknesser (Dewalt)
+
+Lead: ???
+Signed off by: ???, Fletcher
+
+| Item                           | Requirement | Notes                                             |
+|--------------------------------|-------------|---------------------------------------------------|
+| Eye protection (impact)        | Y           | Chips/dust                                        |
+| Ear protection                 | Y           |                                                   |
+| Gloves (general)               | M           | User choice                                       |
+| Enclosed shoes                 | Y           |                                                   |
+| Safety boots                   | M           | Material weight dependant                         |
+| Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled |
+
+Material:
+
+* Dry timber only (no composites) - must be checked with metal detector 
+* Must have at least one flat side.
+* No coating that may gum blades.
+
+Consumables:
+Blades may be sharpened or replaced as required by infra.
+Users expected to report any damage or issues
+
+Pre:
+
+1. The machine typically cannot be safely moved alone
+1. Consider safe placement (noise/mess)
+1. Consider dust extraction.
+1. Run machine briefly to check it sounds right.
+1. Ensure depth stop is set as expected
+1. Ensure feed rate is set as expected (Do not change when off)
+
+Using:
+
+1. Gradually lower table as you feed material through - until contact is made
+1. Zero out DRO if using
+1. Allow rollers to feed material - do not force or thrust
+1. Lower table slightly after each pass (Increment using DRO or similar handle roation - " Half turn per pass" etc)
+1. Use the motor load sound to judge how much should be taken off with each pass
+1. Support long material to reduce snipe.
+
+After:
+
+1. Disconnect dust extractor and empty bag if over half full
+1. Clean all dust and chips from machine and floor.
+
+Advanced operations:
+
+* Material with no flat side may be processed by use of feed plate and shims.
+* Replacing/sharpening blades - refer infra

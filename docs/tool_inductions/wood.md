@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-08T04:38:54.330Z
+date: 2025-05-08T04:41:21.495Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -447,7 +447,6 @@ Tool Familiarisation:
 1. Show height control handle and DRO
 1. Open drum cover by loosening silver knob and lifting cover.
 1. ⚠️THERE IS NO INTERLOCK on drum cover. Drum will spin if turned on with cover open.
-1. Maximum use period 30 minutes if using shop-vac. Then 5 minutes cooldown for tool and shop-vac required. (Shop vac duty cycle)
 
 Pre-Start Checks - Material
 
@@ -464,6 +463,7 @@ Pre-Start Checks - Tool
 1. Check conveyor tracking by running conveyor at full speed and check for sideways movement. Tracking only to be adjusted by trainers.
 1. Check conveyor tension by slowing down conveyor. If conveyor can be stopped with hand pressure it is too loose. Tension only to be adjusted by trainers.
 1. Turn machine and conveyor off.
+1. Connect dust extraction
 
 Using:
 
@@ -471,15 +471,13 @@ Using:
 1. Set depth of cut (open top and lower until the drum contacts material but can still be spun by hand)
 1. Raise drum 1/4 turn and remove material.
 1. Close cover
-1. Connect shop-vac for dust extraction.
+1. Turn on dust extraction
 1. Start drum
 1. Start conveyer and adjust feed rate (suggest start at 30-40%)
-1. Turn on dust extraction
 1. Feed stock through machine
 1. Feed material at about 30° if possible to begin with, final passes with the grain (30° effective material removal, with grain cleaner)
 1. Lower drum between each pass, 1/4 to max 1/2 handle turn per pass
 1. Repeat steps 9-11 until desired thickness reached
-1. If using shop vac: after every 30 mins of operation, turn off machine and dust extraction for minimum 5mins. Take this time to empty the shop vac.
 
 After:
 
@@ -487,7 +485,7 @@ After:
 1. Vacuum/sweep/blow out all sawdust, including in the drum head
 1. Clean drum with sandpaper cleaning stick
 1. Clean up stick residue from conveyor.
-1. Check shop vac and empty if more than 1/4 full. (fine dust, will effect performance and vacuum life more than normal sawdust.
+1. Check dust extractor and empty if more than 3/4 full.
 
 Advanced Operations.
 Replacement of drum wrap apparently a giant pain. Men's shed gate this tool for that reason. 

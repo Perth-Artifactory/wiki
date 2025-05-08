@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-08T04:35:01.406Z
+date: 2025-05-08T04:38:54.330Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -27,6 +27,7 @@ Signed off by: Renae
 | Mask/Respirator (dust)         | M   | P2 if material is toxic (MDF etc) |
 
 Materials: 
+
 * Dry wood (Must be metal detected unless freshly purchased from Bunnings etc)
 * Acrylic
 * Green wood (With approval from infra - old/personal blade and detailed cleanup)
@@ -420,20 +421,20 @@ Signed off by: Renae, Tom
 | Enclosed shoes                 | Y           | Dropped material                                                  |
 | Mask/Respirator (dust)         | M           | Recommended for resin, toxic timbers and clean up                  |
 
-| Allowed             |
-|---------------------|
-| Wood (long grain)   |
-| Wood (end grain)    |
-| Resin (fully cured) |
+Allowed:
 
-| Prohibited                            |
-|---------------------------------------|
-| Coated boards (eg. Formply, laminate) |
-| Coated wood (eg. paint, oil, shellac) |
-| Green or wet wood                     |
-| She-oak                                |
-| Plastic                               |
-| Metal                                 |
+* Wood (long grain)
+* Wood (end grain)
+* Resin (fully cured)
+
+Prohibited:
+
+* Coated boards (eg. Formply, laminate)
+* Coated wood (eg. paint, oil, shellac)
+* Green or wet wood
+* She-oak
+* Plastic
+* Metal
 
 Consumables: 120 grit paper installed. 
 Report if damaged/torn

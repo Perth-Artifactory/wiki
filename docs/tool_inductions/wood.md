@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-08T04:41:21.495Z
+date: 2025-05-08T04:43:56.954Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -469,6 +469,7 @@ Using:
 
 1. Ensure material is stable on conveyer (bowing up/cupping down)
 1. Set depth of cut (open top and lower until the drum contacts material but can still be spun by hand)
+1. Zero out DRO if using
 1. Raise drum 1/4 turn and remove material.
 1. Close cover
 1. Turn on dust extraction

@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-08T04:27:34.939Z
+date: 2025-05-08T04:29:35.600Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -625,12 +625,12 @@ Pre:
 
 Using:
 
-1. Gradually lower table as you feed material through - until contact is made
+1. Gradually lower head as you feed material through - until contact is made
 1. Zero out DRO if using
 1. Allow rollers to feed material - do not force or thrust
-1. Lower table slightly after each pass (Increment using DRO or similar handle roation - " Half turn per pass" etc)
+1. Lower head slightly after each pass (Increment using DRO or similar handle roation - " Half turn per pass" etc)
 1. Use the motor load sound to judge how much should be taken off with each pass
-1. Support long material to reduce snipe.
+1. Support long material to reduce snipe, consider using feed tables
 
 After:
 

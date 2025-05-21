@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-08T04:43:56.954Z
+date: 2025-05-21T11:05:07.771Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -290,7 +290,7 @@ After:
 ## Saw (Mitre) ✔
 
 Lead: XXX
-Signed off by: Renae, Fletcher
+Signed off by: ~~Renae~~, Fletcher
 
 | Item                           | Requirement | Notes                                 |
 |--------------------------------|-------------|---------------------------------------|
@@ -320,12 +320,14 @@ Pre:
 1. Use proper blade for material and cut type
 1. Check material for fixings (nails etc) using metal detector
 1. Check/set angles
+1. Move fence for bevel cuts
 1. Check/set slide
 1. Consider material bowing
 1. Align piece with blade (can sit blade on material to check or use laser)
+1. Adjust table slides to support material
 1. Ensure workpiece is firmly placed against both sides of the fence
 1. Ensure workpiece is secured (both before and after cut)
-1. Consider stop block if appropriate
+1. Consider stop block if appropriate (show in-built block)
 1. Confirm saw will be able to drop with no obstructions
 1. Consider 5mm cut first if sliding
 1. Close machine room door and consider other members in room
@@ -336,7 +338,7 @@ Using:
 1. Spin up saw completely before cutting
 1. Cut in one smooth motion, do not push saw hard into material
 1. Release trigger and allow saw blade to spin down before raising from material
-1. Once saw is in top position ensure guard has locked back into place before moving hands/material
+1. Ensure blade has completely spun down before moving hands/material
 
 After:
 
@@ -344,7 +346,7 @@ After:
 1. Return saw to 90 degree position
 1. Dispose of off cuts (empty bin into skip if 3/4 full)
 1. Vacuuming includes: saw, bench around/behind saw, floor
-1. Turn off saw light/laser if used
+1. Turn off saw laser if used
 
 Advanced Operations:
 

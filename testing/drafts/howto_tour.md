@@ -2,32 +2,110 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-21T05:46:00.919Z
+date: 2025-05-21T09:06:40.649Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
 ---
 
+# Preliminaries
 
+* Tours are a 2-way process - you need to ask what people want to do, before you give the tour.
+* There are some types of project or usage that we don't support. See "Specific things we need to set expectations about" below.
+  * Politely and firmly inform people of of our limitations when relevant.
+* You don't need to have answers to all questions.
+  * For any questions you don't have confident answers to, defer to a more experienced volunteer e.g. a committee member.
+* The script below is a guide.
+  * You can do things in any order so long as you touch on all the main points.
+  * You can skip any content that the visitor already knows about.
 
-- Ask what they want to do at the space
+# Ingredients of a good tour
 
-- Ask what they know about us already
+## At the start of the tour
 
-- Set expectations regarding -
-  - Training requirements
-  - Volunteer availability
-  - 24/7 access
+* **Put on your name badge**
+  * (Ask Lewis if you don't have one yet.)
+* **Introductions**
+  * Say your name
+  * Ask for visitors names
+* ‼️ **Ask visitors what they are interested in and why they are here!** ‼️
+  * Focus the rest of your tour on what the visitor has expressed interest in.
+  * Look out for any of the "specific things we need to set expectations about" below.
+  * If they want to do a thing which we don't allow (e.g. van fitouts) - firmly and politely tell them that we aren't able to accomodate their project.
+    * *"Sorry, we don't allow van fitout projects for new members. I'm happy to keep showing you around, but I'm also happy if you want to get on with the rest of your day."*
 
-By the end of the tour you should have a good idea whether someone would be a good fit for our community or not.
+## Introduce the space
 
-Make a decision regarding how hard you want to sell membership etc.
+* **Ask how much they already know about us.**
+  * Skip anything they already know.
+* **Community shed**
+  * We are a community shed (like a men's shed, but cooler)
+  * Our mission is to enjoy making things as part of a community.
+  * We are equal parts community (place where you hang out) and workshop (place where you use tools).
+* **Not for profit**
+  * We are a not-for-profit (charity) run entirely by volunteers.
+  * We are supported entirely by membership fees and donations, and have no government funding of any kind.
+  
+## Introduce key policies
 
-# How to give a tour
+* Code of Conduct and Training policy posters are at the front door.
+* **Code of Conduct**
+  * Touch on the main pillars of the Code of Conduct
+  * The goal is to establish that we have a Code of Conduct, and that we value it highly.
+* **Training policy**
+  * Touch on the main points of the training policy.
+  * The goal here is to establish that we both a) provide training where needed, and b) require training before using certain kinds of tools.
+  * Explain that training on certain tools (e.g. 3D printers, CNC router) is members only.
+  
+## Walk around the space and look at things
 
-1. Show them the stuff
-2. Explain how the space works
-3. Watch out for things below...
+* Walk and talk through the space looking at things
+* Some things to touch on (as you walk around the sapce in a general clockwise path.)
+  * Metal area - mill and lathe training is for members only.
+  * 3D printers - training is for members only.
+  * Toilets, first aid.
+  * Bar - EFTPOS payments - self service. (We have no staff, so we rely on an honesty system.)
+  * Outside courtyard area - messy work.
+  * Lasers area - laser scrap is free to use for PERSONAL PROJECTS.
+  * As you pass the tool wall - look at sticky tape etc. Explain that consumables are donated on a "give back about as much as you use - replace when it runs out" basis.
+  * Hack rack - Free for MEMBERS to use for PERSONAL PROJECTS. No need to hoard - there will always be things on the hack rack.
+  * Machine room - CNC router - show the example piece (CNC routed map of Rottnest Island.) Training is members only.
+  * Project area. Explain that member storage (pallet racking) is for members only.
+
+## Closeout
+
+* Explain Slack
+  * "It's Facebook Messenger or Discord, but for businesses"
+  * Explain that we use Slack for everything, and any questions are best asked on Slack.
+  * Show them the Slack signup link (On our main website artifactory.org.au - scroll down to "Join our Online Community.)
+  * If necessary, walk them through installing Slack and setting up an account.
+
+## Membership sales pitch
+
+* Explain that there are 2 ways to use the space.
+* 1 - as a Day Pass / casual user.
+  * Recommended while people are figuring out if the space is for them.
+  * Limited assistance and training available.
+  * Visitor signup is required (https://perart.io/visitor) - to accept our terms and conditions of attendance, and to create a training record.
+* 2 - as a member.
+  * $75/mo Full, $45/mo Concession.
+  * Supports the space and helps us pay our bills.
+  * More assistance and can be trained on all tools.
+  * Can apply for 24/7 access, subject to further requirements.
+* Explain how to sign up.
+  * Go to our main website (artifactory.org.au)
+  * Click on the big red button "Become a Member".
+  * This will take them to TidyHQ to input personal details and PAYMENT INFO FOR THEIR **FIRST MONTH** OF MEMBERSHIP.
+* Explain the membership signup workflow.
+  * Sign up on TidyHQ.
+  * Pay for your first month.
+  * Attend a New Member Induction (show them how to respond to the #training-and-inductions posts in Slack.)
+
+## After the tour
+
+* Ask if they have any questions about the space.
+* Tell them they're free to wander around, look at things, and talk to people. (There is no charge for looking and talking.)
+* Refer questions to more experienced volunteers if needed.
 
 # Specific things we need to set expectations about
 
@@ -89,6 +167,19 @@ Artifactory members are not a source of free engineering consultancy services.
 Dangerous Projects require approval, and can only be done by members.
 
 
+## Minors (children) in the space
+
+Refer to [Minors in the space](/docs/policies/bylaws#minors-in-the-space).
+
+
+## NDIS attendees
+
+Refer to [NDIS](/docs/policies/ndis).
+
+NDIS supported participants each have unique needs, and each requires individual consideration.
+
+NDIS related enquiries should generally be directed to Fletcher or Renae.
+
 
 
 
@@ -120,7 +211,4 @@ e.g.
 * "I'm interested in electronics"
 * "Do you run electronics courses?"
 
-## Minors (children) in the space
-
-[Minors in the space](/docs/policies/bylaws#minors-in-the-space)
 

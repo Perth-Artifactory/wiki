@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-03-21T12:39:37.750Z
+date: 2025-05-21T05:46:00.919Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -22,6 +22,12 @@ dateCreated: 2025-01-11T09:56:27.999Z
 By the end of the tour you should have a good idea whether someone would be a good fit for our community or not.
 
 Make a decision regarding how hard you want to sell membership etc.
+
+# How to give a tour
+
+1. Show them the stuff
+2. Explain how the space works
+3. Watch out for things below...
 
 # Specific things we need to set expectations about
 
@@ -114,5 +120,7 @@ e.g.
 * "I'm interested in electronics"
 * "Do you run electronics courses?"
 
+## Minors (children) in the space
 
+[Minors in the space](/docs/policies/bylaws#minors-in-the-space)
 

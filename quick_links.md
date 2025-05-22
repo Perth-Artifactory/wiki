@@ -2,7 +2,7 @@
 title: Quick Links
 description: Quick links to resources for volunteers
 published: true
-date: 2025-05-22T03:55:23.715Z
+date: 2025-05-22T03:57:33.297Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-08T04:38:31.518Z
@@ -32,6 +32,8 @@ Tool usage fees are payable at the end of the day when you use the tool.
 [New member induction - slide show](https://slides.artifactory.org.au/orientation#/title-slide)
 
 [Visitor Orientation - slide show](https://slides.artifactory.org.au/visitor_orientation#/title-slide)
+
+* [Visitor signup (TidyHQ)](https://perart.io/visitor) - required for all day pass users!
 
 [Laser training - Big Red - slide show](https://slides.artifactory.org.au/machine_big-red#/title-slide)
 

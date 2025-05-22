@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-21T09:06:40.649Z
+date: 2025-05-22T02:09:08.826Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -11,10 +11,12 @@ dateCreated: 2025-01-11T09:56:27.999Z
 # Preliminaries
 
 * Tours are a 2-way process - you need to ask what people want to do, before you give the tour.
-* There are some types of project or usage that we don't support. See "Specific things we need to set expectations about" below.
+* There are some types of project or usage that we don't support.
+  * See *"Specific things we need to set expectations about"* below.
   * Politely and firmly inform people of of our limitations when relevant.
-* You don't need to have answers to all questions.
-  * For any questions you don't have confident answers to, defer to a more experienced volunteer e.g. a committee member.
+  * **It is OK to disappoint people sometimes.**
+* It's OK if you're asked a question and don't know the answer.
+  * For any questions you don't have **confident** answers to, it's OK to defer to a more experienced volunteer e.g. a committee member.
 * The script below is a guide.
   * You can do things in any order so long as you touch on all the main points.
   * You can skip any content that the visitor already knows about.
@@ -28,9 +30,9 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * **Introductions**
   * Say your name
   * Ask for visitors names
-* ‼️ **Ask visitors what they are interested in and why they are here!** ‼️
+* 🚨🚨 **Ask visitors what they are interested in and why they are here!** 🚨🚨
   * Focus the rest of your tour on what the visitor has expressed interest in.
-  * Look out for any of the "specific things we need to set expectations about" below.
+  * Look out for any of the *"Specific things we need to set expectations about"* below.
   * If they want to do a thing which we don't allow (e.g. van fitouts) - firmly and politely tell them that we aren't able to accomodate their project.
     * *"Sorry, we don't allow van fitout projects for new members. I'm happy to keep showing you around, but I'm also happy if you want to get on with the rest of your day."*
 
@@ -39,32 +41,34 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * **Ask how much they already know about us.**
   * Skip anything they already know.
 * **Community shed**
-  * We are a community shed (like a men's shed, but cooler)
+  * We are a community shed (like a men's shed, but more inclusive and cooler!)
   * Our mission is to enjoy making things as part of a community.
   * We are equal parts community (place where you hang out) and workshop (place where you use tools).
 * **Not for profit**
   * We are a not-for-profit (charity) run entirely by volunteers.
-  * We are supported entirely by membership fees and donations, and have no government funding of any kind.
+  * We are supported entirely by membership fees and donations. We have no government funding of any kind.
   
 ## Introduce key policies
 
 * Code of Conduct and Training policy posters are at the front door.
 * **Code of Conduct**
   * Touch on the main pillars of the Code of Conduct
-  * The goal is to establish that we have a Code of Conduct, and that we value it highly.
+  * The goal is to establish that we **have** a Code of Conduct, and that we value it highly.
 * **Training policy**
   * Touch on the main points of the training policy.
   * The goal here is to establish that we both a) provide training where needed, and b) require training before using certain kinds of tools.
   * Explain that training on certain tools (e.g. 3D printers, CNC router) is members only.
+  * Explain that all training is "paid for" by volunteering to do tasks off the whiteboard.
   
 ## Walk around the space and look at things
 
 * Walk and talk through the space looking at things
-* Some things to touch on (as you walk around the sapce in a general clockwise path.)
+* Some things to touch on (as you walk around the space in a general clockwise path.)
   * Metal area - mill and lathe training is for members only.
   * 3D printers - training is for members only.
-  * Toilets, first aid.
-  * Bar - EFTPOS payments - self service. (We have no staff, so we rely on an honesty system.)
+  * Social table is a NO PROJECTS zone (don't mix food with projects.)
+  * Toilets, kitchen facilities, first aid.
+  * Bar - EFTPOS payments - self service. (We have no staff - We rely on an honesty system.)
   * Outside courtyard area - messy work.
   * Lasers area - laser scrap is free to use for PERSONAL PROJECTS.
   * As you pass the tool wall - look at sticky tape etc. Explain that consumables are donated on a "give back about as much as you use - replace when it runs out" basis.
@@ -72,7 +76,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
   * Machine room - CNC router - show the example piece (CNC routed map of Rottnest Island.) Training is members only.
   * Project area. Explain that member storage (pallet racking) is for members only.
 
-## Closeout
+## Closeout Pt.1 - Slack
 
 * Explain Slack
   * "It's Facebook Messenger or Discord, but for businesses"
@@ -80,23 +84,23 @@ dateCreated: 2025-01-11T09:56:27.999Z
   * Show them the Slack signup link (On our main website artifactory.org.au - scroll down to "Join our Online Community.)
   * If necessary, walk them through installing Slack and setting up an account.
 
-## Membership sales pitch
+## Closeout Pt.2 - Membership sales pitch
 
 * Explain that there are 2 ways to use the space.
-* 1 - as a Day Pass / casual user.
+* **1 - as a Day Pass / casual user.**
   * Recommended while people are figuring out if the space is for them.
   * Limited assistance and training available.
   * Visitor signup is required (https://perart.io/visitor) - to accept our terms and conditions of attendance, and to create a training record.
-* 2 - as a member.
+* **2 - as a member.**
   * $75/mo Full, $45/mo Concession.
   * Supports the space and helps us pay our bills.
   * More assistance and can be trained on all tools.
   * Can apply for 24/7 access, subject to further requirements.
-* Explain how to sign up.
+* **Explain how to sign up.**
   * Go to our main website (artifactory.org.au)
   * Click on the big red button "Become a Member".
   * This will take them to TidyHQ to input personal details and PAYMENT INFO FOR THEIR **FIRST MONTH** OF MEMBERSHIP.
-* Explain the membership signup workflow.
+* **Explain the membership signup workflow.**
   * Sign up on TidyHQ.
   * Pay for your first month.
   * Attend a New Member Induction (show them how to respond to the #training-and-inductions posts in Slack.)
@@ -207,8 +211,14 @@ This level of assistance is typically only provided to members (not day pass use
 
 e.g.
 
-* "I want to learn how to use tools"
-* "I'm interested in electronics"
+* "I want to learn how to use tools" *(gesturing vaguely at entire tool rack)*
+* "I'm interested in electronics" *(gesturing vaguely at the electronics bench in general)*
 * "Do you run electronics courses?"
 
+People without specific projects have the potential to suck up arbitrary amounts of volunteer training time for broad categories of tools/skills that they don't seriously intend to use.
 
+Some people want to collect skills ("gotta catch 'em all"!) without any intended use case for the tools.
+
+We would encourage these people to start on a specific project, and learn the tools and skills relevant to that specific project. We can't teach someone how to *"do woodwork"*, but we can teach someone *"how to use a mitre saw to cut wood for a picture frame"*.
+
+We will generally only provide training for tools connected to a specific project the person is doing. This increases the chance they will retain the training information, and reduces the demand on volunteer training time.

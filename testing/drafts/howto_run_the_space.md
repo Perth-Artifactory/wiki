@@ -2,7 +2,7 @@
 title: How to run the space
 description: 
 published: true
-date: 2025-05-22T03:49:22.887Z
+date: 2025-05-22T04:04:00.320Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T03:49:22.887Z
@@ -73,7 +73,7 @@ Refer to [How to give a tour](/testing/drafts/howto_tour) (currently in draft).
 * If **you** are a **competent and authorised operator** you can provide direct personal supervision while the person is using a tool.
 * **This is a big commitment of time and attention, you are under no obligation to provide this level of service.**
 * **Direct personal supervision** means that you are physically present and able to intervene during critical phases of operation.
-    * It's OK to let the person set up the machine themselves, with the machine power off.
+    * It's usually OK to let the person set up the machine themselves, with the machine power off.
     * Tell the person that you need to check their setup and PPE before they turn on the machine.
     * **You need to be physically present and able to intervene while the machine is running.**
     * It's OK to let the person clean up by themselves, with the machine power off.

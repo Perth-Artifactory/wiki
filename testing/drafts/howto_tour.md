@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-22T02:09:08.826Z
+date: 2025-05-22T02:28:02.449Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -173,21 +173,42 @@ Dangerous Projects require approval, and can only be done by members.
 
 ## Minors (children) in the space
 
-Refer to [Minors in the space](/docs/policies/bylaws#minors-in-the-space).
+> Refer to the [Minors in the space](/docs/policies/bylaws#minors-in-the-space) policy.
+{.is-info}
 
+There are 2 ways that this usually comes up.
+
+* When a parent wants to bring their child to the space. This generally means the child needs to be supervised by a responsible adult.
+* When an older child (e.g. a year 11/12 student) wants to attend the space alone. This generally needs an accompanying adult.
 
 ## NDIS attendees
 
-Refer to [NDIS](/docs/policies/ndis).
+> Refer to the [NDIS](/docs/policies/ndis) policy.
+{.is-info}
 
 NDIS supported participants each have unique needs, and each requires individual consideration.
 
 NDIS related enquiries should generally be directed to Fletcher or Renae.
 
+## One off jobs
+
+Sometimes people will rock up wanting to do one laser cutting job, or one 3D print.
+
+These people generally aren't interested in joining up as members - we will only see them once.
+
+We're happy to help these people provided there is a suitably qualified volunteer (e.g. laser operator) available and willing to assist.
+
+It's OK to say no to these requests if there is no one available or if we are too busy.
+
+Discuss the cost and make sure the person is happy before starting the job.
+* For laser cutting, we have an established policy regarding [laser cutting job fees](/docs/policies/fees#laser-cutting-job-fees) for one off jobs.
 
 
 
 ## Vehicle fit outs (van lifers, etc.)
+
+> Refer to the [Vehicle fitouts](/docs/policies/vehicle_fitouts) policy.
+{.is-info}
 
 e.g.
 

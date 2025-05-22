@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-22T02:28:02.449Z
+date: 2025-05-22T02:31:40.613Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -43,7 +43,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * **Community shed**
   * We are a community shed (like a men's shed, but more inclusive and cooler!)
   * Our mission is to enjoy making things as part of a community.
-  * We are equal parts community (place where you hang out) and workshop (place where you use tools).
+  * We are equal parts community (place where you hang out) and workshop (place where you use tools). Both are important.
 * **Not for profit**
   * We are a not-for-profit (charity) run entirely by volunteers.
   * We are supported entirely by membership fees and donations. We have no government funding of any kind.
@@ -58,7 +58,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
   * Touch on the main points of the training policy.
   * The goal here is to establish that we both a) provide training where needed, and b) require training before using certain kinds of tools.
   * Explain that training on certain tools (e.g. 3D printers, CNC router) is members only.
-  * Explain that all training is "paid for" by volunteering to do tasks off the whiteboard.
+  * Explain that all training is given by volunteers, and is "paid for" by volunteering to do tasks off the whiteboard.
   
 ## Walk around the space and look at things
 
@@ -81,7 +81,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * Explain Slack
   * "It's Facebook Messenger or Discord, but for businesses"
   * Explain that we use Slack for everything, and any questions are best asked on Slack.
-  * Show them the Slack signup link (On our main website artifactory.org.au - scroll down to "Join our Online Community.)
+  * Show them the Slack signup link (On our main website artifactory.org.au - scroll down to "**Join our Online Community**".)
   * If necessary, walk them through installing Slack and setting up an account.
 
 ## Closeout Pt.2 - Membership sales pitch
@@ -90,7 +90,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * **1 - as a Day Pass / casual user.**
   * Recommended while people are figuring out if the space is for them.
   * Limited assistance and training available.
-  * Visitor signup is required (https://perart.io/visitor) - to accept our terms and conditions of attendance, and to create a training record.
+  * **Visitor signup is required** (https://perart.io/visitor) - to accept our terms and conditions of attendance, and to create a training record.
 * **2 - as a member.**
   * $75/mo Full, $45/mo Concession.
   * Supports the space and helps us pay our bills.
@@ -98,7 +98,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
   * Can apply for 24/7 access, subject to further requirements.
 * **Explain how to sign up.**
   * Go to our main website (artifactory.org.au)
-  * Click on the big red button "Become a Member".
+  * Click on the big red button "**Become a Member**".
   * This will take them to TidyHQ to input personal details and PAYMENT INFO FOR THEIR **FIRST MONTH** OF MEMBERSHIP.
 * **Explain the membership signup workflow.**
   * Sign up on TidyHQ.

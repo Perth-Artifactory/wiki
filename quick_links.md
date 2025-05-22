@@ -2,7 +2,7 @@
 title: Quick Links
 description: Quick links to resources for volunteers
 published: true
-date: 2025-04-24T01:02:27.254Z
+date: 2025-05-22T03:55:23.715Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-08T04:38:31.518Z
@@ -42,3 +42,8 @@ Key holder induction consists of:
 1. [Keyholder responsibilities](/docs/policies/keyholder_responsibilities)
 
 2. [Closing procedure](/docs/committee/lockup)
+
+# How to...
+
+* [How to give a tour](/testing/drafts/howto_tour) (Draft)
+* [Howto run the space](/testing/drafts/howto_run_the_space) (Draft)

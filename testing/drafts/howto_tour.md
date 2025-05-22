@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-22T03:52:08.345Z
+date: 2025-05-22T03:54:29.122Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -55,12 +55,11 @@ dateCreated: 2025-01-11T09:56:27.999Z
   * Touch on the main pillars of the Code of Conduct
   * The goal is to establish that we **have** a Code of Conduct, and that we value it highly.
 * **Training policy**
-  * Touch on the main points of the training policy.
-  * The goal here is to establish that we both a) provide training where needed, and b) require training before using certain kinds of tools.
-  * Key points to hit:
-      * Training is scheduled in advance (#training-and-inductions)
-      * Some training is members only (3D printers, CNC router...)
-      * Training is given by volunteers, and "paid for" by giving an equal amount of time back to the space. (whiteboard tasks, etc.)
+  * Explain the tool categories ("traffic light" system - 🟢, 🟡, 🔴)
+  * We provide training where needed (including for green 🟢 tools)
+  * Training is scheduled in advance (#training-and-inductions)
+  * Some training is members only (3D printers, CNC router...)
+  * Training is given by volunteers, and "paid for" by giving an equal amount of time back to the space. (whiteboard tasks, etc.)
   
 ## Walk around the space and look at things
 

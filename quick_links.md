@@ -2,7 +2,7 @@
 title: Quick Links
 description: Quick links to resources for volunteers
 published: true
-date: 2025-05-26T02:57:32.656Z
+date: 2025-05-26T02:59:03.158Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-08T04:38:31.518Z
@@ -22,7 +22,7 @@ This is a collection of links to critical processes and guides for volunteers.
   * New members should attend the New Member Induction (usually 11:30am each Saturday) at their earliest convenience - signup via Slack #training-and-inductions.
   
 ## Slack
-  * [Join Slack](https://perart.io/slack)
+  * [Join Slack](https://perart.io/slack) `https://perart.io/slack`
   * Our online comunications platform and the gateway to all Artifactory services.
 
 # Fees

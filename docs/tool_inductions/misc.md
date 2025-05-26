@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-05-04T15:53:42.708Z
+date: 2025-05-26T14:06:33.829Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -220,6 +220,45 @@ After:
 
 1. Clear sand from your work area.
 2. Clean system and store properly.
+
+## Shop press
+
+Lead: ?? (Drafted by Lewis)
+Signed off by: ??
+
+| Item                           | Req | Notes                             |
+|--------------------------------|-----|-----------------------------------|
+| Eye protection (impact/splash) | Y   | Always. Potential projectiles.    |
+| Ear protection                 | -   | Not required                      |
+| Gloves (general)               | -   | Not required                      |
+| Enclosed shoes                 | Y   | Heavy weights/tools.              |
+| Safety boots                   | M   | Heavy weights/tools.              |
+| Mask/Respirator (dust)         | -   | Not required                      |
+
+Materials:
+* Some materials may explode when over-compressed, e.g. wood, paper, string.
+  * See e.g. [Hydraulic Press Channel - Crushing Book with Hydraulic Press](https://youtu.be/PmvKlnhMjUw?t=111).
+* Do not compress springs or other objects that could be ejected from the press.
+* Do not compress objects that could shatter.
+
+> Below information is largely taken from the [manual for the shop press](https://www.supercheapauto.com.au/on/demandware.static/-/Library-Sites-supercheap-shared-library/default/dw2aa8642a/productsheets/214467.pdf).
+
+Pre:
+1. Check press for loose or damaged parts.
+2. Consider safety of bystanders. (All bystanders need to be wearing appropriate PPE.)
+3. Some parts being pressed may have a tendency to pop out of the press or explode under pressure. Protect yourself accordingly. Keep hands away from the pressure head and out of support rod holes. Always center the work piece on the table plates and center the pressure head on the work piece to prevent injury by ejection of the work piece.
+
+Using:
+1. Place the work piece on the table plates in the desired position ensuring the piece is stable.
+2. Locate and close the release valve on the ram by turning it clockwise until tight.
+3. Pump the handle until the ram nears the work piece.
+4. Align the ram and work piece to ensure even central loading.
+5. Apply the load to the work piece by pumping the handle. Do not overload the workpiece.
+6. Remove the load from the work piece by turning the release valve counterclockwise. Stabilize the work piece so it does not fall while the pressure is released.
+7. Remove the work piece after the ram is fully retracted.
+
+After:
+1. Return all pressing heads (tools), jack handles, table plates etc. to their proper places.
 
 ## Vacuum Former
 

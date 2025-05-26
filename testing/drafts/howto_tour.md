@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-26T03:01:42.569Z
+date: 2025-05-26T03:04:38.707Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -13,6 +13,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
 
 # Preliminaries
 
+* Tours are 50% about showing our physical stuff (space, equipment), and 50% explaining how we work (we're all volunteers, community focused, give in return for what you take).
 * Tours are a 2-way process - you need to ask what people want to do, before you give the tour.
 * There are some types of project or usage that we don't support.
   * See *"Specific things we need to set expectations about"* below.

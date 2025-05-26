@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-26T02:45:27.053Z
+date: 2025-05-26T03:01:42.569Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -85,7 +85,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * Explain Slack
   * "It's Facebook Messenger or Discord, but for businesses"
   * Explain that we use Slack for everything, and any questions are best asked on Slack.
-  * Show them the Slack signup link (On our main website artifactory.org.au - scroll down to "**Join our Online Community**".)
+  * Show them the Slack signup link ([`https://perart.io/slack`](https://perart.io/slack), or on our main website artifactory.org.au - scroll down to "**Join our Online Community**".)
   * If necessary, walk them through installing Slack and setting up an account.
 
 ## Closeout Pt.2 - Membership sales pitch

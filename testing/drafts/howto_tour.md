@@ -2,11 +2,14 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-22T03:54:29.122Z
+date: 2025-05-26T02:45:27.053Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
 ---
+
+> This document is currently in draft.
+{.is-warning}
 
 # Preliminaries
 

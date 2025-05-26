@@ -2,11 +2,14 @@
 title: How to run the space
 description: 
 published: true
-date: 2025-05-26T02:44:49.247Z
+date: 2025-05-26T02:45:38.922Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T03:49:22.887Z
 ---
+
+> This document is currently in draft.
+{.is-warning}
 
 # Scope
 

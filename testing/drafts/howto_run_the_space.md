@@ -2,7 +2,7 @@
 title: How to run the space
 description: 
 published: true
-date: 2025-05-22T04:04:00.320Z
+date: 2025-05-26T02:44:49.247Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T03:49:22.887Z
@@ -54,6 +54,7 @@ This is a guide for how to run the space during our regular workshop events, e.g
 
 Refer to [How to give a tour](/testing/drafts/howto_tour) (currently in draft).
 * See especially the section regarding "**Specific things that we need to set expectations about**".
+* If all volunteers are busy, it's OK to ask people to come back for tours at another time (e.g. Open Day).
 
 # People wanting to use tools (who haven't been trained)
 

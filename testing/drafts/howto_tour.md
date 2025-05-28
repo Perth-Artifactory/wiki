@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-26T03:05:01.419Z
+date: 2025-05-28T04:21:31.138Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -24,6 +24,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * The script below is a guide.
   * You can do things in any order so long as you touch on all the main points.
   * You can skip any content that the visitor already knows about.
+* Don't worry about conveying 100% of this information perfectly - anything you miss will be conveyed at a New Member Induction.
 
 # Ingredients of a good tour
 

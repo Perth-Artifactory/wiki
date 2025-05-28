@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2024-10-24T08:10:54.425Z
+date: 2025-05-28T03:50:11.383Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -16,6 +16,13 @@ dateCreated: 2022-10-17T16:47:32.920Z
 Welcome to the Artifactory!
 
 Please take a few minutes to read this New Members Guide to orientate yourself with our ways and practices.
+
+## New member induction
+
+* **Please attend a New Member Induction at your earliest convenience.**
+    * Attending the New Member Induction gives you the information you need to succeed in the space.
+    * These run most Saturday mornings, or at other times by appointment.
+    * Please book your New Member Induction via the [#training-and-inductions](https://slack.com/app_redirect?channel=C069Q91GQGY&team=T0LQE2JNR) channel on [Slack](https://perart.io/slack).
 
 ## Official stuff
 

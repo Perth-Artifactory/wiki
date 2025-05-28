@@ -2,7 +2,7 @@
 title: Perth Artifactory
 description: Welcome to the wiki!
 published: true
-date: 2025-05-28T01:45:28.232Z
+date: 2025-05-28T01:46:29.780Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-06T13:21:41.820Z
@@ -46,6 +46,10 @@ Anyone with a Slack account can edit our wiki!
 * [Closing procedure](/docs/committee/lockup) for key-holders.
 * [Keyholder responsibilities](/docs/policies/keyholder_responsibilities).
 * [Dangerous projects and tools policy](/docs/policies/dangerous_projects).
+
+## For volunteers
+
+[Quick links](/quick_links) to resources for running the space.
 
 ## Governance
 

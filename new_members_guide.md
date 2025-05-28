@@ -2,7 +2,7 @@
 title: New Members Guide
 description: Welcome to the space! This page will get you started.
 published: true
-date: 2025-05-28T03:59:00.066Z
+date: 2025-05-28T04:00:13.358Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:32.920Z
@@ -107,7 +107,7 @@ Refer: [Artifactory Access](/docs/committee/artifactory_access)
 Members who meet our requirements may apply for a 24/7 electronic key after an initial probation period.
 
 Details:
-* [RFID keys for Members](https://wiki.artifactory.org.au/en/docs/policies/bylaws#rfid-keys-for-members)
+* [24/7 Access](/docs/policies/bylaws#h-247-access)
 * [Keyholder Responsibilities](/docs/policies/keyholder_responsibilities)
 
 ## Heavy Tool Use                 

@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2025-04-26T12:54:05.847Z
+date: 2025-05-31T12:55:44.937Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -188,7 +188,7 @@ Cuts easily but consider whether the cardboard has a non cuttable plastic coatin
 > Chrome tanned leather in particular presents a significant health risk and should not be cut at any time.
 {.is-warning}
 
-> Faux leather such as PU and vegan leather are not covered by this section
+> Faux leather such as PU, pleather and vegan leather are not covered by this section and are typically not suitable for laser cutting
 {.is-info}
 
 Vegetable tanned leather is OK to process in our laser cutters.

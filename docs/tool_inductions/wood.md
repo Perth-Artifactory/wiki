@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-04T10:21:03.782Z
+date: 2025-06-04T10:24:36.315Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -237,6 +237,7 @@ Pre:
 1. Set up in appropriate position - consider kickback and safety of bystanders
 1. Lower machine (Check for things that may be crushed etc)
 1. Remove cover
+1. Adjustment tools are stored on table saw cart
 1. Check bit is appropriate for material (type) and intended cut (profile)
 1. Inspect bit for damage (Cutting edge, bent)
 1. Set bit to appropriate height/depth of cut for material (hardness) and tool profile (bit)
@@ -246,7 +247,7 @@ Pre:
 
 Using:
 
-1. Use push sticks for small pieces
+1. Use push sticks/blocks for small pieces
 1. The material should be fed against the rotation of the bit, ie the opposite direction to if the bit was a wheel. For external cuts this is right to left. (Inverted from trim/plunge router). Right hand thumb rule can be used to determine bit rotation if unclear
 1. Consider climb cutting where appropriate (rough wood, may need deeper passes) - Advanced users only
 
@@ -257,6 +258,7 @@ After:
 1. Re-center fence over tablesaw blade (leave unlocked)
 1. Put cover back on
 1. Put saw away (Lower back on to frame)
+1. Stow adjustment tools on table saw cart
 1. Cleanup includes table/router/floor
 
 ## Sander (Spindle)

@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-04T10:15:25.376Z
+date: 2025-06-04T10:21:03.782Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -220,7 +220,7 @@ After:
 ## Router (Table)
 
 Lead: XXX
-Signed off by: XXX
+Signed off by: Fletcher, XXX
 
 | Item                           | Requirement | Notes                                 |
 |--------------------------------|-------------|---------------------------------------|
@@ -233,9 +233,14 @@ Signed off by: XXX
 
 Pre:
 
+1. Raise machine onto wheels
+1. Set up in appropriate position - consider kickback and safety of bystanders
+1. Lower machine (Check for things that may be crushed etc)
+1. Remove cover
 1. Check bit is appropriate for material (type) and intended cut (profile)
 1. Inspect bit for damage (Cutting edge, bent)
-1. Set router to appropriate height to appropriate depth of cut for material (hardness) and tool profile (bit)
+1. Set bit to appropriate height/depth of cut for material (hardness) and tool profile (bit)
+1. Lock the bit height using the lock hole
 1. Set table fence if using
 1. Ensure work area is clear
 
@@ -248,6 +253,10 @@ Using:
 After:
 
 1. Remove bit from router and return to case (may be hot)
+1. Wipe down cast iron table with clean rag
+1. Re-center fence over tablesaw blade (leave unlocked)
+1. Put cover back on
+1. Put saw away (Lower back on to frame)
 1. Cleanup includes table/router/floor
 
 ## Sander (Spindle)

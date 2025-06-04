@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-04T09:55:15.892Z
+date: 2025-06-04T10:13:53.153Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -12,10 +12,10 @@ dateCreated: 2024-01-27T10:06:35.646Z
 > Unless marked as signed off the content is a work in progress.
 {.is-warning}
 
-## Bandsaw (Wood) 
+## Bandsaw (Wood) ✔
 
 Lead: Renae Currie
-Signed off by: Renae
+Signed off by: Renae, Fletcher
 
 | Item                           | Req | Notes                             |
 |--------------------------------|-----|-----------------------------------|
@@ -79,7 +79,7 @@ Advanced operations:
 * Changing/replacing blade - note - bearings will need to be adjusted.
 * Resawing - will cause excessive wear to standard blade. Users may be required to purchase resaw blade or contribute to cost or extra wear on blade. Refer to Renae. Additional height fence may be needed for safe support. 
 
-## Drill Press 
+## Drill Press ✔
 
 Lead: Renae Currie
 Signed off by: Renae, Fletcher
@@ -252,7 +252,7 @@ After:
 
 ## Sander (Spindle)
 
-Lead: XXX
+Lead: Fletcher Boyd
 Signed off by: Fletcher, XXX
 
 | Item                           | Requirement | Notes                         |
@@ -510,7 +510,7 @@ Cutting new zero clearance inserts
 
 ## Drum Sander  
 
-Lead: Renae
+Lead: Renae Currie
 Signed off by: Renae, Tom
 
 | Item                           | Requirement | Notes                                                             |
@@ -596,7 +596,7 @@ No one has actually done this yet.
 ## Thicknesser (Large)
 
 Lead: ???
-Signed off by: ???, ???
+Signed off by: Fletcher, ???
 
 | Item                           | Requirement | Notes                                             |
 |--------------------------------|-------------|---------------------------------------------------|
@@ -613,33 +613,38 @@ Must have at least one flat side.
 No coating that may gum blades.
 
 Consumables:
-Blades may be rotated or replaced as required by infra.
+Inserts may be rotated or replaced as required by infra.
 Users expected to report any damage or issues
 
 Pre:
 
 1. Consider safe placement (noisy machine requiring 3 phase power)
 1. Raise infeed and outfeed arms to correct height and tighten bolts.
-1. Connect dust extractor
+1. Connect dust extractor (Consider using swarf barrel for long sessions)
+1. Warn other users in the workshop before starting the tool and give them an opportunity to don hearing protection
 1. Run machine briefly to check it sounds right.
 
 Using:
 
-1. Gradually raise table as you feed material through - until contact is made
-1. Allow rollers to feed material - do not force or thrust
-1. Raise table slightly after each pass
-1. Be guided by sound as to how far to raise for each pass.
+1. Turn on dust extractor
+1. Gradually lower head as you feed material through - until contact is made.
+1. Perform full pass at that height.
+1. Allow rollers to feed material - do not force or thrust.
+1. Lower head slightly after each pass.
+1. Be guided by sound as to how far to lower for each pass.
 1. Support long material to reduce snipe.
+1. Machine produces a lot of swarf, monitor dust collector levels and empty before bag gets full
 
 After:
 
 1. Disconnect dust extractor and empty bag if over half full
+1. Empty swarf barrel if used
 1. Clean all dust and chips from machine and floor.
 1. Return infeed/outfeed supports to lowered position.
 
 Advanced operations
 Material with no flat side may be processed by use of feed plate and shims.
-Replacing/rotating blades - refer infra
+Replacing/rotating inserts - refer infra
 
 ## Thicknesser (Ryobi)
 

@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-04T09:43:32.809Z
+date: 2025-06-04T09:55:15.892Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -399,7 +399,7 @@ After:
 1. Disconnect from power
 1. Lower blade and re-centre fence guide.
 1. Clean all waste and sawdust from machine via vacuum or air-gun.
-1. Be aware thin offuts may be stuck in dust outlet - check and clear.
+1. Be aware thin offcuts may be stuck in dust outlet - check and clear.
 1. Return mitre guide and pushsticks to correct position.
 1. Sweep and clean up floor of dust and offcuts.
 1. Do not leave long pieces sticking out from bins - put in skip.
@@ -410,7 +410,7 @@ Resawing - supplementary fence and featherboards may be required
 Plunge cuts - removal of riving knife would be required - immediate replacement crucial.
 
 
-## Saw (Table/Sawstop)
+## Saw (Table/SawStop)
 
 Lead: YYY
 Signed off by: XXX, XXX
@@ -437,14 +437,14 @@ Specific training required to change or replace blade.
 Personal blades may be used with permission 
 Any blade change to be reported to infra and logged
 
-### Sawstop safety feature
+### SawStop safety feature
 
-The machine continually monitors the capacitance/inductivity of the *blade* through the sawstop cartridge. When the sensed level rises quickly (indicating something has changed quickly) **and** greatly (indicating that something large has come in contact with/close to the blade) the system will trigger. If the saw is in bypass mode the green light will flash. If the saw is not in bypass mode (normal configuration) then an activation will forcefully stop the blade and lower it below the table to prevent injury.
+The machine continually monitors the capacitance/inductivity of the *blade* through the SawStop cartridge. When the sensed level rises quickly (indicating something has changed quickly) **and** greatly (indicating that something large has come in contact with/close to the blade) the system will trigger. If the saw is in bypass mode the green light will flash. If the saw is not in bypass mode (normal configuration) then an activation will forcefully stop the blade and lower it below the table to prevent injury.
 
-* Anything electriclaly conductive can cause a trigger including (but not limited to): metal fixings, wet wood, sap
+* Anything electrically conductive can cause a trigger including (but not limited to): metal fixings, wet wood, sap
 * In some instances sleds can interfere with this feature if put on the saw before a baseline reading is taken.
 * Nails etc won't always trigger the safety since they don't increase the reading by a significant amount.
-* Bypass mode can only realisticlaly be used to test whether a particular material will trigger the safety if the triggering factor is the same throughout the material. ie, it can test if wood is too wet for normal operation but can't test for the presence of nails.
+* Bypass mode can only realistically be used to test whether a particular material will trigger the safety if the triggering factor is the same throughout the material. ie, it can test if wood is too wet for normal operation but can't test for the presence of nails.
 * A safety trigger is a **destructive process** and will destroy both the blade and the safety cartridge.
 * ⚠️ Machine operators are financially responsible for all triggers. This includes the cartridge ($170+) and blade ($80-300). 
 * Bypassing the safety monitoring can only be done under the direct supervision of a table saw trainer.
@@ -489,7 +489,7 @@ Using:
 After:
 1. Disconnect from power
 1. Clean all waste and sawdust from machine via vacuum or air-gun.
-1. Be aware thin offuts may be stuck in dust outlet - check and clear.
+1. Be aware thin offcuts may be stuck in dust outlet - check and clear.
 1. Stow stock guides on fence if used
 1. Reset table insert to SawStop standard (not zero clearance)
 1. Stow other attachments on cart if used
@@ -538,7 +538,7 @@ Prohibited:
 
 Consumables: 120 grit paper installed. 
 Report if damaged/torn
-Alternative grit paper may be installed with approprite training
+Alternative grit paper may be installed with appropriate training
 
 Tool Familiarisation:
 
@@ -635,7 +635,7 @@ After:
 
 1. Disconnect dust extractor and empty bag if over half full
 1. Clean all dust and chips from machine and floor.
-1. Return infeed/ouutfeed supports to lowered position.
+1. Return infeed/outfeed supports to lowered position.
 
 Advanced operations
 Material with no flat side may be processed by use of feed plate and shims.
@@ -727,7 +727,7 @@ Using:
 1. Gradually lower head as you feed material through - until contact is made
 1. Zero out DRO if using
 1. Allow rollers to feed material - do not force or thrust
-1. Lower head slightly after each pass (Increment using DRO or similar handle roation - " Half turn per pass" etc)
+1. Lower head slightly after each pass (Increment using DRO or similar handle rotation - " Half turn per pass" etc)
 1. Use the motor load sound to judge how much should be taken off with each pass
 1. Support long material to reduce snipe, consider using feed tables
 

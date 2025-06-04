@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-04T10:13:53.153Z
+date: 2025-06-04T10:15:25.376Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -720,9 +720,9 @@ Users expected to report any damage or issues
 
 Pre:
 
-1. The machine typically cannot be safely moved alone
+1. The machine typically cannot be safely moved alone, leave on cart
 1. Consider safe placement (noise/mess)
-1. Consider dust extraction.
+1. Consider dust extraction (Machine does include fan assisted swarf removal)
 1. Run machine briefly to check it sounds right.
 1. Ensure depth stop is set as expected
 1. Ensure feed rate is set as expected (Do not change when off)

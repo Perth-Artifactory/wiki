@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-04T10:31:07.912Z
+date: 2025-06-04T13:16:21.128Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -453,7 +453,7 @@ Any blade change to be reported to infra and logged
 The machine continually monitors the capacitance/inductivity of the *blade* through the SawStop cartridge. When the sensed level rises quickly (indicating something has changed quickly) **and** greatly (indicating that something large has come in contact with/close to the blade) the system will trigger. If the saw is in bypass mode the green light will flash. If the saw is not in bypass mode (normal configuration) then an activation will forcefully stop the blade and lower it below the table to prevent injury.
 
 * Anything electrically conductive can cause a trigger including (but not limited to): metal fixings, wet wood, sap
-* In some instances sleds can interfere with this feature if put on the saw before a baseline reading is taken.
+* In some instances sleds can interfere with this feature if put on the saw after a baseline reading is taken.
 * Nails etc won't always trigger the safety since they don't increase the reading by a significant amount.
 * Bypass mode can only realistically be used to test whether a particular material will trigger the safety if the triggering factor is the same throughout the material. ie, it can test if wood is too wet for normal operation but can't test for the presence of nails.
 * A safety trigger is a **destructive process** and will destroy both the blade and the safety cartridge.

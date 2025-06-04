@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-05-21T11:05:07.771Z
+date: 2025-06-04T09:43:32.809Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -352,7 +352,7 @@ Advanced Operations:
 
 Additional training required to change or replace blade.
 
-## Saw (Table)
+## Saw (Table/DeWalt)
 
 Lead: Renae Currie
 Signed off by: XXX, XXX
@@ -410,6 +410,104 @@ Resawing - supplementary fence and featherboards may be required
 Plunge cuts - removal of riving knife would be required - immediate replacement crucial.
 
 
+## Saw (Table/Sawstop)
+
+Lead: YYY
+Signed off by: XXX, XXX
+
+| Item                           | Requirement | Notes                                                                              |
+|--------------------------------|-------------|------------------------------------------------------------------------------------|
+| Eye protection (impact/splash) | Y           |                                                                                    |
+| Ear protection                 | ?           |                                                                                    |
+| Gloves (general)               | M           |                                                                                    |
+| Enclosed shoes                 | Y           |                                                                                    |
+| Safety boots                   | M           | Material weight dependant                                                          |
+| Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled (MDF etc)                        |
+
+Materials: 
+* Dry wood (Must be metal detected unless freshly purchased from Bunnings etc)
+* Acrylic
+
+Materials (Bypass mode):
+* Wet wood
+* Aluminium (Personal/old blade, extensive cleanup)
+
+Consumables: General purpose wood blade installed.
+Specific training required to change or replace blade.
+Personal blades may be used with permission 
+Any blade change to be reported to infra and logged
+
+### Sawstop safety feature
+
+The machine continually monitors the capacitance/inductivity of the *blade* through the sawstop cartridge. When the sensed level rises quickly (indicating something has changed quickly) **and** greatly (indicating that something large has come in contact with/close to the blade) the system will trigger. If the saw is in bypass mode the green light will flash. If the saw is not in bypass mode (normal configuration) then an activation will forcefully stop the blade and lower it below the table to prevent injury.
+
+* Anything electriclaly conductive can cause a trigger including (but not limited to): metal fixings, wet wood, sap
+* In some instances sleds can interfere with this feature if put on the saw before a baseline reading is taken.
+* Nails etc won't always trigger the safety since they don't increase the reading by a significant amount.
+* Bypass mode can only realisticlaly be used to test whether a particular material will trigger the safety if the triggering factor is the same throughout the material. ie, it can test if wood is too wet for normal operation but can't test for the presence of nails.
+* A safety trigger is a **destructive process** and will destroy both the blade and the safety cartridge.
+* ⚠️ Machine operators are financially responsible for all triggers. This includes the cartridge ($170+) and blade ($80-300). 
+* Bypassing the safety monitoring can only be done under the direct supervision of a table saw trainer.
+
+### Attachment options/considerations
+
+* Fence (Specific setup if used with mitre guide)
+* Mitre guide (Specific setup if used with fence)
+* Cross cut sled (+stop block, usually put on before saw takes baseline reading)
+* Push sticks
+* Push blocks/Featherboard
+* DRO
+* Zero clearance inserts (Infra approval to cut new inserts)
+* Stock guides (Set wheel height based on material not table)
+* Dado blades (Supervised only)
+* Bypass (Supervised only)
+
+Pre:
+
+1. Raise machine onto wheels
+1. Set up in appropriate position - consider kickback and safety of bystanders
+1. Lower machine (Check for things that may be crushed etc)
+1. Remove cover
+1. Check blade for sharpness
+1. Check riving knife is installed (CRUCIAL)
+1. Plan cut and fit attachments as appropriate
+1. Check blade is square to attachments
+1. Set blade height and angle 
+1. Connect dust extractor
+1. Material must have stable/flat base and at least one straight side. (unless jig is used)
+1. Plug in saw
+
+Using:
+
+1. Turn on machine
+1. Wait for machine to take baseline reading (Until red light stops flashing)
+1. Never freehand a cut
+1. Feed material through smoothly - do not put hands in line of blade.
+1. Consider kickback - keep area in line with blade clear.
+1. Ensure blade comes to a complete stop before removing material or waste.
+
+After:
+1. Disconnect from power
+1. Clean all waste and sawdust from machine via vacuum or air-gun.
+1. Be aware thin offuts may be stuck in dust outlet - check and clear.
+1. Stow stock guides on fence if used
+1. Reset table insert to SawStop standard (not zero clearance)
+1. Stow other attachments on cart if used
+1. Lower blade and reset to 90/0
+1. Sweep and clean up floor of dust and offcuts.
+1. Wipe down cast iron table with clean rag
+1. Re-center fence over blade (leave unlocked)
+1. Put cover back on
+1. Put saw away (Lower back on to frame)
+1. Do not leave long pieces sticking out from bins - put in skip.
+
+Advanced operations:
+Specific training required to change blade.
+Resawing - supplementary fence and featherboards may be required
+Plunge cuts - removal of riving knife would be required - immediate replacement crucial.
+Dado blades
+Cutting new zero clearance inserts
+
 ## Drum Sander  
 
 Lead: Renae
@@ -444,7 +542,7 @@ Alternative grit paper may be installed with approprite training
 
 Tool Familiarisation:
 
-1. Tool requires dust extraction, or shop vac
+1. Tool requires dust extraction
 1. Drum and belt are controlled separately. Show switches. (belt won't run unless drum is on)
 1. Show height control handle and DRO
 1. Open drum cover by loosening silver knob and lifting cover.

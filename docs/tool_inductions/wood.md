@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-04T10:24:36.315Z
+date: 2025-06-04T10:28:47.242Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -498,6 +498,7 @@ Using:
 1. Ensure blade comes to a complete stop before removing material or waste.
 
 After:
+
 1. Disconnect from power
 1. Clean all waste and sawdust from machine via vacuum or air-gun.
 1. Be aware thin offcuts may be stuck in dust outlet - check and clear.

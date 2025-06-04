@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-04T10:28:47.242Z
+date: 2025-06-04T10:31:07.912Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -652,6 +652,7 @@ After:
 1. Disconnect dust extractor and empty bag if over half full
 1. Empty swarf barrel if used
 1. Clean all dust and chips from machine and floor.
+1. Wipe down cast iron surface with clean rag
 1. Return infeed/outfeed supports to lowered position.
 
 Advanced operations

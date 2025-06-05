@@ -2,7 +2,7 @@
 title: How to run the space
 description: 
 published: true
-date: 2025-05-26T02:45:38.922Z
+date: 2025-06-05T08:53:20.417Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T03:49:22.887Z
@@ -41,14 +41,14 @@ This is a guide for how to run the space during our regular workshop events, e.g
 
 # Responsibilities
 
-* Open the front door(s) at the **calendared start time of the event**.
+* Open the front door(s) at the **calendared start time of the event**. (or before)
     * Let people know if you're going to be late, e.g. by posting to #general.
     * If there's another key holder in the space, you can ask them to open the doors before you get there (so people aren't waiting outside).
 
 * Supervise people in the space as per [Keyholder Responsibilities](/docs/policies/keyholder_responsibilities).
 
 * An event host needs to be present for the **entire calendared duration of the event**.
-    * If you need to leave, **hand over to another event host**.
+    * If you need to leave, **hand over to another event host**. Many keyholders do not want to, or are unable to, take on the responsibility of being an event host.
     * *"I need to duck down to Bunnings for some screws - can you please take charge of the space until I'm back?"*
 
 * Close the space at the calendered end time of the event, as per [Keyholder Responsibilities](/docs/policies/keyholder_responsibilities).
@@ -69,6 +69,7 @@ Refer to [How to give a tour](/testing/drafts/howto_tour) (currently in draft).
 ### First preference: Train the user so they can use the tool without further supervision.
 * If you are a **competent and authorised trainer** for the tool, and you have **spare time**, you can train them on the spot.
 * Otherwise, ask them to schedule a training slot in #training-and-inductions.
+* Ensure the trainee understands that the reliable way to get training is to book in.
 
 ### Second preference: Find an alternative way of doing the job.
 * Explore other ways to do the job within the set of tools the person is allowed to use.

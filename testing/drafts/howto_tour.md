@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-05-28T04:21:31.138Z
+date: 2025-06-05T08:26:58.548Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -18,7 +18,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * There are some types of project or usage that we don't support.
   * See *"Specific things we need to set expectations about"* below.
   * Politely and firmly inform people of of our limitations when relevant.
-  * **It is OK to disappoint people sometimes.**
+  * **It is OK to disappoint people sometimes.** It's better to head off this disappointment early rather than during a member induction after signing up.
 * It's OK if you're asked a question and don't know the answer.
   * For any questions you don't have **confident** answers to, it's OK to defer to a more experienced volunteer e.g. a committee member.
 * The script below is a guide.
@@ -63,7 +63,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
   * Explain the tool categories ("traffic light" system - 🟢, 🟡, 🔴)
   * We provide training where needed (including for green 🟢 tools)
   * Training is scheduled in advance (#training-and-inductions)
-  * Some training is members only (3D printers, CNC router...)
+  * Some training is members only (3D printers, CNC router, lathes, mill)
   * Training is given by volunteers, and "paid for" by giving an equal amount of time back to the space. (whiteboard tasks, etc.)
   
 ## Walk around the space and look at things
@@ -72,6 +72,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * Some things to touch on (as you walk around the space in a general clockwise path.)
   * Metal area - mill and lathe training is for members only.
   * 3D printers - training is for members only.
+  * Rehearsal space - Primarily used by bands but is used as a quiet zone during some events
   * Social table is a NO PROJECTS zone (don't mix food with projects.)
   * Toilets, kitchen facilities, first aid.
   * Bar - EFTPOS payments - self service. (We have no staff - We rely on an honesty system.)
@@ -79,7 +80,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
   * Lasers area - laser scrap is free to use for PERSONAL PROJECTS.
   * As you pass the tool wall - look at sticky tape etc. Explain that consumables are donated on a "give back about as much as you use - replace when it runs out" basis.
   * Hack rack - Free for MEMBERS to use for PERSONAL PROJECTS. No need to hoard - there will always be things on the hack rack.
-  * Machine room - CNC router - show the example piece (CNC routed map of Rottnest Island.) Training is members only.
+  * Machine room - CNC router - show the example piece (CNC routed map of Rottnest Island.) Training is members only. Wood lathe training is members only and requires a high time commitment, not typically suitable as a first tool.
   * Project area. Explain that member storage (pallet racking) is for members only.
 
 ## Closeout Pt.1 - Slack
@@ -101,7 +102,8 @@ dateCreated: 2025-01-11T09:56:27.999Z
   * $75/mo Full, $45/mo Concession.
   * Supports the space and helps us pay our bills.
   * More assistance and can be trained on all tools.
-  * Can apply for 24/7 access, subject to further requirements.
+  * Reduced tool usage fees for tools that have them. (Reduced minimum fees, 50% cheaper printing. 60% cheaper laser cutting)
+  * Can apply for 24/7 access, subject to further requirements. (Boils down to "can we trust you")
 * **Explain how to sign up.**
   * Go to our main website (artifactory.org.au)
   * Click on the big red button "**Become a Member**".
@@ -109,12 +111,12 @@ dateCreated: 2025-01-11T09:56:27.999Z
 * **Explain the membership signup workflow.**
   * Sign up on TidyHQ.
   * Pay for your first month.
-  * Attend a New Member Induction (show them how to respond to the #training-and-inductions posts in Slack.)
+  * Attend a New Member Induction (show them how to respond to the #training-and-inductions posts in Slack.) There'll usually be a member induction scheduled after Open Days.
 
 ## After the tour
 
 * Ask if they have any questions about the space.
-* Tell them they're free to wander around, look at things, and talk to people. (There is no charge for looking and talking.)
+* Tell them they're free to wander around, look at things (except for member storage), and talk to people. (There is no charge for looking and talking.)
 * Refer questions to more experienced volunteers if needed.
 
 # Specific things we need to set expectations about
@@ -138,7 +140,6 @@ Automotive projects are not routinely supported at the space.
 
 People whose sole interest is automotive projects should instead be referred to [DIY Garage](https://www.diygaragewa.com.au/), who have that as their core business, and are much better equipped for it.
 
-
 ## Commercial use of the space
 
 e.g.
@@ -157,7 +158,6 @@ For that reason, all commercial activities using the space facilities need to be
 
 We've found most small business owners are looking for a cheap or free facility to produce their products (instead of renting their own space or buying their own tools), and aren't interested in engaging with us once they find out there are strings attached to commercial use of the Artifactory.
 
-
 ## Consulting services
 
 e.g.
@@ -165,26 +165,24 @@ e.g.
 * "I need help designing a product for sale"
 * "Do you have any mechanical engineers who can advise me on a project?"
 
-Artifactory members are not a source of free engineering consultancy services.
-
-
+Artifactory members are not a source of free engineering consultancy services. Refer other consultancy requests to a committee member.
 
 ## Dangerous projects
 
 > Refer to the [Dangerous Projects](/docs/policies/dangerous_projects) policy.
 {.is-info}
 
-Dangerous Projects require approval, and can only be done by members.
-
+Dangerous Projects require approval, and can only be done by members. If a dangerous project is the primary motivation for joining we can usually provide a rough indication of whether we'll approve the project before they join.
 
 ## Minors (children) in the space
 
 > Refer to the [Minors in the space](/docs/policies/bylaws#minors-in-the-space) policy.
 {.is-info}
 
-There are 2 ways that this usually comes up.
+There are 3 ways that this usually comes up.
 
-* When a parent wants to bring their child to the space. This generally means the child needs to be supervised by a responsible adult.
+* When a parent wants to bring their child to the space to work on projects together. This generally means the child needs to be supervised by a responsible adult.
+* When a parent wants to make things in the space but doesn't have other childcare arrangements. Usually it's fine for the child to chill in the social area provided they're not disturbing anyone. (Loud tablets etc)
 * When an older child (e.g. a year 11/12 student) wants to attend the space alone. This generally needs an accompanying adult.
 
 ## NDIS attendees
@@ -209,8 +207,6 @@ It's OK to say no to these requests if there is no one available or if we are to
 Discuss the cost and make sure the person is happy before starting the job.
 * For laser cutting, we have an established policy regarding [laser cutting job fees](/docs/policies/fees#laser-cutting-job-fees) for one off jobs.
 
-
-
 ## Vehicle fit outs (van lifers, etc.)
 
 > Refer to the [Vehicle fitouts](/docs/policies/vehicle_fitouts) policy.
@@ -224,7 +220,7 @@ Vehicle fit outs can only be done by members, who have held their membership for
 
 People doing van fitout projects generally want to use the space very intensively for a short time (e.g. 1 month).
 
-These people usually need a lot of volunteer time for tool inductions, but don't contribute back to our community, and they leave as soon as their fitout project is done.
+These people usually need a lot of volunteer time for tool inductions, but don't contribute back to our community, and they leave as soon as their fitout project is done. If you receive any pushback on telling these people no refer them to a committee member.
 
 ## People that will need more assistance planning out and completing a project
 
@@ -249,3 +245,21 @@ Some people want to collect skills ("gotta catch 'em all"!) without any intended
 We would encourage these people to start on a specific project, and learn the tools and skills relevant to that specific project. We can't teach someone how to *"do woodwork"*, but we can teach someone *"how to use a mitre saw to cut wood for a picture frame"*.
 
 We will generally only provide training for tools connected to a specific project the person is doing. This increases the chance they will retain the training information, and reduces the demand on volunteer training time.
+
+However, complete beginners sometimes just need guidance on what an appropriate first project looks like. We can talk **members** through this initial process.
+
+## Tool/equipment donations and trading for membership
+
+* In most circumstances we're equipped to take donations of tools and equipment. For things that we can't use directly we have a network of other community groups that we'll pass things on to.
+* It's uncommon for us to trade equipment for a period of membership. Equipment trades do not meet the ATO definition of a donation.
+* It's rare for us to take on loaned tools, especially from new/prospective members.
+
+These conversations should handballed to a committee member.
+
+## Projects with tight deadlines
+
+If a visitor comes in with a tight project deadline ("I need to get this crib built before my baby comes next week") it's important to set expectations clearly.
+
+* We are volunteers and have other commitments.
+* Being inducted on tools takes time. Training is typically run twice a week at most and not for all tools.
+* Demonstrating the qualities we look for in a keyholder takes time, it's rare to happen in less than a month.

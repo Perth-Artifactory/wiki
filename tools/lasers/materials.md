@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2025-05-31T12:55:44.937Z
+date: 2025-06-07T06:57:59.443Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -136,6 +136,15 @@ Typically not required.
 Very clean.
 
 For very clean (glass-like) edges, do 2 cutting passes at reduced power.
+
+#### Settings
+
+| Material | Date | Cut | Engrave |
+| -------- | ---- | --- | ------- |
+| Gravograph, red (name badges) | 2024-02-09 | 50mm/sec??, 100% | 300mm/sec, 30%, 0.05mm scan gap?? |
+| Trolase, 1.6mm yellow | 2025-05-21 | 50mm/sec, 100% | 400mm/sec, 10%, 0.05mm scan gap |
+| Tro Thins (0.5mm) with backing adhesive | 2025-05-24 | 100mm/sec, 100%  | 400mm/sec, 10%, 0.05mm scan gap |
+
 
 
 ### Polyethylene (HDPE) ❌

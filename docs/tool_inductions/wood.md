@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-04T13:16:21.128Z
+date: 2025-06-11T02:34:46.953Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -492,6 +492,7 @@ Using:
 
 1. Turn on machine
 1. Wait for machine to take baseline reading (Until red light stops flashing)
+1. Turn on dust extractor 
 1. Never freehand a cut
 1. Feed material through smoothly - do not put hands in line of blade.
 1. Consider kickback - keep area in line with blade clear.

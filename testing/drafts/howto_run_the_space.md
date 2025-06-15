@@ -2,7 +2,7 @@
 title: How to run the space
 description: 
 published: true
-date: 2025-06-05T08:53:20.417Z
+date: 2025-06-15T15:58:56.085Z
 tags: 
 editor: markdown
 dateCreated: 2025-05-22T03:49:22.887Z
@@ -39,7 +39,8 @@ This is a guide for how to run the space during our regular workshop events, e.g
 
 4. Helping day pass users, the general public.
 
-# Responsibilities
+
+# Event host responsibilities
 
 * Open the front door(s) at the **calendared start time of the event**. (or before)
     * Let people know if you're going to be late, e.g. by posting to #general.
@@ -48,8 +49,11 @@ This is a guide for how to run the space during our regular workshop events, e.g
 * Supervise people in the space as per [Keyholder Responsibilities](/docs/policies/keyholder_responsibilities).
 
 * An event host needs to be present for the **entire calendared duration of the event**.
-    * If you need to leave, **hand over to another event host**. Many keyholders do not want to, or are unable to, take on the responsibility of being an event host.
-    * *"I need to duck down to Bunnings for some screws - can you please take charge of the space until I'm back?"*
+    * If you need to leave, **hand over to another event host**.
+    * *"I need to duck down to Bunnings - can you please take charge of the space until I'm back?"*
+    * The role of "event host" is a position of responsibility, and requires specific competencies.
+      * Many keyholders do not want to, or are unable to, take on the responsibility of being an event host.
+    
 
 * Close the space at the calendered end time of the event, as per [Keyholder Responsibilities](/docs/policies/keyholder_responsibilities).
 
@@ -58,6 +62,14 @@ This is a guide for how to run the space during our regular workshop events, e.g
 Refer to [How to give a tour](/testing/drafts/howto_tour) (currently in draft).
 * See especially the section regarding "**Specific things that we need to set expectations about**".
 * If all volunteers are busy, it's OK to ask people to come back for tours at another time (e.g. Open Day).
+
+
+# People who just want to 3D print or laser cut one thing
+
+You can offer to run the job for them in return for payment.
+
+See [one off jobs](/testing/drafts/howto_tour#one-off-jobs) (currently in draft).
+
 
 # People wanting to use tools (who haven't been trained)
 
@@ -69,7 +81,7 @@ Refer to [How to give a tour](/testing/drafts/howto_tour) (currently in draft).
 ### First preference: Train the user so they can use the tool without further supervision.
 * If you are a **competent and authorised trainer** for the tool, and you have **spare time**, you can train them on the spot.
 * Otherwise, ask them to schedule a training slot in #training-and-inductions.
-* Ensure the trainee understands that the reliable way to get training is to book in.
+* Ensure the trainee understands that the reliable way to get training is to make a booking in advance.
 
 ### Second preference: Find an alternative way of doing the job.
 * Explore other ways to do the job within the set of tools the person is allowed to use.
@@ -84,19 +96,16 @@ Refer to [How to give a tour](/testing/drafts/howto_tour) (currently in draft).
     * It's OK to let the person clean up by themselves, with the machine power off.
 * You are ultimately responsible for all aspects of the tool use, including setup, operation, and cleanup.
 
-### Fourth preference: Provide general supervision and manage the work area.
-* If you are not a competent and authorised operator, you don't have the knowledge required to provide full supervision of the tool use.
-* **Generally now is a good time to politely tell the person that we can't meet their request today.**
-* However, if the person is qualified in their own right (e.g. a boilermaker with 30 years welding experience wants to use our welders), you can provide **general supervision and manage the work area.**
-    * **General supervision** means that you check the person knows how to use the tool in general. For example, if they are welding, watch and check that they confidently put on the required welding PPE, and that they confidently set up and adjust the welding machine.
-    * **Manage the work area** means that you create a safe environment for them to use the tool. For example, if they are welding, you would ensure appropriate measures are in place to control the risk from hot works (e.g. removing flammable material, making sure fire extinguishers are available.) You would also implement controls to manage hazards to bystanders, e.g. placing welding screens so that people aren't exposed to welding flash.
-* You are ultimately responsible for all aspects of the tool use and any consequences that arise.
-    * **If you aren't comfortable that the risk is at an acceptable level - politely tell the person that we can't meet their request today.**
+### Fourth preference: Politely defer the request
 
-# People who just want to 3D print or laser cut one thing
+* If we don't have any competent people available to help, you'll need to politely ask the user to come back another time.
+* Some users will say they have "heaps of experience" and ask if they can use a tool "just this once" without going through our training procedure.
+  * Some users over-estimate their own ability (Youtube is not a substitute for our training and induction system.)
+  * Some users hold trade qualifications, however little actual experience, or their experience is from a different country with much lower standards.
 
-You can offer to run the job for them in return for payment.
-
-See [one off jobs](/testing/drafts/howto_tour#one-off-jobs) (currently in draft).
+> At the end of the day, remember we have a training and induction system for a good reason - so that attendees don't hurt themselves, each other, or our equipment.
+>
+> Don't let attendees bypass our training system!
+{.is-warning}
 
 

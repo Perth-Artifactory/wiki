@@ -2,7 +2,7 @@
 title: 3D Printers Subcommittee
 description: 
 published: true
-date: 2025-02-27T08:53:35.197Z
+date: 2025-06-16T11:41:45.214Z
 tags: official
 editor: markdown
 dateCreated: 2024-05-04T14:24:23.999Z
@@ -10,13 +10,13 @@ dateCreated: 2024-05-04T14:24:23.999Z
 
 ### Members
 
-| Name                              | Contact details on file in TidyHQ † |
-| --------------------------------- | ----------------------------------- |
-| Fletcher Boyd (Chair)             | Yes                                 |
-| Sophie Murday                     | Yes                                 |
-| Tom White                         | Yes                                 |
-| Penny Wood                        | Yes                                 |
-| Ross Minney                       | Yes                                 |
+| Name                              | Contact details on file in TidyHQ † | Expense Authority        |
+| --------------------------------- | ----------------------------------- | ------------------------ |
+| Fletcher Boyd (Chair)             | Yes                                 | Chair                    |
+| Sophie Murday                     | Yes                                 | None                     |
+| Tom White                         | Yes                                 | $100, printer parts only |
+| Penny Wood                        | Yes                                 | None                     |
+| Ross Minney                       | Yes                                 | None                     |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
 {.is-info}

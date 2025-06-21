@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-11T02:35:12.788Z
+date: 2025-06-21T06:20:21.433Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -390,7 +390,6 @@ Any blade change to be reported to infra and logged
 Pre:
 
 1. Set up in appropriate position - consider kickback and safety of bystanders
-1. Check blade for sharpness
 1. Check riving knife is installed (CRUCIAL)
 1. Check blade and fence are square
 1. Consider dust management - connect dust extractor if appropriate
@@ -423,8 +422,8 @@ Plunge cuts - removal of riving knife would be required - immediate replacement 
 
 ## Saw (Table/SawStop)
 
-Lead: YYY
-Signed off by: XXX, XXX
+Lead: Renae Currie
+Signed off by: Renae, Fletcher
 
 | Item                           | Requirement | Notes                                                                              |
 |--------------------------------|-------------|------------------------------------------------------------------------------------|
@@ -470,6 +469,7 @@ The machine continually monitors the capacitance/inductivity of the *blade* thro
 * DRO
 * Zero clearance inserts (Infra approval to cut new inserts)
 * Stock guides (Set wheel height based on material not table)
+* Tapering jig
 * Dado blades (Supervised only)
 * Bypass (Supervised only)
 
@@ -479,7 +479,6 @@ Pre:
 1. Set up in appropriate position - consider kickback and safety of bystanders
 1. Lower machine (Check for things that may be crushed etc)
 1. Remove cover
-1. Check blade for sharpness
 1. Check riving knife is installed (CRUCIAL)
 1. Plan cut and fit attachments as appropriate
 1. Check blade is square to attachments
@@ -490,11 +489,12 @@ Pre:
 
 Using:
 
-1. Turn on machine
+1. Turn on machine by setting toggle switch to up position
 1. Wait for machine to take baseline reading (Until red light stops flashing)
-1. Turn on dust extractor 
+1. Turn on dust extractor
+1. Start saw by pulling red paddle out
 1. Never freehand a cut
-1. Feed material through smoothly - do not put hands in line of blade.
+1. Feed material through smoothly - do not put hands in line of blade or above red insert
 1. Consider kickback - keep area in line with blade clear.
 1. Ensure blade comes to a complete stop before removing material or waste.
 
@@ -644,6 +644,7 @@ Using:
 1. Perform full pass at that height.
 1. Allow rollers to feed material - do not force or thrust.
 1. Lower head slightly after each pass.
+1. Ensure even insert wear by using different sections for each pass
 1. Be guided by sound as to how far to lower for each pass.
 1. Support long material to reduce snipe.
 1. Machine produces a lot of swarf, monitor dust collector levels and empty before bag gets full
@@ -659,54 +660,6 @@ After:
 Advanced operations
 Material with no flat side may be processed by use of feed plate and shims.
 Replacing/rotating inserts - refer infra
-
-## Thicknesser (Ryobi)
-
-On loan from tom
-
-Lead: ???
-Signed off by: ???, ???
-
-| Item                           | Requirement | Notes                                             |
-|--------------------------------|-------------|---------------------------------------------------|
-| Eye protection (impact)        | Y           | Chips/dust                                        |
-| Ear protection                 | Y           |                                                   |
-| Gloves (general)               | M           | User choice                                       |
-| Enclosed shoes                 | Y           |                                                   |
-| Safety boots                   | M           | Material weight dependant                         |
-| Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled |
-
-Material:
-Dry timber only (no composites) - must be checked with metal detector
-Must have at least one flat side.
-No coating that may gum blades.
-
-Consumables:
-Blades may be sharpened or replaced as required by infra.
-Users expected to report any damage or issues
-
-Pre:
-
-1. Consider safe placement (noise/mess)
-1. Consider dust extraction.
-1. Run machine briefly to check it sounds right.
-
-Using:
-
-1. Gradually raise table as you feed material through - until contact is made
-1. Allow rollers to feed material - do not force or thrust
-1. Raise table slightly after each pass
-1. Be guided by sound as to how far to raise for each pass.
-1. Support long material to reduce snipe.
-
-After:
-
-1. Disconnect dust extractor and empty bag if over half full
-1. Clean all dust and chips from machine and floor.
-
-Advanced operations
-Material with no flat side may be processed by use of feed plate and shims.
-Replacing/sharpening blades - refer infra
 
 ## Thicknesser (Dewalt)
 
@@ -747,6 +700,7 @@ Using:
 1. Zero out DRO if using
 1. Allow rollers to feed material - do not force or thrust
 1. Lower head slightly after each pass (Increment using DRO or similar handle rotation - " Half turn per pass" etc)
+1. Ensure even blade wear by using different sections for each pass
 1. Use the motor load sound to judge how much should be taken off with each pass
 1. Support long material to reduce snipe, consider using feed tables
 

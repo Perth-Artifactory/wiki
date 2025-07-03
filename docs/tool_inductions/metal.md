@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-05-04T15:53:14.594Z
+date: 2025-07-03T07:22:27.382Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -113,9 +113,9 @@ After:
 1. Let the torch cool down before putting it away
 2. Clean up any cutting debris
 
-## Saw (Friction)
+## Saw (Friction) ✔
 
-Lead: XXX
+Lead: Fletcher Boyd
 Signed off by: Fletcher, XXX
 
 | Item  | Requirement | Notes  |
@@ -131,8 +131,8 @@ Signed off by: Fletcher, XXX
 
 Pre:
 
-1. Ensure material is appropriate for blade type (steel)
-1. Check blade condition
+1. Ensure material is appropriate for wheel type (steel)
+1. Check wheel condition
 1. Secure material in clamp
 1. Remove flammable material from spark path
 1. Warn people around you and give them time to don appropriate PPE

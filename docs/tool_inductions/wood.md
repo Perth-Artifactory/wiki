@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-06-21T06:20:21.433Z
+date: 2025-07-03T11:56:22.034Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -500,12 +500,13 @@ Using:
 
 After:
 
+
 1. Disconnect from power
 1. Clean all waste and sawdust from machine via vacuum or air-gun.
 1. Be aware thin offcuts may be stuck in dust outlet - check and clear.
 1. Stow stock guides on fence if used
 1. Reset table insert to SawStop standard (not zero clearance)
-1. Stow other attachments on cart if used
+
 1. Lower blade and reset to 90/0
 1. Sweep and clean up floor of dust and offcuts.
 1. Wipe down cast iron table with clean rag

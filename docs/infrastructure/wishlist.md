@@ -2,7 +2,7 @@
 title: Equipment wishlist
 description: Things to keep an eye out for
 published: true
-date: 2025-07-04T08:26:29.612Z
+date: 2025-07-04T08:36:19.097Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-07-04T08:16:17.838Z
@@ -62,3 +62,6 @@ dateCreated: 2025-07-04T08:16:17.838Z
   * Doesn't matter if the controller is cooked etc, chances are we'll bypass it anyway
 * Tool/service trolleys
   * [This style](https://www.machineryhouse.com.au/t757)
+* Dimmable high bay lights
+  * Things don't always need to be quite so bright, but sometimes they need to be even brighter
+  * Lets us save power on areas that aren't being used

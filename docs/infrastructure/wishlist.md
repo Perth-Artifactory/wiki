@@ -2,7 +2,7 @@
 title: Equipment wishlist
 description: Things to keep an eye out for
 published: true
-date: 2025-07-04T08:22:20.440Z
+date: 2025-07-04T08:25:18.555Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-07-04T08:16:17.838Z
@@ -48,6 +48,7 @@ dateCreated: 2025-07-04T08:16:17.838Z
 * Wood pizza oven
 * Bain marie
   * Not one of the free standing cabinet things, just benchtop
+* Better outdoor dining table
 
 ## Misc
 

@@ -2,7 +2,7 @@
 title: Equipment wishlist
 description: Things to keep an eye out for
 published: true
-date: 2025-07-04T12:11:32.225Z
+date: 2025-07-04T12:12:08.697Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-07-04T08:16:17.838Z
@@ -20,6 +20,7 @@ dateCreated: 2025-07-04T08:16:17.838Z
   * [Carbatec](https://www.carbatec.com.au/carbatec-wide-belt-sander-oscillating-150mm-2200w) have one that does 0/90, (but is 15A) [Timbercon](https://www.timbecon.com.au/products/sherwood-oscillating-belt-sander-6in-2200w-edge-sander-with-cabinet-stand)'s does 0-90 (better) (10A)
 * Helical upgrade for Dewalt Thicknesser 
 * Decent handtools, chisels, saws, carving tools.
+* downdraft table
 ## Metal
 
 * Better metal bandsaw

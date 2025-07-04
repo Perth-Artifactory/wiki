@@ -2,7 +2,7 @@
 title: Equipment wishlist
 description: Things to keep an eye out for
 published: true
-date: 2025-07-04T12:11:11.677Z
+date: 2025-07-04T12:11:32.225Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-07-04T08:16:17.838Z
@@ -13,7 +13,7 @@ dateCreated: 2025-07-04T08:16:17.838Z
 * Geared drill press with electronic speed control
   * Something like the [Hare and Forbes](https://www.machineryhouse.com.au/d176) one
   * Would need to be single phase (most aren't)
-* possibility???  https://www.carbatec.com.au/nova-viking
+  * possibility???  https://www.carbatec.com.au/nova-viking
 * Edge sander
   * Sideways belt sander, better for a lot of the sanding we do
   * Most can switch between 0° and 90° so it could also replace our belt sander (since we have a stand alone disc sander)

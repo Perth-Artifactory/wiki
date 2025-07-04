@@ -2,7 +2,7 @@
 title: Equipment wishlist
 description: Things to keep an eye out for
 published: true
-date: 2025-07-04T08:25:18.555Z
+date: 2025-07-04T08:26:29.612Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-07-04T08:16:17.838Z
@@ -18,7 +18,7 @@ dateCreated: 2025-07-04T08:16:17.838Z
   * Most can switch between 0° and 90° so it could also replace our belt sander (since we have a stand alone disc sander)
   * [Carbatec](https://www.carbatec.com.au/carbatec-wide-belt-sander-oscillating-150mm-2200w) have one that does 0/90, (but is 15A) [Timbercon](https://www.timbecon.com.au/products/sherwood-oscillating-belt-sander-6in-2200w-edge-sander-with-cabinet-stand)'s does 0-90 (better) (10A)
 * Helical upgrade for Dewalt Thicknesser 
-
+* Decent handtools, chisels, saws, carving tools.
 ## Metal
 
 * Better metal bandsaw

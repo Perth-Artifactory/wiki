@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2025-04-16T03:18:20.409Z
+date: 2025-07-20T04:54:46.758Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -197,24 +197,4 @@ The Perth Artifactory and social media accounts are run by volunteers who give t
 
 ### Artifactory Funded Project
 
-Adopted at committee meeting: 2019-11-02.
-
-This policy applies to any project undertaken by Artifactory members for the purpose of improving the space that requires Artifactory committee approval for funding or space usage. It does not apply to projects undertaken by a Subcommittee.
-
-Funding proposals should include the following:
-
-PEOPLE
-
-- **Project Lead**: Member who is undertaking or coordinating the project works.
-- **Committee Correspondent**: Committee Member tasked with ensuring the committee is updated at regular meetings (This may be the same Member as Project Lead).
-- **Specialist Correspondent**: The Committee may appoint another member who is known to have skills within the area of the project to verify viability if the committee cannot determine this within their own skill set
-
-OVERVIEW
-
-- **Benefit to the Artifactory**: This is the project sales pitch. Present to the committee why they should invest in your idea.
-- **Funds Requested**: Estimated amount required to complete the project.
-- **Scope of Work**: Details on what work will be done and what impact that will have on the Artifactory. (Should include expected disruptions to normal Artifactory operations)
-- **Timeframe to completion**: Include expected completion date and/or milestones
-- **Deliverables**: Completed project as defined by the scope of works
-  - Sufficient documentation to allow a competent member to administer the system
-  - Suitable documentation and training to allow another skilled member to maintain the system in the event that Project Lead ceases to be a member
+Deleted: [2025-06-14](/minutes/Committee/2025-06-14#artifactory-funded-project-policy).

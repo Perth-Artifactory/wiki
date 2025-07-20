@@ -2,7 +2,7 @@
 title: Administration
 description: 
 published: true
-date: 2025-03-26T01:58:36.953Z
+date: 2025-07-20T04:53:04.026Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:03.205Z
@@ -31,9 +31,17 @@ The Treasurer is authorised to reimburse/pay for the following expenses without 
 * Kitchen and bar restocks
 * First aid, toiletry, office, and cleaning supplies
 * PPE
-* Items for use by a subcommittee of the organisation provided that the total amount is less than $75 and the expense has been approved by the head of the relevant subcommittee.
+* Items for use by a subcommittee of the organisation provided that a) the total amount is less than $150, and b) the expense has been approved by the chair of the relevant subcommittee or delegated subcommittee member.
+  * Subcommittee chairs and the Management Committee may independently delegate approval authority within the subcommittee, in whatever manner they choose, provided it is documented on the relevant subcommittee page on the wiki.
+  * Delegated authority may be limited to specific purposes or limits as specified in the delegation.
+  * The Treasurer must be informed in writing regarding all changes to delegated approval authorities.
 * Purchases funded by fundraising campaigns (eg. Pledge Bot)
 * Purchases funded by event ticket sales
+
+### History
+
+* Amended [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) - General revision.
+* Amended [2025-06-14](/minutes/Committee/2025-06-14#updating-subcommittee-expense-approvals) - Subcommittee expense authority.
 
 ------------------------------------------------------------------------
 

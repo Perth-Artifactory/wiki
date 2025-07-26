@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-07-26T08:08:57.422Z
+date: 2025-07-26T08:09:22.162Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z

@@ -2,7 +2,7 @@
 title: How to give a tour
 description: 
 published: true
-date: 2025-06-05T08:26:58.548Z
+date: 2025-07-26T08:08:57.422Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
@@ -95,6 +95,7 @@ dateCreated: 2025-01-11T09:56:27.999Z
 
 * Explain that there are 2 ways to use the space.
 * **1 - as a Day Pass / casual user.**
+  * Casual day rate: $20
   * Recommended while people are figuring out if the space is for them.
   * Limited assistance and training available.
   * **Visitor signup is required** (https://perart.io/visitor) - to accept our terms and conditions of attendance, and to create a training record.

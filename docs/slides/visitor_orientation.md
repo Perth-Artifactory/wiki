@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2024-12-28T05:52:03.024Z
+date: 2025-08-02T07:59:09.384Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -183,19 +183,25 @@ These tools can cause serious injury, are easy to damage, or both. An induction 
 
 Most of our tools will include a coloured dot indicating their category. A full list of our tools can also be found here:
 
-TODO: Tool QR
+![](https://perart.io/tools/qr-code)
+
+perart.io/tools
 
 ## How to get training
 
 Take a look in #training_and_inductions on Slack and put your hand up for an applicable induction slot.
 
-TODO: channel qr
+![](https://perart.io/trainingchannel/qr-code)
+
+perart.io/trainingchannel
 
 ## How to check your existing training
 
 Search for Training Tracker on Slack
 
-TODO: QR (already in Shlink
+![](https://perart.io/check_training/qr-code)
+
+perart.io/check_training
 
 ## Training refreshers and training expiry
 

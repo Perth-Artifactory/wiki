@@ -2,7 +2,7 @@
 title: Quick Links
 description: Quick links to resources for volunteers
 published: true
-date: 2025-05-26T02:59:03.158Z
+date: 2025-08-02T07:30:20.821Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-08T04:38:31.518Z
@@ -14,7 +14,7 @@ This is a collection of links to critical processes and guides for volunteers.
 
 ## Visitors
   * [Visitor signup - TidyHQ](https://perart.io/visitor) - to accept our terms and conditions, and create a training record.
-  * [Visitor Orientation - slide show](https://slides.artifactory.org.au/visitor_orientation#/title-slide) - self paced learning before a visitor starts using the space.
+  * [Visitor Orientation - slide show](https://perart.io/visitor_induction) - self paced learning before a visitor starts using the space.
   * Use **Training Tracker** to record that `Induction (Visitor)` has been completed.
 
 ## Members
@@ -46,9 +46,9 @@ Tool usage fees are payable at the end of the day when you use the tool.
 > Use the arrow keys ⬆️⬇️⬅️➡️ to navigate the slide shows.
 {.is-info}
 
-[New member induction - slide show](https://slides.artifactory.org.au/orientation#/title-slide)
+[New member induction - slide show](https://perart.io/member_induction)
 
-[Visitor Orientation - slide show](https://slides.artifactory.org.au/visitor_orientation#/title-slide)
+[Visitor Orientation - slide show](https://perart.io/visitor_induction)
 
 [(CO2) Laser training - slide show](https://slides.artifactory.org.au/machine_big-red#/title-slide)
 

@@ -40,5 +40,4 @@ You can access the [control panel](https://control.artifactory.org.au) when conn
 | What                    | Automations | Manual | Override |
 |-------------------------|-------------|--------|----------|
 | Electronics Lab | N/A | Button on front of aircon | N/A |
-| Rehearsal Room  | **Turns on** 30 minutes before a room booking<br>**Turns off** 30 minutes after a room booking or after the aircon has been on for 4 hours (whichever comes first) | Button on front of TP-Link switch outside design lab | Plug directly into GPO |
 | Design Lab      | N/A | Button on wall next to resin printers | N/A |

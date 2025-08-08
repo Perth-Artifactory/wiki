@@ -78,15 +78,8 @@ Defined at committee meeting 2019-10-02
 * Open and administer trade accounts on behalf of the Artifactory provided that they do not include a line of credit
 * Communicate with suppliers and commercial donors on behalf of the Artifactory.
 
-## Rehearsal Room Coordinator(s)
-
-Defined at committee meeting 2018-10-27
-
-* Advocate for band members
-* Monitor the [rehearsal inbox](mailto:rehearsal@artifactory.org.au)
-* Coordinate rehearsal room casual usage
-
 ## History
 
+* 2025-XX-XX - Removed Rehearsal Room Coordinators TODO_DATE
 * 2025-03-22 - Bulk roll updates
 * 2024-07-31 - Amended to add an [annual review of all officer positions](https://vote.artifactory.org.au/d/AFOuYcfH/annual-review-of-office-holders-and-subcommittees).

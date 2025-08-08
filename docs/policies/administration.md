@@ -69,5 +69,4 @@ Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membershi
   * does not require exclusive access of the Artifactory
   * does not conflict with another event/workshop unless the hosts of the other event see no conflict
   * will not conflict with attendees using loud tools (eg. mill, welders)
-  * does not require the rehearsal room to be reserved
 * The Chair and any three other committee members may waive the above rules if it is considered beneficial to the Artifactory to do so. The decision must be documented at the next regular committee meeting

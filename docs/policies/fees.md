@@ -13,7 +13,6 @@ This page lists [by-laws](/docs/policies/bylaws) relating to fees, other than me
 This includes:
 
 * Workshop Usage Fees (including the Day Pass Rate)
-* Rehearsal Room Usage Fees
 * Training Fees
 * Tool Usage Fees
 * Laser Cutting Job Fee
@@ -30,6 +29,7 @@ In these by-laws, unless the contrary intention appears, all terms are as define
 
 ## History
 
+* References to the rehearsal room were removed by online vote recorded at the committee meeting held [2025-XX-XX](/minutes/Committee/2025-XX-XX) TODO_DATE
 * A new version of this page was endorsed by online vote recorded at the committee meeting held [2022-11-26](/minutes/Committee/2022-11-26).
 * *Training fees* were endorsed by the committee by online vote on 2023-07-04 with immediate effect, as recorded at the committee meeting of [2023-07-22](/minutes/Committee/2023-07-22).
 * *Laser cutting job fees* were endorsed by the committee on 2023-07-04 with immediate effect, as recorded at the committee meeting of [2023-07-22](/minutes/Committee/2023-07-22).
@@ -52,7 +52,7 @@ Cost basis:
 
 Member rate:
 
-* Included in all [classes of membership](/docs/policies/classes_of_membership) bar Band Membership.
+* Included in all [classes of membership](/docs/policies/classes_of_membership).
 
 Day Pass:
 
@@ -70,7 +70,7 @@ Inclusions:
 
 Exclusions:
 
-* Use of the rehearsal room.
+* None
 
 Payment method:
 
@@ -80,41 +80,6 @@ Note: The Day Pass rate is reviewed during each Annual General Meeting.
 
 * The Day Pass rate was set to \$15 at the AGM held on [2021-09-18](/minutes/AGM/2021-09-18).
 * The Day Pass rate was increased to \$20 at the AGM held on [2024-09-14](/minutes/AGM/2024-09-14).
-
-----
-
-## Rehearsal Room Usage Fees
-
-Cost basis:
-
-* Per session
-
-Member rate:
-
-* With [Band Membership](/docs/policies/classes_of_membership): Nil
-
-Casual rate:
-
-* Where at least 50% of the group are [Full or Concession members](/docs/policies/classes_of_membership): \$20 per session.
-* Casual users: \$40 / session
-
-Inclusions:
-
-* Use of the communal areas.
-* Use of the rehearsal room.
-
-Exclusions:
-
-* Use of the indoor and outdoor workshop areas.
-* Use of workshop tools, equipment, computers, etc.
-
-Payment method:
-
-* Bank transfer, referencing "REHEARSAL" followed by your surname.
-
-See [Rehearsal Room - Casual Usage](/docs/policies/bylaws) for further details regarding casual usage.
-
-See [Classes of membership](/docs/policies/classes_of_membership) for further details on entitlements included with Band Membership.
 
 ----
 

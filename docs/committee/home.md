@@ -46,7 +46,6 @@ See [2024-2025_committee](/docs/committee/2024-2025_committee)
 * [Membership Officer(s)](/docs/policies/officers): Fletcher Boyd
 * [Member Storage Officer](/docs/policies/officers): Vacant
 * [Quartermaster(s)](/docs/policies/officers): Fletcher Boyd
-* [Rehearsal Room Coordinator(s)](/docs/policies/officers): Johannes Chuah, Martin Gonzalez
 * [The Ambassador](docs/policies/classes_of_membership) - Magnus Danger Magnus
 
 ## Other delegated authorities

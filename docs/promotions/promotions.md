@@ -2,7 +2,7 @@
 title: Promotions Subcommittee
 description: 
 published: true
-date: 2024-12-29T17:49:25.135Z
+date: 2025-08-08T07:39:41.542Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:51:50.764Z
@@ -75,4 +75,4 @@ Indefinite.
 ## History
 
 * Phoebe-Jean Harris was excused from the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
-* Penny Wood was excused from the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
+* Penny Wood was appointed to the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).

@@ -2,7 +2,7 @@
 title: Artifactory Access
 description: 
 published: true
-date: 2025-04-23T18:08:27.859Z
+date: 2025-08-08T06:43:42.352Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:47.883Z
@@ -53,6 +53,7 @@ You're welcome to attend the events but you can also just go off and do your own
 >
 > What you want to do - Is it loud tools that need supervision from the keyholder?
 > Your relationship with the keyholder in question - Have they met you before?
+> Your contributions back to the workshop - Do you tick off items on the whiteboard unprompted?
 {.is-warning}
 
 Go to our [Slack team](https://perart.io/slack) ask if anyone will be in at the space on a particular day or time.

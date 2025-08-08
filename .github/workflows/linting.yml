@@ -39,6 +39,7 @@ jobs:
           vale_flags: "--glob=*.md"
           filter_mode: file
           reporter: github-check
+          version: 3.10.0
   spelling:
     name: Spelling
     permissions:

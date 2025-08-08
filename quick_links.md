@@ -23,7 +23,7 @@ This is a collection of links to critical processes and guides for volunteers.
   
 ## Slack
   * [Join Slack](https://perart.io/slack) `https://perart.io/slack`
-  * Our online comunications platform and the gateway to all Artifactory services.
+  * Our online communications platform and the gateway to all Artifactory services.
 
 # Fees
 
@@ -43,7 +43,7 @@ Tool usage fees are payable at the end of the day when you use the tool.
 
 ## Induction slide shows
 
-> Use the arrow keys ⬆️⬇️⬅️➡️ to navigate the slide shows.
+> Use the space bar to navigate the slide shows.
 {.is-info}
 
 [New member induction - slide show](https://perart.io/member_induction)
@@ -65,4 +65,4 @@ Key holder induction consists of:
 # How to...
 
 * [How to give a tour](/testing/drafts/howto_tour) (Draft)
-* [Howto run the space](/testing/drafts/howto_run_the_space) (Draft)
+* [How to run the space](/testing/drafts/howto_run_the_space) (Draft)

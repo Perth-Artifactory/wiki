@@ -2,7 +2,7 @@
 title: Administration
 description: 
 published: true
-date: 2025-07-20T04:53:04.026Z
+date: 2025-08-18T15:34:56.497Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:03.205Z
@@ -35,6 +35,7 @@ The Treasurer is authorised to reimburse/pay for the following expenses without 
   * Subcommittee chairs and the Management Committee may independently delegate approval authority within the subcommittee, in whatever manner they choose, provided it is documented on the relevant subcommittee page on the wiki.
   * Delegated authority may be limited to specific purposes or limits as specified in the delegation.
   * The Treasurer must be informed in writing regarding all changes to delegated approval authorities.
+* Volunteer catering expenses provided that a) the amount per volunteer is less than $15, and b) the expense has been approved by a member of the Management Committee or the chair of a relevant subcommittee.
 * Purchases funded by fundraising campaigns (eg. Pledge Bot)
 * Purchases funded by event ticket sales
 
@@ -42,6 +43,7 @@ The Treasurer is authorised to reimburse/pay for the following expenses without 
 
 * Amended [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) - General revision.
 * Amended [2025-06-14](/minutes/Committee/2025-06-14#updating-subcommittee-expense-approvals) - Subcommittee expense authority.
+* Amended [2025-08-23](/minutes/Committee/2025-08-23) - Volunteer catering expense authority
 
 ------------------------------------------------------------------------
 

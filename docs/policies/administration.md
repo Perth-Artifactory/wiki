@@ -2,7 +2,7 @@
 title: Administration
 description: 
 published: true
-date: 2025-08-18T15:34:56.497Z
+date: 2025-08-18T15:35:50.254Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:03.205Z
@@ -18,7 +18,7 @@ In these by-laws, unless the contrary intention appears, all terms are as define
 
 ## Artifactory Expenses
 
-Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
+Last modified via online motion recorded at the [2025-08-23](/minutes/Committee/2025-08-23) meeting of the Management Committee.
 
 The Treasurer is authorised to reimburse/pay for the following expenses without seeking committee approval. The Treasurer may refer a particular payment to the Management Committee for approval at their discretion.
 

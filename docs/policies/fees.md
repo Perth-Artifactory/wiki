@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2025-01-05T10:09:47.675Z
+date: 2025-08-23T05:09:24.138Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -341,6 +341,34 @@ Exclusions
 Payment method
 
 * Bank transfer, referencing "MILL" followed by your surname.
+
+----
+
+### Metal lathe
+
+Cost basis
+
+* Time, including setup time and machining time.
+
+Member rate
+
+* \$5.00 / hour or part thereof
+
+Day Pass rate
+
+* \$10.00 / hour or part thereof
+
+Inclusions
+
+* Use of Artifactory-owned tooling, including reasonable wear and tear.
+
+Exclusions
+
+* Use of member-owned tooling.
+
+Payment method
+
+* Bank transfer, referencing "LATHE" followed by your surname.
 
 ----
 

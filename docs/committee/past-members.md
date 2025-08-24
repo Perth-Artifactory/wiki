@@ -2,7 +2,7 @@
 title: Past Committee
 description: This is a non exhaustive list of past Artifactory committees.
 published: true
-date: 2025-08-24T05:32:53.793Z
+date: 2025-08-24T05:46:56.477Z
 tags: official
 editor: markdown
 dateCreated: 2022-11-20T10:14:02.887Z
@@ -21,3 +21,7 @@ dateCreated: 2022-11-20T10:14:02.887Z
 
 > Committee changes during a term may not be accurately reflected here
 {.is-info}
+
+Committee membership over time is summarised in the timeline below. Some details have been simplified for clarity.
+
+![committee_timeline_2025-08-24.png](/committee/committee_timeline_2025-08-24.png)

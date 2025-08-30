@@ -2,7 +2,7 @@
 title: LightBurn Operation Guide
 description: 
 published: true
-date: 2024-11-23T06:38:13.621Z
+date: 2025-08-30T13:00:48.944Z
 tags: 
 editor: markdown
 dateCreated: 2024-01-03T13:39:11.882Z
@@ -26,7 +26,7 @@ The official documentation for LightBurn can be found [here](https://docs.lightb
     * Speed is measured in mm/s and has an upper limit of 200/400 on Big Red and Middle Red respectively. When engraving/filling the upper limit is 600/800 respectively. Values higher than this can be set and will be displayed on the machine but the head won't actually move any faster.
     * Power is measured in a % of 100. The minimum power you can realistically achieve on Big Red is likely to be around 10%.
     * When cutting you can set a power range using the minimum and maximum power fields. The laser will reduce the power within these parameters when slowing down to go around corners etc.
-    * `Line Interval` is the distance between each line of an fill (engrave). It is not present when the selected layer is set to Line.
+    * `Line Interval` is the distance between each line of a fill (engrave). It is not present when the selected layer is set to Line.
   * Ensure that green `Output` and `Show` toggles next to each layer are checked. (see Advanced for more details)
 * **Prioritise your layers**: Drag the layers to change the cut order. Layers should be done in this order: Engraving/Etching, Internal cuts, Final cut outs. This reduces the likelihood that your material will shift during the cut.
 * Adjust the `Start from` dropdown
@@ -52,11 +52,11 @@ You have completed the basic version of setting up a job on LightBurn.
 
 ### Repeat specific layers
 
-The layer field `Number of passes` can be used to control how many times a layer is repeated. The feature is particularly useful when a full cut would require running the laser below 3-5mm/s. In this instance you may be better off running particular layers twice to reduce the risk of fire.
+The layer field `Number of passes` can be used to control how many times a layer is repeated. The feature is particularily useful when a full cut would require running the laser below 3-5mm/s. In this instance you may be better off running particular layers twice to reduce the risk of fire.
 
 ### Repeat specific layers after a job has finished
 
-To repeat only certain layers uncheck the green output toggle next to the layers you do not wish to cut. This is preferable to deleting the vectors directly for a few reasons but mainly because the disabled layers are still included when calculating the origin point in the User Origin and Current Position modes.
+To repeat only certain layers uncheck the green output toggle next to the layers you do not wish to cut. This is preferrable to deleting the vectors directly for a few reasons but mainly because the disabled layers are still included when calculating the origin point in the User Origin and Current Position modes.
 
 ### Setting the laser origin
 

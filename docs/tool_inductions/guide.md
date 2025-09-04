@@ -2,7 +2,7 @@
 title: Training formatting guide
 description: 
 published: true
-date: 2025-09-04T23:28:05.368Z
+date: 2025-09-04T23:29:03.010Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-04T23:28:05.368Z
@@ -31,6 +31,10 @@ Resources in this section are intended to:
 * Editing is only possible through the wiki, not the offsite
 * The offsite syncs every 5ish minutes, confirm it's updated before sending a link for feedback
 * If a resource has a ✔ in the title it's largely considered stable. Discuss edits with stakeholders before making changes
+
+> Avoid using formatted blockquotes like this - they don't render well on the training offsite
+{.is-info}
+
 
 ### Document formatting
 

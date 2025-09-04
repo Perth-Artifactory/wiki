@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-09-04T21:04:29.448Z
+date: 2025-09-04T21:33:38.190Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -86,7 +86,7 @@ This tool is in multiple categories. [Master](/docs/tool_inductions/wood#drill-p
 ## Plasma Cutter
 
 Lead: XXX
-Signed off by: XXX, XXX
+Signed off by: Fletcher, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -94,7 +94,7 @@ Signed off by: XXX, XXX
 | Eye protection (EMR)           | Y | Shade 6+ |
 | Ear protection                 | Y | Compressed air noise |
 | Gloves (heat)                  | Y | Welding gloves |
-| Safety boots                   | Y |  |
+| Safety boots                   | Y | Sparks through bottom of material |
 | Mask/Respirator (dust)         | N | Disposable P2 masks are flammable |
 | Mask/Respirator (vapours)      | M | Material dependant |
 | Long sleeves                   | Y | Radiation |
@@ -102,20 +102,27 @@ Signed off by: XXX, XXX
 
 Pre:
 
-1. Check air supply and cutting tip condition
-2. Secure material and make sure workspace is clear
+1. Inspect tip and cap for damage/wear
+1. Consider fire risk from sparks
+1. Connect to compressed air
+1. Connect earth clamp - Use welding bench if clean or to part of material that will remain on the bench post cut (electrical safety considerations)
+1. Adjust current for material thickness and comfortable feed speeds - Too low/fast and it won't cut through, too high/slow and material will warp.
 
 Using:
 
-1. Keep the cutting tip at the correct distance from the workpiece
-2. Make sure cut speeds maintain the arc fully through the cut
+1. Torch is set up for offset cutting and doesn't have a standoff guide, keep around 1.5mm from surface. Safer to be too high and have a poor cut than too close and make contact with the material. Splatter is good indication that torch is too far away if bevel size/shape can't be used as guide
+1. Start torch at 90° if cutting from edge, 45° then pulled up to 90° if from center
+1. Monitor spark direction, they should come straight out the other side of the piece. (Back at operator/opposite feed direction = too fast, Going straight down but gouging on surface/warping = too slow)
+1. Running too slow will increase blowout on backside of material
+1. Continue to reassess fire risk now that spark path is known
 
 After:
 
-1. Let the torch cool down before putting it away
-2. Clean up any cutting debris
+1. Cut/dross will be sharp
+1. Torch tip and material are both hot, cool down before putting away
+1. Cleanup includes sweeping up spark debris if used inside
 
-## Saw (Friction) ✔
+## Saw (Friction)
 
 Lead: Fletcher Boyd
 Signed off by: Fletcher, XXX

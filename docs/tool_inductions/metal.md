@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-09-04T22:15:53.347Z
+date: 2025-09-04T22:18:31.549Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -233,6 +233,7 @@ Using:
 1. Tilt electrode appropriately for operation - 10-15° drag for horizontal, ~15° push for vertical up - Goal is to keep crap out of weld
 1. Run electrode in desired pattern ([useful image](https://cdn.shopify.com/s/files/1/0024/3249/9821/files/Techniques_Stringer_drag_whip_Weave_Circles_crescent_zig_zag_600x600.jpg) while maintaining electrode distance. Consider if it's better to just come back for a second pass instead.
 1. No need to act quickly if electrode stuck, protection circuit will have kicked in. Snap sideways to release and continue
+1. Turn off machine before putting handle back on table
 
 After:
 

@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-04T23:32:38.565Z
+date: 2025-09-04T23:35:37.507Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -428,14 +428,14 @@ Plunge cuts - removal of riving knife would be required - immediate replacement 
 Lead: Renae Currie
 Signed off by: Renae, Fletcher
 
-| Item                           | Requirement | Notes                                                                              |
-|--------------------------------|-------------|------------------------------------------------------------------------------------|
-| Eye protection (impact/splash) | Y           |                                                                                    |
-| Ear protection                 | ?           |                                                                                    |
-| Gloves (general)               | N           | Inhibits safety system triggering before injury                                    |
-| Enclosed shoes                 | Y           |                                                                                    |
-| Safety boots                   | M           | Material weight dependant                                                          |
-| Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled (MDF etc)                        |
+| Item                           | Requirement | Notes                                                                                         |
+|--------------------------------|-------------|-----------------------------------------------------------------------------------------------|
+| Eye protection (impact/splash) | Y           |                                                                                               |
+| Ear protection                 | ?           |                                                                                               |
+| Gloves (general)               | N           | Inhibits safety system triggering before injury, can be used beforehand for material handling |
+| Enclosed shoes                 | Y           |                                                                                               |
+| Safety boots                   | M           | Material weight dependant                                                                     |
+| Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled (MDF etc)                                   |
 
 Materials: 
 * Dry wood (Must be metal detected unless freshly purchased from Bunnings etc)

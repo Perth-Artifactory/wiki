@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-04T19:55:58.849Z
+date: 2025-09-04T20:00:24.118Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -286,6 +286,7 @@ Pre:
 
 1. Change spindle to appropriate diameter for work (including top/bottom pieces). Remember that spindle moves up and down. (Put bottom guard in after drum to confirm correct size)
 1. Check spindle for tightness and sanding sleeve for wear.
+1. Demonstrate how spindle holds material (compression expansion)
 1. Consider dust management. Use outside and/or connect dust extraction
 
 Using:
@@ -364,10 +365,10 @@ Advanced Operations:
 
 Additional training required to change or replace blade.
 
-## Saw (Table/DeWalt)
+## Saw (Table/DeWalt) ✔
 
 Lead: Renae Currie
-Signed off by: XXX, XXX
+Signed off by: Renae, Fletcher
 
 | Item                           | Requirement | Notes                                                                              |
 |--------------------------------|-------------|------------------------------------------------------------------------------------|
@@ -379,6 +380,7 @@ Signed off by: XXX, XXX
 | Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled (MDF etc)                        |
 
 Materials: 
+
 * Wood (Must be metal detected unless freshly purchased from Bunnings etc)
 * Acrylic
 * Aluminium (Saw may be permitted to be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up)
@@ -407,6 +409,7 @@ Using:
 1. Ensure blade comes to a complete stop before removing material or waste.
 
 After:
+
 1. Disconnect from power
 1. Lower blade and re-centre fence guide.
 1. Clean all waste and sawdust from machine via vacuum or air-gun.
@@ -420,7 +423,6 @@ Specific training required to change blade.
 Resawing - supplementary fence and featherboards may be required
 Plunge cuts - removal of riving knife would be required - immediate replacement crucial.
 
-
 ## Saw (Table/SawStop)
 
 Lead: Renae Currie
@@ -430,7 +432,7 @@ Signed off by: Renae, Fletcher
 |--------------------------------|-------------|------------------------------------------------------------------------------------|
 | Eye protection (impact/splash) | Y           |                                                                                    |
 | Ear protection                 | ?           |                                                                                    |
-| Gloves (general)               | M           |                                                                                    |
+| Gloves (general)               | N           | Inhibits safety system triggering before injury                                    |
 | Enclosed shoes                 | Y           |                                                                                    |
 | Safety boots                   | M           | Material weight dependant                                                          |
 | Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled (MDF etc)                        |
@@ -522,7 +524,7 @@ Plunge cuts - removal of riving knife would be required - immediate replacement 
 Dado blades
 Cutting new zero clearance inserts
 
-## Drum Sander  
+## Drum Sander ✔
 
 Lead: Renae Currie
 Signed off by: Renae, Tom

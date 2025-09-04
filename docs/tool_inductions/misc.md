@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-05-26T14:06:33.829Z
+date: 2025-09-04T22:32:19.215Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -17,29 +17,19 @@ Tools not covered in other categories
 ## Air Gun
 
 Lead: XXX
+Signed off by: XXX, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
 | Eye protection (impact/splash) | M | If risk of particulates |
 | Ear protection                 | M | Blowing into cupped surfaces |
 | Gloves (general)               | M | If work holding requires compressed air hitting hand |
-| Enclosed shoes                 | Y/M/N | TODO |
 | Mask/Respirator (dust)         | M | Tool will make small particulates airborne, P2 if toxic |
-
-Pre:
-
-1. Check air pressure.
-2. Inspect nozzle, hose, and trigger.
 
 Using:
 
-1. Hold securely and keep nozzle pointed in a safe direction.
-2. Keep airflow clear of moisture or contaminants.
-
-After:
-
-1. Release air pressure.
-2. Clean tool and store properly.
+1. Keep air stream pointed away from eyes and exposed skin
+1. Avoid blowing air into cupped surfaces - will blow back onto operator (circular saw guard etc)
 
 ## Air Paint Gun
 
@@ -68,18 +58,19 @@ After:
 
 ## Car (Jacks)
 
-Lead: Beau Scott
+Lead: ???
+Signed off by: XXX, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
+| Gloves (general)               | M | Consider oil etc on vehicle |
+| Enclosed shoes                 | Y |  |
 
 Pre:
 
-1. Verify jack capacity relative to vehicle weight.
+1. Verify jack capacity is greater than vehicle weight.
 2. Position jack in recommended lift points under vehicle.
+1. Engage brakes (if applicable) or chocks 
 
 Using:
 
@@ -89,11 +80,11 @@ Using:
 After:
 
 1. Release jack pressure slowly.
-2. Store properly.
 
 ## EWP (Elevated Work Platform)
 
 Lead: Fletcher Boyd
+Signed off by: Fletcher, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -103,17 +94,25 @@ Lead: Fletcher Boyd
 Pre:
 
 1. Check the condition of the platform and controls.
-2. Position the EWP on stable, level ground.
+1. Do not operate when alone in workshop
+1. Unplug charging cable
 
 Using:
 
-1. Ensure proper operation of safety systems.
-2. Wear appropriate safety gear and PPE.
+1. Plan path and clear obsticles before moving
+1. EWP will shift backwards slightly when moving from wheels to frame, plan accordingly
+1. Platform should be raised onto frame before larger loads are added if going directly up
+1. Position feet to back of platform when driving for more stability
+1. Set desired operating mode (driving vs lifting)
+1. Hold direction button
+1. Slowly engage throttle
+1. Operator responsibility to maintain situational awareness
+1. Be careful when stepping off platform if loaded, may tip forward onto frame (solution is to prelift onto frame)
 
 After:
 
-1. Lower platform carefully.
-2. Inspect equipment for damage.
+1. Connect charger
+1. Remove key
 
 ## Kiln
 

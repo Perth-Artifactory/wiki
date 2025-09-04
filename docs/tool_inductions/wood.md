@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-07-03T11:58:42.385Z
+date: 2025-09-04T19:55:58.849Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -249,6 +249,7 @@ Using:
 
 1. Use push sticks/blocks for small pieces
 1. The material should be fed against the rotation of the bit, ie the opposite direction to if the bit was a wheel. For external cuts this is right to left. (Inverted from trim/plunge router). Right hand thumb rule can be used to determine bit rotation if unclear
+1. Where possible use the fence for unguided router bits (no bearing)
 1. Consider climb cutting where appropriate (rough wood, may need deeper passes) - Advanced users only
 
 After:

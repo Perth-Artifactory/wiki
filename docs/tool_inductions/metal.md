@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-09-04T20:59:01.453Z
+date: 2025-09-04T21:04:29.448Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -147,6 +147,7 @@ Using:
 After:
 
 1. Material will be hot
+1. Edges may be sharp, especially if tool was pushed harder
 1. Let the machine cool completely before cleaning
 1. Clean machine and work area
 

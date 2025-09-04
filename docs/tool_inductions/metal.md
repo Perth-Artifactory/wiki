@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-07-03T07:22:27.382Z
+date: 2025-09-04T20:59:01.453Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -14,7 +14,7 @@ dateCreated: 2024-01-27T15:17:00.618Z
 
 ## Bandsaw (Metal)
 
-Lead: Ben Connor (Doesn't know this yet)
+Lead: ???
 Signed off by: XXX, Fletcher
 
 | Item  | Requirement | Notes  |
@@ -29,15 +29,17 @@ Pre:
 
 1. Confirm material is appropriate for blade type (Metal hardness up to steel)
 1. Check blade sharpness and tension
-1. Consider material orientation to reduce risk of movement
+1. Consider material orientation to reduce risk of movement (flappy metal etc)
 1. Clamp piece using machine clamp
 1. Consider work holding after piece is cut
+1. Machine technically supports being operated like a traditional bandsaw, not within scope of induction.
 
 Using:
 
 1. Consider using cutting fluid
 1. Ensure tool is completely spun up before contacting material
 1. Rest running blade on surface and adjust spring tension to achieve desired cut pressure
+1. Cut speed is dependant on engaged material (top/bottom of box tube takes longer than sides)
 1. Tool *should* turn off automatically when material is cut through. May not actuate where end of cut takes a long time
 
 After:

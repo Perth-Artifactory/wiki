@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-04T20:00:24.118Z
+date: 2025-09-04T20:05:35.537Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -374,7 +374,7 @@ Signed off by: Renae, Fletcher
 |--------------------------------|-------------|------------------------------------------------------------------------------------|
 | Eye protection (impact/splash) | Y           |                                                                                    |
 | Ear protection                 | Y           |                                                                                    |
-| Gloves (general)               | Y/M/N       | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
+| Gloves (general)               | N           | Spinning blade                                                                     |
 | Enclosed shoes                 | Y           |                                                                                    |
 | Safety boots                   | M           | Material weight dependant                                                          |
 | Mask/Respirator (dust)         | M           | P2 if cutting material that should not be inhaled (MDF etc)                        |

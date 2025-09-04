@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-04T20:05:35.537Z
+date: 2025-09-04T23:32:38.565Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -217,10 +217,10 @@ After:
 1. Check blades for damage/material (disconnect first)
 1. Cleanup includes inside the machine, bench, and floor
 
-## Router (Table)
+## Router (Table) ✔
 
-Lead: XXX
-Signed off by: Fletcher, XXX
+Lead: Fletcher Boyd
+Signed off by: Fletcher, Tom
 
 | Item                           | Requirement | Notes                                 |
 |--------------------------------|-------------|---------------------------------------|

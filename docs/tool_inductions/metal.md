@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-09-04T21:33:38.190Z
+date: 2025-09-04T22:15:53.347Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -192,35 +192,51 @@ After:
 
 ## Welder (Stick/SMAW)
 
-Lead: XXX
-Signed off by: XXX, XXX
+Lead: Fletcher Boyd
+Signed off by: Fletcher, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact/splash) | Y | Sparks |
+| Eye protection (EMR)           | Y | Shade 9-13 visible spectrum, full UV blocking - Only use welding helmets |
+| Ear protection                 | M | Can be more comfortable for long jobs |
+| Gloves (heat)                  | Y | Welding gloves |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Sparks, material weight |
+| Mask/Respirator (dust)         | M | Corresponding grinding dusk from associated tools |
+| Mask/Respirator (vapours)      | M | A1 depending on material, oxide fumes are hazardous (zinc in galv etc) |
+| Long sleeves                   | Y | Significant EMR/UV risk to all exposed skin |
+| Natural fibre clothing         | Y | Splatter, sparks, arc heat |
 
 Pre:
 
-1. Inspect electrode, cable, and welder settings
-2. Ensure work area and material surfaces are clean
+1. Ensure material and electrode are appropriate (including for intended direction and polarity)
+1. Confirm cables to handle/stinger and earth clamp are intact - any insulation damage = tag out
+1. Confirm earth clamp copper is clean
+1. Connect earth clamp to material or table (if using) - ensure all contact points are clean and clear of rust/oxide layer
+1. Ensure material is clean and clear of rust
+1. Consider operator position, prioritise comfort over short setup times
+1. Fit electrode to handle
+1. Set current using dial based on material thickness, check max current rating for electrode. Electrode sticking/can't maintain arc = too low, blowing out material/big puddle/charred electrode = too high
+1. Consider anti splatter spray
+1. Set up welding screens
+1. Test welding helmet using halogen lamp
 
 Using:
 
-1. Maintain appropriate arc length and angle
-2. Keep welding helmet down while welding
+1. Pick up handle (Don't create an unintended circuit)
+1. Turn on machine
+1. Confirm everyone with eyeline to machine has their helmet down and set appropriately
+1. Strike arc (tap or match) - Anti stick feature on machine reduces fuse risk when tapping)
+1. Pull electrode back to begin puddle
+1. Bring electrode down to appropriate distance - usually same as labelled electrode thickness. Splatter/no puddle control = too far, operator can't keep electrode off of material = too close
+1. Tilt electrode appropriately for operation - 10-15° drag for horizontal, ~15° push for vertical up - Goal is to keep crap out of weld
+1. Run electrode in desired pattern ([useful image](https://cdn.shopify.com/s/files/1/0024/3249/9821/files/Techniques_Stringer_drag_whip_Weave_Circles_crescent_zig_zag_600x600.jpg) while maintaining electrode distance. Consider if it's better to just come back for a second pass instead.
+1. No need to act quickly if electrode stuck, protection circuit will have kicked in. Snap sideways to release and continue
 
 After:
 
-1. Allow materials to cool before handling
-2. Clean up slag and spatter, and keep the welding area clean and neat
+1. Everything will be hot, don't put away hot things
+1. Do not allow others to touch material with less protection than you have on, easy to forget how much heat is blocked by welding gloves
+1. Cleanup includes splatter on bench as well as general sweeping of bench and area
+1. Dispose of used electrode dregs

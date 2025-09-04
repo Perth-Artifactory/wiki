@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-04T23:35:37.507Z
+date: 2025-09-04T23:54:00.182Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -664,10 +664,10 @@ Advanced operations
 Material with no flat side may be processed by use of feed plate and shims.
 Replacing/rotating inserts - refer infra
 
-## Thicknesser (Dewalt)
+## Thicknesser (Dewalt) ✔
 
-Lead: ???
-Signed off by: ???, Fletcher
+Lead: Tom White
+Signed off by: Tom, Fletcher
 
 | Item                           | Requirement | Notes                                             |
 |--------------------------------|-------------|---------------------------------------------------|

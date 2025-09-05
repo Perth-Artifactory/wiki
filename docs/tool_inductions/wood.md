@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-05T07:42:27.659Z
+date: 2025-09-05T07:42:48.734Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -271,7 +271,7 @@ After:
 1. Stow adjustment tools on table saw cart
 1. Cleanup includes table/router/floor
 
-## Sander (Spindle)
+## Sander (Spindle) ✔
 
 Lead: Fletcher Boyd
 Signed off by: Fletcher, Renae

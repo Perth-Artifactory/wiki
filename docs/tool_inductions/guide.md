@@ -2,7 +2,7 @@
 title: Training formatting guide
 description: 
 published: true
-date: 2025-09-04T23:29:03.010Z
+date: 2025-09-05T08:04:32.404Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-04T23:28:05.368Z
@@ -71,6 +71,7 @@ Unless otherwise required each resource should include:
 {.is-info}
 
 * Materials/notes: In particular list out if specific types of material cannot be used
+* Consumables: Note location and type of provided materials, whether personal consumables can be used, expectations around consumable replacements
 * Prestart checks: Steps that are performed before using the tool, in most circumstances it should be safe to walk away at any point during this section.
 
 ```

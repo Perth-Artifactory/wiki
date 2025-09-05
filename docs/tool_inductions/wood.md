@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-05T07:47:36.246Z
+date: 2025-09-05T07:56:48.743Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -429,7 +429,7 @@ Specific training required to change blade.
 Resawing - supplementary fence and featherboards may be required
 Plunge cuts - removal of riving knife would be required - immediate replacement crucial.
 
-## Saw (Table/SawStop)
+## Saw (Table/SawStop) ✔
 
 Lead: Renae Currie
 Signed off by: Renae, Fletcher
@@ -615,10 +615,10 @@ Replacement of drum wrap apparently a giant pain. Men's shed gate this tool for 
 Let Tool Lead know if required for ny reason.
 No one has actually done this yet. 
 
-## Thicknesser (Large)
+## Thicknesser (Large) ✔
 
-Lead: ???
-Signed off by: Fletcher, ???
+Lead: Renae Currie
+Signed off by: Fletcher, Renae
 
 | Item                           | Requirement | Notes                                             |
 |--------------------------------|-------------|---------------------------------------------------|
@@ -642,9 +642,10 @@ Pre:
 
 1. Consider safe placement (noisy machine requiring 3 phase power)
 1. Raise infeed and outfeed arms to correct height and tighten bolts.
-1. Connect dust extractor (Consider using swarf barrel for long sessions)
+1. Connect dust extractor (Consider using swarf barrel for long sessions, must monitor for clogging if used)
 1. Warn other users in the workshop before starting the tool and give them an opportunity to don hearing protection
 1. Run machine briefly to check it sounds right.
+1. Turn on wood zone air filter
 
 Using:
 
@@ -657,13 +658,15 @@ Using:
 1. Be guided by sound as to how far to lower for each pass.
 1. Support long material to reduce snipe.
 1. Machine produces a lot of swarf, monitor dust collector levels and empty before bag gets full
+1. Monitor for feeding issues, clean rollers with white spirits if detected
 
 After:
 
 1. Disconnect dust extractor and empty bag if over half full
 1. Empty swarf barrel if used
-1. Clean all dust and chips from machine and floor.
+1. Clean all dust and chips from machine and floor
 1. Wipe down cast iron surface with clean rag
+1. Wipe rollers with white spirits
 1. Return infeed/outfeed supports to lowered position.
 
 Advanced operations

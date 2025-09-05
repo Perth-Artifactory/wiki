@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-09-05T08:00:21.695Z
+date: 2025-09-05T08:02:41.601Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -60,10 +60,10 @@ After:
 1. Clean tool thoroughly.
 2. Store in a safe space.
 
-## Car (Jacks)
+## Car (Jacks) ✔
 
-Lead: ???
-Signed off by: XXX, XXX
+Lead: Johannes Chuah
+Signed off by: JC, Fletcher
 
 | Item  | Requirement | Notes  |
 | - | - | - |

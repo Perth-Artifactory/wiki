@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-09-04T22:44:09.106Z
+date: 2025-09-05T08:00:21.695Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -14,10 +14,10 @@ dateCreated: 2024-01-27T15:41:36.498Z
 
 Tools not covered in other categories
 
-## Air Gun
+## Air Gun ✔
 
-Lead: XXX
-Signed off by: XXX, XXX
+Lead: Fletcher Boyd
+Signed off by: Fletcher, Renae
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -25,6 +25,10 @@ Signed off by: XXX, XXX
 | Ear protection                 | M | Blowing into cupped surfaces |
 | Gloves (general)               | M | If work holding requires compressed air hitting hand |
 | Mask/Respirator (dust)         | M | Tool will make small particulates airborne, P2 if toxic |
+
+Pre:
+
+1. Check air pressure and copmressor thermal overload
 
 Using:
 
@@ -68,14 +72,16 @@ Signed off by: XXX, XXX
 
 Pre:
 
-1. Verify jack capacity is greater than vehicle weight.
-2. Position jack in recommended lift points under vehicle.
+1. Verify jack capacity is greater than vehicle weight
+1. Only on clear level ground /dedicated car bay and not during scheduled events (see working on car policy)
+1. Position jack in recommended lift points under vehicle
 1. Engage brakes (if applicable) or chocks 
 
 Using:
 
-1. Lift vehicle slowly and carefully.
-2. Always use jack stands to support a lifted vehicle.
+1. Lift vehicle slowly and carefully
+1. Always use jack stands to support a lifted vehicle
+1. Remove handle when not in use (trip hazard)
 
 After:
 

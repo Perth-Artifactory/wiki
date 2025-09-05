@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-05T07:45:47.254Z
+date: 2025-09-05T07:46:13.281Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -349,6 +349,7 @@ Pre:
 1. Confirm saw will be able to drop with no obstructions
 1. Consider 5mm cut first if sliding
 1. Close machine room door and consider other members in room
+1. Turn on room air filter
 
 Using:
 

@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-05T07:42:48.734Z
+date: 2025-09-05T07:45:47.254Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -329,21 +329,17 @@ Materials:
 * Acrylic
 * Aluminium (Saw may be permitted to be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up)
 
-Consumables: 
-General Purpose crosscut blade installed. 
-Report to infra if damaged or blunt.
-Personal blades may be used with permission 
-Any blade change to be reported to infra and logged
+Consumables: General Purpose crosscut blade installed. Report to infra if damaged or blunt. Personal blades may be used with permission  Any blade change to be reported to infra and logged
 
 
 Pre:
 
-1. Check blade for sharpness/missing teeth (disconnect tool)
 1. Use proper blade for material and cut type
 1. Check material for fixings (nails etc) using metal detector
 1. Check/set angles
 1. Move fence for bevel cuts
 1. Check/set slide
+1. Check that guard is securely fitted (no sideways movement)
 1. Consider material bowing
 1. Align piece with blade (can sit blade on material to check or use laser)
 1. Adjust table slides to support material

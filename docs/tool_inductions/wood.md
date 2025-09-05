@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-04T23:54:00.182Z
+date: 2025-09-05T07:41:30.058Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -231,6 +231,13 @@ Signed off by: Fletcher, Tom
 | Safety boots                   | M           | Material weight dependant             |
 | Mask/Respirator (dust)         | M           | Material toxicity dependant (MDF etc) |
 
+Material: Timber and timber composites (mdf, chipboard etc) that are:
+
+* Stable and sitting flat on the table
+* Free of fixings (metal detected unless freshly purchased from Bunnings etc)
+
+Supplied consumables: 1/2 router bits (stored in machine room) - report broken/damaged. Operators can bring their own 1/2" bits as desired.
+
 Pre:
 
 1. Raise machine onto wheels
@@ -244,6 +251,8 @@ Pre:
 1. Lock the bit height using the lock hole
 1. Set table fence if using
 1. Ensure work area is clear
+1. Consider dust management (no collector or extraction hood on machine). Material will largely go to the left, clear appropriately.
+1. Turn on wood zone air filter
 
 Using:
 

@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-09-04T22:18:31.549Z
+date: 2025-09-07T17:13:02.577Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -100,13 +100,17 @@ Signed off by: Fletcher, XXX
 | Long sleeves                   | Y | Radiation |
 | Natural fibre clothing         | Y | Sparks |
 
+Consumables:
+
+1. Torch consumables are in the office, ask a committee member for a set if required (kept secure because equipment can be used inappropriately in a way that burns through a lot of tips)
+
 Pre:
 
 1. Inspect tip and cap for damage/wear
 1. Consider fire risk from sparks
-1. Connect to compressed air
+1. Connect to compressed air and test flow with drain
 1. Connect earth clamp - Use welding bench if clean or to part of material that will remain on the bench post cut (electrical safety considerations)
-1. Adjust current for material thickness and comfortable feed speeds - Too low/fast and it won't cut through, too high/slow and material will warp.
+1. Adjust current for material thickness and comfortable feed speeds - Too low/fast and it won't cut through, too high/slow and material will warp. Internet has useful cut charts
 
 Using:
 

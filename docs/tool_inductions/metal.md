@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-09-07T17:13:02.577Z
+date: 2025-09-09T17:56:41.495Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -169,7 +169,7 @@ Signed off by: XXX, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (EMR)           | Y | Shade 13 |
+| Eye protection (EMR)           | Y | Shade 9-13 visible spectrum, full UV blocking - Only use welding helmets |
 | Ear protection                 | M | Depending on position, length of job |
 | Gloves (heat)                  | Y |  |
 | Enclosed shoes                 | Y |  |
@@ -178,6 +178,8 @@ Signed off by: XXX, XXX
 | Mask/Respirator (vapours)      | M | Material dependant |
 | Long sleeves                   | Y | Radiation |
 | Natural fibre clothing         | Y |  |
+
+Note: Standard says ali/stainless shade 12 for <250A, shade 13 <350A. S10 <150A, S11 <250A for other materials
 
 Pre:
 
@@ -214,7 +216,7 @@ Signed off by: Fletcher, XXX
 
 Pre:
 
-1. Ensure material and electrode are appropriate (including for intended direction and polarity)
+1. Ensure material and electrode are appropriate (including for intended direction, material, and polarity)
 1. Confirm cables to handle/stinger and earth clamp are intact - any insulation damage = tag out
 1. Confirm earth clamp copper is clean
 1. Connect earth clamp to material or table (if using) - ensure all contact points are clean and clear of rust/oxide layer
@@ -222,9 +224,10 @@ Pre:
 1. Consider operator position, prioritise comfort over short setup times
 1. Fit electrode to handle
 1. Set current using dial based on material thickness, check max current rating for electrode. Electrode sticking/can't maintain arc = too low, blowing out material/big puddle/charred electrode = too high
+1. Test welding helmet using halogen lamp/sun or test button
+1. Set helmet shade (if applicable) based on current. Start darker and decrease as required for puddle visibility. Do not go below shade 8 <100A and shade 10 <200A (taken from Aus standards, others recommend higher)
 1. Consider anti splatter spray
 1. Set up welding screens
-1. Test welding helmet using halogen lamp
 
 Using:
 

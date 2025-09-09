@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-09-09T17:57:42.177Z
+date: 2025-09-09T18:19:38.234Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -64,20 +64,7 @@ Signed off by:
 | Safety boots                   | M |  |
 | Mask/Respirator (dust)         | M | Depends on material and wheel composition |
 
-Pre:
-
-1. Check condition of wheels for cracks or damage
-2. Ensure grindstone appropriate for material type
-
-Using:
-
-1. Secure workpiece, use rests to support as needed
-2. Stand to side of wheel when starting grinder
-
-After:
-
-1. Let wheels stop completely before leaving
-2. Clean area of any grinding dust
+Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Drill Press
 
@@ -181,20 +168,9 @@ Signed off by: XXX, XXX
 
 Note: Standard says ali/stainless shade 12 for <250A, shade 13 <350A. S10 <150A, S11 <250A for other materials
 
-Pre:
 
-1. Check gas, wire feed, and electrode
-2. Prepare material surfaces to be clean and free of dust or rust
+Not started: [template](/docs/tool_inductions/guide#template)
 
-Using:
-
-1. Use appropriate weld settings for material and thickness
-2. Use correct welding patterns
-
-After:
-
-1. Allow materials to cool before handling
-2. Clean welder and work area of metal fragments and dust
 
 ## Welder (Stick/SMAW)
 

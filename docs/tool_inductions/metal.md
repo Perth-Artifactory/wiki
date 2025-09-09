@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-09-09T17:56:41.495Z
+date: 2025-09-09T17:57:42.177Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -225,7 +225,7 @@ Pre:
 1. Fit electrode to handle
 1. Set current using dial based on material thickness, check max current rating for electrode. Electrode sticking/can't maintain arc = too low, blowing out material/big puddle/charred electrode = too high
 1. Test welding helmet using halogen lamp/sun or test button
-1. Set helmet shade (if applicable) based on current. Start darker and decrease as required for puddle visibility. Do not go below shade 8 <100A and shade 10 <200A (taken from Aus standards, others recommend higher)
+1. Set helmet shade (if applicable) based on current. Start darker and decrease as required for puddle visibility unless squinting/uncomfortable. Do not go below shade 8 <100A and shade 10 <200A (taken from Aus standards, others recommend higher)
 1. Consider anti splatter spray
 1. Set up welding screens
 

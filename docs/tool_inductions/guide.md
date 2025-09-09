@@ -2,7 +2,7 @@
 title: Training formatting guide
 description: 
 published: true
-date: 2025-09-05T08:04:32.404Z
+date: 2025-09-09T18:13:28.954Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-04T23:28:05.368Z
@@ -119,3 +119,60 @@ eg. [Sawstop safety system](https://wiki.artifactory.org.au/en/docs/tool_inducti
 eg. [Sawstop safety system](https://wiki.artifactory.org.au/en/docs/tool_inductions/wood#sawstop-safety-feature) - Financial responsibility
 
 `⚠️ Machine operators are financially responsible for all triggers. This includes the cartridge ($170+) and blade ($80-300).`
+
+### Template
+
+```
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: ???
+Signed off by: ???, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y/M/N |  |
+| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
+| Ear protection                 | Y/M/N | Include a sound rating if you can. |
+| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
+| Gloves (chemical)              | Y/M/N |  |
+| Gloves (heat)                  | Y/M/N |  |
+| Enclosed shoes                 | Y/M/N |  |
+| Safety boots                   | Y/M/N |  |
+| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
+| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
+| Long sleeves                   | Y/M/N |  |
+| Natural fibre clothing         | Y/M/N |  |
+
+Allowed materials:
+
+* [Material]
+
+Specifically banned materials:
+
+* [Material2]
+
+Consumables:
+
+* [Consumable] - Provided (location)
+* [Consumable2] - Provided (required) (location)
+* [Consumable3] - Operator brings (restrictions
+
+Pre:
+
+1. Step 1
+1. Step 2
+
+Using:
+
+1. Step 1
+1. Step 2
+
+After:
+
+1. Step 1
+1. Step 2
+
+Advanced operations:
+
+1. [Operation]
+```

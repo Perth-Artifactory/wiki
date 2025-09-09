@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-09-05T08:02:41.601Z
+date: 2025-09-09T18:29:13.464Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -13,52 +13,6 @@ dateCreated: 2024-01-27T15:41:36.498Z
 {.is-warning}
 
 Tools not covered in other categories
-
-## Air Gun ✔
-
-Lead: Fletcher Boyd
-Signed off by: Fletcher, Renae
-
-| Item  | Requirement | Notes  |
-| - | - | - |
-| Eye protection (impact/splash) | M | If risk of particulates |
-| Ear protection                 | M | Blowing into cupped surfaces |
-| Gloves (general)               | M | If work holding requires compressed air hitting hand |
-| Mask/Respirator (dust)         | M | Tool will make small particulates airborne, P2 if toxic |
-
-Pre:
-
-1. Check air pressure and copmressor thermal overload
-
-Using:
-
-1. Keep air stream pointed away from eyes and exposed skin
-1. Avoid blowing air into cupped surfaces - will blow back onto operator (circular saw guard etc)
-
-## Air Paint Gun
-
-Lead: XXX
-
-| Item  | Requirement | Notes  |
-| - | - | - |
-| Eye protection (impact/splash) | Y | Risk of over spray blowing back into face |
-| Enclosed shoes                 | Y/M/N |  |
-| Mask/Respirator (vapours)      | M | Dependant on ventilation |
-
-Pre:
-
-1. Check the condition of the paint container and nozzle.
-2. Prepare paint and thin as recommended.
-
-Using:
-
-1. Maintain a constant distance and speed when spraying.
-2. Only spray in well-ventilated areas.
-
-After:
-
-1. Clean tool thoroughly.
-2. Store in a safe space.
 
 ## Car (Jacks) ✔
 
@@ -120,39 +74,13 @@ After:
 1. Connect charger
 1. Remove key
 
+## Fire
+
+Not started: [template](/docs/tool_inductions/guide#template)
+
 ## Kiln
 
-Lead: XXX
-
-| Item  | Requirement | Notes  |
-| - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
-
-Pre:
-
-1. Ensure proper ventilation.
-2. Check kiln and materials for damage or debris.
-
-Using:
-
-1. Monitor temperature closely and avoid overcrowding kiln.
-2. Only handle with appropriate heat-resistant gloves.
-
-After:
-
-1. Allow ample time for kiln and items to cool down.
-2. Keep kiln clean and unplugged when not in use.
+Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Ladder
 
@@ -162,20 +90,7 @@ Lead: Fletcher Boyd
 | - | - | - |
 | Enclosed shoes                 | Y | Trip hazard |
 
-Pre:
-
-1. Check for defects, proper locks and anti-slip feet.
-1. Set up the ladder on flat, stable ground at correct angle.
-
-Using:
-
-1. Maintain three-point contact (two hands and a foot or two feet and a hand).
-1. Don't overreach; move ladder as needed.
-
-After:
-
-1. Store ladders in a safe, dry location.
-1. Inspect regularly for wear and tear.
+Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Pressure Pot
 
@@ -184,24 +99,10 @@ Lead: XXX
 | Item  | Requirement | Notes  |
 | - | - | - |
 | Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
 | Ear protection                 | Y/M/N | Include a sound rating if you can. |
 | Gloves (chemical)              | Y | Resin |
 
-Pre:
-
-1. Confirm pot and hoses are in good condition.
-2. Inspect pressure relief valves.
-
-Using:
-
-1. Operate within the pressure pot's specified range.
-2. Minimize unnecessary pressure build-up.
-
-After:
-
-1. Release pressure before opening.
-2. Clean and store it properly.
+Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Shop press
 
@@ -244,6 +145,10 @@ After:
 
 1. Return all pressing heads (tools), jack handles, table plates etc. to their proper places.
 
+## Vacuum Chamber
+
+Not started: [template](/docs/tool_inductions/guide#template)
+
 ## Vacuum Former
 
 Lead: Lewis Yip, Fletcher Boyd
@@ -252,20 +157,7 @@ Lead: Lewis Yip, Fletcher Boyd
 | - | - | - |
 | Gloves (general)               | M | If moulding hot plastic around piece with hands (it's hot but not too hot) |
 
-Pre:
-
-1. Inspect seals, heating element and vacuum.
-2. Prepare your mold and plastic sheet.
-
-Using:
-
-1. Stand by for rapid response to plastic behavior during heating.
-2. Monitor the vacuum forming process.
-
-After:
-
-1. Allow for sufficient cooling time.
-2. Switch off, unplug and store properly.
+Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Vinyl Cutter
 
@@ -275,17 +167,4 @@ Lead: Tom White, Lewis Yip
 | - | - | - |
 | N/A |  |  |
 
-Pre:
-
-1. Check cutter blade for sharpness.
-2. Secure vinyl on cutting mat or rollers.
-
-Using:
-
-1. Regularly check alignment and cutter movement.
-2. Let the cutter do the work. Don't force the cutter.
-
-After:
-
-1. Unload vinyl.
-2. Clean machine, let it stop, and store properly.
+Not started: [template](/docs/tool_inductions/guide#template)

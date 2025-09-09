@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-09T17:45:16.107Z
+date: 2025-09-09T17:46:24.724Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -643,6 +643,7 @@ Pre:
 1. Consider safe placement (noisy machine requiring 3 phase power)
 1. Raise infeed and outfeed arms to correct height and tighten bolts.
 1. Connect dust extractor (Consider using swarf barrel for long sessions, must monitor for clogging if used)
+1. Connect to 3 phase power (behind mill)
 1. Warn other users in the workshop before starting the tool and give them an opportunity to don hearing protection
 1. Run machine briefly to check it sounds right.
 1. Turn on wood zone air filter

@@ -2,7 +2,7 @@
 title: Training formatting guide
 description: 
 published: true
-date: 2025-09-09T18:13:28.954Z
+date: 2025-09-09T18:14:53.771Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-04T23:28:05.368Z
@@ -121,6 +121,8 @@ eg. [Sawstop safety system](https://wiki.artifactory.org.au/en/docs/tool_inducti
 `⚠️ Machine operators are financially responsible for all triggers. This includes the cartridge ($170+) and blade ($80-300).`
 
 ### Template
+
+The following is a largely complete template.
 
 ```
 <!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->

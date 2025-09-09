@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-05T07:56:48.743Z
+date: 2025-09-09T17:45:16.107Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -657,7 +657,7 @@ Using:
 1. Ensure even insert wear by using different sections for each pass
 1. Be guided by sound as to how far to lower for each pass.
 1. Support long material to reduce snipe.
-1. Machine produces a lot of swarf, monitor dust collector levels and empty before bag gets full
+1. Machine produces a lot of swarf, monitor dust collector levels (empty at before 3/4 full), swarf barrel (may be heavy at 1/2 full), and swarf outfeed (check periodically, especially if using barrel)
 1. Monitor for feeding issues, clean rollers with white spirits if detected
 
 After:

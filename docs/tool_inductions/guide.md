@@ -2,7 +2,7 @@
 title: Training formatting guide
 description: 
 published: true
-date: 2025-09-09T18:14:53.771Z
+date: 2025-09-10T20:04:57.208Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-04T23:28:05.368Z
@@ -157,7 +157,7 @@ Consumables:
 
 * [Consumable] - Provided (location)
 * [Consumable2] - Provided (required) (location)
-* [Consumable3] - Operator brings (restrictions
+* [Consumable3] - Operator brings (restrictions)
 
 Pre:
 

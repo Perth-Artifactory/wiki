@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-10T18:43:07.070Z
+date: 2025-09-10T18:46:45.048Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -83,6 +83,7 @@ Pre:
 1. Fit blade to saw
 1. Select mode. Straight cut = slower but more control, circular = faster but less control
 1. Create hole with another tool if starting cut from the middle of the material.
+1. Consider whether material will shift during/after cut, support appropriately 
 1. Fit battery to tool, test that blade is fitted properly
 
 Using:

@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-10T19:52:59.859Z
+date: 2025-09-10T20:14:47.586Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -34,7 +34,57 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Saw (Circular)
 
-Not started: [template](/docs/tool_inductions/guide#template)
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: ???
+Signed off by: Fletcher, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | Flying chips |
+| Ear protection                 | Y | Tool noise |
+| Gloves (general)               | M | Material dependant |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material weight dependant |
+| Mask/Respirator (dust)         | M | Material dependant |
+
+Allowed materials:
+
+* Wood (Metal detected or fresh from supplier)
+* Plastic
+
+Consumables:
+
+* Saw blade - Provided (Fitted)
+
+Pre:
+
+1. Ensure blade is appropriate for material and cut type
+1. Adjust blade angle
+1. Adjust blade height so one gullet passes through material
+1. Consider work holding, including pinching
+1. Consider straight edge
+1. Consider other side of material (since blade goes through)
+1. Fit battery/plug in
+1. Line intented cut up with blade mark on front of tool
+
+Using:
+
+1. Rest tool on surface of material so foot is level
+1. One hand on trigger, other hand on secondary handle
+1. Spin up tool completely before cutting
+1. Cut in smooth motion, listen to motor load to judge feed speed
+1. Back off and go slower if saw stalls
+
+After:
+
+1. Remove battery/unplug
+1. Cleanup includes work surface, floor (if inside) and inside blade guard on tool
+
+Advanced operations:
+
+1. One handed operation
+1. Blade changes
 
 ## Saw (Jigsaw)
 

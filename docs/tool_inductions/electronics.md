@@ -2,7 +2,7 @@
 title: Electronics
 description: 
 published: true
-date: 2025-09-10T16:11:47.295Z
+date: 2025-09-10T16:33:34.443Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:31:01.543Z
@@ -41,10 +41,10 @@ Signed off by: ???, ???
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
+| Eye protection (impact/splash) | M | Operation dependant |
 | Gloves (chemical)              | N | Nitrile gloves etc will melt if they come into contact with the plate |
 | Enclosed shoes                 | Y |  |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
+| Mask/Respirator (vapours)      | M | Potentially consider if no soldering filter is available. Treat the same as soldering precautions |
 
 Allowed materials:
 
@@ -76,7 +76,8 @@ After:
 
 1. Turn off equipment using switch
 1. Disconnect power cable and return to tub
+1. Allow the equipment to cool before continuing
 1. Check whether you've left any residue on the plate
 1. Clean residue with a damp (not wet) sponge. Escalate to dish soap or steel wool if required. Do not allow cleaning products to enter the cavity under the plate.
 1. Ensure all residue and cleaning products have been completely removed from the plate (ie anything that may burn when it's used again)
-1. Allow the equipment to cool before returning to the bench
+1. Ensure equipment is completely cool before returning to the bench

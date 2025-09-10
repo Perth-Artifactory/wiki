@@ -2,7 +2,7 @@
 title: Electronics
 description: 
 published: true
-date: 2025-09-10T15:52:05.380Z
+date: 2025-09-10T16:11:47.295Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:31:01.543Z
@@ -78,5 +78,5 @@ After:
 1. Disconnect power cable and return to tub
 1. Check whether you've left any residue on the plate
 1. Clean residue with a damp (not wet) sponge. Escalate to dish soap or steel wool if required. Do not allow cleaning products to enter the cavity under the plate.
-1. Ensure all residue and clenaing products have been completely removed from the plate (ie anything that may burn when it's used again)
+1. Ensure all residue and cleaning products have been completely removed from the plate (ie anything that may burn when it's used again)
 1. Allow the equipment to cool before returning to the bench

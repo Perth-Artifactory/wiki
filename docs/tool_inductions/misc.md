@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-09-09T18:29:13.464Z
+date: 2025-09-10T18:25:10.211Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -84,13 +84,42 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Ladder
 
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
 Lead: Fletcher Boyd
+Signed off by: Fletcher, ???
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Enclosed shoes                 | Y | Trip hazard |
+| Enclosed shoes                 | Y | Trip hazards |
 
-Not started: [template](/docs/tool_inductions/guide#template)
+Notes: Demonstrate how to safely mount/dismount from framed cladding area.
+
+Pre:
+
+1. Set ladder on even stable ground
+1. Check that cross support (A-frame) or locking bar (extension) is engaged and functional
+1. Plan operation and whether footing is required (any operation that moves the center of gravity outside the ladder footprint) or any use of the extension ladder
+1. Use EWP where possible for item storage/retrieval instead of ladder
+1. (Extension ladder) position ladder to brace top end under support if possible
+
+Using:
+
+1. Maintain three points of contact
+1. (A-frame) Do not go above signed step when used as a normal A frame ladder (ie exception is when ladder is being used to access ceiling
+1. Pass items to offsiders instead of lifting yourself
+
+After:
+
+1. Stow ladder back in designated spot
+
+Advanced operations:
+
+1. Using ladder to access ceiling spaces other than Design Lab/Rehearsal room (areas without framed cladding) - Where it's safe to walk, how to get up/down
+1. Using ladder in coordination with EWP - Don't be on the ladder when people are driving
+1. Operating tools or equipment while at height - Maintaining points of contact, tethered tools, footing safety, harness
+1. Lifting items while climbing - Maintaining points of contact, manual handlling
+1. Using ladder to access top of roof (ie where the sun hits) - Footing requirements, where it's safe to walk
 
 ## Pressure Pot
 

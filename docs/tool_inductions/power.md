@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-10T19:42:54.914Z
+date: 2025-09-10T19:52:59.859Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -11,10 +11,6 @@ dateCreated: 2024-01-27T15:35:54.682Z
 > Please do not share the contents of this page.
 > Unless marked as signed off the content is a work in progress.
 {.is-warning}
-
-## Air Die Grinder
-
-Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Angle Grinder (<7")
 

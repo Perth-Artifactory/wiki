@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-11T05:36:49.285Z
+date: 2025-09-11T05:50:10.393Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -75,7 +75,7 @@ After:
 
 Advanced operations:
 
-1. Using bits guide bearings (usually better tool options)
+1. Using bits without guide bearings (usually better tool options)
 
 ## Sander (Portable Belt)
 

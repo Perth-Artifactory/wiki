@@ -2,13 +2,13 @@
 title: Artifactory Annual Reports
 description: 
 published: true
-date: 2025-09-11T05:19:16.092Z
+date: 2025-09-11T05:19:44.535Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:30.259Z
 ---
 
-(/docs/committee/perth_artifactory_annual_report_2024-2025.pdf)The annual reports are a presentation for the members of what Perth Artifactory Inc has done in a particular financial year.
+The annual reports are a presentation for the members of what Perth Artifactory Inc has done in a particular financial year.
 
 - [2024 - 2025](/docs/committee/perth_artifactory_annual_report_2024-2025.pdf)
 - [2023 - 2024](/docs/committee/perth_artifactory_annual_report_2023-2024.pdf)

@@ -2,7 +2,7 @@
 title: Electronics
 description: 
 published: true
-date: 2025-09-10T16:33:34.443Z
+date: 2025-09-11T04:49:55.868Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:31:01.543Z
@@ -32,12 +32,10 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 Not started: [template](/docs/tool_inductions/guide#template)
 
-## Reflow Plate
-
-<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+## Reflow Plate ✓
 
 Lead: Sophie Blackwood
-Signed off by: ???, ???
+Signed off by: Fletcher, Sophie
 
 | Item  | Requirement | Notes  |
 | - | - | - |

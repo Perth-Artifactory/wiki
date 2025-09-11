@@ -2,7 +2,7 @@
 title: Sand Blaster
 description: 
 published: true
-date: 2025-09-04T20:39:09.804Z
+date: 2025-09-11T14:36:37.459Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-03-27T02:47:19.106Z
@@ -28,7 +28,8 @@ Signed off by: Fletcher, ???
 
 ## Safety considerations
 
-Sand blasting creates toxic dusts.
+Sand blasting creates toxic dust.
+
 * Cement, stone, glass, pottery etc -> crystalline silica - causes silicosis
 * Some blasting grits may also contain silica
 * Lead paint -> lead
@@ -36,29 +37,29 @@ Sand blasting creates toxic dusts.
   * Do not blast lead paint in our sand blaster - use an alternative means of paint stripping.
 * Dust is harmful to breath but skin contact is typically okay
 
-## Setup
+## Pre
 
-* Ensure material is safe for sand blasting (see safety considerations)
-* Remove cover from rear air inlet.
-* Connect power to vacuum cleaner.
-* Connect power to sand blaster cabinet. (Internal light.)
-* Connect compressed air.
-* Check grit level - must cover suction tube, but not vent tube.
+1. Ensure material is safe for sand blasting (see safety considerations)
+1. Remove cover from rear air inlet.
+1. Connect power to vacuum cleaner.
+1. Connect power to sand blaster cabinet. (Internal light.)
+1. Connect compressed air.
+1. Check grit level - must cover suction tube, but not vent tube.
 
-## Operation
+## Using
 
-* Turn on vacuum cleaner
-* Check vacuum cleaner is sucking.
-* Load work (aluminium can is a good first object)
-* Close and latch door
-* Perform sand blasting
-* Allow at least 10 seconds to extract dust, before opening door
-* Dust may settle on part, consider hands soiled
+1. Turn on vacuum cleaner
+1. Check vacuum cleaner is sucking.
+1. Load work (aluminium can is a good first object)
+1. Close and latch door
+1. Perform sand blasting
+1. Allow at least 10 seconds to extract dust, before opening door
+1. Dust may settle on part, consider hands soiled
 
-## Cleanup
+## After
 
-* Replace rear air inlet cover
-* Clean up spilled dust / grit by wet wiping (e.g. wet paper towel) - Do not cause dust to become airborne. (no brushes or compressed air)
+1. Replace rear air inlet cover
+1. Clean up spilled dust / grit by wet wiping (e.g. wet paper towel) - Do not cause dust to become airborne. (no brushes or compressed air)
 
 ## Additional info
 

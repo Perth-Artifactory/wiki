@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-11T05:50:10.393Z
+date: 2025-09-11T05:52:40.195Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -71,7 +71,7 @@ After:
 1. Remove battery
 1. Cleanup includes bench/ground, tool throws chips everywhere
 1. Remove router bit (may still be hot), return to case
-1. Leave collet nut loose
+1. Leave collet nut loose (but on thread)
 
 Advanced operations:
 

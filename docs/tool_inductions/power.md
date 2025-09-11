@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-11T13:21:29.446Z
+date: 2025-09-11T13:33:43.968Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -22,7 +22,52 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Router (Plunge)
 
-Not started: [template](/docs/tool_inductions/guide#template)
+Lead: Fletcher Boyd
+Signed off by: Fletcher, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | Flying chips |
+| Ear protection                 | Y |  |
+| Gloves (general)               | M | Both hands remain away from spinning parts during operation |
+| Enclosed shoes                 | Y |  |
+| Mask/Respirator (dust)         | M | Material dependant |
+
+Note: Train operator to hollow out odd shape (draw a hexagon etc with marker on material as guide).
+
+Allowed materials:
+
+* Wood (Metal detected or direct from supplier)
+
+Consumables:
+
+* 1/2" router bits - Provided, operator can BYO (In yellow case above red toolbox in machine room)
+
+Pre:
+
+1. Select bit appropriate for desired cut
+1. Fit bit to router
+1. Set min/max depth plunge
+1. Consider workholding, router has lots of sideways force and can shift material
+1. Consider supporting ends of end grain to reduce tearout if going near the edge
+1. Connect tool to power
+1. Follow Using steps on scrap material before using on piece if not 100% confident on height setup
+
+Using:
+
+1. Both hands stay on handles during operation
+1. Place router on material at minimum plunge
+1. Turn on router
+1. Slowly lower bit into material until desired depth is achieved
+1. Use conventional cutting not climb cutting when not slot cutting (CCW outside, CW inside) - Demonstrate how to figure this out rather than rote learning
+1. Adjust spindle speed based on cut
+
+After:
+
+1. Disconnect tool from power
+1. Cleanup includes bench/ground, tool throws chips everywhere
+1. Remove router bit (may still be hot), return to case
+1. Leave collet nut loose (but on thread)
 
 ## Router (Trim) ✓
 

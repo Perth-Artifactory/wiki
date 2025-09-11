@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-11T05:52:40.195Z
+date: 2025-09-11T13:21:29.446Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -24,12 +24,10 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 Not started: [template](/docs/tool_inductions/guide#template)
 
-## Router (Trim)
-
-<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+## Router (Trim) ✓
 
 Lead: Fletcher Boyd
-Signed off by: Fletcher, ???
+Signed off by: Fletcher, Tom
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -55,6 +53,7 @@ Pre:
 1. Connect battery
 1. Point away from people and turn on the router for a moment to confirm everything is working as expected
 1. Consider workholding, router has lots of sideways force and can shift material
+1. Consider supporting ends of end grain to reduce tearout
 1. Follow Using steps on scrap material before using on piece if not 100% confident on height setup
 
 Using:
@@ -65,6 +64,7 @@ Using:
 1. Slowly push router into material until bearing makes contact
 1. Conventional cut around the piece (CCW outside, CW inside) - Demonstrate how to figure this out rather than rote learning
 1. Can climb cut the last inch back to a corner if desired
+1. Start with end grain first, other operations can be used to hide tear out
 
 After:
 

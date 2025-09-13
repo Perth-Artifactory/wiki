@@ -2,7 +2,7 @@
 title: Electronics
 description: 
 published: true
-date: 2025-09-13T10:11:57.227Z
+date: 2025-09-13T10:12:56.631Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:31:01.543Z
@@ -47,6 +47,7 @@ Consumables:
 Pre:
 
 1. Clean work surface before placing equipment
+1. Only reliable hold point on equipment is lifting by the shaft above the equipment
 1. Remove cover and set aside in clean location
 1. Loosen rear shaft lock
 1. Raise microscope to 10mm below top of shaft and lock

@@ -2,7 +2,7 @@
 title: Promotions Subcommittee
 description: 
 published: true
-date: 2025-08-08T07:39:41.542Z
+date: 2025-09-13T06:58:36.295Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:51:50.764Z
@@ -14,6 +14,7 @@ dateCreated: 2022-10-17T16:51:50.764Z
 | --------------------- | ----------------------------------- |
 | Penny Wood            | Yes                                 |
 | Johannes Chuah        | Yes                                 |
+| Tegan Murphy (appointed [2025-09-13](/minutes/Committee/2025-09-13)) | Yes |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
 {.is-info}

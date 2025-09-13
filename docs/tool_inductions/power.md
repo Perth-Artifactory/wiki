@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-13T11:28:17.029Z
+date: 2025-09-13T11:32:02.046Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -216,11 +216,13 @@ Consumables:
 Pre:
 
 1. Ensure selected blade is appropriate for cut type (metal=metal, wood=wood, plastic=wood) and desired cut radius (thinner=tighter).
+1. Check blade for damage - report to infra
 1. Fit blade to saw
 1. Create hole with another tool if starting cut from the middle of the material.
 1. Consider whether material will shift during/after cut, support appropriately 
 1. Plug in tool, test that blade is fitted properly
 1. Enable laser if using
+1. Consider exclusion zone to protect bystanders
 
 Using:
 
@@ -234,6 +236,7 @@ After:
 
 1. Debris are typically flung quite far - cleanup needs to be thorough
 1. Blade is usually hot, allow to cool before removing
+1. Check for blade damage - replace
 1. Return blade to case if using AF
 
 ## Saw (Recip)

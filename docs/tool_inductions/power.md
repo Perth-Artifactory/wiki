@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-13T11:32:02.046Z
+date: 2025-09-13T11:33:09.429Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -144,7 +144,7 @@ Signed off by: Fletcher, ???
 
 Allowed materials:
 
-* Wood (Metal detected or fresh from supplier)
+* Wood (Metal detected or fresh from supplier) - green wood more likely to pinch/kick
 * Plastic
 
 Consumables:

@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-09-13T11:19:43.863Z
+date: 2025-09-13T11:20:36.986Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -129,18 +129,6 @@ Advanced operations:
 1. Lifting items while climbing - Maintaining points of contact, manual handlling
 1. Using ladder to access top of roof (ie where the sun hits) - Footing requirements, where it's safe to walk
 
-## Pressure Pot
-
-Lead: XXX
-
-| Item  | Requirement | Notes  |
-| - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (chemical)              | Y | Resin |
-
-Not started: [template](/docs/tool_inductions/guide#template)
-
 ## Shop press
 
 Lead: Fletcher Boyd
@@ -181,10 +169,6 @@ Using:
 After:
 
 1. Return all pressing heads (tools), jack handles, table plates etc. to their proper places.
-
-## Vacuum Chamber
-
-Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Vacuum Former
 

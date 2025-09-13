@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-11T13:33:43.968Z
+date: 2025-09-13T11:28:17.029Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -268,15 +268,16 @@ Consumables:
 
 * Blades - Provided, can bring own (top of red machine room toolbox)
 
-
 Pre:
 
 1. Ensure selected blade is appropriate for cut type (metal=metal, wood=wood, plastic=wood, wood with nails=demo) and material depth.
+1. Check blade for damage/missing teeth. Report to infra
 1. Fit blade to saw
 1. Select mode. Straight cut = slower but more control, circular = faster but less control
 1. Create hole with another tool if starting cut from the middle of the material.
 1. Consider whether material will shift during/after cut, support appropriately 
 1. Fit battery to tool, test that blade is fitted properly
+1. Set up exclusion zone to keep bystanders safe
 
 Using:
 
@@ -291,6 +292,7 @@ After:
 
 1. Debris are typically flung quite far - cleanup needs to be thorough
 1. Blade is usually hot, allow to cool before removing
+1. Check blade for damage/missing teeth - Replace
 1. Return blade to case if using AF
 
 Advanced operations:

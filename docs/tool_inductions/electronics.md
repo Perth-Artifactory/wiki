@@ -2,7 +2,7 @@
 title: Electronics
 description: 
 published: true
-date: 2025-09-13T10:11:43.226Z
+date: 2025-09-13T10:11:57.227Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:31:01.543Z
@@ -24,7 +24,7 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 Not started: [template](/docs/tool_inductions/guide#template)
 
-## Microscope
+## Microscope ✓
 
 <!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
 

@@ -2,7 +2,7 @@
 title: Electronics
 description: 
 published: true
-date: 2025-09-11T04:49:55.868Z
+date: 2025-09-13T10:11:43.226Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:31:01.543Z
@@ -26,11 +26,102 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Microscope
 
-Not started: [template](/docs/tool_inductions/guide#template)
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: Sophie Blackwood
+Signed off by: Sophie, Fletcher
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| N/A |  |  |
+
+Specifically banned materials:
+
+* Lasers
+* Mirrors
+
+Consumables:
+
+* Stage - Provided (Laser cut) - can use own
+
+Pre:
+
+1. Clean work surface before placing equipment
+1. Remove cover and set aside in clean location
+1. Loosen rear shaft lock
+1. Raise microscope to 10mm below top of shaft and lock
+1. Remove lens cap and set aside in clean location
+1. Connect light/camera if using (set dimming with knob on RHS for light, do not adjust camera settings)
+1. Adjust side focus knobs to desired focal height
+1. Set zoom
+1. Adjust camera focus if using
+1. Adjust eye piece focus
+1. Adjust IPD spacing
+1. If the object is a light source consider operator comfort (bright light)
+
+Using:
+
+1. Don't remove barlow reducer (connected to lens)
+1. Be mindful not to touch barlow reducer with tools or hands (easy to scratch/damage)
+1. Hold down clips can be removed if required (pull out)
+1. Avoid applying heat to stage
+
+After:
+
+1. Adjust side focus so scope is flush with mount
+1. Replace caps
+1. Reset eye piece focus back to 0 (silver line)
+1. Lower scope on shaft to bottom
+1. Coil cables neatly on stage
+1. Replace cover and stow on shelf
+
+Advanced operations:
+
+1. PCB vise
 
 ## Reflow Oven (IR)
 
-Not started: [template](/docs/tool_inductions/guide#template)
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: Sophie Blackwood
+Signed off by: Sophie, Fletcher
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Enclosed shoes                 | Y |  |
+
+Allowed materials:
+
+* PCBs
+
+Specifically banned materials:
+
+* PET substrate
+* PCBs without rated reflow temp
+
+Consumables:
+
+* Solder paste (operator provided) - Best results when using paste with documented reflow curve
+
+Pre:
+
+1. COnfirm drawer is empty
+1. Connect to power and turn on swtich
+1. 
+
+Using:
+
+1. Step 1
+1. Step 2
+
+After:
+
+1. Step 1
+1. Step 2
+
+Advanced operations:
+
+1. Any other materials
 
 ## Reflow Plate ✓
 

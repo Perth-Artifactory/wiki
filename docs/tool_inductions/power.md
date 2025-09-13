@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-13T11:33:09.429Z
+date: 2025-09-13T11:36:40.659Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -46,11 +46,14 @@ Consumables:
 Pre:
 
 1. Select bit appropriate for desired cut
+1. Inspect bit for damage/resin buildup
+1. Set speed for selected bit
 1. Fit bit to router
 1. Set min/max depth plunge
 1. Consider workholding, router has lots of sideways force and can shift material
 1. Consider supporting ends of end grain to reduce tearout if going near the edge
 1. Connect tool to power
+1. Equipment is loud/messy - Manage mess and noise
 1. Follow Using steps on scrap material before using on piece if not 100% confident on height setup
 
 Using:
@@ -61,6 +64,7 @@ Using:
 1. Slowly lower bit into material until desired depth is achieved
 1. Use conventional cutting not climb cutting when not slot cutting (CCW outside, CW inside) - Demonstrate how to figure this out rather than rote learning
 1. Adjust spindle speed based on cut
+1. Take lighter passes if bit isn't cutting as expected
 
 After:
 

@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-09-10T18:25:10.211Z
+date: 2025-09-13T09:40:15.779Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -41,25 +41,31 @@ After:
 
 1. Release jack pressure slowly.
 
-## EWP (Elevated Work Platform)
+## EWP (Elevated Work Platform) ✔
 
 Lead: Fletcher Boyd
-Signed off by: Fletcher, XXX
+Signed off by: Fletcher, Sophie
 
 | Item  | Requirement | Notes  |
 | - | - | - |
 | Ear protection                 | N | Situational awareness when moving |
 | Enclosed shoes                 | Y | Trip hazard |
 
+Demonstrate:
+
+1. Emergency descent 
+
 Pre:
 
 1. Check the condition of the platform and controls.
 1. Do not operate when alone in workshop
+1. Do not use side rails for lifting
 1. Unplug charging cable
 
 Using:
 
 1. Plan path and clear obsticles before moving
+1. Check weight of load before putting on front (max 40kg)
 1. EWP will shift backwards slightly when moving from wheels to frame, plan accordingly
 1. Platform should be raised onto frame before larger loads are added if going directly up
 1. Position feet to back of platform when driving for more stability
@@ -68,6 +74,8 @@ Using:
 1. Slowly engage throttle
 1. Operator responsibility to maintain situational awareness
 1. Be careful when stepping off platform if loaded, may tip forward onto frame (solution is to prelift onto frame)
+1. Monitor for low battery symptoms (extra whining, low output power)
+1. Continue to monitor for attendees underneath when working at height
 
 After:
 

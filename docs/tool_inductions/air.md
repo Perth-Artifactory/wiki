@@ -2,7 +2,7 @@
 title: Air Tools
 description: 
 published: true
-date: 2025-09-13T10:36:00.451Z
+date: 2025-09-13T10:40:06.319Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:26:47.830Z
@@ -57,7 +57,7 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 Not started: [template](/docs/tool_inductions/guide#template)
 
-## Pressure Pot
+## Pressure Pot ✓
 
 <!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
 
@@ -90,22 +90,25 @@ Pre:
 Using:
 
 1. Connect to air
-1. Monitor as pressure increases, consider using shutoff to control flow (
+1. Monitor as pressure increases, consider using shutoff to control flow (blowing things around)
 1. Close shutoff at 80psi
 1. Disconnect air
 1. Label pot as pressurised/spillable and label as left project
 1. Wait
-1. Release pressure slowly (noise)
-1. 
+1. Release pressure slowly (noise) using shutoff
+1. Undo clamps
+1. Remove basket
+1. Remove project
 
 After:
 
-1. Step 1
-1. Step 2
+1. Leave basket in pot
+1. Loosely reattach bolts
+1. Return to shed
 
 Advanced operations:
 
-1. [Operation]
+1. Anything other than allowed materials
 
 ## Sand Blaster
 

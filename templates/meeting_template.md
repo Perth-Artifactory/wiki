@@ -23,10 +23,12 @@ The table of contents on the left side of the page forms the agenda of this meet
 ## Members Present
 
 * Present: REMOVE NOT PRESENT
+    * Anna Whitlock
     * Ben Connor
     * Fletcher Boyd
     * Johannes Chuah
     * Joshua Rospondek
+    * Lewis Peaty
     * Lewis Yip
     * Renae Currie
     * Tegan Murphy
@@ -34,8 +36,8 @@ The table of contents on the left side of the page forms the agenda of this meet
 * Apologies: NAMES
 * Absent: NAMES
 * Observing: NAMES
-* Minute taker: NAME
-* Chair: NAME
+* Minute taker: LewisY
+* Chair: Fletcher
 
 * Quorum present (4 committee members): YES/NO
 
@@ -279,9 +281,9 @@ News and discussions on events.
 
 ### Social
 
-* Talkshop Wednesday (Coordinator: Fletcher, Lewis) - 
-* Saturday Lunch (Coordinator: Fletcher, Lewis) - 
-* Board Game Afternoon (Coordinator: Lewis) - 
+* Talkshop Wednesday (Coordinator: Fletcher, Steve) - 
+* Saturday Lunch (Coordinator: Fletcher, Steve) - 
+* Board Game Afternoon (Coordinator: Anna, Ilke, Tom) - 
 
 ### Cosplay and Craft
 
@@ -296,7 +298,7 @@ News and discussions on events.
 * General Hacking Day (Coordinator: Committee) -
 * Open Day (Coordinator: Fletcher) -
 * Metal Monday (Coordinator: Ben, Lewis) -
-* Wednesday Woodworking (Coordinators: Renae, Penny) - 
+* Wednesday Woodworking (Coordinators: Renae, Penny, Alice) - 
 
 ### Other
 
@@ -307,6 +309,10 @@ News and discussions on events.
 * EVENT NAME (COORDINATOR) - REPORT
 
 ------------------------------------------------------------------------
+
+## Loomio Review
+
+* Review outstanding Loomio threads
 
 ## Other Business
 

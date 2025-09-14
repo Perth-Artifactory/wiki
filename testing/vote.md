@@ -2,7 +2,7 @@
 title: Vote format testing
 description: 
 published: true
-date: 2025-09-14T05:13:46.787Z
+date: 2025-09-14T05:56:12.345Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2025-09-14T05:02:33.807Z
@@ -25,4 +25,3 @@ dateCreated: 2025-09-14T05:02:33.807Z
 | 2025-07-22 11:11:28 | 2025-07-25 11:01:19 | Approve $300 for purchase of pen kits from the General Fund                                                                                           | 👍: 5<br>🤷‍♂️: 1<br>👎: 0<br>👻: 1 | ✅Passed                                 | `Not yet entered`                                               | N/A                                                           |
 | 2025-07-21 11:59:17 | 2025-07-28 11:01:58 | Introduce a tool usage fee for the metal lathe - at same rates as the metal mill.                                                                     | 👍: 6<br>🤷‍♂️: 0<br>👎: 0<br>👻: 1 | ✅Passed                                 | `Not yet entered`                                               | [View on Loomio](https://vote.artifactory.org.au/d/cLB1r2PD/) |
 | 2025-07-21 05:54:56 | 2025-07-22 01:21:33 | Revoke 24/7 key access for Cameron Davis                                                                                                              | 👍: 7<br>🤷‍♂️: 0<br>👎: 0         | ✅Passed                                 | <p>Key will be disabled, JC to send email</p>                   | N/A                                                           |
-| 2025-07-16 05:13:35 | 2025-07-19 05:02:46 | Approve $400 for Supanova volunteer costs from the General Fund                                                                                       | 👍: 6<br>🤷‍♂️: 0<br>👎: 0<br>👻: 1 | ✅Passed                                 | <p>Motion passed</p>                                            | N/A                                                           |

@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2025-09-13T06:39:35.620Z
+date: 2025-09-25T14:43:46.781Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -48,6 +48,10 @@ See [2025-2026_committee](/docs/committee/2025-2026_committee)
 * [Quartermaster(s)](/docs/policies/officers): Fletcher Boyd
 * [Rehearsal Room Coordinator(s)](/docs/policies/officers): Position discontinued
 * [The Ambassador](docs/policies/classes_of_membership) - Magnus Danger Magnus
+
+## Delegated authority for expense approvals
+
+* Nil
 
 ## Other delegated authorities
 

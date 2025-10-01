@@ -2,7 +2,7 @@
 title: Electronics
 description: 
 published: true
-date: 2025-09-13T10:12:56.631Z
+date: 2025-10-01T10:35:48.607Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:31:01.543Z
@@ -171,3 +171,7 @@ After:
 1. Clean residue with a damp (not wet) sponge. Escalate to dish soap or steel wool if required. Do not allow cleaning products to enter the cavity under the plate.
 1. Ensure all residue and cleaning products have been completely removed from the plate (ie anything that may burn when it's used again)
 1. Ensure equipment is completely cool before returning to the bench
+
+## Welder (Spot/Battery)
+
+Not started: [template](/docs/tool_inductions/guide#template)

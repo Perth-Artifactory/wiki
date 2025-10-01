@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-09-09T17:46:45.477Z
+date: 2025-10-01T10:34:40.969Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -179,10 +179,10 @@ After:
 
 Advanced operations- specific training required before replacing belts. 
 
-## Jointer - (No training)
+## Jointer - (???)
 
-> No training is offered for this tool
-{.is-danger}
+> Unclear which version of the tool this referred to
+{.is-warning}
 
 
 Lead: XXX
@@ -216,6 +216,10 @@ After:
 
 1. Check blades for damage/material (disconnect first)
 1. Cleanup includes inside the machine, bench, and floor
+
+## Jointer (Large)
+
+Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Router (Table) ✔
 

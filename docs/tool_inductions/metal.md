@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-09-09T18:19:38.234Z
+date: 2025-10-01T10:37:24.680Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -149,6 +149,10 @@ After:
 1. Let the machine cool completely before cleaning
 1. Clean machine and work area
 
+## Torch (Oxy-Acetelyne)
+
+Not started: [template](/docs/tool_inductions/guide#template)
+
 ## Welder (MIG)
 
 Lead: XXX
@@ -224,3 +228,7 @@ After:
 1. Do not allow others to touch material with less protection than you have on, easy to forget how much heat is blocked by welding gloves
 1. Cleanup includes splatter on bench as well as general sweeping of bench and area
 1. Dispose of used electrode dregs
+
+## Welder (TIG)
+
+Not started: [template](/docs/tool_inductions/guide#template)

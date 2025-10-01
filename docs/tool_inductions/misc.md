@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-09-13T11:20:36.986Z
+date: 2025-10-01T10:38:24.903Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -169,6 +169,10 @@ Using:
 After:
 
 1. Return all pressing heads (tools), jack handles, table plates etc. to their proper places.
+
+## Torch (LPG & Propane)
+
+Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Vacuum Former
 

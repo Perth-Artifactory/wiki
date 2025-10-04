@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-10-04T05:32:32.074Z
+date: 2025-10-04T05:38:10.291Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -175,7 +175,7 @@ After:
 <!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
 
 Lead: Fletcher Boyd
-Signed off by: ???, ???
+Signed off by: Fletcher, ???
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -211,7 +211,7 @@ Pre:
 1. Consult with Fire 🔴 inducted member if working outside
 1. Ensure you're working at least 5m away from gas bottles etc (Oxygen stored at welding bay etc)
 1. Plan out work surface, will absorb heat
-1. Fit torch to bottle and screw on hand tight - Tips work with propane, LPG, and MAP gas.
+1. Fit torch to bottle and screw on hand tight - Tips work with propane and MAP gas. (or MAP equiv) Fit LPG torch to LPG bottle
 
 Using:
 
@@ -220,14 +220,14 @@ Using:
 1. Adjust flame to desired length
 1. Hottest part of flame is at the tip of the inner core
 1. Heat part as required, consider smooth motion etc
-1. Tipping the bottle upside down with dump accelerant into flame, less effective etc
+1. Tipping the bottle upside down with dump contaminants into flame, less effective etc
+1. Turn bottle off if not using for a time, get someone to hold it if you need both hands to work the material. (Don't put it down while it's on)
 
 After:
 
-1. Turn off gas, do not blow out flame
+1. Turn off gas to put out, do not blow out flame
 1. Everything is hot, let cool before putting away
 1. Remove torch from bottle
-
 
 Advanced operations:
 
@@ -235,7 +235,8 @@ Advanced operations:
 
 ## Vacuum Former
 
-Lead: Lewis Yip, Fletcher Boyd
+Lead: Lewis Yip
+Signed off by: ???, ???
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -246,6 +247,7 @@ Not started: [template](/docs/tool_inductions/guide#template)
 ## Vinyl Cutter
 
 Lead: Tom White, Lewis Yip
+Signed off by: ???, ???
 
 | Item  | Requirement | Notes  |
 | - | - | - |

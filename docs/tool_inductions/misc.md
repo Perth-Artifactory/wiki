@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-10-04T05:39:35.057Z
+date: 2025-10-04T06:01:21.015Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -84,7 +84,24 @@ After:
 
 ## Fire
 
-Not started: [template](/docs/tool_inductions/guide#template)
+Topics to cover:
+
+* Where you cannot use fire
+  * Within 3m of shed (flammable gas storage)
+  * Within 3m of gas bottles inside the space (oxygen etc stored at welding bay) - It's okay to move bottles elsewhere to make it safe
+  * Close to flammable material like carpets etc
+  * In the carpark
+  * Under the shade sails (if heat is more significant than a blowtorch)
+* Where you cannot create liquid metal above 500C
+  * Everywhere listed above
+  * Concrete
+* Firefighting options
+  * Consider the type of fire you're creating, can it be put out with a powder exstinguisher?
+  * Fire blankets
+  * Water
+* When to pre-wet surroundings
+* Is a permit required?
+  * Check for fire ban and exemption: https://www.dfes.wa.gov.au/hazard-information/bushfire/total-fire-ban
 
 ## Kiln
 

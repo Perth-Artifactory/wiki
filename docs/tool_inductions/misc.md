@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-10-04T06:12:57.078Z
+date: 2025-10-04T07:08:29.896Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -225,8 +225,21 @@ Pre:
 
 1. Consider [Dangerous Projects](/docs/policies/dangerous_projects) policy
 1. Consult with Fire 🔴 inducted member if working outside (Fletcher and Lewis are backstops)
-1. Ensure you're working at least 5m away from gas bottles and flammables liquids (Oxygen stored at welding bay, containers of flammable liquids other members are using etc) - Airborne sawdust is considered a gas in this context
-1. At least 2m away from flammable solids (scrap wood, saw dust)
+1. Identify and control any fire hazards in the work area.
+    - ⚠️ **No naked flames within 5m of gas bottles.** ⚠️ Oxygen, acetylene, argon, welding gas, etc.
+    - Remove other flammable/combustible materials within 2 metres of the work area.
+        - Liquids
+        - Gasses
+        - Vapours
+        - Dusts (e.g. sawdust)
+        - Fibres
+        - Wood
+        - Paper
+        - Textiles
+        - Packaging
+        - Plastics
+        - Tyres
+        - Dry grass
 1. Plan out work surface, will absorb heat from work and torch
 1. Fit torch to bottle and screw on hand tight - Tips work with propane and MAP gas. (or MAP equiv) Fit LPG torch to LPG bottle
 1. Consider whether you need to bring a fire exstinguisher with you, visually locate nearest if not

@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-10-04T11:09:59.885Z
+date: 2025-10-04T11:13:07.521Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -84,6 +84,9 @@ After:
 
 ## Fire
 
+Lead: Fletcher Boyd
+Signed off by: Fletcher, ???
+
 Topics to cover:
 
 * Typically comes under [Dangerous Projects](/docs/policies/dangerous_projects) policy
@@ -91,7 +94,7 @@ Topics to cover:
 * Where you cannot use fire
   * Within 3m of shed (flammable gas storage)
   * Within 3m of gas bottles anywhere in the workshop or surrounds (oxygen etc stored at welding bay) - It's okay to move bottles elsewhere to make it safe. Exception is if the gas bottles are the thing creating the fire. (forge, oxy etc)
-  * Close to flammable material like carpets etc
+  * Close to flammable material like carpets etc (Close depends on the operation, eg charring a steak can be closer than something that makes sparks)
   * In the carpark
   * Under the shade sails (if heat is more significant than a blowtorch or otherwise likely to damage the sails)
   * Around poorly supervised children
@@ -116,7 +119,7 @@ Topics to cover:
   * Fire hose
   * Sand bucket (metal/battery fires)
 * When to pre-wet surroundings
-* Do you need a spotter? (Wearing welding helmet etc that reduces visability)
+* Do you need a spotter? (ie Wearing welding helmet etc that reduces visability)
 * Is a permit required?
   * Permits not required for work enclosed inside (doors closed)
   * Permits required for outside work when a total fire ban is in place - Check on [DFES website](https://www.emergency.wa.gov.au/#totalfirebans) or call [1800 709 355](tel:1800709355) to check for TFB
@@ -128,7 +131,7 @@ Topics to cover:
   * 10m wet down
   * Exstinguishers with a combined wieght of at least 18kg (2x9kg, 4x4.5 etc) - Our large exstinguishers are 9kg
   * Fire detection officer - must be exclusively dedicated to the detection and suppresion of fires and be trained to do so. Remain on duty for at least 30 minutes after the hot work is complete until they are sure there is no fire or anything likely to start one.
-  * Fire detection officer is not a box ticking exercise - If not 100% confident defer to Fletcher/Lewis.
+  * Fire detection officer is not a box ticking exercise - If not 100% confident defer to Fletcher or Lewis.
 
 ## Kiln
 

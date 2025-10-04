@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-09-13T11:36:40.659Z
+date: 2025-10-04T11:33:27.880Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -130,12 +130,10 @@ Advanced operations:
 
 Not started: [template](/docs/tool_inductions/guide#template)
 
-## Saw (Circular)
+## Saw (Circular) ✓
 
-<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
-
-Lead: ???
-Signed off by: Fletcher, ???
+Lead: Fletcher Boyd
+Signed off by: Fletcher, Renae
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -184,12 +182,10 @@ Advanced operations:
 1. One handed operation
 1. Blade changes
 
-## Saw (Jigsaw)
+## Saw (Jigsaw) ✓
 
-<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
-
-Lead: ???
-Signed off by: Fletcher, ???
+Lead: Fletcher Boyd
+Signed off by: Fletcher, Renae
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -243,12 +239,10 @@ After:
 1. Check for blade damage - replace
 1. Return blade to case if using AF
 
-## Saw (Recip)
+## Saw (Recip) ✓
 
-<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
-
-Lead: ???
-Signed off by: Fletcher, ???
+Lead: Fletcher Boyd
+Signed off by: Fletcher, Renae
 
 | Item  | Requirement | Notes  |
 | - | - | - |

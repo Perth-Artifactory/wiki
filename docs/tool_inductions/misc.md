@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-10-01T10:38:24.903Z
+date: 2025-10-04T05:32:32.074Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -172,7 +172,66 @@ After:
 
 ## Torch (LPG & Propane)
 
-Not started: [template](/docs/tool_inductions/guide#template)
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: Fletcher Boyd
+Signed off by: ???, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | M | Depends on material (sparks etc) |
+| Eye protection (EMR)           | N/A | Flame is not bright enough |
+| Ear protection                 | N | Situational awareness |
+| Gloves (general)               | M | If material is warm |
+| Gloves (chemical)              | N | Risk of melting |
+| Gloves (heat)                  | Y | If material is hot |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Depending on material |
+| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
+| Mask/Respirator (vapours)      | M | Vapour/A1 may be required depending on material |
+| Natural fibre clothing         | M | Sparks etc |
+
+Allowed materials:
+
+* Materials that are safe to burn (most metal, wood, food etc)
+
+Specifically banned materials:
+
+* Anything containing chlorine (PVC etc)
+* Melting plastic
+* Melting metal (better tools are available)
+
+Consumables:
+
+* Gas bottle - BYO or replace AF as used
+
+Pre:
+
+1. Consider [Dangerous Projects](/docs/policies/dangerous_projects) policy
+1. Consult with Fire 🔴 inducted member if working outside
+1. Ensure you're working at least 5m away from gas bottles etc (Oxygen stored at welding bay etc)
+1. Plan out work surface, will absorb heat
+1. Fit torch to bottle and screw on hand tight - Tips work with propane, LPG, and MAP gas.
+
+Using:
+
+1. Turn on gas a quater turn
+1. Light torch using lighter or flint (demonstrate both)
+1. Adjust flame to desired length
+1. Hottest part of flame is at the tip of the inner core
+1. Heat part as required, consider smooth motion etc
+1. Tipping the bottle upside down with dump accelerant into flame, less effective etc
+
+After:
+
+1. Turn off gas, do not blow out flame
+1. Everything is hot, let cool before putting away
+1. Remove torch from bottle
+
+
+Advanced operations:
+
+1. Most advanced operations are better suited to an oxy torch or foundry.
 
 ## Vacuum Former
 

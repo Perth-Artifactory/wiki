@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-10-04T06:11:32.573Z
+date: 2025-10-04T06:12:57.078Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -99,9 +99,11 @@ Topics to cover:
   * Consider the type of fire you're creating, can it be put out with a powder exstinguisher?
   * Fire blankets
   * Water
+  * Fire hose
 * When to pre-wet surroundings
 * Is a permit required?
-  * Check for fire ban and exemption: https://www.dfes.wa.gov.au/hazard-information/bushfire/total-fire-ban
+  * Check for fire ban and exemption requirements: https://www.dfes.wa.gov.au/hazard-information/bushfire/total-fire-ban
+* 
 
 ## Kiln
 

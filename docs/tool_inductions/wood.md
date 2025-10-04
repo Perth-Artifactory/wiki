@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-10-01T10:34:40.969Z
+date: 2025-10-04T11:22:03.940Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -253,6 +253,7 @@ Pre:
 1. Inspect bit for damage (Cutting edge, bent)
 1. Set bit to appropriate height/depth of cut for material (hardness) and tool profile (bit)
 1. Lock the bit height using the lock hole
+1. Set speed for selected bit
 1. Set table fence if using
 1. Ensure work area is clear
 1. Consider dust management (no collector or extraction hood on machine). Material will largely go to the left, clear appropriately.
@@ -264,6 +265,7 @@ Using:
 1. The material should be fed against the rotation of the bit, ie the opposite direction to if the bit was a wheel. For external cuts this is right to left. (Inverted from trim/plunge router). Right hand thumb rule can be used to determine bit rotation if unclear
 1. Where possible use the fence for unguided router bits (no bearing)
 1. Consider climb cutting where appropriate (rough wood, may need deeper passes) - Advanced users only
+1. Adjust spindle speed based on cut
 
 After:
 

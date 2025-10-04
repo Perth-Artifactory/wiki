@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-10-04T05:38:10.291Z
+date: 2025-10-04T05:39:35.057Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -187,7 +187,6 @@ Signed off by: Fletcher, ???
 | Gloves (heat)                  | Y | If material is hot |
 | Enclosed shoes                 | Y |  |
 | Safety boots                   | M | Depending on material |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
 | Mask/Respirator (vapours)      | M | Vapour/A1 may be required depending on material |
 | Natural fibre clothing         | M | Sparks etc |
 
@@ -208,7 +207,7 @@ Consumables:
 Pre:
 
 1. Consider [Dangerous Projects](/docs/policies/dangerous_projects) policy
-1. Consult with Fire 🔴 inducted member if working outside
+1. Consult with Fire 🔴 inducted member if working outside (Fletcher and Lewis are backstops)
 1. Ensure you're working at least 5m away from gas bottles etc (Oxygen stored at welding bay etc)
 1. Plan out work surface, will absorb heat
 1. Fit torch to bottle and screw on hand tight - Tips work with propane and MAP gas. (or MAP equiv) Fit LPG torch to LPG bottle

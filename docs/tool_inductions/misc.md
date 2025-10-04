@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-10-04T11:13:07.521Z
+date: 2025-10-04T11:15:30.250Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -247,7 +247,8 @@ Specifically banned materials:
 
 Consumables:
 
-* Gas bottle - BYO or replace AF as used
+* Gas canister - BYO or replace AF as used
+* Gas bottle - $20/hr or refill at Bunnings
 
 Pre:
 

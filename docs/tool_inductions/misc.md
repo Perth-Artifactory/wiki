@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2025-10-04T06:01:21.015Z
+date: 2025-10-04T06:11:32.573Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -187,12 +187,10 @@ After:
 
 1. Return all pressing heads (tools), jack handles, table plates etc. to their proper places.
 
-## Torch (LPG & Propane)
-
-<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+## Torch (LPG & Propane) ✓
 
 Lead: Fletcher Boyd
-Signed off by: Fletcher, ???
+Signed off by: Fletcher, Lewis
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -225,13 +223,15 @@ Pre:
 
 1. Consider [Dangerous Projects](/docs/policies/dangerous_projects) policy
 1. Consult with Fire 🔴 inducted member if working outside (Fletcher and Lewis are backstops)
-1. Ensure you're working at least 5m away from gas bottles etc (Oxygen stored at welding bay etc)
-1. Plan out work surface, will absorb heat
+1. Ensure you're working at least 5m away from gas bottles and flammables liquids (Oxygen stored at welding bay, containers of flammable liquids other members are using etc) - Airborne sawdust is considered a gas in this context
+1. At least 2m away from flammable solids (scrap wood, saw dust)
+1. Plan out work surface, will absorb heat from work and torch
 1. Fit torch to bottle and screw on hand tight - Tips work with propane and MAP gas. (or MAP equiv) Fit LPG torch to LPG bottle
+1. Consider whether you need to bring a fire exstinguisher with you, visually locate nearest if not
 
 Using:
 
-1. Turn on gas a quater turn
+1. Turn on gas a quarter turn
 1. Light torch using lighter or flint (demonstrate both)
 1. Adjust flame to desired length
 1. Hottest part of flame is at the tip of the inner core

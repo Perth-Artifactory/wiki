@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-10-06T08:46:41.299Z
+date: 2025-10-06T08:48:42.619Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -329,15 +329,15 @@ Pre:
 1. Ensure blade is appropriate for material and cut type
 1. Ensure track and material surface are free from sawdust etc
 1. Place material so that saw won't cut tables etc, consider what will happen after the cut
-1. Place track on material and clamp if required (large pieces don't normally slip thanks to the rubber underneath)
+1. Place track on material and clamp if required (large pieces don't normally slip thanks to the rubber on the underside of the track)
 1. Lock saw into plunged position
-1. Adjust blade depth using depth guide (lower/left side is depth if using track, higher/right side is depth without track - use the first one)
 1. Consider 5mm pass first - cleaner surface cut
+1. Adjust blade depth using depth guide (lower/left side is depth if using track, higher/right side is depth without track - use the first one)
 1. Unlock plunge once depth is set
 1. Fit battery
 1. Fit dust bag or vacuum
 1. Use geared guard lever at front of saw to retract blade guard and place on material
-1. Saw should sit so that when plunged the saw spindle is sitting just behind the beginning of the cut (Reduces flex on track)
+1. Saw should sit so that when plunged the saw spindle is sitting just behind the beginning of the cut (Reduces flex on track and ensures cleaner cut as fibres are forced towards the tool/track)
 
 Using:
 

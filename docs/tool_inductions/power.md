@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-10-06T08:48:42.619Z
+date: 2025-10-06T10:57:57.508Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -325,7 +325,7 @@ Consumables:
 
 Pre:
 
-1. Confirm tool is appropriate for cut - 90° only, less powerful but very good at making clean cuts
+1. Confirm tool is appropriate for cut - 90° only, less powerful than our circular saws but very good at making clean cuts
 1. Ensure blade is appropriate for material and cut type
 1. Ensure track and material surface are free from sawdust etc
 1. Place material so that saw won't cut tables etc, consider what will happen after the cut
@@ -351,7 +351,7 @@ Using:
 After:
 
 1. Remove battery
-1. Cleanup includes work surface, floor (if inside), blade guard, tracks
+1. Cleanup includes work surface, floor (if inside), blade guard, tool internals, tracks
 1. Repack tool in box, saw must be fully plunged to fit. Check pictures if unsure.
 
 Advanced operations:

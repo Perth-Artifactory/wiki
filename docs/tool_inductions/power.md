@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-10-04T11:33:27.880Z
+date: 2025-10-06T08:46:41.299Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -302,4 +302,59 @@ Advanced operations:
 
 ## Saw (Track)
 
-Not started: [template](/docs/tool_inductions/guide#template)
+Lead: ???
+Signed off by: Fletcher, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | Flying chips |
+| Ear protection                 | M | Tool noise |
+| Gloves (general)               | M | Material dependant |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material weight dependant |
+| Mask/Respirator (dust)         | M | Material dependant |
+
+Allowed materials:
+
+* Wood (Metal detected or fresh from supplier) - green wood more likely to pinch/kick
+* Plastic
+
+Consumables:
+
+* Saw blade - Provided (Fitted)
+
+Pre:
+
+1. Confirm tool is appropriate for cut - 90° only, less powerful but very good at making clean cuts
+1. Ensure blade is appropriate for material and cut type
+1. Ensure track and material surface are free from sawdust etc
+1. Place material so that saw won't cut tables etc, consider what will happen after the cut
+1. Place track on material and clamp if required (large pieces don't normally slip thanks to the rubber underneath)
+1. Lock saw into plunged position
+1. Adjust blade depth using depth guide (lower/left side is depth if using track, higher/right side is depth without track - use the first one)
+1. Consider 5mm pass first - cleaner surface cut
+1. Unlock plunge once depth is set
+1. Fit battery
+1. Fit dust bag or vacuum
+1. Use geared guard lever at front of saw to retract blade guard and place on material
+1. Saw should sit so that when plunged the saw spindle is sitting just behind the beginning of the cut (Reduces flex on track)
+
+Using:
+
+1. Spin up tool completely before cutting
+1. Plunge to preset depth stop
+1. Push the saw along the track until the cut is complete (spindle center is past the end of the material)
+1. Adjust feed speed based on saw sound, is not overly powerful. Back off and go slower if saw stalls
+1. Saw can typically be used one handed
+1. Let tool come to a stop before removing from material (risk of damage to splinter guard)
+
+After:
+
+1. Remove battery
+1. Cleanup includes work surface, floor (if inside), blade guard, tracks
+1. Repack tool in box, saw must be fully plunged to fit. Check pictures if unsure.
+
+Advanced operations:
+
+1. Blade changes
+1. Connecting tracks (cuts over 1400mm)

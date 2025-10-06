@@ -2,7 +2,7 @@
 title: Air Tools
 description: 
 published: true
-date: 2025-09-13T10:40:06.319Z
+date: 2025-10-06T10:33:50.686Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:26:47.830Z
@@ -39,7 +39,61 @@ Using:
 
 ## Air Nailer
 
-Not started: [template](/docs/tool_inductions/guide#template)
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: ???
+Signed off by: Fletcher, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y |  |
+| Ear protection                 | Y/M | Required for framing, recommended for nail/staple |
+| Enclosed shoes                 | Y |  |
+
+Allowed base/backing materials:
+
+* Wood
+
+Allowed top materials:
+
+* Wood
+* Fabric
+* Other soft material
+
+Specifically banned materials:
+
+* Metal
+* Plastic
+* Materials that shatter (stone etc)
+
+Consumables:
+
+Replace these if you use a bunch of need a specific length.
+
+* Framing nails - Provided/BYO (box underneath Ryobi nail gun bag) - Difficult to buy in small quantities
+* Staples - Provided/BYO (Ryobi nail gun bag)
+* Brad nails - Provided/BYO (Ryobi nail gun bag)
+
+Pre:
+
+1. Check that intended consumable will go far enough (but not too far) into material
+1. Check for blockages
+1. Fit consumable to gun. Nail head should sit firmly against one of the tracks and tip should be pushed to the front (Demonstrate loading of each gun)
+1. Set force if using either nailer, adjuster in front of trigger. Too strong and can cause damage to surface
+1. Check for metal/knots in intended site
+1. Adjust exit port away from operator
+
+Using:
+
+1. Connect tool to air, hand should be far away from trigger while connecting
+1. Press firmly against material and pull trigger
+1. Confirm consumable went in as expected
+1. Monitor consumable level in gun, don't dry fire (can add extra before current set finished)
+
+After:
+
+1. Disconnect from air
+1. Check for blockages/debris
 
 ## Air Paint Gun
 

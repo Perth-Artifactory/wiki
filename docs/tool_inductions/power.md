@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-10-06T10:57:57.508Z
+date: 2025-10-08T02:57:39.500Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -47,7 +47,7 @@ Pre:
 
 1. Select bit appropriate for desired cut
 1. Inspect bit for damage/resin buildup
-1. Set speed for selected bit
+1. Set speed for selected bit (<=18,000rpm if bit is 1-2" wide, up to 24k for smaller, larger is advanced operation)
 1. Fit bit to router
 1. Set min/max depth plunge
 1. Consider workholding, router has lots of sideways force and can shift material
@@ -72,6 +72,13 @@ After:
 1. Cleanup includes bench/ground, tool throws chips everywhere
 1. Remove router bit (may still be hot), return to case
 1. Leave collet nut loose (but on thread)
+
+Advanced operations:
+
+1. Bits over 2"
+1. Templates (better tools exist)
+1. Surfacing (better tools exist)
+1. Inlayed resin
 
 ## Router (Trim) ✓
 

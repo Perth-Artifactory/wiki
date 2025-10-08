@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-10-04T11:22:03.940Z
+date: 2025-10-08T02:33:11.105Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -606,6 +606,8 @@ Using:
 1. Feed stock through machine
 1. Feed material at about 30° if possible to begin with, final passes with the grain (30° effective material removal, with grain cleaner)
 1. Lower drum between each pass, 1/4 to max 1/2 handle turn per pass
+1. Pass depth and feed speed based on tool load, listen
+1. If tool overloaded conveyer will stop and overload light will turn on. Turn machine off, raise drum, adjust parameters, start again.
 1. Repeat steps 9-11 until desired thickness reached
 
 After:

@@ -2,7 +2,7 @@
 title: BYO Tools Policy
 description: 
 published: true
-date: 2025-10-13T13:03:20.352Z
+date: 2025-10-13T13:08:29.325Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-16T12:02:53.064Z
@@ -36,6 +36,7 @@ Exceptions are once off (for that specific instance of the event) and do not car
   * This justification must be approved by a trainer who is authorised to train on the equivalent Artifactory tool.
 * Tools that we would classify as a Medium or High Risk tool, but which are **not** covered by an Artifactory tool induction, cannot be used without approval from a member of the [Infrastructure Subcommittee](/docs/infrastructure/infrastructurev2).
 * Mains-powered tools must have been tested and tagged within the last 6 months.
+* A member can authorise themselves to BYO a tool if they would otherwise be authorised to do so under this policy.
 
 ## Record keeping
 
@@ -50,4 +51,5 @@ The record must include -
 * The timeframe of the authorisation (members only)
 
 ## History
+* 2025-10-13: Post feedback from Loomio
 * 2024-11-16: First draft.

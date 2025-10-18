@@ -2,7 +2,7 @@
 title: Training
 description: What tools require training and how to get it
 published: true
-date: 2024-11-23T06:44:06.938Z
+date: 2025-10-18T07:37:46.983Z
 tags: official
 editor: markdown
 dateCreated: 2024-01-08T14:46:10.755Z
@@ -29,7 +29,7 @@ These tools can easily hurt you, others, or the tool. To use these tools you mus
 
 ### High Risk 🔴
 
-These tools can cause serious injury, are easy to damage, or both. An induction is **required** before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere. Only specific people are authorised to train on specific high risk tools.
+These tools can cause serious injury, are easy to damage, or both. An induction with an authorised trainer is **required** before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere.
 
 ## Requesting Training
 
@@ -71,3 +71,4 @@ Where an actual or potential conflict of interest exists, the outcome of the tra
 * Added a reference to the [full list of tools](/tools).
 * [2024-08-10](/minutes/Committee/2024-08-10) - Added section regarding *Refresher training and training expiry*, *Trainer appointments and training requirements*, and *Conflicts of interest for trainers*.
 * 2024-11-16: Removed reference to "Authorized Operator Lists". These are no longer maintained on the wiki. Training status is now looked up via the Training Tracker bot on Slack.
+* [2025-10-25](/minutes/Committee/2025-10-25) Clarified wording on who can train on high risk tools.

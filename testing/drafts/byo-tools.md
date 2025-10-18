@@ -2,7 +2,7 @@
 title: BYO Tools Policy
 description: 
 published: true
-date: 2025-10-13T13:08:29.325Z
+date: 2025-10-18T07:41:38.118Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-16T12:02:53.064Z
@@ -20,8 +20,7 @@ Low Risk 🟢, Medium Risk 🟡, and High Risk 🔴 are defined in the [Training
 
 In most circumstances Casual / Day Pass users are not allowed to BYO tools. Exceptions may be made to facilitate specific events and activities (e.g. Women's Woodworking, Arduino U) by a member of the Management Committee or relevant event host.
 
-The casual attendee will be treated as a member for the purposes of this policy, all other restrictions still apply.
-Exceptions are once off (for that specific instance of the event) and do not carry over to other events or days.
+The casual attendee will be treated as a member for the purposes of this policy, all other restrictions still apply. Exceptions are once off (for that specific instance of the event) and do not carry over to other events or days.
 
 ## Low Risk tools 🟢
 

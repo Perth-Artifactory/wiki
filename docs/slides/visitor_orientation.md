@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-08-02T07:59:09.384Z
+date: 2025-10-22T10:13:19.496Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -211,7 +211,18 @@ You may need refresher training if -
 * The tool changes significantly, or
 * The safe work procedure for the tool has changed.
 
-We'll typically let you know via TidyHQ if you need refresher training.
+We may let you know via TidyHQ if you need refresher training. (depending on when you were last in the workshop)
+
+## BYO tools
+
+* Casual attendees can only BYO tools if authorised by a committee member or event host
+* Low risk tools do not need further approval
+
+##
+
+* Medium and high risk tools require an approval process before they can be used
+* You need to hold the relevant Artifactory induction and justify why our version of the tool isn't suitable to a trainer
+* Reach out to a committee member if you're unsure on a tool classification or wish to bring in a medium/high risk tool
 
 # Communal Materials
 

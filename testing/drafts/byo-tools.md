@@ -2,7 +2,7 @@
 title: BYO Tools Policy
 description: 
 published: true
-date: 2025-10-18T07:41:38.118Z
+date: 2025-10-22T09:42:45.371Z
 tags: 
 editor: markdown
 dateCreated: 2024-11-16T12:02:53.064Z
@@ -50,5 +50,4 @@ The record must include -
 * The timeframe of the authorisation (members only)
 
 ## History
-* 2025-10-13: Post feedback from Loomio
-* 2024-11-16: First draft.
+* [2025-10-21](/minutes/Committee/2025-10-25) Adopted via online vote

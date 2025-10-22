@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2025-07-20T04:54:46.758Z
+date: 2025-10-22T09:44:52.717Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -15,6 +15,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | 24/7 Access                                                | See below                                                                                                                                          |
 | Asynchronous online-only motions (online committee voting) | [Administration - Asynchronous online-only motions](https://wiki.artifactory.org.au/docs/policies/administration#asynchronous-online-only-motions) |
 | Automotive projects                                        | [Automotive Projects](/docs/policies/automotive-projects)                                                                                          |
+| BYO Tools                                                  | [BYO Tools](/docs/policies/byo-tools) |
 | Car park                                                   | [Storage - Car Park](/docs/policies/storage#car-park)                                                                                              |
 | Casual Makers (Day Pass)                                   | [Fees - Workshop usage fees](/docs/policies/fees#workshop-usage-fees)                                                                              |
 | Ceasing membership + the member's projects                 | [Storage - Direction to remove property](/docs/policies/storage#direction-to-remove-property)                                                      |

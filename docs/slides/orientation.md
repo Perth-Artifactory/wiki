@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-10-22T10:02:39.331Z
+date: 2025-10-27T10:44:45.303Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -159,6 +159,10 @@ TidyHQ is the system where you signed up as a member.
 ## Resignation
 
 We operate on a month-to-month basis which means there's no penalty for deciding you'd like to cancel or pause your membership. If you want to do either of these please **let us know** rather than just disappearing. Remember it's always a volunteer following up on overdue invoices.
+
+## Smoke free {data-background-image="https://wiki.artifactory.org.au/no_smoking.png"}
+
+Please do not smoke anywhere in the shaded area. You can vape in the carpark/courtyard provided it does not adversly affect other attendees. (away from entrances, consider breeze)
 
 # Reporting
 

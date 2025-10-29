@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-10-27T12:06:30.736Z
+date: 2025-10-29T08:49:23.757Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -343,6 +343,13 @@ Slack is the number one point of contact for anything and everything Artifactory
 If you would like to be trained on a certain machine, report a fault with the equipment, or even need input and advice for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
 
 artifactory.org.au/slack
+
+## Slack badges
+
+* ![slack_purplea.png](/docs/slides/slack_purplea.png =32x) New members (you)
+* ![slack_reda.png](/docs/slides/slack_reda.png =32x) Inducted members (you at the end of this induction)
+* ![slack_blacka-hex.png](/docs/slides/slack_blacka-hex.png =32x) People that volunteer 10h+ a month and other core volunteers
+* ![slack_reda-hex.png](/docs/slides/slack_reda-hex.png =32x) Committee members
 
 ## Social Media
 

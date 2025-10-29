@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-10-22T10:13:19.496Z
+date: 2025-10-29T08:37:24.803Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -135,6 +135,12 @@ It's your responsibility to update this information in TidyHQ when it changes.
 * Your emergency contact information
 
 TidyHQ is the system you used when you signed up as a visitor.
+
+## Smoke free 
+
+Please do not smoke anywhere in the shaded area. You can vape in the carpark/courtyard provided it does not adversly affect other attendees. (away from entrances, consider breeze)
+
+## {data-background-image="https://wiki.artifactory.org.au/no_smoking.png" data-background-size="contain"}
 
 # Reporting Injuries
 

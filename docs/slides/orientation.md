@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-11-05T05:24:34.342Z
+date: 2025-11-05T08:56:33.330Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -350,7 +350,6 @@ artifactory.org.au/slack
 <img width="64" alt="White Artifactory A on a black hexagon" src="https://wiki.artifactory.org.au/docs/slides/slack_blacka-hex.png"> People that volunteer 10h+ a month and other core volunteers
 
 <img width="64" alt="White Artifactory A on a red hexagon" src="https://wiki.artifactory.org.au/docs/slides/slack_reda-hex.png"> Committee members
-
 
 ## Social Media
 

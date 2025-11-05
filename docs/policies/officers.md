@@ -2,7 +2,7 @@
 title: Officers
 description: 
 published: true
-date: 2025-03-26T02:13:15.413Z
+date: 2025-11-05T08:35:48.582Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:39.410Z
@@ -77,14 +77,6 @@ Defined at committee meeting 2019-10-02
 
 * Open and administer trade accounts on behalf of the Artifactory provided that they do not include a line of credit
 * Communicate with suppliers and commercial donors on behalf of the Artifactory.
-
-## Rehearsal Room Coordinator(s)
-
-Defined at committee meeting 2018-10-27
-
-* Advocate for band members
-* Monitor the [rehearsal inbox](mailto:rehearsal@artifactory.org.au)
-* Coordinate rehearsal room casual usage
 
 ## History
 

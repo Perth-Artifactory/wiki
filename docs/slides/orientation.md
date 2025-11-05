@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-11-05T05:12:06.730Z
+date: 2025-11-05T05:14:58.388Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -320,9 +320,6 @@ We'll let you know if you need refresher training.
 * Laser scrap rack - Flat pieces of material of useful size
 * Hack rack - Fans, power supplies, scrap wood etc
 * Upcycle rack - Old pieces of equipment that can be taken apart for components
-
-##
-
 * Cleaning products are in the kitchen
 * Spray paint is stored in the filing cabinet in the back shed - unless labelled with someone's name.
 

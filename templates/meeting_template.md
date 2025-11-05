@@ -195,13 +195,6 @@ Reports to be emailed in for review of committee when officer does not attend me
 * REPORT ITEM
   * DETAILS
 
-### Rehearsal Room Coordinators
-
-* REPORT ITEM
-  * DETAILS
-* REPORT ITEM
-  * DETAILS
-
 ### Quartermasters
 
 * REPORT ITEM

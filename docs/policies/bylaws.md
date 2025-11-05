@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2025-10-22T09:44:52.717Z
+date: 2025-11-05T08:42:52.939Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -33,7 +33,6 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Minors (children) in the space                             | See below                                                                                                                                          |
 | NeverNever (historical donations)                          | See below                                                                                                                                          |
 | Physical keys                                              | See below                                                                                                                                          |
-| Rehearsal room - casual usage                              | See below                                                                                                                                          |
 | Subcommittees                                              | [Subcommittees](/docs/policies/subcommittees)                                                                                                      |
 | Tool usage fees                                            | [Fees - Tool usage fees](/docs/policies/fees#tool-usage-fees)                                                                                      |
 | Training (tool inductions)                                 | [Training](/docs/policies/training)                                                                                                                |
@@ -82,22 +81,9 @@ Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membershi
 
 ------------------------------------------------------------------------
 
-## Rehearsal Room - Casual Usage
-
-Last modified at committee meeting 2019-06-22.
-
-The rehearsal room can be used on a casual basis:
-
-- Groups come through on a per session trial basis under supervision of a Rehearsal Room Coordinator or Management Committee member
-- 3 hour cut off limit unless otherwise arranged
-- Regular price: \$40/session
-- Where **at least** 50% of the group hold ordinary (full/concession) Artifactory memberships: \$20/session
-
-------------------------------------------------------------------------
-
 ## 24/7 Access
 
-Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
+Last modified at the [2025-10-25](/minutes/Committee/2025-10-25) meeting of the Management Committee.
 
 - Separate to the application process detailed below the committee may grant 24/7 access to anyone performing a task on behalf of the organisation for the purpose of performing that task. (eg. external event hosts, contractors)
 - All ordinary and sponsored members may apply to the committee for 24/7 access to the space. The committee will approve the application provided that the member -
@@ -123,14 +109,13 @@ Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membershi
 | -------------------------------- | ---- |
 | Full Membership                  | $225 |
 | Concession Membership            | $135 |
-| Band Membership                  | $100 |
 | Sponsored Student Membership     | $135 |
 
 ------------------------------------------------------------------------
 
 ## Minors in the space
 
-Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
+Last modified at the [2025-10-25](/minutes/Committee/2025-10-25) meeting of the Management Committee.
 
 Our space is a collaborative workshop, not a child care service. Minors (people under the age of 18) are welcome to attend and participate in the space, provided they are supervised by a responsible guardian.
 
@@ -161,7 +146,7 @@ Different levels of supervision are required based on the area and the activitie
 |   | Minors – Under 13 years | Minors – Under 18 years |
 | - | ----------------------- | ----------------------- |
 | **Low risk areas** <ul><li>Social Area</li><li>Design Lab</li><li>Kitchen</li><li>Project area</li><li>Rear Courtyard</li></ul> | General supervision | General supervision |
-| **Medium risk areas** <ul><li>Rehearsal room</li><li>Electronics / 3D printing lab</li><li>Laser area</li></ul> | Active Supervision | General supervision | 
+| **Medium risk areas** <ul><li>Craft room</li><li>Electronics / 3D printing lab</li><li>Laser area</li></ul> | Active Supervision | General supervision | 
 | **High risk areas** <ul><li>Machining bay</li><li>Welding bay</li><li>Machine room</li><li>Any area temporarily declared to be an active supervision area.</li></ul> | Active Supervision | Active Supervision |
 
 ------------------------------------------------------------------------

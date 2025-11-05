@@ -270,7 +270,7 @@ News and discussions on events.
 
 ### Tech
 
-* Arduino U - (Coordinators: Blake, Stewart) -
+* Arduino U - (Coordinators: Blake, Stewart) - 
 
 ### Social
 
@@ -284,14 +284,15 @@ News and discussions on events.
 
 ### Music
 
-* DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits) -
+* DIY Synth (Coordinator: Nathan Thompson, Andrew nonlinearcircuits) - 
 
 ### General
 
-* General Hacking Day (Coordinator: Committee) -
-* Open Day (Coordinator: Fletcher) -
-* Metal Monday (Coordinator: Ben, Lewis) -
+* General Hacking Day (Coordinator: Committee) - 
+* Open Day (Coordinator: Fletcher) - 
+* Metal Monday (Coordinator: Ben, Lewis) - 
 * Wednesday Woodworking (Coordinators: Renae, Penny, Alice) - 
+* Showcase Saturday (Coordinators: Fletcher) - 
 
 ### Other
 

@@ -2,7 +2,7 @@
 title: Administration
 description: 
 published: true
-date: 2025-08-18T15:35:50.254Z
+date: 2025-11-05T08:37:57.355Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:03.205Z
@@ -64,12 +64,11 @@ Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membershi
 
 ## Event Authorisations
 
-Last modified at the [2025-03-22](/minutes/Committee/2025-03-22#by-law-membership-class-cleanup) meeting of the Management Committee.
+Last modified at the [2025-10-25](/minutes/Committee/2025-10-25) meeting of the Management Committee.
 
 * Any committee member may authorise a new workshop or event if it:
   * will bring in the day pass minimum rate per attendee (excluding members)
   * does not require exclusive access of the Artifactory
   * does not conflict with another event/workshop unless the hosts of the other event see no conflict
   * will not conflict with attendees using loud tools (eg. mill, welders)
-  * does not require the rehearsal room to be reserved
 * The Chair and any three other committee members may waive the above rules if it is considered beneficial to the Artifactory to do so. The decision must be documented at the next regular committee meeting

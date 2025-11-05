@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-11-05T05:17:55.014Z
+date: 2025-11-05T05:24:34.342Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -343,21 +343,13 @@ artifactory.org.au/slack
 
 ## Slack badges
 
-<img width="64" alt="Purple Artifactory A" src="https://wiki.artifactory.org.au/docs/slides/slack_purplea.png">
+<img width="64" alt="Purple Artifactory A" src="https://wiki.artifactory.org.au/docs/slides/slack_purplea.png"> New members (you)
 
-New members (you)
+<img width="64" alt="Red Artifactory A" src="https://wiki.artifactory.org.au/docs/slides/slack_reda.png"> Inducted members (you at the end of this induction)
 
-<img width="64" alt="Red Artifactory A" src="https://wiki.artifactory.org.au/docs/slides/slack_reda.png">
+<img width="64" alt="White Artifactory A on a black hexagon" src="https://wiki.artifactory.org.au/docs/slides/slack_blacka-hex.png"> People that volunteer 10h+ a month and other core volunteers
 
-Inducted members (you at the end of this induction)
-
-<img width="64" alt="White Artifactory A on a black hexagon" src="https://wiki.artifactory.org.au/docs/slides/slack_blacka-hex.png"> 
-
-People that volunteer 10h+ a month and other core volunteers
-
-<img width="64" alt="White Artifactory A on a red hexagon" src="https://wiki.artifactory.org.au/docs/slides/slack_reda-hex.png"> 
-
-Committee members
+<img width="64" alt="White Artifactory A on a red hexagon" src="https://wiki.artifactory.org.au/docs/slides/slack_reda-hex.png"> Committee members
 
 
 ## Social Media

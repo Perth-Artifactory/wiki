@@ -2,7 +2,7 @@
 title: Classes of membership
 description: 
 published: true
-date: 2025-03-26T02:01:59.167Z
+date: 2025-11-05T08:46:33.978Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:21.933Z
@@ -53,31 +53,6 @@ This page defines the classes of membership made by the committee, and some of t
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
 | **Maximum number of members in this class of membership** | No limit. |
 
-### Band Membership
-
-Description: The Artifactory Rehearsal Room is a shared rehearsal space, used by bands with band membership of the Perth Artifactory. Use of Artifactory tools/equipment etc is encouraged, but charged at the day pass rates.
-
-|      |      |
-| ---- | ---- |
-| **Eligibility criteria** | Any person over 18 years of age, who represents a band. (The *nominated contact person* for the band.) All members of the band must be over the age of 18 or supervised by a parent/guardian as per our [by-laws](/docs/policies/bylaws#minors-in-the-space). |
-| **Special rules for this class of membership** | N/A |
-| **Type of membership (ordinary or associate)** | The *nominated contact person* in the band is an *ordinary member* |
-| **Membership fee** | $100 per month, payable monthly. |
-| **Use of communal areas - social area, kitchenette, and toilet facilities** | Yes |
-| **Use of the indoor and outdoor workshop areas** | Social use (Day Pass required for projects) |
-| **Use of workshop tools, equipment, computers, etc.** | Day Pass required |
-| **Tool usage fees** | The "**day pass** rates" listed under [Tool Usage Fees](/docs/policies/fees). |
-| **Can store property at the space** | No |
-| **Use of rehearsal room** | Yes - three bookings per month. Additional bookings subject to availability. |
-| **Fees to attend Artifactory-run events and workshops** | Free entry for band members to ModSynth building nights held on the Artifactory premises. Otherwise, the non-member rate for the event. |
-| **Eligible for 24/7 access** | A single key per band used only for accessing the space when a rehearsal is booked. Issue of keys is subject to our [by-laws](/docs/policies/bylaws). Secondary keys may be issued at the discretion of the Management Committee. |
-| **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
-| **Maximum number of members in this class of membership** | 2 |
-
-* Band membership entitles each band to the following:
-  * 4 rehearsal slots/month;
-  * Extra bookings may be made if a slot is free, no earlier than 48 hours in advance of the time you are booking
-
 ## Classes of associate membership
 
 ### Associate Membership - Sponsored Student Membership
@@ -123,6 +98,10 @@ Description: The Ambassador is appointed by committee and required to promote th
 | **Maximum number of members in this class of membership** | As determined by the committee |
 
 ## Revision history
+
+### 2025-10-25
+
+* Band Membership was removed
 
 ### 2025-03-22
 

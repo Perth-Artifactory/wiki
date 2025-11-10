@@ -2,7 +2,7 @@
 title: Classes of membership
 description: 
 published: true
-date: 2025-11-05T08:46:33.978Z
+date: 2025-11-10T05:49:28.270Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:21.933Z
@@ -28,7 +28,6 @@ This page defines the classes of membership made by the committee, and some of t
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
 | **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](/docs/policies/fees). |
 | **Can store property at the space** | Yes; see [member storage entitlements](/docs/policies/storage#member-storage-entitlements) |
-| **Use of rehearsal room** | No |
 | **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](/docs/policies/bylaws). |
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
@@ -47,7 +46,6 @@ This page defines the classes of membership made by the committee, and some of t
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
 | **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](/docs/policies/fees). |
 | **Can store property at the space** | Yes; see [member storage entitlements](/docs/policies/storage#member-storage-entitlements) |
-| **Use of rehearsal room** | No |
 | **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](/docs/policies/bylaws). |
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
@@ -70,7 +68,6 @@ This page defines the classes of membership made by the committee, and some of t
 | **Use of workshop tools, equipment, computers, etc.** | Yes. Some tools require you to be trained, deemed competent, and authorised before use. |
 | **Tool usage fees** | The "member rates" listed under [Tool Usage Fees](/docs/policies/fees). |
 | **Can store property at the space** | Yes; see [member storage entitlements](/docs/policies/storage#member-storage-entitlements) |
-| **Use of rehearsal room** | No. |
 | **Fees to attend Artifactory-run events and workshops** | Member rate for the event - which may be free or discounted, depending on the event. |
 | **Eligible for 24/7 access** | On application, subject to our [by-laws](/docs/policies/bylaws). |
 | **Amount of bond for 24/7 access** | Refer to the [by-laws](/docs/policies/bylaws). |
@@ -91,13 +88,16 @@ Description: The Ambassador is appointed by committee and required to promote th
 | **Use of workshop tools, equipment, computers, etc.** | As determined by the committee |
 | **Tool usage fees** | As determined by the committee |
 | **Can store property at the space** | As determined by the committee |
-| **Use of rehearsal room** | As determined by the committee |
 | **Fees to attend Artifactory-run events and workshops** | As determined by the committee |
 | **Eligible for 24/7 access** | As determined by the committee |
 | **Amount of bond for 24/7 access** | As determined by the committee |
 | **Maximum number of members in this class of membership** | As determined by the committee |
 
 ## Revision history
+
+### 2025-11-22
+
+* References to the rehearsal room were removed
 
 ### 2025-10-25
 

@@ -2,7 +2,7 @@
 title: IT Subcommittee
 description: 
 published: true
-date: 2025-12-14T06:39:43.839Z
+date: 2025-12-14T06:41:56.992Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-01T10:47:56.241Z
@@ -14,7 +14,7 @@ dateCreated: 2022-11-01T10:47:56.241Z
 | -------------------------------------------- | ----------------------------------- | ----- |
 | Nick Bannon                                  | Yes                                 | None  |
 | Blake Samuels                                | Yes                                 | None  |
-| Fletcher Boyd                                | Yes                                 | Chair |
+| Fletcher Boyd (Chair)                        | Yes                                 | Chair |
 | Thomas White (appointed 2023-07-28)          | Yes                                 | None  |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*

@@ -2,7 +2,7 @@
 title: IT Subcommittee
 description: 
 published: true
-date: 2024-09-14T07:28:35.984Z
+date: 2025-12-14T06:39:43.839Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-01T10:47:56.241Z
@@ -10,12 +10,12 @@ dateCreated: 2022-11-01T10:47:56.241Z
 
 ## Members
 
-| Name                                         | Contact details on file in TidyHQ † |
-| -------------------------------------------- | ----------------------------------- |
-| Nick Bannon                                  | Yes                                 |
-| Blake Samuels                                | Yes                                 |
-| Fletcher Boyd                                | Yes                                 |
-| Thomas White (appointed 2023-07-28)          | Yes                                 |
+| Name                                         | Contact details on file in TidyHQ † | Expense authority |
+| -------------------------------------------- | ----------------------------------- | ----- |
+| Nick Bannon                                  | Yes                                 | None  |
+| Blake Samuels                                | Yes                                 | None  |
+| Fletcher Boyd                                | Yes                                 | Chair |
+| Thomas White (appointed 2023-07-28)          | Yes                                 | None  |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
 {.is-info}
@@ -45,3 +45,4 @@ Our IT setup is currently documented on [GitHub](https://github.com/perth-artifa
 ## History
 
 * Vincent Dalstra was excused from the IT subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
+* [2025-12-14](/minutes/Committee/2025-12-14) - Fletcher Boyd appointed as chairperson.

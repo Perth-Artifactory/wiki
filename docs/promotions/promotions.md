@@ -2,7 +2,7 @@
 title: Promotions Subcommittee
 description: 
 published: true
-date: 2025-09-13T06:58:36.295Z
+date: 2025-12-14T06:40:50.328Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:51:50.764Z
@@ -10,11 +10,11 @@ dateCreated: 2022-10-17T16:51:50.764Z
 
 ## Members
 
-| Name                  | Contact details on file in TidyHQ † |
-| --------------------- | ----------------------------------- |
-| Penny Wood            | Yes                                 |
-| Johannes Chuah        | Yes                                 |
-| Tegan Murphy (appointed [2025-09-13](/minutes/Committee/2025-09-13)) | Yes |
+| Name                  | Contact details on file in TidyHQ † | Expense authority |
+| --------------------- | ----------------------------------- | ----- |
+| Penny Wood            | Yes                                 | None |
+| Johannes Chuah (Chair)       | Yes                                 | Chair |
+| Tegan Murphy (appointed [2025-09-13](/minutes/Committee/2025-09-13)) | Yes | None |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
 {.is-info}
@@ -77,3 +77,4 @@ Indefinite.
 
 * Phoebe-Jean Harris was excused from the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
 * Penny Wood was appointed to the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
+* [2025-12-24](/minutes/Committee/2025-12-14) - Johannes Chuah appointed as chairperson of the subcommittee.

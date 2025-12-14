@@ -2,7 +2,7 @@
 title: 3D Printers Subcommittee
 description: 
 published: true
-date: 2025-12-14T06:38:40.535Z
+date: 2025-12-14T06:41:46.435Z
 tags: official
 editor: markdown
 dateCreated: 2024-05-04T14:24:23.999Z
@@ -12,9 +12,9 @@ dateCreated: 2024-05-04T14:24:23.999Z
 
 | Name                              | Contact details on file in TidyHQ † | Expense Authority        |
 | --------------------------------- | ----------------------------------- | ------------------------ |
-| Fletcher Boyd (Chair)             | Yes                                 | None                     |
+| Fletcher Boyd                     | Yes                                 | None                     |
 | Sophie Murday                     | Yes                                 | None                     |
-| Tom White                         | Yes                                 | Chair                    |
+| Tom White (Chair)                 | Yes                                 | Chair                    |
 | Penny Wood                        | Yes                                 | None                     |
 | Ross Minney                       | Yes                                 | None                     |
 

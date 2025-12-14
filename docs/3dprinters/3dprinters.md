@@ -2,7 +2,7 @@
 title: 3D Printers Subcommittee
 description: 
 published: true
-date: 2025-06-16T11:41:45.214Z
+date: 2025-12-14T06:38:40.535Z
 tags: official
 editor: markdown
 dateCreated: 2024-05-04T14:24:23.999Z
@@ -12,9 +12,9 @@ dateCreated: 2024-05-04T14:24:23.999Z
 
 | Name                              | Contact details on file in TidyHQ † | Expense Authority        |
 | --------------------------------- | ----------------------------------- | ------------------------ |
-| Fletcher Boyd (Chair)             | Yes                                 | Chair                    |
+| Fletcher Boyd (Chair)             | Yes                                 | None                     |
 | Sophie Murday                     | Yes                                 | None                     |
-| Tom White                         | Yes                                 | $100, printer parts only |
+| Tom White                         | Yes                                 | Chair                    |
 | Penny Wood                        | Yes                                 | None                     |
 | Ross Minney                       | Yes                                 | None                     |
 
@@ -50,3 +50,4 @@ The 3D Printers subcommittee will:
 * This subcommittee was created on [2024-05-04](/minutes/Committee/2024-05-04) with the initial members being Fletcher Boyd, Sophie Murday, Tom White, and Penny Wood.
 * Ross Minney was appointed via online motion on 2024-05-07 (documented [2024-06-08](/minutes/Committee/2024-06-08)).
 * [2024-08-10](/minutes/Committee/2024-08-10) - The 3D Printing subcommittee is now also responsible for 3D scanners.
+* [2025-12-14](/minutes/Committee/2025-12-14) - Tom White appointed as chairperson. Fletcher Boyd reverted to general subcommittee member.

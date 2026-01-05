@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-01-05T02:19:38.211Z
+date: 2026-01-05T02:20:06.420Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -314,7 +314,7 @@ Member Portal - Training
 
 ![member_portal_training.png](/docs/slides/member_portal_training.png)
 
-perart.io/check_training (Fletcher: Retarget link to Member Portal)
+perart.io/check_training
 
 ## Training refreshers and training expiry
 

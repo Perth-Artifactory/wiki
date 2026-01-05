@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-12-25T10:01:12.255Z
+date: 2026-01-05T02:19:38.211Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -190,6 +190,8 @@ Please do not smoke anywhere in the shaded area. You can vape in the carpark/cou
 
 Most things are reported/requested via a form system built into Slack. Further slides will just list the form name.
 
+The exception is requests that have migrated to the Member Portal.
+
 ![](https://wiki.artifactory.org.au/taiga_form.png)
 
 ## Injuries
@@ -212,7 +214,7 @@ The what, where, when, and how of leaving things in the space
 
 Members can request a personal storage locker (subject to availability)
 
-Form: Request a locker
+Member Portal -> Profile
 
 ## Sheet material racks
 
@@ -395,8 +397,7 @@ Some event hosts will ask that you RSVP for certain events. Most of these event 
 Your Member Work directory can be accessed in a few different ways:
 
 * From any computer in the space (Typically mounted as either "filer" or "Member Work")
-* From your device when connected to the WiFi. 
-* By sending files to the user File Butler on Slack.
+* Through the Member Portal
 
 ## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
 

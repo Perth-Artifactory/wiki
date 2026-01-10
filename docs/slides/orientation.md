@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-01-10T11:14:21.049Z
+date: 2026-01-10T11:15:14.947Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z

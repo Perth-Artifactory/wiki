@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-01-05T02:20:06.420Z
+date: 2026-01-10T11:14:21.049Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -140,7 +140,7 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 https://members.artifactory.org.au/ or the **Member Portal** app in Slack
 
-![member_portal_slack.png](/docs/slides/member_portal_slack.png)
+![member_portal_slack.png](https://wiki.artifactory.org.au/docs/slides/member_portal_slack.png)
 
 ## Member Portal
 
@@ -312,7 +312,7 @@ perart.io/trainingchannel
 
 Member Portal - Training
 
-![member_portal_training.png](/docs/slides/member_portal_training.png)
+![member_portal_training.png](https://wiki.artifactory.org.au/docs/slides/member_portal_training.png)
 
 perart.io/check_training
 
@@ -419,5 +419,5 @@ Walk around and look at -
 * Laser scrap rack
 * Hack rack
 * Upcycle rack
-* "To-do" whiteboard at front of space
+* Whiteboard at front of space
 * AED in front carpark

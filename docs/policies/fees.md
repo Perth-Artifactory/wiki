@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2025-11-05T08:40:27.680Z
+date: 2025-12-17T15:43:05.457Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -52,7 +52,7 @@ Cost basis:
 
 Member rate:
 
-* Included in all [classes of membership](/docs/policies/classes_of_membership) bar Band Membership.
+* Included in all [classes of membership](/docs/policies/classes_of_membership)
 
 Day Pass:
 

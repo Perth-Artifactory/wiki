@@ -2,7 +2,7 @@
 title: Perth Artifactory
 description: Welcome to the wiki!
 published: true
-date: 2025-05-28T01:46:29.780Z
+date: 2025-12-16T06:53:25.185Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-06T13:21:41.820Z
@@ -27,7 +27,7 @@ Mobile users can get to the site navigation using the button shown below.
 
 ## Editing
 
-Anyone with a Slack account can edit our wiki!
+Anyone with a Member Portal account can edit our wiki!
 
 ## General information
 

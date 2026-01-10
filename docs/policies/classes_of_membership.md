@@ -2,7 +2,7 @@
 title: Classes of membership
 description: 
 published: true
-date: 2025-11-10T05:49:28.270Z
+date: 2025-12-23T01:17:12.744Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:21.933Z
@@ -37,7 +37,7 @@ This page defines the classes of membership made by the committee, and some of t
 
 |      |      |
 | ---- | ---- |
-| **Eligibility criteria** | Any person over 18 years of age, who a) is a student, or b) is retired, or c) holds any type of [concession/health care card issued by Services Australia](https://www.servicesaustralia.gov.au/concession-and-health-care-cards?context=60091), or d) is otherwise deemed eligible for concession membership by the committee. |
+| **Eligibility criteria** | Any person over 18 years of age, who <br>a) is a student, or <br>b) is retired, or <br>c) holds any type of [concession/health care card issued by Services Australia](https://www.servicesaustralia.gov.au/concession-and-health-care-cards?context=60091), or <br>d) is otherwise deemed eligible for concession membership by the committee. |
 | **Special rules for this class of membership** | N/A |
 | **Type of membership (ordinary or associate)** | Ordinary |
 | **Membership fee** | $45 per month, payable monthly or annually. |

@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-11-05T08:56:33.330Z
+date: 2026-01-05T02:20:06.420Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -136,9 +136,27 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 # Finance and Admin
 
+## Member Portal
+
+https://members.artifactory.org.au/ or the **Member Portal** app in Slack
+
+![member_portal_slack.png](/docs/slides/member_portal_slack.png)
+
+## Member Portal
+
+* Events
+* Training
+* Volunteering
+* Slack channels
+* Fundraising
+* Finance
+* Personal details
+
 ## Membership dues
 
-Your membership dues are not paid automatically. Our preferred method of payment is via a scheduled bank transfer, on the monthly date of joining. (Bank details are on your membership invoices)
+Your membership dues are not paid automatically.
+* Our preferred method of payment is via a scheduled bank transfer, on the monthly date of joining.
+* Bank details are on your membership invoices, or the "Finance" page of Member Portal.
 
 ## Paying for tool usage
 
@@ -148,7 +166,7 @@ Please use the bank account rather than the EFTPOS when paying for tool usage. T
 
 ## Keep your contact details up to date
 
-It's your responsibility to update this information in TidyHQ when it changes.
+It's your responsibility to update this information in our Member Portal / TidyHQ when it changes.
 
 * Your full name
 * Your contact information (email and physical address)
@@ -172,6 +190,8 @@ Please do not smoke anywhere in the shaded area. You can vape in the carpark/cou
 
 Most things are reported/requested via a form system built into Slack. Further slides will just list the form name.
 
+The exception is requests that have migrated to the Member Portal.
+
 ![](https://wiki.artifactory.org.au/taiga_form.png)
 
 ## Injuries
@@ -194,7 +214,7 @@ The what, where, when, and how of leaving things in the space
 
 Members can request a personal storage locker (subject to availability)
 
-Form: Request a locker
+Member Portal -> Profile
 
 ## Sheet material racks
 
@@ -290,9 +310,9 @@ perart.io/trainingchannel
 
 ## How to check your existing training
 
-Search for Training Tracker on Slack
+Member Portal - Training
 
-![](https://perart.io/check_training/qr-code)
+![member_portal_training.png](/docs/slides/member_portal_training.png)
 
 perart.io/check_training
 
@@ -377,8 +397,7 @@ Some event hosts will ask that you RSVP for certain events. Most of these event 
 Your Member Work directory can be accessed in a few different ways:
 
 * From any computer in the space (Typically mounted as either "filer" or "Member Work")
-* From your device when connected to the WiFi. 
-* By sending files to the user File Butler on Slack.
+* Through the Member Portal
 
 ## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
 

@@ -2,7 +2,7 @@
 title: Promotions Subcommittee
 description: 
 published: true
-date: 2025-12-14T06:40:50.328Z
+date: 2026-01-21T02:31:02.221Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:51:50.764Z
@@ -77,4 +77,4 @@ Indefinite.
 
 * Phoebe-Jean Harris was excused from the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
 * Penny Wood was appointed to the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
-* [2025-12-24](/minutes/Committee/2025-12-14) - Johannes Chuah appointed as chairperson of the subcommittee.
+* [2025-12-14](/minutes/Committee/2025-12-14) - Johannes Chuah appointed as chairperson of the subcommittee.

@@ -2,7 +2,7 @@
 title: Associate Memberships Panel
 description: 
 published: true
-date: 2024-09-14T07:30:48.590Z
+date: 2026-01-21T02:30:33.643Z
 tags: 
 editor: markdown
 dateCreated: 2022-11-26T13:27:04.702Z
@@ -12,7 +12,7 @@ dateCreated: 2022-11-26T13:27:04.702Z
 
 | Name                  | Contact details on file in TidyHQ † |
 | --------------------- | ----------------------------------- |
-| Ben Connor            | Yes                                 |
+| Ben Connor (chair)    | Yes                                 |
 | Johannes Chuah        | Yes                                 |
 | Renae Currie          | Yes                                 |
 
@@ -44,3 +44,4 @@ This panel was previous referred to as the Sponsored Memberships Committee / Spo
 ## History
 
 * Renae Currie and Johannes Chuah were appointed to the Associate Memberships Panel on [2024-09-14](/minutes/Committee/2024-09-14).
+* Ben Connor [appointed as chairperson](https://vote.artifactory.org.au/p/xp76jWVL/appoint-ben-connor-as-chairperson-of-the-associate-member-panel-subcommittee) on 2025-12-18, as discussed [2025-12-14](/minutes/Committee/2025-12-14).

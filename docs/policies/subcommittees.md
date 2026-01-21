@@ -2,7 +2,7 @@
 title: Subcommittees
 description: 
 published: true
-date: 2025-03-26T03:40:03.564Z
+date: 2026-01-21T02:27:21.954Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:57.686Z
@@ -54,12 +54,22 @@ A subcommittee ---
 
 * must have at least two members.
 * must include at least one committee member.
+* must have a chairperson.
 * may include any person the committee considers appropriate, whether the person is a member or not.
 
 A person may be appointed to, or removed from, a subcommittee ---
 
 * By the committee; or
 * By the subcommittee, subject to approval by the committee.
+
+A person may be appointed as the chairperson of a subcommittee ---
+
+* By the committee; or
+* By the subcommittee, subject to approval by the committee.
+
+> The chairperson of a subcommittee has expense approval authority as defined in the Artifactory Expenses bylaw.
+{.is-info}
+
 
 ## Operation
 
@@ -124,6 +134,7 @@ All powers and duties delegated to a subcommittee are revoked when the subcommit
 
 ## History
 
+* [2025-12-14](/minutes/Committee/2025-12-14) - Add that all subcommittees must have a chairperson (since there are other bylaws which refer to chairpersons.)
 * [2025-03-22](/minutes/Committee/2025-03-22) - Minor changes
 * 2024-07-31 - Added procedure for secretary to [contact each subcommittee member on an annual basis](https://vote.artifactory.org.au/d/AFOuYcfH/annual-review-of-office-holders-and-subcommittees).
 * [2023-01-07](/minutes/Committee/2023-01-07) - Initial version

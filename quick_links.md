@@ -2,7 +2,7 @@
 title: Quick Links
 description: Quick links to resources for volunteers
 published: true
-date: 2025-08-02T07:30:20.821Z
+date: 2026-01-24T09:13:48.129Z
 tags: 
 editor: markdown
 dateCreated: 2024-08-08T04:38:31.518Z
@@ -13,9 +13,7 @@ This is a collection of links to critical processes and guides for volunteers.
 # Signing up
 
 ## Visitors
-  * [Visitor signup - TidyHQ](https://perart.io/visitor) - to accept our terms and conditions, and create a training record.
-  * [Visitor Orientation - slide show](https://perart.io/visitor_induction) - self paced learning before a visitor starts using the space.
-  * Use **Training Tracker** to record that `Induction (Visitor)` has been completed.
+  * See [Visitor Induction](/visitor_induction).
 
 ## Members
   * [Membership signup](https://artifactory.org.au/pricing) - Full or Concession - goes to TidyHQ for signup process.

@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2026-01-25T04:15:43.393Z
+date: 2026-01-25T05:57:49.044Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -17,11 +17,11 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 * All equipment either brought inside (e.g. tools) or appropriately covered (e.g. BBQ).
 * Shed door closed and latched.
-* Roller door to backyard is down, controller is to the right of the door. (No need to manually lock)
 * Door to the left of bar is locked and bolted
 * Outdoor power points (smaller switches) to left of roller door are turned off.
 * 🏘️ Shed power comes from machine room. (No need to lock shed with a padlock but should be bolted)
 * 🏘️ Turn the courtyard lights off with the silver button below the roller door controls
+* Roller door to backyard is down, controller is to the right of the door. (No need to manually lock)
 
 ## Back Area
 
@@ -32,8 +32,8 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 ## Machine Room
 
+* Check the room air filter is off or on a timer
 * 🏘️ Press the silver button just inside the door
-* Check the air filter is off or on a timer
 
 ## Design Lab
 
@@ -59,6 +59,8 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 ## Recent changes
 
+* Add room air filter task to machine room.
+* Reordered outdoor area tasks
 * Add note to outdoors area regarding equipment left outside or uncovered.
 * Add note to outdoors area regarding shed door.
 * Add under table light

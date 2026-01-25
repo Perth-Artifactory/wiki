@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2025-04-24T00:59:39.433Z
+date: 2026-01-25T04:15:43.393Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -33,6 +33,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 ## Machine Room
 
 * 🏘️ Press the silver button just inside the door
+* Check the air filter is off or on a timer
 
 ## Design Lab
 

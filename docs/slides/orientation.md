@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-01-10T11:15:14.947Z
+date: 2026-02-03T06:39:37.666Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -155,6 +155,7 @@ https://members.artifactory.org.au/ or the **Member Portal** app in Slack
 ## Membership dues
 
 Your membership dues are not paid automatically.
+
 * Our preferred method of payment is via a scheduled bank transfer, on the monthly date of joining.
 * Bank details are on your membership invoices, or the "Finance" page of Member Portal.
 

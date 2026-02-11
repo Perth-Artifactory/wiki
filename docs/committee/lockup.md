@@ -2,7 +2,7 @@
 title: Closing Procedure
 description: 
 published: true
-date: 2026-01-25T05:57:49.044Z
+date: 2026-02-11T08:58:46.578Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:47:01.779Z
@@ -20,7 +20,8 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 * Door to the left of bar is locked and bolted
 * Outdoor power points (smaller switches) to left of roller door are turned off.
 * 🏘️ Shed power comes from machine room. (No need to lock shed with a padlock but should be bolted)
-* 🏘️ Turn the courtyard lights off with the silver button below the roller door controls
+* 🏘️ Turn the courtyard floodlights off with the silver button below the roller door controls
+* 🏘️ Courtyard festoon lights are exclusively controlled by the kiosk
 * Roller door to backyard is down, controller is to the right of the door. (No need to manually lock)
 
 ## Back Area
@@ -38,7 +39,7 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 ## Design Lab
 
 * 🏘️ Turn lights off.
-* 🏘 Turn aircon off with button above the light switch.
+* 🏘️ Turn aircon off with button above the light switch.
 * Computers can stay on.
 
 ## Electronics Lab
@@ -59,6 +60,8 @@ Following these steps is part of your [responsibilities as a keyholder.](/docs/p
 
 ## Recent changes
 
+* Add courtyard festoon lights
+* Rename courtyard lights to courtyard floodlights
 * Add room air filter task to machine room.
 * Reordered outdoor area tasks
 * Add note to outdoors area regarding equipment left outside or uncovered.

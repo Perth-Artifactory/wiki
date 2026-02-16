@@ -2,7 +2,7 @@
 title: Dry Oven
 description: 
 published: true
-date: 2025-01-25T10:32:15.318Z
+date: 2026-02-16T12:40:02.592Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-21T06:34:56.318Z
@@ -49,3 +49,4 @@ The dry oven is used to dehydrate medium sized objects like wood or multiple rol
 * **The last degree of heating is slow**: The oven heats quickly until it gets to ~one degree of the setpoint. This final degree may take several minutes to complete. Be aware if precision timing is an issue.    
 * **The temperature probe may be inaccurate**: The dry oven temperature probe may be off by up to 3 degrees (based on comparison with a multimeter probe). Be aware if precision temperatures are an issue.
 * **Avoid button mashing**: The controller also has a “lock” mode which has been seen after button mashing. Try to avoid button mashing.
+* **Turn off stop mode by holding the red left button**

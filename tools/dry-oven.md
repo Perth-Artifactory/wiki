@@ -2,7 +2,7 @@
 title: Dry Oven
 description: 
 published: true
-date: 2026-02-16T12:40:02.592Z
+date: 2026-02-16T12:40:57.715Z
 tags: 
 editor: markdown
 dateCreated: 2025-01-21T06:34:56.318Z

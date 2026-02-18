@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2025-10-01T10:37:24.680Z
+date: 2026-02-18T14:18:27.182Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -151,7 +151,58 @@ After:
 
 ## Torch (Oxy-Acetelyne)
 
-Not started: [template](/docs/tool_inductions/guide#template)
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: ???
+Signed off by: ???, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | If not shaded |
+| Eye protection (EMR)           | M | Shade 5+ in almost all circumstances |
+| Ear protection                 | M | Can be useful over long sessions |
+| Gloves (heat)                  | Y | Heat resistant gloves (typically stick welding gloves) |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | If working with heavy materials |
+| Mask/Respirator (vapours)      | M | If working with galvanised metal etc (fume fever) |
+| Natural fibre clothing         | Y | Working with fire |
+
+Allowed materials:
+
+* Things that burn without killing you (most metal, wood)
+
+Specifically banned materials:
+
+* Plastics
+
+Consumables:
+
+* Oxygen - Provided (Stored in welding bay)
+* Acetylene - Provided (Stored in the shed, get the one on the trolley)
+
+Pre:
+
+1. Position bottle stands near each other (with outlets going in same direction)
+1. Confirm TODO
+1. Connect acetylene regulator (oxygen is left connected)
+1. Fit desired head to torch
+1. Ensure torch mounted regulators are closed
+1. For each gas:
+  1. Open torch regulator
+  1. Set bottle regulator to [desired pressure](https://cdn2.hubspot.net/hubfs/4829685/NHADA.com/docs/Oxygen%20and%20Acetylene%20Gas%20Pressures.pdf)
+  1. Close torch regulator
+
+Using:
+
+1. 
+
+After:
+
+1. 
+
+Advanced operations:
+
+1. [Operation]
 
 ## Welder (MIG)
 

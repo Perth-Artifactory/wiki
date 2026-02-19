@@ -2,7 +2,7 @@
 title: Shopping
 description: 
 published: true
-date: 2023-01-10T07:40:35.013Z
+date: 2026-02-19T14:06:36.998Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:48:11.265Z
@@ -69,7 +69,3 @@ Costumes:
 * <https://www.westcoastfasteners.com.au/> - Fasteners. Balcatta. every kind of fastener you could ever desire and threaded rod all super cheap!
 * <https://www.carbatec.com.au/>
 * <http://www.hughans.com.au/> - Saw Specialist
-
-## Food
-
-* https://goldenbakery.com.au/- Golden Bakery, These things are a religious experience. 76 Frobisher St, Osborne Park WA 6017

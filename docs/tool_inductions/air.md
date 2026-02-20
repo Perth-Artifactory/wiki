@@ -2,7 +2,7 @@
 title: Air Tools
 description: 
 published: true
-date: 2026-02-20T11:54:27.903Z
+date: 2026-02-20T11:55:44.965Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:26:47.830Z
@@ -163,10 +163,6 @@ After:
 Advanced operations:
 
 1. Anything other than allowed materials
-
-## Sand Blaster
-
-See [Sand Blaster](/docs/tool_inductions/sand_blaster)
 
 ## Vacuum Chamber
 

@@ -2,7 +2,7 @@
 title: Air Tools
 description: 
 published: true
-date: 2026-02-20T11:55:44.965Z
+date: 2026-02-20T11:59:09.702Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:26:47.830Z
@@ -163,7 +163,3 @@ After:
 Advanced operations:
 
 1. Anything other than allowed materials
-
-## Vacuum Chamber
-
-Not started: [template](/docs/tool_inductions/guide#template)

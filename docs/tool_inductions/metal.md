@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2026-02-18T14:18:27.182Z
+date: 2026-02-20T11:56:16.920Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -112,6 +112,10 @@ After:
 1. Cut/dross will be sharp
 1. Torch tip and material are both hot, cool down before putting away
 1. Cleanup includes sweeping up spark debris if used inside
+
+## Sand Blaster
+
+See [Sand Blaster](/docs/tool_inductions/sand_blaster)
 
 ## Saw (Friction)
 

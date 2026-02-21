@@ -2,7 +2,7 @@
 title: Swarf XL Operation Checklist
 description: User instructions for the Swarf XL CNC router
 published: true
-date: 2026-02-21T17:55:44.052Z
+date: 2026-02-21T17:56:08.977Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-22T04:59:37.567Z
@@ -10,7 +10,7 @@ dateCreated: 2024-07-22T04:59:37.567Z
 
 > You need to be trained before using our CNC router.
 >
-> Only current, authorized trainers can deliver router training. Reading these instructions does not constitute training.
+> Only current, authorised trainers can deliver router training. Reading these instructions does not constitute training.
 {.is-warning}
 
 ## CNC Router Safety 

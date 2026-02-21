@@ -2,7 +2,7 @@
 title: Swarf XL Operation Checklist
 description: User instructions for the Swarf XL CNC router
 published: true
-date: 2024-07-23T09:57:54.401Z
+date: 2026-02-21T08:36:23.265Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-22T04:59:37.567Z
@@ -38,7 +38,7 @@ dateCreated: 2024-07-22T04:59:37.567Z
 - Injury: Report any injury, no matter how minor, to a member of the management committee and seek medical attention if needed.
 - Do not operate the machine if the machine appears damaged or does not operate properly. Isolate the machine and tag it “out of service” using the tags provided near the mill.
 ### 7.	Training and Supervision:
-- Only trained and authorized people should operate the CNC router. Reading these instructions does not constitute training. You can check your authorization status using the [Training Tracker](https://perart.io/check_training) tool on Slack. You must have a ✅ next to "Router (CNC/Swarf-XL)".
+- Only trained and authorized people should operate the CNC router. Reading these instructions does not constitute training. You can check your authorization status using the [this link](https://members.artifactory.org.au/training#verify-tool-09eeb28d-cb2c-4c16-bb37-27feedb7664a).
 - Even if you are authorized, seek further instruction if you are unsure about any aspect of machine operation.
 
 ## Preparing for Operation

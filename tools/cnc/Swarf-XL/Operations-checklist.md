@@ -2,7 +2,7 @@
 title: Swarf XL Operation Checklist
 description: User instructions for the Swarf XL CNC router
 published: true
-date: 2026-02-21T08:46:22.465Z
+date: 2026-02-21T17:55:44.052Z
 tags: 
 editor: markdown
 dateCreated: 2024-07-22T04:59:37.567Z
@@ -51,8 +51,10 @@ dateCreated: 2024-07-22T04:59:37.567Z
 
 ### Training and Supervision
 
-- Only trained and authorized people should operate the CNC router. Reading these instructions does not constitute training. You can check your authorization status using the [this link](https://members.artifactory.org.au/training#verify-tool-09eeb28d-cb2c-4c16-bb37-27feedb7664a).
-- Even if you are authorized, seek further instruction if you are unsure about any aspect of machine operation.
+* Only trained and authorized people should operate the CNC router. Reading these instructions does not constitute training. You can check your authorisation status using these links:
+  * [Operators](https://members.artifactory.org.au/training#verify-tool-09eeb28d-cb2c-4c16-bb37-27feedb7664a)
+  * [Trainees](https://members.artifactory.org.au/training#verify-tool-b1a9eff3-a196-4186-b040-97e517ed4a49) (Can use the machine under supervision)
+* Even if you are authorised, seek further instruction if you are unsure about any aspect of machine operation.
 
 ## Preparing for Operation
 
@@ -66,11 +68,11 @@ dateCreated: 2024-07-22T04:59:37.567Z
 * **Fit a spoil board**: If no spoil board is fitted, then fit one. If necessary you can laser cut your own using one of the templates here. Use of a spoil board is compulsory except where: 
   * you are fixturing using a vise
   * you are doing work where the depth of cut is small relative to the material (e.g. engraving, levelling a thick slab).
-*	**Load Material**: Securely fix the material to the router bed. Make sure it is flat and firmly held down to prevent movement during machining. Common options for fixturing are:
-  * Strap clamps. Note these must be supported at the end not bearing down on the work, at approximately the same height as the work (+/-~2mm). Strap clamp bolts can be run into and out of the bed using an electric drill or driver but must be tightened by hand to prevent inadvertent over-tightening and damage to the bed.
-  * Toe clamps. Note that toe clamps are not required on all sides of the material: it is generally sufficient to have a clamp on one side and a solid block fixed to the bed on the opposite side. 
-  * A machining vice. The vice can be fixed directly to the bed and material placed in the vice. Note this method consumes a lot of available vertical travel and may not be suitable for all jobs. 
-  * Double-sided tape or adhesive. These methods must be used in conjunction with a spoil board. It is usually a good idea to cover both the surfaces to be adhered with masking (painter’s) tape, so the adhesive can be cleanly removed. If you use masking tape, make sure you rub it down firmly.
+* **Load Material**: Securely fix the material to the router bed. Make sure it is flat and firmly held down to prevent movement during machining. Common options for fixturing are:
+  * **Strap clamps**: Note these must be supported at the end not bearing down on the work, at approximately the same height as the work (+/-~2mm). Strap clamp bolts can be run into and out of the bed using an electric drill or driver but must be tightened by hand to prevent inadvertent over-tightening and damage to the bed.
+  * **Toe clamps**: Note that toe clamps are not required on all sides of the material: it is generally sufficient to have a clamp on one side and a solid block fixed to the bed on the opposite side. 
+  * **A machining vice**: The vice can be fixed directly to the bed and material placed in the vice. Note this method consumes a lot of available vertical travel and may not be suitable for all jobs. 
+  * **Double-sided tape or adhesive**: These methods must be used in conjunction with a spoil board. It is usually a good idea to cover both the surfaces to be adhered with masking (painter’s) tape, so the adhesive can be cleanly removed. If you use masking tape, make sure you rub it down firmly.
 * **Install Tool**: Select the appropriate cutting tool for your job (e.g., end mill, drill bit). Insert the tool into the router's spindle and tighten it securely using the collet and wrenches provided.
   * Use only the appropriately sized collet. Each collet covers a very limited size range (typically 1mm) and any tool has one and only one correct collet. The indicated size is the largest size the collet will hold: an “8mm” collet will cover the range 8mm ≥ x > 7mm.
   * Clip the collet into the collet nut before inserting the tool into the collet. The collet needs to compress to clip onto the nut and cannot do so with a tool installed. Installing the collet nut without the collet properly engaged will result in damage to the collet and nut.
@@ -103,44 +105,58 @@ dateCreated: 2024-07-22T04:59:37.567Z
 
 ## Run Program
 
-- Execute the program through the UCCNC software user interface. Note you may have to click “cycle start” a second time as tool change commands will result in UCCNC waiting for confirmation a manual tool change has been made.
-- Monitor the initial movements to ensure the tool moves correctly and doesn’t collide with the material or fixtures.
-### 5.	Adjust Cutting Parameters if necessary
-- The feed rate and spindle speed will be set in the G-code program as part of the CAM phase of your design. They can be adjusted in the UCCNC user interface at any time. 
-- Deciding to override feed and speed should be done based on observation of the machine in operation.
-### 6.	Monitor Operation
-- Throughout the operation, monitor the cutting process to ensure everything is proceeding as planned.
-- Be prepared to pause the operation (“feed hold” in the UCCNC UI or the blue button on the machine) or stop the operation if necessary. Non-emergency stopping can be done using “cycle stop”. If necessary, don’t hesitate to use the Emergency Stop button.
+* **Execute the program** through the UCCNC software user interface. 
+  * You may have to click “cycle start” a second time as tool change commands will result in UCCNC waiting for confirmation a manual tool change has been made.
+* **Monitor the initial movements** to ensure the tool moves correctly and doesn’t collide with the material or fixtures.
+* **Adjust Cutting Parameters if necessary**: The feed rate and spindle speed will be set in the G-code program as part of the CAM phase of your design. They can be adjusted in the UCCNC user interface at any time. 
+  * Deciding to override feed and speed should be done based on observation of the machine in operation.
+* **Monitor Operation**: Throughout the operation, monitor the cutting process to ensure everything is proceeding as planned.
+  * Be prepared to pause the operation (“feed hold” in the UCCNC UI or the blue button on the machine) or stop the operation if necessary. Non-emergency stopping can be done using “cycle stop”. If necessary, don’t hesitate to use the Emergency Stop button.
+
 ## Post-Operation
-### 1.	Inspect Workpiece 
-Once the CNC router has finished, inspect the finished workpiece for quality and accuracy.
-### 2.	Remove Material 
-Carefully remove the machined material from the router bed.
-### 3.	Shutdown:
-- Move the spindle to a position that will facilitate cleaning the machine.
-- Shut down the computer.
-- Power off the CNC router at the isolator.
-- Clean the router bed and workspace and return all tools and fixtures to their proper locations.
+
+*	**Inspect Workpiece**: Once the CNC router has finished, inspect the finished workpiece for quality and accuracy.
+* **Remove Material**: Carefully remove the machined material from the router bed.
+* **Shutdown the machine**:
+  * Move the spindle to a position that will facilitate cleaning the machine.
+  * Shut down the computer.
+  * Power off the CNC router at the isolator.
+  * Clean the router bed and workspace and return all tools and fixtures to their proper locations.
+
 ## When things go wrong
-### 1.	UCCNC reports alarms 
+
+### UCCNC reports alarms
+
 The controller monitors for several trouble conditions and reports alarms through the UCCNC user interface. In each case the machine will be placed in “offline mode” and a text box will open to instruct the user how to clear the alarm:
-- Drive faults. In the event of a drive fault the machine will stop operation and retract the tool (if the z axis is not the faulted drive). Drive faults can be cleared by cycling the power to the drives by triggering the emergency stop hardware button for a few seconds then turning off “offline mode” through the UCCNC user interface. The machine will need to be re-homed afterwards. 
-- Chiller fault. The chiller will normally be powered on when the machine is turned on but if the chiller reports a fault or is not powered, the CNC router will raise an alarm. Once the issue is resolved, “offline mode” can be turned off and operation resumed.
-- VFD fault. If the spindle variable frequency drive (VFD) reports a fault, the CNC router will raise an alarm. Once the issue is resolved, “offline mode” can be turned off and operation resumed.
-- Probe over-travel. If the tool length probe does not trigger on first contact with the tool, it may report over-travel. If the probe has been accidentally pressed outside a normal probing operation, no action is required to clear the fault besides turning off “offline mode”. If the fault occurred during tool length measurement, then do not use the probe further and report the issue in [#cnc-router](slack://channel?team=T0LQE2JNR&id=C07DDHBALCB) on Slack.
-### 2.	Accidentally triggering limit switches 
+
+* **Drive faults**: In the event of a drive fault the machine will stop operation and retract the tool (if the z axis is not the faulted drive). Drive faults can be cleared by cycling the power to the drives by triggering the emergency stop hardware button for a few seconds then turning off “offline mode” through the UCCNC user interface. The machine will need to be re-homed afterwards. 
+* **Chiller fault**: The chiller will normally be powered on when the machine is turned on but if the chiller reports a fault or is not powered, the CNC router will raise an alarm. Once the issue is resolved, “offline mode” can be turned off and operation resumed.
+* **VFD fault**: If the spindle variable frequency drive (VFD) reports a fault, the CNC router will raise an alarm. Once the issue is resolved, “offline mode” can be turned off and operation resumed.
+* **Probe over-travel**: If the tool length probe does not trigger on first contact with the tool, it may report over-travel. If the probe has been accidentally pressed outside a normal probing operation, no action is required to clear the fault besides turning off “offline mode”. If the fault occurred during tool length measurement, then do not use the probe further and report the issue in [#cnc-router](slack://channel?team=T0LQE2JNR&id=C07DDHBALCB) on Slack.
+
+### Accidentally triggering limit switches 
+
 If the machine is moved beyond its limits a physical limit switch will be triggered and the machine will be placed in a “reset” condition. To recover from this situation:
-- Click the “override limits” button in the UCCNC user interface. This will tell the controller to temporarily ignore the limit switches.
-- Click the “reset” button in the UCCNC user interface.
-- Move the machine away from the triggered limit using the jog controls. Be very careful to move in the correct direction.  
-### 3.	Resuming a stopped program 
+
+* Click the “override limits” button in the UCCNC user interface. This will tell the controller to temporarily ignore the limit switches.
+* Click the “reset” button in the UCCNC user interface.
+* Move the machine away from the triggered limit using the jog controls. **Be very careful to move in the correct direction**.
+
+### Resuming a stopped program 
+
 It is sometimes necessary to stop a job and re-commence it part way through - typically if you have activated the emergency stop. Provided the machine was homed before starting the job, it is generally possible to resume with minimal ill effects:
-- Deal with whatever problem led to you stopping the job.
-- If necessary, re-home the machine. All axes are changed to un-homed status when an emergency stop is triggered. Otherwise you can check the homed status of each axis in the UCCNC user interface.
-- Find the point in the G-code program from which to resume. Generally this should be a few lines prior to the line of code being executed when the job was stopped. Make sure the line is selected in the UCCNC user interface.
-- Jog the machine to a safe location. This should be a location where the tool can move in a straight line to the part of the job where operation will be resumed without hitting fixtures or stock.
-- Click “Run from here”. UCCNC will run through the entire program to that point to calculate what the state of the machine should be when it resumes. A dialogue box will open displaying the details of the move required to get to the resume point.
-- Verify that the required first move will not bring the tool into contact with any fixture or material. 
-- Click to confirm the first move. When the machine has executed the move, click “cycle start” to resume the job.
-### 4.	Damage to the machine / unexplained problems 
-If the machine is damaged or seems to be operating abnormally, do not attempt to repair it. Report the issue in [#cnc-router](slack://channel?team=T0LQE2JNR&id=C07DDHBALCB) tag it as “out of service” using the tags provided near the mill.
+
+* Deal with whatever problem led to you stopping the job.
+* If necessary, re-home the machine. All axes are changed to un-homed status when an emergency stop is triggered. Otherwise you can check the homed status of each axis in the UCCNC user interface.
+* Find the point in the G-code program from which to resume. Generally this should be a few lines prior to the line of code being executed when the job was stopped. Make sure the line is selected in the UCCNC user interface.
+* Jog the machine to a safe location. This should be a location where the tool can move in a straight line to the part of the job where operation will be resumed without hitting fixtures or stock.
+* Click “Run from here”. UCCNC will run through the entire program to that point to calculate what the state of the machine should be when it resumes. A dialogue box will open displaying the details of the move required to get to the resume point.
+* Verify that the required first move will not bring the tool into contact with any fixture or material. 
+* Click to confirm the first move. When the machine has executed the move, click “cycle start” to resume the job.
+
+###	Damage to the machine / unexplained problems
+
+If the machine is damaged or seems to be operating abnormally, do not attempt to repair it. Report the issue in [#cnc-router](slack://channel?team=T0LQE2JNR&id=C07DDHBALCB) and tag it as “out of service” using the tags provided near the mill.
+
+
+

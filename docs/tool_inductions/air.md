@@ -2,7 +2,7 @@
 title: Air Tools
 description: 
 published: true
-date: 2026-02-20T11:59:09.702Z
+date: 2026-02-21T06:43:25.366Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2025-09-09T18:26:47.830Z
@@ -30,12 +30,17 @@ Signed off by: Fletcher, Renae
 
 Pre:
 
-1. Check air pressure and copmressor thermal overload
+1. Check compressor thermal overload
+1. Check air pressure and compressor thermal overload
 
 Using:
 
 1. Keep air stream pointed away from eyes and exposed skin
 1. Avoid blowing air into cupped surfaces - will blow back onto operator (circular saw guard etc)
+
+After:
+
+1. Coil hose up
 
 ## Air Nailer
 
@@ -68,7 +73,7 @@ Specifically banned materials:
 
 Consumables:
 
-Replace these if you use a bunch of need a specific length.
+Replace these if you use a bunch or need a specific length.
 
 * Framing nails - Provided/BYO (box underneath Ryobi nail gun bag) - Difficult to buy in small quantities
 * Staples - Provided/BYO (Ryobi nail gun bag)
@@ -79,9 +84,9 @@ Pre:
 1. Check that intended consumable will go far enough (but not too far) into material
 1. Check for blockages
 1. Fit consumable to gun. Nail head should sit firmly against one of the tracks and tip should be pushed to the front (Demonstrate loading of each gun)
-1. Set force if using either nailer, adjuster in front of trigger. Too strong and can cause damage to surface
+1. Set force if using either nailer, adjuster in front of trigger. Too strong can cause damage to surface
 1. Check for metal/knots in intended site
-1. Adjust exit port away from operator
+1. Adjust exit port away from operator (if applicable)
 
 Using:
 
@@ -92,7 +97,7 @@ Using:
 
 After:
 
-1. Disconnect from air
+1. Disconnect from air (talk about volume release)
 1. Check for blockages/debris
 
 ## Air Paint Gun

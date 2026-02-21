@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2025-10-08T02:57:39.500Z
+date: 2026-02-21T06:56:32.148Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -309,8 +309,8 @@ Advanced operations:
 
 ## Saw (Track)
 
-Lead: ???
-Signed off by: Fletcher, ???
+Lead: Renae Currie
+Signed off by: Fletcher, Renae
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -334,22 +334,23 @@ Pre:
 
 1. Confirm tool is appropriate for cut - 90° only, less powerful than our circular saws but very good at making clean cuts
 1. Ensure blade is appropriate for material and cut type
-1. Ensure track and material surface are free from sawdust etc
+1. Ensure track and material surface are free from sawdust
+1. Ensure splinter guard (rubber strip) is undamaged and secure
 1. Place material so that saw won't cut tables etc, consider what will happen after the cut
-1. Place track on material and clamp if required (large pieces don't normally slip thanks to the rubber on the underside of the track)
+1. Place track on material and clamp if required (large pieces don't normally slip thanks to the foam on the underside of the track)
 1. Lock saw into plunged position
 1. Consider 5mm pass first - cleaner surface cut
 1. Adjust blade depth using depth guide (lower/left side is depth if using track, higher/right side is depth without track - use the first one)
 1. Unlock plunge once depth is set
 1. Fit battery
 1. Fit dust bag or vacuum
-1. Use geared guard lever at front of saw to retract blade guard and place on material
-1. Saw should sit so that when plunged the saw spindle is sitting just behind the beginning of the cut (Reduces flex on track and ensures cleaner cut as fibres are forced towards the tool/track)
+1. Use geared guard lever at front of saw to retract blade guard and place on track (over material)
+1. Slide saw back: should sit so that when plunged the saw spindle is sitting just behind the beginning of the cut (Reduces flex on track and ensures cleaner cut as fibres are forced towards the tool/track)
 
 Using:
 
 1. Spin up tool completely before cutting
-1. Plunge to preset depth stop
+1. Plunge to preset depth stop (it should lock in place)
 1. Push the saw along the track until the cut is complete (spindle center is past the end of the material)
 1. Adjust feed speed based on saw sound, is not overly powerful. Back off and go slower if saw stalls
 1. Saw can typically be used one handed
@@ -358,6 +359,7 @@ Using:
 After:
 
 1. Remove battery
+1. Charge battery if at 1 bar
 1. Cleanup includes work surface, floor (if inside), blade guard, tool internals, tracks
 1. Repack tool in box, saw must be fully plunged to fit. Check pictures if unsure.
 

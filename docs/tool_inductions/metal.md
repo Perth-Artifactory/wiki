@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2026-02-20T11:56:16.920Z
+date: 2026-02-21T18:44:16.185Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -177,7 +177,10 @@ Allowed materials:
 
 Specifically banned materials:
 
-* Plastics
+* Plastics (excluding flame polishing acrylic)
+* Stainless steel
+* Galvanised steel
+* Lead
 
 Consumables:
 
@@ -187,18 +190,33 @@ Consumables:
 Pre:
 
 1. Position bottle stands near each other (with outlets going in same direction)
-1. Confirm TODO
 1. Connect acetylene regulator (oxygen is left connected)
-1. Fit desired head to torch
+1. Fit desired head to torch (Kept in toolbox on welding shelf)
 1. Ensure torch mounted regulators are closed
 1. For each gas:
-  1. Open torch regulator
-  1. Set bottle regulator to [desired pressure](https://cdn2.hubspot.net/hubfs/4829685/NHADA.com/docs/Oxygen%20and%20Acetylene%20Gas%20Pressures.pdf)
-  1. Close torch regulator
+  * Open torch regulator
+  * Set bottle regulator to [desired pressure](https://cdn2.hubspot.net/hubfs/4829685/NHADA.com/docs/Oxygen%20and%20Acetylene%20Gas%20Pressures.pdf)
+  * Close torch regulator
+1. Plan out cut ensuring:
+  * Area is clear of flammables (remember the flame will go through your material if cutting)
+  * Cut path won't hit hoses or direct towards bottles
+  * Soot path when lighting torch won't contaminate others projects
+1. Light pilot light or ready flint lighter
+1. Open acetylene torch regulator and light
+1. Adjust oxygen/acetylene torch regulators to achieve desired flame proflie (see link above)
+1. Pull trigger (if using cutting torch) and adjust cutting oxygen
 
-Using:
+Forging:
 
-1. 
+1.
+
+Welding:
+
+1.
+
+Cutting:
+
+1.
 
 After:
 

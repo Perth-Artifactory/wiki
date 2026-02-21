@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2026-02-21T20:15:49.772Z
+date: 2026-02-21T21:01:02.139Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -190,6 +190,7 @@ Consumables:
 Pre:
 
 1. Position bottle stands near each other (with outlets going in same direction)
+1. Remove caps from acetylene regulator and bottle
 1. Connect acetylene regulator (oxygen is left connected)
 1. Check torch tip for damage (report)
 1. Fit desired head to torch (Kept in toolbox on welding shelf)
@@ -238,6 +239,7 @@ After:
 1. Allow torch to cool before removing head
 1. Check torch tip for damage (report)
 1. Disconnect acetylene regulator
+1. Replace acetylene regular and bottle caps
 1. Coil hose and place on hooks above oxygen bottle
 1. Return acetylene to shed
 1. Clean acetylene soot off of work surface if present

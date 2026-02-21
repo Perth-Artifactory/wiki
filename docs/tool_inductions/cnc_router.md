@@ -2,13 +2,11 @@
 title: CNC Router
 description: 
 published: true
-date: 2026-02-21T18:18:17.535Z
+date: 2026-02-21T18:19:17.457Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2026-02-21T18:18:17.535Z
 ---
-
-# CNC Router
 
 ## Initial sessions
 

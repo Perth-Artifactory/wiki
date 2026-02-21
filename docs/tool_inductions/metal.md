@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2026-02-21T18:44:16.185Z
+date: 2026-02-21T20:15:49.772Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -191,10 +191,12 @@ Pre:
 
 1. Position bottle stands near each other (with outlets going in same direction)
 1. Connect acetylene regulator (oxygen is left connected)
+1. Check torch tip for damage (report)
 1. Fit desired head to torch (Kept in toolbox on welding shelf)
 1. Ensure torch mounted regulators are closed
 1. For each gas:
-  * Open torch regulator
+  * Open torch regulator slightly (More accurate pressures with flowing vs static pressure)
+  * Open bottle valve (Acetylene quarter turn, easier to turn off if things go wrong)
   * Set bottle regulator to [desired pressure](https://cdn2.hubspot.net/hubfs/4829685/NHADA.com/docs/Oxygen%20and%20Acetylene%20Gas%20Pressures.pdf)
   * Close torch regulator
 1. Plan out cut ensuring:
@@ -203,12 +205,20 @@ Pre:
   * Soot path when lighting torch won't contaminate others projects
 1. Light pilot light or ready flint lighter
 1. Open acetylene torch regulator and light
-1. Adjust oxygen/acetylene torch regulators to achieve desired flame proflie (see link above)
+1. Adjust oxygen/acetylene torch regulators to achieve desired [flame profile](https://www.khventure.com.my/latestnews/nid/168251/) (demo each)
 1. Pull trigger (if using cutting torch) and adjust cutting oxygen
 
-Forging:
+Bending:
 
-1.
+1. Mount material in vice etc
+1. Hold torch slightly further away, inner core 10mm away from material for even heating
+1. Apply light force to the material with your other hand/tool to feel when the material becomes soft enough to bend (be mindful of heat creep)
+1. Bend, be mindful of torch direction or hand off to offsider
+
+Forging/Heating:
+
+1. Position inner tip at surface of material for concentrated heat, further back for wider heating
+1. Forging works better with offsider to handle torch
 
 Welding:
 
@@ -216,15 +226,25 @@ Welding:
 
 Cutting:
 
-1.
+1. Preheat cut path until cherry red
+1. Pull trigger to switch to cutting flame
+1. Move at a steady pace through the material with the tip of the inner core a few mm above the surface of the material
 
 After:
 
-1. 
+1. Close oxygen torch regulator followed by acetylene (We have decent flashback arrestors and the torch pops the othe rway around)
+1. Close bottle valves
+1. Allow parts to cool before handling
+1. Allow torch to cool before removing head
+1. Check torch tip for damage (report)
+1. Disconnect acetylene regulator
+1. Coil hose and place on hooks above oxygen bottle
+1. Return acetylene to shed
+1. Clean acetylene soot off of work surface if present
 
 Advanced operations:
 
-1. [Operation]
+1. Flame polishing
 
 ## Welder (MIG)
 

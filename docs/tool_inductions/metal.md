@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2026-02-21T21:01:02.139Z
+date: 2026-02-22T05:36:37.170Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -168,7 +168,7 @@ Signed off by: ???, ???
 | Gloves (heat)                  | Y | Heat resistant gloves (typically stick welding gloves) |
 | Enclosed shoes                 | Y |  |
 | Safety boots                   | M | If working with heavy materials |
-| Mask/Respirator (vapours)      | M | If working with galvanised metal etc (fume fever) |
+| Mask/Respirator (vapours)      | M | If there's a chance you may accidentally heat up a banned material (galv/stainless etc) |
 | Natural fibre clothing         | Y | Working with fire |
 
 Allowed materials:

@@ -2,7 +2,7 @@
 title: Hotworks
 description: 
 published: true
-date: 2026-02-22T06:46:52.197Z
+date: 2026-02-22T06:54:46.239Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2026-02-22T06:46:52.197Z
@@ -58,3 +58,113 @@ Topics to cover:
   * Exstinguishers with a combined wieght of at least 18kg (2x9kg, 4x4.5 etc) - Our large exstinguishers are 9kg
   * Fire detection officer - must be exclusively dedicated to the detection and suppresion of fires and be trained to do so. Remain on duty for at least 30 minutes after the hot work is complete until they are sure there is no fire or anything likely to start one.
   * Fire detection officer is not a box ticking exercise - If not 100% confident defer to Fletcher or Lewis.
+  
+## Forge
+
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: ???
+Signed off by: ???, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y/M/N |  |
+| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
+| Ear protection                 | Y/M/N | Include a sound rating if you can. |
+| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
+| Gloves (chemical)              | Y/M/N |  |
+| Gloves (heat)                  | Y/M/N |  |
+| Enclosed shoes                 | Y/M/N |  |
+| Safety boots                   | Y/M/N |  |
+| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
+| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
+| Long sleeves                   | Y/M/N |  |
+| Natural fibre clothing         | Y/M/N |  |
+
+Allowed materials:
+
+* [Material]
+
+Specifically banned materials:
+
+* [Material2]
+
+Consumables:
+
+* [Consumable] - Provided (location)
+* [Consumable2] - Provided (required) (location)
+* [Consumable3] - Operator brings (restrictions)
+
+Pre:
+
+1. Step 1
+1. Step 2
+
+Using:
+
+1. Step 1
+1. Step 2
+
+After:
+
+1. Step 1
+1. Step 2
+
+Advanced operations:
+
+1. [Operation]
+
+## Furnace
+
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: ???
+Signed off by: ???, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y/M/N |  |
+| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
+| Ear protection                 | Y/M/N | Include a sound rating if you can. |
+| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
+| Gloves (chemical)              | Y/M/N |  |
+| Gloves (heat)                  | Y/M/N |  |
+| Enclosed shoes                 | Y/M/N |  |
+| Safety boots                   | Y/M/N |  |
+| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
+| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
+| Long sleeves                   | Y/M/N |  |
+| Natural fibre clothing         | Y/M/N |  |
+
+Allowed materials:
+
+* [Material]
+
+Specifically banned materials:
+
+* [Material2]
+
+Consumables:
+
+* [Consumable] - Provided (location)
+* [Consumable2] - Provided (required) (location)
+* [Consumable3] - Operator brings (restrictions)
+
+Pre:
+
+1. Step 1
+1. Step 2
+
+Using:
+
+1. Step 1
+1. Step 2
+
+After:
+
+1. Step 1
+1. Step 2
+
+Advanced operations:
+
+1. [Operation]

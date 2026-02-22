@@ -2,7 +2,7 @@
 title: CNC Router
 description: 
 published: true
-date: 2026-02-21T18:19:17.457Z
+date: 2026-02-22T06:14:19.248Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2026-02-21T18:18:17.535Z
@@ -17,7 +17,7 @@ dateCreated: 2026-02-21T18:18:17.535Z
   * Loading files
   * Jogging
   * Explain how the the feed rate/spindle speed modifiers actually work (percentage based) and clarify their effect on plunge rates
-  * + Everything mentioned in the operation guide
+  * plus everything mentioned in the operation guide
 * Discuss the users intended project and tailor the training to it. (Ali brackets, wood carving etc)
 * Clarify who can supervise them (Skip stages as appropriate):
   * You (If they're really early in the learning process)

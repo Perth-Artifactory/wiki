@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-03-02T07:03:28.405Z
+date: 2026-03-02T07:05:19.703Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -220,10 +220,10 @@ Pre:
 1. Set up in appropriate location (noise,kickback)
 1. Dust extraction is required 
 1. Move fence to appropriate position 
-1. Check fence is at 90 degrees (every time fence is moved)
+1. Check fence is at 90 degrees (before starting and every time the fence is moved)
 1. Extend end supports
 1. Check guard moves freely and springs back
-1. Set appropriate pass depth (what does this depend on) 1mm for start
+1. Set appropriate pass depth - usually 1mm to start
 1. Have push blocks ready if using 
 1. Determine best orientation for feeding timber (maximise stability)
 1. Connect dust extractor (required)

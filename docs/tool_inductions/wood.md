@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-03-02T06:43:15.817Z
+date: 2026-03-02T07:03:28.405Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -179,60 +179,81 @@ After:
 
 Advanced operations- specific training required before replacing belts. 
 
-## Jointer (Tabletop)
+## Jointer (Benchtop)
 
 <!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
 
-Lead: ???
+Lead: Renae Currie
 Signed off by: ???, ???
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y/M/N |  |
-| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
-| Ear protection                 | Y/M/N | Include a sound rating if you can. |
-| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
-| Gloves (chemical)              | Y/M/N |  |
-| Gloves (heat)                  | Y/M/N |  |
-| Enclosed shoes                 | Y/M/N |  |
-| Safety boots                   | Y/M/N |  |
-| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
-| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
-| Long sleeves                   | Y/M/N |  |
-| Natural fibre clothing         | Y/M/N |  |
+| Eye protection (impact) | Y | Flying woodchips |
+| Ear protection                 | Y | For people working nearby also |
+| Gloves (general)               | N | Moving parts    |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M |  |
+| Mask/Respirator (dust)         | M | depends on wood type and length of job |
 
 Allowed materials:
 
-* [Material]
+* Dry clean natural timber only - Metal detector must be used, and timber cleaned with wire wheel/brush if surface is dirty. 
 
 Specifically banned materials:
 
-* [Material2]
+* Coated boards (eg. Formply, laminate)
+* Coated wood (eg. paint, oil, shellac)
+* Green or wet wood
+* Plastic
+* Metal
 
 Consumables:
 
-* [Consumable] - Provided (location)
-* [Consumable2] - Provided (required) (location)
-* [Consumable3] - Operator brings (restrictions)
+* Helical blades installed - report to infra if cut is sub-standard in any area
+
 
 Pre:
 
-1. Step 1
-1. Step 2
+1. Metal detector to be used
+1. Check for loose knots
+1. For cutting long grain only (no end grain)
+1. Set up in appropriate location (noise,kickback)
+1. Dust extraction is required 
+1. Move fence to appropriate position 
+1. Check fence is at 90 degrees (every time fence is moved)
+1. Extend end supports
+1. Check guard moves freely and springs back
+1. Set appropriate pass depth (what does this depend on) 1mm for start
+1. Have push blocks ready if using 
+1. Determine best orientation for feeding timber (maximise stability)
+1. Connect dust extractor (required)
+1. Turn on jointer and listen before feeding (every time)
+1. Turn dust extractor on.
 
 Using:
 
-1. Step 1
-1. Step 2
+1. Use push blocks, or have hands entirely on top of material (be aware of thumb position)
+1. Feed through smoothly, do not fight machine. If too much force is required, or there is a change in sound, reduce pass depth. (Point out increased risk of kickback and resulting finger/blade interaction.)
+1. Significant downward force is not required (and does not help)
+1. Continue making passes until first side is completely flat.
+1. May be useful to decrease cut depth as passes begin to contact more wood.
+1. Turn machine off and adjust fence for side jointing if required (recheck square)
+1. Adjust depth of cut (if required)
+1. Have flattened side against fence and feed through. (Thumb watch)
+1. Only one side and edge can be jointed, (nothing keeping second side or edge parallel to it's counterpart, only square to the adjoining side/edge)
 
 After:
 
-1. Step 1
-1. Step 2
+1. Turn off and disconnect dust extractor
+1. Return fence to starting position
+1. Use air hose to remove remaining woodchips from machine
+1. Clean surrounding area
+1. Return jointer, dust extractor and pushblocks to correct area
+1. Report any concerns or issues you notices to infra or trainer
 
 Advanced operations:
 
-1. [Operation]
+1. Rotating or replacing cutter heads - Infra trainers only
 
 ## Jointer (Large)
 

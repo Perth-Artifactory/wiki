@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2026-02-21T06:56:32.148Z
+date: 2026-03-02T07:09:25.803Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -19,6 +19,60 @@ Not started: [template](/docs/tool_inductions/guide#template)
 ## Portable Planer
 
 Not started: [template](/docs/tool_inductions/guide#template)
+
+## Rotary Tool 
+
+Lead: Renae Currie
+Signed off by: 
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | Flying chips |
+| Ear protection                 | Y |  |
+| Gloves (general)               | N | Spinning bit close to hands |
+| Enclosed shoes                 | Y |  |
+| Mask/Respirator (dust)         | M | Material dependant |
+
+Allowed materials:
+
+* Wood (Metal detected or straight from supplier)
+
+Consumables:
+
+* 1/4" router bits with guide bearing - Provided, operator can BYO (In red toolbox in machine room)
+
+Pre:
+
+1. Select bit (guided bearing only)
+1. Fit bit to router (spanner is attached to wooden block in bit drawer)
+1. Unlock depth plate and adjust depth with roller, lock depth plate
+1. Connect battery
+1. Point away from people and turn on the router for a moment to confirm everything is working as expected
+1. Consider workholding, router has lots of sideways force and can shift material
+1. Consider supporting ends of end grain to reduce tearout
+1. Follow Using steps on scrap material before using on piece if not 100% confident on height setup
+
+Using:
+
+1. Keep hand away from chip port at all times
+1. Turn on router
+1. Place on material with plate level
+1. Slowly push router into material until bearing makes contact
+1. Conventional cut around the piece (CCW outside, CW inside) - Demonstrate how to figure this out rather than rote learning
+1. Can climb cut the last inch back to a corner if desired
+1. Start with end grain first, other operations can be used to hide tear out
+
+After:
+
+1. Remove battery
+1. Cleanup includes bench/ground, tool throws chips everywhere
+1. Remove router bit (may still be hot), return to case
+1. Leave collet nut loose (but on thread)
+
+Advanced operations:
+
+1. Using bits without guide bearings (usually better tool options)
+
 
 ## Router (Plunge)
 

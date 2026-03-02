@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2026-03-02T07:09:25.803Z
+date: 2026-03-02T07:21:25.468Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -27,51 +27,44 @@ Signed off by:
 
 | Item  | Requirement | Notes  |
 | - | - | - |
-| Eye protection (impact/splash) | Y | Flying chips |
-| Ear protection                 | Y |  |
-| Gloves (general)               | N | Spinning bit close to hands |
-| Enclosed shoes                 | Y |  |
-| Mask/Respirator (dust)         | M | Material dependant |
+| Eye protection (impact/splash) | M | Bit/material dependant - required for cutoff discs |
+| Ear protection                 | M |  |
+| Gloves (general)               | M | Spinning bit close to hands |
+| Enclosed shoes                 | Y | General workshop requirement |
+| Mask/Respirator (dust)         | M | Material and bit dependant |
 
 Allowed materials:
 
-* Wood (Metal detected or straight from supplier)
+* Entirely depends on bit used. No toxic dust to be produced
+
 
 Consumables:
 
-* 1/4" router bits with guide bearing - Provided, operator can BYO (In red toolbox in machine room)
+* Various bits available for occasional and light duty use.
+* Own bits to be supplied for anything beyond this
 
 Pre:
 
-1. Select bit (guided bearing only)
-1. Fit bit to router (spanner is attached to wooden block in bit drawer)
-1. Unlock depth plate and adjust depth with roller, lock depth plate
-1. Connect battery
-1. Point away from people and turn on the router for a moment to confirm everything is working as expected
-1. Consider workholding, router has lots of sideways force and can shift material
-1. Consider supporting ends of end grain to reduce tearout
-1. Follow Using steps on scrap material before using on piece if not 100% confident on height setup
+1. Select appropriate bit 
+1. Fit bit to tool
+1. Tighten collet using spindle lock and proveded spanner
+1. Set up in area appropriate to the job, considering noise, dust, and - if using cutoff discs - exclusion area.
 
 Using:
 
-1. Keep hand away from chip port at all times
-1. Turn on router
-1. Place on material with plate level
-1. Slowly push router into material until bearing makes contact
-1. Conventional cut around the piece (CCW outside, CW inside) - Demonstrate how to figure this out rather than rote learning
-1. Can climb cut the last inch back to a corner if desired
-1. Start with end grain first, other operations can be used to hide tear out
+1. Turn on, and select appropriate speed for bit and material
+1. Ensure finger does not contact spindle lock button while tool is running.
+1. Moderate pressure to avoid putting too much load on motor (listen)
+1. Disconnect from power if walking away from the tool
+1. Ensure it can not fall or be knocked off table
 
 After:
 
-1. Remove battery
-1. Cleanup includes bench/ground, tool throws chips everywhere
-1. Remove router bit (may still be hot), return to case
+1. Disconnect tool, remove bit
 1. Leave collet nut loose (but on thread)
-
-Advanced operations:
-
-1. Using bits without guide bearings (usually better tool options)
+1. Return everything to correct space
+1. Cleanup includes bench/ground
+1. report any issues or breakages to infra or trainer
 
 
 ## Router (Plunge)

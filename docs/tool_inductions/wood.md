@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2025-10-08T02:33:11.105Z
+date: 2026-03-02T06:43:15.817Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -179,47 +179,66 @@ After:
 
 Advanced operations- specific training required before replacing belts. 
 
-## Jointer - (???)
+## Jointer (Tabletop)
 
-> Unclear which version of the tool this referred to
-{.is-warning}
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
 
+Lead: ???
+Signed off by: ???, ???
 
-Lead: XXX
-Signed off by: XXX
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y/M/N |  |
+| Eye protection (EMR)           | Y/M/N | Be very specific as to what is needed. (wavelength and shade/OD) |
+| Ear protection                 | Y/M/N | Include a sound rating if you can. |
+| Gloves (general)               | Y/M/N | Note if gloves are specifically contra-indicated. I.e. bench grinder, mill, lathe. |
+| Gloves (chemical)              | Y/M/N |  |
+| Gloves (heat)                  | Y/M/N |  |
+| Enclosed shoes                 | Y/M/N |  |
+| Safety boots                   | Y/M/N |  |
+| Mask/Respirator (dust)         | Y/M/N | Note required class of respirator cartridge. I.e. P1, P2, P3. |
+| Mask/Respirator (vapours)      | Y/M/N | Note required class of respirator filter cartridge. I.e. A, B, E, K. (Typically ABE for general chemical filtration.) |
+| Long sleeves                   | Y/M/N |  |
+| Natural fibre clothing         | Y/M/N |  |
 
-| Item                           | Requirement | Notes                                 |
-|--------------------------------|-------------|---------------------------------------|
-| Eye protection (impact/splash) | Y           |                                       |
-| Ear protection                 | Y           |                                       |
-| Gloves (general)               | N           | Spinning blades                       |
-| Enclosed shoes                 | Y           |                                       |
-| Safety boots                   | M           | Material weight dependant             |
-| Mask/Respirator (dust)         | Y           | Material toxicity dependant (MDF etc) |
+Allowed materials:
+
+* [Material]
+
+Specifically banned materials:
+
+* [Material2]
+
+Consumables:
+
+* [Consumable] - Provided (location)
+* [Consumable2] - Provided (required) (location)
+* [Consumable3] - Operator brings (restrictions)
 
 Pre:
 
-1. Check blades for sharpness and correct adjustment
-1. Ensure the workpiece is flat and free from loose knots
-1. Check material for fixings with metal detector
-1. Do not feed material in end grain up
-1. Consider fixing small pieces to larger board
-1. Warn others around you and give them an opportunity to don appropriate PPE
+1. Step 1
+1. Step 2
 
 Using:
 
-1. Move smoothly and keep your hands away from the blades
-1. Do not force material into machine
-1. Pass depth is dependant on material but is typically no more than 1 rotation
+1. Step 1
+1. Step 2
 
 After:
 
-1. Check blades for damage/material (disconnect first)
-1. Cleanup includes inside the machine, bench, and floor
+1. Step 1
+1. Step 2
+
+Advanced operations:
+
+1. [Operation]
 
 ## Jointer (Large)
 
 Not started: [template](/docs/tool_inductions/guide#template)
+
+
 
 ## Router (Table) ✔
 

@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-02-03T06:39:37.666Z
+date: 2026-03-13T23:35:22.157Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -167,13 +167,11 @@ Please use the bank account rather than the EFTPOS when paying for tool usage. T
 
 ## Keep your contact details up to date
 
-It's your responsibility to update this information in our Member Portal / TidyHQ when it changes.
+It's your responsibility to update this information in our Member Portal it changes.
 
 * Your full name
 * Your contact information (email and physical address)
 * Your emergency contact information
-
-TidyHQ is the system where you signed up as a member.
 
 ## Resignation
 
@@ -189,11 +187,9 @@ Please do not smoke anywhere in the shaded area. You can vape in the carpark/cou
 
 ## Where to report
 
-Most things are reported/requested via a form system built into Slack. Further slides will just list the form name.
+Most forms are found on the Member Portal under Processes -> Forms
 
-The exception is requests that have migrated to the Member Portal.
-
-![](https://wiki.artifactory.org.au/taiga_form.png)
+Further slides will just reference the form name.
 
 ## Injuries
 
@@ -219,11 +215,12 @@ Member Portal -> Profile
 
 ## Sheet material racks
 
-You can store sheets of material opposite the laser scrap and outside the machine room in the racks. Check the signs on each rack for:
+You can store sheets of material opposite the laser scrap and outside the machine room in the racks.
 
-* How your material must be labelled
-* How long it can be stored
-* How much you can store
+* There are limits on how much material you can store in the workshop and how long it can be left unused
+* Register your material via Member Portal -> Materials
+* Print a label and stick it to your sheet
+* Scan the QR when you use material to reset the timer or mark the material as consumed
 
 ## Workspace Usage
 
@@ -252,7 +249,7 @@ You may also be able to arrange with a key-holding member to attend the space wi
 
 Members who meet our requirements may apply for a 24/7 electronic key. The key requirements are fairly strict but aren't burdensome:
 
-Form: Apply for a key
+Form: Keyholder application
 
 * Hold your membership for at least two weeks, (Bare minimum for application to be considered)
 * Don't act against the interests of the Association, (Follow the Code of Conduct)
@@ -303,11 +300,11 @@ perart.io/tools
 
 ## How to get training
 
-Take a look in #training_and_inductions on Slack and put your hand up for an applicable induction slot
+Training slots are put up in advance through the portal and via #training-and-inductions closer to the booking date. You can also sign up for a general waitlist for a specific induction via the portal.
 
-![](https://perart.io/trainingchannel/qr-code)
+![](https://members.artifactory.org.au/qr?address=training/bookings&logo=1)
 
-perart.io/trainingchannel
+Member Portal -> Training -> Bookings
 
 ## How to check your existing training
 

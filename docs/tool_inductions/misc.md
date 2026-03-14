@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2026-02-22T06:46:07.702Z
+date: 2026-03-14T16:17:28.206Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -60,7 +60,8 @@ Pre:
 1. Check the condition of the platform and controls.
 1. Do not operate when alone in workshop
 1. Do not use side rails for lifting
-1. Unplug charging cable
+1. Unplug charging cable if connected
+1. Check battery levels, should be 12.8+
 
 Using:
 
@@ -74,7 +75,7 @@ Using:
 1. Slowly engage throttle
 1. Operator responsibility to maintain situational awareness
 1. Be careful when stepping off platform if loaded, may tip forward onto frame (solution is to prelift onto frame)
-1. Monitor for low battery symptoms (extra whining, low output power)
+1. Monitor for low battery symptoms (extra whining, low output power) or check battery levels
 1. Continue to monitor for attendees underneath when working at height
 
 After:

@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2025-06-07T09:40:32.759Z
+date: 2026-03-26T13:39:27.035Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -74,7 +74,7 @@ Certain plastics are completely banned from use on the lasers due to their dange
 > Mirrored acrylic may present a laser safety hazard to the machine operator. Consult a laser trainer before cutting this variant.
 {.is-warning}
 
-* **Material variations**: Apart from mirrored acrylic (see above) The primary safety concern with acrylic variants is when they have a UV coating on top. 
+* **Material variations**: Apart from mirrored acrylic (see above) The primary safety concern with acrylic variants is when they're advertised as UV resistant. These sheets may include additives that are not laser safe.
 * **Engraving finish**: Will clearly show the individual lines of an engrave unless the passes are quite light or very close together. Running an etch around the outside of engraved areas may provide a more visually distinctive line.
 * **Cleanup**: Deep engraves will leave a large amount of powder on the surface of the material. This can be removed using an air compressor and water. The top surface of the acrylic will typically be clear but the bottom may have some residue, particularly on thicker material. This can be somewhat negated by leaving the protective film on the bottom of the material.
 * **Painting**: If you're painting the entire material then you're probably better off sourcing a piece that's already the colour you want. For stencil work great success can be had by selectively removing the adhesive paper from the top of the material, painting, then removing the rest. This can be achieved in a few ways (The first will give a more robust finish, the second a smoother surface):

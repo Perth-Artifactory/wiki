@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2025-12-17T15:43:05.457Z
+date: 2026-03-30T13:10:52.289Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -362,7 +362,7 @@ Exclusions
 
 Payment method
 
-* Bank transfer, referencing "WELDING" followed by your surname. (???)
+* Bank transfer, referencing "WELDING" followed by your surname.
 
 ----
 

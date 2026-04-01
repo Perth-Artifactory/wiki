@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2026-03-30T13:10:52.289Z
+date: 2026-04-01T08:11:52.895Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -114,8 +114,6 @@ Tool usage fees generally reflect the cost of consumables, operation, maintenanc
 
 * Casual users of the Artifactory pay the workshop usage fee/Day Pass rate above, in addition to applicable tool usage fees.
 
-----
-
 ### 3D Printer - FDM
 
 Cost basis
@@ -161,8 +159,6 @@ Exclusions:
 >
 > The pricing for FDM 3D printing was revised on [2024-06-08](/minutes/Committee/2024-06-08) to include a tiered pricing system for different materials.
 
-----
-
 ### 3D Printer - Resin
 
 Cost basis
@@ -190,8 +186,6 @@ Payment method
 
 * Bank transfer, referencing "3D PRINT" followed by your surname.
 
-----
-
 ### CNC Router
 
 Cost basis
@@ -218,8 +212,6 @@ Exclusions
 Payment method
 
 * Bank transfer, referencing "SWARF" followed by your surname.
-
-----
 
 ### Laser cutter - Big Red
 
@@ -251,8 +243,6 @@ History
 
 * 2024-12-14: [Minimum fee for members increased from \$1.00 to \$2.00.](https://vote.artifactory.org.au/p/htMr34jb)
 
-----
-
 ### Laser cutter - Middle Red
 
 Cost basis
@@ -278,8 +268,6 @@ Exclusions
 Payment method
 
 * Bank transfer, referencing "LASER" followed by your surname.
-
-----
 
 ### Metal mill (Turret mill) - BM70-VE
 
@@ -307,8 +295,6 @@ Payment method
 
 * Bank transfer, referencing "MILL" followed by your surname.
 
-----
-
 ### Metal lathe
 
 Cost basis
@@ -334,8 +320,6 @@ Exclusions
 Payment method
 
 * Bank transfer, referencing "LATHE" followed by your surname.
-
-----
 
 ### Welding, with gas
 
@@ -364,7 +348,31 @@ Payment method
 
 * Bank transfer, referencing "WELDING" followed by your surname.
 
-----
+### Plasma Cutting
+
+Cost basis
+
+* Time, excluding setup time.
+
+Member rate
+
+* \$10.00 / hour
+
+Day Pass rate
+
+* \$20.00 / hour
+
+Inclusions
+
+* Electrodes
+
+Exclusions
+
+* N/A
+
+Payment method
+
+* Bank transfer, referencing "PLASMA" followed by your surname.
 
 ## Laser cutting job fees
 

@@ -2,7 +2,7 @@
 title: officer draft
 description: 
 published: true
-date: 2026-04-04T07:40:10.686Z
+date: 2026-04-04T08:46:54.266Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-03-21T07:11:06.392Z
@@ -33,7 +33,7 @@ Works with the committee, officers, and event hosts to promote the Artifactory's
 * Assist with preparing grant applications.
 * Keep a register of past, current, and potential grant applications, including key dates, outcomes, and reporting requirements.
 * Coordinate required reporting and acquittal processes for successful grants, in collaboration with the Treasurer and other relevant volunteers
-* Act as a point of contact for grant providers where appropriate
+* Act as a point of contact for grant providers where appropriate, including monitoring the grants@artifactory.org.au inbox.
 * Maintain templates, documentation, and resources to support future grant applications
 * Can autonomously apply for grants that do not require association expenditure or significant organisational commitments
 * Provide a report to the committee when requested.

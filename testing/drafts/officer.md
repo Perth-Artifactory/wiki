@@ -2,7 +2,7 @@
 title: officer draft
 description: 
 published: true
-date: 2026-03-21T07:11:06.392Z
+date: 2026-04-04T07:39:29.054Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-03-21T07:11:06.392Z
@@ -10,22 +10,30 @@ dateCreated: 2026-03-21T07:11:06.392Z
 
 ## Social Media Officer
 
-* Manage the Artifactory’s official social media accounts
-* Develop and implement a consistent posting schedule across platforms
-* Promote events, projects, and community activities in coordination with relevant officers, event hosts, and members
-* Engage with the community by responding to comments, messages, and mentions where appropriate
-* Moderate community content on social media to ensure compliance with the [Code of Conduct](/docs/committee/code_of_conduct)
-* Ensure content aligns with the Artifactory’s values, code of conduct, and public image as per our [Social Media Guidelines](/docs/policies/bylaws#social-media-guidelines)
-* Monitor platform performance and report on reach and engagement to the Committee as requested
+Promotes the Artifactory on social media.
+
+Works with the committee, officers, and event hosts to promote the Artifactory's activities and events.
+
+* Can represent the Artifactory on social media, including -
+  * Posting content as the Artifactory
+  * Responding to comments, messages, and mentions
+  * Moderating community content (e.g. comments) in line with our Code of Conduct
+
+* Can create content, or check content created by others, to ensure it aligns with -
+  * The Artifactory's mission, as expressed in our constitution,
+  * Our [Code of Conduct](/docs/committee/code_of_conduct),
+  * Our [Social Media Guidelines](/docs/policies/bylaws#social-media-guidelines).
+  
+* Provide a report to the committee when requested.
 
 ## Grants Officer
 
-* Identify and monitor grant opportunities relevant to the Artifactory’s activities and objects
-* Notify the Committee and relevant members of upcoming grant opportunities and deadlines
-* Coordinate the preparation and submission of grant applications in collaboration with the Committee and relevant volunteers
-* Maintain a register of past, current, and prospective grant applications, including outcomes and reporting requirements
-* Ensure grant applications align with the Artifactory’s strategic goals and capabilities
+* Identify grant opportunities relevant to the Artifactory.
+* Notify the committee of upcoming grant opportunities and deadlines.
+* Assist with preparing grant applications.
+* Keep a register of past, current, and potential grant applications, including key dates, outcomes, and reporting requirements.
 * Coordinate required reporting and acquittal processes for successful grants, in collaboration with the Treasurer and other relevant volunteers
 * Act as a point of contact for grant providers where appropriate
 * Maintain templates, documentation, and resources to support future grant applications
-* Autonomously apply for grants that do not require association expenditure or significant organisational commitments
+* Can autonomously apply for grants that do not require association expenditure or significant organisational commitments
+* Provide a report to the committee when requested.

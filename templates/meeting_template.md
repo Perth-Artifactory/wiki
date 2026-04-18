@@ -54,7 +54,7 @@ Previous meeting's minutes: [PPPP-PP-PP](/minutes/Committee/PPPP-PP-PP)
 
 | Motion Text | Moved by    | Seconded by       | Status            |
 | ----------- | ----------- | ----------------- | ----------------- |
-| MOTION TEXT | MOVER       | SECONDER          | Accepted/Rejected |
+| Accept the minutes of the previous meeting | MOVER       | SECONDER          | Accepted/Rejected |
 
 ### Review Previous Meeting's Action Items
 
@@ -135,6 +135,8 @@ The Treasurer's Disclaimer: The numbers below have been calculated in a quick wa
 | Date       | Cost      | Supplier                      | Item                               | Category                                                     | Authorisation |
 | ---------- | --------- | ----------------------------- | ---------------------------------- | ------------------------------------------------------------ | ------------- |
 
+
+
 | Motion Text | Moved by    | Seconded by       | Status            |
 | ----------- | ----------- | ----------------- | ----------------- |
 | Accept Expenses as reported above | MOVER       | SECONDER          | Accepted/Rejected |
@@ -153,6 +155,10 @@ Total Overdue -
 | ------------------------------------------ | ------------ |
 | Expense                                    | -$ xx,xxx.xx |
 
+
+### External Sales
+
+* Report on external sales revenue (to be filled in by the main liason with the external seller)
 
 
 ## Membership Report
@@ -215,6 +221,13 @@ Reports to be emailed in for review of committee when officer does not attend me
   * DETAILS
 * REPORT ITEM
   * DETAILS
+  
+### Social Media Officer
+
+* REPORT ITEM
+  * DETAILS
+* REPORT ITEM
+  * DETAILS
 
 ## Subcommittee Reports
 
@@ -261,6 +274,10 @@ Updates from subcommittees - discussions or requests for action.
   * DETAILS
 * REPORT ITEM
   * DETAILS
+  
+### Grants Subcommittee
+
+
 
 ## Event/Workshop Coordinator Reports
 

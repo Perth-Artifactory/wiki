@@ -2,7 +2,7 @@
 title: Misc Tools
 description: 
 published: true
-date: 2026-03-14T16:17:28.206Z
+date: 2026-04-27T08:31:42.806Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:41:36.498Z
@@ -89,8 +89,6 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Ladder ✓
 
-<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
-
 Lead: Fletcher Boyd
 Signed off by: Fletcher, Renae
 
@@ -126,7 +124,7 @@ Advanced operations:
 1. Lifting items while climbing - Maintaining points of contact, manual handlling
 1. Using ladder to access top of roof (ie where the sun hits) - Footing requirements, where it's safe to walk
 
-## Shop press
+## Shop press ✓
 
 Lead: Fletcher Boyd
 Signed off by: ???, Fletcher
@@ -141,6 +139,7 @@ Signed off by: ???, Fletcher
 | Mask/Respirator (dust)         | -   | Not required                      |
 
 Materials:
+
 * Some materials may explode when over-compressed, e.g. wood, paper, string.
   * See e.g. [Hydraulic Press Channel - Crushing Book with Hydraulic Press](https://youtu.be/PmvKlnhMjUw?t=111).
 * Do not compress springs or other objects that could be ejected from the press.
@@ -149,7 +148,7 @@ Materials:
 Pre:
 
 1. Check press for loose or damaged parts.
-1. Consider safety of bystanders. (All bystanders need to be wearing appropriate PPE.)
+1. Consider safety of bystanders (All bystanders need to be wearing appropriate PPE)
 1. Some parts being pressed may have a tendency to pop out of the press or explode under pressure. Protect yourself accordingly. Keep hands away from the pressure head and out of support rod holes. Always center the work piece on the table plates and center the pressure head on the work piece to prevent injury by ejection of the work piece.
 
 Using:

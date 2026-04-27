@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2026-04-27T08:35:02.633Z
+date: 2026-04-27T08:49:43.094Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -181,9 +181,56 @@ Advanced operations:
 
 1. Using bits without guide bearings (usually better tool options)
 
-## Sander (Portable Belt)
+## Sander (Portable Belt) ✓
 
-Not started: [template](/docs/tool_inductions/guide#template)
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: Fletcher Boyd
+Signed off by: Fletcher, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | Dust |
+| Ear protection                 | Y |  |
+| Gloves (general)               | N | Hands near spinning belt |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material dependant |
+| Mask/Respirator (dust)         | Y | P2, Material dependant |
+
+Allowed materials:
+
+* Wood (Metal detected or straight from supplier)
+
+Specifically banned materials:
+
+* Painted wood using AF belts
+
+Consumables:
+
+* [Consumable] - Provided (location)
+* [Consumable2] - Provided (required) (location)
+* [Consumable3] - Operator brings (restrictions)
+
+Pre:
+
+1. Pull trigger to ensure not locked on
+1. Check belt for wear (pull lever to change belt, check direction)
+1. Consider dust/noise management
+1. Consider material clamping
+1. Pull trigger with tool in air, check tracking, and adjust as needed
+
+Using:
+
+1. Two handed tool
+1. Place tool on surface (no downwards pressure)
+1. Spin up tool and sand (lock trigger if desired)
+1. Ensure tool is flat on the surface of the wood (no tip sanding)
+1. Do not remain in one spot, continual movements
+1. Keep power cable clear of sander
+
+After:
+
+1. Cleanup includes tool, work surface, ground, environment
 
 ## Saw (Circular) ✓
 

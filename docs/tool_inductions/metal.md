@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2026-02-22T05:36:37.170Z
+date: 2026-04-27T07:59:27.055Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -153,12 +153,12 @@ After:
 1. Let the machine cool completely before cleaning
 1. Clean machine and work area
 
-## Torch (Oxy-Acetelyne)
+## Torch (Oxy-Acetelyne) ✓
 
 <!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
 
-Lead: ???
-Signed off by: ???, ???
+Lead: Fletcher Boyd
+Signed off by: Fletcher
 
 | Item  | Requirement | Notes  |
 | - | - | - |
@@ -221,10 +221,6 @@ Forging/Heating:
 1. Position inner tip at surface of material for concentrated heat, further back for wider heating
 1. Forging works better with offsider to handle torch
 
-Welding:
-
-1.
-
 Cutting:
 
 1. Preheat cut path until cherry red
@@ -233,7 +229,7 @@ Cutting:
 
 After:
 
-1. Close oxygen torch regulator followed by acetylene (We have decent flashback arrestors and the torch pops the othe rway around)
+1. Close oxygen torch regulator followed by acetylene (We have decent flashback arrestors and the torch pops the other way around)
 1. Close bottle valves
 1. Allow parts to cool before handling
 1. Allow torch to cool before removing head
@@ -246,7 +242,8 @@ After:
 
 Advanced operations:
 
-1. Flame polishing
+* Flame polishing
+* Welding
 
 ## Welder (MIG)
 

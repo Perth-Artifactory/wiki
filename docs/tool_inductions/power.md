@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2026-03-02T07:21:25.468Z
+date: 2026-04-27T08:34:51.633Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -109,6 +109,7 @@ Using:
 1. Place router on material at minimum plunge
 1. Turn on router
 1. Slowly lower bit into material until desired depth is achieved
+1. Lock router at depth
 1. Use conventional cutting not climb cutting when not slot cutting (CCW outside, CW inside) - Demonstrate how to figure this out rather than rote learning
 1. Adjust spindle speed based on cut
 1. Take lighter passes if bit isn't cutting as expected

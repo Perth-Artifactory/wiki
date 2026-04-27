@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2026-04-27T08:34:51.633Z
+date: 2026-04-27T08:35:02.633Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -67,7 +67,7 @@ After:
 1. report any issues or breakages to infra or trainer
 
 
-## Router (Plunge)
+## Router (Plunge) ✓
 
 Lead: Fletcher Boyd
 Signed off by: Fletcher, ???

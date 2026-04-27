@@ -2,7 +2,7 @@
 title: Metal
 description: 
 published: true
-date: 2026-04-27T07:59:27.055Z
+date: 2026-04-27T08:13:34.685Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:17:00.618Z
@@ -70,16 +70,16 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 This tool is in multiple categories. [Master](/docs/tool_inductions/wood#drill-press)
 
-## Plasma Cutter
+## Plasma Cutter (Cigweld)
 
-Lead: XXX
+Lead: Fletcher Boyd
 Signed off by: Fletcher, XXX
 
 | Item  | Requirement | Notes  |
 | - | - | - |
 | Face protection (impact/splash) | M | Situational depending on position/material |
 | Eye protection (EMR)           | Y | Shade 6+ |
-| Ear protection                 | Y | Compressed air noise |
+| Ear protection                 | M | Compressed air noise |
 | Gloves (heat)                  | Y | Welding gloves |
 | Safety boots                   | Y | Sparks through bottom of material |
 | Mask/Respirator (dust)         | N | Disposable P2 masks are flammable |
@@ -93,7 +93,51 @@ Consumables:
 
 Pre:
 
-1. Inspect tip and cap for damage/wear
+1. Inspect tip, cap, offset prongs, earth clamp/lead, torch/lead for damage/wear. Cutter will also warn if electrode is too worn.
+1. Consider fire risk from sparks
+1. Connect to compressed air and test flow with pressure test (400kPa absolute minimum
+1. Connect earth clamp - Use welding bench if clean or to part of material that will remain on the bench post cut (electrical safety considerations)
+1. Adjust current for material thickness and comfortable feed speeds - Too low/fast and it won't cut through, too high/slow and material will warp. Internet has useful cut charts
+
+Using:
+
+1. Both offset prongs should be in contact with the material
+1. Start torch at 90° if cutting from edge, 45° then pulled up to 90° if from center
+1. Monitor spark direction, they should come straight out the other side of the piece. (Back at operator/opposite feed direction = too fast, Going straight down but gouging on surface/warping = too slow)
+1. Running too slow will increase blowout on backside of material
+1. Continue to reassess fire risk now that spark path is known
+1. Consider slow dross vs fast dross - slow dross is easier to knock off at the end but there'll be more
+
+After:
+
+1. Cut/dross will be sharp
+1. Torch tip and material are both hot, cool down before putting away
+1. Cleanup includes sweeping up spark debris if used inside
+
+## Plasma Cutter (Rossi)
+
+Lead: ???
+Signed off by: Fletcher, XXX
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Face protection (impact/splash) | M | Situational depending on position/material |
+| Eye protection (EMR)           | Y | Shade 6+ |
+| Ear protection                 | M | Compressed air noise |
+| Gloves (heat)                  | Y | Welding gloves |
+| Safety boots                   | Y | Sparks through bottom of material |
+| Mask/Respirator (dust)         | N | Disposable P2 masks are flammable |
+| Mask/Respirator (vapours)      | M | Material dependant |
+| Long sleeves                   | Y | Radiation |
+| Natural fibre clothing         | Y | Sparks |
+
+Consumables:
+
+1. Torch consumables are in the office, ask a committee member for a set if required (kept secure because equipment can be used inappropriately in a way that burns through a lot of tips)
+
+Pre:
+
+1. Inspect tip, cap, earth clamp/lead, torch/lead for damage/wear
 1. Consider fire risk from sparks
 1. Connect to compressed air and test flow with drain
 1. Connect earth clamp - Use welding bench if clean or to part of material that will remain on the bench post cut (electrical safety considerations)
@@ -106,6 +150,7 @@ Using:
 1. Monitor spark direction, they should come straight out the other side of the piece. (Back at operator/opposite feed direction = too fast, Going straight down but gouging on surface/warping = too slow)
 1. Running too slow will increase blowout on backside of material
 1. Continue to reassess fire risk now that spark path is known
+1. Consider slow dross vs fast dross - slow dross is easier to knock off at the end but there'll be more
 
 After:
 

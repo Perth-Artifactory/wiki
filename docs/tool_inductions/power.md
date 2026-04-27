@@ -2,7 +2,7 @@
 title: Power Tools
 description: 
 published: true
-date: 2026-04-27T08:49:43.094Z
+date: 2026-04-27T09:06:32.922Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T15:35:54.682Z
@@ -18,7 +18,44 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Portable Planer
 
-Not started: [template](/docs/tool_inductions/guide#template)
+<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
+
+Lead: Fletcher Boyd
+Signed off by: Fletcher, ???
+
+| Item  | Requirement | Notes  |
+| - | - | - |
+| Eye protection (impact/splash) | Y | Dust |
+| Ear protection                 | Y |  |
+| Gloves (general)               | N | Hands near spinning blade |
+| Enclosed shoes                 | Y |  |
+| Safety boots                   | M | Material dependant |
+| Mask/Respirator (dust)         | Y | P2, Material dependant |
+
+Allowed materials:
+
+* Wood (Metal detected or straight from supplier)
+
+Pre:
+
+1. Check blades for damage, cleanliness (report)
+1. Use knob to set cut depth
+1. Check kickstand moves freely (if present)
+1. Set chip outfeed direction
+
+Using:
+
+1. Planer is a two handed tool
+1. Spin up tool completely before engaging material
+1. Keep front/back of planer level on material (it's fine to do edge passes)
+1. Start passes before blade engages (ie don't drop blade into material)
+1. Do not put tool flat on workbench while spinning if kickstand not present
+1. Do not put tool on cable
+
+After:
+
+1. Cleanup includes tool, work surface, floor, environemnt. It will have thrown chips everywhere
+1. Check blades for damage, cleanliness (after disconnecting tool) - Clean with white spirits if required
 
 ## Rotary Tool 
 
@@ -207,9 +244,8 @@ Specifically banned materials:
 
 Consumables:
 
-* [Consumable] - Provided (location)
-* [Consumable2] - Provided (required) (location)
-* [Consumable3] - Operator brings (restrictions)
+* Sanding belt - Low grit
+* Sanding belt - Other grits (user provided)
 
 Pre:
 

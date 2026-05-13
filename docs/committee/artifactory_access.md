@@ -2,7 +2,7 @@
 title: Artifactory Access
 description: 
 published: true
-date: 2025-08-08T06:43:42.352Z
+date: 2026-05-13T07:45:06.995Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:45:47.883Z
@@ -16,12 +16,7 @@ You can find our opening hours on [Google Maps](https://g.page/theperthartifacto
 
 ## 24/7 access
 
-Members who meet the [requirements for 24/7 access](https://wiki.artifactory.org.au/docs/policies/bylaws#h-247-access) can apply for an access key.
-
-* Apply using the Taiga form in Slack. (`Submit a form` > `Apply for a key`)
-
-![taiga_form.png](/taiga_form.png)
-
+Members who meet the [requirements for 24/7 access](https://wiki.artifactory.org.au/docs/policies/bylaws#h-247-access) can apply for an access key. (details are on that page)
 
 ## Member Access
 

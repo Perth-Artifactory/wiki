@@ -2,7 +2,7 @@
 title: Keyholder Responsibilities
 description: 
 published: true
-date: 2025-04-24T01:10:54.957Z
+date: 2026-05-13T06:27:07.789Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:51.979Z
@@ -16,9 +16,7 @@ dateCreated: 2022-10-17T16:46:51.979Z
 Before you can get a 24/7 access key, you need to -
 
 * Meet the [application requirements for 24/7 access](https://wiki.artifactory.org.au/en/docs/policies/bylaws#h-247-access)
-* Apply using the Taiga form in Slack. (`Submit a form` > `Apply for a key`)
-
-![taiga_form.png](/taiga_form.png)
+* Apply via the portal
 
 ## Contacting the committee
 

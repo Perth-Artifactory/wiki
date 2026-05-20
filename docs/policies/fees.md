@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2026-04-01T08:11:52.895Z
+date: 2026-05-20T09:54:33.514Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -380,7 +380,8 @@ If you only need to use the laser cutters for one job, the easiest way may be to
 
 The fee for this service is -
 
-* Day Pass Rate + operator time @ $5.00 per 10 minutes, rounded up to the nearest $5.
+* Day Pass + laser run time @ $5.00 per 10 minute block + operator time @ $5.00 per 10 minute block.
+* Laser run time is the time that the machine spends cutting your job.
 * Operator time includes both -
   * The time that the operator spends setting up your job, and
   * The time that the machine spends cutting your job, which the operator must supervise at all times.
@@ -389,3 +390,22 @@ This fee does not include the supply of material.
 
 * Only certain types of material are compatible with the laser cutters - check the [laser materials](/tools/lasers/materials) page or ask us beforehand.
 * Some materials may be available to purchase on the day - ask us beforehand.
+
+History:
+* 2026-05-20: [Clarified the fee structure.](https://vote.artifactory.org.au/d/IkeKV4ou/laser-cutting-3d-printing-job-fees/0)
+
+## 3D printing job fees
+
+If you only need to use the 3D printers for one job, the easiest way may be to ask one of our volunteers to set up and print the job for you.
+
+The fee for this service is -
+
+* Day Pass + tool usage fee (at the Day Pass rate) + operator time @ $5.00 per 10 minute block.
+
+* The tool usage fee includes the cost of all material used to print your job, including supports, purged material, and failed prints.
+
+* Operator time includes all time that the operator spends on your job, including set-up and machine operation.
+
+History:
+
+* 2026-05-20: [Introduced.](https://vote.artifactory.org.au/d/IkeKV4ou/laser-cutting-3d-printing-job-fees/0)

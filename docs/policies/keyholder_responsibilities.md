@@ -2,7 +2,7 @@
 title: Keyholder Responsibilities
 description: 
 published: true
-date: 2026-05-13T06:27:07.789Z
+date: 2026-06-03T06:53:11.123Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:51.979Z
@@ -38,7 +38,7 @@ The committee can be contacted via:
   - You are expected to conduct yourself as if you are the face of the Artifactory. (Be polite/welcoming).
   - If you are not prepared to take on this responsibility do not leave the doors open.
 - If you are working alone, ensure you assess what you are doing and only undertake tasks you are comfortable doing alone. If a job would be safer with a second set of hands defer it until others are around to help.
-- Every key holder must maintain accurate personal and emergency contact details in TidyHQ at all times.
+- Every key holder must maintain accurate personal and emergency contact details in the member portal at all times.
 - The committee reserves the right to revoke your key at any time for any reason. You will be notified by email or other communications method as they see fit.
 
 ## History

@@ -1,5 +1,5 @@
 ---
-title: yyyy-mm-dd
+title: "yyyy-mm-dd"
 description: 
 published: true
 date: 2025-03-28T06:56:32.519Z

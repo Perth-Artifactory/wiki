@@ -2,8 +2,8 @@
 title: How to give a tour
 description: 
 published: true
-date: 2026-02-20T14:59:52.173Z
-tags: restricted-officer
+date: 2026-07-04T03:22:09.766Z
+tags: 
 editor: markdown
 dateCreated: 2025-01-11T09:56:27.999Z
 ---

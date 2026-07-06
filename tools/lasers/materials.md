@@ -2,7 +2,7 @@
 title: Laser Material Advice
 description: What can I put in the laser cutters?
 published: true
-date: 2026-03-26T13:39:27.035Z
+date: 2026-07-06T14:19:29.926Z
 tags: official
 editor: markdown
 dateCreated: 2023-02-11T10:17:46.852Z
@@ -182,6 +182,15 @@ When burnt ABS releases a variety of gases including hydrogen cyanide which is t
 ### Natural fibers
 
 Cut fast to prevent fire. Consider drastically lowering corner power.
+
+#### Wool fabric (e.g. tweed)
+
+Cut quality will depend on the colour but fairly easy to achieve a good result suitable for cloting panels.
+
+Cut: 200 mm/s, 70% power, 2 passes (two lighter passes reduces singeing)
+Engrave: 600mm/s, 5% power
+
+Airing out the fabric after cutting for several days removes any lingering burnt smell.
 
 ### Synthetic cloth
 

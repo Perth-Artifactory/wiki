@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-07-15T09:13:41.148Z
+date: 2026-07-15T09:16:54.898Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -239,9 +239,9 @@ If you find you are using a lot of a communal supply (super glue, turpentine, ma
 
 ## Slack
 
-Slack is the number one point of contact for anything and everything Artifactory.
+Outside of the member portal Slack is the number one point of contact for anything and everything Artifactory.
 
-If you would like to be trained on a certain machine, report a fault with the equipment, or even need input and advice for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
+Whether it's chatting with other members of the community or asking for input and advice for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
 
 artifactory.org.au/slack
 
@@ -255,7 +255,9 @@ artifactory.org.au/events
 
 ## Network Storage
 
-You can create a folder in our "Member Work" network server (despite the name). It's connectable from all of our workstations.
+There is a shared storage space accessible from all space computers. Opt in for a folder via the portal.
+
+Storage -> Files
 
 ## Wiki
 

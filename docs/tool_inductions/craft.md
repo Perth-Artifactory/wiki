@@ -2,7 +2,7 @@
 title: Craft
 description: 
 published: true
-date: 2026-07-15T09:01:41.205Z
+date: 2026-07-15T12:46:55.216Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2026-02-20T11:57:59.582Z
@@ -18,11 +18,6 @@ Not started: [template](/docs/tool_inductions/guide#template)
 
 ## Ultrasonic Knife
 
-<!-- Once the documentation is complete and has been signed off etc add a ✓ to the tool name-->
-
-Lead: ???
-Signed off by: ???, ???
-
 | Item  | Requirement | Notes  |
 | - | - | - |
 | Eye protection (impact/splash) | M | Material dependant, knife pressure may cause flying shards |
@@ -31,8 +26,10 @@ Signed off by: ???, ???
 Allowed materials:
 
 * Plastic
+* Vinyl
 * Fabric
 * Foam
+* Paper
 * Cardboard
 * Thin light wood (Balsa etc)
 
@@ -42,7 +39,7 @@ Specifically banned materials:
 
 Consumables:
 
-* Blades - Purchased at bar
+* Blades - Purchased at bar (operator stores their own)
 
 Pre:
 
@@ -56,5 +53,6 @@ Using:
 
 After:
 
+1. Disengage battery
 1. Remove blade
 1. Put knife on charge after heavy use

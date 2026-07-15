@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-03-02T07:05:19.703Z
+date: 2026-07-15T07:56:13.468Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -51,6 +51,7 @@ Pre:
 1. Ensure tool is far enough from wall for length of cut/material (so it doesn't hit the wall)
 1. Use proper blade for material and cut type
 1. Check material for fixings (nails etc) using metal detector
+1. Ensure material is stable and not undercut (risk of material twisting and bending blade and/or blade contacting hand
 1. Table positioning
 1. Set blade guide height (No lock)
 1. Fence positioning
@@ -63,6 +64,7 @@ Using:
 1. Use push sticks for narrow pieces
 1. Spin up completely before blade contacts material
 1. Push gently, do not overload tool
+1. Do not put pressure onto blade by squeezing cut closed from the side
 1. Do not clear material from blade/fence with fingers
 
 After:

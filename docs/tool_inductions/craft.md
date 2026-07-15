@@ -2,7 +2,7 @@
 title: Craft
 description: 
 published: true
-date: 2026-07-15T12:46:55.216Z
+date: 2026-07-15T12:48:46.397Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2026-02-20T11:57:59.582Z
@@ -54,5 +54,5 @@ Using:
 After:
 
 1. Disengage battery
-1. Remove blade
+1. Remove blade (will be hot if just used)
 1. Put knife on charge after heavy use

@@ -2,7 +2,7 @@
 title: New visitor induction
 description: A presentation powered by reveal.js
 published: true
-date: 2025-10-29T08:38:01.275Z
+date: 2026-07-15T09:13:41.148Z
 tags: official
 editor: markdown
 dateCreated: 2024-10-30T07:25:49.816Z
@@ -128,13 +128,13 @@ Please use the bank account rather than the EFTPOS when paying for tool usage. T
 
 ## Keep your contact details up to date
 
-It's your responsibility to update this information in TidyHQ when it changes.
+It's your responsibility to update this information in the member portal when it changes.
 
 * Your full name
 * Your contact information (email and physical address)
 * Your emergency contact information
 
-TidyHQ is the system you used when you signed up as a visitor.
+members.artifactory.org.au
 
 ## Smoke free 
 
@@ -193,21 +193,11 @@ Most of our tools will include a coloured dot indicating their category. A full 
 
 perart.io/tools
 
-## How to get training
+## How to book/check training
 
-Take a look in #training_and_inductions on Slack and put your hand up for an applicable induction slot.
+Training is managed through the portal
 
-![](https://perart.io/trainingchannel/qr-code)
-
-perart.io/trainingchannel
-
-## How to check your existing training
-
-Search for Training Tracker on Slack
-
-![](https://perart.io/check_training/qr-code)
-
-perart.io/check_training
+members.artifactory.org.au
 
 ## Training refreshers and training expiry
 
@@ -222,10 +212,12 @@ We may let you know via TidyHQ if you need refresher training. (depending on whe
 ## BYO tools
 
 * Casual attendees can only BYO tools if authorised by a committee member or event host
+* Typically only approved for tools related to a specific event (soldering iron at Arduino U etc)
 * Low risk tools do not need further approval
 
 ##
 
+* Unlikely to be approved as a day pass user
 * Medium and high risk tools require an approval process before they can be used
 * You need to hold the relevant Artifactory induction and justify why our version of the tool isn't suitable to a trainer
 * Reach out to a committee member if you're unsure on a tool classification or wish to bring in a medium/high risk tool

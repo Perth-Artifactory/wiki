@@ -2,7 +2,7 @@
 title: Craft
 description: 
 published: true
-date: 2026-07-15T08:20:48.840Z
+date: 2026-07-15T09:01:41.205Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2026-02-20T11:57:59.582Z
@@ -46,7 +46,7 @@ Consumables:
 
 Pre:
 
-1. Fit blade to handle
+1. Fit blade to handle (Blades are sharp even when not running)
 1. Rotate battery 90d clockwise to engage (light should come on at the back)
 
 Using:

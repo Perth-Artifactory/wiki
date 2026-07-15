@@ -2,7 +2,7 @@
 title: Craft
 description: 
 published: true
-date: 2026-07-15T08:19:36.490Z
+date: 2026-07-15T08:20:48.840Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2026-02-20T11:57:59.582Z
@@ -51,13 +51,10 @@ Pre:
 
 Using:
 
+1. Slide switch into position (momentary vs locked)
 1. When cutting assume knife may cut faster than expected (don't put things you care about in the cut path)
 
 After:
 
-1. Step 1
-1. Step 2
-
-Advanced operations:
-
-1. [Operation]
+1. Remove blade
+1. Put knife on charge after heavy use

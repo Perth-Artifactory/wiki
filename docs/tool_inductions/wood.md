@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-07-15T07:56:13.468Z
+date: 2026-07-15T08:07:42.157Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -51,7 +51,7 @@ Pre:
 1. Ensure tool is far enough from wall for length of cut/material (so it doesn't hit the wall)
 1. Use proper blade for material and cut type
 1. Check material for fixings (nails etc) using metal detector
-1. Ensure material is stable and not undercut (risk of material twisting and bending blade and/or blade contacting hand
+1. Ensure material is stable and not undercut (risk of material twisting and bending blade or blade contacting hand)
 1. Table positioning
 1. Set blade guide height (No lock)
 1. Fence positioning
@@ -59,7 +59,7 @@ Pre:
 
 Using:
 
-1. Saw is more powerful than previous saw - will go through things quicker so don't put your fingers inline with the blade while applying force Also takes longer to spin up and stop.
+1. Don't put your fingers inline with the blade while applying force
 1. Keep fingers away from blade path
 1. Use push sticks for narrow pieces
 1. Spin up completely before blade contacts material
@@ -357,7 +357,7 @@ After:
 1. Vacuuming includes plate, bench, floor, and under spindle guard
 1. Return all spindles/guards etc to their respective holders
 
-## Saw (Mitre) ✔
+## Saw (Compound) ✔
 
 Lead: Renae Currie
 Signed off by: Renae, Fletcher
@@ -373,12 +373,11 @@ Signed off by: Renae, Fletcher
 
 Materials:
 
-* Wood (Must be metal detected unless freshly purchased from Bunnings etc)
+* Dry wood (Must be metal detected unless freshly purchased from supplier)
 * Acrylic
 * Aluminium (Saw may be permitted to be set up for aluminium with approval from infra by installing an old or personal blade, and completing detailed clean up)
 
 Consumables: General Purpose crosscut blade installed. Report to infra if damaged or blunt. Personal blades may be used with permission  Any blade change to be reported to infra and logged
-
 
 Pre:
 
@@ -392,6 +391,7 @@ Pre:
 1. Align piece with blade (can sit blade on material to check or use laser)
 1. Adjust table slides to support material
 1. Ensure workpiece is firmly placed against both sides of the fence
+1. Ensure workpiece is flat to the saw table and cannot roll (ie not round)
 1. Ensure workpiece is secured (both before and after cut)
 1. Consider stop block if appropriate (show in-built block)
 1. Confirm saw will be able to drop with no obstructions

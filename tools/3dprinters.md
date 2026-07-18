@@ -2,7 +2,7 @@
 title: 3D Printers
 description: 
 published: true
-date: 2025-10-05T04:31:21.327Z
+date: 2026-07-18T09:54:20.126Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:53:24.985Z
@@ -35,15 +35,19 @@ Our FDM slicers are primarily sliced using [PrusaSlicer](https://www.prusa3d.com
 | Printer                                                                                                   | Status                  | Build volume | Training Category  |
 | --------------------------------------------------------------------------------------------------------- | ----------------------- | ------------ | ------------------ |
 | [Bambu Labs P1S #1 (2x AMS)](https://au.store.bambulab.com/products/p1s)                                  | ✔️ Operational          | 256x256x256  | FDM/Bambu-Enclosed |
-| [Bambu Labs X1C (1x AMS)](https://au.store.bambulab.com/products/x1-carbon-3d-printer)                    | ✔️ Operational          | 256x256x256  | FDM/Bambu-Enclosed |
+| [Bambu Labs P1S #2 (1x AMS)](https://au.store.bambulab.com/products/p1s)                                  | ✔️ Operational          | 256x256x256  | FDM/Bambu-Enclosed |
+| [Bambu Labs X1C (1x AMS)](https://au.store.bambulab.com/products/x1-carbon-3d-printer)                    | ✔️ Operational          | 256x256x256  | FDM/Bambu-Enclosed, FDM/Bambu-Engineering |
+| [Bambu Labs H2C (1x AMS, 1x AMS-HT)](https://bambulab.com/en-au/h2c)                    | ✔️ Operational          |  325x320x320  | FDM/Bambu-Enclosed, FDM/Bambu-Engineering |
+| [Bambu Labs A2L (1x AMS)](https://bambulab.com/en-au/a2l)                                       | ✔️ Operational          | 330x320x325  | FDM/Bambu-Open     |
 | [Bambu Labs A1 (1x AMS)](https://au.store.bambulab.com/products/a1)                                       | ✔️ Operational          | 256x256x256  | FDM/Bambu-Open     |
-| [Bambu Labs A1 Mini #1](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
-| [Bambu Labs A1 Mini #2](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
+| [Bambu Labs A1 Mini #1](https://au.store.bambulab.com/products/a1-mini)                                   | ❌️ Awaiting new location | 180x180x180  | FDM/Bambu-Open     |
+| [Bambu Labs A1 Mini #2](https://au.store.bambulab.com/products/a1-mini)                                   | ❌️ Awaiting new location | 180x180x180  | FDM/Bambu-Open     |
 | [Bambu Labs A1 Mini #3](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
 | [Bambu Labs A1 Mini #4](https://au.store.bambulab.com/products/a1-mini)                                   | ✔️ Operational          | 180x180x180  | FDM/Bambu-Open     |
 | [Prusa Mk4](https://www.prusa3d.com/product/original-prusa-mk4-2/)                                        | ✔️ Operational          | 250x210x220  | FDM/Prusa Mk4      |
-| [Prusa XL-5T](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) | ❌️ Out of service       | 360x360x360  | FDM/Prusa XL       |
 | [Sovol SV08 Max](https://www.sovol3d.com/products/sovol-sv08-max-3d-printer)                              | ✔️ Operational          | 500x500x500  | FDM/Sovol          |
+| [Prusa XL-5T](https://www.prusa3d.com/en/product/original-prusa-xl-semi-assembled-5-toolhead-3d-printer/) | ❌️ Out of service       | 360x360x360  | FDM/Prusa XL       |
+
 
 ### Filament compatibility
 

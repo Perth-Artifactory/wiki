@@ -2,7 +2,7 @@
 title: Fees
 description: 
 published: true
-date: 2026-05-20T09:54:33.514Z
+date: 2026-07-22T10:44:27.022Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:30.717Z
@@ -121,8 +121,9 @@ Cost basis
 * Weight of part including supports/purging as outlined by the slicer. (Use slicer weight but not slicer cost).
 * When a print is cancelled a best effort estimation of filament used should be made using the bench top scales in the room.
 * Filament is split into tiers based on material cost and equipment wear.
-  * The authoritative reference for filament categorisation is the [filament stock](/tools/3dprinters/filament_stock) page.
-  * Filament categorisation is determined by the 3D Printers Subcommittee.
+* The authoritative reference for filament categorisation is the [filament stock](/tools/3dprinters/filament_stock) page.
+* Filament categorisation is determined by the 3D Printers Subcommittee.
+* BYO filament for engineering materials (tier 3/4 only) is restricted to members that hold the engineering material printing induction. Each individual spool must be approved by a member of the 3D Printing Subcommittee. This is the only category of BYO filament allowed in the workshop.
 
 Member rate
 
@@ -130,6 +131,7 @@ Member rate
 * Tier 2: $0.10 / gram
 * Tier 3: $0.15 / gram
 * Tier 4: $0.20 / gram
+* Tier 3-4 BYO: $0.10 / gram
 
 Rounded up to the nearest $1.00 at the end of the day.
 
@@ -143,21 +145,22 @@ Day Pass rate
 Rounded up to the nearest $1.00 at the end of the day. $20 minimum.
 
 > "Tier 0" on the [filament stock](/tools/3dprinters/filament_stock) page represents filament that hasn't been assigned to a tier yet.
->
 > "Tier 5" represents specialty filament which does not have normal pricing. Enquire with a member of the 3D Printing Subcommittee.
+
 {.is-info}
 
 Inclusions:
 
-* Filament (No BYO)
+* Filament (BYO members only and heavily restricted - see above)
 
 Exclusions:
 
 * N/A
 
-> **History:**
->
-> The pricing for FDM 3D printing was revised on [2024-06-08](/minutes/Committee/2024-06-08) to include a tiered pricing system for different materials.
+History
+
+* [2026-07-25](/minutes/Committee/2026-07-25) BYO engineering filament was introduced for members
+* [2024-06-08](/minutes/Committee/2024-06-08) The pricing for FDM 3D printing was revised on to include a tiered pricing system for different materials.
 
 ### 3D Printer - Resin
 

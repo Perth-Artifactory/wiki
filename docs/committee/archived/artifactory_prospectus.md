@@ -2,8 +2,8 @@
 title: PROSPECTUS
 description: 
 published: true
-date: 2023-07-17T08:28:25.125Z
-tags: 
+date: 2026-07-25T00:49:06.423Z
+tags: restricted-committee
 editor: markdown
 dateCreated: 2022-10-17T16:45:56.790Z
 ---

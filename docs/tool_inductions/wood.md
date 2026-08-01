@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-07-15T08:07:42.157Z
+date: 2026-08-01T10:58:40.317Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -772,6 +772,7 @@ After:
 
 1. Disconnect dust extractor and empty bag if over half full
 1. Clean all dust and chips from machine and floor.
+1. Wipe feed rollers with white spirits
 
 Advanced operations:
 

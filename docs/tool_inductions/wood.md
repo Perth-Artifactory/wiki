@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-08-01T10:58:40.317Z
+date: 2026-08-01T11:05:06.500Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -132,10 +132,9 @@ After:
 
 Advanced operation: additional training required for changing speed. Belts must be reset to original position.
 
-## Fixed Belt Sander ✔
-
+## Fixed Belt Sander 
 Lead: Fletcher Boyd
-Signed off by: Fletcher, Renae
+Signed off by: 
 
 | Item                           | Requirement | Notes                                            |
 |--------------------------------|-------------|--------------------------------------------------|
@@ -148,25 +147,26 @@ Signed off by: Fletcher, Renae
 Material: 
 
 * Wood
-* Coated, waxed or dirty material may damage belt/disc. Users are expected to purchase replacement belt or disc if this occurs.
+* Coated, waxed or dirty material may damage belt. Users are expected to purchase replacement belt  if this occurs.
 
 No metal/plastic etc
 
 Consumables:
-Discs and belts of various grits are available for use. Training required for changing belts. Coarse belt and mid-grit disc to be left on tool after use. Replacement belts in office. Report to infra if belt becomes damaged or excessively worn so new spare can be purchased
+Belts of various grits are available for use. Training required for changing belts. Coarse belt (60 Grit) to be left on tool after use. Replacement belts in office. Report to infra if belt becomes damaged or excessively worn so new spare can be purchased
 
 Pre:
 
-1. Ensure the belt is correctly seated and tightly secured (or disc is firmly attached)
-1. Check belt/disc is appropriate for material (type) and job (grit)
-1. Inspect belt/disc for wear, damage, and cleanliness (show how to clean)
-1. Ensure fence/table is set to appropriate angle if using
+1. Ensure the belt is correctly seated and tightly secured 
+1. Check belt is appropriate for material (type) and job (grit)
+1. Inspect belt for wear, damage, and cleanliness (show how to clean)
+1. Show how to move between horizontal and vertical positions, and reasons for each
+1. Ensure table is set to appropriate angle if using
 1. Consider operator position (Is sitting down better due to angles/length of cut)
-1. Turn on dust extractor and set gates
+1. Set gates and turn on dust extractor 
 
 Using:
 
-1. Do not force material into belt/disc
+1. Do not force material into belt
 1. Move left/right as appropriate (explain center line on disc)
 1. Do not angle material away from you on the belt (catches)
 1. Consider how material is held and what happens if material catches
@@ -175,8 +175,7 @@ Using:
 After:
 
 1. Turn off dust extractor with red button not estop
-1. Clean belt/disc if material building is noticeable (would you need to clean it if you started using the machine now)
-1. Remove chair if used
+1. Clean belt if material building is noticeable (would you need to clean it if you started using the machine now)
 1. Vacuuming includes: table, belt, under guard, floor
 
 Advanced operations- specific training required before replacing belts. 

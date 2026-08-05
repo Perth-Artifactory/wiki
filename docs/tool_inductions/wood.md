@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-08-05T03:41:11.703Z
+date: 2026-08-05T08:20:26.118Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -177,7 +177,7 @@ Using:
 After:
 
 1. Turn off dust extractor with red button not estop
-1. Clean belt if material building is noticeable (would you need to clean it if you started using the machine now)
+1. Clean belt if material build-up is noticeable (would you need to clean it if you started using the machine now)
 1. Drop table to lowest position
 1. Reset angle to vertical
 1. Vacuuming includes: table, t slots, belt, floor

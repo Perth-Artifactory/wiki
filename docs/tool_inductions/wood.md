@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-08-05T03:37:53.527Z
+date: 2026-08-05T03:38:22.483Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -163,7 +163,7 @@ Pre:
 1. Show how to move between horizontal and vertical positions, and reasons for each
 1. Set table height to even out wear on the belt
 1. Consider operator position (is sitting down better due to angles/job time)
-1. Set gates and turn on dust extractor 
+1. Set gates and turn on dust extractor
 
 Using:
 

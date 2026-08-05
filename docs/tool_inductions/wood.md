@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-08-01T11:08:13.439Z
+date: 2026-08-05T03:35:51.658Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -134,12 +134,12 @@ Advanced operation: additional training required for changing speed. Belts must 
 
 ## Fixed Belt Sander 
 Lead: Fletcher Boyd
-Signed off by: Renae
+Signed off by: Renae, Fletcher
 
 | Item                           | Requirement | Notes                                            |
 |--------------------------------|-------------|--------------------------------------------------|
 | Eye protection (impact/splash) | Y           | Dust                                             |
-| Ear protection                 | M           | Tool is over 85db, consider for long jobs (1hr+) |
+| Ear protection                 | M           | Tool is over 90db, required for long jobs (1hr+) |
 | Gloves (general)               | N           | Moving parts                                     |
 | Enclosed shoes                 | Y           |                                                  |
 | Mask/Respirator (dust)         | M           | P2 if material is toxic (MDF etc)                |
@@ -147,12 +147,13 @@ Signed off by: Renae
 Material: 
 
 * Wood
-* Coated, waxed or dirty material may damage belt. Users are expected to purchase replacement belt  if this occurs.
+* Coated, waxed or dirty material may damage belt. Users are expected to purchase replacement belt if this occurs.
 
 No metal/plastic etc
 
 Consumables:
-Belts of various grits are available for use. Training required for changing belts. Coarse belt (60 Grit) to be left on tool after use. Replacement belts in office. Report to infra if belt becomes damaged or excessively worn so new spare can be purchased
+
+* Belts of various grits are available for use. Training required for changing belts. Coarse belt (60 Grit) to be left on tool after use. Replacement belts in office. Report to infra if belt becomes damaged or excessively worn so new spare can be purchased
 
 Pre:
 
@@ -160,15 +161,14 @@ Pre:
 1. Check belt is appropriate for material (type) and job (grit)
 1. Inspect belt for wear, damage, and cleanliness (show how to clean)
 1. Show how to move between horizontal and vertical positions, and reasons for each
-1. Ensure table is set to appropriate angle if using
-1. Consider operator position (Is sitting down better due to angles/length of cut)
+1. Set table height to even out wear on the belt
+1. Consider operator position (is sitting down better due to angles/job time)
 1. Set gates and turn on dust extractor 
 
 Using:
 
 1. Do not force material into belt
-1. Move left/right as appropriate (explain center line on disc)
-1. Do not angle material away from you on the belt (catches)
+1. Do not angle the tail end of material towards the CNC router (catches)
 1. Consider how material is held and what happens if material catches
 1. If material catches, do not try and retrieve with machine on
 
@@ -176,9 +176,17 @@ After:
 
 1. Turn off dust extractor with red button not estop
 1. Clean belt if material building is noticeable (would you need to clean it if you started using the machine now)
-1. Vacuuming includes: table, belt, under guard, floor
+1. Drop table to lowest position
+1. Reset angle to vertical
+1. Vacuuming includes: table, t slots, belt, floor
 
-Advanced operations- specific training required before replacing belts. 
+Advanced operations:
+
+Specific training required before:
+
+* Changing belts
+* Spindle plate
+* Over-belt fence
 
 ## Jointer (Benchtop)
 

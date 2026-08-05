@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-08-05T03:35:51.658Z
+date: 2026-08-05T03:37:53.527Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -169,6 +169,7 @@ Using:
 
 1. Do not force material into belt
 1. Do not angle the tail end of material towards the CNC router (catches)
+1. If not using the table move the piece across the belt to even out wear
 1. Consider how material is held and what happens if material catches
 1. If material catches, do not try and retrieve with machine on
 

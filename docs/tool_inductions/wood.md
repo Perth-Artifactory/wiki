@@ -2,7 +2,7 @@
 title: Wood
 description: 
 published: true
-date: 2026-08-05T03:38:22.483Z
+date: 2026-08-05T03:41:11.703Z
 tags: restricted-officer
 editor: markdown
 dateCreated: 2024-01-27T10:06:35.646Z
@@ -162,6 +162,7 @@ Pre:
 1. Inspect belt for wear, damage, and cleanliness (show how to clean)
 1. Show how to move between horizontal and vertical positions, and reasons for each
 1. Set table height to even out wear on the belt
+1. Set mitre guide if using
 1. Consider operator position (is sitting down better due to angles/job time)
 1. Set gates and turn on dust extractor
 

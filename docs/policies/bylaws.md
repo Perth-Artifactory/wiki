@@ -2,7 +2,7 @@
 title: By-laws
 description: 
 published: true
-date: 2025-11-05T08:42:52.939Z
+date: 2026-08-14T16:39:12.522Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:12.439Z
@@ -15,7 +15,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | 24/7 Access                                                | See below                                                                                                                                          |
 | Asynchronous online-only motions (online committee voting) | [Administration - Asynchronous online-only motions](https://wiki.artifactory.org.au/docs/policies/administration#asynchronous-online-only-motions) |
 | Automotive projects                                        | [Automotive Projects](/docs/policies/automotive-projects)                                                                                          |
-| BYO Tools                                                  | [BYO Tools](/docs/policies/byo-tools) |
+| BYO Tools                                                  | [BYO Tools](/docs/policies/byo-tools)                                                                                                              |
 | Car park                                                   | [Storage - Car Park](/docs/policies/storage#car-park)                                                                                              |
 | Casual Makers (Day Pass)                                   | [Fees - Workshop usage fees](/docs/policies/fees#workshop-usage-fees)                                                                              |
 | Ceasing membership + the member's projects                 | [Storage - Direction to remove property](/docs/policies/storage#direction-to-remove-property)                                                      |
@@ -23,6 +23,7 @@ This page lists by-laws which the committee has made, as allowed for by the [Con
 | Duties delegated by the secretary                          | [Administration - duties delegated by the secretary](/docs/policies/administration#duties-delegated-by-the-secretary)                              |
 | Events and workshops                                       | [Administration - Events and workshops](/docs/policies/administration#events-and-workshops)                                                        |
 | Expense Approvals                                          | [Administration - Artifactory Expenses](/docs/policies/administration#artifactory-expenses)                                                        |
+| Friends of the Artifactory                                 | [Friends of the Artifactory](/docs/policies/friends_of_the_artifactory)                                                                            |
 | Hazardous Waste                                            | See below                                                                                                                                          |
 | Intellectual / physical property                           | See below                                                                                                                                          |
 | Keyholder responsibilities                                 | [Keyholder responsibilities](/docs/policies/keyholder_responsibilities)                                                                            |

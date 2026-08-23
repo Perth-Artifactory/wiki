@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2025-09-25T14:43:46.781Z
+date: 2026-08-23T05:29:40.282Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -44,7 +44,7 @@ See [2025-2026_committee](/docs/committee/2025-2026_committee)
 * [Events Officer(s)](/docs/policies/officers): Johannes Chuah
 * [IT Officer](/docs/policies/officers): Vacant
 * [Membership Officer(s)](/docs/policies/officers): Fletcher Boyd
-* [Member Storage Officer](/docs/policies/officers): Vacant
+* [Member Storage Officer](/docs/policies/officers): Lewis Peaty
 * [Quartermaster(s)](/docs/policies/officers): Fletcher Boyd
 * [Rehearsal Room Coordinator(s)](/docs/policies/officers): Position discontinued
 * [The Ambassador](docs/policies/classes_of_membership) - Magnus Danger Magnus

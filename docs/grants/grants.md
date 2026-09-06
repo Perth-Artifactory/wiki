@@ -2,7 +2,7 @@
 title: Grants Subcommittee
 description: 
 published: true
-date: 2026-05-20T13:14:36.369Z
+date: 2026-09-06T06:54:40.312Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-05-20T13:14:36.369Z
@@ -10,11 +10,15 @@ dateCreated: 2026-05-20T13:14:36.369Z
 
 ## Grants Sub-Committee
 
+> This subcommittee is not yet active.
+> It needs at least two members to become active.
+{.is-warning}
+
 ### Members
 
 | Name                   | Contact details on file in TidyHQ † |
 |------------------------|-------------------------------------|
-| XXX (Chair)            | Yes                                 |
+| Anna Whitlock (Chair)  | Yes                                 |
 | XXX                    | Yes                                 |
 | XXX                    | Yes                                 |
 | XXX                    | Yes                                 |

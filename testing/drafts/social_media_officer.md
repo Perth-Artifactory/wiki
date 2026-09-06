@@ -2,7 +2,7 @@
 title: Social Media Officer
 description: 
 published: true
-date: 2026-05-23T06:58:07.463Z
+date: 2026-09-06T07:04:07.806Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-05-20T13:56:16.267Z
@@ -25,3 +25,7 @@ Works with the committee, officers, and event hosts to promote the Artifactory's
   * Our [Social Media Guidelines](/docs/policies/bylaws#social-media-guidelines).
   
 * Provide a report to the committee when requested.
+
+### History
+
+* Created [2026-05-26](https://vote.artifactory.org.au/p/nY53KJqD/adopt-the-social-media-officer-role-as-amended).

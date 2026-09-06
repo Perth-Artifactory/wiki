@@ -2,7 +2,7 @@
 title: Grants Subcommittee
 description: 
 published: true
-date: 2026-09-06T06:54:40.312Z
+date: 2026-09-06T07:00:22.956Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-05-20T13:14:36.369Z
@@ -53,3 +53,8 @@ To help the Artifactory identify grant opportunities, apply for grants, and mana
 ### Record keeping
 
 File all permanent records under the [Grants folder in the Artifactory's Google Drive](https://drive.google.com/drive/folders/1a4JEqrM-sRBnQeOwWueyh8m2G4EKexj6).
+
+### History
+
+* Created [2026-05-26](https://vote.artifactory.org.au/p/ED6St2wK/create-the-grants-subcommittee-based-on-the-current-draft-definition).
+* Anna Whitlock appointed [2026-05-30](https://vote.artifactory.org.au/p/yDbiqs38/appoint-anna-whitlock-as-the-chair-of-the-grants-subcommittee).

@@ -2,7 +2,7 @@
 title: Officers
 description: 
 published: true
-date: 2025-11-05T08:35:48.582Z
+date: 2026-09-06T07:05:50.181Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:39.410Z
@@ -78,7 +78,26 @@ Defined at committee meeting 2019-10-02
 * Open and administer trade accounts on behalf of the Artifactory provided that they do not include a line of credit
 * Communicate with suppliers and commercial donors on behalf of the Artifactory.
 
+## Social Media Officer
+
+Promotes the Artifactory on social media.
+
+Works with the committee, officers, and event hosts to promote the Artifactory's activities and events.
+
+* Represents the Artifactory on social media, including -
+  * Posting content as the Artifactory
+  * Responding to comments, messages, and mentions
+  * Moderating community content (e.g. comments) in line with our Code of Conduct
+
+* Creates content, or check content created by others, to ensure it aligns with -
+  * The Artifactory's mission, as expressed in our constitution,
+  * Our [Code of Conduct](/docs/committee/code_of_conduct),
+  * Our [Social Media Guidelines](/docs/policies/bylaws#social-media-guidelines).
+  
+* Provide a report to the committee when requested.
+
 ## History
 
+* [2026-05-26](https://vote.artifactory.org.au/p/nY53KJqD/adopt-the-social-media-officer-role-as-amended) - Social media officer created.
 * 2025-03-22 - Bulk roll updates
 * 2024-07-31 - Amended to add an [annual review of all officer positions](https://vote.artifactory.org.au/d/AFOuYcfH/annual-review-of-office-holders-and-subcommittees).

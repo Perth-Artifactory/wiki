@@ -23,21 +23,20 @@ The table of contents on the left side of the page forms the agenda of this meet
 ## Members Present
 
 * Present: REMOVE NOT PRESENT
+    * Allan Clarke
     * Anna Whitlock
     * Ben Connor
     * Fletcher Boyd
-    * Johannes Chuah
-    * Joshua Rospondek
+	* Jack Hou
     * Lewis Peaty
     * Lewis Yip
     * Renae Currie
-    * Tegan Murphy
     
 * Apologies: NAMES
 * Absent: NAMES
 * Observing: NAMES
-* Minute taker: LewisY
-* Chair: Fletcher
+* Minute taker: Lewis Yip
+* Chair: Fletcher Boyd
 
 * Quorum present (4 committee members): YES/NO
 
@@ -72,7 +71,10 @@ Previous meeting's minutes: [PPPP-PP-PP](/minutes/Committee/PPPP-PP-PP)
 > - *The full text of the online motion; and*
 > - *The result of the online motion, e.g. passed, failed, lapsed, or withdrawn.*
 >
-> You can get the text and results of online motions by copy pasting out of Loomio.
+> You can get the list of Loomio motions by:
+>
+> 1. Logging into `util`
+> 2. `~/projects/loomio-proxy/run.sh`
 >
 > Also note that the start of a committee meeting causes all outstanding online motions to lapse.
 {.is-info}
@@ -83,6 +85,11 @@ Previous meeting's minutes: [PPPP-PP-PP](/minutes/Committee/PPPP-PP-PP)
 | XXXX.XX.XX  | XXXX.XX.XX     | The text of the motion | Passed/Rejected/Lapsed |
 
 ## Correspondence
+
+> **Note to the secretary (delete after reading)**
+>
+> Go through our email inbox and list out any correspondence we have had with other organisations.
+{.is-info}
 
 * CORRESPONDENCE
 
@@ -128,7 +135,7 @@ The Treasurer's Disclaimer: The numbers below have been calculated in a quick wa
 
 ### Income/Expenditure
 
-* Insert table from TidyHQ
+* Insert income/expense report
 
 ### Expense Report
 
@@ -146,6 +153,18 @@ The Treasurer's Disclaimer: The numbers below have been calculated in a quick wa
 Total Due - 
 Total Overdue -
 
+#### Members terminated for non-payment of invoices:
+
+The following amounts have been deemed to be unrecoverable.
+
+If there is a future request to attend, these amounts will need to be paid.
+
+* J. Doe - $xxx. Paid first month only. No response to email.
+
+| Motion Text | Moved by    | Seconded by       | Status            |
+| ----------- | ----------- | ----------------- | ----------------- |
+| Write off invoices above | MOVER | SECONDER | Accepted/Rejected |
+
 ### Infrastructure Fund
 
 | Total in Fund                              |  $ xx,xxx.xx |
@@ -158,8 +177,12 @@ Total Overdue -
 
 ### External Sales
 
-* Report on external sales revenue (to be filled in by the main liason with the external seller)
+> **Note to the secretary (delete after reading)**
+>
+> See the spreadsheets located in [Committee Google Drive - Sales](https://docs.google.com/spreadsheets/d/1PL0zLXOpur5SmqNDlAN5fkCemguDuOkz4_Sz0oiMUb8/edit?usp=drive_link).
+{.is-info}
 
+* Report on external sales revenue (to be filled in by the main liason with the external seller)
 
 ## Membership Report
 
@@ -167,7 +190,7 @@ Total Overdue -
 
 > **Note to the secretary (delete after reading)**
 >
-> Populate using information from [Artifactory Reports - Membership Numbers](https://reports.tele.artifactory.org.au/pages/member_count.html).
+> Populate using information from [Member Portal - Subscriptions - Analytics](https://members.artifactory.org.au/admin/subscriptions/analytics). Use the table under "Subscription count changes" - there's a "Export Markdown" function.
 {.is-info}
 
 | Class      | This month | Prev month | Diff |
@@ -181,9 +204,9 @@ Total Overdue -
 
 > **Note to the secretary (delete after reading)**
 >
-> Populate using information from [Artifactory Reports - Members awaiting approval](https://reports.tele.artifactory.org.au/pages/awaiting_approval.html).
+> Populate using information from [Member Portal - Admin Tools - Subscriptions - Approvals](https://members.artifactory.org.au/admin/subscriptions/approvals). There's an "Export Markdown" button at the top.
 >
-> After the meeting, go into TidyHQ and mark the members as approved.
+> After the meeting, go into Member Portal and process the approvals.
 {.is-info}
 
 | Motion Text | Moved by    | Seconded by       | Status            |
@@ -194,7 +217,10 @@ Total Overdue -
 
 Reports to be emailed in for review of committee when officer does not attend meeting.
 
-### Event Officer
+### Event Officer (internal events)
+
+> Event Officer: Johannes Chuah
+{.is-info}
 
 * REPORT ITEM
   * DETAILS
@@ -203,12 +229,18 @@ Reports to be emailed in for review of committee when officer does not attend me
 
 ### Quartermasters
 
+> Quartermaster: Fletcher Boyd
+{.is-info}
+
 * REPORT ITEM
   * DETAILS
 * REPORT ITEM
   * DETAILS
 
 ### Membership Officers
+
+> Membership Officer: Fletcher Boyd
+{.is-info}
 
 * REPORT ITEM
   * DETAILS
@@ -217,12 +249,18 @@ Reports to be emailed in for review of committee when officer does not attend me
 
 ### Membership Storage Officer
 
+> Membership Storage Officer: Lewis Peaty
+{.is-info}
+
 * REPORT ITEM
   * DETAILS
 * REPORT ITEM
   * DETAILS
   
 ### Social Media Officer
+
+> Social Media Officer: Vacant
+{.is-info}
 
 * REPORT ITEM
   * DETAILS
@@ -235,6 +273,10 @@ Updates from subcommittees - discussions or requests for action.
 
 ### Laser Subcommittee
 
+> Laser Subcommittee: Blake Samuels (chair), Fletcher Boyd, Lewis Yip, Nick Bannon
+{.is-info}
+
+
 * REPORT ITEM
   * DETAILS
 * REPORT ITEM
@@ -242,12 +284,18 @@ Updates from subcommittees - discussions or requests for action.
 
 ### IT Subcommittee
 
+> IT Subcommittee: Fletcher Boyd (chair), Blake Samuels, Nick Bannon, Tom White
+{.is-info}
+
 * REPORT ITEM
   * DETAILS
 * REPORT ITEM
   * DETAILS
 
-### Promotions Subcommittee
+### Promotions Subcommittee (external events)
+
+> Promotions Subcommittee: Johannes Chuah (chair), Penny Wood, (???)
+{.is-info}
 
 * REPORT ITEM
   * DETAILS
@@ -256,12 +304,18 @@ Updates from subcommittees - discussions or requests for action.
 
 ### Associate Memberships Panel
 
+> Associate Memberships Panel: Ben Connor (chair), Johannes Chuah, Renae Currie
+{.is-info}
+
 * REPORT ITEM
   * DETAILS
 * REPORT ITEM
   * DETAILS
 
 ### Infrastructure Subcommittee
+
+> Infrastructure Subcommittee: Joshua Rospondek (chair), Ben Connor, Fletcher Boyd, Renae Currie
+{.is-info}
 
 * REPORT ITEM
   * DETAILS
@@ -270,6 +324,10 @@ Updates from subcommittees - discussions or requests for action.
 
 ### 3D Printers Subcommittee
 
+> 3D Printers Subcommittee: Tom White (chair), Fletcher Boyd, Penny Wood, Ross Minney, Sophie Murday
+{.is-info}
+
+
 * REPORT ITEM
   * DETAILS
 * REPORT ITEM
@@ -277,6 +335,8 @@ Updates from subcommittees - discussions or requests for action.
   
 ### Grants Subcommittee
 
+> Grants Subcommittee: Tom White (chair), Fletcher Boyd, Penny Wood, Ross Minney, Sophie Murday
+{.is-info}
 
 
 ## Event/Workshop Coordinator Reports

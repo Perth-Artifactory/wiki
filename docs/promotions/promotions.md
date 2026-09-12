@@ -2,7 +2,7 @@
 title: Promotions Subcommittee
 description: 
 published: true
-date: 2026-01-21T02:31:02.221Z
+date: 2026-09-12T08:13:57.792Z
 tags: 
 editor: markdown
 dateCreated: 2022-10-17T16:51:50.764Z
@@ -12,9 +12,9 @@ dateCreated: 2022-10-17T16:51:50.764Z
 
 | Name                  | Contact details on file in TidyHQ † | Expense authority |
 | --------------------- | ----------------------------------- | ----- |
+| Anna Whitlock (Chair) | Yes                                 | Chair |
 | Penny Wood            | Yes                                 | None |
-| Johannes Chuah (Chair)       | Yes                                 | Chair |
-| Tegan Murphy (appointed [2025-09-13](/minutes/Committee/2025-09-13)) | Yes | None |
+| Johannes Chuah        | Yes                                 | None |
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
 {.is-info}
@@ -78,3 +78,4 @@ Indefinite.
 * Phoebe-Jean Harris was excused from the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
 * Penny Wood was appointed to the Promotions subcommittee on [2024-09-14](/minutes/Committee/2024-09-14).
 * [2025-12-14](/minutes/Committee/2025-12-14) - Johannes Chuah appointed as chairperson of the subcommittee.
+* [2026-09-12](/minutes/Committee/2026-09-12) - Tegan Murphy resigned. Anna Whitlock appointed. Anna Whitlock appointed to chairperson position.

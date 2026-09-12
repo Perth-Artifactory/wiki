@@ -2,7 +2,7 @@
 title: Committee
 description: 
 published: true
-date: 2026-08-23T05:29:40.282Z
+date: 2026-09-12T09:35:44.491Z
 tags: needs revision
 editor: markdown
 dateCreated: 2022-10-17T16:46:41.519Z
@@ -37,7 +37,7 @@ Guides to Office Bearer roles:
 
 ## Committee Members
 
-See [2025-2026_committee](/docs/committee/2025-2026_committee)
+See [2026-2027_committee](/docs/committee/2026-2027_committee)
 
 ## Officers
 

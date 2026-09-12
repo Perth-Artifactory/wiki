@@ -2,7 +2,7 @@
 title: Grants Subcommittee
 description: 
 published: true
-date: 2026-09-06T07:00:22.956Z
+date: 2026-09-12T08:16:15.323Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-05-20T13:14:36.369Z
@@ -10,18 +10,12 @@ dateCreated: 2026-05-20T13:14:36.369Z
 
 ## Grants Sub-Committee
 
-> This subcommittee is not yet active.
-> It needs at least two members to become active.
-{.is-warning}
-
 ### Members
 
 | Name                   | Contact details on file in TidyHQ † |
 |------------------------|-------------------------------------|
 | Anna Whitlock (Chair)  | Yes                                 |
-| XXX                    | Yes                                 |
-| XXX                    | Yes                                 |
-| XXX                    | Yes                                 |
+| Penny Wood             | Yes                                 |
 
 
 > † *Section 58(2) of the Associations Incorporation Act 2015 (WA) requires the Association to maintain a record of the names and addresses of the persons who "hold other offices of the association provided for by its rules", such as members of subcommittees.*
@@ -58,3 +52,4 @@ File all permanent records under the [Grants folder in the Artifactory's Google 
 
 * Created [2026-05-26](https://vote.artifactory.org.au/p/ED6St2wK/create-the-grants-subcommittee-based-on-the-current-draft-definition).
 * Anna Whitlock appointed [2026-05-30](https://vote.artifactory.org.au/p/yDbiqs38/appoint-anna-whitlock-as-the-chair-of-the-grants-subcommittee).
+* Penny Wood appointed [2026-09-12](/minutes/Committee/2026-09-12).

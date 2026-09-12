@@ -2,7 +2,7 @@
 title: Past Committee
 description: This is a non exhaustive list of past Artifactory committees.
 published: true
-date: 2025-09-13T06:55:24.135Z
+date: 2026-09-12T09:44:52.601Z
 tags: official
 editor: markdown
 dateCreated: 2022-11-20T10:14:02.887Z
@@ -10,7 +10,7 @@ dateCreated: 2022-11-20T10:14:02.887Z
 
 | Year  | Chair | Vice Chair | Secretary | Treasurer | Deputy Secretary | Deputy Treasurer | OCM | OCM | OCM | OCM | OCM | OCM |
 | ----- | ----- | ---------- | --------- | --------- | ---------------- | ---------------- | --- | --- | --- | --- | --- | --- |
-| 25-26 | Fletcher Boyd | Anna Whitlock | Lewis Yip | Renae Currie | Vacant | Vacant | Ben Connor | Johannes Chuah | Joshua Rospondek | Lewis Peaty | Tegan Murphy | N/A |
+| 25-26 | Fletcher Boyd | Anna Whitlock | Lewis Yip | Renae Currie | Vacant | Lewis Peaty (appointed [2025-11-22](/minutes/Committee/2025-11-22) | Ben Connor | Johannes Chuah | Joshua Rospondek | Lewis Peaty (promoted to Deputy Treasurer [2025-11-22](/minutes/Committee/2025-11-22) | Tegan Murphy | N/A |
 | 24-25 | Johannes Chuah | Fletcher Boyd | Lewis Yip | Renae Currie | Tegan Murphy | Ben Connor | Joshua Rospondek | Anna Whitlock (Appointed 2025-08-23) | Lewis Peaty (Appointed 2025-08-23) | Vacant | N/A | N/A |
 | 23-24 | Beau Scott (17/03-)<br>Johannes Chuah | Fletcher Boyd | Lewis Yip | Renae Currie | Tegan Murphy | Ben Connor | Johannes Chuah (-17/03) | Joshua Rospondek | Vacant | N/A | N/A | N/A |
 | 22-23 | Beau Scott  | Vincent Dalstra | Lewis Yip | Fletcher Boyd | Phoebe-Jean Harris | Ben Connor + Renae Currie | Johannes Chuah | Joshua Rospondek | Vacant | N/A | N/A | N/A |
@@ -25,4 +25,4 @@ dateCreated: 2022-11-20T10:14:02.887Z
 
 Committee membership over time is summarised in the timeline below. Some details have been simplified for clarity.
 
-![committee_timeline_2025-09-13.png](/committee/committee_timeline_2025-09-13.png)
+![committee_timeline_2026-09-12.png](/docs/committee/committee_timeline_2026-09-12.png)

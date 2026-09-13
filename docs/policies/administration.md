@@ -2,7 +2,7 @@
 title: Administration
 description: 
 published: true
-date: 2025-11-05T08:37:57.355Z
+date: 2026-09-13T08:40:30.310Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-27T14:21:03.205Z
@@ -18,7 +18,7 @@ In these by-laws, unless the contrary intention appears, all terms are as define
 
 ## Artifactory Expenses
 
-Last modified via online motion recorded at the [2025-08-23](/minutes/Committee/2025-08-23) meeting of the Management Committee.
+Last modified via online motion recorded at the [2026-08-22](/minutes/Committee/2026-08-22) meeting of the Management Committee.
 
 The Treasurer is authorised to reimburse/pay for the following expenses without seeking committee approval. The Treasurer may refer a particular payment to the Management Committee for approval at their discretion.
 
@@ -26,6 +26,7 @@ The Treasurer is authorised to reimburse/pay for the following expenses without 
 * Bank and merchant fees
 * Utilities (eg. internet, welding gas, rubbish disposal, and electricity)
 * Fees associated with maintaining the membership database (eg. TidyHQ)
+* Accounting software subscription fees (eg. Xero)
 * Filing and administration fees incurred by the Secretary (eg. DMIRS)
 * Public building compliance costs (eg. fire extinguishers, fixtures, event toilets)
 * Kitchen and bar restocks

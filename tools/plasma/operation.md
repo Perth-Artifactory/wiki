@@ -2,7 +2,7 @@
 title: Plasma Cutter Operation Guide
 description: 
 published: true
-date: 2026-09-14T19:21:36.550Z
+date: 2026-09-14T20:51:07.138Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-14T17:39:16.293Z
@@ -42,7 +42,7 @@ dateCreated: 2026-09-14T17:39:16.293Z
 ## Material setup
 
 * **Consider manual handling**. Material used in this machine may be unsafe for one person to move alone (weight). Consider getting another attendee to assist.
-* **Position the material** near the center of the bed (reduces splashing). When cutting small parts (<150mm Y) ensure the part will be completely supported by at least two slats OR will drop cleanly into the bath.
+* **Position the material** near the center of the bed (reduces splashing). When cutting small parts (<150mm Y) ensure the part will be completely supported by at least two slats OR will drop cleanly into the bath. With smallish parts or light material all start points should be supported by at least two slats.
 * **Be mindful of coming into contact with the bath liquid**. If you come into contact with the bath liquid while positioning material go wash your hands in the toilet or outside sink before continuing with further steps (not the kitchen sink). Bath liquid has no *immediate* negative effect on your skin but should be washed off within several minutes. It may also stain your clothes depending on the current composition.
 
 ## Job setup
@@ -76,6 +76,7 @@ dateCreated: 2026-09-14T17:39:16.293Z
 * **Position the head over the desired job origin** using the arrow keys or by disabling the motion system using the silver switch and manually moving the torch.
 * **Set the zero point** by pressing `F8 Zero`
 * **Check that the job will fit on your material** by tracing the job using the arrow keys
+* **Check that all start points are adequately supported**. Before each pierce the torch will touch off against the material. If the material is not adequately supported or heavy it will tip up.
 * **Return the head to the zero point** by pressing `F7 (Manual Move)` -> `F8 (GoBack)` -> `Enter`
 
 ## Cutting
@@ -87,8 +88,9 @@ dateCreated: 2026-09-14T17:39:16.293Z
   * Sparks: Natural fibre clothing
   * EMR: Shade 5 glasses or face shield when at console, Welding helmet in cut mode when closely observing torch
 * **Start the job** by pressing `Start` then `Enter`
-* **Monitor the job**. Look for parts tilting when cut or material warping
+* **Monitor the job**. Look for parts tilting when cut, material warping due to heat, or piercing near material adges. If a problem arises stop the job and correct, do not attempt to retrieve/brace material while the machine is running.
 * **Adjust cut speed** as required.
+* **At the end of each job** the controller will prompt you with `Are You Sure to Return?` (sic). Pressing `Enter` will return the head to the zero point.
 * **Wait for air to stop**. Compressed air will run through the torch after your cut until the tip is cool. To avoid getting splashed wait until the air stops before proceeding.
 
 ## Packup
@@ -98,6 +100,7 @@ dateCreated: 2026-09-14T17:39:16.293Z
 * **Clear the head** by disengaging the motion system and manually moving the torch to the left side of the table.
 * **Replace the bath lid**
 * **Disconnect and coil cables**
+* **Stow the head** by manually moving the torch to the right side of the table.
 * **Return table to storage**
 
 

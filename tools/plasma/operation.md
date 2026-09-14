@@ -2,7 +2,7 @@
 title: Plasma Cutter Operation Guide
 description: 
 published: true
-date: 2026-09-14T18:39:05.331Z
+date: 2026-09-14T19:13:39.465Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-14T17:39:16.293Z
@@ -37,6 +37,7 @@ dateCreated: 2026-09-14T17:39:16.293Z
   * **Compressed air**: Workshop air into back of filter on the back of the plasma unit
 * **Turn on the plasma unit** using the switch at the front.
 * **Disengage motor control** using the metal switch above the controller screen and gently move the head so it will be well clear of material during loading.
+* **Remove bath cover**
 
 ## Material setup
 
@@ -55,11 +56,45 @@ dateCreated: 2026-09-14T17:39:16.293Z
   * **Angle**: `F2 (Angle)` -> `F2 (Input Rotation Angle)
   * **Duplicates**: `F3 (Array)` -> `Straight` or `Stagger` depending on layout requirements (reducing excess heat at corners etc)
 * **Set your origin point**. (While still in the Part Option menu)
-  * Press `F1 Start Point`
+  * Press `F1 (Start Point)`
   * Select your desired origin
-  * Press `F8 OK` then `F8` to save settings and return to home screen.
+  * Press `F8 (OK)` then `F8` to save settings and return to home screen.
 * **Raise the torch** higher than the material using `S↑`
-* 
+* **Consult the cut chart** for voltage, pierce time, and suggested starting speed
+* **Set the voltage**:
+  * Press `F4 (Setups) -> F3 (Plasma)
+  * Navigate to `Set Arc Voltage` using the down arrow
+  * Type in the voltage specified in the cut chart
+  * Press `F8 (Save) -> F8`
+* **Set the pierce time** using `2`/`3`
+* **Ensure height control is set to `AutoTHC` not `ManualTHC` using `0`
+* **Set the cut speed**:
+  * Press `X` to open the input field
+  * Type the speed using the numpad. You may need to type `.00` after the speed to fill out the rest of the field.
+* **Ensure `Manual` mode is set to `KeepMov`
+* **Position the head over the desired job origin** using the arrow keys or by disabling the motion system using the silver switch and manually moving the torch.
+* **Set the zero point** by pressing `F8 Zero`
+* **Check that the job will fit on your material** by tracing the job using the arrow keys
+* **Return the head to the zero point** by pressing `F7 (Manual Move)` -> `F8 (GoBack)` -> `Enter`
+
+## Cutting
+
+* **Shield attendees and equipment** using welding screens
+* **Warn surrounding attendees** not to step around the screen without appropriate PPE. Ear protection may be required regardless.
+* **Don PPE**
+  * Sound: Earplugs or ear muffs
+  * Sparks: Natural fibre clothing
+  * EMR: Shade 5 glasses or face shield when at console, Welding helmet in cut mode when closely observing torch
+* **Start the job** by pressing `Start` then `Enter`
+* **Monitor the job**. Look for parts tilting when cut or material warping
+* **Adjust cut speed** as required.
+* **Wait for air to stop**. Compressed air will run through the torch after your cut until the tip is cool. To avoid getting splashed wait until the air stops before proceeding.
+* **Remove your pieces** while wearing nitrile gloves at a minimum (parts will be wet) or work gloves if parts are sharp.
+* **Stow welding screens**
+* **Clear the head** by disengaging the motion system and manually moving the torch to the left side of the table.
+* **Replace the bath lid**
+* **Disconnect and coil cables**
+* **Return table to storage**
 
 
 

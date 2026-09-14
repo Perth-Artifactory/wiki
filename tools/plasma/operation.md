@@ -2,7 +2,7 @@
 title: Plasma Cutter Operation Guide
 description: 
 published: true
-date: 2026-09-14T20:51:07.138Z
+date: 2026-09-14T20:52:54.487Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-14T17:39:16.293Z
@@ -42,6 +42,8 @@ dateCreated: 2026-09-14T17:39:16.293Z
 ## Material setup
 
 * **Consider manual handling**. Material used in this machine may be unsafe for one person to move alone (weight). Consider getting another attendee to assist.
+* **Consider material bowing**. Material should face down ∩ to prevent rocking.
+* **Remove protective covering** from the material if present.
 * **Position the material** near the center of the bed (reduces splashing). When cutting small parts (<150mm Y) ensure the part will be completely supported by at least two slats OR will drop cleanly into the bath. With smallish parts or light material all start points should be supported by at least two slats.
 * **Be mindful of coming into contact with the bath liquid**. If you come into contact with the bath liquid while positioning material go wash your hands in the toilet or outside sink before continuing with further steps (not the kitchen sink). Bath liquid has no *immediate* negative effect on your skin but should be washed off within several minutes. It may also stain your clothes depending on the current composition.
 

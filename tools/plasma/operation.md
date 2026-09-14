@@ -2,7 +2,7 @@
 title: Plasma Cutter Operation Guide
 description: 
 published: true
-date: 2026-09-14T19:13:54.165Z
+date: 2026-09-14T19:21:36.550Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-14T17:39:16.293Z
@@ -47,6 +47,7 @@ dateCreated: 2026-09-14T17:39:16.293Z
 
 ## Job setup
 
+* **Exit the splash screen** by pressing any button on the controller
 * **Insert your USB**. Inserting at this stage means you don't accidentally snap the drive off when setting up the machine.
 * **Load your file**.
   * Press `F2 (Files)` -> `F2 (U Disc)`

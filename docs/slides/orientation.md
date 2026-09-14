@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-09-14T04:33:37.114Z
+date: 2026-09-14T04:36:46.596Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -138,7 +138,7 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 ## Member Portal
 
-![member_portal_slack.png](https://members.artifactory.org.au/qr?address=/)
+![member_portal_slack.png](https://members.artifactory.org.au/qr?address=/&logo=1)
 
 members.artifactory.org.au - We recommend installing the portal as an app by pressing the Install button on the homepage.
 
@@ -299,7 +299,7 @@ perart.io/tools
 
 ## How to get training
 
-Training slots are put up in advance through the portal and via #training-and-inductions closer to the booking date. You can also sign up for a general waitlist for a specific induction via the portal.
+Training slots are put up in advance through the portal and very occasionally via #training-and-inductions closer to the booking date. You can also sign up for a general waitlist for a specific induction via the portal. The induction you request does not need to relate to the event happening in the space at that time.
 
 ![](https://members.artifactory.org.au/qr?address=training/bookings&logo=1)
 
@@ -307,11 +307,9 @@ Member Portal -> Training -> Bookings
 
 ## How to check your existing training
 
-Member Portal - Training
+![](https://members.artifactory.org.au/qr?address=training&logo=1)
 
-![member_portal_training.png](https://wiki.artifactory.org.au/docs/slides/member_portal_training.png)
-
-perart.io/check_training
+Member Portal -> Training -> My Training
 
 ## Training refreshers and training expiry
 

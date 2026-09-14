@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-09-14T04:31:06.376Z
+date: 2026-09-14T04:32:34.225Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -254,7 +254,7 @@ Form: Keyholder application
 
 * Hold your membership for at least two weeks, (Bare minimum for application to be considered)
 * Don't act against the interests of the Association, (Follow the Code of Conduct)
-* Pay a bond ($135 concession, $225 full)
+* Pay a bond ($135 concession, $225 full) on successful application
 * Have no outstanding invoices
 
 ##

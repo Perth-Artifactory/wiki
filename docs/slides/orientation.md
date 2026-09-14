@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-09-14T04:43:37.759Z
+date: 2026-09-14T04:45:52.935Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -396,7 +396,7 @@ Your Member Work directory can be accessed in a few different ways:
 * From any computer in the space (Typically mounted as either "filer" or "Member Work")
 * Through the Member Portal
 
-## Webcam feed {data-background-iframe="https://space.artifactory.org.au"}
+## Webcam feed {data-background-iframe="https://members.artifactory.org.au/cameras/"
 
 ## Wiki
 
@@ -411,7 +411,7 @@ wiki.artifactory.org.au
 Walk around and look at -
 
 * First aid cabinet
-* Kitchen - member fridge **(name & date your items!)** vs. bar fridge
+* Kitchen - fridge types
 * Back shed - flammable goods storage
 * Laser scrap rack
 * Hack rack

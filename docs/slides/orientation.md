@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-09-14T04:32:34.225Z
+date: 2026-09-14T04:33:37.114Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -293,9 +293,7 @@ These tools can cause serious injury, are easy to damage, or both. An induction 
 
 ## How to tell which category tools are in
 
-Most of our tools will include a coloured dot indicating their category. A full list of our tools can also be found here:
-
-![](https://perart.io/tools/qr-code)
+Most of our tools will include a coloured dot indicating their category. A full list of our tools can also be found on the wiki under **Tool Register**
 
 perart.io/tools
 

@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-03-13T23:35:22.157Z
+date: 2026-09-14T04:31:06.376Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -138,16 +138,15 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 ## Member Portal
 
-https://members.artifactory.org.au/ or the **Member Portal** app in Slack
+![member_portal_slack.png](https://members.artifactory.org.au/qr?address=/)
 
-![member_portal_slack.png](https://wiki.artifactory.org.au/docs/slides/member_portal_slack.png)
+members.artifactory.org.au - We recommend installing the portal as an app by pressing the Install button on the homepage.
 
 ## Member Portal
 
 * Events
 * Training
 * Volunteering
-* Slack channels
 * Fundraising
 * Finance
 * Personal details
@@ -176,6 +175,8 @@ It's your responsibility to update this information in our Member Portal it chan
 ## Resignation
 
 We operate on a month-to-month basis which means there's no penalty for deciding you'd like to cancel or pause your membership. If you want to do either of these please **let us know** rather than just disappearing. Remember it's always a volunteer following up on overdue invoices.
+
+Paused memberships do not retain any locked in historical rate when restarted
 
 ## Smoke free 
 
@@ -230,8 +231,8 @@ You can store sheets of material opposite the laser scrap and outside the machin
 
 If you need to leave a project in the workspace (paint drying etc)
 
-* You leave your property unattended at your own risk.
 * You may leave your property in the work space for up to three days.
+* You leave your property unattended at your own risk.
 * You must prominently label your property with your name, contact details, and intended pickup date.
 
 ##
@@ -254,7 +255,7 @@ Form: Keyholder application
 * Hold your membership for at least two weeks, (Bare minimum for application to be considered)
 * Don't act against the interests of the Association, (Follow the Code of Conduct)
 * Pay a bond ($135 concession, $225 full)
-* Have no outstanding invoices and pay via bank transfer
+* Have no outstanding invoices
 
 ##
 

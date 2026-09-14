@@ -2,7 +2,7 @@
 title: Plasma Cutter Operation Guide
 description: 
 published: true
-date: 2026-09-14T19:13:39.465Z
+date: 2026-09-14T19:13:54.165Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-14T17:39:16.293Z
@@ -89,6 +89,9 @@ dateCreated: 2026-09-14T17:39:16.293Z
 * **Monitor the job**. Look for parts tilting when cut or material warping
 * **Adjust cut speed** as required.
 * **Wait for air to stop**. Compressed air will run through the torch after your cut until the tip is cool. To avoid getting splashed wait until the air stops before proceeding.
+
+## Packup
+
 * **Remove your pieces** while wearing nitrile gloves at a minimum (parts will be wet) or work gloves if parts are sharp.
 * **Stow welding screens**
 * **Clear the head** by disengaging the motion system and manually moving the torch to the left side of the table.

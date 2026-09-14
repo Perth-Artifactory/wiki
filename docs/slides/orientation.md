@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-09-14T04:36:46.596Z
+date: 2026-09-14T04:43:37.759Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -350,9 +350,9 @@ If you find you are using a lot of a communal supply (super glue, turpentine, ma
 
 ## Slack
 
-Slack is the number one point of contact for anything and everything Artifactory.
+Slack is the the best point of contact for everything not covered by the Member Portal.
 
-If you would like to be trained on a certain machine, report a fault with the equipment, or even need input and advice for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
+If you have in depth questions about a certain machine/process, want to report a fault with the equipment, or even need input and advice for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
 
 artifactory.org.au/slack
 
@@ -375,13 +375,15 @@ You can find us on:
 
 ## Events
 
-Upcoming events can be found on our public calendar. You can add this calendar to your phone if you like. (Events link in the navbar of the main site)
+The best place for members to see upcoming events is via the portal. Some events are members only and will only show up once logged in. You can also add our event calendar to your own if you like.
 
-artifactory.org.au/events
+![](https://members.artifactory.org.au/qr?address=events&logo=1)
+
+Member Portal -> Events -> Upcoming Events
 
 ## Event RSVPs
 
-Some event hosts will ask that you RSVP for certain events. Most of these event RSVPs are posted in #event_rsvps
+Some events require you to RSVP before you can attend. This can be through #event_rsvps or the Member Portal. Some events have a cutoff time after which RSVPs cannot be added or removed.
 
 ![](https://wiki.artifactory.org.au/event_rsvp.png)
 

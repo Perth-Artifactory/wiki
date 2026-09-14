@@ -2,7 +2,7 @@
 title: Plasma Cutter Operation Guide
 description: 
 published: true
-date: 2026-09-14T18:30:26.091Z
+date: 2026-09-14T18:39:05.331Z
 tags: 
 editor: markdown
 dateCreated: 2026-09-14T17:39:16.293Z
@@ -48,5 +48,19 @@ dateCreated: 2026-09-14T17:39:16.293Z
 
 * **Insert your USB**. Inserting at this stage means you don't accidentally snap the drive off when setting up the machine.
 * **Load your file**.
-  * Press `F2 Files`
-  * 
+  * Press `F2 (Files)` -> `F2 (U Disc)`
+  * Navigate the directory structure using the arrows keys and `Enter`
+  * Press `F7 (Preview)` to preview the currently highlighted file
+* **Manipulate your part**. Press `F3 (Part Option)`
+  * **Angle**: `F2 (Angle)` -> `F2 (Input Rotation Angle)
+  * **Duplicates**: `F3 (Array)` -> `Straight` or `Stagger` depending on layout requirements (reducing excess heat at corners etc)
+* **Set your origin point**. (While still in the Part Option menu)
+  * Press `F1 Start Point`
+  * Select your desired origin
+  * Press `F8 OK` then `F8` to save settings and return to home screen.
+* **Raise the torch** higher than the material using `S↑`
+* 
+
+
+
+

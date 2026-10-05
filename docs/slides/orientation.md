@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-09-14T04:45:52.935Z
+date: 2026-10-05T15:01:37.061Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -140,23 +140,16 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 ![member_portal_slack.png](https://members.artifactory.org.au/qr?address=/&logo=1)
 
-members.artifactory.org.au - We recommend installing the portal as an app by pressing the Install button on the homepage.
+perthartifactory.app
 
-## Member Portal
-
-* Events
-* Training
-* Volunteering
-* Fundraising
-* Finance
-* Personal details
+We recommend installing the portal as an app by pressing the Install button on the homepage.
 
 ## Membership dues
 
 Your membership dues are not paid automatically.
 
 * Our preferred method of payment is via a scheduled bank transfer, on the monthly date of joining.
-* Bank details are on your membership invoices, or the "Finance" page of Member Portal.
+* Bank details are on your membership invoices, or the "Finance" page of the portal.
 
 ## Paying for tool usage
 
@@ -166,7 +159,7 @@ Please use the bank account rather than the EFTPOS when paying for tool usage. T
 
 ## Keep your contact details up to date
 
-It's your responsibility to update this information in our Member Portal it changes.
+It's your responsibility to update this information in our portal if it changes.
 
 * Your full name
 * Your contact information (email and physical address)

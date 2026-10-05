@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-10-05T15:01:37.061Z
+date: 2026-10-05T15:02:52.623Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -181,7 +181,7 @@ Please do not smoke anywhere in the shaded area. You can vape in the carpark/cou
 
 ## Where to report
 
-Most forms are found on the Member Portal under Processes -> Forms
+Forms are found in the portal under Processes -> Forms
 
 Further slides will just reference the form name.
 
@@ -343,7 +343,7 @@ If you find you are using a lot of a communal supply (super glue, turpentine, ma
 
 ## Slack
 
-Slack is the the best point of contact for everything not covered by the Member Portal.
+Slack is the the best point of contact for everything not covered by the portal.
 
 If you have in depth questions about a certain machine/process, want to report a fault with the equipment, or even need input and advice for your current project there will usually be a specific channel for your question. If you're not sure ask in #general.
 

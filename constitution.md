@@ -2,7 +2,7 @@
 title: Constitution
 description: 
 published: true
-date: 2024-07-26T09:28:07.355Z
+date: 2026-10-26T09:21:33.767Z
 tags: official
 editor: markdown
 dateCreated: 2022-10-17T16:46:18.038Z
@@ -14,7 +14,7 @@ The Perth Artifactory is an incorporated association under the *Associations Inc
 
 Our constitution (rules of the Association) are available in PDF form as:
 
-* [Constitution of Perth Artifactory Inc. - as at 2023-09-16](/constitution_2023-09-16.pdf)
+* [Constitution of Perth Artifactory Inc. - as at 2026-10-26](/constitution_2026-10-26.pdf)
 
 ## History
 
@@ -37,6 +37,21 @@ Our constitution (rules of the Association) are available in PDF form as:
 * Approval was received from the commissioner on 2023-11-08. (Refer: [approval letter.](/docs/committee/2023-11-08_1847696_a1014456p_2023_11_01_appvd_-_redacted.pdf))
 
 * The revised constitution took effect as of the date of approval by the Commissioner, 2023-11-08.
+
+### Edition of 2026-10-26
+
+At the AGM held [2026-09-12](/minutes/AGM/2026-09-12) -
+
+* Added a new clause s34.1, adding a "no confidence" mechanism for committee nominees.
+* In s1, defined the term "written notice" to include notices sent via electronic platforms.
+* In s1, amended the definition of "direct message" to include direct messages sent via any of the Association's electronic platforms.
+
+On 2026-10-26 -
+
+* The revised constitution of 2026-09-12 [was approved by the Commissioner](/docs/committee/1927251_a1014456p_2026_10_22_appvd_-_redacted.pdf) with minor comments, and
+* The minor comments were addressed for final publication.
+  * Title page: Name changed from "Perth Artifactory Inc" to "Perth Artifactory Inc."
+  * Page header: Name changed from "Perth Artifactory Inc" to "Perth Artifactory Inc."
 
 ## Source
 

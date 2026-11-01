@@ -2,7 +2,7 @@
 title: New member induction
 description: A presentation powered by reveal.js
 published: true
-date: 2026-10-05T15:02:52.623Z
+date: 2026-11-01T12:16:53.888Z
 tags: official
 editor: markdown
 dateCreated: 2023-03-18T08:36:44.279Z
@@ -138,7 +138,7 @@ All incidents are handled on a case-by-case basis. Depending on the incident, th
 
 ## Member Portal
 
-![member_portal_slack.png](https://members.artifactory.org.au/qr?address=/&logo=1)
+![](https://members.artifactory.org.au/qr?address=/&logo=1)
 
 perthartifactory.app
 
@@ -155,7 +155,13 @@ Your membership dues are not paid automatically.
 
 Some of our tools have usage fees attached. (Covered during the induction for the tools in question)
 
-Please use the bank account rather than the EFTPOS when paying for tool usage. This helps us keep track of how much each tool is used.
+Add these to your Workshop Tab or pay via the POS at the bar.
+
+## Dollarydoos
+
+This is an optional workshop credit system so you can prepay for anything in the space in bulk. Top up via:
+
+Member Porta -> Finance -> Balances
 
 ## Keep your contact details up to date
 
@@ -169,7 +175,7 @@ It's your responsibility to update this information in our portal if it changes.
 
 We operate on a month-to-month basis which means there's no penalty for deciding you'd like to cancel or pause your membership. If you want to do either of these please **let us know** rather than just disappearing. Remember it's always a volunteer following up on overdue invoices.
 
-Paused memberships do not retain any locked in historical rate when restarted
+Paused memberships do not retain any locked in historical rate when restarted.
 
 ## Smoke free 
 
@@ -267,28 +273,28 @@ Tools and equipment are split into three categories:
 
 You can self assess your competency on these tools and use them if you feel comfortable. Feel free to have a go and if you're not sure you can always ask for help. Even though these tools are low risk you should still be vigilant about safety.
 
-* Hand tools (screwdrivers etc)
-* Some power tools (Drills, vibrating sanders etc)
+* Hand tools (e.g. screwdrivers)
+* Some power tools (e.g. drills, vibrating sanders)
 
 ## Medium risk {data-background-color="rgb(179, 173, 4)"}
 
 These tools can easily hurt you, others, or the tool. To use these tools you must either complete a short induction with one of our authorised trainers or demonstrate to them that you can use this tool safely.
 
-* Most power tools (Circular saws, routers etc)
-* Some equipment (Sand blaster, belt sander etc)
+* Most power tools (e.g. circular saws, angle grinders)
+* Some equipment (e.g. sand blaster, belt sander)
 
 ## High risk {data-background-color="rgb(120, 8, 2)"}
 
 These tools can cause serious injury, are easy to damage, or both. An induction is required before using these tools. You must go through the Artifactory’s training on high risk tools, even if you have used similar (or identical) tools elsewhere.
 
 * 3D Printers
-* Large equipment (Mill, CNC router, laser cutters etc)
+* Large equipment (e.g. mill, CNC router, laser cutters)
 
 ## How to tell which category tools are in
 
-Most of our tools will include a coloured dot indicating their category. A full list of our tools can also be found on the wiki under **Tool Register**
+Most of our tools will include a coloured dot indicating their category. Many of our tools can also be found in our tool register
 
-perart.io/tools
+Member Portal -> Storage -> Tools
 
 ## How to get training
 
@@ -359,13 +365,6 @@ artifactory.org.au/slack
 
 <img width="64" alt="White Artifactory A on a red hexagon" src="https://wiki.artifactory.org.au/docs/slides/slack_reda-hex.png"> Committee members
 
-## Social Media
-
-You can find us on:
-
-* Facebook
-* Meetup (mirrored events)
-
 ## Events
 
 The best place for members to see upcoming events is via the portal. Some events are members only and will only show up once logged in. You can also add our event calendar to your own if you like.
@@ -380,6 +379,15 @@ Some events require you to RSVP before you can attend. This can be through #even
 
 ![](https://wiki.artifactory.org.au/event_rsvp.png)
 
+Member Portal -> Events
+
+## Social Media
+
+You can find us on:
+
+* Facebook
+* Meetup (mirrored events)
+
 # Tech resources
 
 ## Member Work
@@ -389,7 +397,7 @@ Your Member Work directory can be accessed in a few different ways:
 * From any computer in the space (Typically mounted as either "filer" or "Member Work")
 * Through the Member Portal
 
-## Webcam feed {data-background-iframe="https://members.artifactory.org.au/cameras/"
+## Webcam feed {data-background-iframe="https://members.artifactory.org.au/cameras/"}
 
 ## Wiki
 

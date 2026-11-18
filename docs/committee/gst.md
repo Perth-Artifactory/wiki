@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T10:22:36.024Z
+date: 2026-11-18T11:20:07.796Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -85,15 +85,42 @@ Market examples:
 
 #### Locality of supply
 
-The geographic locality of the supply may be an important factor in the comparison. Specifically where the area significantly affects the price[^18]. While in general the ATO considers food to be an example of a supply that does not have a significant geographic factor[^19] they have determined that our assertion that industrial vs residential/light commercial zoning plays a significant factor in food costs is appropriate.[^20]
+The geographic locality of the supply may be an important factor in the comparison. Specifically where the area significantly affects the price[^18].
+
+Note: While in general the ATO considers food to be an example of a supply that does not have a significant geographic factor[^19] they have determined that our assertion that industrial vs residential/light commercial zoning plays a significant factor in the cost of soft drink is appropriate.[^20]
 
 [^18]: [Therefore the area the market covers or the locality of the supplies can be an important factor in working out whether the comparison is acceptable. This factor is clear when there is a strong correlation between the geographic location and the price that can be charged.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Therefore%20the,charged)
 [^19]: [Food is an example of the type of supplies where the geographic location of the market or supply may not be a material factor in the 'same supply test'.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Food%20is%20an%20example%20of%20the%20type%20of%20supplies%20where%20the%20geographic%20location%20of%20the%20market%20or%20supply%20may%20not%20be%20a%20material%20factor%20in%20the%20%27same%20supply%20test%27%2E)
 [^20]: Written correspondence dated 16th September 2025 between Fletcher Boyd (Perth Artifactory Inc.) and James Fennelly (ATO Law Interpretation Officer: Technical Leadership and Advice- GST)
 
-Australian Taxation Office
-
 #### Quality/nature of supply
+
+For the same supply test, the supply must have the same quality or nature as the supplies in the market it is being compared with. Quality may include such things as:
+
+* Brands (e.g. Arduino Nano vs "Arduino" Nano would not be the same)
+* Durability, functionality, workmanship and reliability (3D printed vs 3D printed is fine)
+* Expertise[^21]
+* Facilities
+* Fashion
+* Materials, packaging or surrounding
+* Obsolescence
+* Professionalism
+* Technology
+* Warranty
+
+[^21]: [The school cannot use a supply to attend a performance of the same play performed by a professional theatre company](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=The%20school%20cannot%20use%20a%20supply%20to%20attend%20a%20performance%20of%20the%20same%20play%20performed%20by%20a%20professional%20theatre%20company)
+
+Where we are unable to find an item in the same market of similar quality (ie others are better) we can take steps to scale the price.[^22] Four steps must be completed and :
+
+* Identify the 'same' supply and its price
+* Identify all the differing characteristics shown in the quality of the 'same supply' when comparing with the supply the charity makes
+* Quantify those differing characteristics on a reasonable basis, and
+* Use the quantified values of those differing characteristics to adjust the price of the 'same supply'.
+
+At each step we must maintain documentary evidence of conclusive and tangible proof.[^23]
+
+[^22]: [In a case where there are genuinely identifiable differences in the quality of the 'same supply', the charity needs to take into account those differences in establishing the market value of the supply it makes.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=68%2E-,In,makes%2E)
+[^23]: [Charities must maintain documentary evidence of conclusive and tangible proof for each of these steps.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=must%20maintain%20documentary%20evidence%20of%20conclusive%20and%20tangible%20proof%20for%20each%20of%20these%20steps)
 
 #### Size, quantity, or duration of supply
 

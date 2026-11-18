@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T09:37:52.352Z
+date: 2026-11-18T09:56:55.980Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -34,7 +34,7 @@ Transactions fall into one of four categories
 
 ### Non-commercial supply
 
-Some supplies that would otherwise incur GST can be treated as GST free if they are determined to be a non-commerical supply. For a supply to be non-commercial it needs to be less than 75% of the cost of supply[^1] (pretty much nothing we currently do) or less than 50% of the market value of the supply[^2] provided by for-profit organisations[^8]. In order to determine the market value of a supply we rely on one of three successive[^7] tests:
+Some supplies that would otherwise incur GST can be treated as GST free if they are determined to be a non-commerical supply. For a supply to be non-commercial it needs to be less than 75% of the cost of supply[^1] (pretty much nothing we currently do) or less than 50% of the market value of the supply[^2] provided by for-profit organisations[^7]. In order to determine the market value of a supply we rely on one of three successive[^6] tests:
 
 1. Same supply[^3] - Where an identical supply can be found (considering the factors below)
 2. Similar supply[^4] - Where an identical supply cannot be found (considering the factors below. In this circumstance the primary factor that can be expanded is the market in which supply exists.
@@ -45,29 +45,43 @@ Some supplies that would otherwise incur GST can be treated as GST free if they 
 [^3]: [The same supply test requires a charity to work out whether a supply, the same as the one it makes, exists within the market they operate in.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=The%20same%20supply%20test%20requires%20a%20charity%20to%20work%20out%20whether%20a%20supply%2C%20the%20same%20as%20the%20one%20it%20makes%2C%20exists%20within%20the%20market%20they%20operate%20in%2E)
 [^4]: [If there is no same supply in the market, the charity must work out whether a 'similar supply' exists.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=If%20there%20is%20no%20same%20supply%20in%20the%20market%2C%20the%20charity%20must%20work%20out%20whether%20a%20%27similar%20supply%27%20exists)
 [^5]: [The Commissioner has approved the use by charities of the following 'cost plus' method to work out the market value of a supply. Charities can only use this method if they cannot identify a same or similar supply to the one it makes.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=109%2E-,The,makes)
-[^7]: [These tests are successive tests for working out the market value of a supply, they are not alternative tests. If a charity identifies a 'same supply' in the market, the price charged by this other supplier is then the market value of the charity's supply. The charity cannot calculate the market value of the supply it makes by reference to the second or third tests.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=39%2E-,These,tests%2E,-We)
-[^8]: [Therefore, the charity can establish the market value of the supply it makes as the amount charged by profit making organisations making the same supply.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Therefore%2C%20the%20charity%20can%20establish%20the%20market%20value%20of%20the%20supply%20it%20makes%20as%20the%20amount%20charged%20by%20profit%20making%20organisations%20making%20the%20same%20supply)
+[^6]: [These tests are successive tests for working out the market value of a supply, they are not alternative tests. If a charity identifies a 'same supply' in the market, the price charged by this other supplier is then the market value of the charity's supply. The charity cannot calculate the market value of the supply it makes by reference to the second or third tests.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=39%2E-,These,tests%2E,-We)
+[^7]: [Therefore, the charity can establish the market value of the supply it makes as the amount charged by profit making organisations making the same supply.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Therefore%2C%20the%20charity%20can%20establish%20the%20market%20value%20of%20the%20supply%20it%20makes%20as%20the%20amount%20charged%20by%20profit%20making%20organisations%20making%20the%20same%20supply)
 
 For all interactions compared the exchange must be between:
 
 * a knowledgeable, willing and not anxious buyer, and
 * a knowledgeable, willing and not anxious seller acting at 'arm's length' in an appropriate market.
 
-Where possible multiple comparisons should be sought[^9]. Private guidance from the ATO has indicated that 3-4 options is appropriate.
+Where possible multiple comparisons should be sought[^8]. Private guidance from the ATO has indicated that 3-4 options is appropriate.
 
-Comparisons must be documented[^11] and rechecked yearly[^10] or when costs change. We have largely opted to pin this check to financial years for ease of scheduling.
+Comparisons must be documented[^10] and rechecked yearly[^9] or when costs change. We have largely opted to pin this check to financial years for ease of scheduling.
 
-[^9]: [In the market the charity operates in, there may be more than one other supplier making the same supply but for a different price. Whilst it is not practical to obtain the full range of prices (of the same supply) the charity should generally obtain more than one price.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=87%2E-,In,price%2E,-3)
-[^10]: [This information should be reviewed regularly, for example, yearly or when prices or costs change.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=This%20information%20should%20be%20reviewed%20regularly%2C%20for%20example%2C%20yearly%20or%20when%20prices%20or%20costs%20change%2E)
-[^11]: (Charities must keep and maintain records that adequately document the process and information collected in working out the relevant market values which the consideration of the supplies they make is being compared to.)[https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=193%2E-,Charities,to]
+[^8]: [In the market the charity operates in, there may be more than one other supplier making the same supply but for a different price. Whilst it is not practical to obtain the full range of prices (of the same supply) the charity should generally obtain more than one price.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=87%2E-,In,price%2E,-3)
+[^9]: [This information should be reviewed regularly, for example, yearly or when prices or costs change.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=This%20information%20should%20be%20reviewed%20regularly%2C%20for%20example%2C%20yearly%20or%20when%20prices%20or%20costs%20change%2E)
+[^10]: (Charities must keep and maintain records that adequately document the process and information collected in working out the relevant market values which the consideration of the supplies they make is being compared to.)[https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=193%2E-,Charities,to]
 
 For each comparison a number of factors must be considered:
 
 #### Market
 
-For a same supply test the comparisons must be in the same market as the organisation. [^12]
+For a same supply test the comparisons must be in the same market as the organisation.[^11] Where supply within the same market cannot be identified we must move on to a similar test and identify a broader applicable market segment[^12]. When considering a broader market it is worth referring to the examples provided by the ATO[^13] rather than this internal page.
 
+Market examples:
 
+* Second hand goods vs retail new[^14] - not the same or similar market
+* Second hand goods sold by the organisation vs second hand retailer (e.g. cash converters) - same market[^15]
+* Purchasing products and reselling at the same location - same market[^16]
+* Soldering workshops vs other skill building workshops - broadly similar market provided other aspects of the supply (ie quality of the delivery) are the same[^17]
+
+[^11]: [Charities must ensure they make their comparison in the same market they operate in.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Charities%20must%20ensure%20they%20make%20their%20comparison%20in%20the%20same%20market%20they%20operate%20in%2E)
+[^12]: [For some supplies, charities may have difficulties in identifying a supply similar to the one they make in the market. In order to reduce compliance costs, a charity can use a broad categorisation of the supply it makes as justification for using certain supplies in the market as similar supplies.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=92%2E-,For,supplies,-%2E)
+[^13]: [Similiar supply: Identifying the market](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Identifying%20the%20market,-92)
+
+[^14]: [second-hand goods retail market versus the new goods retail market](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=second%2Dhand%20goods%20retail%20market%20versus%20the%20new%20goods%20retail%20market)
+[^15]: [However, as a sale of a traded-in appliance by the retailer to a consumer is made in a second-hand goods retail market, it is considered the same supply as the one the charity makes.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=However%2C%20as%20a%20sale%20of%20a%20traded%2Din%20appliance%20by%20the%20retailer%20to%20a%20consumer%20is%20made%20in%20a%20second%2Dhand%20goods%20retail%20market%2C%20it%20is%20considered%20the%20same%20supply%20as%20the%20one%20the%20charity%20makes%2E)
+[^16]: [Sales of sandwiches by the lunch bar to other customers are the same supplies as those made by the school to the students or staff.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Sales%20of%20sandwiches%20by%20the%20lunch%20bar%20to%20other%20customers%20are%20the%20same%20supplies%20as%20those%20made%20by%20the%20school%20to%20the%20students%20or%20staff%2E)
+[^17]: [The charity would be able to use any half-day adult education course that is offered by other organisations that are similar to their half-day course in terms of nature, duration, standard of tuition and activities during the course.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=96%2E-,The,course,-%2E)
 
 #### Locality of supply
 

@@ -2,7 +2,7 @@
 title: Non-commerical supplies
 description: 
 published: true
-date: 2026-11-18T12:12:11.171Z
+date: 2026-11-18T12:16:12.353Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T12:08:19.542Z
@@ -38,7 +38,7 @@ Comparisons must be documented[^10] and rechecked yearly[^9] or when costs chang
 
 [^8]: [In the market the charity operates in, there may be more than one other supplier making the same supply but for a different price. Whilst it is not practical to obtain the full range of prices (of the same supply) the charity should generally obtain more than one price.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=87%2E-,In,price%2E,-3)
 [^9]: [This information should be reviewed regularly, for example, yearly or when prices or costs change.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=This%20information%20should%20be%20reviewed%20regularly%2C%20for%20example%2C%20yearly%20or%20when%20prices%20or%20costs%20change%2E)
-[^10]: (Charities must keep and maintain records that adequately document the process and information collected in working out the relevant market values which the consideration of the supplies they make is being compared to.)[https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=193%2E-,Charities,to]
+[^10]: [Charities must keep and maintain records that adequately document the process and information collected in working out the relevant market values which the consideration of the supplies they make is being compared to.]([https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=193%2E-,Charities,to)
 
 For each comparison a number of factors must be considered:
 

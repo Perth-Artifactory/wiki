@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T11:20:07.796Z
+date: 2026-11-18T11:59:47.499Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -110,23 +110,36 @@ For the same supply test, the supply must have the same quality or nature as the
 
 [^21]: [The school cannot use a supply to attend a performance of the same play performed by a professional theatre company](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=The%20school%20cannot%20use%20a%20supply%20to%20attend%20a%20performance%20of%20the%20same%20play%20performed%20by%20a%20professional%20theatre%20company)
 
-Where we are unable to find an item in the same market of similar quality (ie others are better) we can take steps to scale the price.[^22] Four steps must be completed and :
+Where we are unable to find an item in the same market of similar quality (ie others are better) we can take steps to scale the price.[^22] Four steps must be completed:
 
 * Identify the 'same' supply and its price
 * Identify all the differing characteristics shown in the quality of the 'same supply' when comparing with the supply the charity makes
 * Quantify those differing characteristics on a reasonable basis, and
 * Use the quantified values of those differing characteristics to adjust the price of the 'same supply'.
 
-At each step we must maintain documentary evidence of conclusive and tangible proof.[^23]
+We must maintain documentary evidence of conclusive and tangible proof of each step.[^23]
+
+Note: Nothing in the guidance specifies the direction in which a price is scaled but the underlying purchaser characteristics requirements still apply.[^24]
 
 [^22]: [In a case where there are genuinely identifiable differences in the quality of the 'same supply', the charity needs to take into account those differences in establishing the market value of the supply it makes.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=68%2E-,In,makes%2E)
 [^23]: [Charities must maintain documentary evidence of conclusive and tangible proof for each of these steps.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=must%20maintain%20documentary%20evidence%20of%20conclusive%20and%20tangible%20proof%20for%20each%20of%20these%20steps)
+[^24]: [The market value determined must represent an amount a willing but not anxious purchaser is prepared to pay. ](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=The%20market%20value%20determined%20must%20represent%20an%20amount%20a%20willing%20but%20not%20anxious%20purchaser%20is%20prepared%20to%20pay%2E)
 
 #### Size, quantity, or duration of supply
 
+The size, quantity or duration of a thing supplied are factors which have a bearing on the market value of the supply.[^25]
+
+We cannot use the inverse scale of bulk supplies to our advantage when we supply the bulk quantity. e.g. our 24 pack of widgets cannot be compared against individually sold widgets to get to justify a market value of (competitor widget x 24)
+
+However, the ATO has indicated that when determining a similar supply it may be appropriate in some circumstances to compare a comparison's weekly price x 4 vs our monthly price within reason. In particular where that adjustment puts the monthly value within the range of other options on the market.[^20]
+
+[^25]: [The size, quantity or duration of a thing supplied are factors which have a bearing on the market value of the supply. ](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=The%20size%2C%20quantity%20or%20duration%20of%20a%20thing%20supplied%20are%20factors%20which%20have%20a%20bearing%20on%20the%20market%20value%20of%20the%20supply%2E)
+
 #### Condition of supply
 
+Any conditions placed on the supply must be factored in to the comparison. This can include the quantity/duration of the supply[^26]
 
+[^26]: [The size, quantity or duration of a supply may be viewed as a condition of the supply. That is, the terms and conditions of a supply, amongst other things, quantify the amount of the supply.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=The%20size%2C%20quantity%20or%20duration%20of%20a%20supply%20may%20be%20viewed%20as%20a%20condition%20of%20the%20supply%2E%20That%20is%2C%20the%20terms%20and%20conditions%20of%20a%20supply%2C%20amongst%20other%20things%2C%20quantify%20the%20amount%20of%20the%20supply%2E)
 
 ## Ambiguity
 

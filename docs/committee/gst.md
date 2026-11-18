@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T06:52:22.396Z
+date: 2026-11-18T06:54:25.231Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -144,3 +144,7 @@ While most aspects of our insurance bills **incur GST** check for line items rel
 ### Bond, Workshop Balances
 
 **BAS excluded** when returned to an attendee, treat using other categories when "spent"
+
+### Aliexpress, Taobao
+
+Only **incur GST** when we have a receipt stating as such otherwise **GST free**

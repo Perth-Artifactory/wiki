@@ -2,15 +2,15 @@
 title: Membership
 description: 
 published: true
-date: 2026-11-18T14:23:58.419Z
+date: 2026-11-18T15:09:48.483Z
 tags: restricted-committee, gst
 editor: markdown
 dateCreated: 2026-11-18T14:23:58.419Z
 ---
 
-| Supply | Determined market value | Test used | Last updated | Last relied upon |
+| Supply | Current determined market value | Test used | Last updated | Last relied upon |
 | - | - | - | - | - |
-| Membership | $413/mo | Similar supply | 2025-09-16 | Current |
+| Membership | $407.85/mo | Similar supply | 2026-11-18 | Current |
 
 ## Market
 
@@ -30,42 +30,57 @@ We work on a month-to-month basis whereas some operators are week-to-week. As pe
 
 ## Condition of supply
 
-Comparisons were restricted to operators that provide **unlimited** 24/7 access. Options where access was 24/7 but limited to a certain number of visits are a meaningful difference in condition of supply and were excluded.
-
+Comparisons were restricted to operators that provide **unlimited** 24/7 access. Options where access was 24/7 but limited to a certain number of visits are a meaningful difference in condition of supply and were excluded. When quantifying a variance in the same supply (See: CBD coworking scaling) a conservative estimate of three visits a week were used. (More visits would benefit the Artifactory due to supplementary costs)
 
 ---
 
-## 2026
+## 2026-27
 
 | Comparison | Price | Notes |
 | - | - | - |
-| [TradieHQ](https://tradiehqwa.com.au/) | $387.20 | $96.80/week x 4. Provides some workshop facilities/storage. No high tech equipment |
-| [Spacecubed Flux](https://spacecubed.com/locations/flux) | [$495/mo](/docs/committee/2026+membership+inclusions+(4).pdf) | Cheapest option with unlimited 24/7 access, limited maker facilities. See supplementary scaling below |
+| [TradieHQ](https://tradiehqwa.com.au/) | [$387.20](/docs/committee/gst/non-commercial/membership)https://web.archive.org/web/20250915061937/https://tradiehqwa.com.au/pricing/) | $96.80/week x 4. Provides some workshop facilities/storage. No high tech equipment |
+| [Spacecubed Flux](https://spacecubed.com/locations/flux) | ~~[$495/mo](/docs/committee/2026+membership+inclusions+(4).pdf)~~ $428.70/mo | Cheapest option with unlimited 24/7 access, limited maker facilities. See supplementary scaling below |
 | WeWork | N/A | Excluded as it now only provids private offices at time of research |
 
-## 2025
+Average market price: $407.85
+Non commercial max rate: $203.93
+Max actual Artifactory rate: $85
+
+## 2025-26
 
 | Comparison | Price | Notes |
 | - | - | - |
 | [TradieHQ](https://tradiehqwa.com.au/) | [$387.20](https://web.archive.org/web/20250313155843/https://tradiehqwa.com.au/pricing/) | $96.80/week x 4. Provides some workshop facilities/storage. No high tech equipment |
-| [Spacecubed Flux](https://spacecubed.com/locations/flux) | $467.50/mo | Cheapest option with unlimited 24/7 access, limited maker facilities. See supplementary scaling below |
-| WeWork | $357.50/month | See supplementary scaling below |
+| [Spacecubed Flux](https://spacecubed.com/locations/flux) | ~~$467.50/mo~~ $440/mo | Cheapest option with unlimited 24/7 access, limited maker facilities. See supplementary scaling below |
+| WeWork | ~~$357.50/mo~~ $311.37/mo | See supplementary scaling below |
 
-## 2024
+Average market price: $379.52
+Non-commercial max rate: $189.76
+Max actual Artifactory rate: $75
+
+## 2024-25
 
 | Comparison | Price | Notes |
 | - | - | - |
 | [TradieHQ](https://tradiehqwa.com.au/) | [$387.20](https://web.archive.org/web/20240314143140/https://tradiehqwa.com.au/pricing/) | $96.80/week x 4. Provides some workshop facilities/storage. No high tech equipment |
-| [Spacecubed Flux](https://spacecubed.com/locations/flux) | $467.50/mo | Cheapest option with unlimited 24/7 access, limited maker facilities. See supplementary scaling below |
+| [Spacecubed Flux](https://spacecubed.com/locations/flux) | ~~$467.50/mo~~ $440/mo | Cheapest option with unlimited 24/7 access, limited maker facilities. See supplementary scaling below |
 | WeWork | Historic pricing unavailable | See supplementary scaling below |
 
-## 2023
+Average market price: $413.60
+Non-commercial max rate: $206.80
+Max actual Artifactory rate: $75
+
+## 2023-24
 
 | Comparison | Price | Notes |
 | - | - | - |
 | [TradieHQ](https://tradiehqwa.com.au/) | [$387.20](https://web.archive.org/web/20231026153341/https://tradiehqwa.com.au/pricing/) | $96.80/week x 4. Provides some workshop facilities/storage. No high tech equipment |
-| [Spacecubed Flux](https://spacecubed.com/locations/flux) | $440/mo | Cheapest option with unlimited 24/7 access, limited maker facilities. See supplementary scaling below |
+| [Spacecubed Flux](https://spacecubed.com/locations/flux) | ~~$440/mo~~ $412.15/mo | Cheapest option with unlimited 24/7 access, limited maker facilities. See supplementary scaling below |
 | WeWork | Historic pricing unavailable | See supplementary scaling below |
+
+Average market price: $399.68
+Non-commercial max rate: $199.84
+Max actual Artifactory rate: $75
 
 ## CBD coworking scaling
 
@@ -93,13 +108,13 @@ Comparisons were restricted to operators that provide **unlimited** 24/7 access.
 * Use the quantified values of those differing characteristics to adjust the price of the 'same supply'.
   * Spacecubed:
     * +$495 - Starting
-    * -$73.80 (15%) - Productivity increase from plants
+    * -$73.80 (15%) - Productivity increase from plants/environment
     * +$180 - Parking costs
     * -$172.50 - External meeting room costs
     * Final: $428.70
   * WeWork
     * +$357.50 - Starting
-    * -$53.63 (15%) - Productivity increase from plants
+    * -$53.63 (15%) - Productivity increase from plants/environment
     * +$180 - Parking costs
     * -$172.50 - External meeting room costs
     * Final: $311.37

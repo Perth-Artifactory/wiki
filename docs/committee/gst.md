@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T08:00:04.759Z
+date: 2026-11-18T09:37:52.352Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -34,9 +34,50 @@ Transactions fall into one of four categories
 
 ### Non-commercial supply
 
-Some supplies that would otherwise incur GST can be treated as GST free if they are determined to be a non-commerical supply. For a supply to be non-commercial it needs to be less than 75% of the cost of supply (nothing we currently do) or less than 50% of the market value of the supply. In order to determine the market value of a supply we typically rely on one of two tests:
+Some supplies that would otherwise incur GST can be treated as GST free if they are determined to be a non-commerical supply. For a supply to be non-commercial it needs to be less than 75% of the cost of supply[^1] (pretty much nothing we currently do) or less than 50% of the market value of the supply[^2] provided by for-profit organisations[^8]. In order to determine the market value of a supply we rely on one of three successive[^7] tests:
 
-* 
+1. Same supply[^3] - Where an identical supply can be found (considering the factors below)
+2. Similar supply[^4] - Where an identical supply cannot be found (considering the factors below. In this circumstance the primary factor that can be expanded is the market in which supply exists.
+3. The approved 'cost plus' method[^5] - While allowed under the guidelines to date we have not used this test and have instead chosen to accept the lost gain.
+
+[^1]: [The non-commercial supply rules listed in section 38-250 mean that anything supplied by a charity is GST-free if the payment, or consideration for the supply is either: ... less than 75% of the 'cost of supply' under subsection 38-250(2).](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=less%20than%2075%25%20of%20the%20%27cost%20of%20supply%27%20under%20subsection%2038%2D250(2).)
+[^2]: [a supply of something other than accommodation and the consideration for the supply is less than 50% of the GST-inclusive market value of the supply.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=a%20supply%20of%20something%20other%20than%20accommodation%20and%20the%20consideration%20for%20the%20supply%20is%20less%20than%2050%25%20of%20the%20GST%2Dinclusive%20market%20value%20of%20the%20supply)
+[^3]: [The same supply test requires a charity to work out whether a supply, the same as the one it makes, exists within the market they operate in.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=The%20same%20supply%20test%20requires%20a%20charity%20to%20work%20out%20whether%20a%20supply%2C%20the%20same%20as%20the%20one%20it%20makes%2C%20exists%20within%20the%20market%20they%20operate%20in%2E)
+[^4]: [If there is no same supply in the market, the charity must work out whether a 'similar supply' exists.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=If%20there%20is%20no%20same%20supply%20in%20the%20market%2C%20the%20charity%20must%20work%20out%20whether%20a%20%27similar%20supply%27%20exists)
+[^5]: [The Commissioner has approved the use by charities of the following 'cost plus' method to work out the market value of a supply. Charities can only use this method if they cannot identify a same or similar supply to the one it makes.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=109%2E-,The,makes)
+[^7]: [These tests are successive tests for working out the market value of a supply, they are not alternative tests. If a charity identifies a 'same supply' in the market, the price charged by this other supplier is then the market value of the charity's supply. The charity cannot calculate the market value of the supply it makes by reference to the second or third tests.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=39%2E-,These,tests%2E,-We)
+[^8]: [Therefore, the charity can establish the market value of the supply it makes as the amount charged by profit making organisations making the same supply.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Therefore%2C%20the%20charity%20can%20establish%20the%20market%20value%20of%20the%20supply%20it%20makes%20as%20the%20amount%20charged%20by%20profit%20making%20organisations%20making%20the%20same%20supply)
+
+For all interactions compared the exchange must be between:
+
+* a knowledgeable, willing and not anxious buyer, and
+* a knowledgeable, willing and not anxious seller acting at 'arm's length' in an appropriate market.
+
+Where possible multiple comparisons should be sought[^9]. Private guidance from the ATO has indicated that 3-4 options is appropriate.
+
+Comparisons must be documented[^11] and rechecked yearly[^10] or when costs change. We have largely opted to pin this check to financial years for ease of scheduling.
+
+[^9]: [In the market the charity operates in, there may be more than one other supplier making the same supply but for a different price. Whilst it is not practical to obtain the full range of prices (of the same supply) the charity should generally obtain more than one price.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=87%2E-,In,price%2E,-3)
+[^10]: [This information should be reviewed regularly, for example, yearly or when prices or costs change.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=This%20information%20should%20be%20reviewed%20regularly%2C%20for%20example%2C%20yearly%20or%20when%20prices%20or%20costs%20change%2E)
+[^11]: (Charities must keep and maintain records that adequately document the process and information collected in working out the relevant market values which the consideration of the supplies they make is being compared to.)[https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=193%2E-,Charities,to]
+
+For each comparison a number of factors must be considered:
+
+#### Market
+
+For a same supply test the comparisons must be in the same market as the organisation. [^12]
+
+
+
+#### Locality of supply
+
+#### Quality/nature of supply
+
+#### Size, quantity, or duration fo supply
+
+#### Condition of supply
+
+
 
 ## Ambiguity
 

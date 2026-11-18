@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T09:56:55.980Z
+date: 2026-11-18T10:19:37.343Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -84,6 +84,14 @@ Market examples:
 [^17]: [The charity would be able to use any half-day adult education course that is offered by other organisations that are similar to their half-day course in terms of nature, duration, standard of tuition and activities during the course.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=96%2E-,The,course,-%2E)
 
 #### Locality of supply
+
+The geographic locality of the supply may be an important factor in the comparison. Specifically where the area significantly affects the price[^18]. While in general the ATO considers food to be an example of a supply that does not have a significant geographic factor[^19] they have determined that our assertion that industrial vs residential/light commercial zoning plays a significant factor in food costs is appropriate.[^20]
+
+[^18]: [Therefore the area the market covers or the locality of the supplies can be an important factor in working out whether the comparison is acceptable. This factor is clear when there is a strong correlation between the geographic location and the price that can be charged.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Therefore%20the,charged)
+[^19]: [Food is an example of the type of supplies where the geographic location of the market or supply may not be a material factor in the 'same supply test'.](https://www.ato.gov.au/law/view/document?docid=GII/GSTIICC2/NAT/ATO/00001#:~:text=Food%20is%20an%20example%20of%20the%20type%20of%20supplies%20where%20the%20geographic%20location%20of%20the%20market%20or%20supply%20may%20not%20be%20a%20material%20factor%20in%20the%20%27same%20supply%20test%27%2E)
+[^20]: Written correspondence dated 16th September 2025 between Fletcher Boyd (Perth Artifactory Inc.) and James Fennelly (ATO Law Interpretation Officer: Technical Leadership and Advice- GST)
+
+Australian Taxation Office
 
 #### Quality/nature of supply
 

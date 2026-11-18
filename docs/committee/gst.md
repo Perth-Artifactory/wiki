@@ -2,11 +2,15 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T06:18:35.173Z
+date: 2026-11-18T06:22:33.412Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
 ---
+
+> This is a draft
+{.is-danger}
+
 
 > This document has been prepared by a non tax professional for internal use. It has not been reviewed by a Registered BAS/Tax Agent.
 >

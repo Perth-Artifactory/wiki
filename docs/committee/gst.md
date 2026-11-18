@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T06:54:25.231Z
+date: 2026-11-18T07:51:15.646Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -61,6 +61,18 @@ Regardless of how obvious a classification is we cannot **claim** GST payments w
 
 TODO: Justification
 
+### Donations
+
+**BAS excluded** as there was no supply. This includes general donations, infra fund, sponsored memberships, and project pledges.
+
+### Containers for change
+
+* Other people returning containers and nominating us: **BAS Excluded** donation
+* Collection within the space:
+  * An attendee placing a container in one of our internal collection bins is **donating** the can to the organisation.
+  * We send cans to Good Samaritan Industries. In exchange for 20% of the **cans themselves** (as per our contract with them the actual price we pay for collection is cans not money) Good Samaritan Industries **donates** the value of the rest of the cans to us.
+  * Regardless of whether Good Samaritan Industries should be collecting GST on the value of 20% of the cans the net funds we receive back directly from the Containers for Change program is a **BAS excluded** donation.
+
 ### Events
 
 #### Food
@@ -77,6 +89,8 @@ TODO: Justification
 #### Special interest events
 
 e.g. Arduino U
+
+TODO: Classification and justification
 
 #### Event space
 
@@ -114,6 +128,21 @@ The exception is the following items which have been determined to be non-commer
 
 * TODO: items+justification
 
+### Skip contributions
+
+From time to time we allow attendees to use our skip in exchange for a proportion of the pickup fee. These payments are typically **not** non-commercial and **incur GST**
+
+### Tool usage
+
+All manually entered tool usage should be treated as **incurring GST** because the administrative burden of sub classification is typically not worth the claim. Some automated classifications (via the Workshop Tab) are treated as non-commercial:
+
+* Laser cutting (member rate)
+  * TODO: Justification
+
+### Material sales
+
+**Incur GST** unless classified as non-commercial within this section in which case they are **GST free**
+
 ## Expenses (money out)
 
 ### Rent, Electricity, Internet, Waste
@@ -148,3 +177,7 @@ While most aspects of our insurance bills **incur GST** check for line items rel
 ### Aliexpress, Taobao
 
 Only **incur GST** when we have a receipt stating as such otherwise **GST free**
+
+### Volunteer food
+
+Typicall **incurs GST** because most volunteer food is takeway. Check the receipt if it's from a supermarket etc.

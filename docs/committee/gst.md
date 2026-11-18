@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T06:22:33.412Z
+date: 2026-11-18T06:52:22.396Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -32,6 +32,12 @@ Transactions fall into one of four categories
 * **BAS Excluded** - Do not constitute a supply, not included in our BAS.
 * **Input Taxed** - Excluded from BAS because we report using the Simpler BAS format
 
+### Non-commercial supply
+
+Some supplies that would otherwise incur GST can be treated as GST free if they are determined to be a non-commerical supply.
+
+TODO: Tests
+
 ## Ambiguity
 
 When there is ambiguity in a classification:
@@ -43,7 +49,56 @@ This way any classification errors in our reporting will err on the side of **ov
 
 Regardless of how obvious a classification is we cannot **claim** GST payments without a tax invoice stating that payment.
 
+## Bond, Workshop Balances
+
+**BAS Excluded** when received
+
 ## Income
+
+### Membership
+
+**GST Free** due to being a non-commercial supply
+
+TODO: Justification
+
+### Events
+
+#### Food
+
+**Incur GST**. While it may be possible to classify these events as non-commercial the research required is currently considered infeasible
+
+#### Classes
+
+* Under $X/half day, $Y/day: Non-commercial and **GST free**
+* Otherwise: **incurs GST**
+
+TODO: Justification
+
+#### Special interest events
+
+e.g. Arduino U
+
+#### Event space
+
+When any of the following apply our standard rates ($20pp/day) are non-commercial and are **GST free**:
+
+* Tool use (Our tools): e.g. Bayswater Women's Shed
+* Tool use (BYO): e.g. WAMod, Leathercraft
+* Under X people for Y hours: TODO: numbers
+
+TODO: Justification
+
+In all other circumstances our standard event space fees **incur GST** 
+
+### Casual usage
+
+TODO: Research
+
+### Rehearsal room
+
+Non-commercial supply, **GST free**
+
+TODO: Justification
 
 ### Equipment sales
 
@@ -51,7 +106,19 @@ Regardless of how obvious a classification is we cannot **claim** GST payments w
 * Meets non-commercial supply rules: **GST Free**
 * Otherwise: **Incurs GST**
 
-## Expenses
+### Bar sales
+
+As bar sales are sold with the intention of consumption on the premises sales **incur GST** *regardless of whether* the item would be GST free when sold at a supermarket.
+
+The exception is the following items which have been determined to be non-commercial and are **GST free**
+
+* TODO: items+justification
+
+## Expenses (money out)
+
+### Rent, Electricity, Internet, Waste
+
+**Incurs GST**
 
 ### Insurance
 
@@ -67,9 +134,13 @@ While most aspects of our insurance bills **incur GST** check for line items rel
 
 ### Food
 
-* Bar restocks: Typically **incur GST** with exceptions like fruit juice. Assume 
+* Bar restocks: Typically **incur GST** with exceptions like fruit juice. Rely on the breakdown on the receipt
 
 ### Digital subscriptions
 
-* When purchased from an Australian company: Refer to the invoice
-* When purchased from an overseas company: **GST Free** *regardless of a GST line item on the invoice*
+* When purchased from an Australian company or subsidiary: Refer to the invoice but commonly **incurs GST**. e.g. Meetup, TidyHQ, Web in a Box, Amazon Web Services
+* When purchased from a random overseas company: **GST Free** *regardless of a GST line item on the invoice* e.g.
+
+### Bond, Workshop Balances
+
+**BAS excluded** when returned to an attendee, treat using other categories when "spent"

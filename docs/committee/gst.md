@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T10:19:37.343Z
+date: 2026-11-18T10:22:36.024Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -95,7 +95,7 @@ Australian Taxation Office
 
 #### Quality/nature of supply
 
-#### Size, quantity, or duration fo supply
+#### Size, quantity, or duration of supply
 
 #### Condition of supply
 

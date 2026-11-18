@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T13:04:35.915Z
+date: 2026-11-18T15:19:23.810Z
 tags: restricted-committee, gst
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -51,9 +51,7 @@ Regardless of how obvious a classification is we cannot **claim** GST payments w
 
 ### Membership
 
-**GST Free** due to being a non-commercial supply
-
-TODO: Justification
+**GST Free** due to being a non-commercial supply ([justification](/docs/committee/gst/non-commercial/membership))
 
 ### Donations
 
@@ -78,7 +76,7 @@ TODO: Justification
 * Under $X/half day, $Y/day: Non-commercial and **GST free**
 * Otherwise: **incurs GST**
 
-TODO: Justification
+TODO: Market research and justification when it next comes up
 
 #### Special interest events
 

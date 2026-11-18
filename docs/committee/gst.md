@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T07:51:15.646Z
+date: 2026-11-18T08:00:04.759Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -34,9 +34,9 @@ Transactions fall into one of four categories
 
 ### Non-commercial supply
 
-Some supplies that would otherwise incur GST can be treated as GST free if they are determined to be a non-commerical supply.
+Some supplies that would otherwise incur GST can be treated as GST free if they are determined to be a non-commerical supply. For a supply to be non-commercial it needs to be less than 75% of the cost of supply (nothing we currently do) or less than 50% of the market value of the supply. In order to determine the market value of a supply we typically rely on one of two tests:
 
-TODO: Tests
+* 
 
 ## Ambiguity
 

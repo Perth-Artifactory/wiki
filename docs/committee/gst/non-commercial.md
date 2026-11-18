@@ -2,11 +2,16 @@
 title: Non-commerical supplies
 description: 
 published: true
-date: 2026-11-18T12:08:19.542Z
+date: 2026-11-18T12:12:11.171Z
 tags: restricted-committee
 editor: markdown
 dateCreated: 2026-11-18T12:08:19.542Z
 ---
+
+> This document has been prepared by a non tax professional for internal use. It has not been reviewed by a Registered BAS/Tax Agent.
+>
+> The contents of this page are specific to the structure of Perth Artifactory Inc. They deliberately omit considerations that do not apply to our specific situation and cannot be meaingfully applied to another organisation.
+{.is-warning}
 
 Some supplies that would otherwise incur GST can be treated as GST free if they are determined to be a non-commerical supply. For a supply to be non-commercial it needs to be less than 75% of the cost of supply[^1] (pretty much nothing we currently do) or less than 50% of the market value of the supply[^2] provided by for-profit organisations[^7]. In order to determine the market value of a supply we rely on one of three successive[^6] tests:
 

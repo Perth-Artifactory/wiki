@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-19T05:04:11.160Z
+date: 2026-11-19T05:11:46.078Z
 tags: restricted-committee, gst
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -76,7 +76,7 @@ Regardless of how obvious a classification is we cannot **claim** GST payments w
 * Under $X/half day, $Y/day: Non-commercial and **GST free**
 * Otherwise: **incurs GST**
 
-TODO: Market research and justification when it next comes up
+TODO: Market research and justification when it next comes up - our classes are priced absurdly below market rate
 
 #### Special interest events
 
@@ -111,7 +111,7 @@ Non-commercial supply, **GST free** ([Justification](/docs/committee/gst/non-com
 
 ### Bar sales
 
-As bar sales are sold with the intention of consumption on the premises sales **incur GST** *regardless of whether* the item would be GST free when sold at a supermarket.
+As bar sales are sold with the intention of consumption on the premises sales **incur GST** *regardless* of whether the item would be GST free when sold at a supermarket.
 
 The exception is the following items which have been determined to be non-commercial and are **GST free**
 

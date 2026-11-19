@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-19T04:25:01.841Z
+date: 2026-11-19T05:04:11.160Z
 tags: restricted-committee, gst
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -101,9 +101,7 @@ TODO: Research
 
 ### Rehearsal room
 
-Non-commercial supply, **GST free**
-
-TODO: Justification
+Non-commercial supply, **GST free** ([Justification](/docs/committee/gst/non-commercial/rehearsal))
 
 ### Equipment sales
 

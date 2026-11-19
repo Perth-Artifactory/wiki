@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-18T15:19:23.810Z
+date: 2026-11-19T04:25:01.841Z
 tags: restricted-committee, gst
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -86,15 +86,14 @@ TODO: Classification and justification
 
 #### Event space
 
-When any of the following apply our standard rates ($20pp/day) are non-commercial and are **GST free**:
+In most circumstances our standard rates ($20pp/day) are non-commercial and are **GST free**:
 
-* Tool use (Our tools): e.g. Bayswater Women's Shed
-* Tool use (BYO): e.g. WAMod, Leathercraft
-* Under X people for Y hours: TODO: numbers
+When onboarding a new event [determine and document the market value](/docs/committee/gst/non-commercial/event-space)
 
-TODO: Justification
+Existing:
 
-In all other circumstances our standard event space fees **incur GST** 
+* Western Leathercraft ✅
+* WAMod ✅
 
 ### Casual usage
 
@@ -156,6 +155,8 @@ While most aspects of our insurance bills **incur GST** check for line items rel
 ### Food
 
 * Bar restocks: Typically **incur GST** with exceptions like fruit juice. Rely on the breakdown on the receipt
+* Kitchen restocks: GST will depend on the individual supply, rely on the receipt.
+* Food events: Typically **GST free**, most receipts provided do not meet the requirements for a tax receipt regardless.
 
 ### Digital subscriptions
 

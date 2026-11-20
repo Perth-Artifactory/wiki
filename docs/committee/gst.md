@@ -2,7 +2,7 @@
 title: GST determinations
 description: 
 published: true
-date: 2026-11-19T05:11:46.078Z
+date: 2026-11-20T10:24:01.548Z
 tags: restricted-committee, gst
 editor: markdown
 dateCreated: 2026-11-18T06:18:35.173Z
@@ -52,6 +52,8 @@ Regardless of how obvious a classification is we cannot **claim** GST payments w
 ### Membership
 
 **GST Free** due to being a non-commercial supply ([justification](/docs/committee/gst/non-commercial/membership))
+
+Money transferred for a sponsored membership funded by donations is  **BAS excluded** because there is no meaningful consideration for the supply.
 
 ### Donations
 

@@ -2,7 +2,7 @@
 title: Membership
 description: 
 published: true
-date: 2026-11-18T15:09:48.483Z
+date: 2026-11-20T10:17:20.803Z
 tags: restricted-committee, gst
 editor: markdown
 dateCreated: 2026-11-18T14:23:58.419Z
@@ -30,7 +30,7 @@ We work on a month-to-month basis whereas some operators are week-to-week. As pe
 
 ## Condition of supply
 
-Comparisons were restricted to operators that provide **unlimited** 24/7 access. Options where access was 24/7 but limited to a certain number of visits are a meaningful difference in condition of supply and were excluded. When quantifying a variance in the same supply (See: CBD coworking scaling) a conservative estimate of three visits a week were used. (More visits would benefit the Artifactory due to supplementary costs)
+Comparisons were restricted to operators that provide **unlimited** 24/7 access. Options where access was 24/7 but limited to a certain number of visits are a meaningful difference in condition of supply that cannot be meaingfully adjusted for and were excluded. When quantifying a variance in the same supply (See: CBD coworking scaling) a conservative estimate of three visits a week were used. (More visits would benefit the Artifactory due to supplementary costs)
 
 ---
 
